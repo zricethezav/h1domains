@@ -21,6 +21,7 @@ scope_query = """
 
 def hackerone_to_list():
     domains = []
+    open_scope_domains = []
     page = 1
     with requests.Session() as session:
         while True:
@@ -48,12 +49,16 @@ def hackerone_to_list():
                 print resp['handle']
                 for e in scope_resp['data']['team']['structured_scopes']['edges']:
                     if e['node']['asset_type'] == 'URL':
-                        domains.append(e['node']['asset_identifier'])
-
-    return domains
+                        domain = e['node']['asset_identifier']
+                        if domain[0] == '*':
+                            open_scope_domains.append(domain[2:])
+                        domains.append(domain)
+    return domains, open_scope_domains
 
 
 if __name__ == "__main__":
-    domains = hackerone_to_list()
+    domains, open_scope_domains = hackerone_to_list()
     with open('domains.txt', 'w') as f:
         f.write('\n'.join(domains))
+    with open('domains_open.txt', 'w') as f:
+        f.write('\n'.join(open_scope_domains))
