@@ -41,7 +41,7 @@ def hackerone_to_list():
                     program=program['url']),
                     headers={'Accept': 'application/json'})
                 if r.status_code != 200:
-                    print 'unable to retreive %s' % program['name']
+                    print('unable to retreive %s', program['name'])
                     continue
 
                 resp = json.loads(r.text)
@@ -51,7 +51,7 @@ def hackerone_to_list():
                                  data=query,
                                  headers={'content-type': 'application/json'})
                 scope_resp = json.loads(r.text)
-                print resp['handle']
+                print(resp['handle'])
 
                 for e in scope_resp['data']['team']['structured_scopes']['edges']:
                     if e['node']['asset_type'] == 'URL' and e['node']['max_severity']  != 'none':

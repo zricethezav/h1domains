@@ -70,6 +70,7 @@ tmall.com
 taobao.com
 alicdn.com
 aliexpress.com
+bitmex.com
 duckduckgo.com
 staging-airtableblocks.com
 staging.airtable.com
@@ -166,7 +167,15 @@ twimg.com
 pscp.tv
 periscope.tv
 urbandictionary.net
+urbandictionary.biz
 urbandictionary.com
+urbandictionary.org
+udimg.com
+urbandictionary.blog
+urbanup.com
+ud.wtf
+urbandictionary.store
+urban.domains
 pandao.ru
 lootdog.io
 delivery-club.ru
