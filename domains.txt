@@ -231,8 +231,8 @@ https://github.com/tronprotocol/wallet-cli
 *.liberapay.org
 *.liberapay.com
 app.passit.io
-www.quantopian.com
 *.dynoquant.com
+www.quantopian.com
 blog.quantopian.com
 *.quantshack.com
 *.marcus.co.uk
