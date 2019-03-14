@@ -1,3 +1,10 @@
+https://blog.creditkarma.com/
+https://help.creditkarma.com
+https://api.creditkarma.com
+https://tax.creditkarma.com
+https://*.creditkarma.com
+https://www.creditkarma.ca
+https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
 dashboard.omise.co
@@ -609,10 +616,6 @@ images.coinbase.com
 ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
-slackb.com
-status.slack.com
-api.slack.com
-slack.com
 slackb.com
 status.slack.com
 api.slack.com

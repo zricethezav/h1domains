@@ -1,3 +1,10 @@
+https://blog.creditkarma.com/
+https://help.creditkarma.com
+https://api.creditkarma.com
+https://tax.creditkarma.com
+https://*.creditkarma.com
+https://www.creditkarma.ca
+https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
 castoredc.com
 www.castoredc.com
@@ -962,10 +969,6 @@ ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
 concrete5.marketplace.addon
-slackb.com
-status.slack.com
-api.slack.com
-slack.com
 slackb.com
 status.slack.com
 api.slack.com
