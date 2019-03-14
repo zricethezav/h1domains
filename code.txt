@@ -4,12 +4,11 @@ com.amazonaws
 com.twitter
 org.springframework
 foo
-https://github.com/icon-project/earlgrey
-https://github.com/icon-project/icon-commons
-https://github.com/icon-project/governance
-https://github.com/icon-project/icon-rpc-server
-https://github.com/icon-project/loopchain
 https://github.com/icon-project/icon-service
+https://github.com/icon-project/loopchain
+https://github.com/icon-project/earlgrey
+https://github.com/icon-project/icon-rpc-server
+https://github.com/icon-project/icon-commons
 github.com
 https://github.com/omisego
 https://svn.filezilla-project.org/svn/libfilezilla/trunk

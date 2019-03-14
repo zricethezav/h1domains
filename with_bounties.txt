@@ -1,3 +1,4 @@
+https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
 dashboard.omise.co
 offsite.omise.co
@@ -167,6 +168,7 @@ insights.newrelic.com
 discuss.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
+*.deliveroo-data-test.io
 *.deliveroo.net
 deliveroo.co.uk
 *.deliveroo.com
@@ -175,7 +177,6 @@ deliveroo.com.sg
 deliveroo.be
 deliveroo.ae
 deliveroo.it
-*.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
 deliveroo.nl
@@ -229,12 +230,12 @@ https://secure.showmax.com
 https://www.showmax.com
 https://api.showmax.com
 myynti.lahitapiolarahoitus.fi
+verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 yrityspalvelu.tapiola.fi
 viestinta.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 www.lahitapiolarahoitus.fi
 *.semrush.com
 www.goodhire.com
@@ -510,13 +511,13 @@ vimeo.com/api
 vimeopro.com
 vimeo.com/ondemand
 *.cloud.vimeo.com
-*.flocktory.com
-*.qiwi.com
-*.qiwi.me
 *.sovest.ru
 *.rapida.ru
-*.contact-sys.com
+*.flocktory.com
 *.rocketbank.ru
+*.contact-sys.com
+*.qiwi.com
+*.qiwi.me
 eobot.com
 onboarding.greenhouse.io
 app.greenhouse.io
