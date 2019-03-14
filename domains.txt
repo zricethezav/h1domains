@@ -640,12 +640,12 @@ planet.wordpress.org
 api.wordpress.org
 *.buddypress.org,bbpress.org,profiles.wordpress.org
 mercantile.wordpress.org
+codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 munin-*.wordpress.org
 wordpressfoundation.org
-irclogs.wordpress.org
-codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 *.wordpress.net
 lists.wordpress.org
+irclogs.wordpress.org
 patches.rockstargames.com
 support.rockstargames.com
 prod.cloud.rockstargames.com

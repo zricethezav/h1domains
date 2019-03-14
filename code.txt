@@ -236,11 +236,11 @@ https://github.com/WeblateOrg/website
 https://github.com/WeblateOrg/docker
 https://github.com/WeblateOrg/wlc
 https://github.com/WeblateOrg/weblate
+Official WordPress plugins
 BuddyPress Core
 Gutenberg
 GlotPress
 WP-CLI
-Official WordPress plugins
 WordPress Core
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 BBPress Core
