@@ -6,13 +6,6 @@ https://*.creditkarma.com
 https://www.creditkarma.ca
 https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
-castoredc.com
-www.castoredc.com
-pentest.castorsms.com
-pentest.castoredc.com
-forms.castoredc.com
-*.myconsent.nl
-workshop.castoredc.com
 https://github.com/icon-project/icon-service
 dashboard.omise.co
 offsite.omise.co
@@ -113,7 +106,6 @@ fanduel.design
 *.betterscience.org
 *.fuzzing-project.org
 *.hboeck.de
-*.smule.com
 *.flickr.com
 operator.casper.com
 bedpost.casper.com
@@ -988,6 +980,7 @@ https://github.com/notepad-plus-plus/notepad-plus-plus.git
 apply.opentech.fund
 www.opentech.fund
 sandbox.opentech.fund
+*.smule.com
 www.fig.co
 *.ycombinator.com
 blog.ycombinator.com
