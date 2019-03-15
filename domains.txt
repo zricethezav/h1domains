@@ -915,6 +915,7 @@ emx.mail.ru
 mxs.mail.ru
 smtp.mail.ru
 imap.mail.ru
+*.delivery-club.ru
 pop.mail.ru
 account.mail.ru
 *.pandao.ru
@@ -922,7 +923,6 @@ e.mail.ru
 *.lootdog.io
 mail.ru
 touch.mail.ru
-*.delivery-club.ru
 light.mail.ru
 tel.mail.ru
 ideas.mail.ru
