@@ -128,8 +128,8 @@ https://github.com/tronprotocol/java-tron
 https://github.com/tronprotocol/wallet-cli
 *.liberapay.org
 *.liberapay.com
-*.dynoquant.com
 www.quantopian.com
+*.dynoquant.com
 blog.quantopian.com
 *.quantshack.com
 help.steampowered.com
