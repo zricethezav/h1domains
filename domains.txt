@@ -1,3 +1,11 @@
+www.starlingbank.com
+https://developer.starlingbank.com/
+developer-sandbox.starlingbank.com
+https://demo.starlingbank.com/
+redash.starlingbank.com
+foo.starlingbank.com
+demo-api.possiblefs.com
+falcon.starlingbank.com
 https://blog.creditkarma.com/
 https://help.creditkarma.com
 https://api.creditkarma.com
@@ -7,12 +15,12 @@ https://www.creditkarma.ca
 https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
+go.exchange
 dashboard.omise.co
 offsite.omise.co
 link.omise.co
 api.omise.co
 vault.omise.co
-go.exchange
 www.omise.co
 lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
@@ -561,8 +569,8 @@ www.briefe.io
 briefe.io
 www.delight.im
 delight.im
-p.grabtaxi.com
 hub.grab.com
+p.grabtaxi.com
 drivegrab.com
 graballstars.com
 manage.grab.co

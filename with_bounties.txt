@@ -7,12 +7,12 @@ https://www.creditkarma.ca
 https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
+go.exchange
 dashboard.omise.co
 offsite.omise.co
 link.omise.co
 api.omise.co
 vault.omise.co
-go.exchange
 www.omise.co
 lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
@@ -298,8 +298,8 @@ cp-ng.pinion.gg
 t.unikrn.com
 pinion.gg
 bingo-api.unikrn.com
-p.grabtaxi.com
 hub.grab.com
+p.grabtaxi.com
 drivegrab.com
 graballstars.com
 manage.grab.co
