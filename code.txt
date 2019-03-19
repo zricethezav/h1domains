@@ -210,7 +210,6 @@ https://github.com/securitytxt/chrome-extension
 feed.alienvault.com
 update.alienvault.com
 https://github.com/AspenWeb
-https://github.com/bitwarden
 https://git.videolan.org/?p=ffmpeg.git
 https://github.com/the-tcpdump-group/tcpdump
 http://hg.code.sf.net/p/graphicsmagick/code/
