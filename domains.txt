@@ -969,10 +969,6 @@ ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
 concrete5.marketplace.addon
-slackb.com
-status.slack.com
-api.slack.com
-slack.com
 *.vpn.hackerone.net
 https://api.hackerone.com
 https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
