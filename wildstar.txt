@@ -134,8 +134,8 @@ buddypress.org,bbpress.org,profiles.wordpress.org
 wordpress.net
 brickftp.com
 quora.com
-github.net
 githubapp.com
+github.net
 zomato.com
 algolianet.com
 algolia.net
