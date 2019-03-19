@@ -86,10 +86,10 @@ goldmansachs.com
 honestdollar.com
 zendesk.com/connect*
 newrelic.com
-eu.newrelic.com
+infrastructure.newrelic.com
 blog.newrelic.com
 infrastructure-data.newrelic.com
-infrastructure.newrelic.com
+eu.newrelic.com
 deliveroo-data-test.io
 deliveroo.net
 deliveroo.com
