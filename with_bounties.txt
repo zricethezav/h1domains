@@ -596,13 +596,14 @@ irccloud.com
 team-irc.irccloud.com
 irc.irccloud.com
 blog.irccloud.com
+api.coinbase.com
+commerce.coinbase.com
 coinbase.com
 paradex.io
 prime.coinbase.com
 custody.coinbase.com
 pro.coinbase.com
 *.cbhq.net
-commerce.coinbase.com
 org.toshi.distribution
 api.coinbase.com
 buy.coinbase.com
