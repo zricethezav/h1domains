@@ -1,3 +1,8 @@
+https://www.tube8.com/
+https://jp.tube8.com/
+https://de.tube8.com/
+https://www.tube8.es/
+https://www.tube8.fr/
 www.starlingbank.com
 https://developer.starlingbank.com/
 developer-sandbox.starlingbank.com
@@ -70,6 +75,7 @@ proofit.com
 admin-panel.grammarly.com
 irbis.grammarly.com
 dox.grammarly.com
+account.grammarly.com
 capi.grammarly.com
 gnar.grammarly.com
 felog.grammarly.com
