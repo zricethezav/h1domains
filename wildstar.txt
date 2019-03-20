@@ -125,9 +125,9 @@ int.cuvva.co
 srv.cuvva.co
 ext.cuvva.co
 mapsmarker.com/*
+buddypress.org,bbpress.org,profiles.wordpress.org
 wordcamp.org
 wordpress.org
-buddypress.org,bbpress.org,profiles.wordpress.org
 wordpress.net
 brickftp.com
 quora.com
