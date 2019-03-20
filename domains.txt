@@ -55,11 +55,11 @@ u.magento.com
 magento.com
 repo.magento.com
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-*.lincoln.com
+*.quicklane.com
 *.ford.com
 *.omnicraftautoparts.com
 *.motorcraft.com
-*.quicklane.com
+*.lincoln.com
 hyatt.com
 world.hyatt.com
 www.hyatt.com
