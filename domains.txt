@@ -963,10 +963,6 @@ ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
 concrete5.marketplace.addon
-slackb.com
-status.slack.com
-api.slack.com
-slack.com
 *.vpn.hackerone.net
 https://api.hackerone.com
 https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
@@ -992,6 +988,7 @@ xs0.grepolis.com
 xs.grepolis.com
 xs.elvenar.com
 xs0.elvenar.com
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 apply.opentech.fund
 www.opentech.fund
