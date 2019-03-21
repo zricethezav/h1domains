@@ -42,7 +42,6 @@ shop.aaf.com
 *.aaf.cloud
 www.combine.aaf.com
 images.hackerone.aafusercontent.com
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
 account.magento.com
@@ -623,6 +622,10 @@ images.coinbase.com
 ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
+slackb.com
+status.slack.com
+api.slack.com
+slack.com
 *.vpn.hackerone.net
 https://api.hackerone.com
 https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
