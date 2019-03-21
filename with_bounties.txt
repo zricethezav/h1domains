@@ -199,9 +199,9 @@ deliveroo.ie
 deliveroo.hk
 www.deliveroo.co.uk
 sandbox.reverb.com
+vhx.tv
 embed.vhx.tv
 *.vhx.tv
-vhx.tv
 api.vhx.tv
 pos.swipely.com
 app.upserve.com

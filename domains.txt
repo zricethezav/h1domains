@@ -328,9 +328,9 @@ jamiewebgbelqfno.onion
 jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion
 jamieweb.net
 sandbox.reverb.com
+vhx.tv
 embed.vhx.tv
 *.vhx.tv
-vhx.tv
 api.vhx.tv
 support.mycrypto.com
 legacy.mycrypto.com
