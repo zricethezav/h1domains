@@ -1,3 +1,6 @@
+igpayment.com
+innogames.com
+innogames.de
 hackerone.aaf.com
 aafusercontent.com
 aaf.com
@@ -177,8 +180,6 @@ pandao.ru
 lootdog.io
 irccloud-cdn.com
 irccloud.com
-cbhq.net
-commerce.coinbase.com
 vpn.hackerone.net
 innogames.com
 innogames.de

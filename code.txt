@@ -11,6 +11,8 @@ https://github.com/icon-project/icon-rpc-server
 https://github.com/icon-project/icon-commons
 github.com
 https://github.com/omisego
+https://svn.filezilla-project.org/svn/libfilezilla/trunk
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://github.com/apache/kafka
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/aeternity/enoise
@@ -306,8 +308,6 @@ https://github.com/irccloud/android
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 owncloud/user_ldap
