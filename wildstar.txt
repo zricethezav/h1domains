@@ -21,12 +21,12 @@ hboeck.de
 flickr.com
 vivy.com
 xoom.com
+venmo.com
 braintree.tools
 braintree-api.com
 braintreepayments.com
 braintreegateway.com
 paypal.com
-venmo.com
 paydiant.com
 highwebmedia.com
 securegatewayaccess.com
