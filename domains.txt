@@ -428,14 +428,13 @@ https://edoverflow.keybase.pub/
 https://keybase.pub/edoverflow/
 https://edoverflow.com/
 https://austinheap.com/projects/wordpress-security-txt/
-myynti.lahitapiolarahoitus.fi
 verkkopalvelu.tapiola.fi
+myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 www.lahitapiola.fi
-www.tapiola.fi
 yrityspalvelu.tapiola.fi
+www.tapiola.fi
 viestinta.lahitapiola.fi
-www.lahitapiolarahoitus.fi
 *.semrush.com
 *.berush.com
 *.labs-semrush.com

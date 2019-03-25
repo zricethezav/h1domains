@@ -251,14 +251,13 @@ blog.crowdstrike.com
 https://secure.showmax.com
 https://www.showmax.com
 https://api.showmax.com
-myynti.lahitapiolarahoitus.fi
 verkkopalvelu.tapiola.fi
+myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 www.lahitapiola.fi
-www.tapiola.fi
 yrityspalvelu.tapiola.fi
+www.tapiola.fi
 viestinta.lahitapiola.fi
-www.lahitapiolarahoitus.fi
 *.semrush.com
 www.goodhire.com
 api.goodhire.com
