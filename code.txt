@@ -15,7 +15,6 @@ https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://github.com/apache/kafka
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
-https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/aeternity/enoise
 http://github.com/aeternity/epoch
 https://plugins.matomo.org/developer/innocraft
@@ -309,6 +308,7 @@ https://github.com/irccloud/android
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
+https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 owncloud/user_ldap
 owncloud/customgroups

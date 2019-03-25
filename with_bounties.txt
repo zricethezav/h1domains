@@ -61,7 +61,6 @@ u.magento.com
 magento.com
 repo.magento.com
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-https://github.com/notepad-plus-plus/notepad-plus-plus.git
 hyatt.com
 world.hyatt.com
 www.hyatt.com
@@ -646,6 +645,7 @@ https://*.hackerone-ext-content.com
 https://ctf.hacker101.com
 https://*.hackerone-user-content.com/
 https://hackerone-attachments.s3.amazonaws.com/
+https://github.com/notepad-plus-plus/notepad-plus-plus.git
 apply.opentech.fund
 www.opentech.fund
 sandbox.opentech.fund
