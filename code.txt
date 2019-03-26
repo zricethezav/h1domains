@@ -1,5 +1,6 @@
-https://github.com/UMAprotocol/protocol/tree/master/contracts
+https://github.com/UMAprotocol/protocol/blob/master/README.md
 https://github.com/UMAprotocol/protocol/tree/master/sponsor-dapp
+https://github.com/UMAprotocol/protocol/tree/master/contracts
 https://github.com/UMAprotocol/protocol/blob/master/README.md
 Java Component in search.maven.org
 Java component NOT in search.maven.org
@@ -102,16 +103,16 @@ https://github.com/vanilla/addons
 https://github.com/nimiq-network/blue-app-nimiq
 https://github.com/nimiq-network/core/tree/master/src
 https://github.com/dhui/passhash
-exceljs
-extend
-augustine
 html-pages
+augustine
 bracket-template
-mcstatic
 localhost-now
-open
-sql
+mcstatic
 public
+open
+exceljs
+sql
+extend
 win-spawn
 flintcms
 libnmap
@@ -152,10 +153,10 @@ jQuery
 node-tar
 pdf-officegen
 is-my-json-valid
+defaults-deep
+crud-file-server
 assign-deep
 merge-deep
-crud-file-server
-defaults-deep
 zombie
 bower
 dot
@@ -193,15 +194,15 @@ simple-server
 typeorm
 node-srv
 angular-http-server
+simplehttpserver
 general-file-server
 anywhere
-simplehttpserver
-metascrapper
 hekto
+metascrapper
 626
 superstatic
+hoek
 lodash
-https-proxy-agent
 https://github.com/johnbillion/wp-crontrol
 https://github.com/johnbillion/query-monitor
 https://github.com/johnbillion/user-switching
