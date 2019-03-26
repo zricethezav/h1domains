@@ -1,3 +1,6 @@
+https://github.com/UMAprotocol/protocol/tree/master/contracts
+https://github.com/UMAprotocol/protocol/tree/master/sponsor-dapp
+https://github.com/UMAprotocol/protocol/blob/master/README.md
 Java Component in search.maven.org
 Java component NOT in search.maven.org
 com.amazonaws
