@@ -103,12 +103,12 @@ exceljs
 extend
 augustine
 html-pages
-localhost-now
 bracket-template
-public
 mcstatic
+localhost-now
 open
 sql
+public
 win-spawn
 flintcms
 libnmap
