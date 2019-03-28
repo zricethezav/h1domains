@@ -652,6 +652,7 @@ www.parrotsec.org
 www.test.com
 api.spotify.com
 *.soundtrap.com
+*.spotify.net
 *.spotify.com
 test.spotify.com
 *.corp.cuvva.co

@@ -121,6 +121,7 @@ grabtaxi.com
 icq.com
 icq.net
 soundtrap.com
+spotify.net
 spotify.com
 corp.cuvva.co
 vendor.cuvva.co

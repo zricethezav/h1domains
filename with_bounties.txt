@@ -387,6 +387,7 @@ imap.mail.ru
 ru.mail.mailapp
 api.spotify.com
 *.soundtrap.com
+*.spotify.net
 *.spotify.com
 test.spotify.com
 ws1.dashlane.com
