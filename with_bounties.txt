@@ -385,9 +385,9 @@ e.mail.ru
 cloud.mail.ru
 imap.mail.ru
 ru.mail.mailapp
+api.spotify.com
 *.soundtrap.com
 *.spotify.com
-api.spotify.com
 test.spotify.com
 ws1.dashlane.com
 www.dashlane.com
