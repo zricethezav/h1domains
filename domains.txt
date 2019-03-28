@@ -651,10 +651,11 @@ ru.mail.mailapp
 www.parrotsec.org
 www.test.com
 *.spotify.com
-*.soundtrap.com
-api.spotify.com
-*.spotify.net
 *.spotifyforbrands.com
+*.spotify.net
+*.soundtrap.com
+*.loudr.com
+api.spotify.com
 test.spotify.com
 *.corp.cuvva.co
 admin.corp.cuvva.co

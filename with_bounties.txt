@@ -386,10 +386,11 @@ cloud.mail.ru
 imap.mail.ru
 ru.mail.mailapp
 *.spotify.com
-*.soundtrap.com
-api.spotify.com
-*.spotify.net
 *.spotifyforbrands.com
+*.spotify.net
+*.soundtrap.com
+*.loudr.com
+api.spotify.com
 test.spotify.com
 ws1.dashlane.com
 www.dashlane.com
