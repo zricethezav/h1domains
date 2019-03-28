@@ -120,9 +120,10 @@ grab.co
 grabtaxi.com
 icq.com
 icq.net
+spotify.com
 soundtrap.com
 spotify.net
-spotify.com
+spotifyforbrands.com
 corp.cuvva.co
 vendor.cuvva.co
 sys.cuvva.co

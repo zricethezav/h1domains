@@ -650,10 +650,11 @@ imap.mail.ru
 ru.mail.mailapp
 www.parrotsec.org
 www.test.com
-api.spotify.com
-*.soundtrap.com
-*.spotify.net
 *.spotify.com
+*.soundtrap.com
+api.spotify.com
+*.spotify.net
+*.spotifyforbrands.com
 test.spotify.com
 *.corp.cuvva.co
 admin.corp.cuvva.co
