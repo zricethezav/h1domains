@@ -619,6 +619,7 @@ mxs.mail.ru
 smtp.mail.ru
 imap.mail.ru
 cloud.mail.ru
+*.delivery-club.ru
 pop.mail.ru
 account.mail.ru
 *.pandao.ru
@@ -629,7 +630,6 @@ touch.mail.ru
 light.mail.ru
 tel.mail.ru
 ideas.mail.ru
-*.delivery-club.ru
 auth.mail.ru
 o2.mail.ru
 *.irccloud-cdn.com
