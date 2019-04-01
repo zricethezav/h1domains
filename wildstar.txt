@@ -78,12 +78,12 @@ liberapay.org
 liberapay.com
 dynoquant.com
 quantshack.com
+goldmansachs.com
 marcus.co.uk
+honestdollar.com
 marcus.com
 gs.com
 goldman.com
-goldmansachs.com
-honestdollar.com
 zendesk.com/connect*
 newrelic.com
 infrastructure.newrelic.com

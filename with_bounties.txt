@@ -574,11 +574,12 @@ vimeo.com/ondemand
 *.qiwi.com
 *.qiwi.me
 eobot.com
-onboarding.greenhouse.io
+jss.greenhouse.io
 app.greenhouse.io
-boards.greenhouse.io
 support.greenhouse.io
+onboarding.greenhouse.io
 api.greenhouse.io
+boards.greenhouse.io
 www.greenhouse.io
 io.greenhouse.events
 stage.wepayapi.com
