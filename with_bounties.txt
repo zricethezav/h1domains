@@ -421,9 +421,9 @@ prod.conductor.ros.rockstargames.com
 prod.telemetry.ros.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
-https://uae.souq.com
-https://sell.souq.com
 https://deals.souq.com
+https://sell.souq.com
+https://saudi.souq.com
 *.brickftp.com
 app.brickftp.com
 *.quora.com
@@ -665,6 +665,7 @@ slackb.com
 status.slack.com
 api.slack.com
 slack.com
+api-secure.sports.yahoo.com
 *.vpn.hackerone.net
 https://api.hackerone.com
 https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
