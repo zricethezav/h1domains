@@ -335,6 +335,7 @@ cp-ng.pinion.gg
 t.unikrn.com
 pinion.gg
 bingo-api.unikrn.com
+graballstars.com
 drivegrab.com
 xtramile.grabpay.com
 *.myteksi.com
@@ -347,11 +348,10 @@ p.grabtaxi.com
 gamma.grab.co
 drive.grab.co
 manage.grab.co
-graballstars.com
+*.grabtaxi.com
 mos.grabpay.com
 grab.careers
 *.grab.co
-*.grabtaxi.com
 com.grab.food.dax
 com.grab.shuttleplus
 com.grabtaxi.cycle.adr
