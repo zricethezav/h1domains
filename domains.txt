@@ -1,3 +1,15 @@
+*b2b.trustpilot.com
+*signup.business.trustpilot.com
+*widget.trustpilot.com
+*locale.trustpilot.com
+*www.trustpilot.com
+*invitations-api.trustpilot.com
+*consumer-auth.trustpilot.com
+*authenticate.trustpilot.com
+*api.trustpilot.com
+*share.trustpilot.com
+*emailsignature.trustpilot.com
+*business.trustpilot.com
 www.lob.com
 arcade.lob.com
 usps-sftp.lob.com

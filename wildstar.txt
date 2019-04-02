@@ -1,3 +1,15 @@
+2b.trustpilot.com
+ignup.business.trustpilot.com
+idget.trustpilot.com
+ocale.trustpilot.com
+ww.trustpilot.com
+nvitations-api.trustpilot.com
+onsumer-auth.trustpilot.com
+uthenticate.trustpilot.com
+pi.trustpilot.com
+hare.trustpilot.com
+mailsignature.trustpilot.com
+usiness.trustpilot.com
 innogames.com
 igpayment.com
 innogames.de
