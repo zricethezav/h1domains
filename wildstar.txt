@@ -194,11 +194,13 @@ urban.domains
 pandao.ru
 lootdog.io
 delivery-club.ru
-irccloud-cdn.com
-irccloud.com
 cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
+hackerone.aaf.com
+aafusercontent.com
+aaf.com
+aaf.cloud
 smule.com
 ycombinator.com
 booztx.com
