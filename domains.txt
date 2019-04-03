@@ -89,19 +89,6 @@ buyer-prod.postmates.com
 about.postmates.com
 support.postmates.com
 postmates.com/developer
-api.platform.aaf.com
-personnel.hackerone.aaf.com
-*.hackerone.aaf.com
-images.hackerone.aafusercontent.com
-api.platform.hackerone.aaf.com
-hackerone.aaf.com
-aaf.com
-shop.aaf.com
-*.aafusercontent.com
-*.aaf.com
-*.aaf.cloud
-www.combine.aaf.com
-images.hackerone.aafusercontent.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
@@ -489,6 +476,7 @@ feed.alienvault.com
 *.alienvault.com
 alienvault.com
 labs.alienvault.com
+infogram.com
 www.goodhire.com
 api.goodhire.com
 *.goodhire.com
