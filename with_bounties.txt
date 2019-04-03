@@ -650,6 +650,14 @@ tel.mail.ru
 health.mail.ru
 *.delivery-club.ru
 auth.mail.ru
+*.irccloud-cdn.com
+api.irccloud.com
+www.irccloud.com
+irccloud.com
+*.irccloud.com
+team-irc.irccloud.com
+irc.irccloud.com
+blog.irccloud.com
 api.coinbase.com
 commerce.coinbase.com
 coinbase.com

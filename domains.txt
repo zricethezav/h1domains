@@ -489,7 +489,6 @@ feed.alienvault.com
 *.alienvault.com
 alienvault.com
 labs.alienvault.com
-infogram.com
 www.goodhire.com
 api.goodhire.com
 *.goodhire.com
@@ -992,6 +991,14 @@ auth.mail.ru
 love.mail.ru
 ok.ru
 icq.com
+*.irccloud-cdn.com
+api.irccloud.com
+www.irccloud.com
+irccloud.com
+*.irccloud.com
+team-irc.irccloud.com
+irc.irccloud.com
+blog.irccloud.com
 api.coinbase.com
 commerce.coinbase.com
 coinbase.com
