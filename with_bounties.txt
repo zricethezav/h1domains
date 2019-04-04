@@ -459,9 +459,9 @@ https://laptop-updates.brave.com/latest/debian64
 https://github.com/brave/browser-ios
 sandbox.open-xchange.com
 dav-sandbox.open-xchange.com
-https://download.nextcloud.com
 https://updates.nextcloud.com
 https://customerupdates.nextcloud.com
+https://download.nextcloud.com
 https://github.com/pigeonhole/core
 https://moneybirdstorage.com
 https://moneybird.com
