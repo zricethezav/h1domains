@@ -143,9 +143,9 @@ www.avito.ru
 fdbox.net
 *.fanduel.com
 fanduel.design
+*.hboeck.de
 *.betterscience.org
 *.fuzzing-project.org
-*.hboeck.de
 *.flickr.com
 operator.casper.com
 bedpost.casper.com
