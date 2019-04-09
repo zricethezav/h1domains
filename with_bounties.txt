@@ -116,8 +116,8 @@ answers.grammarly.com
 blog.grammarly.com
 www.grammarly.com/edu
 www.grammarly.com/business
-api.buda.com
 www.buda.com
+api.buda.com
 fdbox.net
 *.fanduel.com
 fanduel.design
