@@ -53,12 +53,12 @@ https://jp.tube8.com/
 https://de.tube8.com/
 https://www.tube8.es/
 https://www.tube8.fr/
+https://www.creditkarma.ca
 https://blog.creditkarma.com/
 https://help.creditkarma.com
 https://api.creditkarma.com
 https://tax.creditkarma.com
 https://*.creditkarma.com
-https://www.creditkarma.ca
 https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service

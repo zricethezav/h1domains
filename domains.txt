@@ -66,12 +66,12 @@ redash.starlingbank.com
 foo.starlingbank.com
 demo-api.possiblefs.com
 falcon.starlingbank.com
+https://www.creditkarma.ca
 https://blog.creditkarma.com/
 https://help.creditkarma.com
 https://api.creditkarma.com
 https://tax.creditkarma.com
 https://*.creditkarma.com
-https://www.creditkarma.ca
 https://accounts.creditkarma.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
