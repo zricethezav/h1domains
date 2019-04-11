@@ -142,8 +142,6 @@ www.grammarly.com/business
 ratelimited.me
 theendlessweb.com
 *.theendlessweb.com
-www.buda.com
-api.buda.com
 m.avito.ru
 www.avito.ru
 fdbox.net
