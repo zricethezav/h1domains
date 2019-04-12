@@ -1,3 +1,6 @@
+*.pyopenssl.org
+*.cryptography.io
+https://ci.cryptography.io/
 *.capitalone.com
 secure.backblaze.com
 *.backblazeb2.com

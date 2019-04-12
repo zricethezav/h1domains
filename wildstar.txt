@@ -1,3 +1,5 @@
+pyopenssl.org
+cryptography.io
 capitalone.com
 backblazeb2.com
 2b.trustpilot.com
