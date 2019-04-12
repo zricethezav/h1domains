@@ -484,10 +484,6 @@ feed.alienvault.com
 alienvault.com
 labs.alienvault.com
 infogram.com
-www.goodhire.com
-api.goodhire.com
-*.goodhire.com
-app.goodhire.com
 themes.razerzone.com
 deals.razerzone.com
 store.razerzone.com

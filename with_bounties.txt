@@ -288,10 +288,6 @@ myynti.lahitapiolarahoitus.fi
 yrityspalvelu.tapiola.fi
 www.tapiola.fi
 *.semrush.com
-www.goodhire.com
-api.goodhire.com
-*.goodhire.com
-app.goodhire.com
 https://prometheus.fr.cloud.gov
 https://catalog.data.gov
 https://api.data.gov
