@@ -132,9 +132,9 @@ grab.co
 icq.com
 icq.net
 spotifyforbrands.com
-soundtrap.com
-spotify.com
 spotify.net
+spotify.com
+soundtrap.com
 loudr.com
 corp.cuvva.co
 vendor.cuvva.co

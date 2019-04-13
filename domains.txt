@@ -663,11 +663,11 @@ imap.mail.ru
 ru.mail.mailapp
 www.parrotsec.org
 www.test.com
-api.spotify.com
 *.spotifyforbrands.com
-*.soundtrap.com
-*.spotify.com
 *.spotify.net
+*.spotify.com
+*.soundtrap.com
+api.spotify.com
 *.loudr.com
 test.spotify.com
 *.corp.cuvva.co
@@ -987,8 +987,8 @@ ideas.mail.ru
 touch.mail.ru
 pop.mail.ru
 love.mail.ru
-icq.com
 ok.ru
+icq.com
 *.irccloud.com
 api.irccloud.com
 www.irccloud.com
