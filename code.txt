@@ -142,6 +142,8 @@ just-extend
 noble
 express-useragent
 servey
+handlebars
+gatsby-remark-images-contentful
 kramed
 smart-extend
 zlib-browserify
@@ -205,8 +207,6 @@ hekto
 metascrapper
 626
 superstatic
-hoek
-lodash
 https://github.com/johnbillion/wp-crontrol
 https://github.com/johnbillion/query-monitor
 https://github.com/johnbillion/user-switching
