@@ -522,11 +522,11 @@ django.aspen.io
 flask.aspen.io
 pando.aspen.io
 core.aspen.io
+bitwarden.com
 api.bitwarden.com
 identity.bitwarden.com
 vault.bitwarden.com
 help.bitwarden.com
-bitwarden.com
 https://prometheus.fr.cloud.gov
 https://catalog.data.gov
 https://api.data.gov
