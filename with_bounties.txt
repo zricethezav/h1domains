@@ -81,10 +81,10 @@ support.postmates.com
 postmates.com/developer
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 marketplace.magento.com
-magentocommerce.com
 account.magento.com
-magentolive.com
+magentocommerce.com
 imagine.magento.com
+magentolive.com
 u.magento.com
 magento.com
 repo.magento.com
