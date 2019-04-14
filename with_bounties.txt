@@ -272,8 +272,8 @@ demo.plaid.com
 *.vanillacommunities.com
 api.electroneum.com
 my.electroneum.com
-https://safe.nimiq.com/
 https://keyguard.nimiq.com/
+https://safe.nimiq.com/
 www.crowdstrike.com
 www.crowdstrike.org
 blog.crowdstrike.com
