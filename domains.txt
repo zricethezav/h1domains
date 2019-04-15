@@ -477,6 +477,13 @@ viestinta.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 yrityspalvelu.tapiola.fi
 www.tapiola.fi
+secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
+www.lahitapiola.fi
+viestinta.lahitapiola.fi
+myynti.lahitapiolarahoitus.fi
+yrityspalvelu.tapiola.fi
+www.tapiola.fi
 *.semrush.com
 *.berush.com
 *.labs-semrush.com
