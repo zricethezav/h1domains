@@ -290,13 +290,6 @@ viestinta.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 yrityspalvelu.tapiola.fi
 www.tapiola.fi
-secure.lahitapiola.fi
-verkkopalvelu.tapiola.fi
-www.lahitapiola.fi
-viestinta.lahitapiola.fi
-myynti.lahitapiolarahoitus.fi
-yrityspalvelu.tapiola.fi
-www.tapiola.fi
 *.semrush.com
 https://prometheus.fr.cloud.gov
 https://catalog.data.gov
