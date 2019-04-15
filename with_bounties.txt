@@ -1,3 +1,6 @@
+*.new.livestream.com
+www.livestream.com
+*.livestream.com
 secure.backblaze.com
 *.backblazeb2.com
 www.backblaze.com

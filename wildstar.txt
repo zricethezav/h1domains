@@ -1,3 +1,6 @@
+new.livestream.com
+livestream.com
+xilinx.com
 pyopenssl.org
 cryptography.io
 capitalone.com
