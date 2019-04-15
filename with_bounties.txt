@@ -489,9 +489,9 @@ gitlab.com
 registry.gitlab.com
 gitter.im
 customers.gitlab.com
+www.zomatobook.com
 *.zomato.com
 winecellar.zomato.com
-www.zomatobook.com
 www.zomato.com
 *.algolianet.com
 *.algolia.net
