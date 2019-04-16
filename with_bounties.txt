@@ -393,9 +393,9 @@ cloud.mail.ru
 imap.mail.ru
 ru.mail.mailapp
 *.spotifyforbrands.com
-*.spotify.net
 *.spotify.com
 *.soundtrap.com
+*.spotify.net
 api.spotify.com
 *.loudr.com
 test.spotify.com
