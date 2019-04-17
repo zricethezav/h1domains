@@ -1,3 +1,6 @@
+now.systems
+zeit.sh
+zeit.co
 teleatlas.com
 tomtomgroup.com
 tomtom.com
