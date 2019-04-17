@@ -103,11 +103,11 @@ marcus.com
 gs.com
 goldman.com
 zendesk.com/connect*
-newrelic.com
 infrastructure.newrelic.com
+newrelic.com
+eu.newrelic.com
 blog.newrelic.com
 infrastructure-data.newrelic.com
-eu.newrelic.com
 deliveroo-data-test.io
 deliveroo.net
 deliveroo.com
