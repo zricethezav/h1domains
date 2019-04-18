@@ -862,8 +862,8 @@ your-store.myshopify.com
 partners.shopify.com
 https://sell-on-amazon.shopifycloud.com
 https://exchangemarketplace.com/
-https://wholesale.shopifycloud.com/
 *.shopify.com
+https://wholesale.shopifycloud.com/
 google-shopping.shopifycloud.com
 https://apps.shopify.com/shopify-widgets
 https://apps.shopify.com/digital-downloads
