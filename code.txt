@@ -246,14 +246,14 @@ https://github.com/WeblateOrg/website
 https://github.com/WeblateOrg/docker
 https://github.com/WeblateOrg/wlc
 https://github.com/WeblateOrg/weblate
-Official WordPress plugins
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
-WordPress Core
 BuddyPress Core
-Gutenberg
-GlotPress
-BBPress Core
 WP-CLI
+WordPress Core
+BBPress Core
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+Official WordPress plugins
+GlotPress
+Gutenberg
 https://github.com/brave/browser-android-tabs
 https://github.com/brave-intl/bat-ledger
 https://github.com/brave-intl/bat-client

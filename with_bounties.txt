@@ -404,11 +404,11 @@ www.dashlane.com
 logs.dashlane.com
 app.dashlane.com
 console.dashlane.com
-api.wordpress.org
-*.buddypress.org,bbpress.org,profiles.wordpress.org
-*.wordcamp.org
 planet.wordpress.org
+*.wordcamp.org
+api.wordpress.org
 *.wordpress.org
+*.buddypress.org,bbpress.org,profiles.wordpress.org
 lists.wordpress.org
 wordpressfoundation.org
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
