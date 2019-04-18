@@ -51,7 +51,6 @@ MariaDB Server & Connectors - Remote Code Execution
 MariaDB Server & Connectors  - Denial of Service
 MariaDB Server & Connectors - Data corruption, exfiltration, disclosure
 https://github.com/MyEtherWallet/MEWconnect-Android/
-https://github.com/PIVX-Project/PIVX
 https://github.com/arkadiyt/aws_public_ips
 https://github.com/arkadiyt/bounty-targets
 https://github.com/arkadiyt/ssrf_filter
@@ -319,6 +318,7 @@ https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
+https://github.com/PIVX-Project/PIVX
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 owncloud/user_ldap
 owncloud/customgroups
