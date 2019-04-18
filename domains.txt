@@ -344,12 +344,12 @@ learn.newrelic.com
 rpm.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
+deliveroo.com.sg
 *.deliveroo-data-test.io
 *.deliveroo.net
 deliveroo.co.uk
 *.deliveroo.com
 deliveroo.fr
-deliveroo.com.sg
 deliveroo.be
 deliveroo.ae
 deliveroo.it
@@ -365,13 +365,13 @@ careers.deliveroo.*
 *test*.deliveroo.*
 *dev*.deliveroo.*
 fs1.deliveroo.co.uk
+email-assets.deliveroo.co.uk
 *demo*.deliveroo.*
 cdn*.deliveroo.*
 foodscene.deliveroo.*
 blog.deliveroo.*
 *staging*.deliveroo.*
 packaging.deliveroo.*
-email-assets.deliveroo.co.uk
 rider.deliveroo.*
 news.deliveroo.*
 terms.deliveroo.*
@@ -980,6 +980,8 @@ biz.mail.ru
 calendar.mail.ru
 m.mail.ru
 smtp.mail.ru
+e.mail.ru
+pop.mail.ru
 *.delivery-club.ru
 touch.mail.ru
 cloud.mail.ru
@@ -987,9 +989,7 @@ ideas.mail.ru
 health.mail.ru
 account.mail.ru
 swa.mail.ru
-e.mail.ru
 *.lootdog.io
-pop.mail.ru
 mail.ru
 light.mail.ru
 tel.mail.ru
