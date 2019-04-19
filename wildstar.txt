@@ -31,8 +31,8 @@ quicklane.com
 omnicraftautoparts.com
 motorcraft.com
 lincoln.com
-grammarly.net
 grammarly.io
+grammarly.net
 ratelimited.me
 theendlessweb.com
 fanduel.com
@@ -200,8 +200,8 @@ ud.wtf
 urbandictionary.store
 urban.domains
 delivery-club.ru
-lootdog.io
 pandao.ru
+lootdog.io
 irccloud.com
 irccloud-cdn.com
 cbhq.net
