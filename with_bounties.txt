@@ -709,7 +709,7 @@ www.booztlet.com
 m.boozt.com
 app.legalrobot.com
 www.legalrobot.com
-mobile.kiwi.ki
 portal.kiwi.ki
+mobile.kiwi.ki
 api.kiwi.ki
 https://marketplace.owncloud.com/
