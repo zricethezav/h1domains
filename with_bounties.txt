@@ -1,6 +1,6 @@
+*.livestream.com
 *.new.livestream.com
 www.livestream.com
-*.livestream.com
 secure.backblaze.com
 *.backblazeb2.com
 www.backblaze.com
@@ -621,13 +621,13 @@ urbandictionary.github.io
 *.urban.domains
 urbandictionary.com
 urbandictionary.net
-imap.mail.ru
-o2.mail.ru
+mail.ru
 auth.mail.ru
+o2.mail.ru
 tel.mail.ru
 account.mail.ru
 *.delivery-club.ru
-mail.ru
+biz.mail.ru
 *.pandao.ru
 e.mail.ru
 *.lootdog.io
@@ -638,10 +638,10 @@ health.mail.ru
 swa.mail.ru
 emx.mail.ru
 mxs.mail.ru
-biz.mail.ru
+imap.mail.ru
 calendar.mail.ru
-m.mail.ru
 smtp.mail.ru
+m.mail.ru
 cloud.mail.ru
 light.mail.ru
 *.irccloud.com
