@@ -200,8 +200,8 @@ ud.wtf
 urbandictionary.store
 urban.domains
 delivery-club.ru
-pandao.ru
 lootdog.io
+pandao.ru
 irccloud.com
 irccloud-cdn.com
 cbhq.net
