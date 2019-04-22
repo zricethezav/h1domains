@@ -269,8 +269,8 @@ dashboard.plaid.com
 my.plaid.com
 production.plaid.com
 demo.plaid.com
-*.vanillastaging.com
 *.vanillaforums.com
+*.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunities.com
 api.electroneum.com
