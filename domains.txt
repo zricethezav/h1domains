@@ -134,8 +134,8 @@ account.grammarly.com
 datareport.grammarly.com
 subscription.grammarly.com
 institution.grammarly.com
-dox.grammarly.com
 auth.grammarly.com
+dox.grammarly.com
 gnar.grammarly.com
 atool.proofit.grammarlyaws.com
 irbis.grammarly.com
