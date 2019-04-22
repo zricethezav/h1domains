@@ -928,13 +928,13 @@ vimeo.com/ondemand
 api.vimeo.com
 vimeo.com/api
 vimeopro.com
-*.sovest.ru
-*.rapida.ru
-*.flocktory.com
 *.rocketbank.ru
+*.flocktory.com
 *.contact-sys.com
-*.qiwi.com
+*.rapida.ru
+*.sovest.ru
 *.qiwi.me
+*.qiwi.com
 eobot.com
 jss.greenhouse.io
 app.greenhouse.io

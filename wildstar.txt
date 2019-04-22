@@ -177,13 +177,13 @@ airbnb.com
 muscache.com
 vimeo.com
 cloud.vimeo.com
-sovest.ru
-rapida.ru
-flocktory.com
 rocketbank.ru
+flocktory.com
 contact-sys.com
-qiwi.com
+rapida.ru
+sovest.ru
 qiwi.me
+qiwi.com
 vine.co
 twitter.com
 twimg.com
