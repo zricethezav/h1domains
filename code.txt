@@ -1,3 +1,4 @@
+https://github.com/curl/curl
 https://github.com/zeit/now-cli
 https://github.com/pyca/pyopenssl
 https://github.com/pyca/bcrypt
