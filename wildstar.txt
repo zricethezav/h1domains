@@ -6,7 +6,6 @@ tomtomgroup.com
 tomtom.com
 livestream.com
 new.livestream.com
-xilinx.com
 pyopenssl.org
 cryptography.io
 capitalone.com

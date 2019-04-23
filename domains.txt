@@ -17,7 +17,6 @@ api.tomtom.com
 *.livestream.com
 *.new.livestream.com
 www.livestream.com
-*.xilinx.com
 *.pyopenssl.org
 *.cryptography.io
 https://ci.cryptography.io/
