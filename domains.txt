@@ -1,3 +1,11 @@
+api.rezserver.com
+admin.rezserver.com
+www.airportrentalcars.com
+secure.rezserver.com
+www.priceline.com
+cruises.priceline.com
+reservations.rezserver.com
+www.bookingholdings.com
 *.now.systems
 *.zeit.sh
 *.zeit.co
@@ -392,6 +400,7 @@ vhx.tv
 embed.vhx.tv
 *.vhx.tv
 api.vhx.tv
+buy.mycrypto.com
 overflow.mycrypto.com
 cryptoscamdb.org
 etherscamdb.info
@@ -402,7 +411,6 @@ beta.mycrypto.com
 www.mycrypto.com
 legacy.mycrypto.com
 support.mycrypto.com
-buy.mycrypto.com
 about.mycrypto.com
 pos.swipely.com
 app.upserve.com
@@ -675,12 +683,13 @@ imap.mail.ru
 ru.mail.mailapp
 www.parrotsec.org
 www.test.com
-*.spotifyforbrands.com
-*.spotify.com
-*.soundtrap.com
-*.spotify.net
 api.spotify.com
+*.loudr.fm
+*.spotify.net
+*.soundtrap.com
+*.spotify.com
 *.loudr.com
+*.spotifyforbrands.com
 test.spotify.com
 *.corp.cuvva.co
 admin.corp.cuvva.co
