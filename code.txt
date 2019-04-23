@@ -319,7 +319,6 @@ https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
-https://github.com/PIVX-Project/PIVX
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 owncloud/user_ldap
 owncloud/customgroups
