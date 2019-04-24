@@ -207,10 +207,6 @@ irccloud.com
 cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
-hackerone.aaf.com
-aaf.cloud
-aaf.com
-aafusercontent.com
 smule.com
 ycombinator.com
 booztx.com
