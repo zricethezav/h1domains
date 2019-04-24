@@ -1080,7 +1080,6 @@ www.fig.co
 blog.ycombinator.com
 conference.startupschool.org
 www.ycombinator.com
-com.shopee.id
 api.thecoalition.com
 platform.thecoalition.com
 *.booztx.com
