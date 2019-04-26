@@ -1,3 +1,11 @@
+www.priceline.com
+secure.rezserver.com
+reservations.rezserver.com
+cruises.priceline.com
+www.airportrentalcars.com
+api.rezserver.com
+admin.rezserver.com
+www.bookingholdings.com
 *.livestream.com
 www.livestream.com
 *.new.livestream.com
