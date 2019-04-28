@@ -109,6 +109,7 @@ https://github.com/nimiq-network/core/tree/master/src
 https://github.com/nimiq-network/blue-app-nimiq
 https://github.com/nimiq/core-rs/
 https://github.com/dhui/passhash
+mqtt-packet
 express
 body-parser
 Other module
@@ -208,7 +209,6 @@ flintcms
 egg-scripts
 libnmap
 ps
-cached-path-relative
 https://github.com/johnbillion/user-switching
 https://github.com/johnbillion/query-monitor
 https://github.com/johnbillion/wp-crontrol
