@@ -93,6 +93,7 @@ bitmex.com
 duckduckgo.com
 staging-airtableblocks.com
 staging.airtable.com
+mediamarkt.at
 arkadiyt.com
 liberapay.com
 liberapay.org

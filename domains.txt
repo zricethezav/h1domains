@@ -290,6 +290,7 @@ www.mediamarkt.be
 www.mediamarkt.es
 www.mediamarkt.gr
 www.mediamarkt.pl
+*.mediamarkt.at
 *.arkadiyt.com
 https://www.impinj.com/secure-payment/
 https://github.com/tronprotocol/java-tron
