@@ -610,6 +610,14 @@ go.wepay.com
 stage-go.wepay.com
 stage.wepayapi.com
 www.wepayapi.com
+stage.wepay.com
+www.wepay.com
+stage-home.wepay.com
+home.wepay.com
+go.wepay.com
+stage-go.wepay.com
+stage.wepayapi.com
+www.wepayapi.com
 *.twitter.com
 *.vine.co
 *.periscope.tv
