@@ -107,7 +107,7 @@ https://github.com/vanilla/vanilla/
 https://github.com/vanilla/community
 https://github.com/vanilla/addons
 https://github.com/nimiq-network/core/tree/master/src
-https://github.com/nimiq-network/blue-app-nimiq
+https://github.com/nimiq/ledger-app-nimiq
 https://github.com/nimiq/core-rs/
 https://github.com/dhui/passhash
 mqtt-packet
