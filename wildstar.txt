@@ -10,7 +10,6 @@ pyopenssl.org
 cryptography.io
 capitalone.com
 backblazeb2.com
-2b.trustpilot.com
 ignup.business.trustpilot.com
 idget.trustpilot.com
 ocale.trustpilot.com
@@ -19,6 +18,7 @@ nvitations-api.trustpilot.com
 onsumer-auth.trustpilot.com
 uthenticate.trustpilot.com
 pi.trustpilot.com
+2b.trustpilot.com
 hare.trustpilot.com
 mailsignature.trustpilot.com
 usiness.trustpilot.com
@@ -132,12 +132,12 @@ labs-semrush.com
 alienvault.com
 login.gov
 login.gov
+grabpay.com
 myteksi.com
 myteksi.net
-grabpay.com
 grab.com
-grabtaxi.com
 grab.co
+grabtaxi.com
 icq.com
 icq.net
 loudr.fm
