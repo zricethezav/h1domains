@@ -71,6 +71,7 @@ https://api.creditkarma.com
 https://tax.creditkarma.com
 https://*.creditkarma.com
 https://accounts.creditkarma.com
+https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
 go.exchange
 dashboard.omise.co
@@ -696,7 +697,6 @@ https://*.hackerone-ext-content.com
 https://ctf.hacker101.com
 https://*.hackerone-user-content.com/
 https://hackerone-attachments.s3.amazonaws.com/
-https://github.com/Evolveum/midpoint
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 apply.opentech.fund
 www.opentech.fund

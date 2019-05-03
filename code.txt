@@ -366,6 +366,7 @@ https://github.com/rails/rails
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 owncloud/user_ldap
+owncloud/core
 owncloud/customgroups
 owncloud/updater
 owncloud/gallery
@@ -375,7 +376,6 @@ owncloud/activity
 owncloud/richdocuments
 owncloud/guests
 owncloud/oauth2
-owncloud/core
-owncloud/tasks
 owncloud/contacts
+owncloud/tasks
 https://github.com/bwillis/versioncake
