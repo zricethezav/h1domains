@@ -1,6 +1,5 @@
 api.rezserver.com
 admin.rezserver.com
-www.airportrentalcars.com
 secure.rezserver.com
 www.priceline.com
 cruises.priceline.com
