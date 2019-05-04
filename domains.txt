@@ -130,9 +130,9 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 *.motorcraft.com
 *.lincoln.com
 www.hyatt.com
-hyatt.com
-world.hyatt.com
 assets.hyatt.com
+world.hyatt.com
+hyatt.com
 www.cfptime.org
 app.grammarly.com
 atool.proofit.grammarlyaws.com

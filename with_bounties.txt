@@ -100,9 +100,9 @@ magento.com
 repo.magento.com
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 www.hyatt.com
-hyatt.com
-world.hyatt.com
 assets.hyatt.com
+world.hyatt.com
+hyatt.com
 app.grammarly.com
 atool.proofit.grammarlyaws.com
 account.grammarly.com
