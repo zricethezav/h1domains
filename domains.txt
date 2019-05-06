@@ -496,11 +496,11 @@ www.tapiola.fi
 *.berush.com
 *.labs-semrush.com
 data.alienvault.com
+www.threatcrowd.org
 www.alienvault.com
 update.alienvault.com
-https://www.alienvault.com/products/usm-anywhere
-www.threatcrowd.org
 staging.alienvault.com
+https://www.alienvault.com/products/usm-anywhere
 ufodata.alienvault.com
 feed.alienvault.com
 *.alienvault.com
