@@ -683,10 +683,10 @@ ru.mail.mailapp
 www.parrotsec.org
 www.test.com
 api.spotify.com
-*.loudr.fm
+*.spotify.com
 *.spotify.net
 *.soundtrap.com
-*.spotify.com
+*.loudr.fm
 *.loudr.com
 *.spotifyforbrands.com
 test.spotify.com

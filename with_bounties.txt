@@ -400,10 +400,10 @@ cloud.mail.ru
 imap.mail.ru
 ru.mail.mailapp
 api.spotify.com
-*.loudr.fm
+*.spotify.com
 *.spotify.net
 *.soundtrap.com
-*.spotify.com
+*.loudr.fm
 *.loudr.com
 *.spotifyforbrands.com
 test.spotify.com
