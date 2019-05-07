@@ -203,13 +203,13 @@ www.crypto.com
 mco.crypto.com
 *.zendesk.com/connect*
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 rpm.newrelic.com
 rpm.newrelic.com/accounts/*/mobile
 discuss.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 blog.newrelic.com
-alerts.newrelic.com
 *.newrelic.com
 docs.newrelic.com
 support.newrelic.com
@@ -226,7 +226,7 @@ insights.eu.newrelic.com
 learn.newrelic.com
 *.blog.newrelic.com
 *.infrastructure-data.newrelic.com
-synthetics.newrelic.com
+alerts.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
 deliveroo.com.sg

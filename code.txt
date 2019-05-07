@@ -90,12 +90,12 @@ https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaincode-node
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaintool
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaincode-java
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-baseimage
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-go
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-node
+https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-go
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-java
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-py
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-rest
+https://gerrit.hyperledger.org/r/#/admin/projects/fabric-baseimage
 https://gitlab.com/jamieweb/results-whitelist
 https://gitlab.com/jamieweb/jw-config
 https://gitlab.com/jamieweb/jamieweb
