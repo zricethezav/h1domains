@@ -857,6 +857,8 @@ techniekbijdemarine.nl
 www.paspoortspel.nl
 www.wereldwijdactief.nl
 www.revive-adserver.com
+https://marketplace.testing.owncloud.com/
+https://marketplace.owncloud.com/
 www.coursera.org
 *.ok.ru
 ok.ru
@@ -1078,5 +1080,3 @@ www.legalrobot.com
 portal.kiwi.ki
 mobile.kiwi.ki
 api.kiwi.ki
-https://marketplace.testing.owncloud.com/
-https://marketplace.owncloud.com/

@@ -517,6 +517,7 @@ werkenbijdefensie.nl
 techniekbijdemarine.nl
 www.paspoortspel.nl
 www.wereldwijdactief.nl
+https://marketplace.owncloud.com/
 *.ok.ru
 ok.ru
 tamtam.chat
@@ -709,4 +710,3 @@ www.legalrobot.com
 portal.kiwi.ki
 mobile.kiwi.ki
 api.kiwi.ki
-https://marketplace.owncloud.com/
