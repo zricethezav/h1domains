@@ -686,8 +686,3 @@ images.coinbase.com
 ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
-slackb.com
-status.slack.com
-api.slack.com
-slack.com
-api-secure.sports.yahoo.com

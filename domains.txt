@@ -1044,8 +1044,3 @@ ws.coinbase.com
 www.gdax.com
 eio-feed.gdax.com
 concrete5.marketplace.addon
-slackb.com
-status.slack.com
-api.slack.com
-slack.com
-api-secure.sports.yahoo.com

@@ -375,4 +375,3 @@ https://github.com/irccloud/android
 https://github.com/irccloud/ios
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
-https://github.com/rails/rails
