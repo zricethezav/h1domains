@@ -262,77 +262,6 @@ https://github.com/securitytxt/*
 https://github.com/EdOverflow/*
 https://github.com/securitytxt/wordpress-security-txt-svn
 https://github.com/securitytxt/chrome-extension
-feed.alienvault.com
-update.alienvault.com
-https://github.com/AspenWeb
-https://github.com/bitwarden
-https://git.videolan.org/?p=ffmpeg.git
-https://github.com/the-tcpdump-group/tcpdump
-http://hg.code.sf.net/p/graphicsmagick/code/
-https://github.com/glennrp/libpng
-https://github.com/ImageMagick/ImageMagick
-https://github.com/the-tcpdump-group/libpcap
-https://git.libav.org/?p=libav.git;a=summary
-https://github.com/curl/curl
- https://github.com/18F/identity-sp-python
-https://github.com/18F/identity-sp-java
-https://github.com/18F/docker-ruby-ubuntu
-https://github.com/18F/federalist-builder
-https://github.com/18F/identity-sp-rails
-https://github.com/18F/federalist-proxy
-https://github.com/18F/federalist
-https://github.com/18F/federalist-docker-build
- https://github.com/18F/identity-idp
-https://github.com/18F/identity-sp-sinatra
-https://github.com/mailru/icqdesktop
-https://github.com/parrotsec
-https://developer.spotify.com/
-https://github.com/cuvva/docs
-https://github.com/WeblateOrg/website
-https://github.com/WeblateOrg/docker
-https://github.com/WeblateOrg/wlc
-https://github.com/WeblateOrg/weblate
-Official WordPress plugins
-Gutenberg
-GlotPress
-WP-CLI
-WordPress Core
-BBPress Core
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
-BuddyPress Core
-https://github.com/brave/brave-ios
-https://github.com/brave-intl/bat-go
-https://github.com/brave-intl/bat-ledger
-https://github.com/brave-intl/bat-client
-https://github.com/brave/vault-updater
-https://github.com/brave-intl/bat-balance
-https://github.com/brave-intl/publishers
-https://github.com/brave-intl/bat-publisher
-https://github.com/brave/browser-android-tabs
-https://github.com/rubygems/rubygems
-https://github.com/PowerDNS/pdns
-nextcloud/files_accesscontrol
-nextcloud/activity
-nextcloud/files_pdfviewer
-nextcloud/notifications
-nextcloud/server
-nextcloud/survey_client
-nextcloud/nextcloud_announcements
-nextcloud/serverinfo
-nextcloud/files_retention
-nextcloud/files_automatedtagging
-nextcloud/user_saml
-nextcloud/password_policy
-nextcloud/files_texteditor
-nextcloud/files_videplayer
-nextcloud/gallery
-nextcloud/updater
-nextcloud/firstrunwizard
-nextcloud/logreader
-nextcloud/spreed
-nextcloud/3rdparty
-https://github.com/dovecot/pigeonhole
-https://github.com/dovecot/core
 https://www.mapbox.com/ios-sdk/maps/overview/
 https://www.mapbox.com/android-docs/maps/overview/
 https://github.com/mapbox
@@ -375,3 +304,7 @@ https://github.com/irccloud/android
 https://github.com/irccloud/ios
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
+https://github.com/rails/rails
+https://github.com/notepad-plus-plus/notepad-plus-plus.git
+https://github.com/deconf/Google-Analytics-Dashboard-for-WP
+https://github.com/bwillis/versioncake
