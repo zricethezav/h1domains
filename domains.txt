@@ -107,11 +107,11 @@ vault.omise.co
 www.omise.co
 lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
+postmates.com
 partner.postmates.com
 fleet.postmates.com
-raster-static.postmates.com
-postmates.com
 buyer-prod.postmates.com
+raster-static.postmates.com
 about.postmates.com
 support.postmates.com
 postmates.com/developer
@@ -308,11 +308,11 @@ blog.quantopian.com
 *.marcus.com
 *.gs.com
 *.goldman.com
+partner.steamgames.com
 help.steampowered.com
 www.dota2.com
 store.steampowered.com
 steamcommunity.com
-partner.steamgames.com
 playartifact.com
 partner.steampowered.com
 www.counter-strike.net
@@ -321,8 +321,8 @@ support.steampowered.com
 api.steampowered.com
 www.valvesoftware.com
 developer.valvesoftware.com
-wiki.teamfortress.com
 storefront.steampowered.com
+wiki.teamfortress.com
 www.crypto.com
 mco.crypto.com
 *.zendesk.com/connect*
