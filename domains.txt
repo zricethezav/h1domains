@@ -173,9 +173,9 @@ fanduel.design
 *.betterscience.org
 *.fuzzing-project.org
 *.flickr.com
+www.casper.com
 operator.casper.com
 bedpost.casper.com
-www.casper.com
 *.vivy.com
 translation.vivy.com
 permissions.vivy.com

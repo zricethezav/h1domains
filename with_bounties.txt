@@ -136,9 +136,9 @@ fdbox.net
 *.fanduel.com
 fanduel.design
 *.flickr.com
+www.casper.com
 operator.casper.com
 bedpost.casper.com
-www.casper.com
 https://www.innocraft.cloud/
 *.xoom.com
 *.paypal.com
