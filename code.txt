@@ -28,11 +28,11 @@ https://github.com/apache/kafka
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/aeternity/enoise
 http://github.com/aeternity/epoch
+https://github.com/matomo-org/matomo
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
-https://github.com/matomo-org/matomo
-https://github.com/matomo-org
 https://github.com/innocraft/
+https://github.com/matomo-org
 https://gitlab.com/blockimmo-ch/blockimmo-contracts
 https://gitlab.com/blockimmo-ch/stx-contracts
 https://github.com/eslint/eslint
