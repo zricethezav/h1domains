@@ -133,7 +133,6 @@ knightjs
 takeapeek
 bruteser
 ponse
-node-red
 send
 samlify
 http-live-simulator
@@ -252,6 +251,7 @@ metascraper
 sexstatic
 grunt-serve
 statics-server
+node-red
 express-cart
 mqtt-packet
 https://github.com/johnbillion/wp-crontrol
