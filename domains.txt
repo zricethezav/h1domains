@@ -490,9 +490,9 @@ https://securitytxt.org/
 https://wewriteyour.report/
 https://git.edoverflow.com/
 https://austinheap.com/projects/wordpress-security-txt/
+www.lahitapiola.fi
 secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
-www.lahitapiola.fi
 viestinta.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 yrityspalvelu.tapiola.fi

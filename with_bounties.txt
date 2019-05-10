@@ -298,9 +298,9 @@ blog.crowdstrike.com
 https://secure.showmax.com
 https://www.showmax.com
 https://api.showmax.com
+www.lahitapiola.fi
 secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
-www.lahitapiola.fi
 viestinta.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 yrityspalvelu.tapiola.fi
