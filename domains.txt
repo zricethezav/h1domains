@@ -222,6 +222,8 @@ https://billingsupport.chaturbate.com
 *.securegatewayaccess.com
 https://secure.chaturbate.com
 *.ibm.com
+*.ucweb.com
+*.taobao.com
 *.alibaba.com
 *.aligames.com
 *.1688.com
@@ -241,7 +243,6 @@ https://secure.chaturbate.com
 *.autonavi.com
 *.shuqireader.com
 *.shuqi.com
-*.ucweb.com
 *.uc.cn
 *.xiami.com
 *.soku.com
@@ -257,7 +258,6 @@ https://secure.chaturbate.com
 *.alimama.com
 *.aliyun.com
 *.tmall.com
-*.taobao.com
 *.alicdn.com
 *.aliexpress.com
 www.bitmex.com

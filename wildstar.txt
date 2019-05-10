@@ -51,6 +51,8 @@ paydiant.com
 highwebmedia.com
 securegatewayaccess.com
 ibm.com
+ucweb.com
+taobao.com
 alibaba.com
 aligames.com
 1688.com
@@ -70,7 +72,6 @@ amap.com
 autonavi.com
 shuqireader.com
 shuqi.com
-ucweb.com
 uc.cn
 xiami.com
 soku.com
@@ -86,7 +87,6 @@ alibaba-inc.com
 alimama.com
 aliyun.com
 tmall.com
-taobao.com
 alicdn.com
 aliexpress.com
 bitmex.com
