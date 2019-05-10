@@ -713,7 +713,7 @@ www.dashlane.com
 logs.dashlane.com
 app.dashlane.com
 console.dashlane.com
-demo.weblate.org,hosted.weblate.org
+hosted.weblate.org
 hg.weblate.org
 *.wordpress.org
 planet.wordpress.org
