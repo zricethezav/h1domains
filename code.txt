@@ -1,3 +1,4 @@
+https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
 github.com/smartcontractkit/chainlink
 https://github.com/phpbb/phpbb
