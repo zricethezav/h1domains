@@ -118,8 +118,8 @@ deliveroo-data.io
 deliveroo-data.net
 est*.deliveroo.*
 ev*.deliveroo.*
-emo*.deliveroo.*
 taging*.deliveroo.*
+emo*.deliveroo.*
 vhx.tv
 upserve.com
 vanillaforums.com

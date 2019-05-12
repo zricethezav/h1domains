@@ -237,12 +237,12 @@ learn.newrelic.com
 alerts.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
+deliveroo.fr
 deliveroo.com.sg
 *.deliveroo-data-test.io
 *.deliveroo.net
 deliveroo.co.uk
 *.deliveroo.com
-deliveroo.fr
 deliveroo.be
 deliveroo.ae
 deliveroo.it
