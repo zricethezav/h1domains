@@ -502,9 +502,12 @@ partners.vendhq.com
 blog.vendhq.com
 www.lexus.com/*
 www.toyota.com/*
+blog.crowdstrike.com
+www.falcon-sandbox.com
+www.reverse.it
+www.hybrid-analysis.com
 www.crowdstrike.com
 www.crowdstrike.org
-blog.crowdstrike.com
 https://secure.showmax.com
 https://www.showmax.com
 https://api.showmax.com
