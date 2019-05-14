@@ -301,13 +301,13 @@ www.crowdstrike.org
 https://secure.showmax.com
 https://www.showmax.com
 https://api.showmax.com
+viestinta.lahitapiola.fi
 www.lahitapiola.fi
 secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
-viestinta.lahitapiola.fi
-myynti.lahitapiolarahoitus.fi
-yrityspalvelu.tapiola.fi
 www.tapiola.fi
+yrityspalvelu.tapiola.fi
+myynti.lahitapiolarahoitus.fi
 *.semrush.com
 https://prometheus.fr.cloud.gov
 https://catalog.data.gov

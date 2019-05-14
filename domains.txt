@@ -531,13 +531,13 @@ https://securitytxt.org/
 https://wewriteyour.report/
 https://git.edoverflow.com/
 https://austinheap.com/projects/wordpress-security-txt/
+viestinta.lahitapiola.fi
 www.lahitapiola.fi
 secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
-viestinta.lahitapiola.fi
-myynti.lahitapiolarahoitus.fi
-yrityspalvelu.tapiola.fi
 www.tapiola.fi
+yrityspalvelu.tapiola.fi
+myynti.lahitapiolarahoitus.fi
 *.semrush.com
 *.berush.com
 *.labs-semrush.com
