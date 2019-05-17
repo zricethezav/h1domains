@@ -9,10 +9,10 @@ www.priceline.com
 cruises.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
-*.livestream.com
-donations.livestream.com
-www.livestream.com
 *.new.livestream.com
+www.livestream.com
+donations.livestream.com
+*.livestream.com
 secure.backblaze.com
 *.backblazeb2.com
 www.backblaze.com

@@ -55,10 +55,10 @@ zeit-cdn.net
 *.tomtomgroup.com
 api.tomtom.com
 *.tomtom.com
-*.livestream.com
-donations.livestream.com
-www.livestream.com
 *.new.livestream.com
+www.livestream.com
+donations.livestream.com
+*.livestream.com
 *.pyopenssl.org
 *.cryptography.io
 https://ci.cryptography.io/
