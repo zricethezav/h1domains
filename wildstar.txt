@@ -185,11 +185,11 @@ rapida.ru
 sovest.ru
 qiwi.me
 qiwi.com
-vine.co
-twimg.com
-pscp.tv
 periscope.tv
 twitter.com
+twimg.com
+pscp.tv
+vine.co
 urbandictionary.net
 urbandictionary.biz
 urbandictionary.com

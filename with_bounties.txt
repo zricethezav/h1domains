@@ -621,13 +621,13 @@ stage-go.wepay.com
 stage-home.wepay.com
 go.wepay.com
 www.wepayapi.com
-*.vine.co
+*.periscope.tv
+*.twitter.com
 mopub.com
 gnip.com
 *.twimg.com
 *.pscp.tv
-*.periscope.tv
-*.twitter.com
+*.vine.co
 vine.co
 *.urbandictionary.net
 urbandictionary.github.io
