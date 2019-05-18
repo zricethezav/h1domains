@@ -906,9 +906,9 @@ www.revive-adserver.com
 https://marketplace.testing.owncloud.com/
 https://marketplace.owncloud.com/
 www.coursera.org
-*.ok.ru
-ok.ru
 tamtam.chat
+ok.ru
+*.ok.ru
 h1-your-domain.zendesk.com
 developer.zendesk.com
 www.zendesk.com
