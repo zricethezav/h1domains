@@ -435,8 +435,8 @@ lists.wordpress.org
 *.wordpress.net
 irclogs.wordpress.org
 munin-*.wordpress.org
-www.rockstargames.com
 support.rockstargames.com
+www.rockstargames.com
 prod.cloud.rockstargames.com
 patches.rockstargames.com
 media.rockstargames.com
