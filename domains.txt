@@ -1,3 +1,12 @@
+app.trint.com
+embed.trint.com
+media.trint.com
+editor-sessions.trint.com
+edit.trint.com
+api.trint.com
+core-api.trint.com
+upload.trint.com
+graphql2.trint.com
 ls-api.ecobee.com
 admin.ecobee.com
 api.ecobee.com
