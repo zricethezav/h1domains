@@ -370,17 +370,3 @@ owncloud/guests
 owncloud/oauth2
 owncloud/contacts
 owncloud/tasks
-https://github.com/qiwi
-https://github.com/WordPoints/
-https://github.com/WordPoints/wordpoints/
-github.com/urbandictionary
-https://profiles.wordpress.org/iandunn#content-plugins
-https://github.com/iandunn?tab=repositories
-https://github.com/irccloud/android
-https://github.com/irccloud/ios
-https://github.com/irccloud/irccloud-desktop
-https://github.com/concrete5/concrete5
-https://github.com/rails/rails
-https://github.com/notepad-plus-plus/notepad-plus-plus.git
-https://github.com/deconf/Google-Analytics-Dashboard-for-WP
-https://github.com/bwillis/versioncake
