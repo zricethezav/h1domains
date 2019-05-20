@@ -1,6 +1,6 @@
+https://ropsten.chain.link/
 https://kovan.chain.link/
 https://rinkeby.chain.link/
-https://ropsten.chain.link/
 https://chain.link/
 api.rezserver.com
 admin.rezserver.com
