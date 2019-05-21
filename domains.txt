@@ -359,8 +359,8 @@ blog.quantopian.com
 *.marcus.com
 *.gs.com
 *.goldman.com
-www.dota2.com
 steamcommunity.com
+www.dota2.com
 partner.steamgames.com
 help.steampowered.com
 store.steampowered.com

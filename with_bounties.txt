@@ -194,8 +194,8 @@ https://github.com/tronprotocol/wallet-cli
 www.quantopian.com
 blog.quantopian.com
 *.quantshack.com
-www.dota2.com
 steamcommunity.com
+www.dota2.com
 partner.steamgames.com
 help.steampowered.com
 store.steampowered.com
