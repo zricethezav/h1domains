@@ -45,10 +45,10 @@ developer.beta.ecobee.com
 schedulepilot.labs.ecobee.com
 beta.ecobee.com
 com.ecobee.athenamobile
-https://ropsten.chain.link/
-https://kovan.chain.link/
-https://rinkeby.chain.link/
 https://chain.link/
+https://rinkeby.chain.link/
+https://kovan.chain.link/
+https://ropsten.chain.link/
 api.rezserver.com
 admin.rezserver.com
 secure.rezserver.com
@@ -952,6 +952,7 @@ www.scan.me
 scan.snapchat.com
 spectacles.com
 *.ubnt.com
+*.ui.com
 community.ubnt.com
 forum-pt.ubnt.com
 store.ubnt.com
