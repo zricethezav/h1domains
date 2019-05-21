@@ -176,6 +176,7 @@ dot
 kill-port
 atob
 whereis
+statics-server
 webpack-bundle-analyzer
 finalhandler
 node.extend
@@ -255,7 +256,6 @@ react-marked-markdown
 metascraper
 sexstatic
 grunt-serve
-statics-server
 node-red
 mqtt-packet
 express-cart
