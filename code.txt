@@ -1,6 +1,7 @@
 https://github.com/squid-cache/squid
 https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
+https://github.com/smartcontractkit/chainlink/tree/master/evm/contracts
 github.com/smartcontractkit/chainlink
 https://github.com/phpbb/phpbb
 https://github.com/curl/curl
