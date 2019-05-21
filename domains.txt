@@ -522,13 +522,13 @@ https://www.showmax.com
 https://api.showmax.com
 api.recarga.com
 dashboard.rbk.money
+auth.rbk.money
 insales.rbkmoney.com
 checkout.rbk.money
-auth.rbk.money
 api.rbk.money
 rbkmoney.com
-atlas-mirror.rbkmoney.com
 welcome.rbk.money
+atlas-mirror.rbkmoney.com
 rbk.mn
 https://cryptojourney.com/
 http://doesfranshaveashell.com/
