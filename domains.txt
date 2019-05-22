@@ -790,9 +790,11 @@ socialclub.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 rockstarwarehouse.com
+https://deals.souq.com
+https://mobileapi.souq.com
 https://sell.souq.com
 https://saudi.souq.com
-https://deals.souq.com
+https://api.souq.com
 *.brickftp.com
 app.brickftp.com
 *.quora.com
