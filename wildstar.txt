@@ -22,8 +22,8 @@ uthenticate.trustpilot.com
 pi.trustpilot.com
 2b.trustpilot.com
 usiness.trustpilot.com
-innogames.de
 innogames.com
+innogames.de
 igpayment.com
 ford.com
 quicklane.com
