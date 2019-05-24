@@ -2,12 +2,12 @@ https://chain.link/
 https://rinkeby.chain.link/
 https://kovan.chain.link/
 https://ropsten.chain.link/
-api.rezserver.com
 admin.rezserver.com
 secure.rezserver.com
+api.rezserver.com
 www.priceline.com
-cruises.priceline.com
 reservations.rezserver.com
+cruises.priceline.com
 www.bookingholdings.com
 www.livestream.com
 *.livestream.com
@@ -211,6 +211,7 @@ www.crypto.com
 mco.crypto.com
 *.zendesk.com/connect*
 *.infrastructure.newrelic.com
+alerts.newrelic.com
 synthetics.newrelic.com
 rpm.newrelic.com
 rpm.newrelic.com/accounts/*/mobile
@@ -218,7 +219,6 @@ discuss.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 blog.newrelic.com
-*.newrelic.com
 docs.newrelic.com
 support.newrelic.com
 developer.newrelic.com
@@ -234,7 +234,7 @@ insights.eu.newrelic.com
 learn.newrelic.com
 *.blog.newrelic.com
 *.infrastructure-data.newrelic.com
-alerts.newrelic.com
+*.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
 deliveroo.fr
