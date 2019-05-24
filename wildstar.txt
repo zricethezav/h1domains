@@ -177,8 +177,8 @@ airbnb-aws.com
 atairbnb.com
 airbnbcitizen.com
 airbnb.com
-cloud.vimeo.com
 vimeo.com
+cloud.vimeo.com
 rocketbank.ru
 flocktory.com
 contact-sys.com

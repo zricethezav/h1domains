@@ -987,12 +987,12 @@ showcase.dropbox.com
 paper.dropbox.com
 dropboxforum.com
 com.dropbox.paper
+*.vimeo.com
 api.vimeo.com
 vimeopro.com
 vimeo.com/ondemand
 *.cloud.vimeo.com
 www.vimeo.com
-*.vimeo.com
 player.vimeo.com
 checkout.vimeo.com
 vimeo.com/api
