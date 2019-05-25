@@ -208,7 +208,6 @@ simple-server
 typeorm
 node-srv
 angular-http-server
-simplehttpserver
 general-file-server
 anywhere
 hekto
@@ -256,6 +255,7 @@ react-marked-markdown
 metascraper
 sexstatic
 grunt-serve
+simplehttpserver
 node-red
 express-cart
 mqtt-packet
