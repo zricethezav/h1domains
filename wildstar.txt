@@ -140,10 +140,10 @@ grab.co
 grabtaxi.com
 icq.com
 icq.net
-spotify.com
-spotify.net
 soundtrap.com
 loudr.fm
+spotify.net
+spotify.com
 loudr.com
 spotifyforbrands.com
 corp.cuvva.co

@@ -411,10 +411,10 @@ cloud.mail.ru
 imap.mail.ru
 ru.mail.mailapp
 api.spotify.com
-*.spotify.com
-*.spotify.net
 *.soundtrap.com
 *.loudr.fm
+*.spotify.net
+*.spotify.com
 *.loudr.com
 *.spotifyforbrands.com
 test.spotify.com
