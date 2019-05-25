@@ -181,10 +181,10 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 *.omnicraftautoparts.com
 *.motorcraft.com
 *.lincoln.com
-www.hyatt.com
-assets.hyatt.com
 world.hyatt.com
 hyatt.com
+assets.hyatt.com
+www.hyatt.com
 www.cfptime.org
 app.grammarly.com
 atool.proofit.grammarlyaws.com
