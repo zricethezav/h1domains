@@ -186,6 +186,7 @@ hyatt.com
 assets.hyatt.com
 www.hyatt.com
 www.cfptime.org
+proofit.com
 app.grammarly.com
 atool.proofit.grammarlyaws.com
 account.grammarly.com
@@ -203,7 +204,6 @@ datareport.grammarly.com
 irbis.grammarly.com
 admin-panel.grammarly.com
 *.grammarly.io
-proofit.com
 food.grammarly.io
 grammarly.ai
 dapi.grammarly.com
