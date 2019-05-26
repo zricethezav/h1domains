@@ -158,11 +158,11 @@ vault.omise.co
 www.omise.co
 lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
-postmates.com
-partner.postmates.com
-fleet.postmates.com
-buyer-prod.postmates.com
 raster-static.postmates.com
+fleet.postmates.com
+partner.postmates.com
+buyer-prod.postmates.com
+postmates.com
 about.postmates.com
 support.postmates.com
 postmates.com/developer
