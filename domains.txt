@@ -891,12 +891,12 @@ ws*.gitter.im
 api.gitter.im
 gitlab.com
 registry.gitlab.com
-www.zomatobook.com
-*.zomato.com
 winecellar.zomato.com
+*.zomato.com
+www.zomatobook.com
+community.zomato.com
 business-blog.zomato.com
 blog.zomato.com
-community.zomato.com
 www.zomato.com
 *.algolianet.com
 *.algolia.net
