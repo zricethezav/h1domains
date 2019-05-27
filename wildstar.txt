@@ -152,7 +152,6 @@ sys.cuvva.co
 int.cuvva.co
 srv.cuvva.co
 ext.cuvva.co
-mapsmarker.com/*
 buddypress.org,bbpress.org,profiles.wordpress.org
 wordcamp.org
 wordpress.org
@@ -211,4 +210,5 @@ commerce.coinbase.com
 vpn.hackerone.net
 smule.com
 ycombinator.com
+mapsmarker.com/*
 booztx.com

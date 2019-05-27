@@ -757,7 +757,6 @@ www.cuvva.com
 ops.corp.cuvva.co
 *.srv.cuvva.co
 *.ext.cuvva.co
-*.mapsmarker.com/*
 ws1.dashlane.com
 www.dashlane.com
 logs.dashlane.com
@@ -1129,6 +1128,7 @@ conference.startupschool.org
 www.ycombinator.com
 api.thecoalition.com
 platform.thecoalition.com
+*.mapsmarker.com/*
 *.booztx.com
 www.boozt.com
 www.booztlet.com
