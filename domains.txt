@@ -60,10 +60,10 @@ www.bookingholdings.com
 *.zeit.sh
 *.zeit.co
 zeit-cdn.net
-*.teleatlas.com
-*.tomtomgroup.com
 api.tomtom.com
 *.tomtom.com
+*.tomtomgroup.com
+*.teleatlas.com
 www.livestream.com
 *.livestream.com
 donations.livestream.com
