@@ -563,11 +563,12 @@ alienvault.com
 labs.alienvault.com
 infogram.com
 themes.razerzone.com
+deals.razerzone.com
+zvault.razerzone.com
 store.razerzone.com
 music.razerzone.com
 developer.razerzone.com
 mobileservices.razerzone.com
-deals.razerzone.com
 oauth2.razerzone.com
 www.razerzone.com
 insider.razerzone.com
@@ -589,7 +590,6 @@ bill.zvault.razerzone.com
 akmedia.zvault.razerzone.com
 downloads.razerzone.com
 dl.razerzone.com
-zvault.razerzone.com
 feedback.razerzone.com
 aspen.io
 django.aspen.io
@@ -1109,8 +1109,8 @@ https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
 *.vpn.hackerone.net
 https://api.hackerone.com
 https://hackerone.com
-https://www.hackerone.com
 https://errors.hackerone.net
+https://www.hackerone.com
 https://*.hackerone-ext-content.com
 https://ctf.hacker101.com
 https://*.hackerone-user-content.com/

@@ -705,8 +705,8 @@ https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
 *.vpn.hackerone.net
 https://api.hackerone.com
 https://hackerone.com
-https://www.hackerone.com
 https://errors.hackerone.net
+https://www.hackerone.com
 https://*.hackerone-ext-content.com
 https://ctf.hacker101.com
 https://*.hackerone-user-content.com/
