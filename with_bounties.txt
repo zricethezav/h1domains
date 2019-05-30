@@ -298,8 +298,8 @@ www.reverse.it
 www.hybrid-analysis.com
 www.crowdstrike.com
 www.crowdstrike.org
-https://secure.showmax.com
 https://www.showmax.com
+https://secure.showmax.com
 https://api.showmax.com
 viestinta.lahitapiola.fi
 www.lahitapiola.fi
