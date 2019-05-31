@@ -269,11 +269,11 @@ https://billingsupport.chaturbate.com
 *.securegatewayaccess.com
 https://secure.chaturbate.com
 *.ibm.com
+*.1688.com
 *.ucweb.com
 *.taobao.com
 *.alibaba.com
 *.aligames.com
-*.1688.com
 *.dayu.com
 *.shenjing.com
 *.alios.cn
