@@ -64,10 +64,10 @@ api.tomtom.com
 *.tomtom.com
 *.tomtomgroup.com
 *.teleatlas.com
-www.livestream.com
-*.livestream.com
-donations.livestream.com
 *.new.livestream.com
+*.livestream.com
+www.livestream.com
+donations.livestream.com
 *.pyopenssl.org
 *.cryptography.io
 https://ci.cryptography.io/

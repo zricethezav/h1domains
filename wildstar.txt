@@ -4,8 +4,8 @@ zeit.co
 tomtom.com
 tomtomgroup.com
 teleatlas.com
-livestream.com
 new.livestream.com
+livestream.com
 pyopenssl.org
 cryptography.io
 capitalone.com
