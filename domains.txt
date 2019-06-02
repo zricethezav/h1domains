@@ -68,8 +68,8 @@ api.tomtom.com
 *.livestream.com
 www.livestream.com
 donations.livestream.com
-*.pyopenssl.org
 *.cryptography.io
+*.pyopenssl.org
 https://ci.cryptography.io/
 *.capitalone.com
 secure.backblaze.com

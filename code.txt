@@ -7,9 +7,9 @@ https://github.com/phpbb/phpbb
 https://github.com/curl/curl
 https://github.com/zeit/now-cli
 https://github.com/pyca/pyopenssl
+https://github.com/pyca/cryptography
 https://github.com/pyca/bcrypt
 https://github.com/pyca/pynacl
-https://github.com/pyca/cryptography
 https://github.com/Backblaze/B2_Command_Line_Tool
 https://github.com/UMAprotocol/protocol/tree/master/sponsor-dapp
 https://github.com/UMAprotocol/protocol/tree/master/contracts
