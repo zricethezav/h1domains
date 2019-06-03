@@ -12,8 +12,7 @@ cryptography.io
 pyopenssl.org
 capitalone.com
 backblazeb2.com
-ww.trustpilot.com
-hare.trustpilot.com
+2b.trustpilot.com
 mailsignature.trustpilot.com
 ignup.business.trustpilot.com
 idget.trustpilot.com
@@ -22,7 +21,8 @@ nvitations-api.trustpilot.com
 onsumer-auth.trustpilot.com
 uthenticate.trustpilot.com
 pi.trustpilot.com
-2b.trustpilot.com
+hare.trustpilot.com
+ww.trustpilot.com
 usiness.trustpilot.com
 innogames.de
 igpayment.com
@@ -168,8 +168,8 @@ algolia.net
 binary.com
 ok.ru
 shopify.com
-ubnt.com
 ui.com
+ubnt.com
 byairbnb.com
 luxuryretreats.com
 withairbnb.com
