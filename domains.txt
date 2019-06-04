@@ -116,7 +116,9 @@ https://github.com/UMAprotocol/protocol/blob/master/README.md
 https://github.com/UMAprotocol/protocol/tree/master/contracts
 https://github.com/UMAprotocol/protocol/tree/master/sponsor-dapp
 https://github.com/UMAprotocol/protocol
+xs.forgeofempires.com
 xs1.grepolis.com
+xs.grepolis.com
 xs0.grepolis.com
 xs0.forgeofempires.com
 *.innogames.de
@@ -125,9 +127,7 @@ xs0.elvenar.com
 xs.elvenar.com
 *.igpayment.com
 xs1.forgeofempires.com
-xs.forgeofempires.com
 *.innogames.com
-xs.grepolis.com
 xs1.tribalwars.cash
 tribalwars.cash
 https://www.tube8.com/
