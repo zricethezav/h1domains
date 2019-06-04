@@ -13,6 +13,8 @@ pyopenssl.org
 capitalone.com
 backblazeb2.com
 2b.trustpilot.com
+ww.trustpilot.com
+hare.trustpilot.com
 mailsignature.trustpilot.com
 ignup.business.trustpilot.com
 idget.trustpilot.com
@@ -21,8 +23,6 @@ nvitations-api.trustpilot.com
 onsumer-auth.trustpilot.com
 uthenticate.trustpilot.com
 pi.trustpilot.com
-hare.trustpilot.com
-ww.trustpilot.com
 usiness.trustpilot.com
 innogames.de
 igpayment.com
