@@ -42,14 +42,14 @@ betterscience.org
 fuzzing-project.org
 flickr.com
 vivy.com
-xoom.com
+braintreepayments.com
 paypal.com
 venmo.com
 braintree.tools
 braintree-api.com
 braintreegateway.com
-braintreepayments.com
 paydiant.com
+xoom.com
 highwebmedia.com
 securegatewayaccess.com
 ibm.com
@@ -168,8 +168,8 @@ algolia.net
 binary.com
 ok.ru
 shopify.com
-ui.com
 ubnt.com
+ui.com
 byairbnb.com
 luxuryretreats.com
 withairbnb.com
