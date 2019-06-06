@@ -575,12 +575,12 @@ security.community.ui.com
 *.ubnt.com
 *.ui.com
 *.byairbnb.com
-*.luxuryretreats.com
+www.airbnb.com
 *.withairbnb.com
 *.muscache.com
 *.airbnb-aws.com
 *.atairbnb.com
-www.airbnb.com
+*.luxuryretreats.com
 support-api.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com

@@ -974,12 +974,12 @@ help.ubnt.com
 com.ubnt.plc
 translate.ubnt.com
 *.byairbnb.com
-*.luxuryretreats.com
+www.airbnb.com
 *.withairbnb.com
 *.muscache.com
 *.airbnb-aws.com
 *.atairbnb.com
-www.airbnb.com
+*.luxuryretreats.com
 support-api.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com

@@ -171,11 +171,11 @@ shopify.com
 ubnt.com
 ui.com
 byairbnb.com
-luxuryretreats.com
 withairbnb.com
 muscache.com
 airbnb-aws.com
 atairbnb.com
+luxuryretreats.com
 airbnbcitizen.com
 airbnb.com
 vimeo.com
