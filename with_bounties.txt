@@ -144,6 +144,7 @@ www.casper.com
 operator.casper.com
 bedpost.casper.com
 https://www.innocraft.cloud/
+*.paydiant.com
 scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
 decision.swiftfinancial.com
@@ -159,7 +160,6 @@ www.paypal-*.com
 py.pl
 paypal.me
 paypalobjects.com
-*.paydiant.com
 *.xoom.com
 https://blockimmo.ch/
 *.highwebmedia.com

@@ -42,13 +42,13 @@ betterscience.org
 fuzzing-project.org
 flickr.com
 vivy.com
+paydiant.com
 braintreepayments.com
 paypal.com
 venmo.com
 braintree.tools
 braintree-api.com
 braintreegateway.com
-paydiant.com
 xoom.com
 highwebmedia.com
 securegatewayaccess.com

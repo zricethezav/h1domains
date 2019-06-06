@@ -249,6 +249,7 @@ activity-timeline.vivy.com
 healthkit.vivy.com
 appointments.vivy.com
 https://www.innocraft.cloud/
+*.paydiant.com
 scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
 decision.swiftfinancial.com
@@ -264,7 +265,6 @@ www.paypal-*.com
 py.pl
 paypal.me
 paypalobjects.com
-*.paydiant.com
 *.xoom.com
 https://blockimmo.ch/
 jenkins.eslint.org
