@@ -24,9 +24,9 @@ onsumer-auth.trustpilot.com
 uthenticate.trustpilot.com
 pi.trustpilot.com
 usiness.trustpilot.com
+innogames.com
 innogames.de
 igpayment.com
-innogames.com
 ford.com
 quicklane.com
 omnicraftautoparts.com
@@ -140,8 +140,8 @@ grabpay.com
 myteksi.com
 grabtaxi.com
 grab.co
-icq.com
 icq.net
+icq.com
 spotifyforbrands.com
 loudr.com
 spotify.com
