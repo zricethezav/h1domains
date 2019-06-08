@@ -170,11 +170,11 @@ about.postmates.com
 support.postmates.com
 postmates.com/developer
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 account.magento.com
 imagine.magento.com
-repo.magento.com
-magentocommerce.com
 magentolive.com
 u.magento.com
 magento.com
@@ -387,7 +387,7 @@ www.crypto.com
 mco.crypto.com
 *.zendesk.com/connect*
 *.infrastructure.newrelic.com
-alerts.newrelic.com
+*.newrelic.com
 synthetics.newrelic.com
 rpm.newrelic.com
 rpm.newrelic.com/accounts/*/mobile
@@ -410,7 +410,7 @@ insights.eu.newrelic.com
 learn.newrelic.com
 *.blog.newrelic.com
 *.infrastructure-data.newrelic.com
-*.newrelic.com
+alerts.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
 deliveroo.fr

@@ -109,10 +109,10 @@ gs.com
 goldman.com
 zendesk.com/connect*
 infrastructure.newrelic.com
+newrelic.com
 eu.newrelic.com
 blog.newrelic.com
 infrastructure-data.newrelic.com
-newrelic.com
 deliveroo-data-test.io
 deliveroo.net
 deliveroo.com
