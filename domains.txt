@@ -749,10 +749,10 @@ www.test.com
 *.spotifyforbrands.com
 *.loudr.com
 api.spotify.com
+*.soundtrap.com
 *.spotify.com
 *.loudr.fm
 *.spotify.net
-*.soundtrap.com
 test.spotify.com
 *.corp.cuvva.co
 ops.cuvva.com

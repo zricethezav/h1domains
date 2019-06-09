@@ -417,10 +417,10 @@ ru.mail.mailapp
 *.spotifyforbrands.com
 *.loudr.com
 api.spotify.com
+*.soundtrap.com
 *.spotify.com
 *.loudr.fm
 *.spotify.net
-*.soundtrap.com
 test.spotify.com
 ws1.dashlane.com
 www.dashlane.com
