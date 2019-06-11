@@ -387,6 +387,8 @@ www.crypto.com
 mco.crypto.com
 *.zendesk.com/connect*
 *.infrastructure.newrelic.com
+login.newrelic.com
+alerts.newrelic.com
 *.newrelic.com
 synthetics.newrelic.com
 rpm.newrelic.com
@@ -400,7 +402,6 @@ support.newrelic.com
 developer.newrelic.com
 rpm.eu.newrelic.com/accounts/*/browser
 rpm.newrelic.com/accounts/*/browser
-login.newrelic.com
 *.eu.newrelic.com
 alerts.eu.newrelic.com
 rpm.eu.newrelic.com/accounts/*/mobile
@@ -410,7 +411,6 @@ insights.eu.newrelic.com
 learn.newrelic.com
 *.blog.newrelic.com
 *.infrastructure-data.newrelic.com
-alerts.newrelic.com
 https://bounty-node.rsk.co
 https://*.cobinhood.com
 deliveroo.co.uk
