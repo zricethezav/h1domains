@@ -143,7 +143,8 @@ www.casper.com
 operator.casper.com
 bedpost.casper.com
 https://www.innocraft.cloud/
-*.paydiant.com
+*.paypal.com
+paypal.me
 scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
 decision.swiftfinancial.com
@@ -151,14 +152,13 @@ partner.swiftfinancial.com
 prequal.swiftfinancial.com
 *.braintreepayments.com
 www.paypal-*.com
-*.paypal.com
 *.venmo.com
 *.braintree.tools
 *.braintree-api.com
 *.braintreegateway.com
 py.pl
-paypal.me
 paypalobjects.com
+*.paydiant.com
 *.xoom.com
 https://blockimmo.ch/
 *.highwebmedia.com
