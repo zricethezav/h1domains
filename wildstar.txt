@@ -168,8 +168,8 @@ algolia.net
 binary.com
 ok.ru
 shopify.com
-ubnt.com
 ui.com
+ubnt.com
 byairbnb.com
 withairbnb.com
 muscache.com

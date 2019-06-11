@@ -570,9 +570,9 @@ www.bitmoji.com
 spectacles.com
 www.scan.me
 scan.snapchat.com
-*.ubnt.com
-security.community.ui.com
 *.ui.com
+security.community.ui.com
+*.ubnt.com
 *.byairbnb.com
 www.airbnb.com
 *.withairbnb.com
