@@ -11,7 +11,7 @@ new.livestream.com
 livestream.com
 cryptography.io
 pyopenssl.org
-paribus.com
+paribus.co
 capitalone.com
 backblazeb2.com
 2b.trustpilot.com
