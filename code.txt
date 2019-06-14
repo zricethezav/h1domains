@@ -1,3 +1,5 @@
+https://github.com/solidusio/solidus_auth_devise
+https://github.com/solidusio/solidus
 https://github.com/squid-cache/squid
 https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
@@ -108,9 +110,9 @@ https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter
 https://github.com/JamieOnUbuntu/irc-drawing-bot
 https://github.com/nodejs/node
 https://github.com/plaid/link
+https://github.com/vanilla/addons
 https://github.com/vanilla/vanilla/
 https://github.com/vanilla/community
-https://github.com/vanilla/addons
 https://github.com/nimiq/core-rs/
 https://github.com/nimiq/core-js/tree/master/src
 https://github.com/nimiq/ledger-app-nimiq
@@ -293,8 +295,8 @@ https://github.com/mailru/icqdesktop
 https://github.com/parrotsec
 https://developer.spotify.com/
 https://github.com/cuvva/docs
-https://github.com/WeblateOrg/website
 https://github.com/WeblateOrg/docker
+https://github.com/WeblateOrg/website
 https://github.com/WeblateOrg/wlc
 https://github.com/WeblateOrg/weblate
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress

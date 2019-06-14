@@ -1,3 +1,4 @@
+uipath.com
 shieldox.ai
 shieldox.com
 now.systems
@@ -25,8 +26,8 @@ uthenticate.trustpilot.com
 pi.trustpilot.com
 usiness.trustpilot.com
 innogames.com
-innogames.de
 igpayment.com
+innogames.de
 ford.com
 quicklane.com
 omnicraftautoparts.com
@@ -124,10 +125,10 @@ taging*.deliveroo.*
 emo*.deliveroo.*
 vhx.tv
 upserve.com
+vanillacommunities.com
 vanillaforums.com
 vanillastaging.com
 vanilladevelopment.com
-vanillacommunities.com
 semrush.com
 berush.com
 labs-semrush.com
@@ -142,12 +143,12 @@ grabtaxi.com
 grab.co
 icq.net
 icq.com
-spotifyforbrands.com
 loudr.com
+spotifyforbrands.com
+spotify.net
 soundtrap.com
 spotify.com
 loudr.fm
-spotify.net
 corp.cuvva.co
 vendor.cuvva.co
 sys.cuvva.co
@@ -160,6 +161,7 @@ wordpress.org
 wordpress.net
 brickftp.com
 quora.com
+web-security-academy.net
 github.net
 githubapp.com
 zomato.com

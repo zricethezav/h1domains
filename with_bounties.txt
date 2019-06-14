@@ -60,11 +60,11 @@ xs1.tribalwars.cash
 xs.forgeofempires.com
 *.innogames.com
 xs0.forgeofempires.com
-*.innogames.de
 xs1.elvenar.com
 xs0.elvenar.com
 xs.elvenar.com
 *.igpayment.com
+*.innogames.de
 https://www.tube8.com/
 https://jp.tube8.com/
 https://de.tube8.com/
@@ -288,10 +288,10 @@ dashboard.plaid.com
 my.plaid.com
 production.plaid.com
 demo.plaid.com
+*.vanillacommunities.com
 *.vanillaforums.com
 *.vanillastaging.com
 *.vanilladevelopment.com
-*.vanillacommunities.com
 api.electroneum.com
 my.electroneum.com
 https://keyguard.nimiq.com/
@@ -414,13 +414,13 @@ e.mail.ru
 cloud.mail.ru
 imap.mail.ru
 ru.mail.mailapp
-*.spotifyforbrands.com
 *.loudr.com
+*.spotifyforbrands.com
+*.spotify.net
 api.spotify.com
 *.soundtrap.com
 *.spotify.com
 *.loudr.fm
-*.spotify.net
 test.spotify.com
 ws1.dashlane.com
 www.dashlane.com
@@ -463,6 +463,7 @@ nummus.robinhood.com
 robinhood.com
 api.robinhood.com
 portswigger.net
+*.web-security-academy.net
 www.starbucks.fr
 www.starbucks.com.br
 www.starbucks.co.uk
@@ -571,7 +572,6 @@ spectacles.com
 www.scan.me
 scan.snapchat.com
 *.ui.com
-security.community.ui.com
 *.ubnt.com
 *.byairbnb.com
 www.airbnb.com
