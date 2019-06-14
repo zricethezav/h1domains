@@ -75,6 +75,7 @@ www.livestream.com
 *.cryptography.io
 *.pyopenssl.org
 https://ci.cryptography.io/
+*.paribus.com
 *.capitalone.com
 secure.backblaze.com
 *.backblazeb2.com
