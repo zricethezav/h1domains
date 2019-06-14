@@ -674,14 +674,14 @@ http://micropurchase.18f.gov
 http://calc.gsa.gov
 http://analytics.usa.gov
 http://*.vote.gov
+news.unikrn.com
 crm.unikrn.com
 unikrn.com
+auth.unikrn.com
 connekt-api.unikrn.com
 jet-api.unikrn.com
 unikoingold.com
 auctionbot.unikrn.com
-news.unikrn.com
-auth.unikrn.com
 cp-ng.pinion.gg
 affiliates.unikrn.com
 bingo-api.unikrn.com
