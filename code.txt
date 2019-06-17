@@ -3,8 +3,6 @@ https://github.com/solidusio/solidus
 https://github.com/squid-cache/squid
 https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
-https://github.com/smartcontractkit/chainlink/tree/master/evm/contracts
-github.com/smartcontractkit/chainlink
 https://github.com/phpbb/phpbb
 https://github.com/curl/curl
 https://github.com/zeit/now-cli
@@ -12,6 +10,7 @@ https://github.com/pyca/pyopenssl
 https://github.com/pyca/cryptography
 https://github.com/pyca/bcrypt
 https://github.com/pyca/pynacl
+https://github.com/Backblaze/B2_Command_Line_Tool
 https://github.com/UMAprotocol/protocol/tree/master/sponsor-dapp
 https://github.com/UMAprotocol/protocol/tree/master/contracts
 https://github.com/UMAprotocol/protocol/blob/master/README.md
@@ -270,24 +269,3 @@ https://github.com/securitytxt/wordpress-security-txt-svn
 https://github.com/securitytxt/chrome-extension
 feed.alienvault.com
 update.alienvault.com
-https://github.com/AspenWeb
-https://github.com/bitwarden
-https://git.videolan.org/?p=ffmpeg.git
-https://github.com/the-tcpdump-group/tcpdump
-http://hg.code.sf.net/p/graphicsmagick/code/
-https://github.com/glennrp/libpng
-https://github.com/ImageMagick/ImageMagick
-https://github.com/the-tcpdump-group/libpcap
-https://git.libav.org/?p=libav.git;a=summary
-https://github.com/curl/curl
- https://github.com/18F/identity-sp-python
-https://github.com/18F/identity-sp-java
-https://github.com/18F/docker-ruby-ubuntu
-https://github.com/18F/federalist-builder
-https://github.com/18F/identity-sp-rails
-https://github.com/18F/federalist-proxy
-https://github.com/18F/federalist
-https://github.com/18F/federalist-docker-build
- https://github.com/18F/identity-idp
-https://github.com/18F/identity-sp-sinatra
-https://github.com/mailru/icqdesktop

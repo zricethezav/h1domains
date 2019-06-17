@@ -14,6 +14,7 @@ cryptography.io
 pyopenssl.org
 paribus.co
 capitalone.com
+backblazeb2.com
 2b.trustpilot.com
 ww.trustpilot.com
 hare.trustpilot.com
@@ -134,13 +135,3 @@ semrush.com
 berush.com
 labs-semrush.com
 alienvault.com
-login.gov
-login.gov
-myteksi.net
-grab.com
-grabpay.com
-myteksi.com
-grabtaxi.com
-grab.co
-icq.net
-icq.com
