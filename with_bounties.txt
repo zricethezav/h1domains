@@ -90,8 +90,8 @@ lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
 raster-static.postmates.com
 fleet.postmates.com
-partner.postmates.com
 buyer-prod.postmates.com
+partner.postmates.com
 postmates.com
 about.postmates.com
 support.postmates.com
@@ -291,16 +291,3 @@ demo.plaid.com
 *.vanillaforums.com
 *.vanillastaging.com
 *.vanilladevelopment.com
-api.electroneum.com
-my.electroneum.com
-https://keyguard.nimiq.com/
-https://safe.nimiq.com/
-blog.crowdstrike.com
-www.falcon-sandbox.com
-www.reverse.it
-www.hybrid-analysis.com
-www.crowdstrike.com
-www.crowdstrike.org
-https://www.showmax.com
-https://secure.showmax.com
-https://api.showmax.com
