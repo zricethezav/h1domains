@@ -162,5 +162,3 @@ wordcamp.org
 wordpress.org
 wordpress.net
 brickftp.com
-quora.com
-web-security-academy.net

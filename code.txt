@@ -307,35 +307,3 @@ GlotPress
 WP-CLI
 WordPress Core
 BBPress Core
-https://github.com/brave/brave-ios
-https://github.com/brave-intl/bat-go
-https://github.com/brave-intl/bat-ledger
-https://github.com/brave-intl/bat-client
-https://github.com/brave/vault-updater
-https://github.com/brave-intl/bat-balance
-https://github.com/brave-intl/publishers
-https://github.com/brave-intl/bat-publisher
-https://github.com/brave/browser-android-tabs
-https://github.com/rubygems/rubygems
-https://github.com/PowerDNS/pdns
-https://github.com/ruby/ruby
-nextcloud/updater
-nextcloud/logreader
-nextcloud/files_accesscontrol
-nextcloud/server
-nextcloud/3rdparty
-nextcloud/spreed
-nextcloud/survey_client
-nextcloud/nextcloud_announcements
-nextcloud/serverinfo
-nextcloud/files_retention
-nextcloud/files_automatedtagging
-nextcloud/user_saml
-nextcloud/password_policy
-nextcloud/notifications
-nextcloud/firstrunwizard
-nextcloud/gallery
-nextcloud/files_videplayer
-nextcloud/files_texteditor
-nextcloud/files_pdfviewer
-nextcloud/activity
