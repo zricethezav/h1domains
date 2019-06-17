@@ -291,7 +291,3 @@ demo.plaid.com
 *.vanillaforums.com
 *.vanillastaging.com
 *.vanilladevelopment.com
-api.electroneum.com
-my.electroneum.com
-https://keyguard.nimiq.com/
-https://safe.nimiq.com/

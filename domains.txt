@@ -8,6 +8,9 @@ www.collibra.com
 services.collibra.com
 hr.collibra.com
 *.uipath.com
+dashboard.shieldox.com
+*.shieldox.ai
+*.shieldox.com
 app.trint.com
 embed.trint.com
 media.trint.com
@@ -512,16 +515,3 @@ demo.plaid.com
 pages.vanillaforums.com
 library.vanillaforums.com
 blog.vanillaforums.com
-api.electroneum.com
-my.electroneum.com
-https://keyguard.nimiq.com/
-https://safe.nimiq.com/
-your-store.vendecommerce.com
-your-store.vendhq.com
-secure.vendhq.com
-developers.vendhq.com
-www.vendhq.com
-track.api.vendhq.com
-support.vendhq.com
-partners.vendhq.com
-blog.vendhq.com
