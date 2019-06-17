@@ -1,3 +1,7 @@
+https://chain.link/
+https://rinkeby.chain.link/
+https://kovan.chain.link/
+https://ropsten.chain.link/
 admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
@@ -86,8 +90,8 @@ lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
 raster-static.postmates.com
 fleet.postmates.com
-buyer-prod.postmates.com
 partner.postmates.com
+buyer-prod.postmates.com
 postmates.com
 about.postmates.com
 support.postmates.com
@@ -300,13 +304,3 @@ www.crowdstrike.org
 https://www.showmax.com
 https://secure.showmax.com
 https://api.showmax.com
-www.tapiola.fi
-ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-secure.lahitapiola.fi
-verkkopalvelu.tapiola.fi
-viestinta.lahitapiola.fi
-myynti.lahitapiolarahoitus.fi
-yrityspalvelu.tapiola.fi
-motorfnol.lahitapiola.fi
-*.semrush.com

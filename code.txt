@@ -3,9 +3,10 @@ https://github.com/solidusio/solidus
 https://github.com/squid-cache/squid
 https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
+https://github.com/smartcontractkit/chainlink/tree/master/evm/contracts
+github.com/smartcontractkit/chainlink
 https://github.com/phpbb/phpbb
 https://github.com/curl/curl
-https://github.com/zeit/now-cli
 https://github.com/pyca/pyopenssl
 https://github.com/pyca/cryptography
 https://github.com/pyca/bcrypt
@@ -259,13 +260,3 @@ node-red
 express-cart
 mqtt-packet
 markdown-pdf
-https://github.com/johnbillion/wp-crontrol
-https://github.com/johnbillion/query-monitor
-https://github.com/johnbillion/user-switching
-https://github.com/johnbillion/global-post-password
-https://github.com/securitytxt/*
-https://github.com/EdOverflow/*
-https://github.com/securitytxt/wordpress-security-txt-svn
-https://github.com/securitytxt/chrome-extension
-feed.alienvault.com
-update.alienvault.com
