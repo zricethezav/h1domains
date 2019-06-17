@@ -113,3 +113,6 @@ https://github.com/plaid/link
 https://github.com/vanilla/addons
 https://github.com/vanilla/vanilla/
 https://github.com/vanilla/community
+https://github.com/nimiq/core-rs/
+https://github.com/nimiq/core-js/tree/master/src
+https://github.com/nimiq/ledger-app-nimiq
