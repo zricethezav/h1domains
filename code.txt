@@ -63,7 +63,6 @@ https://github.com/MyEtherWallet/MEWconnect-Android/
 https://github.com/arkadiyt/aws_public_ips
 https://github.com/arkadiyt/bounty-targets
 https://github.com/arkadiyt/ssrf_filter
-https://gitlab.com/tezos/tezos
 https://github.com/AugurProject/augur-core
 https://github.com/AugurProject/augur-node
 https://github.com/AugurProject/augur-app
