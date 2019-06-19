@@ -147,10 +147,11 @@ icq.net
 icq.com
 loudr.com
 spotifyforbrands.com
-spotify.net
+gimletmedia.com
 soundtrap.com
 spotify.com
 loudr.fm
+spotify.net
 corp.cuvva.co
 vendor.cuvva.co
 sys.cuvva.co

@@ -418,11 +418,12 @@ imap.mail.ru
 ru.mail.mailapp
 *.loudr.com
 *.spotifyforbrands.com
-*.spotify.net
+*.gimletmedia.com
 api.spotify.com
 *.soundtrap.com
 *.spotify.com
 *.loudr.fm
+*.spotify.net
 test.spotify.com
 ws1.dashlane.com
 www.dashlane.com

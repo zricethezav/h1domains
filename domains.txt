@@ -761,11 +761,12 @@ www.parrotsec.org
 www.test.com
 *.loudr.com
 *.spotifyforbrands.com
-*.spotify.net
+*.gimletmedia.com
 api.spotify.com
 *.soundtrap.com
 *.spotify.com
 *.loudr.fm
+*.spotify.net
 test.spotify.com
 *.corp.cuvva.co
 ops.cuvva.com
