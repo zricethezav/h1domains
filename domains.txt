@@ -1,3 +1,4 @@
+*.upgrade.com
 support.collibra.com
 passport.collibra.com
 *.collibra.com
