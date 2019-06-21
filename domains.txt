@@ -1,13 +1,4 @@
 *.upgrade.com
-support.collibra.com
-passport.collibra.com
-*.collibra.com
-university.collibra.com
-docs.collibra.com
-www.collibra.com
-marketplace.collibra.com
-services.collibra.com
-hr.collibra.com
 *.uipath.com
 dashboard.shieldox.com
 *.shieldox.ai
