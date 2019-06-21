@@ -310,10 +310,10 @@ BBPress Core
 https://github.com/brave/brave-ios
 https://github.com/brave-intl/bat-go
 https://github.com/brave-intl/bat-ledger
-https://github.com/brave-intl/bat-client
 https://github.com/brave/vault-updater
-https://github.com/brave-intl/bat-balance
+https://github.com/brave-intl/bat-client
 https://github.com/brave-intl/publishers
+https://github.com/brave-intl/bat-balance
 https://github.com/brave-intl/bat-publisher
 https://github.com/brave/browser-android-tabs
 https://github.com/rubygems/rubygems
