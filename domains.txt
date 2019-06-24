@@ -501,8 +501,8 @@ dashboard.plaid.com
 my.plaid.com
 production.plaid.com
 demo.plaid.com
-*.vanillacommunities.com
 *.vanillaforums.com
+*.vanillacommunities.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 pages.vanillaforums.com

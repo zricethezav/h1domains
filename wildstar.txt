@@ -127,8 +127,8 @@ taging*.deliveroo.*
 emo*.deliveroo.*
 vhx.tv
 upserve.com
-vanillacommunities.com
 vanillaforums.com
+vanillacommunities.com
 vanillastaging.com
 vanilladevelopment.com
 semrush.com
