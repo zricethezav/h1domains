@@ -19,7 +19,6 @@ www.backblaze.com
 app.smartsheet.com
 api.smartsheet.com/2.0
 https://api.smartsheet.com/1.1
-*b2b.trustpilot.com
 *www.trustpilot.com
 *share.trustpilot.com
 *emailsignature.trustpilot.com
@@ -30,6 +29,7 @@ https://api.smartsheet.com/1.1
 *consumer-auth.trustpilot.com
 *authenticate.trustpilot.com
 *api.trustpilot.com
+*b2b.trustpilot.com
 *business.trustpilot.com
 signal.lob.com
 www.lob.com
