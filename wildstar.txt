@@ -108,8 +108,8 @@ goldmansachs.com
 marcus.co.uk
 honestdollar.com
 marcus.com
-gs.com
 goldman.com
+gs.com
 zendesk.com/connect*
 infrastructure.newrelic.com
 eu.newrelic.com
