@@ -45,8 +45,8 @@ betterscience.org
 fuzzing-project.org
 flickr.com
 vivy.com
-paypal.com
 braintreepayments.com
+paypal.com
 venmo.com
 braintree.tools
 braintree-api.com

@@ -143,6 +143,7 @@ www.casper.com
 operator.casper.com
 bedpost.casper.com
 https://www.innocraft.cloud/
+*.braintreepayments.com
 www.paypal-*.com
 *.paypal.com
 paypal.me
@@ -151,7 +152,6 @@ pigeon.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
 prequal.swiftfinancial.com
-*.braintreepayments.com
 *.venmo.com
 *.braintree.tools
 *.braintree-api.com
