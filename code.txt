@@ -319,11 +319,11 @@ https://github.com/brave/browser-android-tabs
 https://github.com/rubygems/rubygems
 https://github.com/PowerDNS/pdns
 https://github.com/ruby/ruby
+nextcloud/3rdparty
 nextcloud/updater
-nextcloud/logreader
 nextcloud/files_accesscontrol
 nextcloud/server
-nextcloud/3rdparty
+nextcloud/logreader
 nextcloud/spreed
 nextcloud/survey_client
 nextcloud/nextcloud_announcements
