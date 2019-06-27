@@ -1,5 +1,8 @@
 *.upgrade.com
 *.uipath.com
+dashboard.shieldox.com
+*.shieldox.ai
+*.shieldox.com
 app.trint.com
 embed.trint.com
 media.trint.com
