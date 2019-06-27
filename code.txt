@@ -319,12 +319,13 @@ https://github.com/brave/browser-android-tabs
 https://github.com/rubygems/rubygems
 https://github.com/PowerDNS/pdns
 https://github.com/ruby/ruby
-nextcloud/3rdparty
-nextcloud/updater
+nextcloud/spreed
 nextcloud/files_accesscontrol
 nextcloud/server
+nextcloud/3rdparty
+nextcloud/updater
 nextcloud/logreader
-nextcloud/spreed
+nextcloud/gallery
 nextcloud/survey_client
 nextcloud/nextcloud_announcements
 nextcloud/serverinfo
@@ -334,7 +335,6 @@ nextcloud/user_saml
 nextcloud/password_policy
 nextcloud/notifications
 nextcloud/firstrunwizard
-nextcloud/gallery
 nextcloud/files_videplayer
 nextcloud/files_texteditor
 nextcloud/files_pdfviewer
