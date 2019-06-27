@@ -921,6 +921,7 @@ www.algolia.com
 *.binary.com
 www.codeigniter.com
 forum.codeigniter.com
+werkenbijfacilicom.nl
 www.werkenbijbakertilly.nl
 maximum.nl
 werkenbijmcdonalds.nl

@@ -531,6 +531,7 @@ www.zomato.com
 *.algolia.net
 www.algolia.com
 *.binary.com
+werkenbijfacilicom.nl
 www.werkenbijbakertilly.nl
 maximum.nl
 werkenbijmcdonalds.nl
