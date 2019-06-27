@@ -1155,6 +1155,3 @@ www.booztlet.com
 m.boozt.com
 app.legalrobot.com
 www.legalrobot.com
-portal.kiwi.ki
-mobile.kiwi.ki
-api.kiwi.ki
