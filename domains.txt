@@ -566,6 +566,7 @@ motorfnol.lahitapiola.fi
 *.semrush.com
 *.berush.com
 *.labs-semrush.com
+events.semrush.com
 data.alienvault.com
 www.threatcrowd.org
 www.alienvault.com
