@@ -813,6 +813,7 @@ https://sell.souq.com
 https://saudi.souq.com
 *.brickftp.com
 app.brickftp.com
+*.lyst.com
 *.quora.com
 nummus.robinhood.com
 robinhood.com
