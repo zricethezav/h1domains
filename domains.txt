@@ -391,11 +391,12 @@ www.crypto.com
 mco.crypto.com
 *.zendesk.com/connect*
 *.infrastructure.newrelic.com
+discuss.newrelic.com
 one.newrelic.com
+synthetics.newrelic.com
 rpm.newrelic.com
 rpm.newrelic.com/accounts/*/mobile
 infrastructure.newrelic.com
-insights.newrelic.com
 blog.newrelic.com
 docs.newrelic.com
 support.newrelic.com
@@ -411,11 +412,10 @@ insights.eu.newrelic.com
 learn.newrelic.com
 *.blog.newrelic.com
 *.infrastructure-data.newrelic.com
-discuss.newrelic.com
+insights.newrelic.com
 login.newrelic.com
 alerts.newrelic.com
 *.newrelic.com
-synthetics.newrelic.com
 https://bounty-node.rsk.co
 deliveroo.co.uk
 deliveroo.fr
