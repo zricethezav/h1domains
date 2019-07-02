@@ -580,14 +580,14 @@ alienvault.com
 labs.alienvault.com
 infogram.com
 themes.razerzone.com
+zvault.razerzone.com
 store.razerzone.com
 music.razerzone.com
 developer.razerzone.com
 mobileservices.razerzone.com
-zvault.razerzone.com
+www.razerzone.com
 deals.razerzone.com
 oauth2.razerzone.com
-www.razerzone.com
 insider.razerzone.com
 support.razerzone.com
 press.razerzone.com
