@@ -417,12 +417,12 @@ login.newrelic.com
 alerts.newrelic.com
 *.newrelic.com
 https://bounty-node.rsk.co
+*.deliveroo.com
 deliveroo.co.uk
 deliveroo.fr
 deliveroo.com.sg
 *.deliveroo-data-test.io
 *.deliveroo.net
-*.deliveroo.com
 deliveroo.be
 deliveroo.ae
 deliveroo.it
