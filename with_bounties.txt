@@ -10,9 +10,9 @@ reservations.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 donations.livestream.com
+www.livestream.com
 *.new.livestream.com
 *.livestream.com
-www.livestream.com
 secure.backblaze.com
 *.backblazeb2.com
 www.backblaze.com
@@ -296,8 +296,8 @@ demo.plaid.com
 *.vanilladevelopment.com
 api.electroneum.com
 my.electroneum.com
-https://keyguard.nimiq.com/
 https://safe.nimiq.com/
+https://keyguard.nimiq.com/
 blog.crowdstrike.com
 www.falcon-sandbox.com
 www.reverse.it

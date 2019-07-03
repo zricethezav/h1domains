@@ -70,9 +70,9 @@ api.tomtom.com
 *.tomtomgroup.com
 *.teleatlas.com
 donations.livestream.com
+www.livestream.com
 *.new.livestream.com
 *.livestream.com
-www.livestream.com
 *.cryptography.io
 *.pyopenssl.org
 https://ci.cryptography.io/
@@ -512,8 +512,8 @@ library.vanillaforums.com
 blog.vanillaforums.com
 api.electroneum.com
 my.electroneum.com
-https://keyguard.nimiq.com/
 https://safe.nimiq.com/
+https://keyguard.nimiq.com/
 your-store.vendecommerce.com
 your-store.vendhq.com
 secure.vendhq.com
