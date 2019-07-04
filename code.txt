@@ -117,6 +117,7 @@ https://github.com/nimiq/core-rs/
 https://github.com/nimiq/core-js/
 https://github.com/nimiq/ledger-app-nimiq
 https://github.com/dhui/passhash
+Other module
 markdown-pdf
 simplehttpserver
 statics-server
@@ -146,7 +147,6 @@ zlib-browserify
 kramed
 whereis
 node.extend
-Other module
 merge-deep
 assign-deep
 crud-file-server
