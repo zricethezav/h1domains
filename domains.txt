@@ -153,7 +153,6 @@ https://api.creditkarma.com
 https://tax.creditkarma.com
 https://*.creditkarma.com
 https://accounts.creditkarma.com
-https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
 go.exchange
 dashboard.omise.co
@@ -181,7 +180,6 @@ imagine.magento.com
 magentolive.com
 u.magento.com
 magento.com
-https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 *.ford.com
 *.quicklane.com
 *.omnicraftautoparts.com
@@ -253,6 +251,16 @@ healthkit.vivy.com
 appointments.vivy.com
 https://www.innocraft.cloud/
 *.braintreepayments.com
+swiftfinancial.com
+loanbuilder.com
+my.loanbuilder.com
+api.loanbuilder.com
+my.swiftfinancial.com
+api.swiftfinancial.com
+www.swiftfinancial.com
+www.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 www.paypal-*.com
 *.paypal.com
 paypal.me
@@ -1137,6 +1145,8 @@ https://ctf.hacker101.com
 https://*.hackerone-user-content.com/
 https://support.hackerone.com
 https://hackerone-attachments.s3.amazonaws.com/
+https://github.com/Evolveum/midpoint
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 apply.opentech.fund
 www.opentech.fund

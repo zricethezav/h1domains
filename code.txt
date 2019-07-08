@@ -23,16 +23,16 @@ com.twitter
 org.springframework
 foo
 https://github.com/icon-project/icon-service
+https://github.com/icon-project/iconex_chrome_extension
 https://github.com/icon-project/loopchain
-https://github.com/icon-project/earlgrey
 https://github.com/icon-project/icon-rpc-server
+https://github.com/icon-project/earlgrey
 https://github.com/icon-project/icon-commons
 github.com
 https://github.com/omisego
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://github.com/apache/kafka
-https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/aeternity/enoise
 http://github.com/aeternity/epoch
 https://github.com/matomo-org/matomo
@@ -385,6 +385,7 @@ https://github.com/irccloud/ios
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
+https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 https://github.com/bwillis/versioncake
