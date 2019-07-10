@@ -21,15 +21,15 @@ api.smartsheet.com/2.0
 https://api.smartsheet.com/1.1
 *api.trustpilot.com
 *b2b.trustpilot.com
+*www.trustpilot.com
 *share.trustpilot.com
 *emailsignature.trustpilot.com
+*signup.business.trustpilot.com
 *widget.trustpilot.com
 *locale.trustpilot.com
 *invitations-api.trustpilot.com
 *consumer-auth.trustpilot.com
 *authenticate.trustpilot.com
-*signup.business.trustpilot.com
-*www.trustpilot.com
 *business.trustpilot.com
 signal.lob.com
 www.lob.com
