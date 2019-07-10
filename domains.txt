@@ -288,6 +288,12 @@ https://billingsupport.chaturbate.com
 *.securegatewayaccess.com
 https://secure.chaturbate.com
 *.ibm.com
+www.lazada.co.th
+www.lazada.com.my
+www.lazada.com.ph
+www.lazada.co.id
+www.lazada.vn
+www.lazada.sg
 *.1688.com
 *.ucweb.com
 *.taobao.com
