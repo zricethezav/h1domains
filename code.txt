@@ -1,10 +1,12 @@
+https://github.com/urbit/azimuth
+https://github.com/urbit/bridge
 https://github.com/solidusio/solidus_auth_devise
 https://github.com/solidusio/solidus
 https://github.com/squid-cache/squid
 https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
-https://github.com/smartcontractkit/chainlink/tree/master/evm/contracts
 github.com/smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink/tree/master/evm/contracts
 https://github.com/phpbb/phpbb
 https://github.com/curl/curl
 https://github.com/zeit/now-cli
@@ -32,7 +34,7 @@ github.com
 https://github.com/omisego
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
-https://github.com/apache/kafka
+https://github.com/gtsatsis/RLAPI-v3-OOP
 https://github.com/aeternity/enoise
 http://github.com/aeternity/epoch
 https://github.com/matomo-org/matomo
@@ -282,15 +284,15 @@ https://github.com/the-tcpdump-group/libpcap
 https://git.libav.org/?p=libav.git;a=summary
 https://github.com/curl/curl
  https://github.com/18F/identity-sp-python
-https://github.com/18F/identity-sp-java
-https://github.com/18F/docker-ruby-ubuntu
-https://github.com/18F/federalist-builder
 https://github.com/18F/identity-sp-rails
-https://github.com/18F/federalist-proxy
+https://github.com/18F/federalist-builder
+https://github.com/18F/docker-ruby-ubuntu
 https://github.com/18F/federalist
 https://github.com/18F/federalist-docker-build
- https://github.com/18F/identity-idp
+https://github.com/18F/federalist-proxy
+https://github.com/18F/identity-sp-java
 https://github.com/18F/identity-sp-sinatra
+ https://github.com/18F/identity-idp
 https://github.com/mailru/icqdesktop
 https://github.com/parrotsec
 https://developer.spotify.com/
@@ -308,15 +310,15 @@ GlotPress
 WP-CLI
 WordPress Core
 BBPress Core
-https://github.com/brave/brave-ios
-https://github.com/brave-intl/bat-go
 https://github.com/brave-intl/bat-ledger
-https://github.com/brave/vault-updater
-https://github.com/brave-intl/bat-client
-https://github.com/brave-intl/publishers
-https://github.com/brave-intl/bat-balance
 https://github.com/brave-intl/bat-publisher
+https://github.com/brave-intl/bat-go
+https://github.com/brave-intl/bat-client
+https://github.com/brave-intl/bat-balance
 https://github.com/brave/browser-android-tabs
+https://github.com/brave/vault-updater
+https://github.com/brave-intl/publishers
+https://github.com/brave/brave-ios
 https://github.com/rubygems/rubygems
 https://github.com/PowerDNS/pdns
 https://github.com/ruby/ruby
@@ -385,6 +387,7 @@ https://github.com/irccloud/ios
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
+https://github.com/apache/kafka
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
