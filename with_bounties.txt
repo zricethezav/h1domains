@@ -484,8 +484,9 @@ https://api.souq.com
 https://mobileapi.souq.com
 https://sell.souq.com
 https://saudi.souq.com
-*.brickftp.com
-app.brickftp.com
+app.files.com
+*.files.com
+www.files.com
 *.lyst.com
 *.quora.com
 nummus.robinhood.com
