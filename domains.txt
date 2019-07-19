@@ -1027,13 +1027,13 @@ www.scan.me
 scan.snapchat.com
 *.ui.com
 *.ubnt.com
-help.ubnt.com
-forum-es.ubnt.com
 ir.ubnt.com
-blog.ubnt.com
+forum-es.ubnt.com
 store.ubnt.com
-community.ubnt.com
 forum-pt.ubnt.com
+help.ubnt.com
+blog.ubnt.com
+community.ubnt.com
 com.ubnt.plc
 translate.ubnt.com
 *.byairbnb.com
