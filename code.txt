@@ -119,6 +119,7 @@ https://github.com/nimiq/core-rs/
 https://github.com/nimiq/core-js/
 https://github.com/nimiq/ledger-app-nimiq
 https://github.com/dhui/passhash
+url-parse
 Other module
 markdown-pdf
 simplehttpserver
@@ -261,7 +262,6 @@ pdfinfojs
 buttle
 cloudcmd
 git-dummy-commit
-url-parse
 express-useragent
 https://github.com/johnbillion/wp-crontrol
 https://github.com/johnbillion/query-monitor
