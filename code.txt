@@ -283,16 +283,16 @@ https://github.com/ImageMagick/ImageMagick
 https://github.com/the-tcpdump-group/libpcap
 https://git.libav.org/?p=libav.git;a=summary
 https://github.com/curl/curl
- https://github.com/18F/identity-sp-python
 https://github.com/18F/identity-sp-rails
-https://github.com/18F/federalist-builder
-https://github.com/18F/docker-ruby-ubuntu
 https://github.com/18F/federalist
 https://github.com/18F/federalist-docker-build
-https://github.com/18F/federalist-proxy
-https://github.com/18F/identity-sp-java
+ https://github.com/18F/identity-sp-python
 https://github.com/18F/identity-sp-sinatra
  https://github.com/18F/identity-idp
+https://github.com/18F/identity-sp-java
+https://github.com/18F/docker-ruby-ubuntu
+https://github.com/18F/federalist-builder
+https://github.com/18F/federalist-proxy
 https://github.com/mailru/icqdesktop
 https://github.com/parrotsec
 https://developer.spotify.com/
