@@ -809,12 +809,12 @@ www.parrotsec.org
 www.test.com
 *.loudr.com
 *.spotifyforbrands.com
-*.gimletmedia.com
 api.spotify.com
+*.gimletmedia.com
+*.spotify.net
 *.soundtrap.com
 *.spotify.com
 *.loudr.fm
-*.spotify.net
 test.spotify.com
 *.corp.cuvva.co
 ops.cuvva.com

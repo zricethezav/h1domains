@@ -443,12 +443,12 @@ imap.mail.ru
 ru.mail.mailapp
 *.loudr.com
 *.spotifyforbrands.com
-*.gimletmedia.com
 api.spotify.com
+*.gimletmedia.com
+*.spotify.net
 *.soundtrap.com
 *.spotify.com
 *.loudr.fm
-*.spotify.net
 test.spotify.com
 ws1.dashlane.com
 console.dashlane.com
