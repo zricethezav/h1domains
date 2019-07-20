@@ -412,9 +412,9 @@ com.grab.food.dax
 com.grab.shuttleplus
 com.grabtaxi.cycle.adr
 parcel.grab.com
-*.icq.com
 *.icq.net
 web.icq.com
+*.icq.com
 agent.mail.ru
 icq.com
 ftp.icq.com
