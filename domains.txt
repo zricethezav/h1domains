@@ -905,6 +905,15 @@ rubygems.org
 www.instacart.com
 api.instacart.com
 careers.instacart.com
+www.otomoto.pl
+www.dubizzle.com
+www.otodom.pl
+www.tradus.com
+www.olx.com.pk
+www.olx.co.za
+www.olx.in
+www.olx.pt
+www.olx.pl
 https://customerupdates.nextcloud.com
 https://updates.nextcloud.com
 https://download.nextcloud.com
