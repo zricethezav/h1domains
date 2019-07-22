@@ -517,8 +517,8 @@ https://laptop-updates.brave.com/latest/osx
 https://laptop-updates.brave.com/latest/winx64
 https://laptop-updates.brave.com/latest/debian64
 https://github.com/brave/browser-ios
-https://updates.nextcloud.com
 https://customerupdates.nextcloud.com
+https://updates.nextcloud.com
 https://download.nextcloud.com
 https://github.com/pigeonhole/core
 https://moneybirdstorage.com
