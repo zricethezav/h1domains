@@ -183,7 +183,6 @@ buddypress.org,bbpress.org,profiles.wordpress.org
 wordcamp.org
 wordpress.org
 wordpress.net
-files.com
 lyst.com
 quora.com
 web-security-academy.net
