@@ -417,10 +417,10 @@ www.quantopian.com
 *.dynoquant.com
 blog.quantopian.com
 *.quantshack.com
+*.honestdollar.com
 research.gs.com
 *.goldmansachs.com
 *.marcus.co.uk
-*.honestdollar.com
 *.marcus.com
 *.goldman.com
 *.gs.com

@@ -219,6 +219,7 @@ www.quantopian.com
 *.dynoquant.com
 blog.quantopian.com
 *.quantshack.com
+*.honestdollar.com
 research.gs.com
 partner.steampowered.com
 partner.steamgames.com
