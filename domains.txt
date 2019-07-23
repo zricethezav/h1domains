@@ -665,11 +665,11 @@ django.aspen.io
 flask.aspen.io
 pando.aspen.io
 core.aspen.io
+api.bitwarden.com
+help.bitwarden.com
 bitwarden.com
 vault.bitwarden.com
-api.bitwarden.com
 identity.bitwarden.com
-help.bitwarden.com
 https://idp.fr.cloud.gov
 https://github.com/GSA/data.gov
 https://github.com/GSA/datagov-deploy
