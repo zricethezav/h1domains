@@ -32,8 +32,6 @@ https://github.com/icon-project/earlgrey
 https://github.com/icon-project/icon-commons
 github.com
 https://github.com/omisego
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://github.com/gtsatsis/RLAPI-v3-OOP
 https://github.com/aeternity/enoise
 http://github.com/aeternity/epoch
@@ -387,6 +385,8 @@ https://github.com/irccloud/ios
 https://github.com/irccloud/irccloud-desktop
 https://github.com/concrete5/concrete5
 https://github.com/rails/rails
+https://svn.filezilla-project.org/svn/libfilezilla/trunk
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://github.com/apache/kafka
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git

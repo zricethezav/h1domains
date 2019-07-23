@@ -108,7 +108,6 @@ partner.postmates.com
 about.postmates.com
 support.postmates.com
 postmates.com/developer
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentocommerce.com
 repo.magento.com
 marketplace.magento.com
@@ -748,6 +747,7 @@ https://ctf.hacker101.com
 https://*.hackerone-user-content.com/
 https://hackerone-attachments.s3.amazonaws.com/
 https://github.com/Evolveum/midpoint
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 apply.opentech.fund
