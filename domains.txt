@@ -949,14 +949,14 @@ https://github.com/pigeonhole/core
 https://moneybirdstorage.com
 https://moneybird.com
 jobs.github.com
-api.github.com
-classroom.github.com
-gist.github.com
 GitHub.com
 *.github.net
 *.githubapp.com
 education.github.com
 lab.github.com
+api.github.com
+gist.github.com
+classroom.github.com
 GitHub.com/CSP
 https://gist.github.com
 https://www.mapbox.com/api-documentation
