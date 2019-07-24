@@ -79,6 +79,7 @@ https://github.com/EOSIO/eos
 https://github.com/EOSIO/eosjs
 http://gitlab.com/passit/
 https://github.com/tendermint/tendermint
+cosmos/ledger-cosmos-app
 https://github.com/cosmos/ledger-cosmos
 https://github.com/tendermint/signatory
 https://github.com/tendermint/kms
@@ -86,7 +87,6 @@ https://github.com/tendermint/yubihsm-rs
 https://github.com/cosmos/cosmos-sdk
 https://github.com/tendermint/iavl
 https://github.com/tendermint/go-amino
-cosmos/ledger-cosmos-app
 https://github.com/tendermint/abci
 https://github.com/tendermint/go-crypto
 https://github.com/valvesoftware
