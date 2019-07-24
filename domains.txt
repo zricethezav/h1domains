@@ -1077,6 +1077,15 @@ vimeopro.com
 vimeo.com/ondemand
 player.vimeo.com
 checkout.vimeo.com
+*.cloud.vimeo.com
+www.vimeo.com
+*.vimeo.com
+api.vimeo.com
+vimeo.com/api
+vimeopro.com
+vimeo.com/ondemand
+player.vimeo.com
+checkout.vimeo.com
 *.rocketbank.ru
 *.flocktory.com
 *.contact-sys.com
