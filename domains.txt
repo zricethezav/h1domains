@@ -630,13 +630,13 @@ feed.alienvault.com
 alienvault.com
 labs.alienvault.com
 infogram.com
-themes.razerzone.com
-downloads.razerzone.com
+akmedia.zvault.razerzone.com
 dl.razerzone.com
 store.razerzone.com
 music.razerzone.com
 developer.razerzone.com
 mobileservices.razerzone.com
+themes.razerzone.com
 www.razerzone.com
 zvault.razerzone.com
 deals.razerzone.com
@@ -657,7 +657,7 @@ tp.zvault.razerzone.com
 media.zvault.razerzone.com
 gw.zvault.razerzone.com
 bill.zvault.razerzone.com
-akmedia.zvault.razerzone.com
+downloads.razerzone.com
 feedback.razerzone.com
 aspen.io
 django.aspen.io
