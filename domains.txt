@@ -630,6 +630,7 @@ feed.alienvault.com
 alienvault.com
 labs.alienvault.com
 infogram.com
+www.razerzone.com
 akmedia.zvault.razerzone.com
 dl.razerzone.com
 store.razerzone.com
@@ -637,7 +638,6 @@ music.razerzone.com
 developer.razerzone.com
 mobileservices.razerzone.com
 themes.razerzone.com
-www.razerzone.com
 zvault.razerzone.com
 deals.razerzone.com
 oauth2.razerzone.com
