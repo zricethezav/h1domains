@@ -26,6 +26,7 @@ def hackerone_to_list():
         'wildstar': [],
         'bounty_domains': [],
         'code': [],
+        'cidr':[],
 
     }
     page = 1
@@ -64,6 +65,10 @@ def hackerone_to_list():
                     elif e['node']['asset_type'] == 'SOURCE_CODE' and e['node']['max_severity']  != 'none':
                         domain = e['node']['asset_identifier']
                         targets['code'].append(domain)
+                    elif e['node']['asset_type'] == 'CIDR' and e['node']['max_severity']  != 'none':
+                        ip = e['node']['asset_identifier']
+                        if e['node']['eligible_for_bounty']:
+                            targets['cidr'].append(ip)
     return targets
 
 
@@ -77,3 +82,5 @@ if __name__ == "__main__":
         f.write('\n'.join(targets['bounty_domains']))
     with open('code.txt', 'w') as f:
         f.write('\n'.join(targets['code']))
+    with open('cidr_ips.txt', 'w') as f:
+        f.write('\n'.join(targets['cidr']))
