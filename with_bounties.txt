@@ -49,7 +49,6 @@ https://shiny.ops.coda.io/*
 https://staging.coda.io/*
 https://user-profile-prod.coda.io/*
 https://*.coda.io/*
-www.tumblr.com
 gw.zvault.razer.com
 ep.zvault.razer.com
 zvault.razer.com
@@ -229,6 +228,7 @@ hyatt.com
 www.hyatt.com
 world.hyatt.com
 assets.hyatt.com
+newsroom.images.hyatt.com
 www.grammarly.com
 auth.grammarly.com
 capi.grammarly.com
@@ -425,6 +425,7 @@ d2evh2mef3r450.cloudfront.net
 swipely-merchant-assets.s3.amazonaws.com
 inventory.upserve.com
 hq-api.upserve.com
+hq.upserve.com
 https://645892349820.vulnerbug.com
 teamhelp.upserve.com
 ecs-lb.breadcrumb.com
@@ -936,6 +937,7 @@ https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://hackerone-attachments.s3.amazonaws.com/
+www.tumblr.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html

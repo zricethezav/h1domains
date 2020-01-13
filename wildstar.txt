@@ -34,9 +34,6 @@ laurelroad.com
 cainbrothers.com
 worklytics.co
 allegro.pl.allegrosandbox.pl
-tumblr.com
-srvcs.tumblr.com
-txmblr.com
 railto.com
 pixiv.net
 api.savedroid.de
@@ -276,6 +273,9 @@ irccloud.com
 cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
+tumblr.com
+srvcs.tumblr.com
+txmblr.com
 spell.run
 aliexpress.com
 alibaba.com
