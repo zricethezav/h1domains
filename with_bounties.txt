@@ -49,16 +49,6 @@ https://shiny.ops.coda.io/*
 https://staging.coda.io/*
 https://user-profile-prod.coda.io/*
 https://*.coda.io/*
-api.tumblr.com
-safe.tumblr.com
-secure.tumblr.com
-assets.tumblr.com
-embed.tumblr.com
-*.tumblr.com
-www.tumblr.com
-t.umblr.com
-*.srvcs.tumblr.com
-*.txmblr.com
 www.tumblr.com
 gw.zvault.razer.com
 ep.zvault.razer.com
