@@ -1,3 +1,8 @@
+https://prow.k8s.io
+https://kubernetes.io
+k8s.io
+kubernetes-csi.github.io
+https://github.com/kubernetes-client/python
 www.drive2.ru
 api.drive2.ru
 *.d-cd.net

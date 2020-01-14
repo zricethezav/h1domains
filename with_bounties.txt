@@ -1,3 +1,8 @@
+https://prow.k8s.io
+https://kubernetes.io
+k8s.io
+kubernetes-csi.github.io
+https://github.com/kubernetes-client/python
 https://ort-admin.pingone.com/*
 https://console-staging.pingone.com/*
 https://api-staging.pingone.com/*
