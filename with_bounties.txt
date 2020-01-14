@@ -198,6 +198,7 @@ https://tax.creditkarma.com
 https://api.creditkarma.com
 https://help.creditkarma.com
 https://blog.creditkarma.com/
+https://www.creditkarma.com/savings
 https://github.com/icon-project/icon-service
 vault.omise.co
 api.omise.co
