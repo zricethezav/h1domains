@@ -1,3 +1,21 @@
+*.infra.lifeomic.com
+*.dev.lifeomic.com
+*.dev.jupiterone.io
+connect-console.dev.lifeomic.com
+connect-demo.dev.lifeomic.com/
+apps.dev.lifeomic.com
+billing.dev.lifeomic.com
+ga4gh.dev.lifeomic.com
+developers.dev.lifeomic.com
+security.lifeomic.com
+fhir.dev.lifeomic.com
+api.dev.lifeomic.com
+lifeomic.com
+pmp.dev.lifeomic.com
+*.lifeomic.com
+*.dev.lifeomic.com
+*.infra.lifeomic.com
+pmp.dev.lifeomic.com
 https://prow.k8s.io
 https://kubernetes.io
 k8s.io
@@ -1354,6 +1372,7 @@ account.mail.ru
 smtp.mail.ru
 biz.mail.ru
 ideas.mail.ru
+api.tumblr.com
 safe.tumblr.com
 secure.tumblr.com
 assets.tumblr.com
@@ -1363,7 +1382,6 @@ www.tumblr.com
 t.umblr.com
 *.srvcs.tumblr.com
 *.txmblr.com
-api.tumblr.com
 www.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com

@@ -1,3 +1,8 @@
+*.infra.lifeomic.com
+*.dev.lifeomic.com
+*.dev.jupiterone.io
+connect-console.dev.lifeomic.com
+connect-demo.dev.lifeomic.com/
 https://prow.k8s.io
 https://kubernetes.io
 k8s.io
@@ -884,6 +889,7 @@ account.mail.ru
 smtp.mail.ru
 biz.mail.ru
 ideas.mail.ru
+api.tumblr.com
 safe.tumblr.com
 secure.tumblr.com
 assets.tumblr.com
