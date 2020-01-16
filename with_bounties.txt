@@ -688,7 +688,6 @@ https://updates.nextcloud.com
 https://customerupdates.nextcloud.com
 https://download.nextcloud.com
 *.secnews.gr
-https://github.com/pigeonhole/core
 bitaccessbtm.com
 faa.st
 https://moneybird.com
@@ -702,6 +701,8 @@ classroom.github.com
 education.github.com
 lab.github.com
 jobs.github.com
+semmle.net
+semmle.com
 GitHub.com/CSP
 https://gist.github.com
 www.mapbox.com
@@ -965,6 +966,7 @@ www.booztlet.com
 *.booztx.com
 app.legalrobot.com
 www.legalrobot.com
+https://github.com/pigeonhole/core
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki

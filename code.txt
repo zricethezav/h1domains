@@ -429,7 +429,6 @@ https://github.com/brave/vault-updater
 https://github.com/brave-intl/bat-go
 https://github.com/brave/brave-ios
 https://github.com/rubygems/rubygems
-https://github.com/PowerDNS/pdns
 https://github.com/ruby/ruby
 nextcloud/server
 nextcloud/activity
@@ -451,8 +450,6 @@ nextcloud/logreader
 nextcloud/survey_client
 nextcloud/updater
 nextcloud/spreed
-https://github.com/dovecot/core
-https://github.com/dovecot/pigeonhole
 https://www.mapbox.com/mapbox.js/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.mapbox.com/ios-sdk/maps/overview/
@@ -508,4 +505,7 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 https://github.com/parrotsec
+https://github.com/PowerDNS/pdns
+https://github.com/dovecot/core
+https://github.com/dovecot/pigeonhole
 https://github.com/bwillis/versioncake

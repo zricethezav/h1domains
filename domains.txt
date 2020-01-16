@@ -1,3 +1,4 @@
+admin.17hats.com
 https://h1-415.h1ctf.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -1146,7 +1147,6 @@ https://discourse.nextcloud.com
 https://*.nextcloud.com
 http://*.nextcloud.com
 *.secnews.gr
-https://github.com/pigeonhole/core
 bitaccessbtm.com
 faa.st
 https://moneybird.com
@@ -1160,6 +1160,8 @@ classroom.github.com
 education.github.com
 lab.github.com
 jobs.github.com
+semmle.net
+semmle.com
 GitHub.com/CSP
 https://gist.github.com
 www.mapbox.com
@@ -1547,6 +1549,7 @@ www.otodom.pl
 www.dubizzle.com
 www.otomoto.pl
 www.olx.pl
+https://github.com/pigeonhole/core
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
