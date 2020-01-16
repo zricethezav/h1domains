@@ -217,8 +217,6 @@ go.exchange
 link.omise.co
 offsite.omise.co
 www.omise.co
-lgtm-com.pentesting.semmle.net
-backend-dot-lgtm-penetration-testing.appspot.com
 postmates.com
 fleet.postmates.com
 partner.postmates.com
@@ -952,6 +950,8 @@ https://ctf.hacker101.com
 https://hackerone-attachments.s3.amazonaws.com/
 www.tumblr.com
 https://github.com/Evolveum/midpoint
+lgtm-com.pentesting.semmle.net
+backend-dot-lgtm-penetration-testing.appspot.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
