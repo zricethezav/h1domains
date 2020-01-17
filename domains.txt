@@ -116,9 +116,6 @@ staging.genasystech.co.uk/4web
 staging.genasystech.co.uk/skiapi
 staging.genasystech.co.uk/d2c
 staging.genasystech.co.uk/d2c-api
-bridge.tomochain.com
-wallet.tomochain.com
-https://tomochain.com
 www.streak.com
 api.streak.com
 mailfoogae.appspot.com
@@ -453,7 +450,6 @@ https://api.creditkarma.com
 https://help.creditkarma.com
 https://blog.creditkarma.com/
 https://www.creditkarma.com/savings
-https://github.com/icon-project/icon-service
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -1348,7 +1344,6 @@ urbandictionary.com
 urbandictionary.net
 love.mail.ru
 ok.ru
-icq.com
 mxs.mail.ru
 emx.mail.ru
 cloud.mail.ru
@@ -1434,6 +1429,9 @@ https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://support.hackerone.com
 https://hackerone-attachments.s3.amazonaws.com/
+bridge.tomochain.com
+wallet.tomochain.com
+https://tomochain.com
 app.replyify.com
 api.replyify.com
 replyify.com
@@ -1452,6 +1450,7 @@ t.umblr.com
 www.tumblr.com
 *.spell.run
 https://github.com/Evolveum/midpoint
+https://github.com/icon-project/icon-service
 lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty

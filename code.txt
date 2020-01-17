@@ -83,13 +83,6 @@ https://github.com/kubernetes-client/perl
 https://github.com/kubernetes-client/java
 https://github.com/kubernetes-client/python-base
 https://github.com/kubernetes-client/gen
-https://github.com/tomochain/tomochain
-https://github.com/tomochain/tomoscan
-https://github.com/tomochain/tomomaster
-https://github.com/tomochain/tomoissuer
-https://github.com/tomochain/tomox-sdk
-https://github.com/tomochain/tomox-sdk-ui
-https://github.com/tomochain/tomorelayer
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
@@ -124,12 +117,6 @@ com.amazonaws
 com.twitter
 org.springframework
 foo
-https://github.com/icon-project/icon-service
-https://github.com/icon-project/loopchain
-https://github.com/icon-project/iconex_chrome_extension
-https://github.com/icon-project/icon-rpc-server
-https://github.com/icon-project/icon-commons
-https://github.com/icon-project/earlgrey
 github.com
 https://github.com/omisego
 https://github.com/gtsatsis/RLAPI-v3-OOP
@@ -498,6 +485,19 @@ Athenz
 Verizon Media Open Source Projects (misc)
 https://github.com/rails/rails
 https://github.com/openssl/openssl
+https://github.com/tomochain/tomochain
+https://github.com/tomochain/tomoscan
+https://github.com/tomochain/tomomaster
+https://github.com/tomochain/tomoissuer
+https://github.com/tomochain/tomox-sdk
+https://github.com/tomochain/tomox-sdk-ui
+https://github.com/tomochain/tomorelayer
+https://github.com/icon-project/icon-service
+https://github.com/icon-project/loopchain
+https://github.com/icon-project/iconex_chrome_extension
+https://github.com/icon-project/icon-rpc-server
+https://github.com/icon-project/icon-commons
+https://github.com/icon-project/earlgrey
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://github.com/apache/kafka

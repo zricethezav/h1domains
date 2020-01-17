@@ -26,9 +26,6 @@ rpc-kcp.znly.co
 zen.ly
 *.nordvpn.com
 *.nordlocker.com
-bridge.tomochain.com
-wallet.tomochain.com
-https://tomochain.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -209,7 +206,6 @@ https://api.creditkarma.com
 https://help.creditkarma.com
 https://blog.creditkarma.com/
 https://www.creditkarma.com/savings
-https://github.com/icon-project/icon-service
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -948,8 +944,12 @@ https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://hackerone-attachments.s3.amazonaws.com/
+bridge.tomochain.com
+wallet.tomochain.com
+https://tomochain.com
 www.tumblr.com
 https://github.com/Evolveum/midpoint
+https://github.com/icon-project/icon-service
 lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
