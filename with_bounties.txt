@@ -950,8 +950,8 @@ https://tomochain.com
 www.tumblr.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
-lgtm-com.pentesting.semmle.net
 backend-dot-lgtm-penetration-testing.appspot.com
+lgtm-com.pentesting.semmle.net
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
@@ -970,3 +970,4 @@ https://github.com/pigeonhole/core
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+www.udemy.com
