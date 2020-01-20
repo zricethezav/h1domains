@@ -1,3 +1,6 @@
+api.imaginecurve.com
+vpn.imaginecurve.com
+curve.app
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 *.dev.jupiterone.io
