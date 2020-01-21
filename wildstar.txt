@@ -1,3 +1,5 @@
+sportsbet.io
+bitcasino.io
 infra.lifeomic.com
 dev.lifeomic.com
 dev.jupiterone.io
@@ -66,7 +68,6 @@ quifax.es
 quifax.com
 kartpay.com
 upgrade.com
-uipath.com
 shieldox.com
 shieldox.ai
 zeit.co
@@ -217,6 +218,8 @@ wordcamp.org
 wordpress.net
 rockstargames.com
 lyst.com
+lystit.com
+lyst.co
 quora.com
 web-security-academy.net
 blockchain.com
@@ -283,6 +286,7 @@ tumblr.com
 srvcs.tumblr.com
 txmblr.com
 spell.run
+uipath.com
 aliexpress.com
 alibaba.com
 alicdn.com

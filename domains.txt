@@ -1,3 +1,7 @@
+bitcasino.io
+sportsbet.io
+*.sportsbet.io
+*.bitcasino.io
 api.imaginecurve.com
 vpn.imaginecurve.com
 curve.app
@@ -59,7 +63,6 @@ get8x8.com
 uc.8x8.com
 accountmanager.8x8.com
 rec.8x8.com
-www.bcm-im.com
 app.liveplan.com
 app.outpost.co
 api.outpost.co
@@ -285,7 +288,6 @@ actionservice.refereum.com
 account.refereum.com
 *.kartpay.com
 *.upgrade.com
-*.uipath.com
 dashboard.shieldox.com
 *.shieldox.com
 *.shieldox.ai
@@ -943,7 +945,6 @@ www.delight.im
 *.myteksi.net
 *.grab.com
 p.grabtaxi.com
-hub.grab.com
 gamma.grab.co
 drive.grab.co
 manage.grab.co
@@ -956,6 +957,7 @@ jira.grab.com
 wiki.grab.com
 grab.careers
 mos.grabpay.com
+hub.grab.com
 drivegrab.com
 graballstars.com
 com.grab.food.dax
@@ -1051,6 +1053,10 @@ app.files.com
 your-assigned-subdomain.files.com
 www.files.com
 *.lyst.com
+cdna.lystit.com
+mobileapi.lystit.com
+*.lystit.com
+*.lyst.co
 *.quora.com
 robinhood.com
 api.robinhood.com
@@ -1432,6 +1438,7 @@ https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://support.hackerone.com
 https://hackerone-attachments.s3.amazonaws.com/
+www.bcm-im.com
 bridge.tomochain.com
 wallet.tomochain.com
 https://tomochain.com
@@ -1452,6 +1459,7 @@ t.umblr.com
 *.txmblr.com
 www.tumblr.com
 *.spell.run
+*.uipath.com
 https://github.com/Evolveum/midpoint
 https://github.com/icon-project/icon-service
 backend-dot-lgtm-penetration-testing.appspot.com

@@ -18,7 +18,6 @@ https://apps-staging.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
 https://test-admin.pingone.com
-www.bcm-im.com
 https://www.datastax.com/
 https://academy.datastax.com/
 https://downloads.datastax.com
@@ -535,7 +534,6 @@ bingo-api.unikrn.com
 *.myteksi.net
 *.grab.com
 p.grabtaxi.com
-hub.grab.com
 gamma.grab.co
 drive.grab.co
 manage.grab.co
@@ -548,6 +546,7 @@ jira.grab.com
 wiki.grab.com
 grab.careers
 mos.grabpay.com
+hub.grab.com
 drivegrab.com
 graballstars.com
 com.grab.food.dax
@@ -628,6 +627,10 @@ app.files.com
 your-assigned-subdomain.files.com
 www.files.com
 *.lyst.com
+cdna.lystit.com
+mobileapi.lystit.com
+*.lystit.com
+*.lyst.co
 *.quora.com
 robinhood.com
 api.robinhood.com
@@ -947,6 +950,7 @@ https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://hackerone-attachments.s3.amazonaws.com/
+www.bcm-im.com
 bridge.tomochain.com
 wallet.tomochain.com
 https://tomochain.com
