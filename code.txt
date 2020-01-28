@@ -1,3 +1,4 @@
+https://github.com/insolar/insolar/tree/master/logicrunner/builtin/contract
 https://github.com/lifeomic/cli
 https://github.com/kubernetes/csi-api
 https://github.com/kubernetes/kubernetes
@@ -146,11 +147,13 @@ https://github.com/MyEtherWallet/MEWconnect-Android/
 https://github.com/arkadiyt/ssrf_filter
 https://github.com/arkadiyt/bounty-targets
 https://github.com/arkadiyt/aws_public_ips
-https://github.com/AugurProject/augur-core
-https://github.com/AugurProject/augur-node
-https://github.com/AugurProject/augur-app
-https://github.com/AugurProject/augur.js
-https://github.com/AugurProject/augur
+https://github.com/AugurProject/augur/tree/master/packages/augur-core
+https://github.com/AugurProject/augur/tree/master/packages/augur-sdk
+https://github.com/AugurProject/augur/tree/master/packages/augur-artifacts
+https://github.com/AugurProject/augur/tree/master/packages/augur-tools
+https://github.com/AugurProject/augur/tree/master/packages/augur-types
+https://github.com/AugurProject/augur/tree/master/packages/augur-utils
+https://github.com/AugurProject/augur/tree/master/packages/augur-ui
 https://github.com/tronprotocol/java-tron
 https://github.com/jedisct1/libsodium
 https://git-tails.immerda.ch/tails/
@@ -176,6 +179,7 @@ https://github.com/valvesoftware
 https://github.com/crypto-com/chain
 https://github.com/crypto-com/chain-tx-enclave
 https://github.com/rsksmart/rskj
+https://github.com/rsksmart/tokenbridge
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-ca
 https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaincode-java
@@ -458,6 +462,7 @@ https://github.com/paragonie/gpg-mailer
 https://github.com/paragonie/chronicle
 https://github.com/paragonie/sapient
 https://github.com/paragonie/paseto
+https://github.com/binary-com
 https://github.com/bcit-ci/CodeIgniter
 https://github.com/revive-adserver/revive-adserver
 owncloud/core
@@ -489,13 +494,6 @@ Athenz
 Verizon Media Open Source Projects (misc)
 https://github.com/rails/rails
 https://github.com/openssl/openssl
-https://github.com/tomochain/tomochain
-https://github.com/tomochain/tomoscan
-https://github.com/tomochain/tomomaster
-https://github.com/tomochain/tomoissuer
-https://github.com/tomochain/tomox-sdk
-https://github.com/tomochain/tomox-sdk-ui
-https://github.com/tomochain/tomorelayer
 https://github.com/icon-project/icon-service
 https://github.com/icon-project/loopchain
 https://github.com/icon-project/iconex_chrome_extension
@@ -509,7 +507,4 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 https://github.com/parrotsec
-https://github.com/PowerDNS/pdns
-https://github.com/dovecot/core
-https://github.com/dovecot/pigeonhole
 https://github.com/bwillis/versioncake
