@@ -1,4 +1,4 @@
-https://github.com/insolar/insolar/tree/master/logicrunner/builtin/contract
+https://github.com/insolar/insolar/tree/master/application/builtin/contract
 https://github.com/lifeomic/cli
 https://github.com/kubernetes/csi-api
 https://github.com/kubernetes/kubernetes
@@ -202,9 +202,6 @@ https://github.com/plaid/link
 https://github.com/vanilla/vanilla/
 https://github.com/vanilla/addons
 https://github.com/vanilla/community
-https://github.com/nimiq/core-js/
-https://github.com/nimiq/ledger-app-nimiq
-https://github.com/nimiq/core-rs/
 https://github.com/dhui/passhash
 fastify
 lodash
@@ -423,6 +420,8 @@ https://github.com/rubygems/rubygems
 https://github.com/dovecot/core
 https://github.com/dovecot/pigeonhole
 https://github.com/PowerDNS/pdns
+https://github.com/open-xchange/appsuite-middleware
+https://github.com/open-xchange/appsuite-frontend
 https://repo.powerdns.com/
 https://github.com/ruby/ruby
 nextcloud/server

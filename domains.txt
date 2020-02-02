@@ -1,3 +1,8 @@
+www.goodrx.com
+gold.goodrx.com
+heydoctor.goodrx.com
+m.goodrx.com
+api.goodrx.com
 *.roblox.com
 wallet.test.insolar.io
 insolar.io
@@ -7,10 +12,6 @@ localizestaging.com
 api.localizestaging.com
 localize.live/staging
 cdn.localizestaging.com
-api-beta.sigparser.com
-beta1.sigparser.com
-beta-ipaas.sigparser.com
-beta.sigparser.com
 mg3.investnext.com
 app.investnext.com
 altogroup.investnextdemo.co
@@ -97,6 +98,7 @@ sportsbet.io
 *.bitcasino.io
 api.imaginecurve.com
 vpn.imaginecurve.com
+curve.app
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 *.dev.jupiterone.io
@@ -465,6 +467,8 @@ https://ci.cryptography.io/
 *.unitedincome.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.criticalstack.com
+*.intelstack.com
 com.capitalone.intellix.mobile.prod
 *.usejewel.com
 www.backblaze.com
@@ -897,8 +901,6 @@ demo.plaid.com
 pages.vanillaforums.com
 library.vanillaforums.com
 blog.vanillaforums.com
-https://safe.nimiq.com/
-https://keyguard.nimiq.com/
 platform.thecoalition.com
 api.thecoalition.com
 www.lexus.com/*
@@ -982,6 +984,7 @@ www.fedramp.gov
 marketplace.fedramp.gov
 *.search.gov
 https://dashboard-beta.fr.cloud.gov/
+www.usa.gov
 https://federalist.18f.gov
 https://cloud.gov
 https://federalist-docs.18f.gov

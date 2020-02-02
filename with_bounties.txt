@@ -1,3 +1,8 @@
+www.goodrx.com
+gold.goodrx.com
+heydoctor.goodrx.com
+m.goodrx.com
+api.goodrx.com
 *.roblox.com
 wallet.test.insolar.io
 insolar.io
@@ -9,6 +14,7 @@ localize.live/staging
 cdn.localizestaging.com
 api.imaginecurve.com
 vpn.imaginecurve.com
+curve.app
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 *.dev.jupiterone.io
@@ -460,8 +466,6 @@ demo.plaid.com
 *.vanillacommunities.com
 *.vanillastaging.com
 *.vanilladevelopment.com
-https://safe.nimiq.com/
-https://keyguard.nimiq.com/
 www.crowdstrike.com
 blog.crowdstrike.com
 www.crowdstrike.org
@@ -520,6 +524,7 @@ www.fedramp.gov
 marketplace.fedramp.gov
 *.search.gov
 https://dashboard-beta.fr.cloud.gov/
+www.usa.gov
 https://federalist.18f.gov
 https://cloud.gov
 https://federalist-docs.18f.gov
