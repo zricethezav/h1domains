@@ -1,3 +1,7 @@
+https://github.com/tokencard/contracts
+https://github.com/celo-org/zexe
+https://github.com/celo-org/celo-blockchain
+https://github.com/celo-org/celo-monorepo
 https://github.com/insolar/insolar/tree/master/application/builtin/contract
 https://github.com/lifeomic/cli
 https://github.com/kubernetes/csi-api
