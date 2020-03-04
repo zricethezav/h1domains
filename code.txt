@@ -95,15 +95,13 @@ https://github.com/topechelon/BigBiller3
 https://github.com/topechelon/BB3ChromeExtension
 https://github.com/MixinNetwork/mixin
 https://github.com/libra/libra/
-https://github.com/urbit/azimuth
-https://github.com/urbit/bridge
 https://github.com/solidusio/solidus
 https://github.com/solidusio/solidus_auth_devise
 https://github.com/squid-cache/squid
 https://github.com/notepad-plus-plus/notepad-plus-plus
 https://github.com/DefectDojo/django-DefectDojo
 github.com/smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink/tree/master/evm/contracts
+https://github.com/smartcontractkit/chainlink/tree/master/evm-contracts
 https://github.com/phpbb/phpbb
 https://github.com/curl/curl
 https://github.com/zeit/now-cli
@@ -486,7 +484,7 @@ https://github.com/WordPoints/wordpoints/
 https://github.com/WordPoints/
 github.com/urbandictionary
 https://profiles.wordpress.org/iandunn#content-plugins
-https://github.com/iandunn?tab=repositories
+https://github.com/iandunn?tab=repositories&type=source
 https://github.com/irccloud/ios
 https://github.com/irccloud/android
 https://github.com/irccloud/irccloud-desktop

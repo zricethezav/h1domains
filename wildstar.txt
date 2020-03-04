@@ -1,3 +1,14 @@
+unibet.com
+storspiller.com
+bingo.com
+mariacasino.com
+kolikkopelit.com
+casinohuone.com
+igame.com
+ayment-quick.unibet.com
+ayment.unibet.com
+ns.unibet.com
+evernote.com
 koho.ca
 koho.app
 xample.com
@@ -100,6 +111,9 @@ luma.co.uk
 capitalonecareers.co.uk
 criticalstack.com
 intelstack.com
+capitalonecards.com
+theunioncard.com
+teamstercardnow.com
 usejewel.com
 backblazeb2.com
 backblaze.com
@@ -165,12 +179,13 @@ marcus.com
 honestdollar.com
 marcus.co.uk
 gsam.com
+gsselect.com
 gs-mosaic.qa.gs.com
 gs-mosaic.gs.com
 qaglobal-liquidity.gs.com
 global-liquidity.gs.com
+ayco.com
 claritymoney.com
-gsselect.com
 newrelic.com
 infrastructure.newrelic.com
 infrastructure-data.newrelic.com
@@ -291,6 +306,7 @@ irccloud.com
 cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
+companyhub.com
 tumblr.com
 srvcs.tumblr.com
 txmblr.com
