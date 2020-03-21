@@ -1,3 +1,7 @@
+https://github.com/PegaSysEng/orion
+https://github.com/PegaSysEng/ethsigner
+https://github.com/hyperledger/besu
+https://github.com/orion-labs/node-red-contrib-orion
 https://github.com/tokencard/contracts
 https://github.com/celo-org/zexe
 https://github.com/celo-org/celo-blockchain
@@ -446,6 +450,13 @@ nextcloud/logreader
 nextcloud/survey_client
 nextcloud/updater
 nextcloud/spreed
+nextcloud/photos
+nextcloud/files_rightclick
+nextcloud/privacy
+nextcloud/recommendations
+nextcloud/viewer
+nextcloud/text
+nextcloud/mail
 https://www.mapbox.com/mapbox.js/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.mapbox.com/ios-sdk/maps/overview/

@@ -1,3 +1,8 @@
+https://github.com/hyperledger/besu
+https://github.com/PegaSysEng/ethsigner
+https://github.com/PegaSysEng/orion
+http://www.glassdoor.com/
+http://api.glassdoor.com
 ota.helium.com
 burrow.helium.systems
 console.helium.com
@@ -45,8 +50,8 @@ localize.live/staging
 cdn.localizestaging.com
 api.imaginecurve.com
 vpn.imaginecurve.com
-curve.app
 curve.com
+curve.app
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 *.dev.jupiterone.io
@@ -91,6 +96,7 @@ github.com/oasislabs/ed25519
 github.com/oasislabs/bsaes.js
 *.testnet.oasiscloud.io
 github.com/oasislabs/runtime-ethereum
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 *.allegro.pl.allegrosandbox.pl
 https://coda.io/*
@@ -141,12 +147,12 @@ mgmtpod-1.forescoutcloud.net
 datapod-1-ingest.forescoutcloud.net
 datapod-1-query.forescoutcloud.net
 www.forescout.com
-datapod-1-ingest.Development.ForescoutCloud.net
-datapod-1-query.Development.ForescoutCloud.net
-mgmtpod-1-dashboard.Development.ForescoutCloud.net
-mgmtpod-1.Development.ForescoutCloud.net
-datapod-1-ingest.Testing.ForescoutCloud.net
-datapod-1-query.Testing.ForescoutCloud.net
+datapod-1-100-ingest.development.forescoutcloud.net
+datapod-1-100-query.Development.ForescoutCloud.net
+mgmtpod-1-100-dashboard.Development.ForescoutCloud.net
+mgmtpod-1-100.Development.ForescoutCloud.net
+datapod-1-100-ingest.Testing.ForescoutCloud.net
+datapod-1-100-query.Testing.ForescoutCloud.net
 datapod-1-ingest.Acceptance.ForescoutCloud.net
 datapod-1-query.Acceptance.ForescoutCloud.net
 datapod-2-ingest.Acceptance.ForescoutCloud.net
@@ -156,6 +162,12 @@ datapod-1-query.Production.ForescoutCloud.net
 mgmtpod-1-dashboard.Production.ForescoutCloud.net
 mgmtpod-1.Production.ForescoutCloud.net
 logstash-props.devicecloud.acceptance.forescoutcloud.net
+datapod-1-100-druid-ingest.development.forescoutcloud.net
+datapod-1-100-druid-query.development.forescoutcloud.net
+datapod-1-100-druid-ingest.Testing.ForescoutCloud.net
+a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
+datapod-1-100-druid-ingest.production.forescoutcloud.net
+datapod-1-100-druid-query.production.forescoutcloud.net
 97.105.243.96/28
 forum.makerdao.com
 chat.makerdao.com
@@ -404,6 +416,7 @@ developer.gs.com
 goldmansachsindices.com
 marquee.gs.com
 *.ayco.com
+www.rocaton.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -512,6 +525,8 @@ https://www.showmax.com
 https://secure.showmax.com
 https://api.showmax.com
 api.recarga.com
+www.recargapay.com.br/*
+secure.recarga.com/*
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
