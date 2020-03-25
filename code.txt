@@ -174,9 +174,9 @@ https://github.com/tendermint/tendermint
 https://github.com/tendermint/go-amino
 https://github.com/tendermint/iavl
 https://github.com/cosmos/cosmos-sdk
-https://github.com/tendermint/yubihsm-rs
-https://github.com/tendermint/kms
-https://github.com/tendermint/signatory
+https://github.com/iqlusioninc/yubihsm.rs
+https://github.com/iqlusioninc/tmkms
+https://github.com/iqlusioninc/signatory
 https://github.com/cosmos/ledger-cosmos
 cosmos/ledger-cosmos-app
 https://github.com/tendermint/abci
