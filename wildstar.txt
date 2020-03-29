@@ -90,8 +90,6 @@ quifax.es
 quifax.com
 kartpay.com
 upgrade.com
-shieldox.com
-shieldox.ai
 zeit.co
 zeit.sh
 now.systems
@@ -225,6 +223,8 @@ grab.com
 grabpay.com
 grabtaxi.com
 grab.co
+stg-myteksi.com
+grabtaxi.io
 icq.com
 icq.net
 spotify.com

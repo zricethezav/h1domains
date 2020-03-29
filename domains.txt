@@ -339,6 +339,7 @@ bigbiller.topechelon.com
 bb3api.topechelon.com
 https://github.com/topechelon/BB3ChromeExtension
 https://coda.io/*
+https://coda.io/signup/email
 https://airflow-prod.coda.io/*
 https://data.coda.io/*
 https://head.coda.io/*
@@ -451,9 +452,6 @@ actionservice.refereum.com
 account.refereum.com
 *.kartpay.com
 *.upgrade.com
-dashboard.shieldox.com
-*.shieldox.com
-*.shieldox.ai
 graphql2.trint.com
 app.trint.com
 upload.trint.com
@@ -806,6 +804,7 @@ www.saturn.lu
 www.ibood.com
 *.mediamarkt.at
 *.arkadiyt.com
+https://v2.augur.net/#!/create-market
 https://github.com/AugurProject/augur/tree/master/packages/augur-tools
 https://github.com/AugurProject/augur/tree/master/packages/augur-test
 https://github.com/AugurProject/augur/tree/master/packages/augur-artifacts
@@ -1123,6 +1122,8 @@ jira.grab.com
 wiki.grab.com
 grab.careers
 mos.grabpay.com
+*.stg-myteksi.com
+*.grabtaxi.io
 hub.grab.com
 drivegrab.com
 graballstars.com

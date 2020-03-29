@@ -111,6 +111,7 @@ https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 *.allegro.pl.allegrosandbox.pl
 https://coda.io/*
+https://coda.io/signup/email
 https://airflow-prod.coda.io/*
 https://data.coda.io/*
 https://head.coda.io/*
@@ -384,6 +385,7 @@ app.beta.android.mewwallet.com
 www.vintage.myetherwallet.com
 app.android.mewconnect
 https://mcbeta.myetherwallet.com/
+https://v2.augur.net/#!/create-market
 https://github.com/AugurProject/augur/tree/master/packages/augur-tools
 https://github.com/AugurProject/augur/tree/master/packages/augur-test
 https://github.com/AugurProject/augur/tree/master/packages/augur-artifacts
@@ -610,6 +612,8 @@ jira.grab.com
 wiki.grab.com
 grab.careers
 mos.grabpay.com
+*.stg-myteksi.com
+*.grabtaxi.io
 hub.grab.com
 drivegrab.com
 graballstars.com
