@@ -42,6 +42,10 @@ api.home.stag.visma.com
 app.workbox.dk
 authz.workbox.dk
 api.workbox.dk
+myservices.stage.vismaonline.com
+admin.stage.vismaonline.com
+identity.stage.vismaonline.com
+http://myservices-api.stage.vismaonline.com/
 mobileemployee.stag.visma.net/employee
 www.goodrx.com
 gold.goodrx.com
@@ -612,8 +616,8 @@ jira.grab.com
 wiki.grab.com
 grab.careers
 mos.grabpay.com
-*.stg-myteksi.com
 *.grabtaxi.io
+*.stg-myteksi.com
 hub.grab.com
 drivegrab.com
 graballstars.com
@@ -1065,6 +1069,8 @@ https://github.com/notepad-plus-plus/notepad-plus-plus.git
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
+www.reset.tech
+apply.reset.tech
 https://*.cobinhood.com
 *.booztx.com
 www.booztlet.com

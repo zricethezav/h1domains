@@ -20,6 +20,7 @@ starwoodhotels.com
 roblox.com
 rbx.com
 ra.roblox.com
+slots.io
 sportsbet.io
 bitcasino.io
 infra.lifeomic.com
@@ -167,9 +168,7 @@ duckduckgo.com
 staging-airtableblocks.com
 staging.airtable.com
 shipt.com
-mediamarkt.at
 arkadiyt.com
-impinj.com
 liberapay.com
 liberapay.org
 dynoquant.com
@@ -223,8 +222,8 @@ grab.com
 grabpay.com
 grabtaxi.com
 grab.co
-stg-myteksi.com
 grabtaxi.io
+stg-myteksi.com
 icq.com
 icq.net
 spotify.com
@@ -315,6 +314,7 @@ tumblr.com
 srvcs.tumblr.com
 txmblr.com
 spell.run
+mediamarkt.at
 ycombinator.com
 mapsmarker.com/*
 booztx.com
