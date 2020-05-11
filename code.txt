@@ -1,13 +1,11 @@
 Symbol CLI  - https://github.com/nemtech/symbol-cli
-https://github.com/PegaSysEng/orion
-https://github.com/PegaSysEng/ethsigner
-https://github.com/hyperledger/besu
 https://github.com/orion-labs/node-red-contrib-orion
+https://github.com/orion-labs/node-orion
 https://github.com/tokencard/contracts
 https://github.com/celo-org/zexe
 https://github.com/celo-org/celo-blockchain
 https://github.com/celo-org/celo-monorepo
-https://github.com/insolar/insolar/tree/master/application/builtin/contract
+https://github.com/insolar/mainnet/tree/master/application/builtin/contract
 https://github.com/lifeomic/cli
 https://github.com/kubernetes/csi-api
 https://github.com/kubernetes/kubernetes
@@ -93,6 +91,8 @@ https://github.com/kubernetes-client/perl
 https://github.com/kubernetes-client/java
 https://github.com/kubernetes-client/python-base
 https://github.com/kubernetes-client/gen
+https://github.com/jitsi/
+https://github.com/callstats-io/
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
@@ -150,7 +150,6 @@ MariaDB Server & Connectors - Access control bypass
 MariaDB Server & Connectors - Data corruption, exfiltration, disclosure
 MariaDB Server & Connectors  - Denial of Service
 airtable.js SDK (https://www.npmjs.com/package/airtable)
-https://github.com/MyEtherWallet/MEWconnect-Android/
 https://github.com/arkadiyt/ssrf_filter
 https://github.com/arkadiyt/bounty-targets
 https://github.com/arkadiyt/aws_public_ips
@@ -371,6 +370,7 @@ seeftl
 meta-git
 hexo-admin
 npm-git-publish
+total.js
 https://github.com/johnbillion/user-switching
 https://github.com/johnbillion/query-monitor
 https://github.com/johnbillion/wp-crontrol
@@ -401,6 +401,7 @@ Spotify SDKs
 iOS SDK
 Android SDK
 Web Playback SDK
+Backstage source code
 https://github.com/cuvva/docs
 https://github.com/WeblateOrg/weblate
 https://github.com/WeblateOrg/wlc
@@ -508,12 +509,9 @@ Athenz
 Verizon Media Open Source Projects (misc)
 https://github.com/rails/rails
 https://github.com/openssl/openssl
-https://github.com/icon-project/icon-service
-https://github.com/icon-project/loopchain
-https://github.com/icon-project/iconex_chrome_extension
-https://github.com/icon-project/icon-rpc-server
-https://github.com/icon-project/icon-commons
-https://github.com/icon-project/earlgrey
+https://github.com/PegaSysEng/orion
+https://github.com/PegaSysEng/ethsigner
+https://github.com/hyperledger/besu
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://github.com/apache/kafka

@@ -1,3 +1,15 @@
+cainiao.com
+alibaba.com
+aliexpress.com
+taobao.com
+tmall.com
+aliyun.com
+alibabacloud.com
+1688.com
+dingtalk.com
+alibaba-inc.com
+aliyun-inc.com
+alimama.com
 myndr.net
 digitalocean.com
 digitaloceanspaces.com
@@ -40,9 +52,9 @@ contactnow.8x8.com
 jit.si
 wavecell.com
 sameroom.io
-voicenet-solutions.com
 mycontactual.com
 jitsi.org
+voicenet-solutions.com
 whitepj.net
 lh-matrix.com
 lhcapital-matrix.com
@@ -91,7 +103,7 @@ quifax.es
 quifax.com
 kartpay.com
 upgrade.com
-zeit.co
+vercel.com
 zeit.sh
 now.systems
 tomtom.com
@@ -113,7 +125,6 @@ unitedincome.com
 luma.co.uk
 capitalonecareers.co.uk
 criticalstack.com
-intelstack.com
 capitalonecards.com
 theunioncard.com
 teamstercardnow.com
@@ -186,6 +197,7 @@ gs-mosaic.gs.com
 qaglobal-liquidity.gs.com
 global-liquidity.gs.com
 ayco.com
+gspublishing.com
 claritymoney.com
 newrelic.com
 infrastructure.newrelic.com
@@ -224,8 +236,8 @@ grabtaxi.com
 grab.co
 grabtaxi.io
 stg-myteksi.com
-icq.com
 icq.net
+icq.com
 spotify.com
 spotify.net
 spotifyforbrands.com
@@ -262,6 +274,7 @@ algolianet.com
 binary.com
 ok.ru
 zendesk.com/connect*
+shopifykloud.com
 shopify.com
 ubnt.com
 ui.com
@@ -309,6 +322,7 @@ irccloud.com
 cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
+cengage.com
 companyhub.com
 tumblr.com
 srvcs.tumblr.com
