@@ -1,3 +1,16 @@
+mi.com
+xiaomi.com
+miui.com
+xiaomiyoupin.com
+miwifi.com
+betfair.com
+paddypower.com
+betfair.es
+betfair.it
+betfair.ro
+betfair.se
+paddypower.it
+cengage.com
 cainiao.com
 alibaba.com
 aliexpress.com
@@ -236,8 +249,6 @@ grabtaxi.com
 grab.co
 grabtaxi.io
 stg-myteksi.com
-icq.net
-icq.com
 spotify.com
 spotify.net
 spotifyforbrands.com
@@ -322,7 +333,6 @@ irccloud.com
 cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
-cengage.com
 companyhub.com
 tumblr.com
 srvcs.tumblr.com
@@ -330,5 +340,7 @@ txmblr.com
 spell.run
 mediamarkt.at
 ycombinator.com
+icq.net
+icq.com
 mapsmarker.com/*
 booztx.com
