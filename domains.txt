@@ -251,6 +251,7 @@ api.imaginecurve.com
 vpn.imaginecurve.com
 curve.com
 curve.app
+*.bountypay.h1ctf.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 *.dev.jupiterone.io
@@ -945,13 +946,14 @@ teamhelp.upserve.com
 ecs-lb.breadcrumb.com
 theacademy.upserve.com
 ecslb.breadcrumb.com
-api.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
-link.plaid.com
 my.plaid.com
 demo.plaid.com
+link.plaid.com
+https://github.com/plaid/plaid-link-examples
+api.plaid.com
 *.vanillaforums.com
 *.vanillacommunities.com
 *.vanillastaging.com
@@ -1597,7 +1599,6 @@ localizestaging.com
 api.localizestaging.com
 localize.live/staging
 cdn.localizestaging.com
-https://h1-415.h1ctf.com
 mtn.com
 Mtn.co.za
 Mtn.com.af

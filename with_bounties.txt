@@ -520,13 +520,14 @@ teamhelp.upserve.com
 ecs-lb.breadcrumb.com
 theacademy.upserve.com
 ecslb.breadcrumb.com
-api.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
-link.plaid.com
 my.plaid.com
 demo.plaid.com
+link.plaid.com
+https://github.com/plaid/plaid-link-examples
+api.plaid.com
 *.vanillaforums.com
 *.vanillacommunities.com
 *.vanillastaging.com

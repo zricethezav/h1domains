@@ -205,7 +205,9 @@ https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter
 https://gitlab.com/jamieweb/dl-integrity-verify
 https://github.com/JamieOnUbuntu/irc-drawing-bot
 https://github.com/nodejs/node
-https://github.com/plaid/link
+https://github.com/plaid/plaid-link-ios
+https://github.com/plaid/plaid-link-android
+https://github.com/plaid/plaid-link-examples
 https://github.com/vanilla/vanilla/
 https://github.com/vanilla/addons
 https://github.com/vanilla/community
