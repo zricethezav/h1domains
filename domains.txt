@@ -1,3 +1,4 @@
+https://d18papeh5u7ohm.cloudfront.net
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -20,6 +21,8 @@ www.mi.com/in/redmi-note-7-pro/
 *.betfair.ro
 *.betfair.se
 *.paddypower.it
+www.poddercentral.com
+https://www.myomnipod.com
 www.nisc50.coop
 ivueappsuite.com
 www.wireddifferently.coop
@@ -170,7 +173,7 @@ ticket.nutanix.com
 webex.nutanix.com
 events.nutanix.com
 my.nutanix.com
-jira-dc-prod.nutanix.com
+jira.nutanix.com
 nutanix.com
 developer.nutanix.com
 next.nutanix.com
@@ -180,6 +183,13 @@ productsizer.nutanix.com
 gp.nutanix.com
 stage-billing.nutanix.com
 mops.nutanix.com
+idp.nutanix.com
+cpq.nutanix.com
+iot.nutanix.com
+frame.nutanix.com
+beam.nutanix.com
+*.nutanix.com
+testdrive.nutanix.com
 www.topcoder.com
 api.topcoder.com
 arena.topcoder.com
@@ -566,6 +576,7 @@ www.backblaze.com
 *.backblaze.com
 app.smartsheet.com
 api.smartsheet.com/2.0
+admin.smartsheet.com
 https://api.smartsheet.com/1.1
 *api.trustpilot.com
 *authenticate.trustpilot.com
@@ -1131,8 +1142,8 @@ assets.spotify.com
 api.spotify.com
 *.spotify.net
 *.spotifyforbrands.com
-com.spotify.kids
 backstage.io
+com.spotify.kids
 *.gimletmedia.com
 *.soundtrap.com
 *.loudr.com
@@ -1349,10 +1360,10 @@ maximum.nl
 werkenbijdefensie.nl
 mijn.werkenbijdefensie.nl
 werkenbijderet.nl
-werkenbijmcdonalds.nl
 www.werkenbijbakertilly.nl
 careers.evonik.com
 devmaximum.com
+werkenbijmcdonalds.nl
 techniekbijdemarine.nl
 www.paspoortspel.nl
 www.wereldwijdactief.nl
@@ -1441,6 +1452,7 @@ demo.urbandoor.com
 provider.demo.urbandoor.com
 admin.demo.urbandoor.com
 *.hoteltonight-test.com
+luckey.partners
 www.dropbox.com
 paper.dropbox.com
 showcase.dropbox.com
@@ -1589,8 +1601,6 @@ https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://support.hackerone.com
 https://hackerone-attachments.s3.amazonaws.com/
-www.poddercentral.com
-https://www.myomnipod.com
 https://github.com/hyperledger/besu
 https://github.com/PegaSysEng/ethsigner
 https://github.com/PegaSysEng/orion

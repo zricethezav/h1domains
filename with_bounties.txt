@@ -1,3 +1,4 @@
+https://d18papeh5u7ohm.cloudfront.net
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -222,6 +223,7 @@ www.backblaze.com
 *.backblaze.com
 app.smartsheet.com
 api.smartsheet.com/2.0
+admin.smartsheet.com
 https://api.smartsheet.com/1.1
 *api.trustpilot.com
 *authenticate.trustpilot.com
@@ -645,8 +647,8 @@ assets.spotify.com
 api.spotify.com
 *.spotify.net
 *.spotifyforbrands.com
-com.spotify.kids
 backstage.io
+com.spotify.kids
 *.gimletmedia.com
 *.soundtrap.com
 *.loudr.com
@@ -806,10 +808,10 @@ maximum.nl
 werkenbijdefensie.nl
 mijn.werkenbijdefensie.nl
 werkenbijderet.nl
-werkenbijmcdonalds.nl
 www.werkenbijbakertilly.nl
 careers.evonik.com
 devmaximum.com
+werkenbijmcdonalds.nl
 techniekbijdemarine.nl
 www.paspoortspel.nl
 www.wereldwijdactief.nl
@@ -885,6 +887,7 @@ demo.urbandoor.com
 provider.demo.urbandoor.com
 admin.demo.urbandoor.com
 *.hoteltonight-test.com
+luckey.partners
 www.dropbox.com
 paper.dropbox.com
 showcase.dropbox.com
