@@ -11,6 +11,7 @@ betfair.ro
 betfair.se
 paddypower.it
 cengage.com
+lazada.sg
 cainiao.com
 alibaba.com
 aliexpress.com
@@ -49,7 +50,6 @@ nutanix.com
 slots.io
 sportsbet.io
 bitcasino.io
-bountypay.h1ctf.com
 infra.lifeomic.com
 dev.lifeomic.com
 dev.jupiterone.io
@@ -119,7 +119,7 @@ quifax.com
 kartpay.com
 upgrade.com
 vercel.com
-zeit.sh
+vercel.sh
 now.systems
 tomtom.com
 tomtomgroup.com
@@ -194,6 +194,7 @@ duckduckgo.com
 staging-airtableblocks.com
 staging.airtable.com
 shipt.com
+mediamarkt.at
 arkadiyt.com
 liberapay.com
 liberapay.org
@@ -336,11 +337,11 @@ cbhq.net
 commerce.coinbase.com
 vpn.hackerone.net
 companyhub.com
+bountypay.h1ctf.com
 tumblr.com
 srvcs.tumblr.com
 txmblr.com
 spell.run
-mediamarkt.at
 ycombinator.com
 icq.net
 icq.com

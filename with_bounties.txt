@@ -1,4 +1,3 @@
-https://d18papeh5u7ohm.cloudfront.net
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -21,6 +20,7 @@ www.mi.com/in/redmi-note-7-pro/
 *.betfair.ro
 *.betfair.se
 *.paddypower.it
+*.lazada.sg
 *.cainiao.com
 *.alibaba.com
 *.aliexpress.com
@@ -173,7 +173,6 @@ www.pixiv.net
 *.api.savedroid.de
 api.savedroid.com/*
 gobitcoinking.com
-https://mainnet.eos.dfuse.io
 mgmtpod-1.forescoutcloud.net
 datapod-1-ingest.forescoutcloud.net
 datapod-1-query.forescoutcloud.net
@@ -308,12 +307,15 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+accounts.magento.cloud
+accounts.magento.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
 assets.hyatt.com
-https://www.hyatt.com/en-US/payment/details
+salesportal.hyatt.com
 newsroom.images.hyatt.com
+https://www.hyatt.com/en-US/payment/details
 www.grammarly.com
 auth.grammarly.com
 capi.grammarly.com
@@ -451,6 +453,7 @@ developer.valvesoftware.com
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
+https://auth.crypto.com/
 mco.crypto.com
 *.newrelic.com
 infrastructure.newrelic.com
@@ -701,7 +704,7 @@ portswigger.net
 forum.portswigger.net
 *.web-security-academy.net
 gift.starbucks.co.jp
-login.starbucks.co.jp/login
+login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.de
@@ -785,7 +788,7 @@ semmle.com
 GitHub.com/CSP
 https://gist.github.com
 www.mapbox.com
-https://www.mapbox.com/api-documentation
+https://docs.mapbox.com/api/
 api.mapbox.com
 https://www.mapbox.com/studio/
 https://github.com/paragonie/paseto
@@ -860,6 +863,7 @@ www.scan.me
 scan.snapchat.com
 spectacles.com
 *.ubnt.com
+community.ui.com
 *.ui.com
 www.airbnb.com
 next.airbnb.com
@@ -891,6 +895,10 @@ luckey.partners
 www.dropbox.com
 paper.dropbox.com
 showcase.dropbox.com
+app.hellosign.com
+api.hellosign.com
+api.helloworks.com
+portal.helloworks.com
 dropboxforum.com
 com.dropbox.paper
 www.vimeo.com
@@ -1027,6 +1035,7 @@ https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://hackerone-attachments.s3.amazonaws.com/
+https://d18papeh5u7ohm.cloudfront.net
 https://github.com/hyperledger/besu
 https://github.com/PegaSysEng/ethsigner
 https://github.com/PegaSysEng/orion

@@ -1,3 +1,6 @@
+https://github.com/maticnetwork/heimdall
+https://github.com/maticnetwork/bor
+https://github.com/maticnetwork/contracts
 Symbol CLI  - https://github.com/nemtech/symbol-cli
 https://github.com/orion-labs/node-red-contrib-orion
 https://github.com/orion-labs/node-orion
@@ -466,8 +469,8 @@ nextcloud/text
 nextcloud/mail
 https://www.mapbox.com/mapbox.js/
 https://www.mapbox.com/mapbox-gl-js/
-https://www.mapbox.com/ios-sdk/maps/overview/
-https://www.mapbox.com/android-docs/maps/overview/
+https://docs.mapbox.com/ios/maps/overview/
+https://docs.mapbox.com/android/
 https://github.com/mapbox
 https://github.com/paragonie/sodium_compat
 https://github.com/paragonie/easydb
@@ -497,6 +500,7 @@ owncloud/gallery
 owncloud/updater
 owncloud/contacts
 owncloud/tasks
+https://github.com/bwillis/versioncake
 https://github.com/qiwi
 https://github.com/WordPoints/wordpoints/
 https://github.com/WordPoints/
@@ -523,4 +527,3 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
 https://github.com/parrotsec
-https://github.com/bwillis/versioncake
