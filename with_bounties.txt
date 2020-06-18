@@ -314,6 +314,7 @@ www.hyatt.com
 world.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
+meetings.hyatt.com
 newsroom.images.hyatt.com
 https://www.hyatt.com/en-US/payment/details
 www.grammarly.com
@@ -829,7 +830,6 @@ h1-your-domain.zendesk.com
 *.zendesk.com/connect*
 apps.zendesk.com
 com.zopim.android
-www.udemy.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
@@ -1111,3 +1111,4 @@ www.legalrobot.com
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+www.udemy.com
