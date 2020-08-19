@@ -1,13 +1,14 @@
+https://github.com/solana-labs/solana/tree/master/sdk
+https://github.com/solana-labs/solana/tree/master/programs
+https://github.com/solana-labs/solana/tree/master/runtime
+https://github.com/solana-labs/example-helloworld
+https://github.com/solana-labs/solana-program-library
 https://github.com/maticnetwork/heimdall
 https://github.com/maticnetwork/bor
 https://github.com/maticnetwork/contracts
-Symbol CLI  - https://github.com/nemtech/symbol-cli
 https://github.com/orion-labs/node-red-contrib-orion
 https://github.com/orion-labs/node-orion
 https://github.com/tokencard/contracts
-https://github.com/celo-org/zexe
-https://github.com/celo-org/celo-blockchain
-https://github.com/celo-org/celo-monorepo
 https://github.com/insolar/mainnet/tree/master/application/builtin/contract
 https://github.com/lifeomic/cli
 https://github.com/kubernetes/csi-api
@@ -118,9 +119,6 @@ https://github.com/pyca/bcrypt
 https://github.com/pyca/pyopenssl
 https://github.com/Backblaze/B2_Command_Line_Tool
 https://github.com/Backblaze/b2-sdk-java
-https://github.com/UMAprotocol/protocol/tree/master/sponsor-dapp
-https://github.com/UMAprotocol/protocol/tree/master/contracts
-https://github.com/UMAprotocol/protocol/blob/master/README.md
 Java Component in search.maven.org
 Java component NOT in search.maven.org
 com.amazonaws
@@ -156,22 +154,11 @@ https://github.com/arkadiyt/ssrf_filter
 https://github.com/arkadiyt/bounty-targets
 https://github.com/arkadiyt/aws_public_ips
 https://github.com/arkadiyt/zoom-redirector
-https://github.com/AugurProject/augur/tree/master/packages/augur-core
-https://github.com/AugurProject/augur/tree/master/packages/augur-sdk
-https://github.com/AugurProject/augur/tree/master/packages/augur-artifacts
-https://github.com/AugurProject/augur/tree/master/packages/augur-tools
-https://github.com/AugurProject/augur/tree/master/packages/augur-types
-https://github.com/AugurProject/augur/tree/master/packages/augur-utils
-https://github.com/AugurProject/augur/tree/master/packages/augur-ui
 https://github.com/tronprotocol/java-tron
 https://github.com/jedisct1/libsodium
 https://git-tails.immerda.ch/tails/
 https://github.com/WhisperSystems/libsignal-protocol-c
 https://github.com/liberapay/liberapay.com
-https://github.com/EOSIO/eos
-https://github.com/EOSIO/eosjs
-https://github.com/EOSIO/eosio.cdt
-https://github.com/EOSIO/eosio.contracts
 http://gitlab.com/passit/
 https://github.com/tendermint/tendermint
 https://github.com/tendermint/go-amino
@@ -189,17 +176,18 @@ https://github.com/crypto-com/chain
 https://github.com/crypto-com/chain-tx-enclave
 https://github.com/rsksmart/rskj
 https://github.com/rsksmart/tokenbridge
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-ca
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaincode-java
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaincode-node
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-chaintool
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-node
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-java
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-baseimage
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-go
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-py
-https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-rest
+https://github.com/hyperledger/fabric
+https://github.com/hyperledger/fabric-ca
+https://github.com/hyperledger/fabric-chaincode-java
+https://github.com/hyperledger/fabric-chaincode-node
+https://github.com/hyperledger/fabric-chaintool
+https://github.com/hyperledger/fabric-sdk-node
+https://github.com/hyperledger/fabric-sdk-java
+https://github.com/hyperledger/fabric-baseimage
+https://github.com/hyperledger/fabric-sdk-go
+https://github.com/hyperledger/fabric-sdk-py
+https://github.com/hyperledger/fabric-sdk-rest
+https://github.com/hyperledger/fabric
 https://gitlab.com/jamieweb/results-whitelist
 https://gitlab.com/jamieweb/jamieweb
 https://gitlab.com/jamieweb/jw-config
@@ -379,6 +367,13 @@ jimp
 jpeg-js
 devcert
 Ghost
+crypto-js
+jison
+logkitty
+react-autolinker-wrapper
+utils-extend
+jsonpointer
+Uppy
 https://github.com/johnbillion/user-switching
 https://github.com/johnbillion/query-monitor
 https://github.com/johnbillion/wp-crontrol
@@ -405,6 +400,7 @@ https://github.com/18F/federalist-docker-build
  https://github.com/18F/identity-idp
 https://github.com/18F/identity-saml-sinatra
 https://github.com/18F/identity-saml-rails
+https://github.com/parrotsec
 Spotify SDKs
 iOS SDK
 Android SDK
@@ -518,6 +514,7 @@ Athenz
 Verizon Media Open Source Projects (misc)
 https://github.com/rails/rails
 https://github.com/openssl/openssl
+Symbol CLI  - https://github.com/nemtech/symbol-cli
 https://github.com/PegaSysEng/orion
 https://github.com/PegaSysEng/ethsigner
 https://github.com/hyperledger/besu
@@ -527,4 +524,3 @@ https://github.com/apache/kafka
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 https://github.com/notepad-plus-plus/notepad-plus-plus.git
 https://github.com/deconf/Google-Analytics-Dashboard-for-WP
-https://github.com/parrotsec
