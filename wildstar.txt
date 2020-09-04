@@ -1,3 +1,7 @@
+rebelliondefence.com
+rebelliondefense.com
+moochirp.io
+mooch.rip
 api-*.acronis.com
 acronis.com
 acronis.com
@@ -10,6 +14,11 @@ finra.org
 gener8ads.com
 engelvoelkers.com
 wellsfargo.com
+wf.com
+wellsfargoadvisors.com
+mworld.com
+wystar.com
+advisor-connection.com
 playstation.net
 sonyentertainmentnetwork.com
 api.playstation.com
@@ -52,6 +61,7 @@ kolikkopelit.com
 casinohuone.com
 igame.com
 vladcazino.ro
+ottokasino.com
 ayment-quick.unibet.com
 ayment.unibet.com
 ns.unibet.com
@@ -321,7 +331,8 @@ tubemogul.com
 typekit.com
 adobe.com
 scene7.com
-omtrdc.net
+tt.omtrdc.net
+adobeconnect.com
 airbnb.com
 airbnbcitizen.com
 atairbnb.com

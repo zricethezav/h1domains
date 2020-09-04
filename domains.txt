@@ -1,4 +1,17 @@
-www.dropcontact.io
+app.faraday.io
+https://simplepoll.rocks
+simplegoals.app
+www.aiven.io
+console.aiven.io
+api.aiven.io
+aivencloud.com
+help.aiven.io
+*.rebelliondefence.com
+*.rebelliondefense.com
+*.moochirp.io
+*.mooch.rip
+www.rebelliondefense.com
+app.dropcontact.io
 beta-baas.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -42,6 +55,7 @@ https://ews.qa.finra.org/*
 *.gener8ads.com
 www.ozon.ru
 *.engelvoelkers.com
+authz.engelvoelkers.com/
 www.gg-magazine.com
 https://uem.engelvoelkers.com/
 https://www.engelvoelkers.com/search/
@@ -53,6 +67,11 @@ app.smtp2go.com
 api.uphabit.com
 web.uphabit.com
 *.wellsfargo.com
+*.wf.com
+*.wellsfargoadvisors.com
+*.mworld.com
+*.wystar.com
+*.advisor-connection.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -74,6 +93,7 @@ applause1.magisto.com
 https://www.bitwala.com
 https://app.bitwala.com
 api.app.bitwala.com
+https://d18papeh5u7ohm.cloudfront.net
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -194,6 +214,10 @@ www.helium.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
+unibet.me
+maria.casino
+stly.eu
+*.ottokasino.com
 relaxcdn.unibet.com
 *payment-quick.unibet.com
 *payment.unibet.com
@@ -245,6 +269,7 @@ office.com
 www.goodrx.com
 gold.goodrx.com
 heydoctor.goodrx.com
+api.heydoctor.com
 m.goodrx.com
 api.goodrx.com
 *.roblox.com
@@ -731,6 +756,7 @@ xs1.elvenar.com
 xs.grepolis.com
 xs0.grepolis.com
 xs1.grepolis.com
+support.innogames.com
 tribalwars.cash
 xs1.tribalwars.cash
 https://www.tube8.com/
@@ -1245,11 +1271,11 @@ crm.unikrn.com
 jet-api.unikrn.com
 connekt-api.unikrn.com
 auth.unikrn.com
-cp-ng.pinion.gg
 affiliates.unikrn.com
-pinion.gg
-t.unikrn.com
 bingo-api.unikrn.com
+t.unikrn.com
+pinion.gg
+cp-ng.pinion.gg
 moviecontentfilter.com
 www.moviecontentfilter.com
 briefe.io
@@ -1416,6 +1442,7 @@ api.yelp.com
 biz-app.yelp.com
 www.yelp-support.com
 blog.yelp.com
+restaurants.yelp.com
 yelp.nowait.com
 www.yelpwifi.com
 app.yelpwifi.com
@@ -1533,6 +1560,9 @@ developer.zendesk.com
 h1-your-domain.zendesk.com
 *.zendesk.com/connect*
 apps.zendesk.com
+app.smooch.io
+api.smooch.io
+smooch.io
 com.zopim.android
 *.vk.com
 *.vk.me
@@ -1650,7 +1680,8 @@ theblog.adobe.com
 xd.adobe.com
 *.adobe.com
 *.scene7.com
-*.omtrdc.net
+*.tt.omtrdc.net
+*.adobeconnect.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -1830,7 +1861,6 @@ https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://support.hackerone.com
 https://hackerone-attachments.s3.amazonaws.com/
-https://d18papeh5u7ohm.cloudfront.net
 rghost.net
 https://github.com/hyperledger/besu
 https://github.com/PegaSysEng/ethsigner

@@ -1,3 +1,9 @@
+app.faraday.io
+www.aiven.io
+console.aiven.io
+api.aiven.io
+aivencloud.com
+help.aiven.io
 beta-baas.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -45,6 +51,7 @@ magisto.com,www.magisto.com
 *.magisto.com
 staging.magisto.com
 applause1.magisto.com
+https://d18papeh5u7ohm.cloudfront.net
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -118,6 +125,10 @@ www.helium.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
+unibet.me
+maria.casino
+stly.eu
+*.ottokasino.com
 *payment-quick.unibet.com
 *payment.unibet.com
 *xns.unibet.com
@@ -141,6 +152,7 @@ mobileemployee.stag.visma.net/employee
 www.goodrx.com
 gold.goodrx.com
 heydoctor.goodrx.com
+api.heydoctor.com
 m.goodrx.com
 api.goodrx.com
 *.roblox.com
@@ -322,6 +334,7 @@ xs1.elvenar.com
 xs.grepolis.com
 xs0.grepolis.com
 xs1.grepolis.com
+support.innogames.com
 https://www.tube8.com/
 https://www.tube8.fr/
 https://www.tube8.es/
@@ -676,11 +689,11 @@ crm.unikrn.com
 jet-api.unikrn.com
 connekt-api.unikrn.com
 auth.unikrn.com
-cp-ng.pinion.gg
 affiliates.unikrn.com
-pinion.gg
-t.unikrn.com
 bingo-api.unikrn.com
+t.unikrn.com
+pinion.gg
+cp-ng.pinion.gg
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -821,6 +834,7 @@ api.yelp.com
 biz-app.yelp.com
 www.yelp-support.com
 blog.yelp.com
+restaurants.yelp.com
 sandbox.open-xchange.com
 dav-sandbox.open-xchange.com
 harvestapp.com
@@ -895,6 +909,9 @@ developer.zendesk.com
 h1-your-domain.zendesk.com
 *.zendesk.com/connect*
 apps.zendesk.com
+app.smooch.io
+api.smooch.io
+smooch.io
 com.zopim.android
 *.vk.com
 *.vk.me
@@ -1112,7 +1129,6 @@ https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 https://ctf.hacker101.com
 https://hackerone-attachments.s3.amazonaws.com/
-https://d18papeh5u7ohm.cloudfront.net
 https://github.com/hyperledger/besu
 https://github.com/PegaSysEng/ethsigner
 https://github.com/PegaSysEng/orion

@@ -1,3 +1,5 @@
+https://github.com/Agoric/ses-shim
+https://github.com/Agoric/agoric-sdk
 https://github.com/solana-labs/solana/tree/master/sdk
 https://github.com/solana-labs/solana/tree/master/programs
 https://github.com/solana-labs/solana/tree/master/runtime
@@ -374,6 +376,8 @@ react-autolinker-wrapper
 utils-extend
 jsonpointer
 Uppy
+json-bigint
+property-expr
 https://github.com/johnbillion/user-switching
 https://github.com/johnbillion/query-monitor
 https://github.com/johnbillion/wp-crontrol
@@ -407,6 +411,7 @@ Android SDK
 Web Playback SDK
 Backstage source code
 https://github.com/cuvva/docs
+SSO_Saml_connector
 https://github.com/WeblateOrg/weblate
 https://github.com/WeblateOrg/wlc
 https://github.com/WeblateOrg/docker
@@ -498,6 +503,9 @@ owncloud/updater
 owncloud/contacts
 owncloud/tasks
 https://github.com/bwillis/versioncake
+https://github.com/smooch/smooch-android
+https://github.com/smooch/smooch-ios
+https://github.com/smooch/smooch-web
 https://github.com/qiwi
 https://github.com/WordPoints/wordpoints/
 https://github.com/WordPoints/
