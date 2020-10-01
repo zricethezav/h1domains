@@ -1207,3 +1207,8 @@ www.legalrobot.com
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+cs.money
+support.cs.money
+new.cs.money
+3d.cs.money
+wiki.cs.money
