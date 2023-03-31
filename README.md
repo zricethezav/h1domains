@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 11:10:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 12:12:37 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -881,9 +881,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1940,8 +1940,8 @@ www.youporn.com
 www.youpornpremium.com
 https://moneybird.com
 https://moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 npmjs.org
@@ -2051,9 +2051,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
+snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
@@ -2101,7 +2101,6 @@ magento.com
 magentolive.com
 u.magento.com
 imagine.magento.com
-account.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -2459,10 +2458,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
