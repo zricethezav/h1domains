@@ -1032,13 +1032,13 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 forum.sketchfab.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -4431,8 +4431,6 @@ documentcloud.adobe.com
 u.magento.com
 imagine.magento.com
 account.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -4693,8 +4691,8 @@ api.slack.com
 slackatwork.com
 slack-redir.net
 slackb.com
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
