@@ -1,0 +1,21 @@
+name: update
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # run once an hour
+jobs:
+  auto-update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        fetch-depth: 0
+    - name: Create local changes
+      run: |
+        ./run.sh
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        author_name: zricethezav
+        branch: master
