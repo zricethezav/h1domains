@@ -1177,8 +1177,8 @@ consensys,consensys.net,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,trufflesuite.com,True
 consensys,staking.codefi.network,True
-consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
+consensys,bridge.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1529,8 +1529,6 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
-gsa_vdp,digitalgov.gov,False
-gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1570,6 +1568,8 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
+gsa_vdp,dss.gsa.gov,False
+gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2312,8 +2312,8 @@ acronis,*.5nine.com,True
 acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 affirm,https://hackerone.affirm-odin.com,True
-affirm,https://dashboard.dev.return.ly,True
-affirm,https://TEST-STORE-SUBDOMAIN.dev.return.ly,True
+affirm,http://dashboard.returnly.com/,True
+affirm,https://TEST-STORE-SUBDOMAIN.returnly.com/,True
 affirm,https://direct-hackerone.affirm-odin.com/,False
 affirm,https://vcn-hackerone.affirm-odin.com/,False
 watson_group,mapi-sim.fortress.com.hk,True
@@ -2682,12 +2682,12 @@ marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,mi.bookmarriott.com,True
 marriott,activities.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
-marriott,giftcards.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
@@ -3505,9 +3505,9 @@ capital-one,*.capitalone.co.uk,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
-capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
+capital-one,*.capitalonecards.com,False
 capital-one,*.usejewel.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.wikibuy.com,False
@@ -4432,8 +4432,6 @@ adobe,*.typekit.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4535,9 +4533,9 @@ airbnb,one.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.muscache.com,True
 airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True

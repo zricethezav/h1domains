@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 17:13:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 18:12:27 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -566,8 +566,8 @@ consensys.net
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -864,8 +864,8 @@ account.acronis.com
 *.devicelock.com
 *.acronis.work
 https://hackerone.affirm-odin.com
-https://dashboard.dev.return.ly
-https://TEST-STORE-SUBDOMAIN.dev.return.ly
+http://dashboard.returnly.com/
+https://TEST-STORE-SUBDOMAIN.returnly.com/
 mapi-sim.fortress.com.hk
 www10.watsons.com.hk
 www10.watsons.com.tw
@@ -1138,12 +1138,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 mi.bookmarriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -2127,9 +2127,9 @@ one.airbnb.com
 *.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-*.hoteltonight-test.com
 luckey.fr
 luckey.in
+*.hoteltonight-test.com
 *.muscache.com
 *.airbnb.com
 api.airbnb.com
