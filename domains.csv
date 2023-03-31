@@ -659,7 +659,6 @@ n45ht,n45ht.or.id,False
 n45ht,ctf.n45ht.or.id,False
 n45ht,api.n45ht.or.id,False
 n45ht,1337.or.id,False
-n45ht,nusastory.com,False
 fidelity,*.fidelity.com,False
 fidelity,*.fidelity.com,False
 usertesting,www.usertesting.com/*,False
@@ -1179,8 +1178,8 @@ consensys,consensys.net,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,trufflesuite.com,True
 consensys,staking.codefi.network,True
-consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
+consensys,bridge.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1531,6 +1530,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1570,8 +1571,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -4239,8 +4238,8 @@ pornhub,www.youporn.com,True
 pornhub,www.youpornpremium.com,True
 moneybird,https://moneybird.com,True
 moneybird,https://moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
@@ -4537,9 +4536,9 @@ airbnb,one.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.muscache.com,True
 airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -4939,10 +4938,10 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,accounts.magento.cloud,True
-magento,account.magento.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True
+magento,accounts.magento.cloud,True
+magento,account.magento.com,True
 magento,marketplace.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
