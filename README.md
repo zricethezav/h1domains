@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 20:09:26 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 21:10:36 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -225,8 +225,8 @@ examinator.epam.com
 *.emakina.com
 *.emakina.fr
 *.emakina.group
-*.projects.epam.com
 *.epam.com
+*.projects.epam.com
 training.epam.com
 anywhere.epam.com
 cloud.epam.com
@@ -432,13 +432,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -2275,9 +2275,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
