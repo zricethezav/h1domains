@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  1 08:10:59 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr  1 09:10:45 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -881,9 +881,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1310,8 +1310,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-*.gs.de
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+*.gs.de
+research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2120,11 +2120,11 @@ luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-demo.urbandoor.com
 admin.demo.urbandoor.com
 next.airbnb.com
 one.airbnb.com
 *.withairbnb.com
+demo.urbandoor.com
 *.airbnbcitizen.com
 *.byairbnb.com
 luckey.fr
@@ -2275,9 +2275,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
