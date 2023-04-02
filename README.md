@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  2 17:09:08 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  2 18:10:39 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -420,13 +420,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -554,8 +554,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1125,12 +1125,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -2038,9 +2038,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
+snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
