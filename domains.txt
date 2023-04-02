@@ -523,8 +523,8 @@ www.fossil.co.id
 *.nycepilepsyteam.com
 *.cccsymposium.org
 *.mountsinaidoctors.org
-*.bethisraelny.org
 *.snch.org
+*.bethisraelny.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -2668,12 +2668,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -3491,9 +3491,9 @@ press.priceline.com
 *.bluetarp.com
 *.capitaloneshopping.com
 *.capitalone.com
+*.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
-*.capitalonecards.com
 *.usejewel.com
 *.teamstercardnow.com
 *.wikibuy.com
@@ -4336,9 +4336,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
+snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
@@ -4418,6 +4418,8 @@ documentcloud.adobe.com
 u.magento.com
 imagine.magento.com
 account.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -4933,10 +4935,10 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
