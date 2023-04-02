@@ -533,10 +533,10 @@ www.fossil.co.id
 *.thehealthcenterhudsonyards.com
 *.thechep.org
 *.sinaidowntown.net
-*.mountsinai.org
 *.mountsinaiheartnp.org
 *.mssm.edu
 *.southnassau.org
+*.mountsinai.org
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -4337,9 +4337,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
+snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
@@ -4676,9 +4676,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com

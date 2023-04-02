@@ -534,10 +534,10 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
-mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.southnassau.org,False
+mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -4338,9 +4338,9 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
@@ -4677,9 +4677,9 @@ coinbase,*.base.org,True
 slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
