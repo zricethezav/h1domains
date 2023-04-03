@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 10:11:38 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 11:10:49 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -29,6 +29,10 @@ https://www.okx.com/docs/en/
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
+injob.indriver.com
+super-services.indriverapp.com
+intercity-*.eu-east-1.indriverapp.com
+priority.eu-east-1.indriverapp.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -551,8 +555,8 @@ federalist-docs.18f.gov
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -787,8 +791,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -868,9 +872,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1588,16 +1592,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.com
 *.gs.de
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2265,8 +2269,8 @@ api.slack.com
 slackatwork.com
 slack-redir.net
 slackb.com
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
