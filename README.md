@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 15:12:42 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 16:14:00 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -430,13 +430,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -878,9 +878,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1133,8 +1133,8 @@ jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+reservations.all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
@@ -1875,8 +1875,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com.sg
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2272,9 +2272,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
