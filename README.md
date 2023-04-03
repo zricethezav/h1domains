@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 17:12:20 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 18:12:36 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -1135,12 +1135,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
 reservations.all-inclusive.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1937,8 +1937,8 @@ www.youporn.com
 www.youpornpremium.com
 https://moneybird.com
 https://moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 npmjs.org
@@ -2272,11 +2272,11 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
