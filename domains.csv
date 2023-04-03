@@ -688,8 +688,8 @@ epam-bbp,*.emakina.us,True
 epam-bbp,*.emakina.com,True
 epam-bbp,*.emakina.fr,True
 epam-bbp,*.emakina.group,True
-epam-bbp,*.projects.epam.com,True
 epam-bbp,*.epam.com,True
+epam-bbp,*.projects.epam.com,True
 epam-bbp,training.epam.com,True
 epam-bbp,anywhere.epam.com,True
 epam-bbp,cloud.epam.com,True
@@ -1527,6 +1527,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1566,8 +1568,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2328,9 +2328,9 @@ watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.kruidvat.nl,True
-watson_group,www10.watsons.com.my,True
 watson_group,www.pns.hk,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
@@ -2679,12 +2679,12 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,mi.bookmarriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,giftcards.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -4401,7 +4401,6 @@ ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,repo.magento.com,True
 adobe,accounts.frame.io,False
-adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.mixamo.com,False
@@ -4413,6 +4412,7 @@ adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
+adobe,app.frame.io,False
 adobe,*.proofhq.com,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -4429,8 +4429,6 @@ adobe,documentcloud.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4688,9 +4686,9 @@ coinbase,*.base.org,True
 slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -4716,12 +4714,12 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
-security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
+security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
@@ -4946,10 +4944,10 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,accounts.magento.cloud,True
-magento,account.magento.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True
+magento,accounts.magento.cloud,True
+magento,account.magento.com,True
 magento,marketplace.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True

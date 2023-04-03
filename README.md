@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 22:09:20 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 23:10:29 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -233,8 +233,8 @@ examinator.epam.com
 *.emakina.com
 *.emakina.fr
 *.emakina.group
-*.projects.epam.com
 *.epam.com
+*.projects.epam.com
 training.epam.com
 anywhere.epam.com
 cloud.epam.com
@@ -878,9 +878,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.kruidvat.nl
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1135,12 +1135,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
 reservations.all-inclusive.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -2272,9 +2272,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2300,12 +2300,12 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
@@ -2468,10 +2468,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
