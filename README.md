@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 13:12:13 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 14:12:18 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -430,13 +430,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -797,8 +797,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -1146,8 +1146,8 @@ hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-clean.marriott.com
 homes-and-villas.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1513,8 +1513,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -1875,8 +1875,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com.sg
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2272,9 +2272,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
@@ -2468,10 +2468,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
