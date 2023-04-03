@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 09:11:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 10:11:38 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -554,8 +554,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -967,8 +967,8 @@ api.direct.playstation.com
 transact.playstation.com
 store.playstation.com
 direct.playstation.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2268,8 +2268,8 @@ slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -2299,11 +2299,11 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 www.hackerone.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
@@ -2458,10 +2458,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
