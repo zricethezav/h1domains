@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 18:12:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 19:11:07 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -564,8 +564,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -875,8 +875,8 @@ www.marionnaud.fr
 apptps.theperfumeshop.com
 www.watsons.com.tr
 www.iciparisxl.lu
-www.watsons.com.ph
 www.watsons.co.id
+www.watsons.com.ph
 www.kruidvat.nl
 www.pns.hk
 api.watsons.com.hk
@@ -1135,12 +1135,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1878,9 +1878,9 @@ www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
 login.starbucks.co.jp
-www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -1945,8 +1945,8 @@ npmjs.org
 gist.github.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -2045,8 +2045,8 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 ads.snapchat.com
-story.snapchat.com
 accounts.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2272,9 +2272,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2468,10 +2468,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
