@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 02:22:19 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 03:10:29 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -420,13 +420,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -554,8 +554,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -966,9 +966,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 store.playstation.com
-*.api.playstation.com
 direct.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2458,10 +2458,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
