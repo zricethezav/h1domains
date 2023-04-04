@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 21:09:54 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 22:11:49 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -435,13 +435,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1140,12 +1140,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1948,8 +1948,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 npmjs.org
 github.com
 github.com
@@ -2253,11 +2253,11 @@ irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
-pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
 *.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 *.base.org
 api.custody.coinbase.com
@@ -2473,9 +2473,9 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
+magentocommerce.com
 accounts.magento.cloud
 account.magento.com
-magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
