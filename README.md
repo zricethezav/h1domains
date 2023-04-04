@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 10:11:13 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 11:09:35 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -567,8 +567,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -741,11 +741,11 @@ launchpad.37signals.com
 *.hey.com
 world.hey.com
 sf-rp-eu.sharefile.com
-(yoursubdomain).sharefile.com
 api.sharefile.com
 www.cloud.com
 accounts.cloud.com
 *.browser.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -1138,19 +1138,19 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-homes-and-villas.marriott.com
 clean.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1944,12 +1944,12 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
-github.com
 *.githubusercontent.com
 gist.github.com
+github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -2048,8 +2048,8 @@ shopifyinbox.com
 create.snapchat.com
 ads.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2275,9 +2275,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
