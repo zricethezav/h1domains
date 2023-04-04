@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 12:11:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 13:13:38 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -26,15 +26,6 @@ hiltonlocalbiz.com
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-*.indriver.com
-*.indriverapp.com
-*.indrive.com
-injob.indriver.com
-super-services.indriverapp.com
-intercity-*.eu-east-1.indriverapp.com
-priority.eu-east-1.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -1601,16 +1592,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1947,8 +1938,8 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 gist.github.com
 github.com
 api.github.com
@@ -2471,10 +2462,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
