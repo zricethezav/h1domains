@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 05:10:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 06:11:54 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -880,9 +880,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.ro
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2056,8 +2056,8 @@ map.snapchat.com
 app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -2275,9 +2275,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
