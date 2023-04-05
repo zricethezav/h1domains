@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 21:11:30 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 22:11:20 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -619,15 +619,13 @@ elastic-cloud.com
 *.link.co
 *.touchtechpayments.com
 js.stripe.com
-*.payable.com
 app.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
+api.stripe.com
 api.taxjar.com
 api.stripe.com
-api.stripe.com
 *.stripe.com
-*.payable.com
 *.touchtechpayments.com
 js.stripe.com
 api.taxjar.com
@@ -1613,16 +1611,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1958,8 +1956,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 gist.github.com
+*.githubusercontent.com
 npmjs.org
 github.com
 github.com
@@ -2483,9 +2481,9 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
