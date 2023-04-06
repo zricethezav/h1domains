@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  6 00:21:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr  6 01:38:21 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -581,8 +581,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1148,12 +1148,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1956,8 +1956,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 npmjs.org
 github.com
 github.com
@@ -2065,9 +2065,9 @@ store.snapchat.com
 map.snapchat.com
 app.snapchat.com
 www.bitmoji.com
-snappublisher.snapchat.com
 business.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -2313,20 +2313,20 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-hackerone-user-content.com
 a5s.hackerone-ext-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
+ctf.hacker101.com
+www.hackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
-www.hackerone.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
