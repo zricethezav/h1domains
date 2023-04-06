@@ -551,8 +551,8 @@ www.fossil.co.id
 *.cccsymposium.org
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1239,8 +1239,8 @@ elastic-cloud.com
 parts.deere.africa
 deere.africa
 kreiselelectric.com
-*deere.com*
 hagiegear.com
+*deere.com*
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -1289,8 +1289,8 @@ www.stripe.partners
 app.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.stripe.com
 api.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1540,8 +1540,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1581,6 +1579,8 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
+dss.gsa.gov
+soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2198,8 +2198,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com

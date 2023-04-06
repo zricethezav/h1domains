@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  6 11:10:03 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr  6 12:12:14 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -619,8 +619,8 @@ js.stripe.com
 app.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.stripe.com
 api.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -812,8 +812,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
