@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  6 14:11:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr  6 15:12:45 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -444,13 +444,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -578,8 +578,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1051,8 +1051,8 @@ https://faucet.polygon.technology/
 *.betsharedservices.io
 *.plateng.io
 chat.amazon.com
-affiliate-program.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 api.amazon.com
@@ -2063,8 +2063,8 @@ map.snapchat.com
 app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
