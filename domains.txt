@@ -10,8 +10,8 @@ idp.staging.login.gov
 secure.login.gov
 node1.pivcac.staging.login.gov
 node1.pivcac.prod.login.gov
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -551,8 +551,8 @@ www.fossil.co.id
 *.cccsymposium.org
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1192,8 +1192,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -3520,9 +3520,9 @@ press.priceline.com
 *.bluetarp.com
 *.capitaloneshopping.com
 *.capitalone.com
+*.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
-*.capitalonecards.com
 *.usejewel.com
 *.teamstercardnow.com
 *.wikibuy.com
@@ -4445,6 +4445,8 @@ documentcloud.adobe.com
 u.magento.com
 imagine.magento.com
 account.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  7 12:09:35 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr  7 13:12:16 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -578,8 +578,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
