@@ -552,8 +552,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.cccsymposium.org,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1541,6 +1541,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1580,8 +1582,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2697,12 +2697,12 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,mi.bookmarriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,giftcards.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -4426,8 +4426,6 @@ adobe,documentcloud.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4965,9 +4963,9 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
 magento,account.magento.com,True
+magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,marketplace.magento.com,True
 magento,u.magento.com,True
