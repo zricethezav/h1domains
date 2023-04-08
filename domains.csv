@@ -2346,9 +2346,9 @@ watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
+watson_group,www10.watsons.com.my,True
 watson_group,www.pns.hk,True
 watson_group,api.watsons.com.hk,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
@@ -4427,8 +4427,6 @@ adobe,documentcloud.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4966,9 +4964,9 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
+magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
 magento,account.magento.com,True
-magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,marketplace.magento.com,True
 magento,u.magento.com,True

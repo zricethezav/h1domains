@@ -2345,9 +2345,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.ro
 www.watsons.co.id
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -4426,8 +4426,6 @@ documentcloud.adobe.com
 u.magento.com
 imagine.magento.com
 account.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -4965,9 +4963,9 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
+magentocommerce.com
 accounts.magento.cloud
 account.magento.com
-magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
