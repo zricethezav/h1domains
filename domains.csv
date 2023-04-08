@@ -175,8 +175,8 @@ stanford-university,who.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-kkr_vdp,*.kkr.com,False
 kkr_vdp,kkr.com,False
+kkr_vdp,*.kkr.com,False
 kkr_vdp,portal.kkr.com,False
 kkr_vdp,www.fskkradvisor.com,False
 kkr_vdp,*.kkr.cloud,False
@@ -2698,12 +2698,12 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,mi.bookmarriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,giftcards.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -3521,9 +3521,9 @@ capital-one,*.capitalone.co.uk,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
-capital-one,*.capitalonecards.com,False
 capital-one,*.usejewel.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.wikibuy.com,False

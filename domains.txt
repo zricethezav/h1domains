@@ -174,8 +174,8 @@ who.stanford.edu
 workgroup.stanford.edu
 netdb.stanford.edu
 mailman.stanford.edu
-*.kkr.com
 kkr.com
+*.kkr.com
 portal.kkr.com
 www.fskkradvisor.com
 *.kkr.cloud
@@ -2697,12 +2697,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -3520,9 +3520,9 @@ press.priceline.com
 *.bluetarp.com
 *.capitaloneshopping.com
 *.capitalone.com
+*.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
-*.capitalonecards.com
 *.usejewel.com
 *.teamstercardnow.com
 *.wikibuy.com
