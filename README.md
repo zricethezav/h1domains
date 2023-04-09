@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  9 22:10:03 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  9 23:10:15 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -444,13 +444,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -578,8 +578,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -887,8 +887,8 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.ro
 www.watsons.co.id
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1134,10 +1134,10 @@ maria.casino
 *.kindredext.net
 https://www.32red.com
 *.highrolling.nu
-sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
+sso.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -1589,16 +1589,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2034,10 +2034,10 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 businesshelp.snapchat.com
-story.snapchat.com
 accounts.snapchat.com
 create.snapchat.com
 ads.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2263,9 +2263,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
