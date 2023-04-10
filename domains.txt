@@ -1048,12 +1048,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 forum.sketchfab.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.fortnite.com
 *.rocketleague.com
 *.psynet.gg
@@ -1192,8 +1192,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -2197,8 +2197,8 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2345,8 +2345,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -3519,9 +3519,9 @@ press.priceline.com
 *.bluetarp.com
 *.capitaloneshopping.com
 *.capitalone.com
+*.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
-*.capitalonecards.com
 *.usejewel.com
 *.teamstercardnow.com
 *.wikibuy.com
@@ -4397,7 +4397,6 @@ dev-training.ui.com
 wiki.ui.com
 accounts.frame.io
 stream.frame.io
-*.adobeaemcloud.com
 *.mixamo.com
 community.adobe.com
 exchange.adobe.com
@@ -4409,6 +4408,7 @@ repo.magento.com
 magento.com
 auth.services.adobe.com
 *.adobe.com
+*.adobeaemcloud.com
 *.proofhq.com
 *.omniture.com
 create.adobe.com
