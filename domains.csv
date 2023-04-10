@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 gsa-h1c3,idp.int.identitysandbox.gov,True
 gsa-h1c3,login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True
-gsa-h1c3,node1.pivcac.staging.login.gov,True
 gsa-h1c3,idp.staging.login.gov,True
+gsa-h1c3,node1.pivcac.staging.login.gov,True
 gsa-h1c3,secure.login.gov,True
 gsa-h1c3,login.gov,True
 gsa-h1c3,idp.int.identitysandbox.gov,True
@@ -552,8 +552,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.cccsymposium.org,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
-mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.bethisraelny.org,False
+mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1029,12 +1029,12 @@ epicgames,harmonixmusic.com,True
 epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
 epicgames,forum.sketchfab.com,False
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -3473,8 +3473,8 @@ chainlink,*.smartcontract.com,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
 priceline,www.priceline.com,True
-priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -3497,9 +3497,9 @@ capital-one,*.capitalone.co.uk,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
-capital-one,*.capitalone.ca,False
-capital-one,*.capitalonebank.com,False
 capital-one,*.capitalonecards.com,False
+capital-one,*.capitalonebank.com,False
+capital-one,*.capitalone.ca,False
 capital-one,*.usejewel.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.wikibuy.com,False
@@ -4962,8 +4962,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,accounts.magento.cloud,True
 magento,magentocommerce.com,True
+magento,accounts.magento.cloud,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,marketplace.magento.com,True

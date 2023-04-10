@@ -1,8 +1,8 @@
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
-node1.pivcac.staging.login.gov
 idp.staging.login.gov
+node1.pivcac.staging.login.gov
 secure.login.gov
 login.gov
 idp.int.identitysandbox.gov
@@ -551,8 +551,8 @@ www.fossil.co.id
 *.cccsymposium.org
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1028,12 +1028,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 forum.sketchfab.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -3472,8 +3472,8 @@ https://chain.link/
 reservations.rezserver.com
 admin.rezserver.com
 www.priceline.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -3496,9 +3496,9 @@ press.priceline.com
 *.bluetarp.com
 *.capitaloneshopping.com
 *.capitalone.com
-*.capitalone.ca
-*.capitalonebank.com
 *.capitalonecards.com
+*.capitalonebank.com
+*.capitalone.ca
 *.usejewel.com
 *.teamstercardnow.com
 *.wikibuy.com
@@ -4961,8 +4961,8 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 marketplace.magento.com
