@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 11 01:37:44 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 02:23:24 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -1142,11 +1142,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1312,11 +1312,11 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
+www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
-www.priceline.com
-api.rezserver.com
 secure.rezserver.com
+api.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -1586,16 +1586,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2259,9 +2259,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
