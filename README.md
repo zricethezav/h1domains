@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 11 16:12:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 17:12:53 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -412,6 +412,8 @@ www.sparkhub.databricks.com
 *.payoneer.com
 opensea.io
 pro.opensea.io
+opensea.io
+pro.opensea.io
 https://krisp.ai
 https://account.krisp.ai
 https://api.krisp.ai
@@ -577,8 +579,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1135,18 +1137,18 @@ https://www.32red.com
 *.highrolling.nu
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -2163,11 +2165,11 @@ luckey.in
 *.hoteltonight-test.com
 *.airbnb.com
 api.airbnb.com
-assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 luckey.partners
 www.airbnb.com
+assets.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2305,9 +2307,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2333,25 +2335,25 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
-hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
-profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
+profile-photos.hackerone-user-content.com
+hackerone-ext-content.com
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -2523,8 +2525,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 marketplace.magento.com
