@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 21:10:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 22:10:28 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -451,12 +451,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1147,11 +1147,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1637,16 +1637,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2093,11 +2093,11 @@ map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
-my.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -2313,9 +2313,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2342,8 +2342,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
