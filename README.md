@@ -2,8 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 16:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 17:11:32 UTC 2023)
 ```
+*.saytechnologies.com
+*.say.rocks
+*.saytechnologies.com
+*.say.rocks
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
@@ -447,12 +451,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -580,8 +584,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1145,11 +1149,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1540,8 +1544,8 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
 *.xoom.com
-*.braintreepayments.com
 py.pl
+*.braintreepayments.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
@@ -1550,8 +1554,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2043,7 +2047,6 @@ doorstromen.mijnkombijdepolitie.nl
 acme-challenge.nl
 no-reply.cloud
 wp-mail.nl
-dropr.io
 maxcldapp.net
 maximum-status.com
 preprod.nl
@@ -2353,10 +2356,10 @@ ctf.hacker101.com
 www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -2528,8 +2531,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 marketplace.magento.com
