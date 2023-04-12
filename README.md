@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 06:11:08 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 07:11:12 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -446,12 +446,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -812,9 +812,9 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1144,11 +1144,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1314,9 +1314,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 www.getaroom.com
-admin.rezserver.com
 www.priceline.com
 www.bookingholdings.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2307,9 +2307,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
