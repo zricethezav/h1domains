@@ -1039,12 +1039,12 @@ epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
 epicgames,*.audicagame.com,True
 epicgames,forum.sketchfab.com,False
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -4718,9 +4718,9 @@ coinbase,*.base.org,True
 slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5018,8 +5018,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
+magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,marketplace.magento.com,True
