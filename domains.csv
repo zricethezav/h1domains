@@ -557,8 +557,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.cccsymposium.org,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1187,8 +1187,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -2328,8 +2328,6 @@ acronis,*.5nine.com,True
 acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 affirm,https://hackerone.affirm-odin.com,True
-affirm,http://dashboard.returnly.com/,True
-affirm,https://TEST-STORE-SUBDOMAIN.returnly.com/,True
 affirm,https://direct-hackerone.affirm-odin.com/,False
 affirm,https://vcn-hackerone.affirm-odin.com/,False
 watson_group,mapi-sim.fortress.com.hk,True
@@ -2693,8 +2691,8 @@ marriott,sso.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
@@ -3555,9 +3553,9 @@ capital-one,*.theunioncard.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -4623,8 +4621,8 @@ airbnb,api.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
 airbnb,luckey.partners,True
-airbnb,www.airbnb.com,True
 airbnb,assets.airbnb.com,True
+airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -4769,8 +4767,8 @@ coinbase,api.custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.base.org,True
 slack,spaces.pm,True
-slack,api.slack.com,True
 slack,status.slack.com,True
+slack,api.slack.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
 slack,slackb.com,True

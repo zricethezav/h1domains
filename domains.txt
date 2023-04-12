@@ -556,8 +556,8 @@ www.fossil.co.id
 *.cccsymposium.org
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
-*.bethisraelny.org
 *.snch.org
+*.bethisraelny.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1186,8 +1186,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -2327,8 +2327,6 @@ account.acronis.com
 *.devicelock.com
 *.acronis.work
 https://hackerone.affirm-odin.com
-http://dashboard.returnly.com/
-https://TEST-STORE-SUBDOMAIN.returnly.com/
 https://direct-hackerone.affirm-odin.com/
 https://vcn-hackerone.affirm-odin.com/
 mapi-sim.fortress.com.hk
@@ -2692,8 +2690,8 @@ sso.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 reservations.all-inclusive.marriott.com
+activities.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
@@ -3554,9 +3552,9 @@ press.priceline.com
 *.paribus.co
 *.capitalone360.com
 *.bluetarp.com
-*.capitalone.com
 *.capitaloneshopping.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -4622,8 +4620,8 @@ api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 luckey.partners
-www.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4768,8 +4766,8 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 spaces.pm
-api.slack.com
 status.slack.com
+api.slack.com
 slackatwork.com
 slack-redir.net
 slackb.com

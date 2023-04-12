@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 19:10:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 20:11:45 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -584,8 +584,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -878,8 +878,6 @@ account.acronis.com
 *.devicelock.com
 *.acronis.work
 https://hackerone.affirm-odin.com
-http://dashboard.returnly.com/
-https://TEST-STORE-SUBDOMAIN.returnly.com/
 mapi-sim.fortress.com.hk
 www10.watsons.com.hk
 www10.watsons.com.tw
@@ -1147,8 +1145,8 @@ sso.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 reservations.all-inclusive.marriott.com
+activities.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
@@ -2175,8 +2173,8 @@ api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 luckey.partners
-www.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2313,8 +2311,8 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 spaces.pm
-api.slack.com
 status.slack.com
+api.slack.com
 slackatwork.com
 slack-redir.net
 slackb.com
