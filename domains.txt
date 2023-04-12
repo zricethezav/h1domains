@@ -552,8 +552,8 @@ www.fossil.co.id
 *.cccsymposium.org
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1182,8 +1182,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -2685,11 +2685,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -3214,6 +3214,7 @@ https://play.mtn.co.za
 https://www.mtnbusiness.co.za/
 https://www.mtn.co.za/home/blackfriday/perl/io
 https://www.mtnbusiness.co.za/en/Pages/MSTeams-Direct-Routing.aspx/43331
+https://portalsso.mtn.co.za/
 https://www.datastax.com/
 https://downloads.datastax.com
 https://docs.datastax.com/
@@ -3804,8 +3805,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3815,9 +3816,9 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
-*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -4312,8 +4313,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -4481,8 +4482,8 @@ app.frame.io
 repo.magento.com
 auth.services.adobe.com
 *.adobeaemcloud.com
-*.adobe.com
 magento.com
+*.adobe.com
 *.proofhq.com
 *.omniture.com
 creativecloud.adobe.com
@@ -4499,8 +4500,6 @@ create.adobe.com
 u.magento.com
 imagine.magento.com
 updates.frame.io
-workflow.frame.io
-developer.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -4755,9 +4754,9 @@ api.coinbase.com
 api.custody.coinbase.com
 paradex.io
 *.base.org
-status.slack.com
 spaces.pm
 api.slack.com
+status.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 12:11:52 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 13:11:54 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -580,8 +580,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1145,11 +1145,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1550,8 +1550,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -1561,9 +1561,9 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
-*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1982,8 +1982,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -2305,9 +2305,9 @@ api.coinbase.com
 api.custody.coinbase.com
 paradex.io
 *.base.org
-status.slack.com
 spaces.pm
 api.slack.com
+status.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net

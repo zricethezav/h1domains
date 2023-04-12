@@ -553,8 +553,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.cccsymposium.org,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
-mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.bethisraelny.org,False
+mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1183,8 +1183,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -2686,11 +2686,11 @@ marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
@@ -3215,6 +3215,7 @@ mtn_group,https://play.mtn.co.za,False
 mtn_group,https://www.mtnbusiness.co.za/,False
 mtn_group,https://www.mtn.co.za/home/blackfriday/perl/io,False
 mtn_group,https://www.mtnbusiness.co.za/en/Pages/MSTeams-Direct-Routing.aspx/43331,False
+mtn_group,https://portalsso.mtn.co.za/,False
 datastax,https://www.datastax.com/,True
 datastax,https://downloads.datastax.com,True
 datastax,https://docs.datastax.com/,True
@@ -3805,8 +3806,8 @@ paypal,swiftcapital.com,True
 paypal,*.hyperwallet.com,True
 paypal,paypal.me,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
@@ -3816,9 +3817,9 @@ paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
+paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
-paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -4313,8 +4314,8 @@ github,*.github.net,True
 github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -4482,8 +4483,8 @@ adobe,app.frame.io,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,*.adobeaemcloud.com,False
-adobe,*.adobe.com,False
 adobe,magento.com,True
+adobe,*.adobe.com,False
 adobe,*.proofhq.com,False
 adobe,*.omniture.com,False
 adobe,creativecloud.adobe.com,False
@@ -4500,8 +4501,6 @@ adobe,create.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
-adobe,developer.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4756,9 +4755,9 @@ coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.base.org,True
-slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
+slack,status.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
