@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 08:11:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 09:11:29 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -112,6 +112,7 @@ vcc-*.8x8.com
 voapi.8x8.com
 *.superbet.ro
 *.superbet.rs
+*.superbet.com
 moonpay.com
 *.moonpaycloud.com
 hypermint.com
@@ -446,12 +447,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -888,8 +889,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1313,9 +1314,9 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 admin.rezserver.com
+www.priceline.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -1560,9 +1561,9 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1905,8 +1906,8 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.fr
 www.starbucks.com.br
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.co.uk
+www.starbucksreserve.com
 secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
@@ -2307,9 +2308,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2351,9 +2352,9 @@ ctf.hacker101.com
 www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -2525,8 +2526,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 marketplace.magento.com
