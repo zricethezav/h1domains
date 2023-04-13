@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 13 04:10:17 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 13 05:09:08 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -584,8 +584,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -813,8 +813,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -891,8 +891,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1316,10 +1316,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
+admin.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
-admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 press.priceline.com
@@ -2311,11 +2311,11 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 spaces.pm
-status.slack.com
 api.slack.com
-slackb.com
+status.slack.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
