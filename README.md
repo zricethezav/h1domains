@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 13 13:13:22 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 13 14:11:54 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -451,12 +451,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -584,8 +584,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1147,11 +1147,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1540,10 +1540,10 @@ https://matomo.cloud/
 *.paylution.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.xoom.com
 py.pl
 *.braintreepayments.com
+*.braintree-api.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
@@ -2084,9 +2084,9 @@ linkpop.com
 shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
-ads.snapchat.com
 story.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2311,11 +2311,11 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 spaces.pm
-status.slack.com
 api.slack.com
-slackb.com
+status.slack.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2531,8 +2531,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 u.magento.com
