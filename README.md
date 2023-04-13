@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 23:10:22 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 13 00:19:09 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -12,8 +12,8 @@ idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
 node1.pivcac.staging.login.gov
-idp.staging.login.gov
 secure.login.gov
+idp.staging.login.gov
 login.gov
 idp.int.identitysandbox.gov
 idp.staging.login.gov
@@ -1147,11 +1147,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1637,16 +1637,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2311,8 +2311,8 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 spaces.pm
-status.slack.com
 api.slack.com
+status.slack.com
 slackatwork.com
 slack-redir.net
 slackb.com
@@ -2351,10 +2351,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+profile-photos.hackerone-user-content.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
@@ -2531,8 +2531,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 marketplace.magento.com
