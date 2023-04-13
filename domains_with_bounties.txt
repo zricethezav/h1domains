@@ -1311,8 +1311,8 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.priceline.com
 www.bookingholdings.com
+www.priceline.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2347,8 +2347,8 @@ ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com

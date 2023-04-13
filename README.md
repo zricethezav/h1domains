@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 13 11:09:40 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 13 12:10:57 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -1317,8 +1317,8 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.priceline.com
 www.bookingholdings.com
+www.priceline.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2353,8 +2353,8 @@ ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
