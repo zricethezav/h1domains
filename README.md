@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 14 17:11:58 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 14 18:11:43 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -423,12 +423,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -556,8 +556,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1119,19 +1119,19 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 clean.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1294,8 +1294,8 @@ admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1511,11 +1511,11 @@ legacy.casper.com
 https://matomo.cloud/
 *.paylution.com
 www.swiftfinancial.com
-swiftfinancial.com
 *.xoom.com
 py.pl
 *.braintreepayments.com
 *.braintree-api.com
+swiftfinancial.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
@@ -1886,8 +1886,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.co.jp
@@ -2139,8 +2139,8 @@ luckey.fr
 luckey.in
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2327,10 +2327,10 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
-errors.hackerone.net
-app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+errors.hackerone.net
+app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
