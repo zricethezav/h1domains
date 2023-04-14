@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 14 13:16:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 14 14:11:53 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -423,12 +423,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1288,14 +1288,14 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 www.priceline.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1609,16 +1609,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
 *.gs.de
+research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2139,8 +2139,8 @@ luckey.fr
 luckey.in
 *.muscache.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2325,8 +2325,8 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
@@ -2531,8 +2531,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
