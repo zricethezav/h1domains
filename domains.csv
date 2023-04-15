@@ -1524,6 +1524,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1563,8 +1565,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -3516,9 +3516,9 @@ chainlink,https://chain.link/,False
 chainlink,*.smartcontract.com,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,admin.rezserver.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
+priceline,admin.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -4494,6 +4494,8 @@ adobe,create.adobe.com,False
 adobe,status.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4754,9 +4756,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,app.slack.com,True
 slack,*.quip.com,True
 slack,edgeapi.slack.com,True

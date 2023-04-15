@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 15 01:37:36 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 15 02:23:27 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -1289,9 +1289,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
