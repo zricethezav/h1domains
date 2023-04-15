@@ -568,8 +568,8 @@ www.fossil.co.id
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mssm.edu
 *.mountsinai.org
+*.mssm.edu
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -1523,8 +1523,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1564,6 +1562,8 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
+dss.gsa.gov
+soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -1991,8 +1991,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-hackers_chosendomain.larksuite.com
 internal-api-drive-stream.larksuite.com
+hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 open.larksuite.com
@@ -3514,10 +3514,10 @@ BE-THE-AMERICAN-DREAM.COM
 https://chain.link/
 *.smartcontract.com
 reservations.rezserver.com
+www.priceline.com
+www.getaroom.com
 admin.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
-www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -3895,9 +3895,9 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
+www.rocaton.com
 *.claritymoney.com
 developer.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -4165,8 +4165,8 @@ rockstarnorth.com
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -4493,8 +4493,6 @@ create.adobe.com
 status.adobe.com
 u.magento.com
 imagine.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -4755,9 +4753,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
@@ -5083,8 +5081,8 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
