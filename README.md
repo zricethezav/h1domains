@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 15 23:09:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr 16 00:22:52 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -863,8 +863,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1288,8 +1288,8 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 admin.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
@@ -1617,8 +1617,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2057,8 +2057,8 @@ shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2139,8 +2139,8 @@ luckey.fr
 luckey.in
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
@@ -2313,9 +2313,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
 hackerone-user-content.com
+hackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
