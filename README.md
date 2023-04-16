@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 16 12:11:22 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr 16 13:09:32 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -556,8 +556,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -785,8 +785,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
