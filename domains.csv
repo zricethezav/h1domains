@@ -15,8 +15,8 @@ gsa-h1c3,idp.staging.login.gov,True
 gsa-h1c3,secure.login.gov,True
 gsa-h1c3,node1.pivcac.staging.login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -1524,6 +1524,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1563,8 +1565,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2677,11 +2677,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -4754,9 +4754,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,app.slack.com,True
 slack,*.quip.com,True
 slack,edgeapi.slack.com,True
@@ -4799,8 +4799,8 @@ security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
