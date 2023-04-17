@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 19:12:10 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 20:12:29 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -797,8 +797,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1192,8 +1192,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2100,8 +2100,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2609,9 +2609,9 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-gist.github.com
 npmjs.org
 *.githubusercontent.com
+gist.github.com
 github.com
 github.com
 api.github.com
@@ -3080,8 +3080,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3418,7 +3418,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
