@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 14:13:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 15:16:15 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -229,11 +229,11 @@ www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expediapartnercentral.com
-www.hotwire.com
 www.ebookers.fi
 www.wotif.com
 www.expediacruises.com
 www.stayz.com.au
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -797,8 +797,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1532,6 +1532,10 @@ http://*.roblox.com
 http://*.rbx.com
 http://*.guilded.gg
 http://*.ra.roblox.com
+app.localizestaging.com
+localizestaging.com
+cdn.localizestaging.com
+api.localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -1713,8 +1717,8 @@ www.bookingholdings.com
 www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2096,8 +2100,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2467,6 +2471,9 @@ rockstarnorth.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
+app.files.com
+your-assigned-subdomain.files.com
+www.files.com
 mobileapi.lystit.com
 cdna.lystit.com
 http://*.lyst.com
@@ -2474,6 +2481,11 @@ cdna.lystit.com
 mobileapi.lystit.com
 http://*.lystit.com
 http://*.lyst.co
+www.alvosec.com
+dns.alvosec.com
+cloud.alvosec.com
+proton-api.alvosec.com
+mail.alvosec.com
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
@@ -2568,9 +2580,9 @@ www.modelhub.com
 www.redtube.com
 api.pornhub.com
 www.pornhubpremium.com
-www.redtubepremium.com
 www.youporn.com
 www.youpornpremium.com
+www.redtubepremium.com
 mobile.pornhub.com
 ht.pornhub.com
 www.pornmd.com
@@ -2587,8 +2599,10 @@ www.redtube.com
 www.redtubepremium.com
 www.youporn.com
 www.youpornpremium.com
-https://moneybird.com
-https://moneybirdstorage.com
+moneybird.com
+moneybirdstorage.com
+moneybird.com
+moneybirdstorage.com
 npmjs.com
 api.github.com
 classroom.github.com
@@ -2643,8 +2657,9 @@ http://*.zomans.com
 http://*.hyperpure.com
 http://*.runnr.in
 www.algolia.com
-*.algolia.net
-*.algolianet.com
+www.algolia.com
+http://*.algolia.net
+http://*.algolianet.com
 webtrader.binary.com
 crypto-cashier.binary.com
 secure-dfadmin.binary.com
@@ -2711,8 +2726,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -2759,8 +2774,8 @@ shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -3036,9 +3051,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3314,7 +3329,7 @@ blog.lob.com
 docs.lob.com
 mock.lob.com
 https://github.com/Evolveum/midpoint
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
 accounts.magento.cloud
@@ -3333,10 +3348,13 @@ imagine.magento.com
 magentolive.com
 account.magento.com
 accounts.magento.cloud
+apply.opentech.fund
+sandbox.opentech.fund
+www.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
-https://*.cobinhood.com
+http://*.cobinhood.com
 app.upserve.com
 hq.breadcrumb.com
 cards.swipely.com
@@ -3385,6 +3403,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
@@ -3426,13 +3445,23 @@ www.usa.gov
 federalist.18f.gov
 cloud.gov
 federalist-docs.18f.gov
+www.legalrobot-test.com
+app.legalrobot.com
+www.legalrobot.com
+app.legalrobot-test.com
 app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
 api.kiwi.ki
+portal.kiwi.ki
+mobile.kiwi.ki
+api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+provider.enter.health
+api.enter.health
+login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
