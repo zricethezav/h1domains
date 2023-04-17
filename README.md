@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 15:16:15 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 16:17:06 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -658,12 +658,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1192,8 +1192,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2504,10 +2504,10 @@ portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 www.starbucks.fr
-www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
+www.starbucks.com.br
 secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
@@ -2573,7 +2573,7 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-*.secnews.gr
+http://*.secnews.gr
 www.thumbzilla.com
 www.pornhub.com
 www.modelhub.com
@@ -3051,9 +3051,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3091,10 +3091,10 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
+www.hackerone.com
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
@@ -3328,11 +3328,11 @@ lob-assets.com
 blog.lob.com
 docs.lob.com
 mock.lob.com
-https://github.com/Evolveum/midpoint
+https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -3403,7 +3403,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov

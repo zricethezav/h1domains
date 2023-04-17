@@ -1485,12 +1485,12 @@ epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
 epicgames,*.audicagame.com,True
 epicgames,forum.sketchfab.com,False
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -2130,6 +2130,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -2169,8 +2171,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -3017,6 +3017,7 @@ rebellion-defense,http://*.moochirp.io,False
 rebellion-defense,http://*.mooch.rip,False
 rebellion-defense,www.rebelliondefense.com,False
 dropcontact,app.dropcontact.io,False
+dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,beta-cloud.acronis.com,True
@@ -3045,8 +3046,8 @@ watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
@@ -3404,6 +3405,7 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 qulture_rocks,https://hackerone.qulture.rocks/,False
+stagingdoteverydotorg,staging.every.org,False
 stagingdoteverydotorg,staging.every.org,False
 myndr,www.myndr.nl,False
 myndr,osd.myndr.nl,False
@@ -4169,10 +4171,12 @@ stripo,my.stripo.email,False
 stripo,stripo.email,False
 filezilla,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 natur_com_gmbh,www.natur.com,False
+natur_com_gmbh,www.natur.com,False
 gmelius,api.gmelius.com,False
 gmelius,gmelius.io,False
 gmelius,api.gmelius.com,False
 gmelius,gmelius.io,False
+lemlist,app.lemlist.com,False
 lemlist,app.lemlist.com,False
 keybank,*.hellowallet.com,False
 keybank,*.laurelroad.com,False
@@ -4187,7 +4191,8 @@ keybank,*.hellowallet.com,False
 keybank,*.laurelroad.com,False
 keybank,*.cainbrothers.com,False
 overloop,app.overloop.com,False
-worklytics,*.worklytics.co,False
+overloop,app.overloop.com,False
+worklytics,http://*.worklytics.co,False
 allegro,http://*.allegro.pl.allegrosandbox.pl,True
 top_echelon_software,bigbiller.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
@@ -4351,9 +4356,6 @@ equifax,*.employersedge.com,False
 equifax,*.healthefx.net,False
 equifax,*.healthefxforms.us,False
 equifax,*.efficienthire.com,False
-equifax,*equifax.ec,False
-equifax,*equifax.hn,False
-equifax,*equifax.es,False
 equifax,*.paynetonline.us,False
 equifax,*.paynetonline.ca,False
 equifax,*.paynetonline.com,False
@@ -4366,16 +4368,19 @@ equifax,JOBALINESTAGING.COM,False
 equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,BE-THE-AMERICAN-DREAM.net,False
+equifax,*equifax.ec,False
+equifax,*equifax.hn,False
+equifax,*equifax.es,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.uk,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*equifax.co.nz,False
+equifax,*equifax.com.tw,False
 equifax,*.datacredito.info,False
 equifax,*.equifax.com.pe,False
 equifax,CALLCENTER-JOBS.CO,False
 equifax,JOBALINE.NET,False
-equifax,jobalinesandbox.com,False
 equifax,www.equifax.com,False
 equifax,chaodeudas.cl,False
 equifax,ext-equifax.cl,False
@@ -4747,6 +4752,7 @@ hyatt,www.triseptapi.com,True
 hyatt,www.triseptdemo.com,True
 hyatt,vacations.united.com,True
 hyatt,www.applevacations.com,True
+cfptime,www.cfptime.org,False
 cfptime,www.cfptime.org,False
 grammarly,grammarly.ai,True
 grammarly,http://*.grammarly.io,True
@@ -5433,10 +5439,10 @@ portswigger,portswigger.net,True
 portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,www.starbucks.fr,True
-starbucks,www.starbucks.com.br,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucksreserve.com,True
+starbucks,www.starbucks.com.br,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
@@ -5546,7 +5552,7 @@ nextcloud,nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
-secnews,*.secnews.gr,True
+secnews,http://*.secnews.gr,True
 pornhub,www.thumbzilla.com,True
 pornhub,www.pornhub.com,True
 pornhub,www.modelhub.com,True
@@ -5828,7 +5834,6 @@ adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
-adobe,app.frame.io,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,*.adobeaemcloud.com,False
@@ -5836,6 +5841,7 @@ adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
+adobe,app.frame.io,False
 adobe,*.proofhq.com,False
 adobe,*.omniture.com,False
 adobe,creativecloud.adobe.com,False
@@ -5851,6 +5857,8 @@ adobe,create.adobe.com,False
 adobe,status.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -6155,9 +6163,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -6195,10 +6203,10 @@ security,profile-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
-security,www.hackerone.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,errors.hackerone.net,True
+security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
@@ -6472,6 +6480,7 @@ ozon,www.ozon.ru,False
 ozon,id.ozon.ru,False
 ozon,job.ozon.ru,False
 rghost,rghost.net,False
+rghost,rghost.net,False
 helium,ota.helium.com,True
 helium,burrow.helium.systems,True
 helium,https://helium-console-dev.herokuapp.com/,True
@@ -6504,7 +6513,7 @@ copper,www.copper.com,False
 copper,app.copper.com,False
 copper,app.copper.com,False
 copper,www.copper.com,False
-spell,*.spell.run,False
+spell,http://*.spell.run,False
 lob,arcade.lob.com,True
 lob,lob.com,True
 lob,mock.lob.com,True
@@ -6543,7 +6552,7 @@ lob,lob-assets.com,True
 lob,blog.lob.com,True
 lob,docs.lob.com,True
 lob,mock.lob.com,True
-midpoint_h1c,https://github.com/Evolveum/midpoint,True
+midpoint_h1c,https://github.com/evolveum/midpoint,True
 postmates,postmates.com,False
 postmates,raster-static.postmates.com,False
 postmates,about.postmates.com,False
@@ -6560,8 +6569,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
+magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,u.magento.com,True
@@ -6651,7 +6660,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True

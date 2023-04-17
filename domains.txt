@@ -1484,12 +1484,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 forum.sketchfab.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -2129,6 +2129,8 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
+digitalgov.gov
+*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -2168,8 +2170,6 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
-dss.gsa.gov
-soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -3016,6 +3016,7 @@ http://*.moochirp.io
 http://*.mooch.rip
 www.rebelliondefense.com
 app.dropcontact.io
+app.dropcontact.io
 beta-cloud.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
@@ -3044,8 +3045,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -3403,6 +3404,7 @@ api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
 https://hackerone.qulture.rocks/
+staging.every.org
 staging.every.org
 www.myndr.nl
 osd.myndr.nl
@@ -4168,10 +4170,12 @@ my.stripo.email
 stripo.email
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 www.natur.com
+www.natur.com
 api.gmelius.com
 gmelius.io
 api.gmelius.com
 gmelius.io
+app.lemlist.com
 app.lemlist.com
 *.hellowallet.com
 *.laurelroad.com
@@ -4186,7 +4190,8 @@ app.lemlist.com
 *.laurelroad.com
 *.cainbrothers.com
 app.overloop.com
-*.worklytics.co
+app.overloop.com
+http://*.worklytics.co
 http://*.allegro.pl.allegrosandbox.pl
 bigbiller.topechelon.com
 www.topechelon.com
@@ -4350,9 +4355,6 @@ www.equifax.com
 *.healthefx.net
 *.healthefxforms.us
 *.efficienthire.com
-*equifax.ec
-*equifax.hn
-*equifax.es
 *.paynetonline.us
 *.paynetonline.ca
 *.paynetonline.com
@@ -4365,16 +4367,19 @@ JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
 BE-THE-AMERICAN-DREAM.net
+*equifax.ec
+*equifax.hn
+*equifax.es
 *equifax.cl
 *equifax.co.uk
 *.datacredito2.com
 *.datacredito3.com
 *equifax.co.nz
+*equifax.com.tw
 *.datacredito.info
 *.equifax.com.pe
 CALLCENTER-JOBS.CO
 JOBALINE.NET
-jobalinesandbox.com
 www.equifax.com
 chaodeudas.cl
 ext-equifax.cl
@@ -4746,6 +4751,7 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
+www.cfptime.org
 www.cfptime.org
 grammarly.ai
 http://*.grammarly.io
@@ -5432,10 +5438,10 @@ portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 www.starbucks.fr
-www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
+www.starbucks.com.br
 secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
@@ -5545,7 +5551,7 @@ nextcloud.com
 download.nextcloud.com
 pushfeed.nextcloud.com
 newsletter.nextcloud.com
-*.secnews.gr
+http://*.secnews.gr
 www.thumbzilla.com
 www.pornhub.com
 www.modelhub.com
@@ -5827,7 +5833,6 @@ exchange.adobe.com
 licenses.adobe.com
 mobilemarketing.adobe.com
 theblog.adobe.com
-app.frame.io
 repo.magento.com
 auth.services.adobe.com
 *.adobeaemcloud.com
@@ -5835,6 +5840,7 @@ magento.com
 nicetryapril.na1.echosignsandbox.com
 accounts.frame.io
 *.adobe.com
+app.frame.io
 *.proofhq.com
 *.omniture.com
 creativecloud.adobe.com
@@ -5850,6 +5856,8 @@ create.adobe.com
 status.adobe.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -6154,9 +6162,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -6194,10 +6202,10 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
+www.hackerone.com
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
@@ -6471,6 +6479,7 @@ www.ozon.ru
 id.ozon.ru
 job.ozon.ru
 rghost.net
+rghost.net
 ota.helium.com
 burrow.helium.systems
 https://helium-console-dev.herokuapp.com/
@@ -6503,7 +6512,7 @@ www.copper.com
 app.copper.com
 app.copper.com
 www.copper.com
-*.spell.run
+http://*.spell.run
 arcade.lob.com
 lob.com
 mock.lob.com
@@ -6542,7 +6551,7 @@ lob-assets.com
 blog.lob.com
 docs.lob.com
 mock.lob.com
-https://github.com/Evolveum/midpoint
+https://github.com/evolveum/midpoint
 postmates.com
 raster-static.postmates.com
 about.postmates.com
@@ -6559,8 +6568,8 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -6650,7 +6659,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
