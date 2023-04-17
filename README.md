@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 17:05:12 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 18:15:25 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -658,12 +658,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1037,8 +1037,8 @@ sf-rp-eu.sharefile.com
 api.sharefile.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
-*.browser.cloud.com
 www.cloud.com
+*.browser.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.eu
@@ -1093,8 +1093,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -1192,8 +1192,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1481,8 +1481,8 @@ www.32red.com
 http://*.highrolling.nu
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2547,9 +2547,9 @@ www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
 brave.com
-basicattentiontoken.org
 search.brave.com
 talk.brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2575,9 +2575,9 @@ id.getharvest.com
 getharvest.com
 http://*.secnews.gr
 www.thumbzilla.com
-www.pornhub.com
 www.modelhub.com
 www.redtube.com
+www.pornhub.com
 api.pornhub.com
 www.pornhubpremium.com
 www.youporn.com
@@ -2782,8 +2782,8 @@ map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3051,9 +3051,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3087,17 +3087,17 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
-cover-photos.hackerone-user-content.com
+ctf.hacker101.com
+profile-photos.hackerone-user-content.com
 errors.hackerone.net
-app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3331,8 +3331,8 @@ mock.lob.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -3357,6 +3357,21 @@ apply.opentech.fund
 http://*.cobinhood.com
 app.upserve.com
 hq.breadcrumb.com
+mossy.breadcrumb.com
+cards.swipely.com
+api.breadcrumb.com
+pos.swipely.com
+orders.upserve.com
+reports.breadcrumb.com
+swipely-merchant-assets.s3.amazonaws.com
+payments.upserve.com
+d2evh2mef3r450.cloudfront.net
+inventory.upserve.com
+teamhelp.upserve.com
+payments.breadcrumb.com
+hq-api.upserve.com
+app.upserve.com
+hq.breadcrumb.com
 cards.swipely.com
 api.breadcrumb.com
 mossy.breadcrumb.com
@@ -3369,7 +3384,7 @@ d2evh2mef3r450.cloudfront.net
 swipely-merchant-assets.s3.amazonaws.com
 inventory.upserve.com
 hq-api.upserve.com
-hq.upserve.com
+https://hq.upserve.com
 https://645892349820.vulnerbug.com
 teamhelp.upserve.com
 https://www.showmax.com
