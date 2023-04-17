@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 18:15:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 19:12:10 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -886,10 +886,10 @@ www.spiketrap.io
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
-www.reddit.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1488,11 +1488,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1713,8 +1713,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 press.priceline.com
@@ -2100,8 +2100,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2578,11 +2578,11 @@ www.thumbzilla.com
 www.modelhub.com
 www.redtube.com
 www.pornhub.com
-api.pornhub.com
 www.pornhubpremium.com
 www.youporn.com
 www.youpornpremium.com
 www.redtubepremium.com
+api.pornhub.com
 mobile.pornhub.com
 ht.pornhub.com
 www.pornmd.com
@@ -2864,8 +2864,8 @@ luckey.fr
 luckey.in
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3051,9 +3051,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3079,9 +3079,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3089,14 +3089,14 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 app.pullrequest.com
 hackerone.com
 api.hackerone.com
@@ -3418,6 +3418,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
