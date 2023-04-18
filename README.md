@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 11:14:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 12:15:59 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -340,12 +340,12 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-www.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
+www.etoro.com
 etoropartners.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1293,19 +1293,19 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
-clean.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1489,8 +1489,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2115,8 +2115,8 @@ api.spotify.com
 backstage.io
 api.dashlane.com
 www.dashlane.com
-app.dashlane.com
 logs.dashlane.com
+app.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -2304,8 +2304,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2742,10 +2742,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
@@ -2982,9 +2982,9 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
-accounts.magento.cloud
 repo.magento.com
 account.magento.com
+accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magento.com
@@ -3065,7 +3065,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
