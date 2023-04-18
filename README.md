@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 20:12:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 21:13:34 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -28,8 +28,8 @@ hiltonhawaiianvillage.jp
 hiltonjapan.co.jp
 hiltonmanage.com
 hilton.io
-hiltonbusinessonline.com
 hiltonlocalbiz.com
+hiltonbusinessonline.com
 hilton.com
 hilton.com.tr
 hilton.com
@@ -113,8 +113,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 work.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -122,8 +122,8 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 platform.8x8.com
 voapi.8x8.com
-sms.8x8.com
 sso.8x8pilot.com
+sms.8x8.com
 user-profile.8x8.com
 connect.8x8.com
 sms.8x8.com
@@ -137,6 +137,8 @@ platform.8x8.com
 work.8x8.com
 user-profile.8x8.com
 voapi.8x8.com
+https://8x8.vc/xmpp-websocket
+https://webrtc.8x8.com/
 moonpay.com
 hypermint.com
 moonpay.com
@@ -587,12 +589,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1064,8 +1066,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1850,8 +1852,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2160,8 +2162,8 @@ rockstarnorth.com
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -2449,8 +2451,8 @@ shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2703,9 +2705,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
@@ -2733,8 +2735,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3065,6 +3067,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
