@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 00:21:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 01:38:14 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -314,8 +314,8 @@ blueprints.amazon.com
 a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -400,8 +400,8 @@ http://*.shein.com
 http://*.romwe.com
 http://*.sheingsp.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1488,11 +1488,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1717,8 +1717,8 @@ www.getaroom.com
 www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3091,8 +3091,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 ctf.hacker101.com
-profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
@@ -3331,8 +3331,8 @@ mock.lob.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -3418,6 +3418,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
