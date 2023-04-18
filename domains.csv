@@ -2847,8 +2847,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
@@ -2883,8 +2883,8 @@ logitech,logitechgchallenge.com,False
 logitech,id.logi.com,True
 logitech,external.logitech.com,False
 logitech,feedback.logitech.com,False
-logitech,sync.logitech.com,True
 logitech,www.logitechclub.com,False
+logitech,sync.logitech.com,True
 logitech,partner.logitech.com,False
 logitech,circle.logi.com,True
 logitech,id.logi.com,True
@@ -4356,6 +4356,9 @@ equifax,*.employersedge.com,False
 equifax,*.healthefx.net,False
 equifax,*.healthefxforms.us,False
 equifax,*.efficienthire.com,False
+equifax,*equifax.ec,False
+equifax,*equifax.hn,False
+equifax,*equifax.es,False
 equifax,*.paynetonline.us,False
 equifax,*.paynetonline.ca,False
 equifax,*.paynetonline.com,False
@@ -4368,19 +4371,16 @@ equifax,JOBALINESTAGING.COM,False
 equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,BE-THE-AMERICAN-DREAM.net,False
-equifax,*equifax.ec,False
-equifax,*equifax.hn,False
-equifax,*equifax.es,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.uk,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*equifax.co.nz,False
-equifax,*equifax.com.tw,False
 equifax,*.datacredito.info,False
 equifax,*.equifax.com.pe,False
 equifax,CALLCENTER-JOBS.CO,False
 equifax,JOBALINE.NET,False
+equifax,jobalinesandbox.com,False
 equifax,www.equifax.com,False
 equifax,chaodeudas.cl,False
 equifax,ext-equifax.cl,False
@@ -5857,6 +5857,8 @@ adobe,status.adobe.com,False
 adobe,assets.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -6198,8 +6200,8 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
-security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
+security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,ctf.hacker101.com,True
 security,hackathon-photos.hackerone-user-content.com,True
@@ -6567,8 +6569,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
+magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,u.magento.com,True
@@ -6673,6 +6675,7 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
+tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True

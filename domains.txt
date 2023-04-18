@@ -2846,8 +2846,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2882,8 +2882,8 @@ logitechgchallenge.com
 id.logi.com
 external.logitech.com
 feedback.logitech.com
-sync.logitech.com
 www.logitechclub.com
+sync.logitech.com
 partner.logitech.com
 circle.logi.com
 id.logi.com
@@ -4355,6 +4355,9 @@ www.equifax.com
 *.healthefx.net
 *.healthefxforms.us
 *.efficienthire.com
+*equifax.ec
+*equifax.hn
+*equifax.es
 *.paynetonline.us
 *.paynetonline.ca
 *.paynetonline.com
@@ -4367,19 +4370,16 @@ JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
 BE-THE-AMERICAN-DREAM.net
-*equifax.ec
-*equifax.hn
-*equifax.es
 *equifax.cl
 *equifax.co.uk
 *.datacredito2.com
 *.datacredito3.com
 *equifax.co.nz
-*equifax.com.tw
 *.datacredito.info
 *.equifax.com.pe
 CALLCENTER-JOBS.CO
 JOBALINE.NET
+jobalinesandbox.com
 www.equifax.com
 chaodeudas.cl
 ext-equifax.cl
@@ -5856,6 +5856,8 @@ status.adobe.com
 assets.adobe.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -6197,8 +6199,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
@@ -6566,8 +6568,8 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -6672,6 +6674,7 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
