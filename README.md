@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 16:17:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 17:13:22 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -981,11 +981,11 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1064,8 +1064,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1303,9 +1303,9 @@ hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 clean.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2703,9 +2703,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com

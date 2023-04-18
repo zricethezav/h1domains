@@ -679,8 +679,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.bethisraelny.org
 *.snch.org
+*.bethisraelny.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -2390,11 +2390,11 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2537,8 +2537,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2905,9 +2905,9 @@ hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 clean.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -5102,8 +5102,6 @@ assets.adobe.com
 *.tt.omtrdc.net
 u.magento.com
 imagine.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5384,9 +5382,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
