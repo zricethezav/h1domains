@@ -667,10 +667,10 @@ labs.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
-www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 inventory.data.gov
+www.fedramp.gov
 ci.fr.cloud.gov
 idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
@@ -716,8 +716,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1060,8 +1060,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1874,8 +1874,8 @@ www.rocaton.com
 *.finlifepartners.com
 developer.valvesoftware.com
 playartifact.com
-help.steampowered.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -2046,8 +2046,8 @@ api-w.unikrnb2b.com
 api.unikrn.com
 affiliates.unikrn.com
 grab.careers
-wiki.grab.com
 gifts.grab.com
+wiki.grab.com
 p.grabtaxi.com
 manage.grab.co
 api.grabpay.com
@@ -2532,9 +2532,9 @@ demo.urbandoor.com
 luckey.fr
 luckey.in
 *.muscache.com
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+*.hoteltonight-test.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2705,8 +2705,8 @@ slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -2739,8 +2739,8 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
@@ -3061,7 +3061,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
