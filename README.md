@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 10:14:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 11:14:10 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -243,8 +243,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-m.poloniex.com
 www.poloniex.com
+m.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1064,8 +1064,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1489,8 +1489,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1743,8 +1743,8 @@ scrutiny.swiftfinancial.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
-*.hyperwallet.com
 paypal.me
+*.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
@@ -1850,8 +1850,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2304,8 +2304,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-gist.github.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -2703,9 +2703,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2741,16 +2741,16 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
+ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -2981,8 +2981,8 @@ mock.lob.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -3065,6 +3065,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
