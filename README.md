@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 06:12:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 07:12:44 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -278,17 +278,16 @@ api.zerobounce.in
 zerobounce.in
 api.zerobounce.in
 zerobounce.net
-*.goteleport.com
-*.gravitational.com
-*.teleport.dev
+cloud.gravitational.io
 teleport.sh
-*.teleportinfra.sh
+get.gravitational.io
+h1-your-domain.teleport.sh
+platform.teleport.sh
+teleport.sh
 get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
-*.gravitational.co
-*.gravitational.io
 test.deribit.com
 pb.deribit.com
 insights.deribit.com
@@ -797,8 +796,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -869,11 +868,11 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 app.spiketrap.io
+old.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1093,8 +1092,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -1713,8 +1712,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1962,10 +1961,10 @@ us.tvg.com
 www.4njbets.com
 fanduel.design
 http://*.flickr.com
-casper.com
 bedpost.casper.com
 operator.casper.tools
 legacy.casper.com
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2549,9 +2548,9 @@ www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
 brave.com
-search.brave.com
 talk.brave.com
 basicattentiontoken.org
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3053,9 +3052,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3082,8 +3081,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3289,6 +3288,8 @@ secure.vendhq.com
 developers.vendhq.com
 www.vendhq.com
 payment-connectors.vendhq.com
+burrow.helium.systems
+ota.helium.com
 ota.helium.com
 burrow.helium.systems
 https://helium-console-dev.herokuapp.com/
@@ -3333,8 +3334,8 @@ mock.lob.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 u.magento.com
