@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 23:10:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 00:21:42 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -658,12 +658,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1192,8 +1192,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2062,9 +2062,9 @@ staging-app.shipt.com
 staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
-api.shipt.com
 staging-admin.shipt.com
 www.shipt.com
+api.shipt.com
 app.shipt.com
 api.shipt.com
 admin.shipt.com
@@ -2611,8 +2611,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-gist.github.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3418,7 +3418,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
