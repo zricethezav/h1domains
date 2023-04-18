@@ -1485,12 +1485,12 @@ epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
 epicgames,*.audicagame.com,True
 epicgames,forum.sketchfab.com,False
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -2847,8 +2847,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
@@ -3046,8 +3046,8 @@ watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
-watson_group,api.watsons.com.hk,True
 watson_group,www10.watsons.com.my,True
+watson_group,api.watsons.com.hk,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
@@ -3329,9 +3329,9 @@ insulet_corporation,aprms.insulet.com,False
 insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
-amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,track.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
@@ -3478,11 +3478,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -4503,8 +4503,8 @@ chainlink,http://*.smartcontract.com,False
 priceline,reservations.rezserver.com,True
 priceline,www.priceline.com,True
 priceline,admin.rezserver.com,True
-priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -5590,8 +5590,8 @@ github,*.github.net,True
 github,education.github.com,True
 github,npmjs.org,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,gist.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -5740,8 +5740,8 @@ shopify,shop.app,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
@@ -5857,8 +5857,6 @@ adobe,status.adobe.com,False
 adobe,assets.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -6202,9 +6200,9 @@ security,reviewer.pullrequest.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
+security,profile-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,profile-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
@@ -6569,8 +6567,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,accounts.magento.cloud,True
 magento,magentocommerce.com,True
+magento,accounts.magento.cloud,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,u.magento.com,True
@@ -6675,7 +6673,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
