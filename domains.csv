@@ -1165,8 +1165,8 @@ auvik,demo.saaslio.com,False
 judgeme,cache.judge.me,True
 judgeme,shop.judge.me,True
 judgeme,woocommerce-adapter.judge.me,True
-judgeme,judge.me,True
 judgeme,bigcommerce-adapter.judge.me,True
+judgeme,judge.me,True
 judgeme,judge.me,True
 judgeme,https://judge.me/reviews,True
 judgeme,shop.judge.me,True
@@ -1607,8 +1607,8 @@ upchieve,argocd.upchieve.org,False
 upchieve,hackers.upchieve.org,False
 reddit,gql.reddit.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,api.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
@@ -2486,8 +2486,8 @@ enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -2553,8 +2553,8 @@ watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.it,True
@@ -2752,8 +2752,8 @@ polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
-polygon-technology,faucet.polygon.technology,True
 polygon-technology,wallet.polygon.technology,True
+polygon-technology,faucet.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
@@ -2911,11 +2911,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -5116,8 +5116,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
-adobe,*.adobe.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.proofhq.com,False
 adobe,creativecloud.adobe.com,False
 adobe,magentolive.com,True
@@ -5133,6 +5133,8 @@ adobe,*.tt.omtrdc.net,False
 adobe,create.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -5907,6 +5909,7 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
+tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True

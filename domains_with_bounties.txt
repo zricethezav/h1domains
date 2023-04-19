@@ -563,8 +563,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-judge.me
 bigcommerce-adapter.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -786,8 +786,8 @@ www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 api.reddit.com
 new.reddit.com
 strapi.reddit.com
@@ -1021,8 +1021,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1201,8 +1201,8 @@ staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
+faucet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -1293,11 +1293,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -3060,6 +3060,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
