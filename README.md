@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 23:10:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 00:23:30 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -735,8 +735,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 consensys.net
 bridge.codefi.network
 trufflesuite.com
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1066,8 +1066,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2705,9 +2705,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2745,8 +2745,8 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
@@ -3067,6 +3067,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov

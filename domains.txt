@@ -683,8 +683,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1363,8 +1363,8 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1719,8 +1719,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1760,6 +1758,8 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
+dss.gsa.gov
+soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2548,8 +2548,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -5408,9 +5408,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -5448,8 +5448,8 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
@@ -5907,6 +5907,7 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
