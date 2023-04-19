@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 08:15:05 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 09:17:21 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -1723,9 +1723,9 @@ us.tvg.com
 www.4njbets.com
 fanduel.design
 operator.casper.tools
-legacy.casper.com
 bedpost.casper.com
 casper.com
+legacy.casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2687,9 +2687,9 @@ pro.coinbase.com
 *.cbhq.net
 *.coinbase.com
 api.coinbase.com
-*.base.org
 api.custody.coinbase.com
 institutional.coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -2705,9 +2705,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2743,16 +2743,16 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 errors.hackerone.net
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
