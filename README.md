@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 09:17:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 10:17:53 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -28,8 +28,8 @@ hiltonhawaiianvillage.jp
 hiltonjapan.co.jp
 hiltonmanage.com
 hilton.io
-hiltonlocalbiz.com
 hiltonbusinessonline.com
+hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
 hilton.com
@@ -589,12 +589,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1059,22 +1059,22 @@ www10.watsons.com.tw
 www20.watsons.co.th
 www10.watsons.com.ph
 app.marionnaud.hu
-apptps.theperfumeshop.com
 www.watsons.com.tr
 www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
+apptps.theperfumeshop.com
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
-app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
-www.theperfumeshop.com
+app.watsons.com.tr
+www.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1295,11 +1295,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1489,10 +1489,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.priceline.com
 admin.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2298,8 +2298,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
