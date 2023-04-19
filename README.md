@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 04:12:07 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 05:13:29 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -245,8 +245,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-www.poloniex.com
 m.poloniex.com
+www.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -1066,8 +1066,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1295,19 +1295,19 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
-clean.marriott.com
 homes-and-villas.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1852,8 +1852,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1880,8 +1880,8 @@ www.rocaton.com
 *.finlifepartners.com
 developer.valvesoftware.com
 playartifact.com
-store.steampowered.com
 help.steampowered.com
+store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -2298,8 +2298,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -2538,9 +2538,9 @@ demo.urbandoor.com
 luckey.fr
 luckey.in
 *.muscache.com
+*.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
-*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2705,9 +2705,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
