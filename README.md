@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 19:17:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 20:15:07 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1821,8 +1821,8 @@ staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
 staging-admin.shipt.com
-api.shipt.com
 www.shipt.com
+api.shipt.com
 app.shipt.com
 api.shipt.com
 admin.shipt.com
@@ -1856,8 +1856,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2114,10 +2114,16 @@ heyfiesta.com
 blendr.com
 com.blendr.mobile
 assets.spotify.com
+api.sonantic.io
+app.sonantic.io
 backstage.io
 api.spotify.com
+label-studio-public.sonantic.io
 assets.spotify.com
 api.spotify.com
+api.sonantic.io
+app.sonantic.io
+label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 www.dashlane.com
@@ -3066,7 +3072,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
