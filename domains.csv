@@ -1,4 +1,6 @@
 handle,domain,eligible_for_bounty
+six-group,www.six-group.com,True
+six-group,www.six-group.com,True
 saytechnologies,*.saytechnologies.com,True
 saytechnologies,*.say.rocks,True
 saytechnologies,*.saytechnologies.com,True
@@ -686,8 +688,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.bethisraelny.org,False
+mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -857,8 +859,8 @@ sorare,sorare.com,True
 sorare,api.sorare.com,True
 sorare,ws.sorare.com,True
 smtp2go,app.smtp2go.com,True
-smtp2go,api.smtp2go.com,True
 smtp2go,smtp2go.com,True
+smtp2go,api.smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -1603,11 +1605,11 @@ upchieve,argocd.upchieve.org,False
 upchieve,hackers.upchieve.org,False
 upchieve,argocd.upchieve.org,False
 upchieve,hackers.upchieve.org,False
-reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
+reddit,api.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -2404,11 +2406,11 @@ tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -2484,8 +2486,8 @@ enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -5114,8 +5116,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
-adobe,*.adobe.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.proofhq.com,False
 adobe,creativecloud.adobe.com,False
 adobe,magentolive.com,True
@@ -5131,6 +5133,8 @@ adobe,*.tt.omtrdc.net,False
 adobe,create.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -5411,9 +5415,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5903,7 +5907,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
