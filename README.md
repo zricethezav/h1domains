@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 06:13:12 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 07:13:27 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -114,8 +114,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 work.8x8.com
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -589,12 +589,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -789,8 +789,8 @@ www.urbanclap.com
 api.reddit.com
 gql.reddit.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1066,8 +1066,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1852,8 +1852,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2298,8 +2298,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -2743,8 +2743,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
@@ -3038,10 +3038,6 @@ hq-api.upserve.com
 https://hq.upserve.com
 https://645892349820.vulnerbug.com
 teamhelp.upserve.com
-https://www.showmax.com
-https://secure.showmax.com
-https://api.showmax.com
-https://stories.showmax.com
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
