@@ -1719,8 +1719,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1760,6 +1758,8 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
+dss.gsa.gov
+soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -3737,6 +3737,9 @@ www.equifax.com
 *.healthefx.net
 *.healthefxforms.us
 *.efficienthire.com
+*equifax.ec
+*equifax.hn
+*equifax.es
 *.paynetonline.us
 *.paynetonline.ca
 *.paynetonline.com
@@ -3749,19 +3752,16 @@ JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
 BE-THE-AMERICAN-DREAM.net
-*equifax.ec
-*equifax.hn
-*equifax.es
 *equifax.cl
 *equifax.co.uk
 *.datacredito2.com
 *.datacredito3.com
 *equifax.co.nz
-*equifax.com.tw
 *.datacredito.info
 *.equifax.com.pe
 CALLCENTER-JOBS.CO
 JOBALINE.NET
+jobalinesandbox.com
 www.equifax.com
 chaodeudas.cl
 ext-equifax.cl
@@ -5128,8 +5128,6 @@ assets.adobe.com
 *.tt.omtrdc.net
 u.magento.com
 imagine.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5449,8 +5447,8 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 errors.hackerone.net
