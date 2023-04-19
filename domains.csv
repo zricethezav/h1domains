@@ -1347,8 +1347,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
+consensys,bridge.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -2486,8 +2486,8 @@ enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -2911,11 +2911,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -4302,9 +4302,9 @@ goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.marcus.com,True
+goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
 goldmansachs,developer.gs.com,True
-goldmansachs,www.rocaton.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -4757,8 +4757,8 @@ starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
-starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -5423,9 +5423,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
