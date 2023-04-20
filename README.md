@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 18:14:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 19:13:22 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -162,9 +162,9 @@ www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediagroup.com
 www.abritel.fr
+www.expediaagents.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1727,9 +1727,9 @@ us.tvg.com
 www.4njbets.com
 fanduel.design
 bedpost.casper.com
-legacy.casper.com
 operator.casper.tools
 casper.com
+legacy.casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2258,10 +2258,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
 talk.brave.com
 basicattentiontoken.org
 search.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2764,9 +2764,9 @@ ctf.hacker101.com
 www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3065,6 +3065,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
