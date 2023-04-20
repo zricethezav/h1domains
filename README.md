@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 07:13:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 08:12:41 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1187,10 +1187,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-store.playstation.com
 *.api.playstation.com
 direct.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -2719,9 +2719,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2748,8 +2748,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
