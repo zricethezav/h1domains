@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 11:12:18 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 12:14:15 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1856,8 +1856,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2462,9 +2462,9 @@ linkpop.com
 shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
-story.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2551,8 +2551,8 @@ luckey.fr
 luckey.in
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2757,10 +2757,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
@@ -3064,6 +3064,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
