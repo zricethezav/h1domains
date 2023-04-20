@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 13:15:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 14:14:10 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1067,9 +1067,9 @@ www.watsons.com.tr
 www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
-www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
+www.watsons.com.ph
 api.watsons.com.hk
 www10.watsons.com.my
 api.watsons.com.tw
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -2174,8 +2174,8 @@ rockstarnorth.com
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -2742,6 +2742,7 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
+data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -2756,11 +2757,11 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+ctf.hacker101.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
@@ -3064,6 +3065,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
