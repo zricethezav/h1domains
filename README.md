@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 06:13:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 07:13:10 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -163,8 +163,8 @@ www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
 www.expediaagents.com
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -2938,16 +2938,6 @@ gocorp.gojek.com
 gofood.co.id
 gosend.id
 go-tix.id
-your-store.vendhq.com
-developers.vendhq.com
-payment-connectors.vendhq.com
-secure.vendhq.com
-www.vendhq.com
-your-store.vendhq.com
-secure.vendhq.com
-developers.vendhq.com
-www.vendhq.com
-payment-connectors.vendhq.com
 burrow.helium.systems
 ota.helium.com
 ota.helium.com

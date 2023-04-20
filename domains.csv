@@ -300,8 +300,8 @@ expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.expediaagents.com,True
-expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -1347,8 +1347,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1724,6 +1724,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1763,8 +1765,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2553,8 +2553,8 @@ watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.it,True
@@ -5141,8 +5141,6 @@ adobe,*.tt.omtrdc.net,False
 adobe,create.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -5644,16 +5642,6 @@ gojek,gocorp.gojek.com,True
 gojek,gofood.co.id,True
 gojek,gosend.id,True
 gojek,go-tix.id,True
-vend,your-store.vendhq.com,True
-vend,developers.vendhq.com,True
-vend,payment-connectors.vendhq.com,True
-vend,secure.vendhq.com,True
-vend,www.vendhq.com,True
-vend,your-store.vendhq.com,True
-vend,secure.vendhq.com,True
-vend,developers.vendhq.com,True
-vend,www.vendhq.com,True
-vend,payment-connectors.vendhq.com,True
 epam,*.epam.com,False
 epam,*.epam.com,False
 gemini_trust_co_vdp,api.gemini.com,False
