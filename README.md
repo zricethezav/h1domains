@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 08:12:41 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 09:13:44 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1726,10 +1726,10 @@ service.tvg.com
 us.tvg.com
 www.4njbets.com
 fanduel.design
-operator.casper.tools
 bedpost.casper.com
 casper.com
 legacy.casper.com
+operator.casper.tools
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -3064,7 +3064,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
