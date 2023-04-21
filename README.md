@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 21 14:13:20 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 15:14:56 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -641,8 +641,8 @@ fallguys.com
 fortnite.com
 hmxservices.com
 harmonixmusic.com
-app.recordedfuture.com
 therecord.media
+app.recordedfuture.com
 api.recordedfuture.com
 www.recordedfuture.com
 id.recordedfuture.com
@@ -1007,8 +1007,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitechg.com
 www.logitech.com.cn
+www.logitechg.com
 circle.logi.com
 www.ultimateears.com
 id.logi.com
@@ -1262,8 +1262,8 @@ www.mini.de
 configure.bmw.de
 www.bmw.de
 konfigurator.bmw-motorrad.de
-www.bmw-motorrad.de
 configure.mini.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1850,9 +1850,9 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-*.vennhypotheken.nl
 *.foliodigitalwealth.com
 *.goldmanpfm.com
+*.vennhypotheken.nl
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -2717,8 +2717,8 @@ custody.coinbase.com
 paradex.io
 *.cbhq.net
 prime.coinbase.com
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
@@ -2738,9 +2738,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
