@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 21 17:13:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 18:12:25 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -985,8 +985,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1533,9 +1533,9 @@ blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
-dashboard.omise.co
 link.omise.co
 www.opn.ooo
+dashboard.omise.co
 dashboard2.omise.co
 api.omise.co
 linksplus-dashboard.omise.co
@@ -1594,8 +1594,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-www.blueskytours.com
 assets.hyatt.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1927,8 +1927,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
@@ -2738,9 +2738,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
