@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 23:10:18 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 00:21:36 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1841,8 +1841,8 @@ www.shipt.com
 *.unitedcp.com
 *.ayco.com
 apigw.foliofn.com
-*.foliofn.com
 *.foliofirst.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
@@ -1862,8 +1862,8 @@ research.gs.com
 *.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 *.marcus.com
 *.goldmansachs.com
 *.gs.com
@@ -2738,11 +2738,11 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

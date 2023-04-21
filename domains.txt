@@ -49,12 +49,12 @@ decodefintech.com
 * IPv6 addresses
 * IPv4 addresses
 aso.apnic.net
-orbit.apnic.net
 stats.labs.apnic.net
 nori.apnic.net
 rsync.apnic.net
 registry-testbed.apnic.net
 rpki.apnic.net
+orbit.apnic.net
 submission.apnic.net
 ftp.apnic.net
 orbit.apnic.net
@@ -2550,8 +2550,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -2908,11 +2908,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -4284,8 +4284,8 @@ cloud.rocket.chat
 *.unitedcp.com
 *.ayco.com
 apigw.foliofn.com
-*.foliofn.com
 *.foliofirst.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
@@ -4305,8 +4305,8 @@ research.gs.com
 *.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 *.marcus.com
 *.goldmansachs.com
 *.gs.com
@@ -5156,6 +5156,8 @@ status.adobe.com
 *.marketo.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5438,11 +5440,11 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
