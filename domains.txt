@@ -83,9 +83,9 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
-injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 super-services.indriverapp.com
+injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 injob.indriver.com
@@ -354,8 +354,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 coralcube.io
 *.coralcube.io
 magiceden.io
@@ -1721,6 +1721,8 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
+digitalgov.gov
+*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1760,8 +1762,6 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
-dss.gsa.gov
-soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2906,8 +2906,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
@@ -3739,6 +3739,9 @@ www.equifax.com
 *.healthefx.net
 *.healthefxforms.us
 *.efficienthire.com
+*equifax.ec
+*equifax.hn
+*equifax.es
 *.paynetonline.us
 *.paynetonline.ca
 *.paynetonline.com
@@ -3751,19 +3754,16 @@ JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
 BE-THE-AMERICAN-DREAM.net
-*equifax.ec
-*equifax.hn
-*equifax.es
 *equifax.cl
 *equifax.co.uk
 *.datacredito2.com
 *.datacredito3.com
 *equifax.co.nz
-*equifax.com.tw
 *.datacredito.info
 *.equifax.com.pe
 CALLCENTER-JOBS.CO
 JOBALINE.NET
+jobalinesandbox.com
 www.equifax.com
 chaodeudas.cl
 ext-equifax.cl
@@ -4723,8 +4723,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -5923,7 +5923,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov

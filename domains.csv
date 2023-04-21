@@ -84,9 +84,9 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,injob.indriver.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
+indrive,injob.indriver.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -355,8 +355,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
+magic-eden,magiceden.io,True
 magic-eden,coralcube.io,True
 magic-eden,*.coralcube.io,True
 magic-eden,magiceden.io,True
@@ -1722,6 +1722,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1761,8 +1763,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2907,8 +2907,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
@@ -3740,6 +3740,9 @@ equifax,*.employersedge.com,False
 equifax,*.healthefx.net,False
 equifax,*.healthefxforms.us,False
 equifax,*.efficienthire.com,False
+equifax,*equifax.ec,False
+equifax,*equifax.hn,False
+equifax,*equifax.es,False
 equifax,*.paynetonline.us,False
 equifax,*.paynetonline.ca,False
 equifax,*.paynetonline.com,False
@@ -3752,19 +3755,16 @@ equifax,JOBALINESTAGING.COM,False
 equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,BE-THE-AMERICAN-DREAM.net,False
-equifax,*equifax.ec,False
-equifax,*equifax.hn,False
-equifax,*equifax.es,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.uk,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*equifax.co.nz,False
-equifax,*equifax.com.tw,False
 equifax,*.datacredito.info,False
 equifax,*.equifax.com.pe,False
 equifax,CALLCENTER-JOBS.CO,False
 equifax,JOBALINE.NET,False
+equifax,jobalinesandbox.com,False
 equifax,www.equifax.com,False
 equifax,chaodeudas.cl,False
 equifax,ext-equifax.cl,False
@@ -4724,8 +4724,8 @@ rockstargames,store.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,rockstarnorth.com,True
 files,app.files.com,True
-files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
+files,your-assigned-subdomain.files.com,True
 files,app.files.com,True
 files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
@@ -5924,7 +5924,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
