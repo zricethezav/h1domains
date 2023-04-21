@@ -688,8 +688,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.bethisraelny.org,False
+mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1202,12 +1202,12 @@ epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
 epicgames,*.audicagame.com,True
 epicgames,forum.sketchfab.com,False
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -5464,7 +5464,6 @@ slack,www.quip.com,True
 slack,*.quip.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,data.mail.yahoo.com,True
-yahoo,data.mail.yahoo.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
@@ -5924,7 +5923,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
