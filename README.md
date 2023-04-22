@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 21 23:13:40 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 22 00:23:55 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -10,18 +10,6 @@ www.six-group.com
 *.say.rocks
 *.saytechnologies.com
 *.say.rocks
-idp.int.identitysandbox.gov
-login.gov
-node1.pivcac.prod.login.gov
-node1.pivcac.staging.login.gov
-idp.staging.login.gov
-secure.login.gov
-login.gov
-idp.int.identitysandbox.gov
-idp.staging.login.gov
-secure.login.gov
-node1.pivcac.staging.login.gov
-node1.pivcac.prod.login.gov
 node.e2ro.com/*
 api-user.e2ro.com/*
 api-eu.floqast.app
@@ -593,12 +581,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -679,8 +667,8 @@ logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 federalist-docs.18f.gov
 *.login.gov
-www.fedramp.gov
 inventory.data.gov
+www.fedramp.gov
 ci.fr.cloud.gov
 idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
@@ -1070,8 +1058,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1594,8 +1582,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-assets.hyatt.com
 www.blueskytours.com
+assets.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2738,9 +2726,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2783,8 +2771,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -2806,6 +2794,18 @@ errors.hackerone.net
 https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 *.vpn.hackerone.net
+idp.int.identitysandbox.gov
+login.gov
+node1.pivcac.prod.login.gov
+node1.pivcac.staging.login.gov
+idp.staging.login.gov
+secure.login.gov
+login.gov
+idp.int.identitysandbox.gov
+idp.staging.login.gov
+secure.login.gov
+node1.pivcac.staging.login.gov
+node1.pivcac.prod.login.gov
 m.trendyol.com
 www.dolap.com
 www.trendyol.com
@@ -3083,7 +3083,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
