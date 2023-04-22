@@ -221,8 +221,8 @@ who.stanford.edu
 workgroup.stanford.edu
 netdb.stanford.edu
 mailman.stanford.edu
-kkr.com
 *.kkr.com
+kkr.com
 portal.kkr.com
 www.fskkradvisor.com
 *.kkr.cloud
@@ -1334,8 +1334,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1709,8 +1709,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1750,6 +1748,8 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
+dss.gsa.gov
+soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2394,8 +2394,8 @@ tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -5286,8 +5286,8 @@ admin.demo.urbandoor.com
 *.hoteltonight-test.com
 luckey.partners
 www.hoteltonight.com
-api.vimeo.com
 donations.livestream.com
+api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
@@ -5426,9 +5426,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -5455,8 +5455,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -5471,8 +5471,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -5920,6 +5920,7 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
