@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 22 05:13:04 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 22 06:13:02 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -714,8 +714,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1287,11 +1287,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1582,8 +1582,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-assets.hyatt.com
 www.blueskytours.com
+assets.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1827,20 +1827,20 @@ www.shipt.com
 *.goldman.com
 *.marcus.co.uk
 *.unitedcp.com
-*.ayco.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
+*.ayco.com
 *.finlifepartners.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
-*.goldmansachs.com
 *.honestdollar.com
 *.foliodigitalwealth.com
 *.goldmanpfm.com
 *.finlife.com
 *.vennhypotheken.nl
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2558,8 +2558,8 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 luckey.fr
-*.airbnbcitizen.com
 *.airbnb.com
+*.airbnbcitizen.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2771,8 +2771,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3083,7 +3083,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
