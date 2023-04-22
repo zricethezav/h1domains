@@ -299,8 +299,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.fewo-direkt.de
 www.expedia.com
+www.fewo-direkt.de
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -1183,11 +1183,11 @@ fallguys.com
 *.easy.ac
 *.rukkaz.com
 *.jellychat.com
-*.unrealtournament.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.unrealtournament.com
 forum.sketchfab.com
 *.psyonix.com
 *.3lateral.com
@@ -1709,6 +1709,8 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
+digitalgov.gov
+*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1748,8 +1750,6 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
-dss.gsa.gov
-soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2538,8 +2538,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -4017,8 +4017,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-www.blueskytours.com
 assets.hyatt.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -5054,8 +5054,8 @@ map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 snappublisher.snapchat.com
-my.snapchat.com
 app.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -5144,6 +5144,8 @@ status.adobe.com
 *.marketo.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
