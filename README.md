@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 22 07:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 22 08:12:56 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1582,8 +1582,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-assets.hyatt.com
 www.blueskytours.com
+assets.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1826,11 +1826,11 @@ www.shipt.com
 *.gs-mosaic.gs.com
 *.goldman.com
 *.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
+*.unitedcp.com
 *.finlifepartners.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -1852,7 +1852,7 @@ research.gs.com
 *.folioclient.com
 *.gs.com
 *.gsam.com
-*.marcus.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2046,11 +2046,11 @@ api.unikrn.com
 api-w.unikrnb2b.com
 auctionbot.unikrn.com
 affiliates.unikrn.com
-unikrn.com
 news.unikrn.com
 crm.unikrn.com
 connekt-api.unikrn.com
 auth.unikrn.com
+unikrn.com
 jet-api.unikrn.com
 unikrn.com
 auctionbot.unikrn.com
@@ -2726,9 +2726,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2771,8 +2771,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3009,8 +3009,8 @@ accounts.magento.cloud
 account.magento.com
 u.magento.com
 imagine.magento.com
-magento.com
 marketplace.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com

@@ -5,8 +5,8 @@ saytechnologies,*.saytechnologies.com,True
 saytechnologies,*.say.rocks,True
 saytechnologies,*.saytechnologies.com,True
 saytechnologies,*.say.rocks,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -676,8 +676,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1710,8 +1710,6 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
-gsa_vdp,digitalgov.gov,False
-gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1751,6 +1749,8 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
+gsa_vdp,dss.gsa.gov,False
+gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -4018,8 +4018,8 @@ hyatt,www.beachbound.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
-hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
+hyatt,assets.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -4270,11 +4270,11 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.unitedcp.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
@@ -4296,7 +4296,7 @@ goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.marcus.com,True
+goldmansachs,www.rocaton.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -4541,11 +4541,11 @@ unikrn,api.unikrn.com,True
 unikrn,api-w.unikrnb2b.com,True
 unikrn,auctionbot.unikrn.com,True
 unikrn,affiliates.unikrn.com,True
-unikrn,unikrn.com,True
 unikrn,news.unikrn.com,True
 unikrn,crm.unikrn.com,True
 unikrn,connekt-api.unikrn.com,True
 unikrn,auth.unikrn.com,True
+unikrn,unikrn.com,True
 unikrn,jet-api.unikrn.com,True
 unikrn,unikrn.com,True
 unikrn,auctionbot.unikrn.com,True
@@ -5124,12 +5124,12 @@ adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
-adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.adobe.com,False
+adobe,magento.com,True
 adobe,*.proofhq.com,False
 adobe,creativecloud.adobe.com,False
 adobe,magentolive.com,True
@@ -5427,9 +5427,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5472,8 +5472,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -5830,8 +5830,8 @@ magento,accounts.magento.cloud,True
 magento,account.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
-magento,magento.com,True
 magento,marketplace.magento.com,True
+magento,magento.com,True
 magento,marketplace.magento.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True
