@@ -2539,8 +2539,8 @@ watson_group,www.watsons.co.id,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.it,True
@@ -3873,8 +3873,8 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -5145,8 +5145,6 @@ adobe,status.adobe.com,False
 adobe,*.marketo.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -5429,9 +5427,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5923,6 +5921,7 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
+tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
