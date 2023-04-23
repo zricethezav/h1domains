@@ -675,8 +675,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -822,9 +822,9 @@ www.momondo.com
 www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
-www.cheapflights.com
 www.swoodoo.com
 www.kayak.com
+www.cheapflights.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1421,8 +1421,8 @@ agrisync.com
 *.stripe.com
 *.recko.io
 *.link.co
-*.touchtechpayments.com
 js.stripe.com
+*.touchtechpayments.com
 www.stripe.partners
 app.taxjar.com
 *.getbouncer.com
@@ -1609,8 +1609,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2896,11 +2896,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -3707,7 +3707,6 @@ chaodeudas.cl
 *.paynet.credit
 *.efficientforms.com
 HOURLY-JOBS.NET
-JOBALINE.COM
 JOBALINECI.COM
 efficienthire.info
 ehxhr.com
@@ -3719,6 +3718,7 @@ wotctech.com
 *equifax.pt
 www.equifax.com
 *.datacredito.com.do
+JOBALINE.COM
 *.dicom.cl
 *.i2verify.com
 *.wageverify.com
@@ -3872,8 +3872,8 @@ chain.link
 reservations.rezserver.com
 admin.rezserver.com
 www.priceline.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -5922,6 +5922,7 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
