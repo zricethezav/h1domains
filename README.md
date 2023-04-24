@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 20:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 21:12:11 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -720,8 +720,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2331,8 +2330,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2732,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2760,8 +2759,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -2770,10 +2769,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
