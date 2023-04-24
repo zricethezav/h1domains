@@ -241,8 +241,8 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -676,8 +676,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -824,8 +824,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.swoodoo.com,True
-kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
+kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -1335,8 +1335,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
+consensys,bridge.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1710,6 +1710,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
 gsa_vdp,diagrams.fr.cloud.gov,False
@@ -1749,8 +1751,6 @@ gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
 gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
-gsa_vdp,*.pcscotus.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -3872,9 +3872,9 @@ chainlink,chain.link,False
 chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.bookingholdings.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -4018,8 +4018,8 @@ hyatt,www.beachbound.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
-hyatt,www.blueskytours.com,True
 hyatt,assets.hyatt.com,True
+hyatt,www.blueskytours.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -4294,8 +4294,8 @@ goldmansachs,research.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,www.rocaton.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -5033,8 +5033,8 @@ shopify,shop.app,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
@@ -5083,12 +5083,12 @@ snapchat,spectacles.com,True
 snapchat,map.snapchat.com,True
 snapchat,story.snapchat.com,True
 ui,store.ui.com,False
-ui,community.ui.com,True
 ui,ir.ui.com,False
 ui,blog.ui.com,False
 ui,ispdesign.ui.com,True
 ui,training.ui.com,False
 ui,ca.store.ui.com,True
+ui,community.ui.com,True
 ui,help.ui.com,False
 ui,rma.ui.com,True
 ui,careers.ui.com,True
@@ -5427,9 +5427,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5472,8 +5472,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

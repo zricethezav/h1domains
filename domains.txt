@@ -240,8 +240,8 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -675,8 +675,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.bethisraelny.org
 *.snch.org
+*.bethisraelny.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -823,8 +823,8 @@ www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
 www.swoodoo.com
-www.cheapflights.com
 www.kayak.com
+www.cheapflights.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1334,8 +1334,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1709,6 +1709,8 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
+digitalgov.gov
+*.buyamerican.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
 diagrams.fr.cloud.gov
@@ -1748,8 +1750,6 @@ app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
 dss.gsa.gov
-soa-ext.fas.gsa.gov
-*.pcscotus.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -3871,9 +3871,9 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -4017,8 +4017,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-www.blueskytours.com
 assets.hyatt.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -4293,8 +4293,8 @@ research.gs.com
 *.gs.de
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 www.rocaton.com
 *.goldmansachs.com
 *.gs.com
@@ -5032,8 +5032,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
+accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
@@ -5082,12 +5082,12 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 store.ui.com
-community.ui.com
 ir.ui.com
 blog.ui.com
 ispdesign.ui.com
 training.ui.com
 ca.store.ui.com
+community.ui.com
 help.ui.com
 rma.ui.com
 careers.ui.com
@@ -5426,9 +5426,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -5471,8 +5471,8 @@ hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
