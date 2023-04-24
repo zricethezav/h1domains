@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 21:12:11 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 22:12:58 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -720,8 +720,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1858,6 +1858,7 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

@@ -714,8 +714,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1852,6 +1852,7 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
