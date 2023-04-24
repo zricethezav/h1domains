@@ -286,10 +286,10 @@ expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.mrjet.se,True
-expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
+expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -676,8 +676,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1112,10 +1112,10 @@ krisp,upld.krisp.ai,True
 krisp,account.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
-krisp,krisp.ai,True
 krisp,download.krisp.ai,True
 krisp,whatsnew.krisp.ai,False
 krisp,contact.krisp.ai,False
+krisp,krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
 krisp,api.krisp.ai,True
@@ -1335,8 +1335,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1710,8 +1710,6 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
-gsa_vdp,digitalgov.gov,False
-gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
 gsa_vdp,diagrams.fr.cloud.gov,False
@@ -1751,6 +1749,8 @@ gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
 gsa_vdp,dss.gsa.gov,False
+gsa_vdp,soa-ext.fas.gsa.gov,False
+gsa_vdp,*.pcscotus.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -3872,9 +3872,9 @@ chainlink,chain.link,False
 chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
+priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -5054,9 +5054,9 @@ snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -5427,9 +5427,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5455,8 +5455,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
+security,api.hackerone.com,True
 security,hackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
@@ -5472,8 +5472,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
