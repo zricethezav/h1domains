@@ -675,8 +675,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.bethisraelny.org
 *.snch.org
+*.bethisraelny.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -3877,9 +3877,9 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -5350,9 +5350,9 @@ av.urbandictionary.biz
 help.urbandictionary.com
 *.teams.cloudflare.com
 dash.teams.cloudflare.com
-one.dash.cloudflare.com
 cloudflareworkers.com
 *.cloudflare.com
+one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
@@ -5479,8 +5479,8 @@ hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -5922,7 +5922,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
