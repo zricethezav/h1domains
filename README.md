@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 10:14:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 11:13:48 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -720,8 +720,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1488,9 +1488,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1856,8 +1856,8 @@ research.gs.com
 *.gs.de
 *.gsam.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1941,8 +1941,8 @@ crypto.org
 testnet-croeseid-4.crypto.org
 tax.crypto.com
 https://crypto.com/nft
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 learn.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com

@@ -1195,12 +1195,12 @@ fortnite.com
 *.audicagame.com
 *.unrealtournament.com
 forum.sketchfab.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1340,8 +1340,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1715,8 +1715,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
 diagrams.fr.cloud.gov
@@ -1756,6 +1754,8 @@ app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
 dss.gsa.gov
+soa-ext.fas.gsa.gov
+*.pcscotus.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2544,8 +2544,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -3877,9 +3877,9 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -4299,8 +4299,8 @@ research.gs.com
 *.gs.de
 *.gsam.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 *.claritymoney.com
 *.goldmansachs.com
 *.gs.com
@@ -4390,8 +4390,8 @@ crypto.org
 testnet-croeseid-4.crypto.org
 tax.crypto.com
 https://crypto.com/nft
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 learn.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
@@ -5150,8 +5150,6 @@ status.adobe.com
 *.marketo.com
 u.magento.com
 imagine.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5701,12 +5699,6 @@ static.sandbox.gemini.com
 status.gemini.com
 support.gemini.com
 www.gemini.com
-monzo.me
-monzomail.com
-monzoemail.com
-monzo.me
-monzomail.com
-monzoemail.com
 flashpaper.logsnitch.com
 www.logsnitch.com
 api.logsnitch.com
