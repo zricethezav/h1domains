@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 12:15:23 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 13:17:13 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -720,8 +720,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1493,8 +1493,8 @@ www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1844,9 +1844,9 @@ goldmansachsindices.com
 *.honestdollar.com
 *.foliodigitalwealth.com
 *.finlife.com
-*.goldmansachs.com
 *.vennhypotheken.nl
 *.goldmanpfm.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2512,8 +2511,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 ispdesign.ui.com
-community.ui.com
 ca.store.ui.com
+community.ui.com
 rma.ui.com
 careers.ui.com
 account.ui.com
@@ -2715,8 +2714,8 @@ pro.coinbase.com
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -2732,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3083,7 +3082,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
