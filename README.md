@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 08:13:14 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 09:12:38 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -150,9 +150,9 @@ www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
 www.expediaagents.com
-www.expediagroup.com
 www.abritel.fr
 www.expediapartnersolutions.com
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -720,8 +720,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1489,8 +1489,8 @@ app.command.cysiv.com
 www.bookingholdings.com
 reservations.rezserver.com
 www.priceline.com
-www.getaroom.com
 admin.rezserver.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1722,8 +1722,8 @@ www.4njbets.com
 fanduel.design
 bedpost.casper.com
 operator.casper.tools
-legacy.casper.com
 casper.com
+legacy.casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -1858,6 +1858,7 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2737,8 +2738,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -2773,11 +2774,11 @@ hackerone-ext-content.com
 reviewer.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
-errors.hackerone.net
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3044,6 +3045,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
