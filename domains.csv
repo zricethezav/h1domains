@@ -105,8 +105,8 @@ malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,support.malwarebytes.com,False
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,www.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
@@ -791,8 +791,8 @@ metamask,portfolio.metamask.io,True
 recargapay,api.recarga.com,True
 recargapay,api.recarga.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,api.razorpay.com,True
 razorpay,payroll.razorpay.com,True
+razorpay,api.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,checkout.razorpay.com,True
 razorpay,invoices.razorpay.com,True
@@ -2408,8 +2408,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
@@ -2913,8 +2913,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
@@ -3889,9 +3889,9 @@ chainlink,chain.link,False
 chainlink,chain.link,False
 priceline,www.bookingholdings.com,True
 priceline,reservations.rezserver.com,True
-priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,admin.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -4311,8 +4311,8 @@ goldmansachs,research.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,www.rocaton.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -5162,6 +5162,8 @@ adobe,*.marketo.com,False
 adobe,*.tubemogul.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -5268,8 +5270,8 @@ airbnb,www.hoteltonight.com,True
 airbnb,luckey.fr,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -5444,9 +5446,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True

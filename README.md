@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 22:11:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 23:12:55 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -295,8 +295,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
 invoices.razorpay.com
@@ -979,8 +979,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
@@ -1291,8 +1291,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
@@ -1488,9 +1488,9 @@ cysiv.com
 app.command.cysiv.com
 www.bookingholdings.com
 reservations.rezserver.com
-admin.rezserver.com
 www.getaroom.com
 www.priceline.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1856,8 +1856,8 @@ research.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.gs.com
 *.folioclient.com
+*.gs.com
 www.rocaton.com
 *.goldmansachs.com
 *.gs.com
@@ -2564,8 +2564,8 @@ www.hoteltonight.com
 luckey.fr
 *.airbnbcitizen.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2732,9 +2732,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
