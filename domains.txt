@@ -221,8 +221,8 @@ who.stanford.edu
 workgroup.stanford.edu
 netdb.stanford.edu
 mailman.stanford.edu
-kkr.com
 *.kkr.com
+kkr.com
 portal.kkr.com
 www.fskkradvisor.com
 *.kkr.cloud
@@ -675,8 +675,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1340,8 +1340,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -4312,7 +4312,7 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
+*.claritymoney.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -5161,6 +5161,8 @@ status.adobe.com
 *.tubemogul.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5887,6 +5889,7 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
