@@ -482,8 +482,8 @@ resmed,sigmacare.com,False
 resmed,mealtracker.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
-deribit,test.deribit.com,True
 deribit,pb.deribit.com,True
+deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
@@ -547,8 +547,8 @@ allegion,www.ausloc.com,False
 allegion,www.yonomi.com,False
 allegion,www.interflex.com,False
 allegion,www.normbau.de,False
-poloniex,m.poloniex.com,True
 poloniex,www.poloniex.com,True
+poloniex,m.poloniex.com,True
 poloniex,api.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
@@ -4313,7 +4313,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,www.rocaton.com,True
+goldmansachs,*.claritymoney.com,False
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -5162,8 +5162,6 @@ adobe,*.marketo.com,False
 adobe,*.tubemogul.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -5446,9 +5444,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5482,12 +5480,12 @@ security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
-security,reviewer.pullrequest.com,True
 security,ctf.hacker101.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,reviewer.pullrequest.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 01:39:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 02:26:14 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -225,8 +225,8 @@ get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
-test.deribit.com
 pb.deribit.com
+test.deribit.com
 insights.deribit.com
 tools.deribit.com
 metrics.deribit.com
@@ -235,8 +235,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-m.poloniex.com
 www.poloniex.com
+m.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2732,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2768,12 +2767,12 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
