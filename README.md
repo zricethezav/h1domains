@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 07:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 08:13:14 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -163,8 +163,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -717,11 +717,11 @@ rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
-consensys.net
 activate.codefi.network
+consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -784,11 +784,11 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -802,8 +802,8 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-accounts.reddit.com
 oauth.reddit.com
+accounts.reddit.com
 www.reddit.com
 www.reddit.com
 old.reddit.com
@@ -1293,11 +1293,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1488,9 +1488,9 @@ cysiv.com
 app.command.cysiv.com
 www.bookingholdings.com
 reservations.rezserver.com
-admin.rezserver.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1758,8 +1758,8 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1834,9 +1834,9 @@ www.shipt.com
 *.marcus.co.uk
 apigw.foliofn.com
 *.foliofirst.com
+*.ayco.com
 *.foliofn.com
 *.unitedcp.com
-*.ayco.com
 *.finlifepartners.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2731,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3044,7 +3044,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
