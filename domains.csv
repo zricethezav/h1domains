@@ -145,10 +145,10 @@ xdefi,app.xdefi.io,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
@@ -676,8 +676,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1196,12 +1196,12 @@ epicgames,fortnite.com,True
 epicgames,*.audicagame.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,forum.sketchfab.com,False
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -1341,8 +1341,8 @@ consensys,trufflesuite.com,True
 consensys,consensys.net,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
-consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
+consensys,bridge.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1728,6 +1728,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
 gsa_vdp,diagrams.fr.cloud.gov,False
@@ -1767,8 +1769,6 @@ gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
 gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
-gsa_vdp,*.pcscotus.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2915,11 +2915,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -5072,8 +5072,8 @@ snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -5162,8 +5162,6 @@ adobe,*.marketo.com,False
 adobe,*.tubemogul.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
-adobe,updates.frame.io,False
-adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
