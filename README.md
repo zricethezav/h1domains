@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 17:13:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 18:14:22 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -150,9 +150,9 @@ www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
 www.expediaagents.com
-www.abritel.fr
 www.expediapartnersolutions.com
 www.expediagroup.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1293,11 +1293,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
