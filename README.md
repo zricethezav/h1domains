@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 09:12:38 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 10:13:56 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -720,8 +720,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -787,8 +787,8 @@ www.urbanclap.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2330,8 +2330,8 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 github.com
 github.com
 api.github.com

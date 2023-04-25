@@ -714,8 +714,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -781,8 +781,8 @@ www.urbanclap.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2324,8 +2324,8 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 github.com
 github.com
 api.github.com
