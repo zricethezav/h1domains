@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 05:12:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 06:13:52 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1856,8 +1856,8 @@ research.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.folioclient.com
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2731,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -3044,7 +3044,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
