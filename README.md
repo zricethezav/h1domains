@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 11:12:48 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 12:14:08 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -276,8 +276,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1021,14 +1021,14 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-cs.money
 support.cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -1345,9 +1345,9 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 http://apps.dev.lifeomic.com/phc
@@ -1488,8 +1488,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1737,28 +1737,28 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+paypal.me
+*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
-paypal.me
 *.paypal.com
 *.venmo.com
 my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+paypalobjects.com
+*.paypalcorp.com
 *.braintreegateway.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
-*.paypalcorp.com
-paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1836,10 +1836,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.marcus.co.uk
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2022,8 +2022,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2032,8 +2032,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2235,11 +2235,11 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
+card.starbucks.com.sg
+www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2272,10 +2272,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
-basicattentiontoken.org
 search.brave.com
 talk.brave.com
+brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2512,8 +2512,8 @@ scan.snapchat.com
 spectacles.com
 map.snapchat.com
 story.snapchat.com
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2706,11 +2706,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2731,11 +2731,11 @@ paradex.io
 api.slack.com
 status.slack.com
 spaces.pm
-app.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -2761,8 +2761,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
