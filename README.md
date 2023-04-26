@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 08:13:08 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 09:14:06 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -589,7 +589,6 @@ fortnite.com
 harmonixmusic.com
 *.psyonix.com
 *.epicgames.com
-*.fortnite.com
 *.3lateral.com
 *.bcbits.com
 *.dropmix.com
@@ -1506,8 +1505,8 @@ www.bookingholdings.com
 press.priceline.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -1738,28 +1737,28 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
-paypal.me
-*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
+*.hyperwallet.com
+paypal.me
 *.paypal.com
 *.venmo.com
 my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
+*.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1837,10 +1836,10 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
+*.honestdollar.com
+*.goldmansachs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -1946,10 +1945,10 @@ tax.crypto.com
 https://crypto.com/nft
 docs.newrelic.com
 insights.eu.newrelic.com
+learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1957,9 +1956,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1991,15 +1990,15 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
+secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
-secure.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2023,8 +2022,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-privatetarget-2-secure.zigzag
 ext-gw.lahitapiola.fi
+privatetarget-2-secure.zigzag
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2033,8 +2032,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.tapiola.fi
 asiointi.lahitapiola.fi
+www.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2236,11 +2235,11 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
-card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2433,8 +2432,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -2513,8 +2512,8 @@ scan.snapchat.com
 spectacles.com
 map.snapchat.com
 story.snapchat.com
-ispdesign.ui.com
 community.ui.com
+ispdesign.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2673,8 +2672,8 @@ simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 www.tumblr.com
 t.umblr.com
@@ -2769,12 +2768,12 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 www.hackerone.com
-reviewer.pullrequest.com
-ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
+ctf.hacker101.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
@@ -3046,10 +3045,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
