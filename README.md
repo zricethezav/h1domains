@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 06:13:52 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 07:13:53 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -151,8 +151,8 @@ www.orbitz.com
 www.mrjet.se
 www.expediaagents.com
 www.expediapartnersolutions.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -802,9 +802,9 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2482,9 +2482,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 web.snapchat.com
 spectacles.com
@@ -2731,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
