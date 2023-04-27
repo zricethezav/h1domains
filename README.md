@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 07:14:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 08:15:01 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -169,8 +169,8 @@ www.expediapartnercentral.com
 www.hotwire.com
 www.ebookers.fi
 www.expediacruises.com
-www.wotif.com
 www.stayz.com.au
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -276,8 +276,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -790,10 +790,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
-new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -804,8 +804,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1346,9 +1346,9 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 http://apps.dev.lifeomic.com/phc
@@ -1488,9 +1488,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1546,7 +1546,6 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
 book.beachbound.com
@@ -1558,6 +1557,7 @@ www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 res.universalorlandovacations.com
+book.booktandl.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -1722,8 +1722,8 @@ www.4njbets.com
 fanduel.design
 bedpost.casper.com
 operator.casper.tools
-casper.com
 legacy.casper.com
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -1752,7 +1752,6 @@ my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 paypalobjects.com
-*.paypalcorp.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 www.loanbuilder.com
@@ -1760,6 +1759,7 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1837,10 +1837,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.marcus.co.uk
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -1856,8 +1856,8 @@ api.foliofn.com
 *.folioinstitutional.com
 *.gs.de
 *.gsam.com
-*.gs.com
 research.gs.com
+*.gs.com
 *.marcus.com
 developer.gs.com
 www.rocaton.com
@@ -1946,10 +1946,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
+learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1957,9 +1957,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2023,8 +2023,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2033,8 +2033,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2273,10 +2273,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-search.brave.com
-talk.brave.com
 brave.com
 basicattentiontoken.org
+search.brave.com
+talk.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2407,11 +2407,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
+devmaximum.com
+www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-www.werkenbijbakertilly.nl
-devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2707,11 +2707,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -3045,10 +3045,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
