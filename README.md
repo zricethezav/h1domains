@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 17:14:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 18:15:06 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -790,10 +790,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
+new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -984,9 +984,9 @@ partner.tiktokshop.com
 tiktok.com
 business.tiktok.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1061,9 +1061,9 @@ www.watsons.co.id
 www10.watsons.com.hk
 www10.watsons.com.ph
 www.watsons.com.ph
-www.watsons.com.tr
 www10.watsons.com.tw
 mapi-sim.fortress.com.hk
+www.watsons.com.tr
 www.marionnaud.fr
 www.kruidvat.nl
 www.theperfumeshop.com
@@ -2395,11 +2395,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
+devmaximum.com
+www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-www.werkenbijbakertilly.nl
-devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2493,8 +2493,8 @@ web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
-launch.playcanvas.com
 developer.playcanvas.com
+launch.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -2527,8 +2527,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-ispdesign.ui.com
 community.ui.com
+ispdesign.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2721,11 +2721,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
+*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
