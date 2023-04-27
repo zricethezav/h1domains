@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 16:12:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 17:14:29 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -790,10 +790,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
-new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -804,8 +804,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -980,13 +980,13 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
+tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1730,26 +1730,26 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
-paypal.me
-*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
+paypal.me
+*.hyperwallet.com
 *.venmo.com
 my.loanbuilder.com
 *.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-paypalobjects.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
+paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.paypal-*.com
@@ -1847,9 +1847,9 @@ api.foliofn.com
 *.folioclient.com
 *.folioinstitutional.com
 *.gs.de
-*.gsam.com
 research.gs.com
 *.gs.com
+*.gsam.com
 *.marcus.com
 developer.gs.com
 www.rocaton.com
@@ -2218,11 +2218,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2311,10 +2311,10 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-gist.github.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
+gist.github.com
 *.githubusercontent.com
 github.com
 github.com
@@ -2475,8 +2475,8 @@ code.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
-blog.playcanvas.com
 login.playcanvas.com
+blog.playcanvas.com
 www.bitmoji.com
 snappublisher.snapchat.com
 store.snapchat.com
@@ -2493,8 +2493,8 @@ web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
-developer.playcanvas.com
 launch.playcanvas.com
+developer.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -2527,8 +2527,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2783,10 +2783,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
