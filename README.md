@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 01:36:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 02:26:37 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -40,8 +40,8 @@ profile-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
 injob.indriver.com
-super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
+super-services.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 injob.indriver.com
@@ -276,8 +276,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.superpal.io/*
 *.cornershopapp.com/*
+*.superpal.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -788,10 +788,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
-new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -801,9 +801,9 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
 oauth.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1059,9 +1059,9 @@ www.watsons.co.id
 www10.watsons.com.hk
 www10.watsons.com.ph
 www.watsons.com.ph
-www.watsons.com.tr
 www10.watsons.com.tw
 mapi-sim.fortress.com.hk
+www.watsons.com.tr
 www.marionnaud.fr
 www.kruidvat.nl
 www.theperfumeshop.com
@@ -1736,28 +1736,28 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
-paypal.me
-*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
+*.hyperwallet.com
+paypal.me
 *.venmo.com
 my.loanbuilder.com
 *.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-paypalobjects.com
-*.paypalcorp.com
-*.braintreegateway.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
+*.paypalcorp.com
+paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1835,10 +1835,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.marcus.co.uk
 *.ayco.com
-*.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
+*.honestdollar.com
+*.goldmansachs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -1944,10 +1944,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
+learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1955,9 +1955,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2021,8 +2021,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-privatetarget-2-secure.zigzag
 ext-gw.lahitapiola.fi
+privatetarget-2-secure.zigzag
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2031,8 +2031,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.tapiola.fi
 asiointi.lahitapiola.fi
+www.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2331,8 +2331,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -2547,10 +2547,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
+luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2564,12 +2564,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2705,11 +2705,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2766,9 +2766,9 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
