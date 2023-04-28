@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 28 13:13:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 28 14:14:05 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -788,10 +788,10 @@ ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
 old.reddit.com
+new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -1000,8 +1000,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitech.com.cn
 www.logitechg.com
+www.logitech.com.cn
 circle.logi.com
 www.ultimateears.com
 sync.logitech.com
@@ -1344,9 +1344,9 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 http://apps.dev.lifeomic.com/phc
@@ -1835,10 +1835,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.marcus.co.uk
-*.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
+*.honestdollar.com
+*.goldmansachs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -2223,11 +2223,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2316,9 +2316,9 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
 github.com
 gist.github.com
@@ -2400,11 +2400,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
+devmaximum.com
+www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-www.werkenbijbakertilly.nl
-devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2532,8 +2532,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-ispdesign.ui.com
 community.ui.com
+ispdesign.ui.com
 ca.store.ui.com
 rma.ui.com
 careers.ui.com
@@ -2726,11 +2726,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
+*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2795,10 +2795,10 @@ www.hackerone.com
 hackerone-ext-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3068,10 +3068,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
