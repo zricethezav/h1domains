@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 28 12:13:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 28 13:13:07 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -288,8 +288,6 @@ www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
-api.joinpogo.com
-api.joinpogo.com
 portfolio.metamask.io
 portfolio.metamask.io
 api.recarga.com
@@ -1054,25 +1052,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 apptps.theperfumeshop.com
 app.marionnaud.hu
-www.marionnaud.ro
-www20.watsons.co.th
 www.iciparisxl.lu
-www.watsons.co.id
-www10.watsons.com.hk
+www.marionnaud.ro
+mapi-sim.fortress.com.hk
+www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
-www10.watsons.com.tw
-mapi-sim.fortress.com.hk
-www.watsons.com.tr
+www10.watsons.com.hk
+www20.watsons.co.th
+www.watsons.co.id
 www.marionnaud.fr
-www.kruidvat.nl
-www.theperfumeshop.com
+www.watsons.com.tr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
-www.marionnaud.sk
-www.kruidvat.be
-www.pns.hk
+api.watsons.com.tw
+api.watsons.com.ph
+api.watsons.com.hk
+api.watsons.co.id
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1837,10 +1835,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.marcus.co.uk
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -1945,10 +1943,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
+learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1956,9 +1954,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2022,8 +2020,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2032,8 +2030,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2318,9 +2316,9 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 *.githubusercontent.com
 github.com
 gist.github.com
@@ -2343,8 +2341,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-api.kiwi.ki
 portal.kiwi.ki
+api.kiwi.ki
 mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
@@ -2534,8 +2532,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 rma.ui.com
 careers.ui.com
@@ -2570,10 +2568,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
+luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2587,12 +2585,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2728,11 +2726,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2835,6 +2833,8 @@ idp.staging.login.gov
 secure.login.gov
 node1.pivcac.staging.login.gov
 node1.pivcac.prod.login.gov
+api.joinpogo.com
+api.joinpogo.com
 businessdefense.gov
 ioss.gov
 itc.gov
