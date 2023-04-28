@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 28 06:13:31 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 28 07:13:04 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -151,8 +151,8 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.hotels.com
 www.expediaagents.com
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.vrbo.com
 www.travelocity.com
 www.flights.com
@@ -790,10 +790,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
+new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -1338,9 +1338,9 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 http://apps.dev.lifeomic.com/phc
@@ -1481,8 +1481,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.getaroom.com
-www.bookingholdings.com
 www.priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1982,15 +1982,15 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
+secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
-secure.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2254,10 +2254,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-search.brave.com
-talk.brave.com
 brave.com
 basicattentiontoken.org
+search.brave.com
+talk.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2394,11 +2394,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
-devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
+devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2562,10 +2562,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
-luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
+luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2579,12 +2579,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2720,11 +2720,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
+*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
