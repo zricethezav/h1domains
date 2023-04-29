@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 29 09:11:36 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 29 10:12:48 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -788,9 +788,9 @@ app.spiketrap.io
 gql.reddit.com
 ads.reddit.com
 old.reddit.com
+new.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 gateway.reddit.com
@@ -1837,16 +1837,16 @@ apigw.foliofn.com
 *.ayco.com
 *.marcus.co.uk
 *.foliofn.com
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 *.finlife.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2478,12 +2478,12 @@ msg.playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 scan.snapchat.com
-code.playcanvas.com
 relay.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 store.playcanvas.com
 login.playcanvas.com
+code.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -2534,8 +2534,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-ispdesign.ui.com
 community.ui.com
+ispdesign.ui.com
 ca.store.ui.com
 rma.ui.com
 careers.ui.com
@@ -2790,11 +2790,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
 ctf.hacker101.com
-hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-ext-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
