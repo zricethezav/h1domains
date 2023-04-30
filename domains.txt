@@ -1113,8 +1113,8 @@ jobs.krisp.ai
 help-jp.krisp.ai
 resources.krisp.ai
 url5145.krisp.ai
-account.krisp.ai
 upld.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -1629,8 +1629,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2286,10 +2286,10 @@ deskallocation.mendixcloud.com
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
 3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+mxbpconfig.mendixcloud.com
 event.us-east-1.sws.siemens.com
 http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
@@ -2749,8 +2749,8 @@ www.nuri.com
 www.bitwala.com
 api.app.bitwala.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
@@ -4489,8 +4489,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -4787,8 +4787,8 @@ secureui.starbucks.com
 app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
-www.starbucks.com.cn
 login.starbucks.co.jp
+www.starbucks.com.cn
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -4916,9 +4916,9 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 gist.github.com
 *.githubusercontent.com
 github.com
@@ -5002,11 +5002,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
-devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
+devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl

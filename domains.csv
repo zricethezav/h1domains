@@ -1114,8 +1114,8 @@ krisp,jobs.krisp.ai,False
 krisp,help-jp.krisp.ai,False
 krisp,resources.krisp.ai,False
 krisp,url5145.krisp.ai,False
-krisp,account.krisp.ai,True
 krisp,upld.krisp.ai,True
+krisp,account.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,download.krisp.ai,True
@@ -1630,8 +1630,8 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,www.reddit.com,True
 reddit,www.reddit.com,True
 reddit,old.reddit.com,True
 reddit,new.reddit.com,True
@@ -2287,10 +2287,10 @@ mendix,3s.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
 mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,event.us-east-1.sws.siemens.com,False
 mendix,http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev,False
 mendix,gateway.us-east-1.sws.siemens.com,False
@@ -2750,8 +2750,8 @@ nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,api.app.nuri.com,False
-nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
+nuri,app.bitwala.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -4490,8 +4490,8 @@ plaid,production.plaid.com,True
 plaid,my.plaid.com,True
 plaid,plaid.com,True
 plaid,api.blockscore.com,True
-plaid,secure.quovo.com,True
 plaid,cdn.plaid.com,True
+plaid,secure.quovo.com,True
 plaid,manage.blockscore.com,True
 plaid,production.plaid.com,True
 plaid,dashboard.plaid.com,True
@@ -4788,8 +4788,8 @@ starbucks,secureui.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,www.starbucks.co.jp,True
-starbucks,www.starbucks.com.cn,True
 starbucks,login.starbucks.co.jp,True
+starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.ca,True
 starbucks,openapi.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
@@ -4917,9 +4917,9 @@ github,api.github.com,True
 github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
-github,npmjs.org,True
 github,*.github.net,True
 github,education.github.com,True
+github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,github.com,True
@@ -5003,11 +5003,11 @@ radancy,maximum-status.com,True
 radancy,preprod.nl,True
 radancy,ruddercms.nl,True
 radancy,werken.belastingdienst.nl,True
-radancy,devmaximum.com,True
-radancy,www.werkenbijbakertilly.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
 radancy,qatest.nl,True
 radancy,rudderplatform.com,True
+radancy,www.werkenbijbakertilly.nl,True
+radancy,devmaximum.com,True
 radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,www.werkenbijbakertilly.nl,True
