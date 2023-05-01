@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 18:11:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 19:13:18 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -203,8 +203,8 @@ www.flights.com
 *.magiceden.io
 *.magiceden.dev
 magiceden.io
-coralcube.io
 *.coralcube.io
+coralcube.io
 magiceden.io
 coralcube.io
 *.magiceden.io
@@ -298,8 +298,8 @@ dashboard.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
 x.razorpay.com
-checkout.razorpay.com
 invoices.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -781,8 +781,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
 www.myetherwallet.com
 www.myetherwallet.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -803,10 +803,10 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1306,7 +1306,6 @@ gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
-clean.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -1330,7 +1329,6 @@ https://gatewaydsaptst2.marriott.com/
 www.ritzcarlton.com/
 *uat.marriott.com
 hotel-deals.marriott.com
-clean.marriott.com
 http://www.shopmarriott.com
 giftcards.marriott.com
 www.goodrx.com
@@ -1857,8 +1855,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.gs.com
 *.folioclient.com
+*.gs.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -1957,9 +1955,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1998,8 +1996,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2315,16 +2313,16 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2588,11 +2586,11 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -2757,8 +2755,8 @@ status.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3072,10 +3070,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
