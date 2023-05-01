@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 10:11:55 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 11:11:28 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1576,7 +1576,6 @@ www.cheapcaribbean.com
 www.globalhotelchoices.com
 login.www.vaxvacationaccess.com
 world.hyatt.com
-assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
@@ -1592,6 +1591,7 @@ shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
 www.blueskytours.com
+assets.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1753,12 +1753,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com

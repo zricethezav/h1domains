@@ -4,8 +4,8 @@ www.six-group.com
 *.say.rocks
 *.saytechnologies.com
 *.say.rocks
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -104,8 +104,8 @@ cloud.malwarebytes.com
 forums.malwarebytes.com
 oneview.malwarebytes.com
 support.malwarebytes.com
-blog.malwarebytes.com
 www.malwarebytes.com
+blog.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
@@ -2749,8 +2749,8 @@ www.nuri.com
 www.bitwala.com
 api.app.bitwala.com
 api.app.nuri.com
-app.nuri.com
 app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
@@ -4034,7 +4034,6 @@ www.cheapcaribbean.com
 www.globalhotelchoices.com
 login.www.vaxvacationaccess.com
 world.hyatt.com
-assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
@@ -4050,6 +4049,7 @@ shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
 www.blueskytours.com
+assets.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -4211,12 +4211,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -4466,10 +4466,10 @@ jamiewebgbelqfno.onion
 nyc01.jamieweb.net
 ipv6.jamieweb.net
 ipv4.jamieweb.net
+ldn01.jamieweb.net
 jamieweb.net
 jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion
 www.jamieweb.net
-ldn01.jamieweb.net
 www.jamieweb.net
 ipv6.jamieweb.net
 ipv4.jamieweb.net
