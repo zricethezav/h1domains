@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 22:14:20 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 23:14:08 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1736,8 +1736,8 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -1997,8 +1997,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com

@@ -1730,8 +1730,8 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -1991,8 +1991,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
