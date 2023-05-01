@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 00:25:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 01:39:29 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1753,12 +1753,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1958,9 +1958,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2034,8 +2034,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.tapiola.fi
 asiointi.lahitapiola.fi
+www.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2320,9 +2320,9 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
 gist.github.com
 *.githubusercontent.com
 github.com
@@ -2589,11 +2589,11 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
