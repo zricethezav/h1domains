@@ -2286,10 +2286,10 @@ deskallocation.mendixcloud.com
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
 3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+mxbpconfig.mendixcloud.com
 event.us-east-1.sws.siemens.com
 http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
@@ -4489,8 +4489,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -4536,8 +4536,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -5308,11 +5308,11 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -5426,9 +5426,9 @@ assets.tumblr.com
 wordpress.com
 intensedebate.com
 safe.tumblr.com
-www.tumblr.com
 t.umblr.com
 mailpoet.com
+www.tumblr.com
 secure.tumblr.com
 api.tumblr.com
 safe.tumblr.com

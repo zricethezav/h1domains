@@ -2287,10 +2287,10 @@ mendix,3s.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
 mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,event.us-east-1.sws.siemens.com,False
 mendix,http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev,False
 mendix,gateway.us-east-1.sws.siemens.com,False
@@ -4490,8 +4490,8 @@ plaid,production.plaid.com,True
 plaid,my.plaid.com,True
 plaid,plaid.com,True
 plaid,api.blockscore.com,True
-plaid,secure.quovo.com,True
 plaid,cdn.plaid.com,True
+plaid,secure.quovo.com,True
 plaid,manage.blockscore.com,True
 plaid,production.plaid.com,True
 plaid,dashboard.plaid.com,True
@@ -4537,8 +4537,8 @@ localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
-localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
+localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,verkkopalvelu.tapiola.fi,True
@@ -5309,11 +5309,11 @@ airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
-airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
+airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -5427,9 +5427,9 @@ automattic,assets.tumblr.com,True
 automattic,wordpress.com,True
 automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
-automattic,www.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,mailpoet.com,True
+automattic,www.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,api.tumblr.com,True
 automattic,safe.tumblr.com,True
