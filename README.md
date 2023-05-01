@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 12:11:14 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 13:13:42 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -65,8 +65,8 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-my.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 oneview.malwarebytes.com
 www.malwarebytes.com
 www.malwarebytes.com
@@ -581,12 +581,12 @@ api.evernote.com
 *.rukkaz.com
 *.jellychat.com
 *.unrealtournament.com
-*.easy.ac
 *.audicagame.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
 *.mediatonic.co.uk
+*.easy.ac
 *.psyonix.com
 *.3lateral.com
 *.bcbits.com
@@ -1348,8 +1348,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
+apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -1753,12 +1753,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1958,9 +1958,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2320,9 +2320,9 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 gist.github.com
 *.githubusercontent.com
 github.com
