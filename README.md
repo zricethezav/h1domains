@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 14:13:53 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 15:13:53 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -804,9 +804,9 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1958,9 +1958,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2320,9 +2320,9 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
 gist.github.com
 *.githubusercontent.com
 github.com
@@ -2477,15 +2477,15 @@ businesshelp.snapchat.com
 story.snapchat.com
 ads.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
-login.playcanvas.com
 code.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -2493,8 +2493,8 @@ app.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3072,10 +3072,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
