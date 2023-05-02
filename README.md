@@ -2,14 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 21:13:29 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 22:14:42 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
-*.saytechnologies.com
-*.say.rocks
-*.saytechnologies.com
-*.say.rocks
 node.e2ro.com/*
 api-user.e2ro.com/*
 api-eu.floqast.app
@@ -1746,9 +1742,9 @@ swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -1898,8 +1894,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-store.steampowered.com
 playartifact.com
+store.steampowered.com
 help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
@@ -1907,9 +1903,9 @@ partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-steamcommunity.com
 support.steampowered.com
 www.dota2.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -1957,9 +1953,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2588,11 +2584,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -2792,11 +2788,11 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
