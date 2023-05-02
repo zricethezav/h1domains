@@ -1652,8 +1652,8 @@ upchieve,hackers.upchieve.org,False
 reddit,api.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,new.reddit.com,True
@@ -2461,9 +2461,9 @@ tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -2790,8 +2790,8 @@ nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -2971,8 +2971,8 @@ marriott,gatewaydsapdev2.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
-marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
+marriott,hotel-deals.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -3777,7 +3777,6 @@ equifax,chaodeudas.cl,False
 equifax,*.accountscore.com,False
 equifax,*.accountscore.net,False
 equifax,*.employersedge.net,False
-equifax,*.datacredito.com.do,False
 equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
@@ -3789,6 +3788,7 @@ equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
+equifax,*.datacredito.com.do,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -4466,9 +4466,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
-newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -4952,9 +4952,9 @@ github,npmjs.com,True
 github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
-github,npmjs.org,True
 github,*.github.net,True
 github,education.github.com,True
+github,npmjs.org,True
 github,*.githubusercontent.com,True
 github,gist.github.com,True
 github,github.com,True
@@ -5111,10 +5111,10 @@ shopify,shopifyinbox.com,True
 snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,story.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
@@ -5344,11 +5344,11 @@ airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True

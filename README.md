@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 05:10:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 06:15:12 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -788,8 +788,8 @@ www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -989,9 +989,9 @@ creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1306,8 +1306,8 @@ gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
-hotel-deals.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1956,9 +1956,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2318,9 +2318,9 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 *.githubusercontent.com
 gist.github.com
 github.com
@@ -2473,10 +2473,10 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 msg.playcanvas.com
 accounts.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -2587,11 +2587,11 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
