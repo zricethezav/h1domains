@@ -2339,10 +2339,10 @@ deskallocation.mendixcloud.com
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
 3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+mxbpconfig.mendixcloud.com
 event.us-east-1.sws.siemens.com
 http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
@@ -2608,7 +2608,6 @@ www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
@@ -2616,6 +2615,7 @@ www.marionnaud.fr
 www.watsons.com.tr
 apptps.theperfumeshop.com
 app.marionnaud.hu
+www.watsons.com.ph
 api.watsons.com.tw
 api.watsons.com.hk
 api.watsons.co.id
@@ -3976,8 +3976,8 @@ press.priceline.com
 *.bluetarp.com
 *.capitalone360.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -4263,12 +4263,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -4539,8 +4539,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -4586,8 +4586,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.tapiola.fi
 asiointi.lahitapiola.fi
+www.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
