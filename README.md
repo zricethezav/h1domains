@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  7 23:06:09 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  8 00:16:54 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
