@@ -42,8 +42,8 @@ www.mozilla.org
 snapfish.ie
 staging.spoonflower.com
 snapfish.fr
-photo.walgreens.com
 snapfish.it
+photo.walgreens.com
 lifetouch.com
 prestigeportraits.com
 snapfish.de
@@ -581,8 +581,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-hollisterco.com
 corporate.abercrombie.com
+hollisterco.com
 abercrombie.com
 abercrombie.com
 hollisterco.com
@@ -3924,8 +3924,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 connect.8x8.com
-sms.8x8.com
 user-profile.8x8.com
+sms.8x8.com
 work.8x8.com
 www.8x8.com
 8x8.force.com
@@ -5975,9 +5975,9 @@ documentcloud.adobe.com
 status.adobe.com
 magentolive.com
 *.marketo.com
-*.proofhq.com
 *.tubemogul.com
 *.omniture.com
+*.proofhq.com
 *.testdrive.workfront.com
 updates.frame.io
 workflow.frame.io
