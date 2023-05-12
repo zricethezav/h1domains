@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 13:13:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 14:14:28 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -684,10 +684,10 @@ therecord.media
 logs.fr.cloud.gov
 www.data.gov
 ssh.fr.cloud.gov
-*.search.gov
 www.usa.gov
 admin-catalog-bsp.data.gov
 *.code.gov
+*.search.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
@@ -2298,8 +2298,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -2333,8 +2333,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 talk.brave.com
-search.brave.com
 brave.com
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2761,8 +2761,8 @@ simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
-intensedebate.com
 wordpress.com
+intensedebate.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
@@ -2823,8 +2823,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
