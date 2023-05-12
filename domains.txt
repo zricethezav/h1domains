@@ -2409,11 +2409,11 @@ www.medicine.com
 www.question.com
 blog.drugs.com
 www.woolshed.com
-api.reddit.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -5696,11 +5696,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
-education.github.com
 gist.github.com
 npmjs.org
 *.githubusercontent.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -6259,8 +6259,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 16:14:03 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 17:13:45 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -818,11 +818,11 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-api.reddit.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -2388,11 +2388,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
-education.github.com
 gist.github.com
 npmjs.org
 *.githubusercontent.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -2823,8 +2823,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
