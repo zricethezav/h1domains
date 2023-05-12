@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 10:10:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 11:13:49 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -23,8 +23,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 developer.mozilla.org
-hubs.mozilla.com
 www.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -819,10 +819,10 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-ads.reddit.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -1020,8 +1020,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -2412,8 +2412,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-api.kiwi.ki
 portal.kiwi.ki
+api.kiwi.ki
 mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
@@ -2849,9 +2849,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
 hackerone-user-content.com
+hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
