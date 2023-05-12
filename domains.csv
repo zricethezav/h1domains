@@ -331,9 +331,9 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,platform.8x8.com,True
-8x8-bounty,sms.8x8.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
+8x8-bounty,sms.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
@@ -5700,8 +5700,8 @@ github,*.github.net,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
