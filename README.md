@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 11:13:49 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 12:13:12 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -386,8 +386,8 @@ cashier-src.etoro.com
 kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
-etoropartners.com
 wallet.etoro.com
+etoropartners.com
 api.etoro.com
 billing.etoro.com
 charts.etoro.com
@@ -2858,11 +2858,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 hackerone.live

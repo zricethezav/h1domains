@@ -962,8 +962,8 @@ etoro_bbp,cashier-src.etoro.com,True
 etoro_bbp,kyc-src.etoro.com,True
 etoro_bbp,tapi-demo.etoro.com,True
 etoro_bbp,uapi-front.etoro.com,True
-etoro_bbp,etoropartners.com,True
 etoro_bbp,wallet.etoro.com,True
+etoro_bbp,etoropartners.com,True
 etoro_bbp,api.etoro.com,True
 etoro_bbp,billing.etoro.com,True
 etoro_bbp,charts.etoro.com,True
@@ -6295,11 +6295,11 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
