@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 12:13:12 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 13:13:23 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-phabricator.services.mozilla.com
 addons.allizom.org
 aus5.mozilla.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
