@@ -3365,7 +3365,6 @@ watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.iciparisxl.lu,True
-watson_group,api.watsons.com.hk,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
 watson_group,app.marionnaud.cz,True
@@ -3375,6 +3374,7 @@ watson_group,app.marionnaud.ro,True
 watson_group,api.watsons.com.ph,True
 watson_group,www10.watsons.com.my,True
 watson_group,www.marionnaud.sk,True
+watson_group,www.pns.hk,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True

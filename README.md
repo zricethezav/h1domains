@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 07:10:29 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 08:11:10 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -1100,7 +1100,6 @@ www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.ph
 www.iciparisxl.lu
-api.watsons.com.hk
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -1110,6 +1109,7 @@ app.marionnaud.ro
 api.watsons.com.ph
 www10.watsons.com.my
 www.marionnaud.sk
+www.pns.hk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
