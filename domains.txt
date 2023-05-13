@@ -4762,8 +4762,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -5632,10 +5632,10 @@ knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
 push-notifications.nextcloud.com
-customerupdates.nextcloud.com
 newsletter.nextcloud.com
 download.nextcloud.com
 nextcloud.com
+customerupdates.nextcloud.com
 surveyserver.nextcloud.com
 docs.nextcloud.com
 lists.nextcloud.com

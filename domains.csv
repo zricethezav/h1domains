@@ -4763,8 +4763,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -5633,10 +5633,10 @@ nextcloud,knowledge.nextcloud.com,False
 nextcloud,updates.nextcloud.com,False
 nextcloud,support.nextcloud.com,False
 nextcloud,push-notifications.nextcloud.com,False
-nextcloud,customerupdates.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,nextcloud.com,False
+nextcloud,customerupdates.nextcloud.com,False
 nextcloud,surveyserver.nextcloud.com,False
 nextcloud,docs.nextcloud.com,False
 nextcloud,lists.nextcloud.com,False
