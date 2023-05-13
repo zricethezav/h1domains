@@ -44,10 +44,10 @@ staging.spoonflower.com
 snapfish.fr
 snapfish.it
 photo.walgreens.com
-lifetouch.com
 prestigeportraits.com
 snapfish.de
 www.borrowlenses.com
+lifetouch.com
 jcpportraits.com
 snapfish.com
 shutterfly.com
@@ -606,8 +606,8 @@ www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
 brio.com.au
-www.planopunkt.com
 zentra.co
+www.planopunkt.com
 www.krytonitelock.com
 www.schlage.com
 www.bricard.com
