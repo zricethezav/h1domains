@@ -4762,8 +4762,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -6278,7 +6278,6 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
-data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com

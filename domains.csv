@@ -4763,8 +4763,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.lincoln.com,False
 ford,*.ford.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -6279,7 +6279,6 @@ slack,spaces.pm,True
 slack,www.quip.com,True
 slack,*.quip.com,True
 yahoo,apis.mail.yahoo.com,True
-yahoo,data.mail.yahoo.com,True
 yahoo,data.mail.yahoo.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True

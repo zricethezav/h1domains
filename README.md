@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 19:10:27 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 20:10:59 UTC 2023)
 ```
 accounts.firefox.com
 firefox.settings.services.mozilla.com
@@ -2842,7 +2842,6 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
-data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
