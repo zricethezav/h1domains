@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 22:10:38 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 23:10:32 UTC 2023)
 ```
 accounts.firefox.com
 firefox.settings.services.mozilla.com
@@ -2532,8 +2532,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
+accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
