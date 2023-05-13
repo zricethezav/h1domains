@@ -1905,8 +1905,8 @@ demo.saaslio.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-bigcommerce-adapter.judge.me
 judge.me
+bigcommerce-adapter.judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -4761,9 +4761,9 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
-*.lincoln.com
 *.motorcraft.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -5087,8 +5087,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.claritymoney.com

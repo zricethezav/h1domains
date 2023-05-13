@@ -591,8 +591,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-bigcommerce-adapter.judge.me
 judge.me
+bigcommerce-adapter.judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1891,8 +1891,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com

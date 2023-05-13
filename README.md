@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 13:11:00 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 14:11:14 UTC 2023)
 ```
 accounts.firefox.com
 firefox.settings.services.mozilla.com
@@ -597,8 +597,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-bigcommerce-adapter.judge.me
 judge.me
+bigcommerce-adapter.judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1897,8 +1897,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com

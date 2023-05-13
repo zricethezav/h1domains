@@ -1906,8 +1906,8 @@ auvik,demo.saaslio.com,False
 judgeme,cache.judge.me,True
 judgeme,shop.judge.me,True
 judgeme,woocommerce-adapter.judge.me,True
-judgeme,bigcommerce-adapter.judge.me,True
 judgeme,judge.me,True
+judgeme,bigcommerce-adapter.judge.me,True
 judgeme,judge.me,True
 judgeme,https://judge.me/reviews,True
 judgeme,shop.judge.me,True
@@ -4762,9 +4762,9 @@ omise,linksplus-dashboard.omise.co,True
 omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
-ford,*.lincoln.com,False
 ford,*.motorcraft.com,False
 ford,*.ford.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -5088,8 +5088,8 @@ goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,developer.gs.com,True
 goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
