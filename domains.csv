@@ -2146,7 +2146,6 @@ john-deere,hagiegear.com,False
 john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
-john-deere,*deere.com*,False
 john-deere,dev-app.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,dev-web.agrisync.com,False
@@ -2157,6 +2156,7 @@ john-deere,idt.agrisync.com,False
 john-deere,stage-diagnostics.agrisync.com,False
 john-deere,np-zeus.agrisync.com,False
 john-deere,stage-dc-service.agrisync.com,False
+john-deere,*deere.com*,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -5692,8 +5692,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True

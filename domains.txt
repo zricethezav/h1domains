@@ -2145,7 +2145,6 @@ hagiegear.com
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
-*deere.com*
 dev-app.agrisync.com
 stage-vnd.agrisync.com
 dev-web.agrisync.com
@@ -2156,6 +2155,7 @@ idt.agrisync.com
 stage-diagnostics.agrisync.com
 np-zeus.agrisync.com
 stage-dc-service.agrisync.com
+*deere.com*
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -5691,8 +5691,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
