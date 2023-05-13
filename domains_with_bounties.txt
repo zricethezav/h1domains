@@ -2797,8 +2797,8 @@ paradex.io
 *.cbhq.net
 api.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

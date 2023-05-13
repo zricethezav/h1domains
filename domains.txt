@@ -4762,8 +4762,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -6239,8 +6239,8 @@ paradex.io
 *.cbhq.net
 api.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

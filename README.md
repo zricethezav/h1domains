@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 14:11:14 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 15:10:51 UTC 2023)
 ```
 accounts.firefox.com
 firefox.settings.services.mozilla.com
@@ -2803,8 +2803,8 @@ paradex.io
 *.cbhq.net
 api.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

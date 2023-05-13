@@ -4763,8 +4763,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -6240,8 +6240,8 @@ coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
-coinbase,*.base.org,True
 coinbase,institutional.coinbase.com,True
+coinbase,*.base.org,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
