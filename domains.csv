@@ -153,8 +153,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
-indrive,injob.indriver.com,True
 indrive,super-services.indriverapp.com,True
+indrive,injob.indriver.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -229,8 +229,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
-s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.s-pankki.fi,True
+s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
@@ -2245,8 +2245,8 @@ stripe,*.recko.io,True
 stripe,*.link.co,True
 stripe,js.stripe.com,True
 stripe,*.touchtechpayments.com,True
-stripe,app.taxjar.com,True
 stripe,www.stripe.partners,False
+stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
 stripe,api.taxjar.com,True
@@ -2430,8 +2430,8 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,www.reddit.com,True
 reddit,www.reddit.com,True
 reddit,old.reddit.com,True
 reddit,new.reddit.com,True
@@ -4763,8 +4763,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False

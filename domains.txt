@@ -152,8 +152,8 @@ new-order.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-injob.indriver.com
 super-services.indriverapp.com
+injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 injob.indriver.com
@@ -228,8 +228,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.prisma.fi
-tunnistus.s-ryhma.fi
 www.s-pankki.fi
+tunnistus.s-ryhma.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -2244,8 +2244,8 @@ zeus.agrisync.com
 *.link.co
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 www.stripe.partners
+app.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
 api.taxjar.com
@@ -2429,8 +2429,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -4762,8 +4762,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
