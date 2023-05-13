@@ -1035,8 +1035,8 @@ www.logitech.com.cn
 www.logitechg.com
 circle.logi.com
 www.ultimateears.com
-sync.logitech.com
 id.logi.com
+sync.logitech.com
 circle.logi.com
 id.logi.com
 accounts.logi.com

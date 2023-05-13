@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 23:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 00:19:35 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -1041,8 +1041,8 @@ www.logitech.com.cn
 www.logitechg.com
 circle.logi.com
 www.ultimateears.com
-sync.logitech.com
 id.logi.com
+sync.logitech.com
 circle.logi.com
 id.logi.com
 accounts.logi.com

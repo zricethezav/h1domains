@@ -3248,10 +3248,10 @@ circle.logi.com
 www.ultimateears.com
 logilife.logitech.com
 feedback.logitech.com
-sync.logitech.com
 id.logi.com
 external.logitech.com
 www.logitechclub.com
+sync.logitech.com
 partner.logitech.com
 maintenance.logitech.com
 circle.logi.com
