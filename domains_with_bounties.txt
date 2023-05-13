@@ -1,5 +1,5 @@
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
