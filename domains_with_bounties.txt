@@ -1334,8 +1334,8 @@ gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
 hotel-deals.marriott.com
-homes-and-villas.marriott.com
 passwordchallenge.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
