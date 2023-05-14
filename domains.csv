@@ -3115,8 +3115,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-yoti,www.yotisign.com,True
 yoti,api.yoti.com,True
+yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
