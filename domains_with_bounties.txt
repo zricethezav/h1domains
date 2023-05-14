@@ -363,8 +363,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
