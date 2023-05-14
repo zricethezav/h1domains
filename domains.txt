@@ -5842,8 +5842,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
+shopify.plus
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
