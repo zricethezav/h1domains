@@ -866,8 +866,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -2427,10 +2427,10 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 www.reddit.com
+oauth.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -5131,8 +5131,8 @@ api.foliofn.com
 *.claritymoney.com
 developer.valvesoftware.com
 playartifact.com
-help.steampowered.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
@@ -5561,9 +5561,9 @@ www.starbucks.com.br
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
