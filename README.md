@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 14 15:11:01 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 14 16:09:46 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -115,9 +115,9 @@ online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
-www.prisma.fi
 www.s-pankki.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -821,8 +821,8 @@ www.urbanclap.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
-ads.reddit.com
 api.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com

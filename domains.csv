@@ -8,10 +8,10 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
+mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -228,9 +228,9 @@ s-pankki,online.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
-s-pankki,www.prisma.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.prisma.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
@@ -2413,8 +2413,8 @@ drugs_com,www.woolshed.com,False
 reddit,old.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,api.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,new.reddit.com,True
