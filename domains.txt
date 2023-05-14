@@ -5871,11 +5871,11 @@ www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
