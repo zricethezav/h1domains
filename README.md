@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 14 11:10:54 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 14 12:11:41 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -2532,8 +2532,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
+shopify.plus
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
@@ -2548,8 +2548,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -2567,9 +2567,9 @@ business.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
-*.sc-corp.net
 spectacles.com
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -2740,8 +2740,8 @@ gnip.com
 gnip.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
