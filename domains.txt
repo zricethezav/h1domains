@@ -52,12 +52,12 @@ jcpportraits.com
 snapfish.com
 shutterfly.com
 admin.spoonflower.com
-preschoolsmiles.com
 snapfish.com.au
 tinyprints.com
 snapfish.co.uk
 snapfish.co.nz
 blog.spoonflower.com
+preschoolsmiles.com
 *.shutterfly.com
 www.spoonflower.com
 *.shutterfly.com
@@ -571,8 +571,8 @@ careanyware.com
 produktion.api.praxispad.de/
 referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
-test.deribit.com
 pb.deribit.com
+test.deribit.com
 insights.deribit.com
 tools.deribit.com
 metrics.deribit.com

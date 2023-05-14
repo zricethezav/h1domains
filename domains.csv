@@ -53,12 +53,12 @@ shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,admin.spoonflower.com,False
-shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,blog.spoonflower.com,False
+shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
@@ -572,8 +572,8 @@ resmed,careanyware.com,False
 resmed,produktion.api.praxispad.de/,False
 resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
-deribit,test.deribit.com,True
 deribit,pb.deribit.com,True
+deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
