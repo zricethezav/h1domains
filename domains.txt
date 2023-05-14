@@ -581,8 +581,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-corporate.abercrombie.com
 hollisterco.com
+corporate.abercrombie.com
 abercrombie.com
 abercrombie.com
 hollisterco.com
