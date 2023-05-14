@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 14 03:09:45 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 14 04:10:58 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -184,15 +184,15 @@ hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediagroup.com
 www.abritel.fr
 www.hotels.com
 www.orbitz.com
-www.vrbo.com
+www.expediaagents.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
+www.vrbo.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
