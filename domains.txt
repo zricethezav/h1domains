@@ -3,8 +3,8 @@ traum-ferienwohnungen.de
 traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
@@ -5872,10 +5872,10 @@ store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
