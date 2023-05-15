@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 22:11:47 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 23:10:47 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -1515,8 +1515,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1937,8 +1937,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2144,8 +2144,8 @@ tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3096,8 +3096,8 @@ relay.playcanvas.com
 playcanv.as
 code.playcanvas.com
 store.playcanvas.com
-login.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -3326,8 +3326,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-www.tumblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
