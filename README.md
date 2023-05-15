@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 21:11:56 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 22:11:47 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -810,8 +810,8 @@ harmonixmusic.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1515,8 +1515,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1640,8 +1640,8 @@ dashboard.magic.link
 api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
-unibet.me
 *.highrolling.nu
+unibet.me
 *.bingo.com
 *.unibet.fr
 *.kolikkopelit.com
@@ -1937,8 +1937,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
