@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 13:12:55 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 14:15:00 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -16,8 +16,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
@@ -33,10 +33,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-monitor.firefox.com
-hubs.mozilla.com
 www.mozilla.org
 developer.mozilla.org
+hubs.mozilla.com
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1035,9 +1035,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -2542,8 +2542,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
+accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
@@ -2748,12 +2748,12 @@ jss.greenhouse.io
 www.greenhouse.io
 gnip.com
 gnip.com
-cloudflareworkers.com
 *.teams.cloudflare.com
 *.cloudflare.com
 one.dash.cloudflare.com
-waf.cumulusfire.net
+cloudflareworkers.com
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com

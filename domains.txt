@@ -15,8 +15,8 @@ traum-ferienwohnungen.de
 traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
@@ -32,10 +32,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-monitor.firefox.com
-hubs.mozilla.com
 www.mozilla.org
 developer.mozilla.org
+hubs.mozilla.com
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -96,8 +96,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.msd.com
 *.merck.com
+*.msd.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -729,6 +729,7 @@ www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
 www.fossil.be
+cdgcitizen.com
 www.fossil.co.kr
 www.fossilcanada.ca
 www.fossilsweden.se
@@ -775,6 +776,7 @@ www.skagen-japan.com
 www.watchstation.de
 www.watchstation.fr
 www.fossil.co.id
+cdgcitizen.com
 *.healthandhealingny.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
@@ -3234,9 +3236,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -5852,8 +5854,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
+accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
@@ -6182,13 +6184,13 @@ gnip.com
 gnip.com
 twitterflightschool.com
 t.co
-cloudflareworkers.com
 *.teams.cloudflare.com
 *.cloudflare.com
 one.dash.cloudflare.com
+cloudflareworkers.com
 *.cloudflarepartners.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com

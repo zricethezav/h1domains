@@ -16,8 +16,8 @@ oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
-mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,aus5.mozilla.org,True
@@ -33,10 +33,10 @@ mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
+mozilla_core_services,hubs.mozilla.com,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -97,8 +97,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -730,6 +730,7 @@ fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
 fossil,www.fossil.be,False
+fossil,cdgcitizen.com,False
 fossil,www.fossil.co.kr,False
 fossil,www.fossilcanada.ca,False
 fossil,www.fossilsweden.se,False
@@ -776,6 +777,7 @@ fossil,www.skagen-japan.com,False
 fossil,www.watchstation.de,False
 fossil,www.watchstation.fr,False
 fossil,www.fossil.co.id,False
+fossil,cdgcitizen.com,False
 mount-sinai-health,*.healthandhealingny.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
@@ -3235,9 +3237,9 @@ tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -5853,8 +5855,8 @@ shopify,shop.app,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
@@ -6183,13 +6185,13 @@ twitter,gnip.com,True
 twitter,gnip.com,True
 twitter,twitterflightschool.com,False
 twitter,t.co,False
-cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
+cloudflare,cloudflareworkers.com,True
 cloudflare,*.cloudflarepartners.com,False
-cloudflare,waf.cumulusfire.net,True
 cloudflare,api.cloudflare.com,True
+cloudflare,waf.cumulusfire.net,True
 cloudflare,dash.cloudflare.com,True
 cloudflare,dash.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
