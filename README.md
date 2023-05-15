@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 10:11:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 11:11:54 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
-phabricator.services.mozilla.com
 addons.allizom.org
 contile.services.mozilla.com
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -23,8 +23,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1041,6 +1041,26 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
+www.logitechg.com
+www.logitech.com.cn
+circle.logi.com
+www.ultimateears.com
+id.logi.com
+sync.logitech.com
+circle.logi.com
+id.logi.com
+accounts.logi.com
+www.logitech.com
+www.logitechg.com
+www.jaybirdsport.com
+www.ultimateears.com
+www.astrogaming.com
+www.logitech.com.cn
+sync.logitech.com
+meetiobook.com
+www.logicool.co.jp
+logitechg.com.cn
+gaming.logicool.co.jp
 www.logitechg.com
 www.logitech.com.cn
 circle.logi.com
