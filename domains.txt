@@ -54,10 +54,10 @@ admin.spoonflower.com
 snapfish.com
 tinyprints.com
 snapfish.co.uk
-blog.spoonflower.com
 preschoolsmiles.com
 snapfish.co.nz
 snapfish.com.au
+blog.spoonflower.com
 *.shutterfly.com
 www.spoonflower.com
 *.shutterfly.com
@@ -5135,8 +5135,8 @@ api.foliofn.com
 *.claritymoney.com
 developer.valvesoftware.com
 playartifact.com
-store.steampowered.com
 help.steampowered.com
+store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
@@ -5882,8 +5882,8 @@ snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 06:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 07:13:33 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -1943,8 +1943,8 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-store.steampowered.com
 help.steampowered.com
+store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
@@ -2572,8 +2572,8 @@ snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
