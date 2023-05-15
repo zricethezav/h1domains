@@ -2,8 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 11:11:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 12:15:54 UTC 2023)
 ```
+login.tide.co
+api.tideplatform.in
+www.tide.co
+web.tide.co
+api.tide.co
+app.tide.co
+web.tide.co
+api.tide.co
+login.tide.co
+app.tide.co
+api.tideplatform.in
+www.tide.co
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
@@ -842,8 +854,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1041,26 +1053,6 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitechg.com
-www.logitech.com.cn
-circle.logi.com
-www.ultimateears.com
-id.logi.com
-sync.logitech.com
-circle.logi.com
-id.logi.com
-accounts.logi.com
-www.logitech.com
-www.logitechg.com
-www.jaybirdsport.com
-www.ultimateears.com
-www.astrogaming.com
-www.logitech.com.cn
-sync.logitech.com
-meetiobook.com
-www.logicool.co.jp
-logitechg.com.cn
-gaming.logicool.co.jp
 www.logitechg.com
 www.logitech.com.cn
 circle.logi.com
@@ -2565,9 +2557,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-forum.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -2586,8 +2578,8 @@ snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
