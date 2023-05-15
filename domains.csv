@@ -35,8 +35,8 @@ mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
-mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,monitor.firefox.com,True
+mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -2036,10 +2036,10 @@ recorded-future,therecord.media,True
 gsa_bbp,logs.fr.cloud.gov,True
 gsa_bbp,www.data.gov,True
 gsa_bbp,ssh.fr.cloud.gov,True
-gsa_bbp,www.usa.gov,True
 gsa_bbp,admin-catalog-bsp.data.gov,True
 gsa_bbp,*.code.gov,True
 gsa_bbp,*.search.gov,True
+gsa_bbp,www.usa.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,login.fr.cloud.gov,True
 gsa_bbp,catalog.data.gov,True
@@ -5630,9 +5630,9 @@ rubygems,rubygems.org,True
 rubygems,rubygems.org,True
 yelp,yelptop100.com,True
 yelp,yelptop100.com,True
+harvest,getharvest.com,True
 harvest,harvestapp.com,True
 harvest,id.getharvest.com,True
-harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -5891,8 +5891,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -6186,9 +6186,9 @@ twitter,gnip.com,True
 twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,*.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
+cloudflare,*.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
