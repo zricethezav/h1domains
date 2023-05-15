@@ -832,8 +832,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
