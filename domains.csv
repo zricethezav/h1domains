@@ -1,9 +1,9 @@
 handle,domain,eligible_for_bounty
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,www.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -2365,8 +2365,8 @@ blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
 myetherwallet,www.myetherwallet.com,True
 myetherwallet,www.myetherwallet.com,True
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 aktia,www.aktia.fi,False
@@ -6270,8 +6270,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
