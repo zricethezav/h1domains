@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 03:11:03 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 04:11:46 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -1338,10 +1338,10 @@ marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-marrtool.com
 hotel-deals.marriott.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com

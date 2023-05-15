@@ -1332,10 +1332,10 @@ marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-marrtool.com
 hotel-deals.marriott.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
