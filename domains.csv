@@ -47,12 +47,12 @@ shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,www.borrowlenses.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,snapfish.de,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,shutterfly.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,preschoolsmiles.com,False
@@ -2088,9 +2088,9 @@ gsa_bbp,federalist-docs.18f.gov,True
 ibb,rubygems.org,True
 ibb,rubygems.org,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
-consensys,consensys.net,True
 consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
+consensys,consensys.net,True
 consensys,staking.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
@@ -4530,7 +4530,6 @@ equifax,*equifax.co.uk,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
 equifax,*.wageverify.com,False
-equifax,*.accountscore.co.uk,False
 equifax,*.employersedge.com,False
 equifax,*.healthefx.net,False
 equifax,*.healthefxforms.us,False
@@ -4550,6 +4549,7 @@ equifax,BE-THE-AMERICAN-DREAM.net,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*equifax.es,False
+equifax,*.accountscore.co.uk,False
 equifax,*equifax.com.tw,False
 equifax,*.equifax.com.pe,False
 equifax,CALLCENTER-JOBS.CO,False

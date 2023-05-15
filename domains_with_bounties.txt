@@ -748,9 +748,9 @@ federalist-docs.18f.gov
 rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 trufflesuite.com
 activate.codefi.network
+consensys.net
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network

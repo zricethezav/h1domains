@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 07:13:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 08:14:27 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -754,9 +754,9 @@ federalist-docs.18f.gov
 rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 trufflesuite.com
 activate.codefi.network
+consensys.net
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
