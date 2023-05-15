@@ -225,12 +225,14 @@ xdefi,app.xdefi.io,True
 xdefi,staking.xdefi.io,True
 xdefi,app.xdefi.io,True
 s-pankki,online.s-pankki.fi,True
+s-pankki,api.sokos.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
-s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
@@ -241,6 +243,8 @@ s-pankki,extranet.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,www.sokos.fi,True
+s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
 kiwicom,www.kiwi.com,True
@@ -867,8 +871,8 @@ fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,www.personalcreations.com,False
@@ -3241,8 +3245,8 @@ logitech,www.logitechstore.com.br,False
 logitech,alert.logitech.com,False
 logitech,buy.logitech.com,False
 logitech,outage.logitech.com,False
-logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
+logitech,www.logitech.com.cn,True
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
 logitech,circle.logi.com,True
