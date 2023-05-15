@@ -831,9 +831,9 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
