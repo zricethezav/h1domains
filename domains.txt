@@ -585,8 +585,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-hollisterco.com
 corporate.abercrombie.com
+hollisterco.com
 abercrombie.com
 abercrombie.com
 hollisterco.com
@@ -3223,8 +3223,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -4766,8 +4766,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -5861,9 +5861,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
+accounts.snapchat.com
 forum.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -5878,8 +5878,8 @@ rt.playcanvas.com
 my.snapchat.com
 business.snapchat.com
 app.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -6178,8 +6178,8 @@ twitterflightschool.com
 t.co
 cloudflareworkers.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 *.cloudflarepartners.com
 waf.cumulusfire.net
 api.cloudflare.com
