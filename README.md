@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 09:12:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 10:11:33 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -22,9 +22,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-www.mozilla.org
 hubs.mozilla.com
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -2416,12 +2416,6 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-portal.kiwi.ki
-api.kiwi.ki
-mobile.kiwi.ki
-api.kiwi.ki
-mobile.kiwi.ki
-portal.kiwi.ki
 registry.gitlab.com
 customers.gitlab.com
 design.gitlab.com
@@ -2551,9 +2545,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -2568,8 +2562,8 @@ rt.playcanvas.com
 my.snapchat.com
 business.snapchat.com
 app.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3197,6 +3191,12 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
+portal.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+portal.kiwi.ki
 www.algolia.com
 www.algolia.com
 provider.enter.health
