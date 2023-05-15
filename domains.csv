@@ -2024,8 +2024,8 @@ jfrog,www.jfrogchina.com,False
 recorded-future,app.recordedfuture.com,True
 recorded-future,therecord.media,True
 recorded-future,api.recordedfuture.com,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
@@ -4781,8 +4781,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -5762,9 +5762,9 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 binary,webtrader.binary.com,True
-binary,crypto-cashier.binary.com,True
 binary,secure-dfadmin.binary.com,True
 binary,cashier.deriv.com,True
+binary,crypto-cashier.binary.com,True
 binary,cashier.binary.com,True
 binary,tradingview.binary.com,True
 binary,charts.binary.com,True
@@ -5848,8 +5848,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,exchangemarketplace.com,True
@@ -5870,9 +5870,9 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
@@ -6187,8 +6187,8 @@ twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,*.teams.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
-cloudflare,cloudflareworkers.com,True
 cloudflare,*.cloudflare.com,True
+cloudflare,cloudflareworkers.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True

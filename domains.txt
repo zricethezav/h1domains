@@ -2023,8 +2023,8 @@ www.jfrogchina.com
 app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -4780,8 +4780,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -5761,9 +5761,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 webtrader.binary.com
-crypto-cashier.binary.com
 secure-dfadmin.binary.com
 cashier.deriv.com
+crypto-cashier.binary.com
 cashier.binary.com
 tradingview.binary.com
 charts.binary.com
@@ -5847,8 +5847,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 shop.app
 exchangemarketplace.com
@@ -5869,9 +5869,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -6186,8 +6186,8 @@ twitterflightschool.com
 t.co
 *.teams.cloudflare.com
 one.dash.cloudflare.com
-cloudflareworkers.com
 *.cloudflare.com
+cloudflareworkers.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
