@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 10:12:04 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 11:13:19 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -999,8 +999,8 @@ strapi.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1236,8 +1236,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -1332,8 +1332,8 @@ www.marionnaud.ro
 www.watsons.com.tr
 www.watsons.co.id
 www.marionnaud.fr
-www.iciparisxl.lu
 www.watsons.com.ph
+www.iciparisxl.lu
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -1588,8 +1588,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
