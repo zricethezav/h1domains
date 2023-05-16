@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 03:11:37 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 04:11:05 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -303,9 +303,9 @@ www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
-www.wotif.com
 www.hotwire.com
 www.expediapartnercentral.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -810,8 +810,8 @@ harmonixmusic.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1515,8 +1515,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com

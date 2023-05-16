@@ -561,9 +561,9 @@ www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
-www.wotif.com
 www.hotwire.com
 www.expediapartnercentral.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -2577,8 +2577,8 @@ www.jfrogchina.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4527,8 +4527,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5001,8 +5001,8 @@ connect.8x8.com
 *.8x8cloud.net
 user-profile.8x8.com
 sms.8x8.com
-*.fuze.com
 *.thinkingphones.net
+*.fuze.com
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
