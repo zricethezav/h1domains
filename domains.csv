@@ -247,9 +247,9 @@ miro,http://miro.com/blog,True
 abb,*.cylon.com,False
 abb,*.abb.com.cn,False
 abb,*.tnb.com,False
-abb,*.abb.com,False
 abb,*.abb.com.tr,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.abb,False
 abb,*.abb.com,False
 abb,*.abb,False
@@ -1157,8 +1157,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2395,8 +2395,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2578,8 +2578,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tstaging.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3147,8 +3147,8 @@ reddit,*.snooguts.net,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4528,8 +4528,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4628,9 +4628,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
@@ -5002,8 +5002,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8cloud.net,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -5683,8 +5683,8 @@ equifax,ntcusa.com,False
 equifax,BE-THE-AMERICAN-DREAM.net,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
-equifax,*equifax.es,False
 equifax,*.accountscore.co.uk,False
+equifax,*equifax.es,False
 equifax,*equifax.com.tw,False
 equifax,*.equifax.com.pe,False
 equifax,CALLCENTER-JOBS.CO,False
@@ -5875,8 +5875,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7516,9 +7516,9 @@ twitter,gnip.com,True
 twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
+cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
@@ -7806,9 +7806,9 @@ epam-bbp,*.emakina.us,True
 epam-bbp,*.opensource.epam.com,True
 epam-bbp,*.emakina.com,True
 epam-bbp,*.emakina.fr,True
-epam-bbp,*.projects.epam.com,True
 epam-bbp,*.emakina.group,True
 epam-bbp,*.epam.com,True
+epam-bbp,*.projects.epam.com,True
 epam-bbp,anywhere.epam.com,True
 epam-bbp,training.epam.com,True
 epam-bbp,*.lab.epam.com,True

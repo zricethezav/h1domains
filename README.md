@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 00:22:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 01:39:33 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -810,8 +810,8 @@ harmonixmusic.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -999,8 +999,8 @@ strapi.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1515,8 +1515,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1937,8 +1937,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3298,9 +3298,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
 cloudflareworkers.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3578,9 +3578,9 @@ examinator.epam.com
 *.opensource.epam.com
 *.emakina.com
 *.emakina.fr
-*.projects.epam.com
 *.emakina.group
 *.epam.com
+*.projects.epam.com
 anywhere.epam.com
 training.epam.com
 *.lab.epam.com
