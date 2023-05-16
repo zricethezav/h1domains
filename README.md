@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 23:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 00:22:00 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -821,8 +821,8 @@ harmonixmusic.com
 app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -2322,8 +2322,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -3070,8 +3070,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3390,8 +3390,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
