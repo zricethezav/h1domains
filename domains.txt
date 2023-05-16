@@ -33,9 +33,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 www.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
 hubs.mozilla.com
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1156,8 +1156,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1348,9 +1348,9 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.modernfertility.com
 *.ro.co
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.getroman.com
 *.ropharmacy.com
@@ -2394,8 +2394,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4627,9 +4627,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -4767,10 +4767,10 @@ marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -5001,8 +5001,8 @@ connect.8x8.com
 *.8x8cloud.net
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5874,8 +5874,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6266,8 +6266,8 @@ cloud.rocket.chat
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
+*.ayco.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -7064,8 +7064,8 @@ binary.bot
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud

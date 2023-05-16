@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 02:25:24 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 03:11:37 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -34,9 +34,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 www.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
 hubs.mozilla.com
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1687,10 +1687,10 @@ marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1937,8 +1937,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2301,8 +2301,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
+*.ayco.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2977,8 +2977,8 @@ binary.bot
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
