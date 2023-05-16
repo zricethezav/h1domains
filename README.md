@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 04:11:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 05:12:07 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -1515,8 +1515,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1937,8 +1937,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3243,8 +3243,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.magisto.com
 *.livestream.com
+*.magisto.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com

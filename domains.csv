@@ -61,10 +61,10 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
-shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,jcpportraits.com,False
+shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,preschoolsmiles.com,False
@@ -721,11 +721,11 @@ avalara,*.netleglobal.com,False
 avalara,*.papercrane.io,False
 avalara,*.crowdreason.com,False
 avalara,*.track1099.com,False
-avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
 avalara,*.avalara.io,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1157,8 +1157,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2395,8 +2395,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4528,8 +4528,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4628,9 +4628,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
@@ -5875,8 +5875,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7453,8 +7453,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
-vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
+vimeo,*.magisto.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,magisto.com,True

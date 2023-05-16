@@ -60,10 +60,10 @@ www.borrowlenses.com
 lifetouch.com
 snapfish.de
 prestigeportraits.com
-shutterfly.com
 admin.spoonflower.com
 snapfish.com
 jcpportraits.com
+shutterfly.com
 tinyprints.com
 snapfish.co.uk
 preschoolsmiles.com
@@ -720,11 +720,11 @@ www.divvyhomes.com
 *.papercrane.io
 *.crowdreason.com
 *.track1099.com
-*.avalara.net
 *.davosalestax.com
 *.avalara.io
 *.ttrus.com
 *.impendulo.com
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -1156,8 +1156,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2394,8 +2394,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4527,8 +4527,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4627,9 +4627,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -5874,8 +5874,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -7452,8 +7452,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.magisto.com
 *.livestream.com
+*.magisto.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
