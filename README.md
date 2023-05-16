@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 19:12:25 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 20:11:46 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1035,10 +1035,10 @@ redditforbusiness.com
 *.redditblog.com
 mod.reddit.com
 accounts.reddit.com
-oauth.reddit.com
 *.reddithelp.com
-www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1359,8 +1359,8 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.fr
-www.watsons.com.tr
 apptps.theperfumeshop.com
+www.watsons.com.tr
 www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
