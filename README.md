@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 18:13:20 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 19:12:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-api.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1359,8 +1359,8 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.fr
-apptps.theperfumeshop.com
 www.watsons.com.tr
+apptps.theperfumeshop.com
 www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
