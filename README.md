@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 09:14:20 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 10:12:04 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -236,8 +236,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1281,8 +1281,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1341,7 +1341,6 @@ app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
 api.watsons.com.ph
-www10.watsons.com.my
 www.marionnaud.sk
 www.pns.hk
 www.superdrug.com
@@ -1515,8 +1514,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1937,8 +1936,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2906,8 +2905,8 @@ classroom.github.com
 gist.github.com
 npmjs.org
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
