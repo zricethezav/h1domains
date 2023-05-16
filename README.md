@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 08:12:29 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 09:14:20 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -810,8 +810,8 @@ harmonixmusic.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -987,8 +987,8 @@ old.reddit.com
 app.spiketrap.io
 gql.reddit.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -1498,16 +1498,16 @@ faucet.polygon.technology
 *.miwifi.com
 *.betfair.it
 *.paddypower.it
-*.betfair.com
 *.betviewapi.com
 *.sbgcdn.com
-*.skybet.com
 *.skyvegas.com
 *.skybingo.com
 *.operationstechnology.io
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
+*.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1589,8 +1589,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
