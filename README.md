@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 20:11:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 22:11:31 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -83,8 +83,8 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 *.hiltonjapan.co.jp
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -505,8 +505,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1093,10 +1093,12 @@ http://member-qa.chime.com/users/sign_in
 http://member-qa.chime.com/enroll/#/account
 app.launchdarkly.com
 stream.launchdarkly.com
+docs.launchdarkly.com
 events.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
+docs.launchdarkly.com
 *.runpanther.io
 *.runpanther.com
 *.panther.com
@@ -1359,8 +1361,8 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.fr
-apptps.theperfumeshop.com
 www.watsons.com.tr
+apptps.theperfumeshop.com
 www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
@@ -1479,10 +1481,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
 store.playstation.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1542,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1964,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3125,8 +3127,8 @@ relay.playcanvas.com
 playcanv.as
 code.playcanvas.com
 store.playcanvas.com
-blog.playcanvas.com
 login.playcanvas.com
+blog.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com

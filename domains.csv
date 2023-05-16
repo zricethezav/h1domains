@@ -130,8 +130,8 @@ hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
-hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
+hilton,*.hiltonmanage.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -505,10 +505,10 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.PREPRODFAN.GOV,False
 us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,9 +1370,9 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.ro.co,False
 ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
 ro,*.ropharmacy.com,False
@@ -1433,8 +1433,8 @@ shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 smtp2go,app.smtp2go.com,True
-smtp2go,smtp2go.com,True
 smtp2go,api.smtp2go.com,True
+smtp2go,smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -3348,10 +3348,12 @@ glovo,*.glovostore.com,False
 glovo,*.testglovo.com,False
 launchdarkly,app.launchdarkly.com,True
 launchdarkly,stream.launchdarkly.com,True
+launchdarkly,docs.launchdarkly.com,True
 launchdarkly,events.launchdarkly.com,True
 launchdarkly,app.launchdarkly.com,True
 launchdarkly,events.launchdarkly.com,True
 launchdarkly,stream.launchdarkly.com,True
+launchdarkly,docs.launchdarkly.com,True
 hudapp,prod-realtime.hookupdating.mobi,False
 hudapp,cdn.hookupdating.mobi,False
 hudapp,cnztech.com,False
@@ -4397,8 +4399,8 @@ watson_group,www.watsons.co.id,True
 watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
-watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.com.tr,True
+watson_group,apptps.theperfumeshop.com,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
@@ -4557,10 +4559,10 @@ playstation,social.playstation.com,True
 playstation,wallets.api.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.api.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True
@@ -4630,8 +4632,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5977,8 +5979,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6031,8 +6033,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -7290,8 +7292,8 @@ snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
 snapchat,code.playcanvas.com,True
 snapchat,store.playcanvas.com,True
-snapchat,blog.playcanvas.com,True
 snapchat,login.playcanvas.com,True
+snapchat,blog.playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
