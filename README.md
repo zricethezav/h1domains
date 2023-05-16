@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 17:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 18:13:20 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -222,9 +222,9 @@ platform.8x8pilot.com
 *.jit.si
 *.chalet.8x8.com
 platform.8x8.com
-*.8x8staging.com
 *.packet8.net
 voapi.8x8.com
+*.8x8staging.com
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -849,8 +849,8 @@ wonderboxdev.com
 app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 *.reddithelp.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1098,8 +1098,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 *.runpanther.io
-*.panther.com
 *.runpanther.com
+*.panther.com
 *.panther.com
 *.runpanther.io
 *.runpanther.com
@@ -1359,8 +1359,8 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.fr
-www.watsons.com.tr
 apptps.theperfumeshop.com
+www.watsons.com.tr
 www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
@@ -1533,8 +1533,8 @@ faucet.polygon.technology
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1616,8 +1616,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -1964,8 +1964,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2235,8 +2235,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2927,8 +2927,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
