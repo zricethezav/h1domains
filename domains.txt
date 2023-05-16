@@ -1017,6 +1017,7 @@ dev.shopkatchin.com
 www.fossilfoundation.org
 www.watchstation.de
 *.zodiacwatches.com
+cdgfossil.com
 *.fossil.com
 *.michele.com
 *.misfit.com
@@ -1064,6 +1065,7 @@ www.watchstation.de
 www.watchstation.fr
 www.fossil.co.id
 cdgcitizen.com
+cdgfossil.com
 *.healthandhealingny.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
@@ -1156,8 +1158,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1348,9 +1350,9 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.modernfertility.com
 *.ro.co
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.getroman.com
 *.ropharmacy.com
@@ -2394,8 +2396,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4311,8 +4313,8 @@ www.marionnaud.ro
 www.watsons.com.tr
 www.watsons.co.id
 www.marionnaud.fr
-www.watsons.com.ph
 www.iciparisxl.lu
+www.watsons.com.ph
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -4643,8 +4645,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -5017,8 +5019,8 @@ connect.8x8.com
 *.8x8cloud.net
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5890,8 +5892,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6275,7 +6277,6 @@ cloud.rocket.chat
 *.arkadiyt.com
 *.liberapay.com
 *.liberapay.com
-*.goldman.com
 *.gs-mosaic.gs.com
 *.gsselect.com
 *.unitedcp.com
@@ -6284,6 +6285,7 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.foliofn.com
 *.ayco.com
+*.goldman.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -6565,14 +6567,14 @@ api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.berush.com
-*.semrush.net
 *.prowly.com
+*.semrush.net
 workflows.semrush.com
 *.seoquake.com
 investors.semrush.com
-*.semrush.com
 *.sellzone.com
 *.scatec.io
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -6942,8 +6944,8 @@ support.nextcloud.com
 push-notifications.nextcloud.com
 newsletter.nextcloud.com
 download.nextcloud.com
-nextcloud.com
 customerupdates.nextcloud.com
+nextcloud.com
 surveyserver.nextcloud.com
 docs.nextcloud.com
 lists.nextcloud.com
@@ -7625,8 +7627,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 13:13:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 14:16:05 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -1349,8 +1349,8 @@ www.marionnaud.ro
 www.watsons.com.tr
 www.watsons.co.id
 www.marionnaud.fr
-www.watsons.com.ph
 www.iciparisxl.lu
+www.watsons.com.ph
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -1605,8 +1605,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -1953,8 +1953,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2310,7 +2310,6 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.goldman.com
 *.gs-mosaic.gs.com
 *.gsselect.com
 *.unitedcp.com
@@ -2319,6 +2318,7 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.foliofn.com
 *.ayco.com
+*.goldman.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2565,9 +2565,9 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.semrush.com
 *.sellzone.com
 *.scatec.io
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3406,8 +3406,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

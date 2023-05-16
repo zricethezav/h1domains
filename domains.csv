@@ -1018,6 +1018,7 @@ fossil,dev.shopkatchin.com,False
 fossil,www.fossilfoundation.org,False
 fossil,www.watchstation.de,False
 fossil,*.zodiacwatches.com,False
+fossil,cdgfossil.com,False
 fossil,*.fossil.com,False
 fossil,*.michele.com,False
 fossil,*.misfit.com,False
@@ -1065,6 +1066,7 @@ fossil,www.watchstation.de,False
 fossil,www.watchstation.fr,False
 fossil,www.fossil.co.id,False
 fossil,cdgcitizen.com,False
+fossil,cdgfossil.com,False
 mount-sinai-health,*.healthandhealingny.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
@@ -1157,8 +1159,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1349,9 +1351,9 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
 ro,*.ropharmacy.com,False
@@ -2395,8 +2397,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4312,8 +4314,8 @@ watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.fr,True
-watson_group,www.watsons.com.ph,True
 watson_group,www.iciparisxl.lu,True
+watson_group,www.watsons.com.ph,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
 watson_group,app.marionnaud.cz,True
@@ -4644,8 +4646,8 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.tmall.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
@@ -5018,8 +5020,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8cloud.net,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -5891,8 +5893,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6276,7 +6278,6 @@ arkadiyt-projects,*.arkadiyt.com,False
 arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.unitedcp.com,True
@@ -6285,6 +6286,7 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
@@ -6566,14 +6568,14 @@ localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
 semrush,*.berush.com,False
-semrush,*.semrush.net,True
 semrush,*.prowly.com,False
+semrush,*.semrush.net,True
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,investors.semrush.com,False
-semrush,*.semrush.com,True
 semrush,*.sellzone.com,True
 semrush,*.scatec.io,True
+semrush,*.semrush.com,True
 semrush,*.myinsights.io,True
 semrush,*.seoab.io,True
 semrush,*.semrush.com,True
@@ -6943,8 +6945,8 @@ nextcloud,support.nextcloud.com,False
 nextcloud,push-notifications.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 nextcloud,download.nextcloud.com,False
-nextcloud,nextcloud.com,False
 nextcloud,customerupdates.nextcloud.com,False
+nextcloud,nextcloud.com,False
 nextcloud,surveyserver.nextcloud.com,False
 nextcloud,docs.nextcloud.com,False
 nextcloud,lists.nextcloud.com,False
@@ -7626,8 +7628,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
