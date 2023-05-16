@@ -33,9 +33,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 www.mozilla.org
-monitor.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -145,10 +145,10 @@ decodefintech.com
 * IPv6 addresses
 * IPv4 addresses
 aso.apnic.net
-*.apnic.net
 *.apnic.foundation
 *.seedalliance.net
 *.isif.asia
+*.apnic.net
 orbit.apnic.net
 stats.labs.apnic.net
 nori.apnic.net
@@ -334,8 +334,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -721,10 +721,10 @@ www.divvyhomes.com
 *.crowdreason.com
 *.track1099.com
 *.davosalestax.com
-*.avalara.io
 *.ttrus.com
 *.impendulo.com
 *.avalara.net
+*.avalara.io
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -870,8 +870,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1348,9 +1348,9 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
+*.modernfertility.com
 *.ro.co
 *.myplenity.com
-*.modernfertility.com
 *.ro.co
 *.getroman.com
 *.ropharmacy.com
@@ -2394,8 +2394,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2575,10 +2575,10 @@ www.jfrog.co.jp
 www.jfrogchina.com
 *.tinderops.net
 *.tinder.com
-*.gotinder.com
 *.tstaging.com
-*.tstaging.tools
+*.gotinder.com
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -7646,8 +7646,8 @@ ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
