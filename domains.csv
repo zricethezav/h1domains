@@ -13,8 +13,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,web.tide.co,True
-tide,www.tide.co,True
 tide,api.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -31,10 +31,10 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
+mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4197,8 +4197,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
@@ -5979,8 +5979,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6073,7 +6073,6 @@ hyatt,world.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
-hyatt,book.extraholidaysvacations.com,True
 hyatt,res.breathlessresorts.com,True
 hyatt,res.skyteam.com,True
 hyatt,res.vacations.seaworld.com,True
@@ -6086,6 +6085,7 @@ hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
 hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
+hyatt,book.extraholidaysvacations.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -7159,6 +7159,12 @@ zomato,winecellar.zomato.com,True
 zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
+algolia,*.algolianet.com,True
+algolia,*.algolia.net,True
+algolia,www.algolia.com,True
+algolia,*.algolia.net,True
+algolia,*.algolianet.com,True
+algolia,www.algolia.com,True
 binary,webtrader.binary.com,True
 binary,*.binaryws.com,True
 binary,secure-dfadmin.binary.com,True
@@ -8316,12 +8322,6 @@ kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,api.kiwi.ki,True
 kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,portal.kiwi.ki,True
-algolia,*.algolianet.com,True
-algolia,*.algolia.net,True
-algolia,www.algolia.com,True
-algolia,*.algolia.net,True
-algolia,*.algolianet.com,True
-algolia,www.algolia.com,True
 codeigniter,www.codeigniter.com,False
 codeigniter,www.codeigniter.com,False
 ok,ok.ru,False
