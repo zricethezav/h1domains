@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 04:11:16 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 05:12:21 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -159,8 +159,8 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
-*.malwarebytes.com
 *.mwb-threatintel.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1311,8 +1311,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com

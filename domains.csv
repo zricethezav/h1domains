@@ -277,8 +277,8 @@ malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
-malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
+malwarebytes,*.malwarebytes.com,True
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
@@ -329,8 +329,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
-s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -2898,8 +2898,8 @@ stripe,*.recko.io,True
 stripe,*.link.co,True
 stripe,js.stripe.com,True
 stripe,*.touchtechpayments.com,True
-stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
+stripe,www.stripe.partners,False
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
 stripe,api.taxjar.com,True
@@ -4315,8 +4315,8 @@ enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -5979,8 +5979,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True

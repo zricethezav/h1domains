@@ -276,8 +276,8 @@ my.malwarebytes.com
 *.mbamupdates.com
 forums.malwarebytes.com
 oneview.malwarebytes.com
-*.malwarebytes.com
 *.mwb-threatintel.com
+*.malwarebytes.com
 support.malwarebytes.com
 blog.malwarebytes.com
 www.malwarebytes.com
@@ -328,8 +328,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2615,8 +2615,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2897,8 +2897,8 @@ zeus.agrisync.com
 *.link.co
 js.stripe.com
 *.touchtechpayments.com
-www.stripe.partners
 app.taxjar.com
+www.stripe.partners
 *.reckostaging.com
 *.getbouncer.com
 api.taxjar.com
@@ -4314,8 +4314,8 @@ goerli.cloud.enjin.io
 jumpnet.cloud.enjin.io
 beam.enjin.io
 jumpnet.beam.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -5978,8 +5978,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
