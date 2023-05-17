@@ -269,10 +269,10 @@ http://miro.com/blog
 *.baldor.com
 *.cylon.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.mbamupdates.com
 forums.malwarebytes.com
 oneview.malwarebytes.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1017,8 +1017,8 @@ www.fossil.hk
 www.fossilchina.cn
 m.skagen.de
 www.111watches.com
-www.fossil.com.au
 fossilcrm.com
+www.fossil.com.au
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -1369,8 +1369,8 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4631,8 +4631,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4730,10 +4730,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -5978,8 +5978,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -8021,11 +8021,8 @@ app.nuri.com
 api.app.nuri.com
 rghost.net
 rghost.net
-burrow.helium.systems
 ota.helium.com
 ota.helium.com
-burrow.helium.systems
-https://helium-console-dev.herokuapp.com/
 *.companyhub.com
 *.companyhub.com
 app.raisable.org

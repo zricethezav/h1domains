@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 23:11:11 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 00:23:02 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -153,10 +153,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1617,10 +1617,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3655,11 +3655,8 @@ gocorp.gojek.com
 gofood.co.id
 gosend.id
 go-tix.id
-burrow.helium.systems
 ota.helium.com
 ota.helium.com
-burrow.helium.systems
-https://helium-console-dev.herokuapp.com/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty

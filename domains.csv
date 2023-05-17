@@ -270,10 +270,10 @@ abb,*.abb.com.cn,False
 abb,*.baldor.com,False
 abb,*.cylon.com,False
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mb-cosmos.com,True
+malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1018,8 +1018,8 @@ fossil,www.fossil.hk,False
 fossil,www.fossilchina.cn,False
 fossil,m.skagen.de,False
 fossil,www.111watches.com,False
-fossil,www.fossil.com.au,False
 fossil,fossilcrm.com,False
+fossil,www.fossil.com.au,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4632,8 +4632,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4731,10 +4731,10 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
@@ -5979,8 +5979,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -8022,11 +8022,8 @@ nuri,app.nuri.com,False
 nuri,api.app.nuri.com,False
 rghost,rghost.net,False
 rghost,rghost.net,False
-helium,burrow.helium.systems,True
 helium,ota.helium.com,True
 helium,ota.helium.com,True
-helium,burrow.helium.systems,True
-helium,https://helium-console-dev.herokuapp.com/,True
 companyhub,*.companyhub.com,False
 companyhub,*.companyhub.com,False
 endless_group,app.raisable.org,False
