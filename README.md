@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 11:09:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 12:15:47 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-api.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -33,8 +33,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2651,8 +2651,8 @@ manage.grab.co
 api.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
-*.grab.com
 *.grab.co
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
