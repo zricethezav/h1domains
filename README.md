@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 17:11:14 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 18:12:39 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -859,12 +859,12 @@ id.recordedfuture.com
 securitytrails.com
 therecord.media
 logs.fr.cloud.gov
-www.data.gov
 ssh.fr.cloud.gov
 admin-catalog-bsp.data.gov
 *.code.gov
 *.search.gov
 www.usa.gov
+www.data.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 grafana.fr.cloud.gov
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -3140,8 +3140,8 @@ rt.playcanvas.com
 my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3425,8 +3425,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
