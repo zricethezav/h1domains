@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2615,8 +2615,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4397,10 +4397,10 @@ app.marionnaud.hu
 www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
-www.marionnaud.fr
 apptps.theperfumeshop.com
-www.watsons.com.tr
 www.marionnaud.ro
+www.watsons.com.tr
+www.marionnaud.fr
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -4732,8 +4732,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -5105,8 +5105,8 @@ connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.fuze.com
 *.thinkingphones.net
+*.fuze.com
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -7289,10 +7289,10 @@ accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
-code.playcanvas.com
 store.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
+code.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com

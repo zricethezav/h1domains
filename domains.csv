@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4398,10 +4398,10 @@ watson_group,app.marionnaud.hu,True
 watson_group,www.watsons.co.id,True
 watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.ph,True
-watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
-watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.ro,True
+watson_group,www.watsons.com.tr,True
+watson_group,www.marionnaud.fr,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
 watson_group,app.marionnaud.cz,True
@@ -4733,8 +4733,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
@@ -5106,8 +5106,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
+8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -7290,10 +7290,10 @@ snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
-snapchat,code.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,login.playcanvas.com,True
 snapchat,blog.playcanvas.com,True
+snapchat,code.playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
