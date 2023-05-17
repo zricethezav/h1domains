@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 21:09:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 22:09:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -886,8 +886,8 @@ logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-*.login.gov
 inventory.data.gov
+*.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -2826,8 +2826,8 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.fr
 www.starbucks.co.uk
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.com.br
+www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com

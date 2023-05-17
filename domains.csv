@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2664,8 +2664,8 @@ gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
-gsa_bbp,*.login.gov,True
 gsa_bbp,inventory.data.gov,True
+gsa_bbp,*.login.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
@@ -4731,8 +4731,8 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
@@ -6945,8 +6945,8 @@ portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.co.uk,True
 starbucks,cart.starbucks.co.jp,True
-starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.com.br,True
+starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
