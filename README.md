@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 03:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 04:11:16 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,9 +32,9 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
-addons.allizom.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -83,8 +83,8 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1014,9 +1014,9 @@ www.urbanclap.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
-api.reddit.com
 *.redditmedia.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com

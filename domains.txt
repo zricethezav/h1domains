@@ -31,9 +31,9 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
-addons.allizom.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -129,8 +129,8 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1006,10 +1006,10 @@ www.watchstation.co.uk
 jp.misfit.com
 prod.shopkatchin.com
 www.skagen-japan.com
-fossilcare.com
 misfitwearable.com
 *.fossil.com
 linkplatforms.com
+fossilcare.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1017,8 +1017,8 @@ www.fossil.hk
 www.fossilchina.cn
 m.skagen.de
 www.111watches.com
-fossilcrm.com
 www.fossil.com.au
+fossilcrm.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -3236,9 +3236,9 @@ www.woolshed.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
-api.reddit.com
 *.redditmedia.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -4730,8 +4730,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -5105,8 +5105,8 @@ connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com

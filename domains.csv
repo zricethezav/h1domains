@@ -32,9 +32,9 @@ mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,aus5.mozilla.org,True
-mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
+mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -130,8 +130,8 @@ hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
-hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1007,10 +1007,10 @@ fossil,www.watchstation.co.uk,False
 fossil,jp.misfit.com,False
 fossil,prod.shopkatchin.com,False
 fossil,www.skagen-japan.com,False
-fossil,fossilcare.com,False
 fossil,misfitwearable.com,False
 fossil,*.fossil.com,False
 fossil,linkplatforms.com,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -1018,8 +1018,8 @@ fossil,www.fossil.hk,False
 fossil,www.fossilchina.cn,False
 fossil,m.skagen.de,False
 fossil,www.111watches.com,False
-fossil,fossilcrm.com,False
 fossil,www.fossil.com.au,False
+fossil,fossilcrm.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -3237,9 +3237,9 @@ drugs_com,www.woolshed.com,False
 reddit,old.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
-reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,ads.reddit.com,True
+reddit,api.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,new.reddit.com,True
@@ -4731,8 +4731,8 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
@@ -5106,8 +5106,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
