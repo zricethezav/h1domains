@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 18:12:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 19:10:54 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,13 +27,13 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3130,9 +3130,9 @@ scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
-login.playcanvas.com
 code.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -3140,8 +3140,8 @@ rt.playcanvas.com
 my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
