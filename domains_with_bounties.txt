@@ -1581,8 +1581,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 music.amazon.com
-api.amazon.com
 apay-us.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
