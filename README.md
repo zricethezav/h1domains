@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 15:13:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 16:13:37 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1034,10 +1034,10 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 mod.reddit.com
-accounts.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 oauth.reddit.com
+accounts.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2330,8 +2330,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.foliofn.com
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -3126,8 +3126,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
