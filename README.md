@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 13:13:12 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 14:13:37 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,13 +27,13 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1037,8 +1037,8 @@ mod.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 oauth.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1965,8 +1965,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2214,8 +2214,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.xoom.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3104,8 +3104,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
