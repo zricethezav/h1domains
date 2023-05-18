@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 23:09:52 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 00:21:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2448,11 +2448,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
-one.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
