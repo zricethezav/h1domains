@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 08:13:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 09:12:48 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -3138,9 +3138,9 @@ map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3235,9 +3235,9 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
+*.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3669,9 +3669,9 @@ repo.magento.com
 account.magento.com
 accounts.magento.cloud
 marketplace.magento.com
-magento.com
 u.magento.com
 imagine.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
