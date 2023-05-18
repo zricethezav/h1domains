@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 05:11:43 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 06:15:10 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,13 +27,13 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -364,8 +364,8 @@ zerobounce.net
 cloud.gravitational.io
 *.gravitational.co
 *.gravitational.com
-*.teleport.dev
 *.teleportinfra.sh
+*.teleport.dev
 teleport.sh
 get.gravitational.io
 *.gravitational.io
@@ -1181,8 +1181,8 @@ screenshot-proxy.netlify.app
 *.services-prod.nsvcs.net
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
-*.onegraph.com
 *.ops.netlify.com
+*.onegraph.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1525,7 +1525,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.it
 *.paddypower.it
 *.betviewapi.com
 *.sbgcdn.com
@@ -1537,15 +1536,15 @@ faucet.polygon.technology
 *.skybettest.net
 *.skybet.com
 *.betfair.com
-*.betfair.se
+*.betfair.it
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2650,9 +2649,9 @@ p.grabtaxi.com
 manage.grab.co
 api.grabpay.com
 xtramile.grabpay.com
-*.myteksi.com
 *.grab.co
 *.grab.com
+*.myteksi.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3131,8 +3130,8 @@ relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
 code.playcanvas.com
-blog.playcanvas.com
 login.playcanvas.com
+blog.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
