@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 11:11:39 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 12:12:49 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,8 +27,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3324,9 +3324,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
+cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
