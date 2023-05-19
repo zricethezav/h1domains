@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 05:11:10 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 06:11:47 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,8 +27,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
@@ -176,8 +176,8 @@ staking.xdefi.io
 app.xdefi.io
 staking.xdefi.io
 app.xdefi.io
-api.sokos.fi
 online.s-pankki.fi
+api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -2321,8 +2321,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.foliofn.com
-*.goldman.com
 *.ayco.com
+*.goldman.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -3135,8 +3135,8 @@ my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com

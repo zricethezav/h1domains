@@ -26,8 +26,8 @@ traum-ferienwohnungen.de
 traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
@@ -322,8 +322,8 @@ staking.xdefi.io
 app.xdefi.io
 staking.xdefi.io
 app.xdefi.io
-api.sokos.fi
 online.s-pankki.fi
+api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4729,8 +4729,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.fuze.com
 *.thinkingphones.net
+*.fuze.com
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -6361,8 +6361,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.foliofn.com
-*.goldman.com
 *.ayco.com
+*.goldman.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -7299,8 +7299,8 @@ my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -7511,8 +7511,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
