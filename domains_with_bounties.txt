@@ -832,8 +832,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1922,8 +1922,8 @@ admin.rezserver.com
 www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
-secure.rezserver.com
 api.rezserver.com
+secure.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -1951,8 +1951,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
