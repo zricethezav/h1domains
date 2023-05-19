@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 17:10:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 18:11:59 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -212,9 +212,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
-connect.8x8.com
 *.jitsi.net
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -2208,13 +2208,13 @@ swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
 *.braintree-api.com
-paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
+paypal.me
 my.loanbuilder.com
 *.paypal.com
 *.venmo.com
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
