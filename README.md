@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 21:10:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 22:09:13 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1221,14 +1221,14 @@ onboarding.cloud.com
 secure.sharefile.com
 secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
-(youriwssubdomain).cloud.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+(youriwssubdomain).cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
-launch.cloud.com
 api.adm.cloud.com
+launch.cloud.com
 us.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com

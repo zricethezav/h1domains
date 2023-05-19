@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -4151,14 +4151,14 @@ citrix,(yoursubdomain).sf-api.com,True
 citrix,secure.sharefile.com,True
 citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
-citrix,(youriwssubdomain).cloud.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
+citrix,(youriwssubdomain).cloud.com,True
 citrix,sf-rp.sharefile.com,True
 citrix,api.sharefile.eu,True
-citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
+citrix,launch.cloud.com,True
 citrix,us.cloud.com,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
@@ -4730,8 +4730,8 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7512,8 +7512,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
