@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 08:11:00 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 09:12:01 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 *.reddithelp.com
 matrix.redditspace.com
 oauth.reddit.com
-accounts.reddit.com
 www.reddit.com
 mod.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2633,8 +2633,8 @@ unikrn.ly
 static.unkrn.com
 grab.careers
 *.grabtaxi.com
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grabpay.com
 *.grab-sure.com
 p.grabtaxi.com
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
