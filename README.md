@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 20 14:10:48 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 20 15:09:29 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -293,12 +293,12 @@ dookeydash.com
 hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
-www.expediapartnersolutions.com
 www.expediagroup.com
 www.abritel.fr
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
+www.expediapartnersolutions.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3416,8 +3416,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
