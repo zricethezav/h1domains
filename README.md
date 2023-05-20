@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 20 06:10:03 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 20 07:10:23 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -965,8 +965,8 @@ elastic-cloud.com
 *.swiftype.com
 *.eops.nl
 cloud.elastic.co
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1037,8 +1037,8 @@ redditforbusiness.com
 matrix.redditspace.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
