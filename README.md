@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 20 08:10:45 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 20 09:11:14 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1273,9 +1273,9 @@ creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
