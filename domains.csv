@@ -32,8 +32,8 @@ mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
-mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
+mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -74,8 +74,8 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,shutterfly.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.com.au,False
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4730,8 +4730,8 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
