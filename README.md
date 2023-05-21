@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 02:27:45 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 03:10:42 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -3113,10 +3113,10 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 ads.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
