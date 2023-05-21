@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 00:22:52 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 01:37:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1037,8 +1037,8 @@ redditforbusiness.com
 matrix.redditspace.com
 oauth.reddit.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -2490,9 +2490,9 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-dashboard.plaid.com
 secure.plaid.com
 demo.plaid.com
+dashboard.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
