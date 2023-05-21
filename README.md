@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 17:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 18:10:49 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -846,8 +846,8 @@ wonderboxdev.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-app.recordedfuture.com
 therecord.media
+app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com

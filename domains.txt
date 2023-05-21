@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2623,8 +2623,8 @@ www.jfrogchina.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-app.recordedfuture.com
 therecord.media
+app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5969,8 +5969,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
