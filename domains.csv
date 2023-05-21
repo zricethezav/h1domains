@@ -553,11 +553,11 @@ yuga_labs,hv-mtl.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediagroup.com,True
-expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
+expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -2439,9 +2439,9 @@ krisp,jobs.krisp.ai,False
 krisp,help-jp.krisp.ai,False
 krisp,resources.krisp.ai,False
 krisp,url5145.krisp.ai,False
-krisp,upld.krisp.ai,True
 krisp,account.krisp.ai,True
 krisp,*.krisp.ai,True
+krisp,upld.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,download.krisp.ai,True
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -2920,9 +2920,9 @@ usps,gateway.usps.com,False
 usps,ncoa.usps.gov,False
 usps,internationalclaims.usps.com,False
 usps,moversguide.usps.com,False
-usps,iv.usps.com,False
 usps,id.usps.com,False
 usps,store.usps.com,False
+usps,iv.usps.com,False
 usps,pi.usps.com,False
 usps,www.usps.com,False
 usps,www.liteblue.usps.gov,False
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
