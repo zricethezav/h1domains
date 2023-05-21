@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 06:09:04 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 07:10:23 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1035,10 +1035,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 matrix.redditspace.com
-oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3096,8 +3096,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3269,8 +3269,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com

@@ -31,8 +31,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1547,9 +1547,9 @@ www.alohi.com
 *.bhgre.*
 *.century21.*
 *.era.com
-*.sothebysrealty.*
 *.corcoran.*
 *.nrtllc.*
+*.sothebysrealty.*
 *.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
@@ -1735,7 +1735,6 @@ lescollationsdete.ca
 marabou.dk
 marabou.fi
 mdlzcusthelp.com
-mondelezinternational.com
 negotiations.mondelezinternational.com
 ng.mondelezinternational.com
 mueller.milka.de
@@ -1766,6 +1765,7 @@ fruitfight.sourpatchkids.com
 fr.cotedor.be
 cloud.mdlzinsights.com
 gewinnspiel.mikado.tv
+candybarencasa.com
 mondelezinternational.com
 www.cadbury.com.au
 amea.mondelezinternational.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2615,8 +2615,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3257,10 +3257,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 matrix.redditspace.com
-oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.fuze.com
 *.thinkingphones.net
+*.fuze.com
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -7260,8 +7260,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7553,8 +7553,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com

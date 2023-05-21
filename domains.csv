@@ -32,8 +32,8 @@ mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
-mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
+mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -1736,7 +1736,6 @@ mondelez,lescollationsdete.ca,False
 mondelez,marabou.dk,False
 mondelez,marabou.fi,False
 mondelez,mdlzcusthelp.com,False
-mondelez,mondelezinternational.com,False
 mondelez,negotiations.mondelezinternational.com,False
 mondelez,ng.mondelezinternational.com,False
 mondelez,mueller.milka.de,False
@@ -1767,6 +1766,7 @@ mondelez,fruitfight.sourpatchkids.com,False
 mondelez,fr.cotedor.be,False
 mondelez,cloud.mdlzinsights.com,False
 mondelez,gewinnspiel.mikado.tv,False
+mondelez,candybarencasa.com,False
 mondelez,mondelezinternational.com,False
 mondelez,www.cadbury.com.au,False
 mondelez,amea.mondelezinternational.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3258,10 +3258,10 @@ reddit,redditforbusiness.com,True
 reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,matrix.redditspace.com,True
-reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
+8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -7261,8 +7261,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -7554,8 +7554,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
-vimeo,*.livestream.com,True
 vimeo,*.magisto.com,True
+vimeo,*.livestream.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,magisto.com,True
