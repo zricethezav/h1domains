@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 20 23:10:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 00:22:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1150,8 +1150,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2442,8 +2442,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
