@@ -31,8 +31,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1366,9 +1366,9 @@ business.linkedin.com
 start.ro.co
 *.hellorory.com
 login.ro.co
-my.ro.co
 *.ropharmacy.com
 *.getroman.com
+my.ro.co
 *.modernfertility.com
 *.myplenity.com
 *.ro.co
@@ -1545,11 +1545,11 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.era.com
 *.century21.*
+*.era.com
+*.sothebysrealty.*
 *.corcoran.*
 *.nrtllc.*
-*.sothebysrealty.*
 *.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
@@ -4729,8 +4729,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -6430,9 +6430,9 @@ help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
-www.teamfortress.com
 www.counter-strike.net
 partner.steamgames.com
+www.teamfortress.com
 api.steampowered.com
 wiki.teamfortress.com
 storefront.steampowered.com

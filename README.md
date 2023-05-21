@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 03:10:42 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 04:10:56 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -2388,9 +2388,9 @@ help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
-www.teamfortress.com
 www.counter-strike.net
 partner.steamgames.com
+www.teamfortress.com
 api.steampowered.com
 support.steampowered.com
 www.dota2.com
