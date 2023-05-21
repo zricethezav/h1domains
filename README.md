@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 16:11:15 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 17:10:47 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3442,8 +3442,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
