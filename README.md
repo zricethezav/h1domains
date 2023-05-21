@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 11:10:12 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 12:11:29 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -309,8 +309,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
