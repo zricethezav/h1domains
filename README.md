@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 17:09:46 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 18:10:48 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -309,8 +309,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.fewo-direkt.de
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1232,8 +1232,8 @@ launch.cloud.com
 us.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
-*.citrixworkspacesapi.net
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3131,8 +3131,8 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

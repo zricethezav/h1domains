@@ -13,8 +13,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,api.tide.co,True
-tide,www.tide.co,True
 tide,web.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -568,8 +568,8 @@ expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.fewo-direkt.de,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.stayz.com.au,True
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -3259,9 +3259,9 @@ reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4162,8 +4162,8 @@ citrix,launch.cloud.com,True
 citrix,us.cloud.com,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
-citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
+citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
+8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -7296,8 +7296,8 @@ snapchat,rt.playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,my.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True

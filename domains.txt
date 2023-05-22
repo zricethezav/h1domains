@@ -12,8 +12,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -567,8 +567,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.fewo-direkt.de
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1547,9 +1547,9 @@ www.alohi.com
 *.bhgre.*
 *.era.com
 *.century21.*
+*.sothebysrealty.*
 *.corcoran.*
 *.nrtllc.*
-*.sothebysrealty.*
 *.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
@@ -3258,9 +3258,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4161,8 +4161,8 @@ launch.cloud.com
 us.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
-*.citrixworkspacesapi.net
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.fuze.com
 *.thinkingphones.net
+*.fuze.com
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -7295,8 +7295,8 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
