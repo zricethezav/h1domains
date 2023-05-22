@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 22:09:32 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 23:09:36 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -17,9 +17,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 web.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1625,9 +1625,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliexpress.com
 *.aliyun-inc.com
-*.aliyun.com
 *.alimama.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2158,8 +2158,8 @@ login-4ngbets.us.betfair.com
 fdbox.net
 login-ia.tvg.com
 sportsbook.fanduel.com
-www.tvg.com
 mobile-prod.tvg.com
+www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
@@ -2216,8 +2216,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
