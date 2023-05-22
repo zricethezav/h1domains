@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 08:10:44 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 09:12:06 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -83,8 +83,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -247,8 +247,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -367,8 +367,8 @@ cloud.gravitational.io
 *.teleportinfra.sh
 *.teleport.dev
 teleport.sh
-get.gravitational.io
 *.gravitational.io
+get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 *.goteleport.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1618,8 +1618,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -1668,11 +1668,11 @@ dashboard.magic.link
 api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
-unibet.me
 *.highrolling.nu
+unibet.me
 *.unibet.fr
-*.kolikkopelit.com
 *.bingo.com
+*.kolikkopelit.com
 maria.casino
 *.unibet.com
 *.mariacasino.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2160,12 +2160,12 @@ login-ia.tvg.com
 sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3325,8 +3325,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
-*.cloudflare.com
 cloudflareworkers.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com

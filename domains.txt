@@ -129,8 +129,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -467,8 +467,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -709,8 +709,8 @@ cloud.gravitational.io
 *.teleportinfra.sh
 *.teleport.dev
 teleport.sh
-get.gravitational.io
 *.gravitational.io
+get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 *.goteleport.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2615,8 +2615,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4731,8 +4731,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -4822,11 +4822,11 @@ www.picsart.com
 picsart.io
 api.picsart.io
 relaxcdn.unibet.com
-unibet.me
 *.highrolling.nu
+unibet.me
 *.unibet.fr
-*.kolikkopelit.com
 *.bingo.com
+*.kolikkopelit.com
 maria.casino
 *.unibet.com
 *.mariacasino.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5969,8 +5969,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6188,12 +6188,12 @@ login-ia.tvg.com
 sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -7617,8 +7617,8 @@ twitterflightschool.com
 t.co
 *.teams.cloudflare.com
 one.dash.cloudflare.com
-*.cloudflare.com
 cloudflareworkers.com
+*.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
