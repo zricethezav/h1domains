@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 15:12:42 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 16:12:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -297,8 +297,8 @@ www.expediagroup.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
-www.abritel.fr
 www.expediapartnersolutions.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -962,11 +962,11 @@ main.trafficfactory.biz
 elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
-*.swiftype.com
 *.eops.nl
 *.elstc.co
 *.elasticnet.co
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1015,8 +1015,8 @@ old.reddit.com
 app.spiketrap.io
 *.redditmedia.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -1618,8 +1618,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -2924,10 +2924,10 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 npmjs.org
-*.githubusercontent.com
 education.github.com
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
