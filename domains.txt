@@ -502,8 +502,8 @@ share.doppler.com
 *.PREPRODFAN.GOV
 *.SECURITYTESTFAN.GOV
 *.ELGUARDIA.NET
-*.REWARDSFORJUSTICE.NET
 *.OSAC.GOV
+*.REWARDSFORJUSTICE.NET
 *.PEPFAR.GOV
 *.FSGB.GOV
 *.USEMBASSY.GOV
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -997,7 +997,6 @@ m.fossil.de
 www.fossil.ch
 www.fossil.de
 www.fossil.es
-www.fossil.in
 www.fossil.it
 www.fossilaustralia.com.au
 www.fossilsingapore.com.sg
@@ -1010,6 +1009,7 @@ fossilcare.com
 linkplatforms.com
 www.fossilglobal.com
 *.fossil.com
+www.fossil.in
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1547,9 +1547,9 @@ www.alohi.com
 *.bhgre.*
 *.era.com
 *.century21.*
-*.sothebysrealty.*
 *.corcoran.*
 *.nrtllc.*
+*.sothebysrealty.*
 *.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2615,8 +2615,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4223,13 +4223,13 @@ alert.logitech.com
 buy.logitech.com
 outage.logitech.com
 www.logitech.com.cn
-*.myharmony.com
 *.lukwerks.com
 *.logi.com
 *.ultimateearsuniversity.com
 *.crossclip.com
 *.logitech.com
 www.logitechg.com
+*.myharmony.com
 logitechgchallenge.com
 jira.logitech.com
 circle.logi.com
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4731,8 +4731,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -7279,8 +7279,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 story.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
