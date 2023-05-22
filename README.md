@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 12:13:08 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 13:15:02 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1482,9 +1482,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-*.api.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1618,8 +1618,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -1671,8 +1671,8 @@ fortmatic.com
 *.highrolling.nu
 unibet.me
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.unibet.com
 *.mariacasino.com
@@ -2727,10 +2727,10 @@ logs.dashlane.com
 api.dashlane.com
 planet.wordpress.org
 *.wordpress.org
-wordpressfoundation.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+wordpressfoundation.org
 lists.wordpress.org
 *.wordcamp.org
 api.wordpress.org

@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2615,8 +2615,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4559,9 +4559,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-*.api.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4731,8 +4731,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -4825,8 +4825,8 @@ relaxcdn.unibet.com
 *.highrolling.nu
 unibet.me
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.unibet.com
 *.mariacasino.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -6837,10 +6837,10 @@ hosted.weblate.org
 hosted.weblate.org
 planet.wordpress.org
 *.wordpress.org
-wordpressfoundation.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+wordpressfoundation.org
 lists.wordpress.org
 *.wordcamp.org
 api.wordpress.org

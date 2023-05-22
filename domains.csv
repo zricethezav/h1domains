@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4560,9 +4560,9 @@ playstation,wallets.api.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,direct.playstation.com,True
-playstation,*.api.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,*.api.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4732,8 +4732,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -4826,8 +4826,8 @@ kindred_group,relaxcdn.unibet.com,False
 kindred_group,*.highrolling.nu,True
 kindred_group,unibet.me,True
 kindred_group,*.unibet.fr,True
-kindred_group,*.bingo.com,True
 kindred_group,*.kolikkopelit.com,True
+kindred_group,*.bingo.com,True
 kindred_group,maria.casino,True
 kindred_group,*.unibet.com,True
 kindred_group,*.mariacasino.com,True
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -6838,10 +6838,10 @@ weblate,hosted.weblate.org,False
 weblate,hosted.weblate.org,False
 wordpress,planet.wordpress.org,True
 wordpress,*.wordpress.org,True
-wordpress,wordpressfoundation.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True
 wordpress,profiles.wordpress.org,True
+wordpress,wordpressfoundation.org,True
 wordpress,lists.wordpress.org,True
 wordpress,*.wordcamp.org,True
 wordpress,api.wordpress.org,True
