@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 21:09:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 22:09:02 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -155,8 +155,8 @@ http://miro.com/blog
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -297,8 +297,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.expediapartnersolutions.com
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1625,8 +1625,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
