@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 17:12:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 18:14:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -31,10 +31,10 @@ firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 aus5.mozilla.org
 addons.allizom.org
 phabricator.services.mozilla.com
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-www.mozilla.org
 hubs.mozilla.com
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -213,8 +213,8 @@ jobs.kiwi.com
 sso.8x8.com
 *.8x8.vc
 connect.8x8.com
-*.jitsi.net
 work.8x8.com
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1015,8 +1015,8 @@ app.spiketrap.io
 *.redditmedia.com
 gql.reddit.com
 old.reddit.com
-ads.reddit.com
 api.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1746,8 +1746,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3450,10 +3450,10 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
