@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 10:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 11:13:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1014,9 +1014,9 @@ www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1271,8 +1271,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3129,10 +3129,10 @@ map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
 store.snapchat.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
