@@ -107,8 +107,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -328,8 +328,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-www.prisma.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1107,8 +1107,8 @@ smartwatchstations.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mssm.edu
 *.mountsinai.org
+*.mssm.edu
 *.stoppain.org
 *.mountsinaiconnect.org
 *.stlukeshospitalnyc.org
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2631,8 +2631,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3251,10 +3251,10 @@ blog.drugs.com
 www.woolshed.com
 app.spiketrap.io
 *.redditmedia.com
-api.reddit.com
 gql.reddit.com
 old.reddit.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -3274,9 +3274,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 www.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4754,8 +4754,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -5111,8 +5111,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 www.8x8.com
 8x8.force.com
@@ -5984,8 +5984,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6501,10 +6501,10 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -7725,8 +7725,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

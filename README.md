@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 15:13:37 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 16:14:28 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-www.prisma.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1013,10 +1013,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
-api.reddit.com
 gql.reddit.com
 old.reddit.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 www.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1625,8 +1625,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2439,10 +2439,10 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3415,8 +3415,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

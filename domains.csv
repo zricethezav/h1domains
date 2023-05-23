@@ -108,8 +108,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -329,8 +329,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
-s-pankki,www.prisma.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.prisma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1108,8 +1108,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.mountsinaiconnect.org,False
 mount-sinai-health,*.stlukeshospitalnyc.org,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2632,8 +2632,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3252,10 +3252,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,app.spiketrap.io,True
 reddit,*.redditmedia.com,True
-reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,api.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,meta-api.reddit.com,True
@@ -3275,9 +3275,9 @@ reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,www.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4755,8 +4755,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -5112,8 +5112,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -5985,8 +5985,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6502,10 +6502,10 @@ newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-data.net,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -7726,8 +7726,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
