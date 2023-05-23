@@ -279,8 +279,8 @@ malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.malwarebytes.com,True
-malwarebytes,support.malwarebytes.com,False
 malwarebytes,blog.malwarebytes.com,False
+malwarebytes,support.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2616,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4202,8 +4202,8 @@ tiktok,partner.tiktokshop.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -4397,11 +4397,11 @@ watson_group,www20.watsons.co.th,True
 watson_group,app.marionnaud.hu,True
 watson_group,www.watsons.co.id,True
 watson_group,www.iciparisxl.lu,True
-watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.com.ph,True
+watson_group,apptps.theperfumeshop.com,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
 watson_group,app.marionnaud.cz,True
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -7295,9 +7295,9 @@ snapchat,rt.playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,store.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -7388,8 +7388,8 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
-adobe,community.adobe.com,False
 adobe,magento.com,True
+adobe,community.adobe.com,False
 adobe,applications.frame.io,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.typekit.com,False
