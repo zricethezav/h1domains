@@ -432,10 +432,10 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -737,8 +737,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
 avalara,*.track1099.com,False
-avalara,*.inposia.com,False
 avalara,*.3ce.com,False
+avalara,*.inposia.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -4646,8 +4646,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5112,8 +5112,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -5985,8 +5985,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6470,8 +6470,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
+crypto,www.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,tax.crypto.com,True
@@ -7101,11 +7101,11 @@ github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
-github,npmjs.org,True
 github,education.github.com,True
 github,*.githubusercontent.com,True
 github,*.github.net,True
 github,github.com,True
+github,npmjs.org,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -7726,8 +7726,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -7745,6 +7745,7 @@ slack,spaces.pm,True
 slack,www.quip.com,True
 slack,*.quip.com,True
 yahoo,apis.mail.yahoo.com,True
+yahoo,data.mail.yahoo.com,True
 yahoo,data.mail.yahoo.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True

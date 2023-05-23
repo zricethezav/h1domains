@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 18:14:25 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 19:10:50 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,10 +211,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
 work.8x8.com
 *.jitsi.net
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2407,8 +2407,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com
@@ -2922,11 +2922,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
-npmjs.org
 education.github.com
 *.githubusercontent.com
 *.github.net
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3415,8 +3415,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3434,6 +3434,7 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com

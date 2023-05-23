@@ -431,10 +431,10 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
 work.8x8.com
 *.jitsi.net
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -736,8 +736,8 @@ www.divvyhomes.com
 *.avalara.net
 *.avalara.io
 *.track1099.com
-*.inposia.com
 *.3ce.com
+*.inposia.com
 *.avalara.com
 *.avalara.com
 *.avalara.net
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -4645,8 +4645,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5111,8 +5111,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 www.8x8.com
 8x8.force.com
@@ -5984,8 +5984,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6469,8 +6469,8 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com
@@ -7100,11 +7100,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
-npmjs.org
 education.github.com
 *.githubusercontent.com
 *.github.net
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -7725,8 +7725,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -7744,6 +7744,7 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
