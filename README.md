@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 16:14:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 17:12:12 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -17,9 +17,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 api.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -45,8 +45,8 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-hubs.mozilla.com
 www.mozilla.org
+hubs.mozilla.com
 developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
@@ -1026,9 +1026,9 @@ strapi.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2821,9 +2821,9 @@ www.starbucks.com.br
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -3128,10 +3128,10 @@ map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 my.snapchat.com
 app.snapchat.com
 store.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3415,8 +3415,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

@@ -12,9 +12,9 @@ ring,*.immedia-semi.com/*,True
 ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,www.tide.co,True
 tide,api.tide.co,True
 tide,web.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -45,8 +45,8 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2937,8 +2937,8 @@ usps,ncoa.usps.gov,False
 usps,internationalclaims.usps.com,False
 usps,moversguide.usps.com,False
 usps,id.usps.com,False
-usps,store.usps.com,False
 usps,iv.usps.com,False
+usps,store.usps.com,False
 usps,pi.usps.com,False
 usps,www.usps.com,False
 usps,www.liteblue.usps.gov,False
@@ -3265,9 +3265,9 @@ reddit,*.snooguts.net,True
 reddit,new.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
-reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4646,8 +4646,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5112,8 +5112,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
+8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -6956,9 +6956,9 @@ starbucks,www.starbucks.com.br,True
 starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
-starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
@@ -7309,10 +7309,10 @@ snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,store.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -7726,8 +7726,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
