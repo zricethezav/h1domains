@@ -107,8 +107,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2631,8 +2631,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4423,7 +4423,6 @@ app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-api.watsons.com.ph
 www.pns.hk
 app.watsons.com.tr
 www.superdrug.com
@@ -5112,8 +5111,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 www.8x8.com
 8x8.force.com
@@ -5985,8 +5984,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -7310,9 +7309,9 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-store.snapchat.com
 my.snapchat.com
 app.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -7414,10 +7413,10 @@ creativecloud.adobe.com
 documentcloud.adobe.com
 status.adobe.com
 magentolive.com
-*.tubemogul.com
 *.proofhq.com
 *.marketo.com
 *.omniture.com
+*.tubemogul.com
 *.testdrive.workfront.com
 updates.frame.io
 workflow.frame.io
