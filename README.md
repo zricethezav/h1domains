@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 08:13:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 09:12:43 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -153,10 +153,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 cloud.malwarebytes.com
-*.mwbsys.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -849,8 +849,8 @@ wonderboxdev.com
 therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -1271,8 +1271,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2991,34 +2991,6 @@ www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
-webtrader.binary.com
-*.binaryws.com
-secure-dfadmin.binary.com
-cashier.deriv.com
-crypto-cashier.binary.com
-cashier.binary.com
-tradingview.binary.com
-charts.binary.com
-binary.bot
-smarttrader.deriv.com
-*.binary.com
-*.deriv.com
-*.deriv.cloud
-app.deriv.com
-*.binaryws.com
-*.deriv.com
-*.deriv.cloud
-*.binary.com
-cashier.binary.com
-crypto-cashier.binary.com
-secure-dfadmin.binary.com
-app.deriv.com
-smarttrader.deriv.com
-cashier.deriv.com
-webtrader.binary.com
-binary.bot
-tradingview.binary.com
-charts.binary.com
 werkenbijderet.nl
 maxcldapp.net
 dropr.nl
@@ -3324,9 +3296,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 cloudflareworkers.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
