@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 02:25:24 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 03:11:18 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -212,9 +212,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1747,8 +1747,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2216,8 +2216,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3125,7 +3125,6 @@ code.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
 www.bitmoji.com
-store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
@@ -3133,6 +3132,7 @@ snappublisher.snapchat.com
 app.snapchat.com
 my.snapchat.com
 playcanvas.com
+store.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
