@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 09:12:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 10:11:07 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -247,8 +247,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -849,8 +849,8 @@ wonderboxdev.com
 therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2991,6 +2991,34 @@ www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
+webtrader.binary.com
+*.binaryws.com
+secure-dfadmin.binary.com
+cashier.deriv.com
+crypto-cashier.binary.com
+cashier.binary.com
+tradingview.binary.com
+charts.binary.com
+binary.bot
+smarttrader.deriv.com
+*.binary.com
+*.deriv.com
+*.deriv.cloud
+app.deriv.com
+*.binaryws.com
+*.deriv.com
+*.deriv.cloud
+*.binary.com
+cashier.binary.com
+crypto-cashier.binary.com
+secure-dfadmin.binary.com
+app.deriv.com
+smarttrader.deriv.com
+cashier.deriv.com
+webtrader.binary.com
+binary.bot
+tradingview.binary.com
+charts.binary.com
 werkenbijderet.nl
 maxcldapp.net
 dropr.nl
