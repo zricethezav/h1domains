@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4832,12 +4832,12 @@ kindred_group,maria.casino,True
 kindred_group,*.unibet.com,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.kindredext.net,True
-kindred_group,www.32red.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.ottokasino.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.storspiller.com,True
 kindred_group,*.vladcazino.ro,True
+kindred_group,www.32red.com,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.storspiller.com,True
@@ -4916,8 +4916,8 @@ nutanix,testdrive.nutanix.com,False
 nutanix,support.nutanix.com,False
 nutanix,ticket.nutanix.com,False
 nutanix,cpq.nutanix.com,False
-nutanix,*.nutanix.com,False
 nutanix,nutanix.com,False
+nutanix,*.nutanix.com,False
 nutanix,jira.nutanix.com,False
 nutanix,beam.nutanix.com,False
 nutanix,my.nutanix.com,False
@@ -5063,8 +5063,8 @@ lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7261,8 +7261,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -7748,8 +7748,8 @@ security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
-security,www.hackerone.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True

@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -1547,9 +1547,9 @@ www.alohi.com
 *.bhgre.*
 *.era.com
 *.century21.*
-*.sothebysrealty.*
 *.corcoran.*
 *.nrtllc.*
+*.sothebysrealty.*
 *.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4831,12 +4831,12 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-www.32red.com
 *.igame.com
 *.ottokasino.com
 *.casinohuone.com
 *.storspiller.com
 *.vladcazino.ro
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -4915,8 +4915,8 @@ testdrive.nutanix.com
 support.nutanix.com
 ticket.nutanix.com
 cpq.nutanix.com
-*.nutanix.com
 nutanix.com
+*.nutanix.com
 jira.nutanix.com
 beam.nutanix.com
 my.nutanix.com
@@ -5062,8 +5062,8 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-*.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5969,8 +5969,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -7260,8 +7260,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7747,8 +7747,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
