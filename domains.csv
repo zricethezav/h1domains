@@ -1035,8 +1035,8 @@ fossil,misfitwearable.com,False
 fossil,linkplatforms.com,False
 fossil,www.fossilglobal.com,False
 fossil,www.fossil.in,False
-fossil,fossilcare.com,False
 fossil,*.fossil.com,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -1204,8 +1204,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1341,8 +1341,8 @@ fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,www.simplytoimpress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,www.personalcreations.com,False
@@ -2442,8 +2442,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2658,8 +2658,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3292,8 +3292,8 @@ reddit,new.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,*.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4672,8 +4672,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5138,8 +5138,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -6011,8 +6011,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7195,12 +7195,9 @@ algolia,www.algolia.com,True
 algolia,*.algolia.net,True
 algolia,*.algolianet.com,True
 algolia,www.algolia.com,True
-deriv,webtrader.binary.com,True
 deriv,*.binaryws.com,True
 deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
-deriv,crypto-cashier.binary.com,True
-deriv,cashier.binary.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
@@ -7210,13 +7207,10 @@ deriv,*.binaryws.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.binary.com,True
-deriv,cashier.binary.com,True
-deriv,crypto-cashier.binary.com,True
 deriv,secure-dfadmin.binary.com,True
 deriv,app.deriv.com,True
 deriv,smarttrader.deriv.com,True
 deriv,cashier.deriv.com,True
-deriv,webtrader.binary.com,True
 radancy,werkenbijderet.nl,True
 radancy,maxcldapp.net,True
 radancy,dropr.nl,True

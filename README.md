@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 09:11:33 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 10:12:12 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1027,8 +1027,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2990,12 +2990,9 @@ www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
-webtrader.binary.com
 *.binaryws.com
 secure-dfadmin.binary.com
 cashier.deriv.com
-crypto-cashier.binary.com
-cashier.binary.com
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
@@ -3005,13 +3002,10 @@ app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.binary.com
-cashier.binary.com
-crypto-cashier.binary.com
 secure-dfadmin.binary.com
 app.deriv.com
 smarttrader.deriv.com
 cashier.deriv.com
-webtrader.binary.com
 werkenbijderet.nl
 maxcldapp.net
 dropr.nl
