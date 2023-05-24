@@ -494,8 +494,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,https://8x8.vc/xmpp-websocket,True
 8x8-bounty,https://webrtc.8x8.com/,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -1341,8 +1341,8 @@ fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,www.personalcreations.com,False
@@ -1396,8 +1396,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2442,8 +2442,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -6009,10 +6009,10 @@ trustpilot,*emailsignature.trustpilot.com,True
 trustpilot,*authenticate.trustpilot.com,True
 trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
-trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
+trustpilot,*www.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7201,9 +7201,6 @@ deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
 deriv,crypto-cashier.binary.com,True
 deriv,cashier.binary.com,True
-deriv,tradingview.binary.com,True
-deriv,charts.binary.com,True
-deriv,binary.bot,True
 deriv,smarttrader.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
@@ -7220,9 +7217,6 @@ deriv,app.deriv.com,True
 deriv,smarttrader.deriv.com,True
 deriv,cashier.deriv.com,True
 deriv,webtrader.binary.com,True
-deriv,binary.bot,True
-deriv,tradingview.binary.com,True
-deriv,charts.binary.com,True
 radancy,werkenbijderet.nl,True
 radancy,maxcldapp.net,True
 radancy,dropr.nl,True
