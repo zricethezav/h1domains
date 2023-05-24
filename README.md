@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 16:13:28 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 17:12:07 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -253,8 +253,8 @@ https://webrtc.8x8.com/
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
