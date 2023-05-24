@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 20:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 21:10:18 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -213,14 +213,15 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.jit.si
+cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
 *.8x8staging.com
@@ -247,6 +248,7 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
+cloud8.8x8.com
 *.superbet.ro
 *.superbet.com
 *.superbet.rs
@@ -838,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1542,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3100,10 +3102,10 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 story.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
