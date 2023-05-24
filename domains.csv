@@ -8,9 +8,9 @@ fertitta_entertainment,*.thepostoakhotel.com,False
 fertitta_entertainment,*.landrysambassador.com,False
 fertitta_entertainment,*.ldry.com,False
 fertitta_entertainment,www.wildwoodcasino.net,False
-fertitta_entertainment,*.goldennugget.com,False
 fertitta_entertainment,*.tilmanfertitta.com,False
 fertitta_entertainment,*.landrysselect.com,False
+fertitta_entertainment,*.goldennugget.com,False
 fertitta_entertainment,*.aquariumrestaurants.com,False
 fertitta_entertainment,*.landrysinc.com,False
 fertitta_entertainment,*.landrysambassador.com,False
@@ -1206,8 +1206,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1343,8 +1343,8 @@ fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,www.personalcreations.com,False
@@ -1398,8 +1398,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -3293,8 +3293,8 @@ reddit,*.snooguts.net,True
 reddit,new.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
-reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
@@ -4203,11 +4203,11 @@ citrix,sf-rp.sharefile.com,True
 citrix,api.sharefile.eu,True
 citrix,api.adm.cloud.com,True
 citrix,launch.cloud.com,True
-citrix,us.cloud.com,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
+citrix,us.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7125,8 +7125,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
@@ -7311,9 +7311,9 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True

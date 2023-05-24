@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 22:11:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 23:10:27 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1028,8 +1028,8 @@ strapi.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
+ads-api.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1231,11 +1231,11 @@ sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
 launch.cloud.com
-us.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 *.citrixworkspacesapi.net
+us.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2919,8 +2919,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3103,9 +3103,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
