@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 05:10:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 06:11:32 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-hubs.mozilla.com
 developer.mozilla.org
 www.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -222,9 +222,9 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.jit.si
 platform.8x8.com
-*.packet8.net
 voapi.8x8.com
 *.8x8staging.com
+*.packet8.net
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -1027,8 +1027,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1746,8 +1746,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com

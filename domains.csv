@@ -71,9 +71,9 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -469,9 +469,9 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8.com,True
-8x8-bounty,*.packet8.net,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
+8x8-bounty,*.packet8.net,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,sms.8x8.com,True
@@ -1204,8 +1204,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1396,8 +1396,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -3292,8 +3292,8 @@ reddit,new.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,*.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4944,8 +4944,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -5138,8 +5138,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -5162,8 +5162,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.wavecell.com,False
 8x8,*.8x8e2e.com,False
 8x8,*.ucverse.com,False
-8x8,*.packet8.net,False
 8x8,*.jit.si,False
+8x8,*.packet8.net,False
 8x8,user-profile-staging.8x8.com,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
@@ -6011,8 +6011,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
