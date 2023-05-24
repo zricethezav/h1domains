@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 23:10:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 00:20:40 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2341,8 +2341,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -3453,8 +3453,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com

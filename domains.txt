@@ -1340,8 +1340,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -2441,8 +2441,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2522,8 +2522,8 @@ snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com
 iglucentral.com
-poplindata.com
 snowplow.io
+poplindata.com
 snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com
@@ -2657,8 +2657,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4671,8 +4671,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6423,8 +6423,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.claritymoney.com
@@ -7789,8 +7789,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
