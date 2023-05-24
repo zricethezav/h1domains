@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 15:12:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 16:13:28 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-www.mozilla.org
 hubs.mozilla.com
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1158,8 +1158,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 api.yoti.com
 www.yotisign.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 code.yoti.com
 frankd.yoti.com
 core.yoti.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
