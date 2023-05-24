@@ -739,8 +739,8 @@ teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,get.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
-teleport,platform.teleport.sh,True
 teleport,*.goteleport.com,True
+teleport,platform.teleport.sh,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -1032,11 +1032,11 @@ fossil,jp.misfit.com,False
 fossil,prod.shopkatchin.com,False
 fossil,www.skagen-japan.com,False
 fossil,misfitwearable.com,False
-fossil,fossilcare.com,False
 fossil,linkplatforms.com,False
 fossil,www.fossilglobal.com,False
 fossil,*.fossil.com,False
 fossil,www.fossil.in,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -1204,8 +1204,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -4672,8 +4672,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4944,8 +4944,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True

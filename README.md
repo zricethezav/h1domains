@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 02:26:08 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 03:11:06 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -370,8 +370,8 @@ teleport.sh
 *.gravitational.io
 get.gravitational.io
 h1-your-domain.teleport.sh
-platform.teleport.sh
 *.goteleport.com
+platform.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1746,8 +1746,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg

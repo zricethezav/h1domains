@@ -738,8 +738,8 @@ teleport.sh
 *.gravitational.io
 get.gravitational.io
 h1-your-domain.teleport.sh
-platform.teleport.sh
 *.goteleport.com
+platform.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1031,11 +1031,11 @@ jp.misfit.com
 prod.shopkatchin.com
 www.skagen-japan.com
 misfitwearable.com
-fossilcare.com
 linkplatforms.com
 www.fossilglobal.com
 *.fossil.com
 www.fossil.in
+fossilcare.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1203,8 +1203,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -4671,8 +4671,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4943,8 +4943,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
