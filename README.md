@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 14:12:16 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 15:12:44 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2341,8 +2341,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.gs.com
 *.folioclient.com
+*.gs.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -2441,8 +2441,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 one.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3083,8 +3083,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3215,8 +3215,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com

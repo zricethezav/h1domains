@@ -907,8 +907,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1203,8 +1203,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1340,8 +1340,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -1395,8 +1395,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2441,8 +2441,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4671,8 +4671,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5004,9 +5004,9 @@ solutions.topcoder.com
 tco18.topcoder.com
 zurich.topcoder.com
 challenges.topcoder.com
-www.topcoder.com
 accounts-auth0.topcoder.com
 vanilla.topcoder-dev.com
+www.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
@@ -5137,8 +5137,8 @@ connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 www.8x8.com
 8x8.force.com
@@ -6010,8 +6010,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6423,8 +6423,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.gs.com
 *.folioclient.com
+*.gs.com
 developer.gs.com
 www.rocaton.com
 *.claritymoney.com
@@ -6529,8 +6529,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 one.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -7289,8 +7289,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7415,9 +7415,9 @@ auth.services.adobe.com
 accounts.frame.io
 app.frame.io
 nicetryapril.na1.echosignsandbox.com
-*.adobe.com
 magento.com
 community.adobe.com
+*.adobe.com
 applications.frame.io
 *.tt.omtrdc.net
 *.typekit.com
@@ -7541,8 +7541,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
