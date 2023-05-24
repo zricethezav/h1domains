@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 12:12:09 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 13:12:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1015,8 +1015,8 @@ app.spiketrap.io
 *.redditmedia.com
 old.reddit.com
 api.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1676,12 +1676,12 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-*.igame.com
 *.ottokasino.com
 *.casinohuone.com
 *.storspiller.com
 *.vladcazino.ro
 www.32red.com
+*.igame.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2859,8 +2859,8 @@ api.blockchain.info
 ws.blockchain.info
 talk.brave.com
 search.brave.com
-brave.com
 basicattentiontoken.org
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
