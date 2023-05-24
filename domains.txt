@@ -7,9 +7,9 @@
 *.landrysambassador.com
 *.ldry.com
 www.wildwoodcasino.net
+*.goldennugget.com
 *.tilmanfertitta.com
 *.landrysselect.com
-*.goldennugget.com
 *.aquariumrestaurants.com
 *.landrysinc.com
 *.landrysambassador.com
@@ -297,8 +297,8 @@ http://miro.com/blog
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
-*.mwbsys.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 forums.malwarebytes.com
 oneview.malwarebytes.com
@@ -459,8 +459,8 @@ processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1342,8 +1342,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -1397,8 +1397,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2659,8 +2659,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4673,8 +4673,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6013,8 +6013,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
