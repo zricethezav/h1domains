@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 13:12:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 14:12:16 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -768,8 +768,8 @@ harmonixmusic.com
 fallguys.com
 *.popjam.com
 wonderboxdev.com
-*.mediatonic.co.uk
 fortnite.com
+*.mediatonic.co.uk
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -965,8 +965,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2191,8 +2191,8 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-legacy.casper.com
 casper.com
+legacy.casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
