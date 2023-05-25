@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 16:14:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 17:10:12 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -295,12 +295,12 @@ dookeydash.com
 hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
-www.hotels.com
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
 www.orbitz.com
 www.abritel.fr
+www.hotels.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1817,10 +1817,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-hub.vroid.com
 payment.pixiv.net
 neoket.net
 vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 booth.pm
@@ -2926,9 +2926,9 @@ classroom.github.com
 gist.github.com
 *.githubusercontent.com
 *.github.net
-npmjs.org
 github.com
 education.github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3077,16 +3077,16 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-linkpop.com
 shop.app
 *.shopifycloud.com
+linkpop.com
 exchangemarketplace.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
