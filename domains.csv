@@ -460,8 +460,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -525,7 +525,6 @@ us-department-of-state,*.SUPPORTFAN.GOV,False
 us-department-of-state,*.USDOSCLOUD.GOV,False
 us-department-of-state,*.FAN.GOV,False
 us-department-of-state,*.USMISSION.GOV,False
-us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.PREPRODFAN.GOV,False
@@ -533,6 +532,7 @@ us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
+us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
@@ -910,8 +910,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1114,10 +1114,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1133,8 +1133,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -1206,8 +1206,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1398,8 +1398,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2444,8 +2444,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2660,8 +2660,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3995,8 +3995,8 @@ jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
 jimdo,*.jimdo-data-platform.net,False
 jimdo,*.jimdo-dev-staging.com,False
-jimdo,*.jimdo-stable-staging.com,False
 jimdo,cms.e.jimdo.com,False
+jimdo,*.jimdo-stable-staging.com,False
 jimdo,ns11.jimdo.com,False
 jimdo,logo.e.jimdo.com,False
 jimdo,account.e.jimdo.com,False
@@ -5973,8 +5973,8 @@ capital-one,*.paribus.co,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False

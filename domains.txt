@@ -459,8 +459,8 @@ processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -524,7 +524,6 @@ share.doppler.com
 *.USDOSCLOUD.GOV
 *.FAN.GOV
 *.USMISSION.GOV
-*.AMERICA.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.PREPRODFAN.GOV
@@ -532,6 +531,7 @@ share.doppler.com
 *.ELGUARDIA.NET
 *.OSAC.GOV
 *.REWARDSFORJUSTICE.NET
+*.AMERICA.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
 *.USEMBASSY.GOV
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1113,10 +1113,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1132,8 +1132,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.thehealthcenterhudsonyards.com
 *.mssm.edu
+*.thehealthcenterhudsonyards.com
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -1205,8 +1205,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1397,8 +1397,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2659,8 +2659,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3994,8 +3994,8 @@ business-profile-service.jimdosite.com
 ns2.jimdo.com
 *.jimdo-data-platform.net
 *.jimdo-dev-staging.com
-*.jimdo-stable-staging.com
 cms.e.jimdo.com
+*.jimdo-stable-staging.com
 ns11.jimdo.com
 logo.e.jimdo.com
 account.e.jimdo.com
@@ -5972,8 +5972,8 @@ press.priceline.com
 *.bluetarp.com
 *.capitalone360.com
 *.capitalone.co.uk
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
