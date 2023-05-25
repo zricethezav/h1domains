@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 20:10:55 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 21:09:23 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -82,9 +82,9 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
-*.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
+*.hiltonjapan.co.jp
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1037,10 +1037,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1372,8 +1372,8 @@ app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-www.pns.hk
 app.watsons.com.tr
+www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2919,16 +2919,16 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
 *.githubusercontent.com
 *.github.net
+github.com
 education.github.com
 npmjs.org
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3103,8 +3103,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
