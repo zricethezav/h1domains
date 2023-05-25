@@ -8,8 +8,8 @@
 *.ldry.com
 *.tilmanfertitta.com
 *.goldennugget.com
-www.wildwoodcasino.net
 *.landrysselect.com
+www.wildwoodcasino.net
 *.aquariumrestaurants.com
 *.landrysinc.com
 *.landrysambassador.com
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1113,10 +1113,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1132,8 +1132,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.mssm.edu
 *.thehealthcenterhudsonyards.com
+*.mssm.edu
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4673,8 +4673,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -7780,8 +7780,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
