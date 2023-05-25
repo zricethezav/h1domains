@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 15:12:23 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 16:14:02 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -212,16 +212,16 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-*.chalet.8x8.com
 *.jit.si
 cloud8.8x8.com
+*.chalet.8x8.com
 platform.8x8.com
 voapi.8x8.com
 *.8x8staging.com
@@ -1029,8 +1029,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1111,8 +1111,8 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-socket.remitano.com
 www.remitano.com
+socket.remitano.com
 api.remitano.com
 www.remitano.com
 api.remitano.com
@@ -1536,8 +1536,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.skybet.com
 *.betfair.com
+*.skybet.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -3084,9 +3084,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3103,9 +3103,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-ads.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
