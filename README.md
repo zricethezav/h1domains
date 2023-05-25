@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 07:11:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 08:11:37 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-www.prisma.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -313,12 +313,12 @@ www.travelocity.ca
 www.fewo-direkt.de
 www.bookabach.co.nz
 www.expedia.com
-www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
 www.hotwire.com
 www.expediapartnercentral.com
 www.wotif.com
+www.ebookers.fi
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1028,8 +1028,8 @@ new.reddit.com
 *.snooguts.net
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1958,8 +1958,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2924,11 +2924,11 @@ npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
-education.github.com
 *.githubusercontent.com
 *.github.net
 npmjs.org
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
