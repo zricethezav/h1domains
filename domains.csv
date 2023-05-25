@@ -96,8 +96,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
-shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,shutterfly.com,False
@@ -1206,8 +1206,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1398,8 +1398,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -1574,8 +1574,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
@@ -2444,8 +2444,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4674,8 +4674,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4780,11 +4780,11 @@ alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -4946,8 +4946,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -5134,10 +5134,10 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,*.easycontactnow.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
-8x8,*.easycontactnow.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
 8x8,*.thinkingphones.net,False
@@ -5155,8 +5155,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.chalet.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,work.8x8.com,False
-8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
@@ -6014,8 +6014,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
