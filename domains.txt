@@ -95,8 +95,8 @@ snapfish.ie
 staging.spoonflower.com
 prestigeportraits.com
 lifetouch.com
-www.borrowlenses.com
 snapfish.de
+www.borrowlenses.com
 jcpportraits.com
 snapfish.com
 shutterfly.com
@@ -105,8 +105,8 @@ tinyprints.com
 preschoolsmiles.com
 snapfish.com.au
 snapfish.co.nz
-snapfish.co.uk
 blog.spoonflower.com
+snapfish.co.uk
 www.spoonflower.com
 *.shutterfly.com
 *.shutterfly.com
@@ -459,8 +459,8 @@ processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1397,8 +1397,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -5133,10 +5133,10 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
+*.easycontactnow.com
 *.8x8.com
 connect.8x8.com
 *.thinkingphones.com
-*.easycontactnow.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -5154,8 +5154,8 @@ platform.8x8.com
 *.chalet.8x8.com
 *.jitsi.org
 work.8x8.com
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
@@ -6013,8 +6013,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
