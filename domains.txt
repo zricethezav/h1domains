@@ -8,8 +8,8 @@
 *.ldry.com
 *.tilmanfertitta.com
 www.wildwoodcasino.net
-*.landrysselect.com
 *.goldennugget.com
+*.landrysselect.com
 *.aquariumrestaurants.com
 *.landrysinc.com
 *.landrysambassador.com
@@ -155,8 +155,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-*.hiltonjapan.co.jp
 hilton.com
+*.hiltonjapan.co.jp
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -304,9 +304,9 @@ forums.malwarebytes.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.malwarebytes.com
-www.malwarebytes.com
 blog.malwarebytes.com
 support.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1205,8 +1205,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2810,8 +2810,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -3303,8 +3303,8 @@ redditforbusiness.com
 mod.reddit.com
 www.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 accounts.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4240,8 +4240,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -4915,8 +4915,8 @@ gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
-marrtool.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -5133,10 +5133,10 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
+*.easycontactnow.com
 *.8x8.com
 connect.8x8.com
 *.thinkingphones.com
-*.easycontactnow.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -5153,8 +5153,8 @@ platform.8x8.com
 *.adgjmp.net
 *.jitsi.org
 work.8x8.com
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 *.chalet.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
@@ -5949,8 +5949,8 @@ chain.link
 reservations.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -6832,8 +6832,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -7132,8 +7132,8 @@ classroom.github.com
 gist.github.com
 *.githubusercontent.com
 *.github.net
-github.com
 education.github.com
+github.com
 npmjs.org
 github.com
 api.github.com
