@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 09:12:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 10:11:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1029,8 +1029,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1623,12 +1623,12 @@ www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.1688.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2533,8 +2533,8 @@ falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.com
 verkkopalvelu.tapiola.fi
-yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 myynti.lahitapiolarahoitus.fi
