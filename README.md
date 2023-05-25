@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 18:10:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 19:10:50 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -220,8 +220,8 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
-cloud8.8x8.com
 *.chalet.8x8.com
+cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
 *.8x8staging.com
@@ -1029,8 +1029,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
