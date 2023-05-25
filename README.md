@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 12:12:45 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 13:12:53 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -46,8 +46,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -213,8 +213,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3084,9 +3084,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 accounts.shopify.com
 shopify.plus
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
