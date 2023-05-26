@@ -7,10 +7,10 @@ fertitta_entertainment,*.landrysinc.com,False
 fertitta_entertainment,*.thepostoakhotel.com,False
 fertitta_entertainment,*.landrysambassador.com,False
 fertitta_entertainment,*.ldry.com,False
-fertitta_entertainment,*.tilmanfertitta.com,False
 fertitta_entertainment,www.wildwoodcasino.net,False
-fertitta_entertainment,*.goldennugget.com,False
 fertitta_entertainment,*.landrysselect.com,False
+fertitta_entertainment,*.tilmanfertitta.com,False
+fertitta_entertainment,*.goldennugget.com,False
 fertitta_entertainment,*.aquariumrestaurants.com,False
 fertitta_entertainment,*.landrysinc.com,False
 fertitta_entertainment,*.landrysambassador.com,False
@@ -100,8 +100,8 @@ shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,shutterfly.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.com.au,False
@@ -584,8 +584,8 @@ expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.orbitz.com,True
-expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.hotels.com,True
+expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -765,8 +765,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.track1099.com,False
 avalara,*.avalara.net,False
-avalara,*.inposia.com,False
 avalara,*.3ce.com,False
+avalara,*.inposia.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
@@ -910,8 +910,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1206,8 +1206,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2444,8 +2444,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2660,8 +2660,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4674,8 +4674,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4916,8 +4916,8 @@ marriott,gatewaydsapdev2.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,homes-and-villas.marriott.com,True
 marriott,marrtool.com,True
+marriott,homes-and-villas.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -5134,10 +5134,10 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
 8x8,*.thinkingphones.net,False
@@ -5154,8 +5154,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.adgjmp.net,False
 8x8,*.jitsi.org,False
 8x8,work.8x8.com,False
-8x8,sso.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,sso.8x8.com,False
 8x8,*.chalet.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,work-staging.8x8.com,False
@@ -7788,8 +7788,8 @@ security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,app.pullrequest.com,True
 security,hackerone.live,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
