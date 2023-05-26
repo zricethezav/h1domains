@@ -1179,8 +1179,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2390,8 +2390,8 @@ experience.jetblue.com
 checkin.jetblue.com
 book.jetblue.com
 help.jetblue.com
-api.jetblue.com
 magnolia.jetblue.com
+api.jetblue.com
 www.jetblue.com
 mobile.jetblue.com
 *.jetblue.com
@@ -2417,8 +2417,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -3277,8 +3277,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4648,8 +4648,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -7752,8 +7752,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com

@@ -1180,8 +1180,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2391,8 +2391,8 @@ jetblue,*.jetblue.com,False
 jetblue,checkin.jetblue.com,False
 jetblue,book.jetblue.com,False
 jetblue,help.jetblue.com,False
-jetblue,api.jetblue.com,False
 jetblue,magnolia.jetblue.com,False
+jetblue,api.jetblue.com,False
 jetblue,www.jetblue.com,False
 jetblue,mobile.jetblue.com,False
 jetblue,*.jetblue.com,False
@@ -2418,8 +2418,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -3278,8 +3278,8 @@ reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4649,8 +4649,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7753,8 +7753,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
+security,www.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True

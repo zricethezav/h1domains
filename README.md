@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 21:10:37 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 22:09:57 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1039,8 +1039,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
