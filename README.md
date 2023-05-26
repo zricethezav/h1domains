@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 16:10:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 17:11:21 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1627,8 +1627,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
-*.aliexpress.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

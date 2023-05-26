@@ -1621,8 +1621,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
-*.aliexpress.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
