@@ -1114,10 +1114,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1133,8 +1133,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -2444,8 +2444,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2660,8 +2660,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4586,6 +4586,8 @@ clario,mkapi.mackeeper.com,True
 clario,mackeeper.com,True
 finra,*.finra.org,False
 finra,*.finra.org,False
+gener8,*.gener8ads.com,False
+gener8,*.gener8ads.com,False
 wellsfargo,*.wystar.com,False
 wellsfargo,*.wellsfargoadvisors.com,False
 wellsfargo,*.wf.com,False
@@ -4674,8 +4676,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4775,8 +4777,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -5134,10 +5136,10 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,*.easycontactnow.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
-8x8,*.easycontactnow.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
 8x8,*.thinkingphones.net,False
@@ -5154,8 +5156,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.adgjmp.net,False
 8x8,*.jitsi.org,False
 8x8,work.8x8.com,False
-8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,*.chalet.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,work-staging.8x8.com,False
@@ -7126,8 +7128,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
@@ -7773,8 +7775,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
@@ -8029,8 +8031,6 @@ earny,www.earny.com,False
 earny,www.earny.co,False
 earny,api.earny.com,False
 earny,www.earny.com,False
-gener8,*.gener8ads.com,False
-gener8,*.gener8ads.com,False
 ozon,job.ozon.ru,False
 ozon,id.ozon.ru,False
 ozon,www.ozon.ru,False
