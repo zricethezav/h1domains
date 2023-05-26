@@ -5,8 +5,8 @@ fertitta_entertainment,*.goriocruises.com,False
 fertitta_entertainment,*.kemahboardwalk.com,False
 fertitta_entertainment,*.landrysinc.com,False
 fertitta_entertainment,*.thepostoakhotel.com,False
-fertitta_entertainment,*.landrysambassador.com,False
 fertitta_entertainment,*.ldry.com,False
+fertitta_entertainment,*.landrysambassador.com,False
 fertitta_entertainment,*.tilmanfertitta.com,False
 fertitta_entertainment,www.wildwoodcasino.net,False
 fertitta_entertainment,*.goldennugget.com,False
@@ -459,8 +459,8 @@ kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -2444,8 +2444,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2706,10 +2706,10 @@ gsa_bbp,labs.data.gov,True
 gsa_bbp,diagrams.fr.cloud.gov,True
 gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
-gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
 gsa_bbp,inventory.data.gov,True
 gsa_bbp,*.login.gov,True
+gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
@@ -3304,8 +3304,8 @@ reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6406,9 +6406,9 @@ goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.foliofn.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
@@ -7134,8 +7134,8 @@ github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,*.github.net,True
 github,education.github.com,True
-github,github.com,True
 github,npmjs.org,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

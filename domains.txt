@@ -4,8 +4,8 @@
 *.kemahboardwalk.com
 *.landrysinc.com
 *.thepostoakhotel.com
-*.landrysambassador.com
 *.ldry.com
+*.landrysambassador.com
 *.tilmanfertitta.com
 www.wildwoodcasino.net
 *.goldennugget.com
@@ -458,8 +458,8 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2705,10 +2705,10 @@ labs.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
-www.fedramp.gov
 federalist-docs.18f.gov
 inventory.data.gov
 *.login.gov
+www.fedramp.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -3303,8 +3303,8 @@ redditforbusiness.com
 mod.reddit.com
 www.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6405,9 +6405,9 @@ cloud.rocket.chat
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.foliofn.com
 *.ayco.com
 *.goldman.com
+*.foliofn.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -7133,8 +7133,8 @@ gist.github.com
 *.githubusercontent.com
 *.github.net
 education.github.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com

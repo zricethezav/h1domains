@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 23:09:38 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 00:19:36 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -212,8 +212,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -886,10 +886,10 @@ labs.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
-www.fedramp.gov
 federalist-docs.18f.gov
 inventory.data.gov
 *.login.gov
+www.fedramp.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1039,8 +1039,8 @@ redditforbusiness.com
 mod.reddit.com
 www.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2321,9 +2321,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.foliofn.com
 *.ayco.com
 *.goldman.com
+*.foliofn.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2927,8 +2927,8 @@ gist.github.com
 *.githubusercontent.com
 *.github.net
 education.github.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
