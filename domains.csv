@@ -152,8 +152,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
-hilton,hilton.com,True
 hilton,*.hiltonjapan.co.jp,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1110,10 +1110,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1129,8 +1129,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -1394,8 +1394,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2806,9 +2806,9 @@ elastic,*.found.io,True
 elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
@@ -2938,8 +2938,8 @@ stripe,*.recko.io,True
 stripe,*.link.co,True
 stripe,js.stripe.com,True
 stripe,*.touchtechpayments.com,True
-stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
+stripe,www.stripe.partners,False
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
 stripe,api.taxjar.com,True
@@ -2961,8 +2961,8 @@ usps,ncoa.usps.gov,False
 usps,internationalclaims.usps.com,False
 usps,moversguide.usps.com,False
 usps,id.usps.com,False
-usps,store.usps.com,False
 usps,iv.usps.com,False
+usps,store.usps.com,False
 usps,pi.usps.com,False
 usps,www.usps.com,False
 usps,www.liteblue.usps.gov,False
@@ -4672,8 +4672,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -6078,7 +6078,6 @@ ford,*.omnicraftautoparts.com,False
 hyatt,mobileapp.hyatt.com,True
 hyatt,public.hyatt.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
-hyatt,reservations.wynnvacations.com,True
 hyatt,book.beachbound.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
@@ -6089,6 +6088,7 @@ hyatt,res.sunscaperesorts.com,True
 hyatt,res.vacations.buschgardens.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.universalorlandovacations.com,True
+hyatt,reservations.wynnvacations.com,True
 hyatt,newsroom.images.hyatt.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
@@ -7297,8 +7297,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

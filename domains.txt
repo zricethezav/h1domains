@@ -151,8 +151,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1109,10 +1109,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1128,8 +1128,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.thehealthcenterhudsonyards.com
 *.mssm.edu
+*.thehealthcenterhudsonyards.com
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -1393,8 +1393,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2805,9 +2805,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 cloud.elastic.co
 *.elstc.co
+*.swiftype.com
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -2937,8 +2937,8 @@ zeus.agrisync.com
 *.link.co
 js.stripe.com
 *.touchtechpayments.com
-www.stripe.partners
 app.taxjar.com
+www.stripe.partners
 *.reckostaging.com
 *.getbouncer.com
 api.taxjar.com
@@ -2960,8 +2960,8 @@ ncoa.usps.gov
 internationalclaims.usps.com
 moversguide.usps.com
 id.usps.com
-store.usps.com
 iv.usps.com
+store.usps.com
 pi.usps.com
 www.usps.com
 www.liteblue.usps.gov
@@ -4671,8 +4671,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6077,7 +6077,6 @@ www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
 res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
@@ -6088,6 +6087,7 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.booktandl.com
 res.universalorlandovacations.com
+reservations.wynnvacations.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -7296,8 +7296,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopify.com
-accounts.shopify.com
 shopify.plus
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
