@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 15:05:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 16:10:01 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -212,8 +212,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2444,8 +2444,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.newrelic.com
-*.nr-data.net
 one.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3121,12 +3121,12 @@ blog.playcanvas.com
 www.bitmoji.com
 map.snapchat.com
 rt.playcanvas.com
-business.snapchat.com
 snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3439,8 +3439,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
