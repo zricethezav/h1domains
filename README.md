@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 00:19:36 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 01:37:18 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -17,9 +17,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 web.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3077,9 +3077,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-shop.app
 *.shopifycloud.com
 linkpop.com
+shop.app
 exchangemarketplace.com
 *.shopifykloud.com
 shopifyinbox.com
