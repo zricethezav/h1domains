@@ -1,11 +1,11 @@
 *.shoppostoak.com
 *.thepostoak.com
-*.landrysinc.com
 *.kemahboardwalk.com
 *.goriocruises.com
+*.landrysinc.com
 *.thepostoakhotel.com
-*.landrysambassador.com
 *.ldry.com
+*.landrysambassador.com
 www.wildwoodcasino.net
 *.tilmanfertitta.com
 *.goldennugget.com
@@ -582,9 +582,9 @@ www.hotwirepartnercentral.com
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
-www.orbitz.com
 www.hotels.com
 www.abritel.fr
+www.orbitz.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1113,10 +1113,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1132,8 +1132,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.mssm.edu
 *.thehealthcenterhudsonyards.com
+*.mssm.edu
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -1397,8 +1397,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4675,8 +4675,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5632,6 +5632,7 @@ http://emerald.oasis.dev
 http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 api.gmelius.com
 gmelius.io
 api.gmelius.com
@@ -6070,8 +6071,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -7791,12 +7792,12 @@ profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 www.hackerone.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -8110,7 +8111,6 @@ api.replyify.com
 replyify.com
 track.replyify.com
 blog.replyify.com
-https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://ao-docs.appspot.com/api/explorer
 embed.tumblr.com
 t.umblr.com
