@@ -298,8 +298,8 @@ abb,*.cylon.com,False
 malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mb-cosmos.com,True
-malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
+malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
@@ -632,9 +632,9 @@ expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.stayz.com.au,False
-expediagroup,*.expediaagents.com,False
 expediagroup,*.expediapartnersolutions.com,False
 expediagroup,*.hotwirepartnercentral.com,False
+expediagroup,*.expediaagents.com,False
 expediagroup,*.orbitz.com,False
 expediagroup,*.cruiseshipcenters.com,False
 expediagroup,*.wotif.com,False
@@ -762,9 +762,9 @@ avalara,*.crowdreason.com,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
-avalara,*.avalara.io,False
 avalara,*.track1099.com,False
 avalara,*.avalara.net,False
+avalara,*.avalara.io,False
 avalara,*.3ce.com,False
 avalara,*.inposia.com,False
 avalara,*.avalara.com,False
@@ -1206,8 +1206,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1398,8 +1398,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2660,8 +2660,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4632,11 +4632,11 @@ polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
-polygon-technology,faucet.polygon.technology,True
 polygon-technology,wallet.polygon.technology,True
-polygon-technology,bridge-api.matic.network,True
+polygon-technology,faucet.polygon.technology,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
+polygon-technology,bridge-api.matic.network,True
 polygon-technology,wallet.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
@@ -4674,8 +4674,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7333,8 +7333,8 @@ snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,web.snapchat.com,True
 snapchat,spectacles.com,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
