@@ -432,8 +432,8 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1088,10 +1088,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1107,8 +1107,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -1180,8 +1180,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2418,8 +2418,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5681,7 +5681,6 @@ forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
-forescout_technologies,updates.forescout.com,True
 forescout_technologies,community.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
@@ -5689,6 +5688,7 @@ forescout_technologies,streaming.iris.production.forescoutcloud.net,True
 forescout_technologies,streaming-api.iris.production.forescoutcloud.net,True
 forescout_technologies,us.forescout.cloud,True
 forescout_technologies,www.forescout.com,True
+forescout_technologies,updates.forescout.com,True
 forescout_technologies,logstash-props.devicecloud.acceptance.forescoutcloud.net,True
 forescout_technologies,datapod-1-100-druid-query.development.forescoutcloud.net,True
 forescout_technologies,www.forescout.com,True
