@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 14:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 15:10:06 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -2442,9 +2442,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
 *.nr-data.net
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
