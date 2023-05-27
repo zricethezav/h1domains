@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 18:10:27 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 19:09:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1037,10 +1037,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3088,9 +3088,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
-*.shopify.com
 accounts.shopify.com
 shopify.plus
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3106,10 +3106,10 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-story.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
@@ -3118,7 +3118,6 @@ login.playcanvas.com
 blog.playcanvas.com
 scan.snapchat.com
 www.bitmoji.com
-map.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 my.snapchat.com
@@ -3126,6 +3125,7 @@ store.snapchat.com
 app.snapchat.com
 playcanvas.com
 business.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
