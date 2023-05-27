@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4418,8 +4418,8 @@ watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.marionnaud.ro,True
-watson_group,www.watsons.com.ph,True
 watson_group,apptps.theperfumeshop.com,True
+watson_group,www.watsons.com.ph,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
 watson_group,app.marionnaud.cz,True
@@ -7308,9 +7308,9 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,map.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
