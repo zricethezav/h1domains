@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 00:22:16 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 01:36:35 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -212,8 +212,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2014,9 +2014,9 @@ vacations.us.palladiumhotelgroup.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.booktandl.com
-res.universalorlandovacations.com
 reservations.wynnvacations.com
 www.wynnvacations.com
+res.universalorlandovacations.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
