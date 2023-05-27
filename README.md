@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 17:09:02 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 18:10:27 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1028,9 +1028,9 @@ new.reddit.com
 *.snooguts.net
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
 *.reddit.com
+gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1747,8 +1747,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3110,13 +3110,13 @@ story.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
-scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
 code.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
+scan.snapchat.com
 www.bitmoji.com
 map.snapchat.com
 rt.playcanvas.com
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
