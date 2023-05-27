@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 19:09:55 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 20:10:28 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -17,9 +17,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-web.tide.co
 api.tide.co
 www.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -33,8 +33,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 addons.allizom.org
-contile.services.mozilla.com
 phabricator.services.mozilla.com
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1617,9 +1617,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
