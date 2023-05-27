@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4604,12 +4604,12 @@ trycourier,www.trycourier.app,False
 trycourier,api.trycourier.app,False
 trycourier,api.courier.com,False
 trycourier,www.courier.com,False
-polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
 polygon-technology,wallet.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
+polygon-technology,staking-api.polygon.technology,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
@@ -5109,10 +5109,10 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,*.easycontactnow.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
-8x8,*.easycontactnow.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
 8x8,*.thinkingphones.net,False
@@ -6244,8 +6244,8 @@ flickr,*.flickr.com,True
 flickr,*.flickr.com,True
 casper,bedpost.casper.com,True
 casper,operator.casper.tools,True
-casper,casper.com,True
 casper,legacy.casper.com,True
+casper,casper.com,True
 casper,casper.com,True
 casper,bedpost.casper.com,True
 casper,operator.casper.tools,True
@@ -7308,9 +7308,9 @@ snapchat,rt.playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -7753,8 +7753,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
