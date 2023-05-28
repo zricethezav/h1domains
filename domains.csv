@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1372,8 +1372,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2418,8 +2418,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4756,10 +4756,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -4921,8 +4921,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -6809,8 +6809,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,badoo.com,True
 bumble,www.bumble.com,True
+bumble,badoo.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
