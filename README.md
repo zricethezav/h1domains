@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 28 17:09:42 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 28 18:10:11 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1671,8 +1671,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.kolikkopelit.com
 *.bingo.com
+*.kolikkopelit.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -2675,10 +2675,10 @@ meu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 zodia.studio
-eu1.badoo.com
 bma.badoo.com
 badoocdn.com
 heyfiesta.com
+eu1.badoo.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
@@ -3122,10 +3122,10 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
-app.snapchat.com
 business.snapchat.com
 map.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
