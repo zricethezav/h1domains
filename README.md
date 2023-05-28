@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 28 04:10:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 28 05:10:06 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1674,9 +1674,9 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.unibet.com
 *.ottokasino.com
 *.casinohuone.com
 *.storspiller.com

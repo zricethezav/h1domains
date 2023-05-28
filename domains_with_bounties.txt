@@ -834,8 +834,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1668,9 +1668,9 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.unibet.com
 *.ottokasino.com
 *.casinohuone.com
 *.storspiller.com
