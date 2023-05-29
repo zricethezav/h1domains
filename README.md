@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 29 01:37:55 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 29 02:27:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -317,8 +317,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.hotwire.com
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
