@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 29 17:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 29 18:09:30 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -1233,9 +1233,9 @@ api.adm.cloud.com
 launch.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
-citrix.cloud.com
 *.citrixworkspacesapi.net
 us.cloud.com
+citrix.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2137,8 +2137,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3089,8 +3089,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

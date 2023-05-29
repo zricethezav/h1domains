@@ -432,8 +432,8 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -504,9 +504,9 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.PREPRODFAN.GOV,False
 us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
-us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.AMERICA.GOV,False
+us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1180,8 +1180,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2418,8 +2418,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4179,9 +4179,9 @@ citrix,api.adm.cloud.com,True
 citrix,launch.cloud.com,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
-citrix,citrix.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
 citrix,us.cloud.com,True
+citrix,citrix.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -6188,8 +6188,8 @@ hyatt,www.triseptapi.com,True
 hyatt,www.triseptdemo.com,True
 hyatt,vacations.united.com,True
 hyatt,www.applevacations.com,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -7276,8 +7276,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
