@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 29 03:10:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 29 04:10:27 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1021,11 +1021,11 @@ gql.reddit.com
 ads.reddit.com
 m.reddit.com
 sh.reddit.com
-meta-api.reddit.com
 strapi.reddit.com
 *.redditinc.com
 new.reddit.com
 *.snooguts.net
+meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
 ads-api.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2343,8 +2343,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -3127,9 +3127,9 @@ map.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
-*.sc-corp.net
 spectacles.com
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3448,9 +3448,9 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
