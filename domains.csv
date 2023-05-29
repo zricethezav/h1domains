@@ -13,8 +13,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,api.tide.co,True
-tide,web.tide.co,True
 tide,www.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -413,8 +413,8 @@ stanford-university,who.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-kkr_vdp,*.kkr.com,False
 kkr_vdp,kkr.com,False
+kkr_vdp,*.kkr.com,False
 kkr_vdp,portal.kkr.com,False
 kkr_vdp,www.fskkradvisor.com,False
 kkr_vdp,www.kkrfunds.com,False
@@ -432,8 +432,8 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4649,8 +4649,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7770,8 +7770,8 @@ security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
