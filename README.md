@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 29 07:11:23 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 29 08:09:45 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1028,9 +1028,9 @@ new.reddit.com
 meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1268,8 +1268,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1671,8 +1671,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -3718,8 +3718,8 @@ https://645892349820.vulnerbug.com
 teamhelp.upserve.com
 *.vanillacommunities.com
 *.vanilladevelopment.com
-*.vanillaforums.com
 *.vanillastaging.com
+*.vanillaforums.com
 *.vanillacommunity.com
 *.vanillaforums.com
 *.vanillacommunities.com

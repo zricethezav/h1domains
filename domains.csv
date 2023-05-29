@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -3267,9 +3267,9 @@ reddit,*.snooguts.net,True
 reddit,meta-api.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
-reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4215,8 +4215,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -4649,8 +4649,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4844,8 +4844,8 @@ kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
 kindred_group,*.unibet.fr,True
-kindred_group,*.bingo.com,True
 kindred_group,*.kolikkopelit.com,True
+kindred_group,*.bingo.com,True
 kindred_group,maria.casino,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.kindredext.net,True
@@ -8210,8 +8210,8 @@ upserve,teamhelp.upserve.com,True
 upserve,*.upserve.com,False
 vanilla,*.vanillacommunities.com,True
 vanilla,*.vanilladevelopment.com,True
-vanilla,*.vanillaforums.com,True
 vanilla,*.vanillastaging.com,True
+vanilla,*.vanillaforums.com,True
 vanilla,*.vanillacommunity.com,True
 vanilla,*.vanillaforums.com,True
 vanilla,*.vanillacommunities.com,True
