@@ -44,10 +44,10 @@ mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -432,8 +432,8 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -895,8 +895,8 @@ monarch_money,www.monarchmoney.com,False
 allegion,www.fireglass.com,False
 allegion,www.interflex.de,False
 allegion,www.gainsboroughhardware.com.au,False
-allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
+allegion,www.cisa.com,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -908,8 +908,8 @@ allegion,*.allegionengage.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,www.bricard.com,False
-allegion,*.allegion.com,False
 allegion,*.yonomi.co,False
+allegion,*.allegion.com,False
 allegion,www.republicdoor.com,False
 allegion,www.normbau.de,False
 allegion,www.fshlocking.com.au,False
@@ -1088,10 +1088,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1107,8 +1107,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -2418,8 +2418,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4921,8 +4921,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -5109,10 +5109,10 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
 8x8,*.thinkingphones.net,False
@@ -6282,8 +6282,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,paypalobjects.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -7182,8 +7182,8 @@ deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
 deriv,api.deriv.com,True
 deriv,smarttrader.deriv.com,True
-deriv,*.binary.com,True
 deriv,*.deriv.com,True
+deriv,*.binary.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 13:13:33 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 14:13:04 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -44,10 +44,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-monitor.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
 www.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -1747,8 +1747,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2229,8 +2229,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2997,8 +2997,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com

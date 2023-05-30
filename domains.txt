@@ -43,10 +43,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-monitor.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
 www.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -431,8 +431,8 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -883,8 +883,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -894,8 +894,8 @@ www.monarchmoney.com
 www.fireglass.com
 www.interflex.de
 www.gainsboroughhardware.com.au
-www.cisa.com
 www.yonomi.com
+www.cisa.com
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -907,8 +907,8 @@ www.planopunkt.com
 www.krytonitelock.com
 www.schlage.com
 www.bricard.com
-*.allegion.com
 *.yonomi.co
+*.allegion.com
 www.republicdoor.com
 www.normbau.de
 www.fshlocking.com.au
@@ -1087,10 +1087,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1106,8 +1106,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.mssm.edu
 *.thehealthcenterhudsonyards.com
+*.mssm.edu
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -2417,8 +2417,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4920,8 +4920,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -5108,10 +5108,10 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.8x8.com
 connect.8x8.com
 *.thinkingphones.com
+*.easycontactnow.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -6281,8 +6281,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -7181,8 +7181,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
