@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 16:14:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 17:13:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,10 +211,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
-*.jitsi.net
 *.8x8.vc
+connect.8x8.com
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -224,8 +224,8 @@ platform.8x8pilot.com
 cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
-*.8x8staging.com
 *.packet8.net
+*.8x8staging.com
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1037,10 +1037,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 accounts.reddit.com
-mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
+mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1272,9 +1272,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2927,8 +2927,8 @@ gist.github.com
 *.githubusercontent.com
 *.github.net
 npmjs.org
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2997,8 +2997,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3449,8 +3449,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
