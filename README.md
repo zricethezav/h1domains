@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 04:10:26 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 05:10:26 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2442,9 +2442,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.nr-data.net
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3121,11 +3121,11 @@ www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
-map.snapchat.com
-app.snapchat.com
 my.snapchat.com
-playcanvas.com
+app.snapchat.com
 business.snapchat.com
+map.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
