@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 22:11:21 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 23:10:41 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2715,9 +2715,9 @@ app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
-www.dashlane.com
 logs.dashlane.com
 app.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
