@@ -107,8 +107,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.msd.com
 *.merck.com
+*.msd.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -432,9 +432,9 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
 *.jitsi.net
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -883,8 +883,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1149,7 +1149,6 @@ banfield.us
 *.twix.com
 *.royalcanin.nl
 *.royalcanin.pt
-*.myroyalcanin.gr
 *.myroyalcanin.ro
 *.shoproyalcanin.com
 *.eukanubasportingdog.com
@@ -1160,6 +1159,7 @@ banfield.us
 *.vetschoice.co.za
 *.banfield.com
 *.miroyalcanin.com.ar
+*.myroyalcanin.gr
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -2633,8 +2633,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5108,10 +5108,10 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.8x8.com
 *.thinkingphones.com
 *.easycontactnow.com
 connect.8x8.com
+*.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -5126,11 +5126,11 @@ platform.8x8.com
 *.8x8pilot.com
 *.8x8.uk
 *.adgjmp.net
-*.jitsi.org
 work.8x8.com
 sso.8x8.com
 *.chalet.8x8.com
 *.jitsi.net
+*.jitsi.org
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
@@ -7631,9 +7631,9 @@ gnip.com
 twitterflightschool.com
 t.co
 *.teams.cloudflare.com
-cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
+cloudflareworkers.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
@@ -7752,8 +7752,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com

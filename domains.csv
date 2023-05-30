@@ -108,8 +108,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -433,9 +433,9 @@ kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1150,7 +1150,6 @@ mars,banfield.us,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
 mars,*.royalcanin.pt,False
-mars,*.myroyalcanin.gr,False
 mars,*.myroyalcanin.ro,False
 mars,*.shoproyalcanin.com,False
 mars,*.eukanubasportingdog.com,False
@@ -1161,6 +1160,7 @@ mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.myroyalcanin.gr,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5109,10 +5109,10 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.8x8.com,False
 8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
+8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
 8x8,*.thinkingphones.net,False
@@ -5127,11 +5127,11 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8pilot.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
-8x8,*.jitsi.org,False
 8x8,work.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.chalet.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,*.jitsi.org,False
 8x8,accountmanager.8x8.com,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
@@ -7632,9 +7632,9 @@ twitter,gnip.com,True
 twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,cloudflareworkers.com,True
 cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
+cloudflare,cloudflareworkers.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
@@ -7753,8 +7753,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
