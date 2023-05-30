@@ -157,10 +157,10 @@ paystack-vdp,decodefintech.com,False
 apnic,* IPv6 addresses,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
-apnic,*.apnic.foundation,False
 apnic,*.seedalliance.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.net,False
+apnic,*.apnic.foundation,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1279,6 +1279,10 @@ trendyol,www.trendyol.com,True
 trendyol,www.trendyol.com,True
 trendyol,m.trendyol.com,True
 trendyol,www.dolap.com,True
+trellix,*.skyhighsecurity.com,False
+trellix,*.trellix.com,False
+trellix,*.trellix.com,False
+trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
 tokenweb3,*.tokensvc.com,False
@@ -2634,8 +2638,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3277,8 +3281,8 @@ reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
+reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
@@ -4649,8 +4653,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7527,9 +7531,9 @@ airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
@@ -7763,11 +7767,11 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,ctf.hacker101.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
+security,ctf.hacker101.com,True
 security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
@@ -7814,10 +7818,6 @@ mckesson,*.Mckesson.com,False
 mckesson,*.mckesson.*,False
 mckesson,*.Mckesson.com,False
 mckesson,*.mckesson.*,False
-trellix,*.skyhighsecurity.com,False
-trellix,*.trellix.com,False
-trellix,*.trellix.com,False
-trellix,*.skyhighsecurity.com,False
 hack-us-h1c,businessdefense.gov,True
 hack-us-h1c,ioss.gov,True
 hack-us-h1c,itc.gov,True

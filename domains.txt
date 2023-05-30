@@ -156,10 +156,10 @@ decodefintech.com
 * IPv6 addresses
 * IPv4 addresses
 aso.apnic.net
-*.apnic.foundation
 *.seedalliance.net
 *.isif.asia
 *.apnic.net
+*.apnic.foundation
 stats.labs.apnic.net
 nori.apnic.net
 rsync.apnic.net
@@ -883,8 +883,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1278,6 +1278,10 @@ www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
+*.skyhighsecurity.com
+*.trellix.com
+*.trellix.com
+*.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
 *.tokensvc.com
@@ -2633,8 +2637,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3276,8 +3280,8 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -4648,8 +4652,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -7526,9 +7530,9 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -7762,11 +7766,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
@@ -7813,10 +7817,6 @@ node1.pivcac.prod.login.gov
 *.mckesson.*
 *.Mckesson.com
 *.mckesson.*
-*.skyhighsecurity.com
-*.trellix.com
-*.trellix.com
-*.skyhighsecurity.com
 businessdefense.gov
 ioss.gov
 itc.gov

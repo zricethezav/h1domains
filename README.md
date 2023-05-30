@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 21:10:41 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 22:11:21 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1038,8 +1038,8 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3220,9 +3220,9 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3446,11 +3446,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
