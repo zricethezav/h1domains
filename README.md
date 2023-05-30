@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 18:13:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 19:12:53 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1625,9 +1625,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.1688.com
 *.Daraz.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2229,8 +2229,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2413,8 +2413,8 @@ www.crypto.com
 auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 app.mona.co
 pay.crypto.com
 js.crypto.com
@@ -2818,8 +2818,8 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.fr
 www.starbucks.co.uk
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.com.br
+www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
@@ -2973,9 +2973,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zomans.com
 *.zdev.net
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
