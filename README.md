@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 07:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 08:09:39 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3012,8 +3012,8 @@ smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
 api.deriv.com
-werkenbijderet.nl
 maxcldapp.net
+werkenbijderet.nl
 werkenbijdnb.nl
 dropr.nl
 acme-challenge.nl
@@ -3029,10 +3029,10 @@ preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
 devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
