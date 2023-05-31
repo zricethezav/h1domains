@@ -46,8 +46,8 @@ mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,developer.mozilla.org,True
-mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -554,12 +554,12 @@ yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
-expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.abritel.fr,True
+expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -7190,8 +7190,8 @@ deriv,smarttrader.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.binaryws.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
@@ -7533,8 +7533,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
