@@ -879,8 +879,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1082,10 +1082,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1101,8 +1101,8 @@ fossil.com.vn
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.mssm.edu
 *.thehealthcenterhudsonyards.com
+*.mssm.edu
 *.mountsinaiheartnp.org
 *.southnassau.org
 *.mountsinai.org
@@ -1174,8 +1174,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2632,8 +2632,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3281,9 +3281,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
+oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4651,8 +4651,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5111,8 +5111,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -6284,8 +6284,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -6399,6 +6399,7 @@ goldmansachsindices.com
 *.goldmansachs.com
 *.finlife.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -6410,9 +6411,6 @@ research.gs.com
 *.gs.com
 *.folioclient.com
 *.folioinstitutional.com
-developer.gs.com
-www.rocaton.com
-*.claritymoney.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -6446,6 +6444,7 @@ api.foliofn.com
 *.folioinstitutional.com
 *.nnip.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
@@ -6513,9 +6512,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-*.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -7634,9 +7633,9 @@ gnip.com
 twitterflightschool.com
 t.co
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 cloudflareworkers.com
 *.cloudflare.com
+one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
@@ -7704,8 +7703,8 @@ custody.coinbase.com
 prime.coinbase.com
 paradex.io
 *.cbhq.net
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com

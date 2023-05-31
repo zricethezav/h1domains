@@ -880,8 +880,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1083,10 +1083,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1102,8 +1102,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
 mount-sinai-health,*.mountsinai.org,False
@@ -1175,8 +1175,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2633,8 +2633,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3282,9 +3282,9 @@ reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,mod.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4652,8 +4652,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5112,8 +5112,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -6285,8 +6285,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,paypalobjects.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -6400,6 +6400,7 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.vennhypotheken.nl,True
+goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,marquee.gs.com,True
@@ -6411,9 +6412,6 @@ goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,developer.gs.com,True
-goldmansachs,www.rocaton.com,True
-goldmansachs,*.claritymoney.com,False
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -6447,6 +6445,7 @@ goldmansachs,*.folioidentity.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.nnip.com,True
 goldmansachs,*.vennhypotheken.nl,True
+goldmansachs,*.nextcapital.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.folioinvesting.com,True
@@ -6514,9 +6513,9 @@ newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-ops.net,True
-newrelic,*.nr-data.net,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
+newrelic,*.nr-data.net,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -7635,9 +7634,9 @@ twitter,gnip.com,True
 twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,one.dash.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.cloudflare.com,True
+cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
@@ -7705,8 +7704,8 @@ coinbase,custody.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
-coinbase,*.coinbase.com,True
 coinbase,pro.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True

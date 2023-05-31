@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 14:12:33 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 15:13:22 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -836,8 +836,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1040,9 +1040,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
+oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2229,8 +2229,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2334,6 +2334,7 @@ goldmansachsindices.com
 *.goldmansachs.com
 *.finlife.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2345,8 +2346,6 @@ research.gs.com
 *.gs.com
 *.folioclient.com
 *.folioinstitutional.com
-developer.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2380,6 +2379,7 @@ api.foliofn.com
 *.folioinstitutional.com
 *.nnip.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
@@ -2442,9 +2442,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-*.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3317,9 +3317,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 cloudflareworkers.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3385,8 +3385,8 @@ custody.coinbase.com
 prime.coinbase.com
 paradex.io
 *.cbhq.net
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
