@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 08:11:33 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 09:11:32 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1361,18 +1361,17 @@ www20.watsons.co.th
 app.marionnaud.hu
 www.watsons.co.id
 www.iciparisxl.lu
-www.watsons.com.tr
 www.marionnaud.fr
 www.marionnaud.ro
 apptps.theperfumeshop.com
 www.watsons.com.ph
+www.watsons.com.tr
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-app.watsons.com.tr
 www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
@@ -2217,8 +2216,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3221,8 +3220,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3435,8 +3434,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
