@@ -1011,10 +1011,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-gql.reddit.com
 *.redditmedia.com
 ads.reddit.com
 old.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1537,8 +1537,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2337,8 +2337,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
