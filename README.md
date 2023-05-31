@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 09:11:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 10:09:44 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -524,8 +524,8 @@ cashier-src.etoro.com
 kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
-wallet.etoro.com
 etoropartners.com
+wallet.etoro.com
 api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
@@ -840,25 +840,31 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
+app.recordedfuture.com
 therecord.media
-app.recordedfuture.com
 api.recordedfuture.com
+hatching.io
 securitytrails.com
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
 id.recordedfuture.com
 securitytrails.com
+geminiadvisory.io
+hatching.io
+tria.ge
 therecord.media
 logs.fr.cloud.gov
 ssh.fr.cloud.gov
@@ -1367,7 +1373,6 @@ apptps.theperfumeshop.com
 www.watsons.com.ph
 www.watsons.com.tr
 www.kruidvat.be
-www.kruidvat.nl
 app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
@@ -1625,8 +1630,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3434,8 +3439,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
