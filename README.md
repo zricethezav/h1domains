@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 23:10:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 00:23:44 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -299,8 +299,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
 www.hotels.com
-www.abritel.fr
 www.orbitz.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1014,11 +1014,11 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
-*.redditmedia.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 old.reddit.com
+*.redditmedia.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1037,10 +1037,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 accounts.reddit.com
-matrix.redditspace.com
 mod.reddit.com
 www.reddit.com
 oauth.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1272,9 +1272,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3318,8 +3318,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
-*.cloudflare.com
 cloudflareworkers.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3428,7 +3428,6 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
-data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
