@@ -1364,8 +1364,8 @@ www.iciparisxl.lu
 www.marionnaud.fr
 www.marionnaud.ro
 apptps.theperfumeshop.com
-www.watsons.com.ph
 www.watsons.com.tr
+www.watsons.com.ph
 www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
@@ -3219,8 +3219,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com

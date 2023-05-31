@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 10:09:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 11:11:03 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1370,8 +1370,8 @@ www.iciparisxl.lu
 www.marionnaud.fr
 www.marionnaud.ro
 apptps.theperfumeshop.com
-www.watsons.com.ph
 www.watsons.com.tr
+www.watsons.com.ph
 www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
@@ -3225,8 +3225,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
