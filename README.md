@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 15:13:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 16:13:12 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -207,10 +207,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.8x8.vc
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1018,9 +1018,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 gql.reddit.com
-old.reddit.com
 *.redditmedia.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1365,9 +1365,9 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.marionnaud.fr
 www.marionnaud.ro
-apptps.theperfumeshop.com
 www.watsons.com.tr
 www.watsons.com.ph
+apptps.theperfumeshop.com
 www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
@@ -1536,8 +1536,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgservices.com
@@ -1617,9 +1617,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2217,8 +2217,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2342,7 +2342,6 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 research.gs.com
-*.gsam.com
 *.gs.com
 *.folioclient.com
 *.folioinstitutional.com
@@ -2443,8 +2442,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 one.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2897,8 +2896,8 @@ www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
-www.youporn.com
 api.pornhub.com
+www.youporn.com
 ht.pornhub.com
 www.pornmd.com
 mobile.pornhub.com
