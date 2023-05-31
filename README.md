@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 11:11:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 12:12:23 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1044,9 +1044,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3093,8 +3093,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3132,8 +3132,8 @@ playcanvas.com
 my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net

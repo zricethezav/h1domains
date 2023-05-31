@@ -883,8 +883,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1088,10 +1088,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1107,8 +1107,8 @@ fossil.com.vn
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.mssm.edu
 *.thehealthcenterhudsonyards.com
+*.mssm.edu
 *.mountsinaiheartnp.org
 *.southnassau.org
 *.mountsinai.org
@@ -1180,8 +1180,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2638,8 +2638,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3287,9 +3287,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5117,8 +5117,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -7284,8 +7284,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7323,8 +7323,8 @@ playcanvas.com
 my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
