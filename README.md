@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 13:10:58 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 14:12:33 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -172,10 +172,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-staking.xdefi.io
-app.xdefi.io
-staking.xdefi.io
-app.xdefi.io
 online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
@@ -840,8 +836,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1300,8 +1296,8 @@ www.logitechg.com
 www.logitech.com.cn
 circle.logi.com
 www.ultimateears.com
-id.logi.com
 sync.logitech.com
+id.logi.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2789,8 +2785,8 @@ circolocorecords.com/
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-www.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -2978,8 +2974,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3225,8 +3221,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
