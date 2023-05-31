@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 07:11:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 08:11:33 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1023,9 +1023,9 @@ m.reddit.com
 sh.reddit.com
 strapi.reddit.com
 *.redditinc.com
-new.reddit.com
 *.snooguts.net
 meta-api.reddit.com
+new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
@@ -1038,9 +1038,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2823,9 +2823,9 @@ www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
