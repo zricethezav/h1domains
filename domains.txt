@@ -120,9 +120,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-hiltonhawaiianvillage.jp
 *.hilton.io
 hiltonmanage.com
+hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -883,8 +883,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2421,8 +2421,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -3257,10 +3257,10 @@ blog.drugs.com
 www.woolshed.com
 app.spiketrap.io
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
 *.redditmedia.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -3271,8 +3271,8 @@ meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -4924,8 +4924,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -5112,8 +5112,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com

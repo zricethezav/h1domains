@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 02:37:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 03:14:08 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -74,9 +74,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-hiltonhawaiianvillage.jp
 *.hilton.io
 hiltonmanage.com
+hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1015,10 +1015,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
 *.redditmedia.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1029,8 +1029,8 @@ meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1747,8 +1747,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg

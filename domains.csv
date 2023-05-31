@@ -121,9 +121,9 @@ floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,hiltonjapan.co.jp,True
-hilton,hiltonhawaiianvillage.jp,True
 hilton,*.hilton.io,True
 hilton,hiltonmanage.com,True
+hilton,hiltonhawaiianvillage.jp,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2422,8 +2422,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -3258,10 +3258,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
 reddit,*.redditmedia.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,strapi.reddit.com,True
@@ -3272,8 +3272,8 @@ reddit,meta-api.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4925,8 +4925,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -5113,8 +5113,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
