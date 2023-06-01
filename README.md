@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 15:12:38 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 16:13:36 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1934,9 +1934,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
