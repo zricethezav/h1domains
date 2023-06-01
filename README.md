@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 05:09:23 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 06:11:07 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 hubs.mozilla.com
-www.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
