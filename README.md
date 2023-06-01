@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 23:10:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 00:26:51 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -366,7 +366,6 @@ cloud.gravitational.io
 *.teleport.dev
 teleport.sh
 *.gravitational.io
-get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 *.goteleport.com
@@ -377,7 +376,6 @@ platform.teleport.sh
 *.gravitational.co
 *.gravitational.io
 teleport.sh
-get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
@@ -836,8 +834,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1031,18 +1029,18 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 accounts.reddit.com
+mod.reddit.com
+oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
-mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
