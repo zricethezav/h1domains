@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 07:11:32 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 08:11:16 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -44,10 +44,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-hubs.mozilla.com
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -834,8 +834,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1541,8 +1541,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2037,7 +2037,6 @@ upsell.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
-www.beachbound.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 media.triseptsolutions.com
@@ -2047,6 +2046,7 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 book.extraholidaysvacations.com
+www.beachbound.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3086,8 +3086,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
