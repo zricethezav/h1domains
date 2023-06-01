@@ -1042,9 +1042,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-www.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2015,10 +2015,10 @@ vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
 reservations.wynnvacations.com
 www.wynnvacations.com
 res.universalorlandovacations.com
+book.booktandl.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -3454,9 +3454,9 @@ www.hackerone.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
 app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
