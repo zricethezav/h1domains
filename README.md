@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 17:13:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 18:12:59 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1049,8 +1049,8 @@ redditforbusiness.com
 accounts.reddit.com
 mod.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1280,11 +1280,11 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 partner.tiktokshop.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
 *.tiktokv.com
+careers.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3096,8 +3096,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3131,8 +3131,8 @@ store.snapchat.com
 business.snapchat.com
 map.snapchat.com
 playcanvas.com
-my.snapchat.com
 app.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3419,8 +3419,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3453,9 +3453,9 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
