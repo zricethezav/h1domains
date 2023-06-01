@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 12:11:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 13:13:29 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -977,8 +977,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3115,8 +3115,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
