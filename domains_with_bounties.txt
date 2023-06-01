@@ -78,9 +78,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-*.hilton.io
 hiltonmanage.com
 hiltonhawaiianvillage.jp
+*.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3319,8 +3319,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 cloudflareworkers.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com

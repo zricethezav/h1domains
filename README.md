@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 16:13:36 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 17:13:02 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -84,9 +84,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-*.hilton.io
 hiltonmanage.com
 hiltonhawaiianvillage.jp
+*.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3325,8 +3325,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 cloudflareworkers.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
