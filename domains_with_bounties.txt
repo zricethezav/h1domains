@@ -3119,8 +3119,8 @@ my.snapchat.com
 app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
