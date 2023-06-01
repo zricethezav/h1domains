@@ -1091,10 +1091,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1110,8 +1110,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
 mount-sinai-health,*.mountsinai.org,False
@@ -1183,8 +1183,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2641,8 +2641,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4401,8 +4401,8 @@ rebellion-defense,www.rebelliondefense.com,False
 dropcontact,app.dropcontact.io,False
 dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
-acronis,account.acronis.com,True
 acronis,*.5nine.com,True
+acronis,account.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -4660,8 +4660,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4768,9 +4768,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -5120,8 +5120,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -6650,9 +6650,9 @@ localtapiola,lisasijoitus.lahitapiola.fi,True
 localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
-localtapiola,www.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,*.tapiola.fi,True
+localtapiola,www.lahitapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
