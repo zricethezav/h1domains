@@ -1042,9 +1042,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3108,9 +3108,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
-forum.playcanvas.com
 story.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
