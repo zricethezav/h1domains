@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 20:11:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 21:10:41 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -302,11 +302,11 @@ hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediagroup.com
 www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.expediaagents.com
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1026,9 +1026,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1049,8 +1049,8 @@ redditforbusiness.com
 accounts.reddit.com
 mod.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2833,10 +2833,10 @@ secureui.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
-www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.co.jp
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
