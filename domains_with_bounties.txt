@@ -2314,8 +2314,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.ayco.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2852,8 +2852,8 @@ api.blockchain.info
 ws.blockchain.info
 talk.brave.com
 search.brave.com
-basicattentiontoken.org
 brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com

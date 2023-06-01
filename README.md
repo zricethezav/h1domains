@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 04:11:18 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 05:09:23 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -2320,8 +2320,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.ayco.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2858,8 +2858,8 @@ api.blockchain.info
 ws.blockchain.info
 talk.brave.com
 search.brave.com
-basicattentiontoken.org
 brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
