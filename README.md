@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 15:13:25 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 16:14:21 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -90,8 +90,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonmanage.com
 *.hiltonjapan.co.jp
 hilton.com
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
