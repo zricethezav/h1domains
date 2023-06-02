@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 01:39:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 02:35:00 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1049,8 +1049,8 @@ redditforbusiness.com
 accounts.reddit.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
