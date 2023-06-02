@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1020,9 +1020,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 old.reddit.com
+ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
-ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
