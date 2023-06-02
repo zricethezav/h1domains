@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 09:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 10:09:59 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -43,8 +43,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
-phabricator.services.mozilla.com
 addons.allizom.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1038,9 +1038,9 @@ meta-api.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
 *.reddit.com
+gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
