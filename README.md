@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 22:10:46 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 23:11:10 UTC 2023)
 ```
-api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -1633,9 +1633,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.Daraz.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3096,8 +3096,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
