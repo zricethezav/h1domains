@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 02:35:00 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 03:11:15 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1046,11 +1046,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-accounts.reddit.com
 mod.reddit.com
-oauth.reddit.com
 matrix.redditspace.com
 www.reddit.com
+accounts.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1686,11 +1686,11 @@ maria.casino
 *.kindredext.net
 *.unibet.com
 *.ottokasino.com
-*.casinohuone.com
 *.storspiller.com
 *.igame.com
 www.32red.com
 *.vladcazino.ro
+*.casinohuone.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
