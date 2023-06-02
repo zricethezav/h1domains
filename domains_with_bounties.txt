@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2335,8 +2335,8 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.goldmansachs.com
 *.finlife.com
-*.nextcapital.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -3001,8 +3001,8 @@ smarttrader.deriv.com
 *.deriv.com
 *.binary.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud

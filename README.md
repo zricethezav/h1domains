@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 12:12:14 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 13:15:53 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2341,8 +2341,8 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.goldmansachs.com
 *.finlife.com
-*.nextcapital.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -3007,8 +3007,8 @@ smarttrader.deriv.com
 *.deriv.com
 *.binary.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
