@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 18:11:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 19:10:42 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -56,8 +56,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 developer.mozilla.org
-www.mozilla.org
 hubs.mozilla.com
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2934,8 +2934,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3111,12 +3111,12 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 create.snapchat.com
-businesshelp.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
