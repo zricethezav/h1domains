@@ -1276,9 +1276,9 @@ partner.tiktokshop.com
 tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
