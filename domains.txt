@@ -887,8 +887,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1090,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2424,8 +2424,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2640,8 +2640,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4659,8 +4659,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5119,8 +5119,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -7116,11 +7116,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
-*.githubusercontent.com
 *.github.net
 npmjs.org
 education.github.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -7283,8 +7283,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7316,10 +7316,10 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-playcanvas.com
 app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -7736,8 +7736,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

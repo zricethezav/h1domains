@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 17:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 18:11:43 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2931,11 +2931,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
-*.githubusercontent.com
 *.github.net
 npmjs.org
 education.github.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3096,8 +3096,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3129,10 +3129,10 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-playcanvas.com
 app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3419,8 +3419,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
