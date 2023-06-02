@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1627,9 +1627,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2221,9 +2221,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+*.paydiant.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com

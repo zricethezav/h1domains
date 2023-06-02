@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 03:11:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 04:10:48 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1633,9 +1633,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2227,9 +2227,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+*.paydiant.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
