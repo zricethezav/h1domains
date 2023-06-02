@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 13:15:53 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 14:11:52 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1283,8 +1283,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
