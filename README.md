@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  3 01:38:21 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun  3 02:32:12 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1624,10 +1624,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2780,9 +2780,9 @@ rockstarnorth.com
 circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
-support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
