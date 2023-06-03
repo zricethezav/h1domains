@@ -888,8 +888,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2641,8 +2641,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -2830,7 +2830,6 @@ john-deere,hagiegear.com,False
 john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
-john-deere,*deere.com*,False
 john-deere,dev-app.agrisync.com,False
 john-deere,dev-ms-vendors1.agrisync.com,False
 john-deere,dev-web.agrisync.com,False
@@ -2841,6 +2840,7 @@ john-deere,stage-dc-service.agrisync.com,False
 john-deere,stage-diagnostics.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
+john-deere,*deere.com*,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -4660,8 +4660,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -6108,8 +6108,8 @@ hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
 hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
-hyatt,book.extraholidaysvacations.com,True
 hyatt,www.beachbound.com,True
+hyatt,book.extraholidaysvacations.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True

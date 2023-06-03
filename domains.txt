@@ -887,8 +887,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2640,8 +2640,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2829,7 +2829,6 @@ hagiegear.com
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
-*deere.com*
 dev-app.agrisync.com
 dev-ms-vendors1.agrisync.com
 dev-web.agrisync.com
@@ -2840,6 +2839,7 @@ stage-dc-service.agrisync.com
 stage-diagnostics.agrisync.com
 stage-vnd.agrisync.com
 www.agrisync.com
+*deere.com*
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -4659,8 +4659,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6107,8 +6107,8 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
-book.extraholidaysvacations.com
 www.beachbound.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
