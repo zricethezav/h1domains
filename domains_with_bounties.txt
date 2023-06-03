@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1830,8 +1830,8 @@ accounts.pixiv.net
 booth.pm
 comic.pixiv.net
 sensei.pixiv.net
-dic.pixiv.net
 sketch.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2928,8 +2928,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
