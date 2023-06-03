@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  3 16:10:55 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun  3 17:09:19 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -1188,9 +1188,9 @@ netlify-cdp-loader.netlify.app
 www.netlifycms.org
 supportal.netlify.app
 *.services.netlify.com
-screenshot-proxy.netlify.app
 *.infra-prod.nsvcs.net
 *.services-prod.nsvcs.net
+screenshot-proxy.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 *.ops.netlify.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1755,8 +1755,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
