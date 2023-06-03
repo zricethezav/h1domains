@@ -1,6 +1,6 @@
-app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
