@@ -1091,10 +1091,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1183,8 +1183,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2425,8 +2425,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -6057,8 +6057,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.lincoln.com,False
 ford,*.ford.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -7120,8 +7120,8 @@ github,gist.github.com,True
 github,*.github.net,True
 github,npmjs.org,True
 github,education.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

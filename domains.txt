@@ -1090,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1182,8 +1182,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2424,8 +2424,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -6056,8 +6056,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -7119,8 +7119,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
