@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  3 10:10:57 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun  3 11:10:29 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -2934,8 +2934,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3004,8 +3004,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com

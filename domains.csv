@@ -506,13 +506,13 @@ us-department-of-state,*.USDOSCLOUD.GOV,False
 us-department-of-state,*.FAN.GOV,False
 us-department-of-state,*.USMISSION.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
-us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.PREPRODFAN.GOV,False
 us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.OSAC.GOV,False
+us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
@@ -888,8 +888,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1091,10 +1091,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2425,8 +2425,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -7120,8 +7120,8 @@ github,gist.github.com,True
 github,*.github.net,True
 github,npmjs.org,True
 github,education.github.com,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -7190,8 +7190,8 @@ deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
 deriv,api.deriv.com,True
 deriv,smarttrader.deriv.com,True
-deriv,*.deriv.com,True
 deriv,*.binary.com,True
+deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
