@@ -3118,7 +3118,6 @@ code.playcanvas.com
 login.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
-www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
@@ -3127,6 +3126,7 @@ app.snapchat.com
 my.snapchat.com
 business.snapchat.com
 playcanvas.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
