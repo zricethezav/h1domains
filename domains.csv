@@ -1091,10 +1091,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1183,8 +1183,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -3267,10 +3267,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
-reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
+reddit,old.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,strapi.reddit.com,True
@@ -4761,8 +4761,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -5120,8 +5120,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False

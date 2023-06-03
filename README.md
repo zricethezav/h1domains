@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  3 14:08:54 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun  3 15:10:24 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -1025,10 +1025,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
+old.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1626,8 +1626,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com

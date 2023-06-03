@@ -1090,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1182,8 +1182,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -3266,10 +3266,10 @@ blog.drugs.com
 www.woolshed.com
 app.spiketrap.io
 api.reddit.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
+old.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -4760,8 +4760,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -5119,8 +5119,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
