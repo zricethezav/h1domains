@@ -581,8 +581,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -887,8 +887,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1090,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1182,8 +1182,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2424,8 +2424,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -5118,8 +5118,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
