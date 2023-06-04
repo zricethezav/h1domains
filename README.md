@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 03:22:46 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 04:10:41 UTC 2023)
 ```
 id.kolesa.kz
 app.kolesa.kz
