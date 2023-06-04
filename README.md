@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 05:10:40 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 06:11:49 UTC 2023)
 ```
 id.kolesa.kz
 app.kolesa.kz
@@ -977,8 +977,8 @@ elastic-cloud.com
 *.eops.nl
 *.swiftype.com
 cloud.elastic.co
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com

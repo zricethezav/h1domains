@@ -971,8 +971,8 @@ elastic-cloud.com
 *.eops.nl
 *.swiftype.com
 cloud.elastic.co
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
