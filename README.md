@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 15:11:03 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 16:10:10 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -975,10 +975,10 @@ elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
 *.eops.nl
-cloud.elastic.co
 *.elasticnet.co
 *.elstc.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1026,9 +1026,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 old.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3095,9 +3095,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3410,9 +3410,9 @@ api.coinbase.com
 api.custody.coinbase.com
 paradex.io
 *.base.org
-spaces.pm
 status.slack.com
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
