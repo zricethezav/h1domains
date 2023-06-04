@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 11:10:36 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 12:12:10 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -975,10 +975,10 @@ elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
 *.elasticnet.co
 *.elstc.co
+*.swiftype.com
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1755,8 +1755,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2214,9 +2214,9 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 *.xoom.com
-*.braintreepayments.com
 *.braintree-api.com
 swiftfinancial.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2225,8 +2225,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2352,7 +2352,7 @@ api.foliofn.com
 research.gs.com
 *.gs.com
 *.folioinstitutional.com
-*.folioclient.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
