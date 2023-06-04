@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3000,9 +3000,9 @@ api.deriv.com
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
-*.deriv.cloud
 oauth.deriv.com
 app.deriv.com
+*.deriv.cloud
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
@@ -3125,8 +3125,8 @@ map.snapchat.com
 app.snapchat.com
 my.snapchat.com
 business.snapchat.com
-playcanvas.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
