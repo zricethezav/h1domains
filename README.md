@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 14:10:59 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 15:11:03 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1626,8 +1626,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
 *.tmall.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2351,8 +2351,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gs.com
-*.folioinstitutional.com
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

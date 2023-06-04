@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1620,8 +1620,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
 *.tmall.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2345,8 +2345,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gs.com
-*.folioinstitutional.com
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
