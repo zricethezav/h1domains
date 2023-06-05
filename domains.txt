@@ -1,6 +1,6 @@
 app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -2641,8 +2641,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4660,8 +4660,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5120,8 +5120,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -7190,8 +7190,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 app.deriv.com
 *.deriv.cloud
@@ -7302,9 +7302,9 @@ create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
-businesshelp.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
@@ -7318,9 +7318,9 @@ store.snapchat.com
 map.snapchat.com
 app.snapchat.com
 my.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

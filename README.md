@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 13:14:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 14:13:40 UTC 2023)
 ```
 app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -846,8 +846,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3006,8 +3006,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 app.deriv.com
 *.deriv.cloud
@@ -3116,9 +3116,9 @@ create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
-businesshelp.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
@@ -3132,9 +3132,9 @@ store.snapchat.com
 map.snapchat.com
 app.snapchat.com
 my.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
