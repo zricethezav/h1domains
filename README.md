@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 02:37:14 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 03:13:34 UTC 2023)
 ```
 app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -205,8 +205,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1283,8 +1283,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2214,9 +2214,9 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 *.xoom.com
-*.braintree-api.com
 swiftfinancial.com
 *.braintreepayments.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2934,8 +2934,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3121,9 +3121,9 @@ relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
 login.playcanvas.com
-scan.snapchat.com
 blog.playcanvas.com
 playcanv.as
+scan.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com

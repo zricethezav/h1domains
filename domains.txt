@@ -1,6 +1,6 @@
 app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -351,8 +351,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -887,8 +887,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1090,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1323,8 +1323,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -2424,8 +2424,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4231,8 +4231,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -6267,9 +6267,9 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 *.xoom.com
-*.braintree-api.com
 swiftfinancial.com
 *.braintreepayments.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7118,8 +7118,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -7307,9 +7307,9 @@ relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
 login.playcanvas.com
-scan.snapchat.com
 blog.playcanvas.com
 playcanv.as
+scan.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
