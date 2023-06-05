@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 15:12:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 16:14:01 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -283,9 +283,9 @@ dashboard.doppler.com
 share.doppler.com
 www.engelvoelkers.com
 www.engelvoelkers.com
-*.otherside.xyz
 *.mdvmm.xyz
 *.yuga.com
+*.otherside.xyz
 *.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
@@ -846,8 +846,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1041,8 +1041,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -3463,8 +3463,8 @@ b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
