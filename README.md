@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 12:13:47 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 13:14:29 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -54,6 +54,7 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 developer.mozilla.org
 hubs.mozilla.com
@@ -73,6 +74,7 @@ uploads-prod.reticulum.io
 api.profiler.firefox.com
 hello.dev.myhubs.net
 www.mozilla.org
+getpocket.com
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -844,8 +846,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -893,13 +895,13 @@ tock.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
-diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 federalist-docs.18f.gov
 inventory.data.gov
 *.login.gov
 www.fedramp.gov
+diagrams.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1162,8 +1164,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -1551,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3096,8 +3098,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3114,9 +3116,9 @@ create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
