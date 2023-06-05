@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 08:12:17 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 09:13:18 UTC 2023)
 ```
 app.kolesa.kz
-api.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -1286,8 +1286,8 @@ business.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1625,8 +1625,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
-*.tmall.com
 www.alibabagroup.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
@@ -3004,8 +3004,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3095,9 +3095,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3115,15 +3115,15 @@ msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
 accounts.snapchat.com
-forum.playcanvas.com
 businesshelp.snapchat.com
+forum.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
 login.playcanvas.com
 playcanv.as
-scan.snapchat.com
 blog.playcanvas.com
+scan.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
