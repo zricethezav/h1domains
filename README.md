@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 20:14:11 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 21:11:26 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -220,9 +220,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
-*.8x8.vc
 sso.8x8.com
 *.jitsi.net
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -231,9 +231,9 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 cloud8.8x8.com
 platform.8x8.com
-voapi.8x8.com
 *.packet8.net
 *.8x8staging.com
+voapi.8x8.com
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3117,8 +3117,8 @@ msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
@@ -3230,8 +3230,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
