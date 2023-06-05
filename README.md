@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 00:23:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 01:40:49 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1025,10 +1025,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
 old.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1283,8 +1283,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -3455,8 +3455,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
