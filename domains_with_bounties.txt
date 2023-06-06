@@ -2213,8 +2213,8 @@ py.pl
 www.swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
-*.braintree-api.com
 swiftfinancial.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3002,8 +3002,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com

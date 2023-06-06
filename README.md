@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 20:12:17 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 21:12:16 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -2219,8 +2219,8 @@ py.pl
 www.swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
-*.braintree-api.com
 swiftfinancial.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3008,8 +3008,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
