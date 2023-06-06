@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 16:14:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 17:14:38 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -28,8 +28,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -319,8 +319,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.bookabach.co.nz
-www.expedia.com
 www.carrentals.com
+www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2841,8 +2841,8 @@ login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.ca
 openapi.starbucks.com
+www.starbucks.ca
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3459,9 +3459,9 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 reviewer.pullrequest.com
 ctf.hacker101.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
