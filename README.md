@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 23:11:11 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 00:23:20 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -846,8 +846,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1283,9 +1283,9 @@ live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
+business.tiktok.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2794,8 +2794,8 @@ circolocorecords.com/
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3446,8 +3446,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
