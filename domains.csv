@@ -924,8 +924,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1219,8 +1219,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -2678,8 +2678,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4690,8 +4690,8 @@ flutteruki,*.msgsvc.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.betfair.it,True
-flutteruki,*.skybet.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skybet.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
@@ -4806,8 +4806,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6104,7 +6104,6 @@ ford,*.omnicraftautoparts.com,False
 hyatt,mobileapp.hyatt.com,True
 hyatt,public.hyatt.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
-hyatt,book.beachbound.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
@@ -6115,6 +6114,7 @@ hyatt,reservations.wynnvacations.com,True
 hyatt,www.wynnvacations.com,True
 hyatt,res.universalorlandovacations.com,True
 hyatt,book.booktandl.com,True
+hyatt,book.beachbound.com,True
 hyatt,newsroom.images.hyatt.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
@@ -7013,9 +7013,9 @@ starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
 starbucks,login.starbucks.co.jp,True
-starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
+starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.ca,True
 starbucks,openapi.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
@@ -7414,7 +7414,6 @@ ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
-ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
