@@ -8,12 +8,12 @@ www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.br
-api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadopago.cl
+api.mercadopago.com
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -323,8 +323,8 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.malwarebytes.com
 blog.malwarebytes.com
-support.malwarebytes.com
 www.malwarebytes.com
+support.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1126,10 +1126,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1148,8 +1148,8 @@ fossil.com.vn
 *.thehealthcenterhudsonyards.com
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mssm.edu
 *.mountsinai.org
+*.mssm.edu
 *.nyee2020.com
 *.stlukeshospitalnyc.org
 *.stoppain.org
@@ -1218,8 +1218,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2460,8 +2460,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4700,8 +4700,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -7814,8 +7814,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
