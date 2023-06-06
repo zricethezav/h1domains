@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 07:12:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 08:13:14 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -27,9 +27,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 web.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1032,12 +1032,12 @@ old.reddit.com
 ads.reddit.com
 gql.reddit.com
 m.reddit.com
-sh.reddit.com
 strapi.reddit.com
 *.redditinc.com
 *.snooguts.net
 meta-api.reddit.com
 new.reddit.com
+sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
@@ -1284,9 +1284,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1636,8 +1636,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliexpress.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2037,11 +2037,11 @@ res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
-www.cheapcaribbean.com
 www.globalhotelchoices.com
 vacations.travelimpressions.com
 login.www.vaxvacationaccess.com
 res.funjet.com
+www.cheapcaribbean.com
 world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2227,8 +2227,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -3009,8 +3009,8 @@ smarttrader.deriv.com
 *.deriv.com
 *.binary.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
