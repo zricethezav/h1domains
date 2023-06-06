@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 12:13:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 13:15:03 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -778,6 +778,7 @@ wonderboxdev.com
 fortnite.com
 *.mediatonic.co.uk
 *.popjam.com
+capturingreality.com
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -842,12 +843,13 @@ playwonderbox.com.br
 playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
+capturingreality.com
 *.tinderops.net
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net

@@ -772,6 +772,7 @@ wonderboxdev.com
 fortnite.com
 *.mediatonic.co.uk
 *.popjam.com
+capturingreality.com
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -836,12 +837,13 @@ playwonderbox.com.br
 playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
+capturingreality.com
 *.tinderops.net
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
