@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 18:14:41 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 19:12:46 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -232,8 +232,8 @@ platform.8x8pilot.com
 cloud8.8x8.com
 platform.8x8.com
 *.packet8.net
-*.8x8staging.com
 voapi.8x8.com
+*.8x8staging.com
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -373,9 +373,9 @@ api.zerobounce.in
 zerobounce.net
 cloud.gravitational.io
 *.gravitational.co
-*.gravitational.com
 *.teleportinfra.sh
 *.teleport.dev
+*.gravitational.com
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1281,9 +1281,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
@@ -2936,10 +2936,10 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-npmjs.org
 education.github.com
 *.githubusercontent.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3421,8 +3421,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
