@@ -929,8 +929,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1224,8 +1224,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2466,8 +2466,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2683,8 +2683,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4706,8 +4706,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
