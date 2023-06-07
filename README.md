@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 08:12:05 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 09:13:17 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -43,8 +43,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
-phabricator.services.mozilla.com
 addons.allizom.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -53,8 +53,8 @@ contile.services.mozilla.com
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -943,9 +943,10 @@ federalist-docs.18f.gov
 rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
-activate.codefi.network
 consensys.net
 trufflesuite.com
+activate.codefi.network
+staking-uat.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -957,6 +958,7 @@ on-ramp.metaswap-dev.codefi.network
 webhooks-api-experimental.codefi.network
 http://portfolio.metamask.io
 https://metamask-sdk-socket.metafi.codefi.network/
+staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
 trufflesuite.com
@@ -1226,8 +1228,8 @@ sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
 *.browser.cloud.com
-accounts.cloud.com
 www.cloud.com
+accounts.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -1555,8 +1557,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3395,8 +3397,8 @@ prime.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
-*.coinbase.com
 custody.coinbase.com
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
