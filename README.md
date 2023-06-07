@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 20:10:01 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 21:10:56 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1047,18 +1047,18 @@ sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1763,8 +1763,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2360,7 +2360,7 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioclient.com
-*.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3419,9 +3419,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
-api.slack.com
 status.slack.com
 spaces.pm
+api.slack.com
 app.slack.com
 *.quip.com
 slackb.com
