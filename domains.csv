@@ -1226,8 +1226,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2686,8 +2686,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5171,8 +5171,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -7351,11 +7351,11 @@ shopify,linkpop.com,True
 shopify,shopifyinbox.com,True
 snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
-snapchat,ads.snapchat.com,True
 snapchat,story.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,scan.snapchat.com,True
@@ -7367,11 +7367,11 @@ snapchat,rt.playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -7760,8 +7760,8 @@ coinbase,prime.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
-coinbase,*.coinbase.com,True
 coinbase,custody.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
@@ -7784,10 +7784,10 @@ slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
 slack,app.slack.com,True
-slack,*.quip.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True

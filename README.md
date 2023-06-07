@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 22:09:34 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 23:10:45 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3120,11 +3120,11 @@ linkpop.com
 shopifyinbox.com
 create.snapchat.com
 msg.playcanvas.com
-ads.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3136,11 +3136,11 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-my.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3399,8 +3399,8 @@ prime.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
-*.coinbase.com
 custody.coinbase.com
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
@@ -3423,10 +3423,10 @@ status.slack.com
 spaces.pm
 api.slack.com
 app.slack.com
-*.quip.com
 slackb.com
 slackatwork.com
 slack-redir.net
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
