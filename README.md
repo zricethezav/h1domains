@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 05:10:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 06:12:56 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3142,10 +3142,10 @@ spectacles.com
 web.snapchat.com
 *.sc-corp.net
 www.bitstrips.com
-kit.snapchat.com
 *.sc-core.net
 developer.playcanvas.com
 launch.playcanvas.com
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3391,12 +3391,12 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-custody.coinbase.com
 prime.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
 *.coinbase.com
+custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
