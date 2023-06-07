@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 18:12:17 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 19:11:44 UTC 2023)
 ```
 api.kolesa.kz
 id.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1632,10 +1632,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 www.alibabagroup.com
 *.tmall.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3143,8 +3143,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
@@ -3424,9 +3424,9 @@ status.slack.com
 spaces.pm
 app.slack.com
 *.quip.com
-slack-redir.net
-slackatwork.com
 slackb.com
+slackatwork.com
+slack-redir.net
 edgeapi.slack.com
 slack.com
 slack-imgs.com
