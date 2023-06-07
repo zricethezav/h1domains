@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 23:09:27 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 00:22:20 UTC 2023)
 ```
-app.kolesa.kz
 api.kolesa.kz
+app.kolesa.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -1030,9 +1030,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1052,9 +1052,9 @@ redditforbusiness.com
 oauth.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-www.reddit.com
 *.reddithelp.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1287,8 +1287,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3415,14 +3415,14 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
+api.slack.com
 status.slack.com
 spaces.pm
-api.slack.com
-slackb.com
-slackatwork.com
-slack-redir.net
 *.quip.com
 app.slack.com
+slack-redir.net
+slackatwork.com
+slackb.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
