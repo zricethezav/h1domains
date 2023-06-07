@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 10:13:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 11:11:40 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -45,6 +45,7 @@ aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
 phabricator.services.mozilla.com
+location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -53,6 +54,7 @@ contile.services.mozilla.com
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
+location.services.mozilla.com
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
@@ -848,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1557,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3124,12 +3126,12 @@ forum.playcanvas.com
 businesshelp.snapchat.com
 accounts.snapchat.com
 relay.playcanvas.com
-store.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 playcanv.as
 login.playcanvas.com
+store.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
