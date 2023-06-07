@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 14:14:48 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 15:19:49 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1034,9 +1034,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1047,18 +1047,18 @@ sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 matrix.redditspace.com
 *.reddithelp.com
-mod.reddit.com
-accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
+accounts.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2987,10 +2987,10 @@ api.grofers.com
 *.hyperpure.com
 api2.grofers.com
 blinkit.com
-winecellar.zomato.com
 *.zdev.net
 *.zomans.com
 *.zomato.com
+winecellar.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3130,8 +3130,8 @@ code.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 playcanv.as
-login.playcanvas.com
 store.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
@@ -3423,10 +3423,10 @@ status.slack.com
 spaces.pm
 api.slack.com
 *.quip.com
-app.slack.com
 slack-redir.net
 slackatwork.com
 slackb.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
