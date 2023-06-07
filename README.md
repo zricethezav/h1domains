@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 00:22:20 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 01:40:10 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2345,8 +2345,8 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.goldmansachs.com
 *.finlife.com
-*.vennhypotheken.nl
 *.nextcapital.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2691,8 +2691,8 @@ badoocdn.com
 heyfiesta.com
 eu1.badoo.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3415,9 +3415,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
-api.slack.com
 status.slack.com
 spaces.pm
+api.slack.com
 *.quip.com
 app.slack.com
 slack-redir.net
