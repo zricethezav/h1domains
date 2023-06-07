@@ -9,8 +9,8 @@ mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
 mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
-mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,api.mercadolibre.com,False
+mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadolibre.cl,False
@@ -97,8 +97,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -208,11 +208,11 @@ paystack-vdp,nigerialogos.com,False
 paystack-vdp,decodefintech.com,False
 apnic,* IPv6 addresses,False
 apnic,* IPv4 addresses,False
-apnic,aso.apnic.net,False
 apnic,*.seedalliance.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
 apnic,*.apnic.net,False
+apnic,aso.apnic.net,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
@@ -856,8 +856,8 @@ resmed,onlinestore.resmedchina.cn,False
 resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
-resmed,brightree.net/,False
 resmed,resmed.com,False
+resmed,brightree.net/,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -1135,10 +1135,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1226,8 +1226,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2686,8 +2686,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4284,8 +4284,8 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -6448,7 +6448,6 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
-goldmansachs,*.honestdollar.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.gspublishing.com,True
@@ -6459,6 +6458,7 @@ goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.vennhypotheken.nl,True
+goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,marquee.gs.com,True
@@ -6468,7 +6468,7 @@ goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -7780,17 +7780,17 @@ coinbase,api.custody.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.base.org,True
+slack,api.slack.com,True
 slack,status.slack.com,True
 slack,spaces.pm,True
-slack,api.slack.com,True
+slack,app.slack.com,True
 slack,*.quip.com,True
 slack,slack-redir.net,True
 slack,slackatwork.com,True
 slack,slackb.com,True
-slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True

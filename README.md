@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 17:12:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 18:12:17 UTC 2023)
 ```
 api.kolesa.kz
 id.kolesa.kz
@@ -59,8 +59,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1291,8 +1291,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2340,7 +2340,6 @@ apigw.foliofn.com
 *.ayco.com
 *.foliofn.com
 *.goldman.com
-*.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -2351,6 +2350,7 @@ goldmansachsindices.com
 *.finlife.com
 *.nextcapital.com
 *.vennhypotheken.nl
+*.honestdollar.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2360,7 +2360,7 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioclient.com
-*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3419,17 +3419,17 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
+api.slack.com
 status.slack.com
 spaces.pm
-api.slack.com
+app.slack.com
 *.quip.com
 slack-redir.net
 slackatwork.com
 slackb.com
-app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
