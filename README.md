@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 07:12:20 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 08:12:05 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -53,8 +53,8 @@ contile.services.mozilla.com
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
-relay.firefox.com
 getpocket.com
+relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1555,8 +1555,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3008,8 +3008,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
