@@ -86,8 +86,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -424,8 +424,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -925,8 +925,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1128,10 +1128,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1219,8 +1219,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -5165,8 +5165,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com

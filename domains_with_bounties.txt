@@ -49,8 +49,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
