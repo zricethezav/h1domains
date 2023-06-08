@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 20:12:06 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 21:11:48 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-relay.firefox.com
 getpocket.com
+relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -97,8 +97,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1500,9 +1500,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 store.playstation.com
-*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2459,8 +2459,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3144,8 +3144,8 @@ my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
