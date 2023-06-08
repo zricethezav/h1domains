@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 19:11:56 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 20:12:06 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -167,10 +167,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 *.cloud.malwarebytes.com
-*.mb-cosmos.com
 *.mwbsys.com
 cloud.malwarebytes.com
 my.malwarebytes.com
+*.mb-cosmos.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -1560,8 +1560,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2361,7 +2361,7 @@ api.foliofn.com
 research.gs.com
 *.folioclient.com
 *.gs.com
-*.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
