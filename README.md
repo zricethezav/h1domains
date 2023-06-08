@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 04:11:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 05:10:52 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -59,8 +59,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -96,9 +96,9 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
-*.hiltonmanage.com
 *.hiltonjapan.co.jp
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -946,9 +946,9 @@ rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 consensys.net
-trufflesuite.com
 activate.codefi.network
 staking-uat.codefi.network
+trufflesuite.com
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -1040,10 +1040,10 @@ gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
-*.snooguts.net
 meta-api.reddit.com
 new.reddit.com
 sh.reddit.com
+*.snooguts.net
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3139,8 +3139,8 @@ map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
