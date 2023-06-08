@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 09:12:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 10:11:57 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -860,8 +860,8 @@ capturingreality.com
 *.tinderwebstaging.com
 app.recordedfuture.com
 therecord.media
-api.recordedfuture.com
 hatching.io
+api.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
@@ -1057,8 +1057,8 @@ redditforbusiness.com
 matrix.redditspace.com
 mod.reddit.com
 www.reddit.com
-oauth.reddit.com
 accounts.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1634,8 +1634,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2180,9 +2180,9 @@ www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3139,8 +3139,8 @@ map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
