@@ -1050,9 +1050,9 @@ redditforbusiness.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 accounts.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1282,11 +1282,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
-careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 creatormarketplace.tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3133,8 +3133,8 @@ map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
