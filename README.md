@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 01:40:24 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 02:35:56 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1290,9 +1290,9 @@ tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3143,8 +3143,8 @@ playcanvas.com
 my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
@@ -3422,11 +3422,11 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-app.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
