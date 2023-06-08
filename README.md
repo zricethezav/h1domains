@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 00:23:45 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 01:40:24 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1047,18 +1047,18 @@ sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1967,10 +1967,10 @@ http://api.smartsheet.com/2.0
 admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
-*signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *authenticate.trustpilot.com
 *business.trustpilot.com
+*signup.business.trustpilot.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
