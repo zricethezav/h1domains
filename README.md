@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 02:37:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 03:16:28 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2908,8 +2908,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.pornhub.com
-www.modelhub.com
 www.redtube.com
+www.modelhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com

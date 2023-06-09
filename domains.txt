@@ -424,8 +424,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -1128,10 +1128,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1219,8 +1219,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -1361,8 +1361,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -2679,8 +2679,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4316,11 +4316,11 @@ logilife.logitech.com
 feedback.logitech.com
 external.logitech.com
 sync.logitech.com
-*.melonapp.com
 *.logitechmusic.com
 *.lucra.live
 www.logitechclub.com
 id.logi.com
+*.melonapp.com
 partner.logitech.com
 maintenance.logitech.com
 *vc.logitech.com
@@ -5165,8 +5165,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -7130,8 +7130,8 @@ newsletter.nextcloud.com
 www.thumbzilla.com
 *.tube8.com
 www.pornhub.com
-www.modelhub.com
 www.redtube.com
+www.modelhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -8120,8 +8120,8 @@ www.drive2.ru
 api.drive2.ru
 mailfoogae.appspot.com
 streaklinks.com
-www.streak.com
 api.streak.com
+www.streak.com
 www.streak.com
 api.streak.com
 mailfoogae.appspot.com

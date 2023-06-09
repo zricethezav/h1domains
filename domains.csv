@@ -425,8 +425,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,login.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -1129,10 +1129,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1220,8 +1220,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -1362,8 +1362,8 @@ fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,www.personalcreations.com,False
@@ -2680,8 +2680,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4317,11 +4317,11 @@ logitech,*.uesmartradio.com,False
 logitech,feedback.logitech.com,False
 logitech,external.logitech.com,False
 logitech,sync.logitech.com,True
-logitech,*.melonapp.com,False
 logitech,*.logitechmusic.com,False
 logitech,*.lucra.live,False
 logitech,www.logitechclub.com,False
 logitech,id.logi.com,True
+logitech,*.melonapp.com,False
 logitech,partner.logitech.com,False
 logitech,maintenance.logitech.com,False
 logitech,*vc.logitech.com,True
@@ -5166,8 +5166,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -7131,8 +7131,8 @@ nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
 pornhub,www.pornhub.com,True
-pornhub,www.modelhub.com,True
 pornhub,www.redtube.com,True
+pornhub,www.modelhub.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
@@ -8121,8 +8121,8 @@ drive_net_inc,www.drive2.ru,False
 drive_net_inc,api.drive2.ru,False
 streak_com,mailfoogae.appspot.com,False
 streak_com,streaklinks.com,False
-streak_com,www.streak.com,False
 streak_com,api.streak.com,False
+streak_com,www.streak.com,False
 streak_com,www.streak.com,False
 streak_com,api.streak.com,False
 streak_com,mailfoogae.appspot.com,False
