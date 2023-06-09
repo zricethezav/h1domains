@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 04:10:55 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 05:11:13 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1289,9 +1289,9 @@ partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1560,8 +1560,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2360,8 +2360,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.folioclient.com
-*.gs.com
 *.gsam.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3131,17 +3131,17 @@ code.playcanvas.com
 scan.snapchat.com
 playcanv.as
 store.playcanvas.com
-login.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
-business.snapchat.com
 my.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
