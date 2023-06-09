@@ -176,8 +176,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
-hilton,hilton.com,True
 hilton,*.hiltonjapan.co.jp,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -425,8 +425,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,login.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -779,8 +779,8 @@ avalara,*.track1099.com,False
 avalara,*.davosalestax.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
-avalara,*.inposia.com,False
 avalara,*.3ce.com,False
+avalara,*.inposia.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
@@ -1035,8 +1035,8 @@ fossil,*.watchstation.com,False
 fossil,fossilgroup.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
+fossil,www.fossil.co.jp,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -3202,10 +3202,6 @@ aktia,app.aktia.fi,False
 aktia,impakti.fi,False
 aktia,varainhoito.aktia.fi,False
 aktia,wealth-api.aktia.fi,False
-zego,*.zegocover.com,False
-zego,*.zego.com,False
-zego,*.zego.com,False
-zego,*.zegocover.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,blogs.zebra.com,False
 zebra_vdp,brand.zebra.com,False
@@ -3310,8 +3306,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -3330,9 +3326,9 @@ reddit,redditforbusiness.com,True
 reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
@@ -4391,8 +4387,8 @@ enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -4485,6 +4481,7 @@ watson_group,www.watsons.com.tw,True
 watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
 watson_group,app.watsons.com.tr,True
+watson_group,www.kruidvat.nl,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -7329,9 +7326,9 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
-shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8041,6 +8038,10 @@ logsnitch,mta-sts.logsnitch.com,False
 logsnitch,mta-sts.mail.logsnitch.com,False
 logsnitch,support.logsnitch.com,False
 logsnitch,www.logsnitch.com,False
+zego,*.zegocover.com,False
+zego,*.zego.com,False
+zego,*.zego.com,False
+zego,*.zegocover.com,False
 av,jobazbuka.ru,False
 av,*.azbukavkusa.ru,False
 av,*.av.ru,False

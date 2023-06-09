@@ -175,8 +175,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -424,8 +424,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -778,8 +778,8 @@ www.divvyhomes.com
 *.davosalestax.com
 *.avalara.io
 *.avalara.net
-*.inposia.com
 *.3ce.com
+*.inposia.com
 *.avalara.com
 *.avalara.com
 *.avalara.net
@@ -1034,8 +1034,8 @@ www.fossil.co.id
 fossilgroup.com
 *.cdgfossil.com
 *.fossil.vn
-www.fossil.co.jp
 *.misfit.com
+www.fossil.co.jp
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -3201,10 +3201,6 @@ app.aktia.fi
 impakti.fi
 varainhoito.aktia.fi
 wealth-api.aktia.fi
-*.zegocover.com
-*.zego.com
-*.zego.com
-*.zegocover.com
 downloads.zebra.com
 blogs.zebra.com
 brand.zebra.com
@@ -3309,8 +3305,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -3329,9 +3325,9 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -4390,8 +4386,8 @@ goerli.cloud.enjin.io
 jumpnet.cloud.enjin.io
 beam.enjin.io
 jumpnet.beam.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -4484,6 +4480,7 @@ www.watsons.com.tw
 app.marionnaud.ro
 www.marionnaud.sk
 app.watsons.com.tr
+www.kruidvat.nl
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -7328,9 +7325,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8040,6 +8037,10 @@ mta-sts.logsnitch.com
 mta-sts.mail.logsnitch.com
 support.logsnitch.com
 www.logsnitch.com
+*.zegocover.com
+*.zego.com
+*.zego.com
+*.zegocover.com
 jobazbuka.ru
 *.azbukavkusa.ru
 *.av.ru
