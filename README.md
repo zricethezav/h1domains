@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 07:12:35 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 08:15:56 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-relay.firefox.com
 getpocket.com
+relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1290,9 +1290,9 @@ tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 careers.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1764,8 +1764,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2425,8 +2425,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com
