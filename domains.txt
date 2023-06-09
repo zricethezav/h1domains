@@ -424,8 +424,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-login.stanford.edu
 www.stanford.edu
+login.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -3305,8 +3305,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -6132,9 +6132,9 @@ holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 www.globalhotelchoices.com
 vacations.travelimpressions.com
-login.www.vaxvacationaccess.com
 res.funjet.com
 www.cheapcaribbean.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -6150,8 +6150,8 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
-book.extraholidaysvacations.com
 www.beachbound.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
