@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 13:13:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 14:12:41 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -985,8 +985,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1286,8 +1286,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
@@ -1560,8 +1560,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2586,9 +2586,9 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
 *.semrush.com
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com

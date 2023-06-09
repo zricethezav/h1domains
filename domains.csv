@@ -1035,8 +1035,8 @@ fossil,*.watchstation.com,False
 fossil,fossilgroup.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,*.misfit.com,False
 fossil,www.fossil.co.jp,False
+fossil,*.misfit.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -1129,10 +1129,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2839,8 +2839,8 @@ elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
 elastic,*.swiftype.com,True
-elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
@@ -4273,8 +4273,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
+tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
@@ -4706,8 +4706,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5166,8 +5166,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -6727,9 +6727,9 @@ semrush,*.semrush.net,True
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,investors.semrush.com,False
-semrush,*.sellzone.com,True
 semrush,*.scatec.io,True
 semrush,*.semrush.com,True
+semrush,*.sellzone.com,True
 semrush,*.myinsights.io,True
 semrush,*.seoab.io,True
 semrush,*.semrush.com,True
