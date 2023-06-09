@@ -1035,8 +1035,8 @@ fossil,*.watchstation.com,False
 fossil,fossilgroup.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,*.misfit.com,False
 fossil,www.fossil.co.jp,False
+fossil,*.misfit.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -1195,13 +1195,13 @@ mars,*.myroyalcanin.ro,False
 mars,*.shoproyalcanin.com,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
-mars,*.royalcanin.be,False
 mars,*.individualis.com,False
 mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.myroyalcanin.gr,False
+mars,*.royalcanin.be,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2680,8 +2680,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4975,8 +4975,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7125,8 +7125,8 @@ nextcloud,nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
-pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
+pornhub,www.thumbzilla.com,True
 pornhub,www.pornhub.com,True
 pornhub,www.redtube.com,True
 pornhub,www.modelhub.com,True
@@ -7329,6 +7329,7 @@ shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -7338,6 +7339,7 @@ shopify,accounts.shopify.com,True
 shopify,shop.app,True
 shopify,shopify.plus,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,admin.shopify.com,True
 shopify,exchangemarketplace.com,True
 shopify,linkpop.com,True
 shopify,shopifyinbox.com,True

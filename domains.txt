@@ -1034,8 +1034,8 @@ www.fossil.co.id
 fossilgroup.com
 *.cdgfossil.com
 *.fossil.vn
-*.misfit.com
 www.fossil.co.jp
+*.misfit.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -1194,13 +1194,13 @@ banfield.us
 *.shoproyalcanin.com
 *.eukanubasportingdog.com
 *.royalcaninfoodfinder.com
-*.royalcanin.be
 *.individualis.com
 *.mivetshop.com.ar
 *.vetschoice.co.za
 *.banfield.com
 *.miroyalcanin.com.ar
 *.myroyalcanin.gr
+*.royalcanin.be
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -2679,8 +2679,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4974,8 +4974,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7124,8 +7124,8 @@ nextcloud.com
 download.nextcloud.com
 pushfeed.nextcloud.com
 newsletter.nextcloud.com
-www.thumbzilla.com
 *.tube8.com
+www.thumbzilla.com
 www.pornhub.com
 www.redtube.com
 www.modelhub.com
@@ -7328,6 +7328,7 @@ partners.shopify.com
 accounts.shopify.com
 shopify.plus
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7337,6 +7338,7 @@ accounts.shopify.com
 shop.app
 shopify.plus
 arrive-server.shopifycloud.com
+admin.shopify.com
 exchangemarketplace.com
 linkpop.com
 shopifyinbox.com

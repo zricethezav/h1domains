@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 19:11:13 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 20:11:12 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1765,8 +1765,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2906,8 +2906,8 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-www.thumbzilla.com
 *.tube8.com
+www.thumbzilla.com
 www.pornhub.com
 www.redtube.com
 www.modelhub.com
@@ -3108,6 +3108,7 @@ partners.shopify.com
 accounts.shopify.com
 shopify.plus
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3117,6 +3118,7 @@ accounts.shopify.com
 shop.app
 shopify.plus
 arrive-server.shopifycloud.com
+admin.shopify.com
 exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
