@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 12:12:18 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 13:13:01 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -96,9 +96,9 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
-*.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
+*.hiltonjapan.co.jp
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.bookabach.co.nz
 www.expedia.com
+www.bookabach.co.nz
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1035,8 +1035,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1055,9 +1055,9 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
+oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
