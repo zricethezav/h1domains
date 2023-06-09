@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 11:12:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 12:12:18 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1035,8 +1035,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1055,9 +1055,9 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgservices.com
@@ -2942,9 +2942,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 npmjs.org
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3236,8 +3236,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
