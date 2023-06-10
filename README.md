@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 10 14:10:36 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 10 15:10:51 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -97,8 +97,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -192,8 +192,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.prisma.fi
-www.s-pankki.fi
 tunnistus.s-ryhma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -863,8 +863,8 @@ therecord.media
 hatching.io
 api.recordedfuture.com
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1033,8 +1033,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1289,8 +1289,8 @@ tiktok.com
 business.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3237,8 +3237,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3427,8 +3427,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
