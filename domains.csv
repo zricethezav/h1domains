@@ -91,8 +91,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -425,8 +425,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,login.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,login.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -1129,10 +1129,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1220,8 +1220,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2680,8 +2680,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3080,8 +3080,6 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-myetherwallet,www.myetherwallet.com,True
-myetherwallet,www.myetherwallet.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
@@ -3306,8 +3304,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -4703,8 +4701,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5163,8 +5161,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -7328,8 +7326,8 @@ shopify,partners.shopify.com,True
 shopify,exchangemarketplace.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -7580,8 +7578,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
@@ -8024,6 +8022,8 @@ gojek,gosend.id,True
 gojek,go-tix.id,True
 epam,*.epam.com,False
 epam,*.epam.com,False
+myetherwallet,www.myetherwallet.com,True
+myetherwallet,www.myetherwallet.com,True
 logsnitch,flashpaper.logsnitch.com,False
 logsnitch,www.logsnitch.com,False
 logsnitch,api.logsnitch.com,False
