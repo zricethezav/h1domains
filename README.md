@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 10 19:09:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 10 20:10:29 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -97,8 +97,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -593,8 +593,8 @@ delta.app
 bullsheet.me
 etorox.com
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1289,8 +1289,8 @@ tiktok.com
 business.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2458,8 +2458,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2906,9 +2906,9 @@ id.getharvest.com
 getharvest.com
 *.tube8.com
 www.thumbzilla.com
-www.pornhub.com
 www.redtube.com
 www.modelhub.com
+www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3104,9 +3104,9 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3125,8 +3125,8 @@ msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
 businesshelp.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3237,8 +3237,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
