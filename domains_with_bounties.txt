@@ -53,8 +53,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -315,8 +315,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.bookabach.co.nz
 www.expedia.com
+www.bookabach.co.nz
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -844,8 +844,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1803,8 +1803,8 @@ docs.datastax.com
 astra.datastax.com
 *.nordvpn.com
 *.nordvpn.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -2217,8 +2217,8 @@ www.swiftfinancial.com
 *.xoom.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3099,8 +3099,8 @@ partners.shopify.com
 exchangemarketplace.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3231,8 +3231,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
