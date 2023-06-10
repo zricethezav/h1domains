@@ -90,8 +90,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -424,8 +424,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -550,8 +550,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -611,8 +611,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.bookabach.co.nz
 www.expedia.com
+www.bookabach.co.nz
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1198,9 +1198,9 @@ banfield.us
 *.mivetshop.com.ar
 *.vetschoice.co.za
 *.banfield.com
-*.miroyalcanin.com.ar
 *.royalcanin.be
 *.myroyalcanin.gr
+*.miroyalcanin.com.ar
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -4271,8 +4271,8 @@ tiktok.com
 business.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -4700,8 +4700,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -7324,9 +7324,9 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

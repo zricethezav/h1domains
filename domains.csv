@@ -91,8 +91,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -425,8 +425,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,login.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -551,8 +551,8 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -612,8 +612,8 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.carrentals.com,True
-expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -1199,9 +1199,9 @@ mars,*.individualis.com,False
 mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.banfield.com,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
 mars,*.myroyalcanin.gr,False
+mars,*.miroyalcanin.com.ar,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -4272,8 +4272,8 @@ tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -4701,8 +4701,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7325,9 +7325,9 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
