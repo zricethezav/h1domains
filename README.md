@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 11 08:10:44 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 11 09:10:18 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -97,8 +97,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-*.hiltonjapan.co.jp
 hilton.com
+*.hiltonjapan.co.jp
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1661,9 +1661,9 @@ www.alibabagroup.com
 www.mini.de
 configure.bmw.de
 www.bmw.de
-www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2988,9 +2988,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.zdev.net
-*.zomato.com
 winecellar.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3105,8 +3105,8 @@ partners.shopify.com
 exchangemarketplace.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3427,8 +3427,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
