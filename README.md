@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 11 05:10:40 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 11 06:08:56 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -59,8 +59,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1033,8 +1033,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -2218,13 +2218,13 @@ http://legacy.casper.com/admin
 legacy.casper.com
 matomo.cloud
 matomo.cloud
-py.pl
 www.swiftfinancial.com
 *.xoom.com
 swiftfinancial.com
 *.paylution.com
 *.braintreepayments.com
 *.braintree-api.com
+py.pl
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2563,8 +2563,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3104,9 +3104,9 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
-accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
