@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 11 09:10:18 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 11 10:09:21 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -3104,8 +3104,8 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3140,9 +3140,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-app.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3427,8 +3427,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

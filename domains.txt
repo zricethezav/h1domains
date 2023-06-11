@@ -1034,8 +1034,8 @@ www.fossil.co.id
 fossilgroup.com
 *.cdgfossil.com
 *.fossil.vn
-*.misfit.com
 www.fossil.co.jp
+*.misfit.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -1128,10 +1128,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -7324,8 +7324,8 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -7360,9 +7360,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-app.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -7777,8 +7777,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
