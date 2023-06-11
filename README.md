@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 11 19:08:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 11 20:10:36 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -357,8 +357,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 *.coralcube.io
 coralcube.io
 magiceden.io
@@ -1552,8 +1552,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.skybet.com
 *.betfair.com
+*.skybet.com
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgservices.com
@@ -3104,8 +3104,8 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3124,9 +3124,9 @@ create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
