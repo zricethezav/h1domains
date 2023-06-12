@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 21:11:34 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 22:10:41 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1697,8 +1697,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -2852,9 +2852,9 @@ www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.co.jp
-www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.com.cn
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
