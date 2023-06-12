@@ -1139,10 +1139,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1230,8 +1230,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -5158,8 +5158,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -5800,7 +5800,6 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 *equifax.com
-*equifax.sv
 *equifax.co.in
 *equifax.com.py
 *equifax.pt
@@ -5822,6 +5821,7 @@ wotctech.com
 *.datacredito.com.do
 JOBALINE.COM
 *.efficientforms.com
+*equifax.sv
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -7322,9 +7322,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

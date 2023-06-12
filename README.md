@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 19:10:45 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 20:11:23 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -3114,9 +3114,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
