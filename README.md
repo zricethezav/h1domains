@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 13:13:41 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 14:14:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -50,6 +50,8 @@ firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
+sync.services.mozilla.com
+push.services.mozilla.com
 aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
@@ -64,6 +66,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
+sync.services.mozilla.com
+push.services.mozilla.com
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
@@ -318,8 +322,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.expediagroup.com
-www.abritel.fr
 www.mrjet.se
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -859,8 +863,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1642,8 +1646,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.tmall.com
 *.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3105,16 +3109,16 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3149,8 +3153,8 @@ map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
