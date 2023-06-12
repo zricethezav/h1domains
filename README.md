@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 04:09:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 05:11:53 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -3101,12 +3101,12 @@ linkpop.com
 shop.app
 shopifyinbox.com
 *.shopifykloud.com
-partners.shopify.com
 exchangemarketplace.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
