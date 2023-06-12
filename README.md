@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 08:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 09:12:30 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1641,8 +1641,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2840,10 +2840,10 @@ secureui.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
-login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3095,17 +3095,17 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 shopifyinbox.com
 *.shopifykloud.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3427,8 +3427,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
