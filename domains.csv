@@ -91,8 +91,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -1129,10 +1129,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1220,8 +1220,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -4272,8 +4272,8 @@ tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -4701,8 +4701,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7325,8 +7325,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
