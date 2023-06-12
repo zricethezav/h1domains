@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 17:11:46 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 18:12:06 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -75,23 +75,17 @@ crash-stats.allizom.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
-hubs.mozilla.com
 developer.mozilla.org
 www.mozilla.org
 profiler.firefox.com
-uploads-prod.reticulum.io
 api.profiler.firefox.com
 vpn.mozilla.org
-hello.dev.myhubs.net
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-hubs.mozilla.com
-uploads-prod.reticulum.io
 api.profiler.firefox.com
-hello.dev.myhubs.net
 www.mozilla.org
 getpocket.com
 www.six-group.com
@@ -867,8 +861,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1575,8 +1569,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1779,8 +1773,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2923,8 +2917,8 @@ getharvest.com
 *.tube8.com
 www.thumbzilla.com
 www.modelhub.com
-www.pornhub.com
 www.redtube.com
+www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -2950,8 +2944,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3444,8 +3438,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
