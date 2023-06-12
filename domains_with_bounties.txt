@@ -100,8 +100,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -3143,8 +3143,8 @@ map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

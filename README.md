@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 12:13:45 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 13:13:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -106,8 +106,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -3149,8 +3149,8 @@ map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

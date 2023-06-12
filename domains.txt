@@ -184,8 +184,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -559,8 +559,8 @@ share.doppler.com
 *.IAWG.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -1137,10 +1137,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1228,8 +1228,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -5168,8 +5168,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 *.8x8.com
 connect.8x8.com
 user-profile.8x8.com
@@ -7369,8 +7369,8 @@ map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
