@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 16:13:32 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 17:11:46 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -48,7 +48,7 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-crash-stats.mozilla.org
+crash-stats.allizom.org
 merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
@@ -57,7 +57,7 @@ aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
 phabricator.services.mozilla.com
-crash-reports.mozilla.com
+crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -70,8 +70,8 @@ aus5.mozilla.org
 location.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-crash-reports.mozilla.com
-crash-stats.mozilla.org
+crash-reports.allizom.org
+crash-stats.allizom.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
@@ -325,9 +325,9 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
-www.expediagroup.com
 www.mrjet.se
 www.abritel.fr
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -610,8 +610,8 @@ delta.app
 bullsheet.me
 etorox.com
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -867,8 +867,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1115,9 +1115,9 @@ customers.mattermost.com
 *.chimecard.com
 *.chimepayments.com
 *.chime.com
-*.1debit.com
 *.chmfin.com
 *.chimebank.com
+*.1debit.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -3121,8 +3121,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
