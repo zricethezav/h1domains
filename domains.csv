@@ -137,8 +137,8 @@ shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -943,8 +943,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1216,9 +1216,9 @@ mars,*.individualis.com,False
 mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.banfield.com,False
-mars,*.royalcanin.be,False
 mars,*.myroyalcanin.gr,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.royalcanin.be,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2855,9 +2855,9 @@ elastic,*.found.io,True
 elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
-elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
@@ -3341,10 +3341,10 @@ reddit,redditforbusiness.com,True
 reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
-reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4313,11 +4313,11 @@ logitech,*.lukwerks.com,False
 logitech,*.logi.com,False
 logitech,*.ultimateearsuniversity.com,False
 logitech,*.crossclip.com,False
-logitech,*.logitech.com,False
 logitech,www.logitech.com.cn,True
 logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
+logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
 logitech,circle.logi.com,True
@@ -4977,8 +4977,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7076,8 +7076,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,id.getharvest.com,True
-harvest,getharvest.com,True
 harvest,harvestapp.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -7165,8 +7165,8 @@ github,gist.github.com,True
 github,*.github.net,True
 github,education.github.com,True
 github,npmjs.org,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

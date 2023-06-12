@@ -136,8 +136,8 @@ lifetouch.com
 www.borrowlenses.com
 jcpportraits.com
 snapfish.com
-admin.spoonflower.com
 shutterfly.com
+admin.spoonflower.com
 snapfish.com.au
 snapfish.co.nz
 snapfish.co.uk
@@ -942,8 +942,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1215,9 +1215,9 @@ banfield.us
 *.mivetshop.com.ar
 *.vetschoice.co.za
 *.banfield.com
-*.royalcanin.be
 *.myroyalcanin.gr
 *.miroyalcanin.com.ar
+*.royalcanin.be
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -2854,9 +2854,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 *.elastic.co
 www.elastic.co
@@ -3340,10 +3340,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4312,11 +4312,11 @@ outage.logitech.com
 *.logi.com
 *.ultimateearsuniversity.com
 *.crossclip.com
-*.logitech.com
 www.logitech.com.cn
 *.myharmony.com
 www.logitechg.com
 buy.logitech.com
+*.logitech.com
 logitechgchallenge.com
 jira.logitech.com
 circle.logi.com
@@ -4976,8 +4976,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7075,8 +7075,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 id.getharvest.com
-getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -7164,8 +7164,8 @@ gist.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

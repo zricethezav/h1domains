@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 15:13:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 16:13:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1001,9 +1001,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 *.elastic.co
 www.elastic.co
@@ -1070,10 +1070,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1779,8 +1779,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2913,8 +2913,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 id.getharvest.com
-getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -2958,8 +2958,8 @@ gist.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
