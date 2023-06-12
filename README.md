@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 14:14:32 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 15:13:21 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -48,6 +48,7 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 accounts.firefox.com
+crash-stats.mozilla.org
 merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
@@ -56,6 +57,7 @@ aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
 phabricator.services.mozilla.com
+crash-reports.mozilla.com
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -68,6 +70,8 @@ aus5.mozilla.org
 location.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+crash-reports.mozilla.com
+crash-stats.mozilla.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
@@ -863,8 +867,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1671,8 +1675,8 @@ www.alibabagroup.com
 *.1688.com
 www.alibabagroup.com
 www.mini.de
-configure.bmw.de
 www.bmw.de
+configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
@@ -2470,8 +2474,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2850,9 +2854,9 @@ www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
@@ -2918,9 +2922,9 @@ id.getharvest.com
 getharvest.com
 *.tube8.com
 www.thumbzilla.com
-www.redtube.com
 www.modelhub.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3116,9 +3120,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
