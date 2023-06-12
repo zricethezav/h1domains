@@ -2,8 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 10:13:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 11:12:18 UTC 2023)
 ```
+yourdomain.freshcaller.com
+yourdomain.freshservice.com
+yourdomain.freshdesk.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.freshservice.com
+http://yourdomain.myfreshworks.com/crm
+yourdomain.freshchat.com
+yourdomain.freshcaller.com
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
@@ -850,8 +859,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1168,8 +1177,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -1558,8 +1567,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1633,8 +1642,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3641,30 +3650,6 @@ training.epam.com
 *.emakina.fr
 *.emakina.us
 *.opensource.epam.com
-api.gojek.co.id
-gosend.id
-*.gojekapi.com
-www.gojek.com
-*.findaya.co.id
-*.findaya.com
-*.mab.co.id
-gocorp.gojek.com
-portal.gosend.id
-gofood.co.id
-go-tix.id
-*.gopayapi.com
-*.gojekapi.com
-*.gopayapi.com
-*.findaya.com
-*.findaya.co.id
-*.mab.co.id
-api.gojek.co.id
-www.gojek.com
-portal.gosend.id
-gocorp.gojek.com
-gofood.co.id
-gosend.id
-go-tix.id
 www.myetherwallet.com
 www.myetherwallet.com
 ota.helium.com
