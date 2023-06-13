@@ -316,8 +316,8 @@ abb,*.cylon.com,False
 abb,*.abb.com.cn,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.abb,False
 abb,*.abb.com,False
 abb,*.abb,False
@@ -1227,8 +1227,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -1538,8 +1538,8 @@ etoro_bbp,push-dn-hap.cloud.etoro.com,True
 etoro_bbp,push-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-real-hk-lightstreamer.cloud.etoro.com,True
 etoro_bbp,billing-pci.etoro.com,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etorologsapi.etoro.com,True
+etoro_bbp,bullsheet.me,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -4688,9 +4688,9 @@ flutteruki,*.msgsvc.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.betfair.it,True
-flutteruki,*.skybingo.com,True
 flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
+flutteruki,*.skybingo.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
@@ -6812,10 +6812,10 @@ grab,*.grabpay.com,True
 grab,*.grab-sure.com,True
 grab,p.grabtaxi.com,True
 grab,manage.grab.co,True
-grab,api.grabpay.com,True
 grab,xtramile.grabpay.com,True
 grab,*.grab.co,True
 grab,*.myteksi.com,True
+grab,api.grabpay.com,True
 grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
@@ -7338,10 +7338,10 @@ shopify,shopifyinbox.com,True
 snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,scan.snapchat.com,True
