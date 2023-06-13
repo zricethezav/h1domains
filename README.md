@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 07:13:13 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 08:14:16 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1062,8 +1062,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2355,8 +2355,8 @@ goldmansachsindices.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2664,8 +2664,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
-api.grabpay.com
 *.grab.com
+api.grabpay.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3156,8 +3156,8 @@ web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
-launch.playcanvas.com
 kit.snapchat.com
+launch.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
