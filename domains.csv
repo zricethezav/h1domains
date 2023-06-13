@@ -899,8 +899,8 @@ clarivate,bigchaulk.net,False
 clarivate,bigchaulk.org,False
 clarivate,bigchawk.com,False
 clarivate,bigchock.com,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -916,8 +916,8 @@ mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadolibre.cl,False
-mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
+mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
@@ -1113,11 +1113,11 @@ paystack-vdp,nigerialogos.com,False
 paystack-vdp,decodefintech.com,False
 apnic,* IPv6 addresses,False
 apnic,* IPv4 addresses,False
-apnic,*.seedalliance.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
 apnic,*.apnic.net,False
 apnic,aso.apnic.net,False
+apnic,*.seedalliance.net,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2273,6 +2273,8 @@ planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
+planetart,*.cafepress.com,False
 planetart,www.personalcreations.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
@@ -3495,13 +3497,13 @@ epicgames,*.jellychat.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.audicagame.com,True
 epicgames,harmonixmusic.com,True
-epicgames,*.easy.ac,True
 epicgames,fallguys.com,True
 epicgames,wonderboxdev.com,True
 epicgames,fortnite.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,*.popjam.com,True
 epicgames,capturingreality.com,True
+epicgames,*.easy.ac,True
 epicgames,*.psyonix.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.dropmix.com,True
@@ -3587,8 +3589,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4005,21 +4007,21 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
-cedars-sinai,*Huntingtonhealth.net,False
 cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hhapps.net,False
 cedars-sinai,*Hmhdr.com,False
+cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
+cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
 cedars-sinai,*Huntingtonhealthnetwork.net,False
 cedars-sinai,*Huntingtonhealthnetwork.com,False
-cedars-sinai,*hhcompliancewebline.com,False
-cedars-sinai,*huntingtonhospital.org,False
 cedars-sinai,*Hmtest.org,False
 cedars-sinai,*Hhec.org,False
+cedars-sinai,*hhcompliancewebline.com,False
+cedars-sinai,*huntingtonhospital.org,False
 cedars-sinai,*appofchoice.huntingtonhospital.com/,False
 cedars-sinai,*www.marinahospital.com,False
 cedars-sinai,*app.sourcedrive.org,False
@@ -5595,8 +5597,8 @@ flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True

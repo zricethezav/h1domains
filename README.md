@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 17:10:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 18:12:39 UTC 2023)
 ```
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -781,13 +781,13 @@ api.evernote.com
 *.unrealtournament.com
 *.audicagame.com
 harmonixmusic.com
-*.easy.ac
 fallguys.com
 wonderboxdev.com
 fortnite.com
 *.mediatonic.co.uk
 *.popjam.com
 capturingreality.com
+*.easy.ac
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com

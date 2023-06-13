@@ -898,8 +898,8 @@ bigchaulk.net
 bigchaulk.org
 bigchawk.com
 bigchock.com
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -915,8 +915,8 @@ www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadopago.com.co
 www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.com.mx
+www.mercadopago.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1112,11 +1112,11 @@ nigerialogos.com
 decodefintech.com
 * IPv6 addresses
 * IPv4 addresses
-*.seedalliance.net
 *.isif.asia
 *.apnic.foundation
 *.apnic.net
 aso.apnic.net
+*.seedalliance.net
 stats.labs.apnic.net
 nori.apnic.net
 rsync.apnic.net
@@ -2035,10 +2035,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2126,8 +2126,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2272,6 +2272,8 @@ www.simplytoimpress.com
 www.cafepress.com
 www.canvasworld.com
 www.gifts.com
+*.cafepress.com
+*.cafepress.com
 www.personalcreations.com
 www.simplytoimpress.com
 www.photoaffections.com
@@ -3494,13 +3496,13 @@ api.stage.evernote.com
 *.unrealtournament.com
 *.audicagame.com
 harmonixmusic.com
-*.easy.ac
 fallguys.com
 wonderboxdev.com
 fortnite.com
 *.mediatonic.co.uk
 *.popjam.com
 capturingreality.com
+*.easy.ac
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -3586,8 +3588,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4004,21 +4006,21 @@ www.urbanclap.com
 *csmc.edu
 *kerlanjobe.org
 *www.cshs.org
-*SANGABRIELVALLEYHEALTHECONNECT.NET
-*Huntingtonhealth.net
 *Hmh-direct.com
-*hhcareers.com
 *Hhapps.net
 *Hmhdr.com
+*SANGABRIELVALLEYHEALTHECONNECT.NET
+*Huntingtonhealth.net
+*hhcareers.com
 *Hmhrx.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
 *Huntingtonhealthnetwork.net
 *Huntingtonhealthnetwork.com
-*hhcompliancewebline.com
-*huntingtonhospital.org
 *Hmtest.org
 *Hhec.org
+*hhcompliancewebline.com
+*huntingtonhospital.org
 *appofchoice.huntingtonhospital.com/
 *www.marinahospital.com
 *app.sourcedrive.org
@@ -5594,8 +5596,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
