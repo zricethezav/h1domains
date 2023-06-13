@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 03:09:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 04:10:53 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -47,8 +47,8 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
-accounts.firefox.com
 crash-stats.allizom.org
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
@@ -202,9 +202,9 @@ api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
-www.prisma.fi
 tunnistus.s-ryhma.fi
 www.s-pankki.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -392,8 +392,8 @@ cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-*.goteleport.com
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -564,9 +564,9 @@ push-demo-hk-lightstreamer.cloud.etoro.com
 push-dn-hap.cloud.etoro.com
 push-lightstreamer.cloud.etoro.com
 push-real-hk-lightstreamer.cloud.etoro.com
-etorologsapi.etoro.com
 billing-pci.etoro.com
 bullsheet.me
+etorologsapi.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1065,8 +1065,8 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
@@ -1569,8 +1569,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2356,11 +2356,11 @@ goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.goldmansachs.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2916,9 +2916,9 @@ id.getharvest.com
 getharvest.com
 *.tube8.com
 www.thumbzilla.com
-www.modelhub.com
 www.redtube.com
 www.pornhub.com
+www.modelhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3441,8 +3441,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
