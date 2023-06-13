@@ -364,13 +364,9 @@ www.flights.com
 *.magiceden.io
 *.magiceden.dev
 magiceden.io
-*.coralcube.io
-coralcube.io
 magiceden.io
-coralcube.io
 *.magiceden.io
 *.magiceden.dev
-*.coralcube.io
 *.magiceden.workers.dev
 zerobounce.in
 zerobounce.net
@@ -2353,8 +2349,8 @@ goldmansachsindices.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 04:10:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 05:09:17 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -370,13 +370,9 @@ www.flights.com
 *.magiceden.io
 *.magiceden.dev
 magiceden.io
-*.coralcube.io
-coralcube.io
 magiceden.io
-coralcube.io
 *.magiceden.io
 *.magiceden.dev
-*.coralcube.io
 *.magiceden.workers.dev
 zerobounce.in
 zerobounce.net
@@ -2359,8 +2355,8 @@ goldmansachsindices.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
