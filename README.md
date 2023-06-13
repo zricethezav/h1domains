@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 16:15:30 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 17:10:23 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -560,9 +560,9 @@ push-demo-hk-lightstreamer.cloud.etoro.com
 push-dn-hap.cloud.etoro.com
 push-lightstreamer.cloud.etoro.com
 push-real-hk-lightstreamer.cloud.etoro.com
-billing-pci.etoro.com
 etorologsapi.etoro.com
 bullsheet.me
+billing-pci.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
