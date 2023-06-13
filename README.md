@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 08:14:16 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 09:09:48 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1558,9 +1558,9 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.betfair.com
 *.skybet.com
 *.skybingo.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1647,9 +1647,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2239,8 +2239,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -3018,8 +3018,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
