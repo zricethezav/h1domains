@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 11:11:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 12:12:42 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -50,9 +50,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 accounts.firefox.com
 merino.services.mozilla.com
-bugzilla.mozilla.org
 sync.services.mozilla.com
 push.services.mozilla.com
+bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
@@ -75,8 +75,8 @@ crash-stats.allizom.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2355,8 +2355,8 @@ goldmansachsindices.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
