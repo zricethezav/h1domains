@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 12:12:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 13:12:59 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1697,8 +1697,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.kindredext.net
 *.unibet.com
+*.kindredext.net
 *.ottokasino.com
 *.storspiller.com
 *.igame.com
@@ -1949,8 +1949,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 www.bookingholdings.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2655,8 +2655,8 @@ unikrn.ly
 static.unkrn.com
 grab.careers
 *.grabtaxi.com
-wiki.grab.com
 gifts.grab.com
+wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
 p.grabtaxi.com
@@ -2664,8 +2664,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3720,8 +3720,8 @@ https://645892349820.vulnerbug.com
 teamhelp.upserve.com
 *.vanillacommunities.com
 *.vanilladevelopment.com
-*.vanillastaging.com
 *.vanillaforums.com
+*.vanillastaging.com
 *.vanillacommunity.com
 *.vanillaforums.com
 *.vanillacommunities.com
