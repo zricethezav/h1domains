@@ -3589,8 +3589,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6057,8 +6057,8 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -6898,9 +6898,9 @@ capital-one,*.theunioncard.com,False
 capital-one,*.paribus.co,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone360.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -7719,10 +7719,10 @@ grab,*.grab.co,True
 grab,*.myteksi.com,True
 grab,api.grabpay.com,True
 grab,*.grab.com,True
-grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
 grab,*.myteksi.net,True
+grab,gamma.grab.co,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True

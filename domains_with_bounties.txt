@@ -851,8 +851,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2660,10 +2660,10 @@ xtramile.grabpay.com
 *.myteksi.com
 api.grabpay.com
 *.grab.com
-gamma.grab.co
 jira.grab.com
 kartaview.org
 *.myteksi.net
+gamma.grab.co
 *.myteksi.com
 *.myteksi.net
 *.grab.com
