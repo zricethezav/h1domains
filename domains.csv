@@ -1282,8 +1282,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -1462,8 +1462,8 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -1833,8 +1833,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2278,9 +2278,9 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
-planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -3603,8 +3603,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5611,8 +5611,8 @@ flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -8689,8 +8689,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
