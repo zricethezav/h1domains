@@ -102,8 +102,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -555,8 +555,8 @@ push-dn-hap.cloud.etoro.com
 push-lightstreamer.cloud.etoro.com
 push-real-hk-lightstreamer.cloud.etoro.com
 etorologsapi.etoro.com
-bullsheet.me
 billing-pci.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -851,8 +851,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
