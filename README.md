@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 19:11:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 20:11:42 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -47,8 +47,8 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
-crash-stats.allizom.org
 accounts.firefox.com
+crash-stats.allizom.org
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -276,8 +276,8 @@ cloud8.8x8.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -952,10 +952,10 @@ federalist-docs.18f.gov
 rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
-activate.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
