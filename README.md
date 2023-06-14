@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 04:10:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 05:10:51 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -320,8 +320,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.mrjet.se
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1974,9 +1974,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *emailsignature.trustpilot.com
-*authenticate.trustpilot.com
 *business.trustpilot.com
 *signup.business.trustpilot.com
+*authenticate.trustpilot.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
