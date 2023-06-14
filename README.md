@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 05:10:51 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 06:11:38 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -108,8 +108,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -472,8 +472,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
+payroll.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -539,8 +539,8 @@ cashier-src.etoro.com
 kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
-wallet.etoro.com
 etoropartners.com
+wallet.etoro.com
 api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1845,9 +1845,9 @@ vroid.com
 hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 booth.pm
 accounts.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
