@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 16:12:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 17:11:57 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -47,8 +47,8 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
-crash-stats.allizom.org
 accounts.firefox.com
+crash-stats.allizom.org
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3145,11 +3145,11 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-www.bitmoji.com
 my.snapchat.com
 app.snapchat.com
 business.snapchat.com
 playcanvas.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
