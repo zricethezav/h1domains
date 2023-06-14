@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 11:11:10 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 12:13:03 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1397,6 +1397,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 app.watsons.com.tr
 www.kruidvat.nl
+www10.watsons.com.my
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1505,10 +1506,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.sonyentertainmentnetwork.com
 store.playstation.com
 *.api.playstation.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -3434,8 +3435,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
