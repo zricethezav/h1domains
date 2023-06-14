@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 07:12:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 08:12:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -560,9 +560,9 @@ push-demo-hk-lightstreamer.cloud.etoro.com
 push-dn-hap.cloud.etoro.com
 push-lightstreamer.cloud.etoro.com
 push-real-hk-lightstreamer.cloud.etoro.com
-etorologsapi.etoro.com
 billing-pci.etoro.com
 bullsheet.me
+etorologsapi.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2172,10 +2172,10 @@ b2b.tvgnetwork.com
 login.pabets.tvg.com
 service.tvg.com
 www.4njbets.com
-com.fanduel.android.live
 login.tvg.com
 pabets.tvg.com
 fanduel.design
+com.fanduel.android.live
 login-4ngbets.us.betfair.com
 fdbox.net
 login-ia.tvg.com
@@ -2569,8 +2569,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
