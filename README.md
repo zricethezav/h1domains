@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 06:11:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 07:12:39 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -108,8 +108,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -332,8 +332,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.bookabach.co.nz
-www.expedia.com
 www.carrentals.com
+www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -472,8 +472,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
