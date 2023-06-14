@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 03:11:10 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 04:10:57 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1665,8 +1665,8 @@ www.alibabagroup.com
 *.1688.com
 www.alibabagroup.com
 www.mini.de
-www.bmw.de
 configure.bmw.de
+www.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
@@ -3018,8 +3018,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

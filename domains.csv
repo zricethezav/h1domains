@@ -1115,8 +1115,8 @@ apnic,* IPv6 addresses,False
 apnic,* IPv4 addresses,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
-apnic,aso.apnic.net,False
 apnic,*.seedalliance.net,False
+apnic,aso.apnic.net,False
 apnic,*.apnic.net,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
@@ -3387,8 +3387,8 @@ inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
-inmobi,*.glance.com,False
 inmobi,*.shop101.com,False
+inmobi,*.glance.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
 inmobi,*.glance.app,False
@@ -4021,21 +4021,21 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*Hhapps.net,False
-cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
 cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*Hmh-direct.com,False
 cedars-sinai,*hhcareers.com,False
+cedars-sinai,*Hhapps.net,False
+cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
 cedars-sinai,*Huntingtonhealthnetwork.net,False
 cedars-sinai,*Huntingtonhealthnetwork.com,False
-cedars-sinai,*Hmtest.org,False
-cedars-sinai,*Hhec.org,False
 cedars-sinai,*hhcompliancewebline.com,False
 cedars-sinai,*huntingtonhospital.org,False
+cedars-sinai,*Hmtest.org,False
+cedars-sinai,*Hhec.org,False
 cedars-sinai,*appofchoice.huntingtonhospital.com/,False
 cedars-sinai,*www.marinahospital.com,False
 cedars-sinai,*app.sourcedrive.org,False
@@ -5737,8 +5737,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
 alibaba,www.alibabagroup.com,True
 bmwgroup,www.mini.de,True
-bmwgroup,www.bmw.de,True
 bmwgroup,configure.bmw.de,True
+bmwgroup,www.bmw.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 bmwgroup,www.bmw-motorrad.de,True
@@ -8141,8 +8141,8 @@ deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
 deriv,api.deriv.com,True
 deriv,smarttrader.deriv.com,True
-deriv,*.deriv.com,True
 deriv,*.binary.com,True
+deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
@@ -8689,8 +8689,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
