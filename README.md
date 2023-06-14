@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 13:12:37 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 14:10:58 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -533,7 +533,6 @@ sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 www.etoro.com
-aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -541,6 +540,7 @@ tapi-demo.etoro.com
 uapi-front.etoro.com
 etoropartners.com
 wallet.etoro.com
+aggregator.etoro.com
 api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
@@ -1885,8 +1885,8 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-www.forescout.com
 updates.forescout.com
+www.forescout.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 datapod-1-100-druid-query.development.forescoutcloud.net
 www.forescout.com
@@ -3147,9 +3147,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-playcanvas.com
 app.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
