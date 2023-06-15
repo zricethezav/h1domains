@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 03:11:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 04:10:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -472,8 +472,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -1703,9 +1703,9 @@ maria.casino
 *.ottokasino.com
 *.storspiller.com
 *.igame.com
-www.32red.com
 *.vladcazino.ro
 *.casinohuone.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3147,9 +3147,9 @@ store.snapchat.com
 map.snapchat.com
 my.snapchat.com
 app.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
