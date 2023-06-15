@@ -1941,8 +1941,8 @@ fossilgroup.com
 *.fossil.vn
 www.fossil.co.jp
 *.misfit.com
-*.watchstation.com
 www.skagenglobal.com
+*.watchstation.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -2126,8 +2126,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr

@@ -1942,8 +1942,8 @@ fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
-fossil,*.watchstation.com,False
 fossil,www.skagenglobal.com,False
+fossil,*.watchstation.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
