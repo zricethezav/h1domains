@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 14:11:37 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 15:12:44 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -388,8 +388,8 @@ cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-*.goteleport.com
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3320,9 +3320,9 @@ donations.livestream.com
 onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
-app.greenhouse.io
 jss.greenhouse.io
 boards.greenhouse.io
+app.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
