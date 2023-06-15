@@ -1562,6 +1562,12 @@ faucet.polygon.technology
 *.sbgorigin.com
 *.skybet.co.uk
 *.skybet.net
+*.betfair.se
+*.skybetservices.com
+*.skypoker.com
+*.platformservices.io
+*.sbgtest.net
+*.betfair.ro
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -3105,9 +3111,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 16:11:24 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 17:09:50 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1568,6 +1568,12 @@ faucet.polygon.technology
 *.sbgorigin.com
 *.skybet.co.uk
 *.skybet.net
+*.betfair.se
+*.skybetservices.com
+*.skypoker.com
+*.platformservices.io
+*.sbgtest.net
+*.betfair.ro
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -3111,9 +3117,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
