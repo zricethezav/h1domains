@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 13:13:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 14:11:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2593,8 +2593,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.semrush.com
 *.sellzone.com
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3437,8 +3437,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
