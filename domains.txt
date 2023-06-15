@@ -1832,8 +1832,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1893,9 +1893,9 @@ zentra.co
 www.normbau.de
 www.poloniex.com
 m.poloniex.com
-api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
+api.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -2035,10 +2035,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2126,8 +2126,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2277,10 +2277,10 @@ iseeme.com
 *.photoaffections.com
 www.canvasworld.com
 *.personalcreations.com
+*.cafepress.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -2435,7 +2435,6 @@ uapi-front.etoro.com
 etoropartners.com
 wallet.etoro.com
 aggregator.etoro.com
-api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -2444,6 +2443,7 @@ streams.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -3604,8 +3604,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5613,8 +5613,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6915,8 +6915,8 @@ press.priceline.com
 *.bluetarp.com
 *.capitalone360.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -7054,7 +7054,6 @@ res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 holidays-hk.fijiairways.com
-vacations.velasvallarta.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
@@ -7062,6 +7061,7 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 www.beachbound.com
+vacations.velasvallarta.com
 book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
@@ -7347,9 +7347,9 @@ cloud.rocket.chat
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
 *.foliofn.com
+*.ayco.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com

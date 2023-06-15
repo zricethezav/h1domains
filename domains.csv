@@ -1833,8 +1833,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1894,9 +1894,9 @@ allegion,zentra.co,False
 allegion,www.normbau.de,False
 poloniex,www.poloniex.com,True
 poloniex,m.poloniex.com,True
-poloniex,api.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
+poloniex,api.poloniex.com,True
 poloniex,www.poloniex.com,True
 poloniex,api.poloniex.com,True
 poloniex,m.poloniex.com,True
@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2278,10 +2278,10 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2436,7 +2436,6 @@ etoro_bbp,uapi-front.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,wallet.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
-etoro_bbp,api.etoro.com,True
 etoro_bbp,billing.etoro.com,True
 etoro_bbp,push-hap.cloud.etoro.com,True
 etoro_bbp,push-n-hap.cloud.etoro.com,True
@@ -2445,6 +2444,7 @@ etoro_bbp,streams.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,charts.etoro.com,True
 etoro_bbp,etorox.com,True
+etoro_bbp,api.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
@@ -3605,8 +3605,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5614,8 +5614,8 @@ flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -6916,8 +6916,8 @@ capital-one,*.paribus.co,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -7055,7 +7055,6 @@ hyatt,res.breathlessresorts.com,True
 hyatt,res.skyteam.com,True
 hyatt,res.vacations.seaworld.com,True
 hyatt,holidays-hk.fijiairways.com,True
-hyatt,vacations.velasvallarta.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,shop.wyndhamvacationownership.trisept.travel,True
 hyatt,vacations.outrigger.com,True
@@ -7063,6 +7062,7 @@ hyatt,vacations.united.com,True
 hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
 hyatt,www.beachbound.com,True
+hyatt,vacations.velasvallarta.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
@@ -7348,9 +7348,9 @@ goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.foliofn.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.gspublishing.com,True

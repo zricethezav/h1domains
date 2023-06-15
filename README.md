@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 11:11:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 12:11:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -414,9 +414,9 @@ tools.deribit.com
 metrics.deribit.com
 www.poloniex.com
 m.poloniex.com
-api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
+api.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -541,7 +541,6 @@ uapi-front.etoro.com
 etoropartners.com
 wallet.etoro.com
 aggregator.etoro.com
-api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -550,6 +549,7 @@ streams.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2063,7 +2063,6 @@ res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 holidays-hk.fijiairways.com
-vacations.velasvallarta.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
@@ -2071,6 +2070,7 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 www.beachbound.com
+vacations.velasvallarta.com
 book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
@@ -2344,9 +2344,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
 *.foliofn.com
+*.ayco.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
