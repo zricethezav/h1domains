@@ -1056,8 +1056,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1681,8 +1681,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

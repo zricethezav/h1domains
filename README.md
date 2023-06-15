@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 20:09:40 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 21:11:03 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1062,8 +1062,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1687,8 +1687,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
@@ -3440,8 +3440,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
