@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 06:11:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 07:12:17 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1296,8 +1296,8 @@ tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1847,8 +1847,8 @@ hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 booth.pm
-accounts.pixiv.net
 *.fanbox.cc
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
