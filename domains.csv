@@ -979,8 +979,8 @@ oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
-mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
+mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
@@ -2280,8 +2280,8 @@ planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2311,8 +2311,8 @@ oanda,*.tmsbrokers.com,False
 recargapay,api.recarga.com,True
 recargapay,api.recarga.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,payroll.razorpay.com,True
 razorpay,api.razorpay.com,True
+razorpay,payroll.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -8275,8 +8275,8 @@ snapchat,map.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
