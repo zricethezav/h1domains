@@ -1056,8 +1056,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3104,8 +3104,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 exchangemarketplace.com
@@ -3146,10 +3146,10 @@ snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
 my.snapchat.com
-app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

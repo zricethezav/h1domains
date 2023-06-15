@@ -1942,8 +1942,8 @@ fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
-fossil,*.watchstation.com,False
 fossil,www.skagenglobal.com,False
+fossil,*.watchstation.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -4252,8 +4252,8 @@ reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6080,8 +6080,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -8238,8 +8238,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
@@ -8280,10 +8280,10 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
