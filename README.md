@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 12:11:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 13:13:53 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -248,8 +248,8 @@ platform.8x8.com
 voapi.8x8.com
 *.8x8staging.com
 user-profile.8x8.com
-sso.8x8pilot.com
 sms.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2028,7 +2028,6 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-res.blueskytours.globalbookingsolutions.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
@@ -2040,6 +2039,7 @@ www.wynnvacations.com
 res.universalorlandovacations.com
 book.booktandl.com
 book.beachbound.com
+res.blueskytours.globalbookingsolutions.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
