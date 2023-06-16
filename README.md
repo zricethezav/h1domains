@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 17:12:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 18:13:15 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1094,8 +1094,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2059,8 +2059,8 @@ www.globalhotelchoices.com
 vacations.travelimpressions.com
 res.funjet.com
 www.cheapcaribbean.com
-login.www.vaxvacationaccess.com
 vacations.hotelcasavelas.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
@@ -3118,8 +3118,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

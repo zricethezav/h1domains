@@ -1461,8 +1461,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -1832,8 +1832,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2035,10 +2035,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2126,8 +2126,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2517,8 +2517,8 @@ www.alohi.com
 *.cartus.com
 *.bhgre.*
 *.leadrouter.com
-*.century21.*
 *.era.com
+*.century21.*
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
@@ -4285,8 +4285,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 *.on-running.com
 *.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -7051,8 +7051,8 @@ www.globalhotelchoices.com
 vacations.travelimpressions.com
 res.funjet.com
 www.cheapcaribbean.com
-login.www.vaxvacationaccess.com
 vacations.hotelcasavelas.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
@@ -8245,8 +8245,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
