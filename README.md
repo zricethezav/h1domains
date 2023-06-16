@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 08:11:56 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 09:11:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2062,7 +2062,6 @@ www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
 vacations.hotelcasavelas.com
 world.hyatt.com
-roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
 res.breathlessresorts.com
@@ -2078,6 +2077,7 @@ www.blueskytours.com
 www.beachbound.com
 book.extraholidaysvacations.com
 vacations.velasvallarta.com
+roominglist.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
