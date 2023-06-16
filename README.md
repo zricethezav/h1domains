@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 13:12:42 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 14:12:13 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1012,8 +1012,8 @@ elastic-cloud.com
 *.stripe.com
 *.link.co
 *.recko.io
-js.stripe.com
 *.touchtechpayments.com
+js.stripe.com
 app.taxjar.com
 *.reckostaging.com
 api.taxjar.com
@@ -1040,8 +1040,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
