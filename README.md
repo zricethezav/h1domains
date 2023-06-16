@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 03:09:11 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 04:10:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3137,16 +3137,16 @@ create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
 playcanv.as
 store.playcanvas.com
-login.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
