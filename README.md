@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 16:11:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 17:12:04 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -412,8 +412,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-www.poloniex.com
 m.poloniex.com
+www.poloniex.com
 api2.poloniex.com
 public.poloniex.com
 api.poloniex.com
@@ -1557,20 +1557,20 @@ faucet.polygon.technology
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
-*.betfair.it
 *.skybingo.com
 *.skybet.com
 *.sportinglife.com
 *.skyvegas.com
 *.betfair.com
+*.betfair.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
 *.skybet.net
-*.betfair.se
 *.skybetservices.com
 *.skypoker.com
+*.betfair.se
 *.platformservices.io
 *.sbgtest.net
 *.betfair.ro
@@ -2671,8 +2671,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 jira.grab.com
 *.myteksi.net
 gamma.grab.co
