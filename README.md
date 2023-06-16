@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 01:37:17 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 02:30:23 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1046,9 +1046,9 @@ m.reddit.com
 strapi.reddit.com
 *.redditinc.com
 meta-api.reddit.com
-new.reddit.com
 sh.reddit.com
 *.snooguts.net
+new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
@@ -1336,8 +1336,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1784,10 +1784,10 @@ www.goodrx.com
 *.ra.roblox.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 *.dev.lifeomic.com
+api.dev.lifeomic.com
 apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
