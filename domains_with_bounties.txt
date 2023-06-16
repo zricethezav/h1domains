@@ -2240,8 +2240,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2344,9 +2344,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.goldman.com
 *.foliofn.com
 *.ayco.com
+*.goldman.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com

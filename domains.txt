@@ -1941,8 +1941,8 @@ fossilgroup.com
 *.fossil.vn
 www.fossil.co.jp
 *.misfit.com
-www.skagenglobal.com
 *.watchstation.com
+www.skagenglobal.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -7240,8 +7240,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -7354,9 +7354,9 @@ cloud.rocket.chat
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.goldman.com
 *.foliofn.com
 *.ayco.com
+*.goldman.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com

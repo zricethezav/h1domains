@@ -1942,8 +1942,8 @@ fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
-fossil,www.skagenglobal.com,False
 fossil,*.watchstation.com,False
+fossil,www.skagenglobal.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -7241,8 +7241,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
@@ -7355,9 +7355,9 @@ goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.gspublishing.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 02:30:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 03:09:11 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2246,8 +2246,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2350,9 +2350,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.goldman.com
 *.foliofn.com
 *.ayco.com
+*.goldman.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
