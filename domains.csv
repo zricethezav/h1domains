@@ -1739,7 +1739,6 @@ resmed,resmed.hk,False
 resmed,resmed.de,False
 resmed,resmed-healthcare.de,False
 resmed,myair.resmed.eu,False
-resmed,onlinestore.resmed.com,False
 resmed,u-sleep.umbian.com,False
 resmed,narval-easy.resmed.eu,False
 resmed,resmed.mx,False
@@ -1750,6 +1749,7 @@ resmed,resmed.la,False
 resmed,propellerhealth.com,False
 resmed,airview.resmed.eu,False
 resmed,mealtracker.com,False
+resmed,onlinestore.resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
@@ -1833,8 +1833,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3606,8 +3606,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -7241,8 +7241,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
@@ -7744,9 +7744,9 @@ grab,*.myteksi.com,True
 grab,api.grabpay.com,True
 grab,*.grab.com,True
 grab,jira.grab.com,True
-grab,kartaview.org,True
 grab,*.myteksi.net,True
 grab,gamma.grab.co,True
+grab,kartaview.org,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -8128,8 +8128,8 @@ zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

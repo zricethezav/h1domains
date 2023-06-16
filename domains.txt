@@ -1738,7 +1738,6 @@ resmed.hk
 resmed.de
 resmed-healthcare.de
 myair.resmed.eu
-onlinestore.resmed.com
 u-sleep.umbian.com
 narval-easy.resmed.eu
 resmed.mx
@@ -1749,6 +1748,7 @@ resmed.la
 propellerhealth.com
 airview.resmed.eu
 mealtracker.com
+onlinestore.resmed.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -1832,8 +1832,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2035,10 +2035,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -3605,8 +3605,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -7240,8 +7240,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -7743,9 +7743,9 @@ xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 jira.grab.com
-kartaview.org
 *.myteksi.net
 gamma.grab.co
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -8127,8 +8127,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
