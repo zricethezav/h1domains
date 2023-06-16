@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 07:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 08:11:56 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -3250,8 +3250,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
