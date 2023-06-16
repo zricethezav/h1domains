@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 15:12:00 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 16:11:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -105,8 +105,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 *.hilton.com.tr
-hiltonlocalbiz.com
 hiltonbusinessonline.com
+hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -736,9 +736,9 @@ pro.opensea.io
 opensea.io
 pro.opensea.io
 analytics.krisp.ai
-account.krisp.ai
 upld.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -987,8 +987,8 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 elastic-cloud.com
-*.found.io
 *.elastic-cloud.com
+*.found.io
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
@@ -1051,9 +1051,9 @@ sh.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-*.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -2471,8 +2471,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2599,8 +2599,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.sellzone.com
 *.semrush.com
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
