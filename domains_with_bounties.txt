@@ -2665,8 +2665,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 jira.grab.com
 *.myteksi.net
 gamma.grab.co
