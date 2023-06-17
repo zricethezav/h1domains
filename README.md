@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 10:10:40 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 17 11:11:21 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -533,7 +533,6 @@ sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 www.etoro.com
-cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
 tapi-demo.etoro.com
@@ -541,6 +540,7 @@ uapi-front.etoro.com
 etoropartners.com
 wallet.etoro.com
 aggregator.etoro.com
+cashier.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -1181,8 +1181,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1234,9 +1234,9 @@ world.hey.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
-www.cloud.com
 *.browser.cloud.com
 accounts.cloud.com
+www.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
