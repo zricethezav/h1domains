@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 13:10:15 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 17 14:10:01 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1528,9 +1528,9 @@ mapper.polygon.technology
 wallet.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
-watchgod.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
+watchgod.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology

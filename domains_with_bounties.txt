@@ -1522,9 +1522,9 @@ mapper.polygon.technology
 wallet.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
-watchgod.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
+watchgod.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
