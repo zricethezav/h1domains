@@ -3110,10 +3110,10 @@ shopifyinbox.com
 exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
