@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 06:09:25 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 17 07:10:10 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2523,9 +2523,9 @@ secure.plaid.com
 demo.plaid.com
 dashboard.plaid.com
 production.plaid.com
-my.plaid.com
 plaid.com
 api.blockscore.com
+my.plaid.com
 secure.quovo.com
 cdn.plaid.com
 manage.blockscore.com
