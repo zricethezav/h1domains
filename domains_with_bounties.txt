@@ -851,8 +851,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2897,8 +2897,8 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp-support.com
 *.yelp.com
+*.yelp-support.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
