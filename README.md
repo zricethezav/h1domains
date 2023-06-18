@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 18 12:11:56 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 18 13:10:38 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -220,8 +220,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1789,9 +1789,9 @@ ga4gh.dev.lifeomic.com
 *.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2371,8 +2371,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
 *.folioinstitutional.com
-*.gs.com
 *.gsam.com
+*.gs.com
 *.folioclient.com
 *.goldmansachs.com
 *.gs.com
@@ -3416,8 +3416,8 @@ paradex.io
 pro.coinbase.com
 custody.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
