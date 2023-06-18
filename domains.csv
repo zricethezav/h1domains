@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3900,8 +3900,8 @@ stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,api.taxjar.com,True
-stripe,api.stripe.com,True
 stripe,*.getbouncer.com,True
+stripe,api.stripe.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -5586,9 +5586,9 @@ trycourier,www.courier.com,False
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
-polygon-technology,wallet.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
+polygon-technology,wallet.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
 polygon-technology,open-api.polygon.technology,True
 polygon-technology,watchgod.polygon.technology,True
@@ -6092,8 +6092,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -8254,8 +8254,8 @@ shopify,shop.app,True
 shopify,*.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,exchangemarketplace.com,True
-shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
+shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
@@ -8736,8 +8736,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
