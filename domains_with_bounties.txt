@@ -542,8 +542,8 @@ kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-api.etoro.com
 streams.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -2366,7 +2366,7 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.folioclient.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
