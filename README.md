@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 18 11:10:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 18 12:11:56 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -220,8 +220,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -319,9 +319,9 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
-www.mrjet.se
 www.expediagroup.com
 www.abritel.fr
+www.mrjet.se
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -547,8 +547,8 @@ push-n-hap.cloud.etoro.com
 kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
-api.etoro.com
 etorox.com
+api.etoro.com
 streams.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
@@ -3114,8 +3114,8 @@ shop.app
 *.shopifycloud.com
 shopifyinbox.com
 exchangemarketplace.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
