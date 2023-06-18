@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 23:10:10 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 18 00:24:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1710,8 +1710,8 @@ maria.casino
 *.storspiller.com
 *.igame.com
 *.vladcazino.ro
-*.casinohuone.com
 www.32red.com
+*.casinohuone.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2671,8 +2671,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
-api.grabpay.com
 *.grab.com
+api.grabpay.com
 jira.grab.com
 *.myteksi.net
 gamma.grab.co
@@ -3114,8 +3114,8 @@ shop.app
 *.shopifycloud.com
 shopifyinbox.com
 exchangemarketplace.com
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopify.plus
 accounts.shopify.com
 admin.shopify.com
