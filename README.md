@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 18 17:10:03 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 18 18:09:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -548,8 +548,8 @@ kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-api.etoro.com
 streams.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3114,8 +3114,8 @@ shop.app
 *.shopifycloud.com
 shopifyinbox.com
 exchangemarketplace.com
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
