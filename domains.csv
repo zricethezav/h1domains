@@ -1833,8 +1833,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2279,9 +2279,9 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2443,8 +2443,8 @@ etoro_bbp,kyc.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,charts.etoro.com,True
 etoro_bbp,etorox.com,True
-etoro_bbp,streams.etoro.com,True
 etoro_bbp,api.etoro.com,True
+etoro_bbp,streams.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
@@ -3517,10 +3517,10 @@ epicgames,harmonixmusic.com,True
 epicgames,fallguys.com,True
 epicgames,wonderboxdev.com,True
 epicgames,fortnite.com,True
-epicgames,*.mediatonic.co.uk,True
 epicgames,*.popjam.com,True
 epicgames,*.easy.ac,True
 epicgames,capturingreality.com,True
+epicgames,*.mediatonic.co.uk,True
 epicgames,*.psyonix.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.dropmix.com,True
@@ -3606,8 +3606,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6092,8 +6092,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -7389,7 +7389,7 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.gs.de,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -8254,8 +8254,8 @@ shopify,shop.app,True
 shopify,*.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,exchangemarketplace.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
