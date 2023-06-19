@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 18:11:26 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 19:10:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -878,8 +878,8 @@ therecord.media
 hatching.io
 api.recordedfuture.com
 securitytrails.com
-geminiadvisory.io
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1069,9 +1069,9 @@ redditforbusiness.com
 *.reddithelp.com
 oauth.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 www.reddit.com
 mod.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2336,8 +2336,8 @@ staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
 staging-admin.shipt.com
-www.shipt.com
 api.shipt.com
+www.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3474,8 +3474,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

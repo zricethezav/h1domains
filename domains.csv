@@ -922,8 +922,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
-mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -2136,8 +2136,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2286,11 +2286,11 @@ planetart,iseeme.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
-planetart,*.canvasworld.com,False
-planetart,*.personalcreations.com,False
-planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
+planetart,www.gifts.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -3615,8 +3615,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3628,8 +3628,8 @@ recorded-future,therecord.media,True
 recorded-future,hatching.io,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,securitytrails.com,True
-recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,geminiadvisory.io,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -4260,9 +4260,9 @@ reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6101,8 +6101,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -6769,7 +6769,6 @@ equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
-equifax,*equifax.co.uk,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
 equifax,*.wageverify.com,False
@@ -6795,6 +6794,7 @@ equifax,*.mercury.com.au,False
 equifax,*.datacredito2.com,False
 equifax,*.efficienthire.com,False
 equifax,*equifax.co.nz,False
+equifax,*equifax.co.uk,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,www.equifax.com,False
@@ -7348,8 +7348,8 @@ shipt,*.shipt.com,True
 shipt,app.shipt.com,True
 shipt,shoppingcart.shipt.com,True
 shipt,staging-admin.shipt.com,True
-shipt,www.shipt.com,True
 shipt,api.shipt.com,True
+shipt,www.shipt.com,True
 shipt,*.shipt.com,True
 shipt,app.shipt.com,True
 shipt,api.shipt.com,True
@@ -8745,8 +8745,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
