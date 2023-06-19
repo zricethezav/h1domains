@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 09:10:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 10:12:17 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -228,8 +228,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1003,8 +1003,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1243,8 +1243,8 @@ sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
 accounts.cloud.com
-www.cloud.com
 *.browser.cloud.com
+www.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -2380,8 +2380,8 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
+*.gs.de
 *.gs.com
-*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2584,8 +2584,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
