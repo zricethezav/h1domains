@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 18 23:10:17 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 00:23:58 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1336,8 +1336,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2372,7 +2372,7 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.folioclient.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -2856,8 +2856,8 @@ www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.co.jp
 www.starbucks.co.kr
-login.starbucks.co.jp
 www.starbucks.com.cn
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
