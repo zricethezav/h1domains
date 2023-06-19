@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 06:11:40 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 07:11:58 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -870,8 +870,8 @@ therecord.media
 hatching.io
 api.recordedfuture.com
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -995,8 +995,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1336,8 +1336,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1561,8 +1561,8 @@ faucet.polygon.technology
 *.skybet.com
 *.sportinglife.com
 *.skyvegas.com
-*.betfair.it
 *.betfair.com
+*.betfair.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2471,8 +2471,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2576,8 +2576,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
