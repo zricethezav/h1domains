@@ -942,8 +942,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
@@ -1841,8 +1841,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1951,8 +1951,8 @@ fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
 fossil,www.skagenglobal.com,False
 fossil,*.watchstation.com,False
-fossil,www.shopkatchin.com,False
 fossil,*.cdgfossil.com,False
+fossil,www.shopkatchin.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -2045,10 +2045,10 @@ fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
 fossil,www.shopkatchin.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2136,8 +2136,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -3615,8 +3615,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6101,8 +6101,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -7398,8 +7398,8 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -8266,8 +8266,8 @@ shopify,exchangemarketplace.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 12:11:49 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 13:13:47 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -15,8 +15,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.kolesa.kz
 app.kolesa.kz
-id.kolesa.kz
 api.krisha.kz
+id.kolesa.kz
 m.krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2380,8 +2380,8 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.gs.de
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3125,8 +3125,8 @@ exchangemarketplace.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
