@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 11:10:39 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 12:11:49 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2174,8 +2174,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2380,8 +2380,8 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
+*.gs.de
 *.gs.com
-*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3145,9 +3145,9 @@ create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3353,10 +3353,10 @@ gnip.com
 *.vine.co
 *.twimg.com
 gnip.com
-*.teams.cloudflare.com
 cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
+*.teams.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
