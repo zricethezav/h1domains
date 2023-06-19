@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 02:32:12 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 03:11:09 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -548,8 +548,8 @@ kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-api.etoro.com
 streams.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -995,8 +995,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com

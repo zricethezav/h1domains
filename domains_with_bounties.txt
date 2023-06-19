@@ -542,8 +542,8 @@ kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-api.etoro.com
 streams.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -989,8 +989,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
