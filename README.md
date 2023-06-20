@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 15:13:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 16:15:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1047,9 +1047,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.gs.de
 *.gs.com
 *.folioclient.com
+*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
@@ -2715,8 +2715,8 @@ badoocdn.com
 heyfiesta.com
 eu1.badoo.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3143,9 +3143,9 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
+accounts.snapchat.com
 forum.playcanvas.com
 relay.playcanvas.com
 code.playcanvas.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3401,40 +3401,6 @@ simplenote.com
 simperium.com
 intensedebate.com
 happy.tools
-*.srvcs.tumblr.com
-akismet.com
-embed.tumblr.com
-simperium.com
-happy.tools
-my.pressable.com
-simplenote.com
-api.tumblr.com
-assets.tumblr.com
-intensedebate.com
-wordpress.com
-safe.tumblr.com
-t.umblr.com
-mailpoet.com
-www.tumblr.com
-*.tumblr.com
-secure.tumblr.com
-*.tumblr.com
-*.srvcs.tumblr.com
-api.tumblr.com
-safe.tumblr.com
-secure.tumblr.com
-assets.tumblr.com
-embed.tumblr.com
-www.tumblr.com
-t.umblr.com
-wordpress.com
-akismet.com
-mailpoet.com
-my.pressable.com
-simplenote.com
-simperium.com
-intensedebate.com
-happy.tools
 www.irccloud.com
 api.irccloud.com
 irc.irccloud.com
@@ -3526,8 +3492,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
