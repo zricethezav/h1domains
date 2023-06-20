@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 19:12:44 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 20:11:20 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -228,8 +228,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -793,9 +793,9 @@ fallguys.com
 wonderboxdev.com
 fortnite.com
 *.popjam.com
-*.easy.ac
 *.mediatonic.co.uk
 capturingreality.com
+*.easy.ac
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1069,9 +1069,9 @@ redditforbusiness.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2858,9 +2858,9 @@ www.starbucks.co.uk
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3489,10 +3489,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+errors.hackerone.net
 app.pullrequest.com
 hackerone.com
 api.hackerone.com
