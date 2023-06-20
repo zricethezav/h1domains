@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 00:21:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 01:38:07 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -430,8 +430,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-blueprints.amazon.com
 a4k.amazon.com
+blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 alexa.amazon.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2378,10 +2378,10 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2486,8 +2486,8 @@ blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
 discuss.newrelic.com
-synthetics.newrelic.com
 alerts.eu.newrelic.com
+*.infrastructure.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
