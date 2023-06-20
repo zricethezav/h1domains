@@ -940,9 +940,9 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.kolesa.kz
-app.kolesa.kz
 api.krisha.kz
 id.kolesa.kz
+app.kolesa.kz
 m.krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -1283,8 +1283,8 @@ api.svb.com
 https://openbanking.svb.com/open-banking/v3.1/
 developer.svb.com
 www.cipherbio.com
-online.s-pankki.fi
 api.sokos.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
@@ -1840,8 +1840,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2044,10 +2044,10 @@ fossilcrm.com
 fossilgroup.com
 fossil.com.vn
 www.shopkatchin.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -3614,8 +3614,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -6100,8 +6100,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
@@ -7258,8 +7258,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
+paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
@@ -7272,9 +7272,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -8299,10 +8299,10 @@ snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -8517,8 +8517,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com

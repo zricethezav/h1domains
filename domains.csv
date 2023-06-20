@@ -941,9 +941,9 @@ mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.kolesa.kz,True
-kolesagroup,app.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,id.kolesa.kz,True
+kolesagroup,app.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
@@ -1284,8 +1284,8 @@ svb-financial,api.svb.com,False
 svb-financial,https://openbanking.svb.com/open-banking/v3.1/,False
 svb-financial,developer.svb.com,False
 svb-financial,www.cipherbio.com,False
-s-pankki,online.s-pankki.fi,True
 s-pankki,api.sokos.fi,True
+s-pankki,online.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
@@ -1841,8 +1841,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2045,10 +2045,10 @@ fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
 fossil,www.shopkatchin.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3615,8 +3615,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6101,8 +6101,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -7259,8 +7259,8 @@ paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
 paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
-paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
+paypal,paypal.me,True
 paypal,my.loanbuilder.com,True
 paypal,*.venmo.com,True
 paypal,*.paypal.com,True
@@ -7273,9 +7273,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -8300,10 +8300,10 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
-snapchat,app.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -8518,8 +8518,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
