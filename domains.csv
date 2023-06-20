@@ -1131,8 +1131,8 @@ apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
 apnic,registry-testbed.apnic.net,False
 apnic,rpki.apnic.net,False
-apnic,orbit.apnic.net,False
 apnic,*.apidt.org,False
+apnic,orbit.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,ftp.apnic.net,False
 apnic,*.apnic.net,False
@@ -1841,8 +1841,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -4260,9 +4260,9 @@ reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5205,10 +5205,10 @@ tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -5630,9 +5630,9 @@ flutteruki,*.skybettest.net,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.sportinglife.com,True
-flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.com,True
 flutteruki,*.betfair.it,True
+flutteruki,*.skyvegas.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
@@ -6101,8 +6101,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -8518,8 +8518,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True

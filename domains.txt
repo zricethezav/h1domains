@@ -1130,8 +1130,8 @@ nori.apnic.net
 rsync.apnic.net
 registry-testbed.apnic.net
 rpki.apnic.net
-orbit.apnic.net
 *.apidt.org
+orbit.apnic.net
 submission.apnic.net
 ftp.apnic.net
 *.apnic.net
@@ -1840,8 +1840,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -4259,9 +4259,9 @@ redditforbusiness.com
 *.reddithelp.com
 oauth.reddit.com
 matrix.redditspace.com
-www.reddit.com
 mod.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5204,10 +5204,10 @@ partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -5629,9 +5629,9 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.sportinglife.com
-*.skyvegas.com
 *.betfair.com
 *.betfair.it
+*.skyvegas.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -6100,8 +6100,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
@@ -8517,8 +8517,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com

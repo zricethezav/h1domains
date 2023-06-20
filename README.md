@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 03:10:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 04:09:55 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1069,9 +1069,9 @@ redditforbusiness.com
 *.reddithelp.com
 oauth.reddit.com
 matrix.redditspace.com
-www.reddit.com
 mod.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1302,10 +1302,10 @@ partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1568,9 +1568,9 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.sportinglife.com
-*.skyvegas.com
 *.betfair.com
 *.betfair.it
+*.skyvegas.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -3257,8 +3257,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
