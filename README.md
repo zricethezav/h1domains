@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 14:15:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 15:13:00 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1060,8 +1060,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 ads-api.reddit.com
-*.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1070,8 +1070,8 @@ redditforbusiness.com
 oauth.reddit.com
 matrix.redditspace.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1793,9 +1793,9 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
@@ -2479,8 +2479,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2954,8 +2954,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3143,10 +3143,10 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
+forum.playcanvas.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3161,8 +3161,8 @@ www.bitmoji.com
 my.snapchat.com
 app.snapchat.com
 playcanvas.com
-store.snapchat.com
 business.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3367,6 +3367,40 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
+*.srvcs.tumblr.com
+akismet.com
+embed.tumblr.com
+simperium.com
+happy.tools
+my.pressable.com
+simplenote.com
+api.tumblr.com
+assets.tumblr.com
+intensedebate.com
+wordpress.com
+safe.tumblr.com
+t.umblr.com
+mailpoet.com
+www.tumblr.com
+*.tumblr.com
+secure.tumblr.com
+*.tumblr.com
+*.srvcs.tumblr.com
+api.tumblr.com
+safe.tumblr.com
+secure.tumblr.com
+assets.tumblr.com
+embed.tumblr.com
+www.tumblr.com
+t.umblr.com
+wordpress.com
+akismet.com
+mailpoet.com
+my.pressable.com
+simplenote.com
+simperium.com
+intensedebate.com
+happy.tools
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
