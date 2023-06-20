@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 16:15:29 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 17:12:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -63,8 +63,8 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
@@ -241,16 +241,16 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
-platform.8x8pilot.com
 *.jit.si
 *.chalet.8x8.com
 cloud8.8x8.com
+platform.8x8pilot.com
 platform.8x8.com
 *.packet8.net
 voapi.8x8.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2530,9 +2530,9 @@ secure.plaid.com
 demo.plaid.com
 dashboard.plaid.com
 production.plaid.com
-plaid.com
 api.blockscore.com
 my.plaid.com
+plaid.com
 secure.quovo.com
 cdn.plaid.com
 manage.blockscore.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3447,8 +3447,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
