@@ -1983,8 +1983,8 @@ www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
 www.fossil.be
-*.skagen.com
 *.michele.com
+*.skagen.com
 www.fossil.co.kr
 www.fossilcanada.ca
 www.fossilsweden.se
@@ -2285,9 +2285,9 @@ iseeme.com
 *.gifts.com
 *.photoaffections.com
 www.canvasworld.com
-*.personalcreations.com
-www.gifts.com
 *.iseeme.com
+www.gifts.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.cafepress.com
@@ -3614,8 +3614,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -6100,8 +6100,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
@@ -7635,8 +7635,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi

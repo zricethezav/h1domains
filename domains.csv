@@ -1984,8 +1984,8 @@ fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
 fossil,www.fossil.be,False
-fossil,*.skagen.com,False
 fossil,*.michele.com,False
+fossil,*.skagen.com,False
 fossil,www.fossil.co.kr,False
 fossil,www.fossilcanada.ca,False
 fossil,www.fossilsweden.se,False
@@ -2286,9 +2286,9 @@ planetart,iseeme.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
-planetart,*.personalcreations.com,False
-planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
+planetart,www.gifts.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
@@ -3615,8 +3615,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6101,8 +6101,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -7636,8 +7636,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
