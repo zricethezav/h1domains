@@ -1983,8 +1983,8 @@ www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
 www.fossil.be
-*.skagen.com
 *.michele.com
+*.skagen.com
 www.fossil.co.kr
 www.fossilcanada.ca
 www.fossilsweden.se
@@ -2044,10 +2044,10 @@ fossilcrm.com
 fossilgroup.com
 fossil.com.vn
 www.shopkatchin.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -3614,8 +3614,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -7635,8 +7635,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi

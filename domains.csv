@@ -1984,8 +1984,8 @@ fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
 fossil,www.fossil.be,False
-fossil,*.skagen.com,False
 fossil,*.michele.com,False
+fossil,*.skagen.com,False
 fossil,www.fossil.co.kr,False
 fossil,www.fossilcanada.ca,False
 fossil,www.fossilsweden.se,False
@@ -2045,10 +2045,10 @@ fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
 fossil,www.shopkatchin.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3615,8 +3615,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -7636,8 +7636,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
