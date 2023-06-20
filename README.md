@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 21:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 22:11:07 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -434,8 +434,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-alexa.amazon.com
 read.amazon.com
+alexa.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -3092,8 +3092,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io

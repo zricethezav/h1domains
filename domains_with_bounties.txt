@@ -428,8 +428,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-alexa.amazon.com
 read.amazon.com
+alexa.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -3086,8 +3086,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
