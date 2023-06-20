@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 05:11:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 06:12:04 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1623,8 +1623,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3257,8 +3257,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com

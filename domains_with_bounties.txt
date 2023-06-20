@@ -1617,8 +1617,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2577,8 +2577,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3251,8 +3251,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
