@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 20:11:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 21:09:19 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1000,8 +1000,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1794,8 +1794,8 @@ connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 *.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2244,8 +2244,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2861,10 +2861,10 @@ secureui.starbucks.com
 app.starbucks.com
 www.starbucks.com
 www.starbucks.com.sg
-www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.co.jp
+www.starbucks.com.cn
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
