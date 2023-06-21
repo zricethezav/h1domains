@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 15:17:23 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 16:16:31 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1695,8 +1695,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
@@ -2244,8 +2244,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.xoom.com
 *.braintreepayments.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2377,11 +2377,11 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.gs.com
 *.folioclient.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs-mosaic.qa.gs.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2681,9 +2681,9 @@ xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 jira.grab.com
-*.myteksi.net
 gamma.grab.co
 kartaview.org
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3125,8 +3125,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
