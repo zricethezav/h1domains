@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 19:11:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 20:11:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -228,8 +228,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -2426,8 +2426,8 @@ store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.counter-strike.net
-partner.steamgames.com
 www.teamfortress.com
+partner.steamgames.com
 api.steampowered.com
 support.steampowered.com
 www.dota2.com
@@ -3124,9 +3124,9 @@ exchangemarketplace.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3143,10 +3143,10 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3447,8 +3447,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
