@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 12:12:36 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 13:15:00 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -15,8 +15,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.kolesa.kz
 app.kolesa.kz
-id.kolesa.kz
 api.krisha.kz
+id.kolesa.kz
 m.krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -278,8 +278,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -346,8 +346,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1191,8 +1191,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 www.yotisign.com
 api.yoti.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 code.yoti.com
 frankd.yoti.com
 core.yoti.com
@@ -1304,8 +1304,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1708,8 +1708,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.kolikkopelit.com
 *.bingo.com
+*.kolikkopelit.com
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -1794,8 +1794,8 @@ connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 *.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2201,9 +2201,9 @@ www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *racing.fanduel.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2377,11 +2377,11 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.gs.de
 *.gs.com
 *.folioclient.com
 *.gsam.com
 *.folioinstitutional.com
+*.gs-mosaic.qa.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2858,9 +2858,9 @@ www.starbucks.co.uk
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.kr
