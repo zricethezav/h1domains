@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 06:12:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 07:14:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -14,8 +14,8 @@ http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.kolesa.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
@@ -45,8 +45,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -278,8 +278,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -745,8 +745,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1304,8 +1304,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1568,9 +1568,9 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.sportinglife.com
-*.betfair.com
 *.betfair.it
 *.skyvegas.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3473,8 +3473,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3492,8 +3492,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
