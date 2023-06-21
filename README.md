@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 22:10:35 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 23:08:43 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -2244,8 +2244,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
