@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 02:27:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 03:11:27 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -149,8 +149,8 @@ priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-super-services.indriverapp.com
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indriver.com
 *.indrive.com
@@ -228,8 +228,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -2254,8 +2254,8 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.gs.de
 *.gs.com
 *.folioclient.com
+*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
