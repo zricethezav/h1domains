@@ -1398,8 +1398,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -1594,12 +1594,12 @@ expediagroup,*.homeaway.com,False
 expediagroup,china.airasiago.com,False
 expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.travelocity.com,False
-expediagroup,*.hotwire.com,False
 expediagroup,*.expediagroup.com,False
 expediagroup,*.abritel.fr,False
 expediagroup,*.mrjet.se,False
 expediagroup,*.hotels.com,False
 expediagroup,*.ebookers.com,False
+expediagroup,*.hotwire.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -2139,8 +2139,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2283,8 +2283,8 @@ planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
@@ -3618,8 +3618,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5632,10 +5632,10 @@ flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skybet.com,True
-flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.sportinglife.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
@@ -6104,8 +6104,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
@@ -6767,8 +6767,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False

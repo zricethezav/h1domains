@@ -1397,8 +1397,8 @@ processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1593,12 +1593,12 @@ thailand.airasiago.com
 china.airasiago.com
 *.expediapartnercentral.com
 *.travelocity.com
-*.hotwire.com
 *.expediagroup.com
 *.abritel.fr
 *.mrjet.se
 *.hotels.com
 *.ebookers.com
+*.hotwire.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -2138,8 +2138,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2282,8 +2282,8 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 iseeme.com
 *.gifts.com
 *.photoaffections.com
@@ -3617,8 +3617,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5631,10 +5631,10 @@ faucet.polygon.technology
 *.skybettest.net
 *.skybingo.com
 *.skybet.com
-*.sportinglife.com
 *.betfair.it
 *.skyvegas.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -6103,8 +6103,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 *.8x8cloud.net
 *.8x8.com
 connect.8x8.com
@@ -6766,8 +6766,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *equifax.cl
 *equifax.ec
 *equifax.hn
