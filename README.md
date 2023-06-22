@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 18:13:12 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 19:13:16 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -286,8 +286,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1056,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1078,8 +1078,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1663,8 +1663,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2259,8 +2259,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 paypal.me
+*.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
@@ -2690,8 +2690,8 @@ api.grabpay.com
 *.grab.com
 jira.grab.com
 gamma.grab.co
-kartaview.org
 *.myteksi.net
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -2962,8 +2962,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3389,8 +3389,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-www.tumblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
