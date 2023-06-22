@@ -1404,10 +1404,10 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -1852,8 +1852,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -6762,8 +6762,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
