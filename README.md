@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 16:17:23 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 17:16:12 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -248,10 +248,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.jitsi.net
 sso.8x8.com
-*.8x8.vc
+*.jitsi.net
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -557,7 +557,6 @@ etoropartners.com
 wallet.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
-billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
 tapi-real.etoro.com
@@ -566,6 +565,7 @@ etorox.com
 streams.etoro.com
 kyc.etoro.com
 api.etoro.com
+billing.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1538,12 +1538,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
 wallet.polygon.technology
+bridge-explorer.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
 watchgod.polygon.technology
@@ -1663,8 +1663,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1801,9 +1801,9 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
 api.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2252,8 +2252,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2366,9 +2366,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.foliofn.com
 *.ayco.com
 *.goldman.com
+*.foliofn.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
