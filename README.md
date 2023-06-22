@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 14:15:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 15:15:24 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -124,8 +124,8 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -873,16 +873,16 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-app.recordedfuture.com
 therecord.media
+app.recordedfuture.com
 hatching.io
 api.recordedfuture.com
 securitytrails.com
@@ -1197,18 +1197,6 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
-api.yoti.com
-ccloud.yoti.com
-core.yoti.com
-code.yoti.com
-frankd.yoti.com
-core.yoti.com
-api.yoti.com
-ccloud.yoti.com
-code.yoti.com
-www.yotisign.com
-frankd.yoti.com
 www.yotisign.com
 api.yoti.com
 ccloud.yoti.com
@@ -1586,11 +1574,11 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.skybingo.com
-*.skybet.com
 *.betfair.it
 *.skyvegas.com
 *.betfair.com
 *.sportinglife.com
+*.skybet.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2264,8 +2252,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3165,8 +3153,8 @@ story.snapchat.com
 ads.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
-businesshelp.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3276,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
