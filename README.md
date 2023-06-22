@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 13:16:09 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 14:15:13 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -65,11 +65,14 @@ contile.services.mozilla.com
 phabricator.services.mozilla.com
 addons.allizom.org
 aus5.mozilla.org
+lando.services.mozilla.com
+hg.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
+hg.mozilla.org
 phabricator.services.mozilla.com
 contile.services.mozilla.com
 merino.services.mozilla.com
@@ -80,9 +83,11 @@ sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
+lando.services.mozilla.com
 relay.firefox.com
 getpocket.com
 support.mozilla.org
+hg.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -98,6 +103,7 @@ api.profiler.firefox.com
 www.mozilla.org
 getpocket.com
 support.mozilla.org
+hg.mozilla.org
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -867,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1050,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1191,6 +1197,18 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
+www.yotisign.com
+api.yoti.com
+ccloud.yoti.com
+core.yoti.com
+code.yoti.com
+frankd.yoti.com
+core.yoti.com
+api.yoti.com
+ccloud.yoti.com
+code.yoti.com
+www.yotisign.com
+frankd.yoti.com
 www.yotisign.com
 api.yoti.com
 ccloud.yoti.com
@@ -1684,9 +1702,9 @@ www.alibabagroup.com
 www.mini.de
 configure.bmw.de
 www.bmw.de
-configure.mini.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2246,8 +2264,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.xoom.com
 *.braintreepayments.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3127,8 +3145,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
