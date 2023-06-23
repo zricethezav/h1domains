@@ -2147,8 +2147,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2298,9 +2298,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -4058,9 +4058,9 @@ cedars-sinai,*Huntingtonhealthnetwork.com,False
 cedars-sinai,*Hmtest.org,False
 cedars-sinai,*Hhec.org,False
 cedars-sinai,*hhcompliancewebline.com,False
-cedars-sinai,*huntingtonhospital.org,False
 cedars-sinai,*appofchoice.huntingtonhospital.com/,False
 cedars-sinai,*www.marinahospital.com,False
+cedars-sinai,*huntingtonhospital.org,False
 cedars-sinai,*app.sourcedrive.org,False
 cedars-sinai,*sourcedrive.org,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
@@ -5221,8 +5221,8 @@ tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -6072,8 +6072,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -6100,8 +6100,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
+8x8,*.easycontactnow.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
@@ -8092,8 +8092,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
@@ -8392,8 +8392,8 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,magento.com,True
-adobe,community.adobe.com,False
 adobe,*.adobe.com,False
+adobe,community.adobe.com,False
 adobe,applications.frame.io,False
 adobe,*.typekit.com,False
 adobe,assets.adobe.com,False
