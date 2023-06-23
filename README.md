@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 23 15:14:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 23 16:16:54 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -563,9 +563,9 @@ tapi-real.etoro.com
 charts.etoro.com
 etorox.com
 streams.etoro.com
-kyc.etoro.com
 billing.etoro.com
 api.etoro.com
+kyc.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1003,8 +1003,8 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 elastic-cloud.com
-*.elastic-cloud.com
 *.found.io
+*.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
@@ -2366,9 +2366,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
 *.foliofn.com
+*.ayco.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3455,8 +3455,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
