@@ -925,8 +925,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,api.mercadopago.com,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1404,9 +1404,9 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.8x8.vc,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -2147,8 +2147,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2540,9 +2540,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.sothebysrealty.*,False
+anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
@@ -5742,8 +5742,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True

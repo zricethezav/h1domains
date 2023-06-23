@@ -924,8 +924,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 api.mercadopago.com
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1403,9 +1403,9 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
-*.8x8.vc
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
+*.8x8.vc
 sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2146,8 +2146,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2539,9 +2539,9 @@ www.alohi.com
 *.era.com
 *.bhgre.*
 *.century21.*
-*.nrtllc.*
 *.corcoran.*
 *.sothebysrealty.*
+*.nrtllc.*
 *.mycbdesk.com
 *.cbcworldwide.*
 *.coldwellbanker.*
@@ -5741,8 +5741,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com

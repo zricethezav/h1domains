@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 23 00:24:47 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 23 01:37:45 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -248,9 +248,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.8x8.vc
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
+*.8x8.vc
 sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1663,8 +1663,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
