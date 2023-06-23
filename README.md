@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 23 18:13:41 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 23 19:10:55 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -250,8 +250,8 @@ jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
 connect.8x8.com
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1250,9 +1250,9 @@ world.hey.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
-accounts.cloud.com
 www.cloud.com
 *.browser.cloud.com
+accounts.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3388,9 +3388,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-mailpoet.com
 *.tumblr.com
 www.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
