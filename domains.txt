@@ -1851,8 +1851,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2297,9 +2297,9 @@ iseeme.com
 *.photoaffections.com
 www.canvasworld.com
 *.canvasworld.com
+*.iseeme.com
 *.personalcreations.com
 *.cafepress.com
-*.iseeme.com
 www.gifts.com
 *.cafepress.com
 *.canvasworld.com
@@ -2537,11 +2537,11 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.century21.*
 *.era.com
+*.century21.*
 *.sothebysrealty.*
-*.nrtllc.*
 *.corcoran.*
+*.nrtllc.*
 *.mycbdesk.com
 *.cbcworldwide.*
 *.coldwellbanker.*
@@ -6071,8 +6071,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
