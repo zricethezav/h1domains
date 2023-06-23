@@ -925,8 +925,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,api.mercadopago.com,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1404,9 +1404,9 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -2056,10 +2056,10 @@ fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
 fossil,www.shopkatchin.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2126,9 +2126,9 @@ mars,*.individualis.com,False
 mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.royalcanin.be,False
-mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.myroyalcanin.gr,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2147,8 +2147,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2298,9 +2298,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -6072,8 +6072,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -6100,8 +6100,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
@@ -7207,8 +7207,8 @@ fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -8516,8 +8516,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
@@ -8621,9 +8621,9 @@ twitter,gnip.com,True
 twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,cloudflareworkers.com,True
-cloudflare,*.teams.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
+cloudflare,*.teams.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
