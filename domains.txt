@@ -1851,8 +1851,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2055,10 +2055,10 @@ fossilcrm.com
 fossilgroup.com
 fossil.com.vn
 www.shopkatchin.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2290,9 +2290,9 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
+iseeme.com
 *.gifts.com
 *.photoaffections.com
 www.canvasworld.com
@@ -3625,8 +3625,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3784,11 +3784,11 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -4249,8 +4249,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -4271,8 +4271,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5330,8 +5330,8 @@ goerli.cloud.enjin.io
 jumpnet.cloud.enjin.io
 beam.enjin.io
 jumpnet.beam.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -8711,8 +8711,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net

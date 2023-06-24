@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 24 20:09:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 24 21:09:59 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1008,11 +1008,11 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1056,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1078,8 +1078,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1352,8 +1352,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -3450,8 +3450,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
