@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 24 19:10:10 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 24 20:09:09 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -249,9 +249,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1352,8 +1352,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
