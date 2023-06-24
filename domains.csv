@@ -1405,9 +1405,9 @@ kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -2300,8 +2300,8 @@ planetart,www.canvasworld.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
-planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2541,8 +2541,8 @@ anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.sothebysrealty.*,False
-anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
@@ -3626,8 +3626,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5243,10 +5243,10 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logitech.com,False
 logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
 logitech,circle.logi.com,True
@@ -6762,8 +6762,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False

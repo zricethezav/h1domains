@@ -1404,9 +1404,9 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -2299,8 +2299,8 @@ www.canvasworld.com
 *.canvasworld.com
 *.personalcreations.com
 *.cafepress.com
-www.gifts.com
 *.iseeme.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -2540,8 +2540,8 @@ www.alohi.com
 *.era.com
 *.century21.*
 *.sothebysrealty.*
-*.corcoran.*
 *.nrtllc.*
+*.corcoran.*
 *.mycbdesk.com
 *.cbcworldwide.*
 *.coldwellbanker.*
@@ -3625,8 +3625,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5242,10 +5242,10 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logitech.com
 *.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logitech.com
 logitechgchallenge.com
 jira.logitech.com
 circle.logi.com
@@ -6761,8 +6761,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.cl
 *equifax.ec
