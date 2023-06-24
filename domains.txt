@@ -1403,8 +1403,8 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 sso.8x8.com
 *.jitsi.net
 uc.8x8pilot.com
@@ -2146,8 +2146,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2297,10 +2297,10 @@ iseeme.com
 *.photoaffections.com
 www.canvasworld.com
 *.canvasworld.com
-*.iseeme.com
 *.personalcreations.com
 *.cafepress.com
 www.gifts.com
+*.iseeme.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5243,9 +5243,9 @@ www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
 *.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 logitechgchallenge.com
 jira.logitech.com
 circle.logi.com
