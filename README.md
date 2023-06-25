@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 25 21:10:24 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 25 22:08:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -121,8 +121,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-*.hilton.com.tr
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -247,11 +247,11 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-work.8x8.com
 sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 connect.8x8.com
+work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -313,8 +313,8 @@ share.doppler.com
 www.engelvoelkers.com
 www.engelvoelkers.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
@@ -384,8 +384,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1056,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1671,8 +1671,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2925,8 +2925,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -2962,16 +2962,16 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-education.github.com
 npmjs.org
 github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3132,9 +3132,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3160,8 +3160,8 @@ scan.snapchat.com
 playcanv.as
 store.playcanvas.com
 blog.playcanvas.com
-login.playcanvas.com
 relay.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3389,8 +3389,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
