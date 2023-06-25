@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 25 15:10:50 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 25 16:09:52 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -121,8 +121,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -249,9 +249,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -313,8 +313,8 @@ share.doppler.com
 www.engelvoelkers.com
 www.engelvoelkers.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
@@ -384,8 +384,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -564,8 +564,8 @@ etorox.com
 streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
-api.etoro.com
 charts.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1008,11 +1008,11 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1078,8 +1078,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2867,8 +2867,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com.sg
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2925,8 +2925,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3389,8 +3389,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
