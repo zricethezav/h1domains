@@ -923,8 +923,8 @@ mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadolibre.cl,False
@@ -1507,8 +1507,8 @@ one_zero_vdp,*.onezerobank.com,False
 engel_volkers_bbp,www.engelvoelkers.com,True
 engel_volkers_bbp,www.engelvoelkers.com,True
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
+yuga_labs,*.yuga.com,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.yugalabs.io,True
@@ -1645,8 +1645,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -2056,10 +2056,10 @@ fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
 fossil,www.shopkatchin.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2291,9 +2291,9 @@ planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
+planetart,www.cafepress.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
@@ -2462,8 +2462,8 @@ etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,billing.etoro.com,True
 etoro_bbp,kyc.etoro.com,True
-etoro_bbp,charts.etoro.com,True
 etoro_bbp,api.etoro.com,True
+etoro_bbp,charts.etoro.com,True
 etoro_bbp,etorox.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
@@ -2545,8 +2545,8 @@ anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.cbcworldwide.*,False
-anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.realogy.*,False
+anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -3785,8 +3785,8 @@ elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
@@ -5243,9 +5243,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
+logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
-logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -5836,8 +5836,8 @@ kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
 kindred_group,*.kolikkopelit.com,True
-kindred_group,*.bingo.com,True
 kindred_group,*.unibet.fr,True
+kindred_group,*.bingo.com,True
 kindred_group,maria.casino,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.unibet.com,True
@@ -6762,8 +6762,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
@@ -8011,8 +8011,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8121,8 +8121,8 @@ mapbox,api.mapbox.com,True
 mapbox,www.mapbox.com,True
 mapbox,https://docs.mapbox.com/api/,True
 mapbox,api.mapbox.com,True
-gitlab,*.gitlab.net,True
 gitlab,registry.gitlab.com,True
+gitlab,*.gitlab.net,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,*.gitlap.com,True
@@ -8264,9 +8264,9 @@ shopify,exchangemarketplace.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8516,8 +8516,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
@@ -8712,8 +8712,8 @@ coinbase,cloud.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.base.org,True
 slack,status.slack.com,True
-slack,api.slack.com,True
 slack,spaces.pm,True
+slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
