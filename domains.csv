@@ -1103,8 +1103,8 @@ hilton,*.hilton.io,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
-hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
+hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
@@ -1318,8 +1318,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -1507,8 +1507,8 @@ one_zero_vdp,*.onezerobank.com,False
 engel_volkers_bbp,www.engelvoelkers.com,True
 engel_volkers_bbp,www.engelvoelkers.com,True
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.otherside.xyz,True
 yuga_labs,*.yuga.com,True
+yuga_labs,*.otherside.xyz,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.yugalabs.io,True
@@ -1645,8 +1645,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
+magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -1852,8 +1852,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2291,9 +2291,9 @@ planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,www.simplytoimpress.com,False
-planetart,iseeme.com,False
 planetart,www.cafepress.com,False
+planetart,iseeme.com,False
+planetart,www.simplytoimpress.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
@@ -2462,9 +2462,9 @@ etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,billing.etoro.com,True
 etoro_bbp,kyc.etoro.com,True
-etoro_bbp,api.etoro.com,True
-etoro_bbp,charts.etoro.com,True
 etoro_bbp,etorox.com,True
+etoro_bbp,charts.etoro.com,True
+etoro_bbp,api.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
@@ -2538,8 +2538,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.corcoran.*,False
@@ -3626,8 +3626,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5836,8 +5836,8 @@ kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
 kindred_group,*.kolikkopelit.com,True
-kindred_group,*.unibet.fr,True
 kindred_group,*.bingo.com,True
+kindred_group,*.unibet.fr,True
 kindred_group,maria.casino,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.unibet.com,True
@@ -6072,8 +6072,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -8011,8 +8011,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,id.getharvest.com,True
 harvest,getharvest.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8404,9 +8404,9 @@ adobe,status.adobe.com,False
 adobe,magentolive.com,True
 adobe,*.proofhq.com,False
 adobe,*.omniture.com,False
-adobe,*.tubemogul.com,False
 adobe,*.marketo.com,False
 adobe,*.tt.omtrdc.net,False
+adobe,*.tubemogul.com,False
 adobe,*.testdrive.workfront.com,False
 adobe,updates.frame.io,False
 adobe,workflow.frame.io,False
@@ -8743,8 +8743,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -8756,8 +8756,8 @@ security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,reviewer.pullrequest.com,True
 security,ctf.hacker101.com,True
-security,*.vpn.hackerone.net,True
 security,www.hackerone.com,True
+security,*.vpn.hackerone.net,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
