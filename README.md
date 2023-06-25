@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 25 13:14:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 25 14:10:34 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -249,9 +249,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -313,8 +313,8 @@ share.doppler.com
 www.engelvoelkers.com
 www.engelvoelkers.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
@@ -564,8 +564,8 @@ etorox.com
 streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
-api.etoro.com
 charts.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1008,11 +1008,11 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1056,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1078,8 +1078,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1661,10 +1661,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
 *.tmall.com
 *.alibaba.com
 *.alibabacloud.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1972,8 +1972,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-www.priceline.com
 admin.rezserver.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2252,8 +2252,8 @@ swiftfinancial.com
 *.paylution.com
 py.pl
 *.xoom.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3389,8 +3389,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3450,8 +3450,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
@@ -3481,8 +3481,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3494,8 +3494,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
-www.hackerone.com
 *.vpn.hackerone.net
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
