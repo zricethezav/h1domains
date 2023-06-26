@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 00:24:30 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 01:40:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -121,8 +121,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-*.hilton.com.tr
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -236,8 +236,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -248,9 +248,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -384,8 +384,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -564,8 +564,8 @@ streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
 etorox.com
-charts.etoro.com
 api.etoro.com
+charts.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1663,16 +1663,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
-www.alibabagroup.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1716,8 +1716,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.bingo.com
 *.unibet.fr
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2925,8 +2925,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3132,9 +3132,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3160,8 +3160,8 @@ scan.snapchat.com
 playcanv.as
 store.playcanvas.com
 blog.playcanvas.com
-login.playcanvas.com
 relay.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
