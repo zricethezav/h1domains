@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 01:40:41 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 02:39:59 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -384,8 +384,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1056,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -3450,8 +3450,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
