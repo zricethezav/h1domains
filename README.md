@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 11:12:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 12:13:22 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -91,8 +91,8 @@ firefox-ci-tc.services.mozilla.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+getpocket.com
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -162,8 +162,8 @@ profile-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
@@ -256,9 +256,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2933,8 +2933,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3370,8 +3370,8 @@ gnip.com
 gnip.com
 cloudflareworkers.com
 one.dash.cloudflare.com
-*.teams.cloudflare.com
 *.cloudflare.com
+*.teams.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3458,8 +3458,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
