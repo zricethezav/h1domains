@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 13:16:48 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 14:14:04 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -499,8 +499,8 @@ dashboard.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
 x.razorpay.com
-invoices.razorpay.com
 checkout.razorpay.com
+invoices.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1064,8 +1064,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1531,9 +1531,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 store.playstation.com
-*.api.playstation.com
 direct.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2836,8 +2836,8 @@ circolocorecords.com/
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-www.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -2977,9 +2977,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
+github.com
 *.githubusercontent.com
 education.github.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3140,9 +3140,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3397,8 +3397,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
