@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 09:12:50 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 10:11:57 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -68,6 +68,7 @@ aus5.mozilla.org
 lando.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
+pontoon.mozilla.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -84,6 +85,7 @@ push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
+pontoon.mozilla.org
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
@@ -248,9 +250,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -564,8 +566,8 @@ streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
 charts.etoro.com
-etorox.com
 api.etoro.com
+etorox.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -873,8 +875,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1056,8 +1058,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1413,7 +1415,7 @@ www.marionnaud.sk
 app.watsons.com.tr
 www.kruidvat.nl
 www10.watsons.com.my
-www.theperfumeshop.com
+api.watsons.com.hk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1671,8 +1673,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3132,9 +3134,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3389,8 +3391,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3450,8 +3452,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
