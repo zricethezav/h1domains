@@ -1992,9 +1992,9 @@ fossil,*.fossil.vn,False
 fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
 fossil,www.skagenglobal.com,False
-fossil,*.watchstation.com,False
 fossil,*.cdgfossil.com,False
 fossil,www.shopkatchin.com,False
+fossil,*.watchstation.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -2159,8 +2159,8 @@ mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.royalcanin.be,False
 mars,*.banfield.com,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.myroyalcanin.gr,False
+mars,*.miroyalcanin.com.ar,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2177,8 +2177,8 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -6104,8 +6104,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -8751,8 +8751,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True

@@ -1991,9 +1991,9 @@ www.fossil.co.id
 www.fossil.co.jp
 *.misfit.com
 www.skagenglobal.com
-*.watchstation.com
 *.cdgfossil.com
 www.shopkatchin.com
+*.watchstation.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -2158,8 +2158,8 @@ banfield.us
 *.vetschoice.co.za
 *.royalcanin.be
 *.banfield.com
-*.miroyalcanin.com.ar
 *.myroyalcanin.gr
+*.miroyalcanin.com.ar
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -2176,8 +2176,8 @@ banfieldfoundation.org
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -6103,8 +6103,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -8750,8 +8750,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
