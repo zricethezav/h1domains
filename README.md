@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 10:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 11:12:07 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -57,6 +57,7 @@ www.tide.co
 crash-stats.allizom.org
 accounts.firefox.com
 firefox.settings.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -86,14 +87,17 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
 pontoon.mozilla.org
+firefox-ci-tc.services.mozilla.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 getpocket.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
+community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 developer.mozilla.org
@@ -106,6 +110,8 @@ www.mozilla.org
 getpocket.com
 support.mozilla.org
 hg.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -2971,9 +2977,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
+github.com
 *.githubusercontent.com
 education.github.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3134,9 +3140,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
