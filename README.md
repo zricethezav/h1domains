@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 12:12:31 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 13:19:08 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -344,8 +344,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.abritel.fr
-www.expediagroup.com
 www.mrjet.se
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1678,9 +1678,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2063,13 +2063,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 res.universalorlandovacations.com
 book.beachbound.com
 res.blueskytours.globalbookingsolutions.com
 book.booktandl.com
 vacations.us.palladiumhotelgroup.com
+reservations.wynnvacations.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2912,8 +2912,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 search.brave.com
-brave.com
 talk.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3141,8 +3141,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
