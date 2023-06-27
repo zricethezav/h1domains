@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 20:11:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 21:11:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -263,10 +263,10 @@ connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
-*.jit.si
 *.chalet.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
+*.jit.si
 platform.8x8.com
 *.packet8.net
 voapi.8x8.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1016,8 +1016,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2975,8 +2975,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3486,8 +3486,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
