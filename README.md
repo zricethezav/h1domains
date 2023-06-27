@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 19:11:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 20:11:34 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,10 +256,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
-*.jitsi.net
 work.8x8.com
 *.8x8.vc
+connect.8x8.com
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1056,8 +1056,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -3486,8 +3486,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
