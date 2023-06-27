@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 18:13:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 19:11:36 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-*.jitsi.net
 connect.8x8.com
+*.jitsi.net
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1086,8 +1086,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2465,8 +2465,8 @@ crypto.org
 merchant.crypto.com
 tax.crypto.com
 app.mona.co
-pay.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
@@ -2930,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3486,8 +3486,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
