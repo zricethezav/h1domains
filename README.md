@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 23:10:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 00:25:28 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -446,8 +446,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-a4k.amazon.com
 blueprints.amazon.com
+a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 read.amazon.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1063,8 +1063,8 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 gql.reddit.com
 m.reddit.com
 strapi.reddit.com

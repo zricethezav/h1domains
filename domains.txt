@@ -5,8 +5,8 @@
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1952,8 +1952,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-a4k.amazon.com
 blueprints.amazon.com
+a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 read.amazon.com
@@ -2087,10 +2087,10 @@ fossilcare.com
 fossilcrm.com
 fossil.com.vn
 www.shopkatchin.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -3657,8 +3657,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4280,8 +4280,8 @@ www.woolshed.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 gql.reddit.com
 m.reddit.com
 strapi.reddit.com
@@ -5274,9 +5274,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6795,8 +6795,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *equifax.cl
 *equifax.ec

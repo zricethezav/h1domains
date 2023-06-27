@@ -440,8 +440,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-a4k.amazon.com
 blueprints.amazon.com
+a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 read.amazon.com
@@ -875,8 +875,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1057,8 +1057,8 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 gql.reddit.com
 m.reddit.com
 strapi.reddit.com

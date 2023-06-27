@@ -6,8 +6,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1953,8 +1953,8 @@ poloniex,api.poloniex.com,True
 poloniex,m.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
-amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,blueprints.amazon.com,True
+amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
@@ -2088,10 +2088,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossil.com.vn,False
 fossil,www.shopkatchin.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3658,8 +3658,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4281,8 +4281,8 @@ drugs_com,www.woolshed.com,False
 reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
@@ -5275,9 +5275,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -6796,8 +6796,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
