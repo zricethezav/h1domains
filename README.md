@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 13:19:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 14:14:45 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1574,7 +1574,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.paddypower.it
 *.betviewapi.com
 *.sbgcdn.com
 *.msgsvc.io
@@ -1587,6 +1586,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.skybet.com
 *.operationstechnology.io
+*.paddypower.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2246,13 +2246,10 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-legacy.casper.com
 casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
-http://legacy.casper.com/admin
-legacy.casper.com
 matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
@@ -2978,8 +2975,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
