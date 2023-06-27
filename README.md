@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 00:25:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 01:39:53 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1063,8 +1063,8 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 gql.reddit.com
 m.reddit.com
 strapi.reddit.com
@@ -1770,8 +1770,8 @@ gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
-hotel-deals.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
