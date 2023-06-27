@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 07:13:32 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 08:12:53 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -127,10 +127,10 @@ hiltonmanage.com
 hiltonhawaiianvillage.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
+hilton.io
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-*.jitsi.net
 connect.8x8.com
+*.jitsi.net
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -1677,10 +1677,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2933,8 +2933,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
