@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 00:24:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 01:40:26 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1056,8 +1056,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -2822,8 +2822,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
-support.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -2930,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
