@@ -1146,9 +1146,9 @@ hilton,hiltonhawaiianvillage.jp,True
 hilton,*.hilton.io,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonbusinessonline.com,True
-hilton,*.hilton.com.tr,True
 hilton,hilton.io,True
 hilton,hiltonlocalbiz.com,True
+hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
@@ -1574,8 +1574,8 @@ expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.abritel.fr,True
-expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -1895,8 +1895,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2102,10 +2102,10 @@ fossil,www.shopkatchin.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
 fossil,fossil.cloud.akeneo.com,False
 fossil,http://www.findemand.in/dmdprod/,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2191,8 +2191,8 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -3672,8 +3672,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4072,8 +4072,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -4318,8 +4318,8 @@ reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
-reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
+reddit,matrix.redditspace.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6810,8 +6810,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
@@ -7938,8 +7938,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -7996,8 +7996,8 @@ starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.com,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
+starbucks,app.starbucks.com,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -8054,8 +8054,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,id.getharvest.com,True
 harvest,getharvest.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True

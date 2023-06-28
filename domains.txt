@@ -1145,9 +1145,9 @@ hiltonhawaiianvillage.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hiltonbusinessonline.com
-*.hilton.com.tr
 hilton.io
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -1573,8 +1573,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.abritel.fr
-www.mrjet.se
 www.expediagroup.com
+www.mrjet.se
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -1894,8 +1894,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2101,10 +2101,10 @@ www.shopkatchin.com
 fossil-staging2.cloud.akeneo.com
 fossil.cloud.akeneo.com
 http://www.findemand.in/dmdprod/
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2190,8 +2190,8 @@ banfieldfoundation.org
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3671,8 +3671,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4071,8 +4071,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -4317,8 +4317,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6809,8 +6809,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -7937,8 +7937,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -7995,8 +7995,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -8053,8 +8053,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
