@@ -1895,8 +1895,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2173,8 +2173,8 @@ mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
 mars,*.royalcanin.be,False
 mars,*.miroyalcanin.com.ar,False
-mars,*.banfield.com,False
 mars,*.myroyalcanin.gr,False
+mars,*.banfield.com,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2191,8 +2191,8 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -3703,8 +3703,8 @@ gsa_bbp,ssh.fr.cloud.gov,True
 gsa_bbp,admin-catalog-bsp.data.gov,True
 gsa_bbp,*.code.gov,True
 gsa_bbp,www.data.gov,True
-gsa_bbp,www.usa.gov,True
 gsa_bbp,*.search.gov,True
+gsa_bbp,www.usa.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,login.fr.cloud.gov,True
 gsa_bbp,grafana.fr.cloud.gov,True
@@ -4296,8 +4296,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,ads.reddit.com,True
-reddit,old.reddit.com,True
 reddit,gql.reddit.com,True
+reddit,old.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -5289,9 +5289,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -6118,8 +6118,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -8054,8 +8054,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,id.getharvest.com,True
 harvest,getharvest.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8694,8 +8694,8 @@ automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
-automattic,mailpoet.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
@@ -8763,8 +8763,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -8805,8 +8805,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
-security,app.pullrequest.com,True
 security,hackerone.live,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

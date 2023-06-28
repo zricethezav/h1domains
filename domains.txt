@@ -1894,8 +1894,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2172,8 +2172,8 @@ banfield.us
 *.vetschoice.co.za
 *.royalcanin.be
 *.miroyalcanin.com.ar
-*.banfield.com
 *.myroyalcanin.gr
+*.banfield.com
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -2190,8 +2190,8 @@ banfieldfoundation.org
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3702,8 +3702,8 @@ ssh.fr.cloud.gov
 admin-catalog-bsp.data.gov
 *.code.gov
 www.data.gov
-www.usa.gov
 *.search.gov
+www.usa.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 grafana.fr.cloud.gov
@@ -4295,8 +4295,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-old.reddit.com
 gql.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -5288,9 +5288,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6117,8 +6117,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -8053,8 +8053,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -8693,8 +8693,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -8762,8 +8762,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -8804,8 +8804,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
