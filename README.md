@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 14:14:45 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 15:14:00 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1056,8 +1056,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -1582,11 +1582,11 @@ faucet.polygon.technology
 *.skybingo.com
 *.betfair.it
 *.skyvegas.com
-*.betfair.com
 *.sportinglife.com
 *.skybet.com
 *.operationstechnology.io
 *.paddypower.it
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2492,8 +2492,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
