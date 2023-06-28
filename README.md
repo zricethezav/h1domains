@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 16:15:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 17:11:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1016,8 +1016,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1677,10 +1677,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2822,8 +2822,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -2872,8 +2872,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2930,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3138,8 +3138,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3164,9 +3164,9 @@ code.playcanvas.com
 scan.snapchat.com
 playcanv.as
 store.playcanvas.com
-relay.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
+relay.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
