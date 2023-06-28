@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 15:14:00 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 16:15:59 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -407,8 +407,8 @@ zerobounce.net
 cloud.gravitational.io
 *.gravitational.co
 *.teleportinfra.sh
-*.teleport.dev
 *.gravitational.com
+*.teleport.dev
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1056,8 +1056,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -1086,8 +1086,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2872,8 +2872,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2930,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -2975,8 +2975,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3157,9 +3157,9 @@ msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
 create.snapchat.com
-forum.playcanvas.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
 playcanv.as
@@ -3174,8 +3174,8 @@ www.bitmoji.com
 my.snapchat.com
 store.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3460,8 +3460,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
