@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 13:16:18 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 14:11:49 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -56,8 +56,8 @@ api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -1060,8 +1060,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -1073,15 +1073,15 @@ old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
-meta-api.reddit.com
 sh.reddit.com
 *.snooguts.net
 new.reddit.com
+meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 *.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -2044,8 +2044,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 link.omise.co
-www.opn.ooo
 dashboard.omise.co
+www.opn.ooo
 dashboard2.omise.co
 linksplus-dashboard.omise.co
 api.omise.co
@@ -3026,8 +3026,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
