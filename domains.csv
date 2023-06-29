@@ -1899,8 +1899,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2026,8 +2026,8 @@ fossil,*.smartwatchstations.com,False
 fossil,fossilcare.com,False
 fossil,www.skagen-japan.com,False
 fossil,*.cdgcitizen.com,False
-fossil,*.fossil.com,False
 fossil,*.fossilgroup.com,False
+fossil,*.fossil.com,False
 fossil,fossilmy.com,False
 fossil,watchstationhk.com,False
 fossil,m.fossil.co.jp,False
@@ -2041,8 +2041,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,www.watchstationindia.com,False
 fossil,fossilhk.com,False
+fossil,www.watchstationindia.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2200,8 +2200,8 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -4081,8 +4081,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -4099,12 +4099,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*Hhapps.net,False
-cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
 cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*Hmh-direct.com,False
 cedars-sinai,*hhcareers.com,False
+cedars-sinai,*Hhapps.net,False
+cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -4323,8 +4323,8 @@ reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6123,8 +6123,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -6815,8 +6815,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
@@ -7943,8 +7943,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -9147,8 +9147,8 @@ filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,T
 magento,magentolive.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True
-magento,account.magento.com,True
 magento,accounts.magento.cloud,True
+magento,account.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,magento.com,True
