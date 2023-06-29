@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 08:10:43 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 09:12:16 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -19,8 +19,8 @@ api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 kolesa.kz
-m.kolesa.kz
 app.krisha.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -1588,9 +1588,9 @@ faucet.polygon.technology
 *.skyvegas.com
 *.sportinglife.com
 *.skybet.com
-*.operationstechnology.io
 *.paddypower.it
 *.betfair.com
+*.operationstechnology.io
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1813,8 +1813,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -3141,9 +3141,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
