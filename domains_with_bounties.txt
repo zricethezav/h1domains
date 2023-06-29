@@ -360,8 +360,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.ebookers.fi
 www.wotif.com
-www.expediapartnercentral.com
 www.hotwire.com
+www.expediapartnercentral.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1073,9 +1073,9 @@ new.reddit.com
 meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
-*.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1807,8 +1807,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2277,8 +2277,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2873,9 +2873,9 @@ www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
-www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3484,8 +3484,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
