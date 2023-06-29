@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 09:12:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 10:11:11 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1584,13 +1584,13 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.skybingo.com
-*.betfair.it
 *.skyvegas.com
 *.sportinglife.com
 *.skybet.com
 *.paddypower.it
 *.betfair.com
 *.operationstechnology.io
+*.betfair.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1813,8 +1813,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
