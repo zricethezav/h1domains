@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 17:11:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 18:11:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -798,12 +798,6 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
-api.evernote.com
-www.evernote.com
-accounts.evernote.com
-www.evernote.com
-accounts.evernote.com
-api.evernote.com
 *.rukkaz.com
 *.jellychat.com
 *.unrealtournament.com
@@ -1019,9 +1013,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2934,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3467,8 +3461,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3678,6 +3672,12 @@ training.epam.com
 *.emakina.fr
 *.emakina.us
 *.opensource.epam.com
+api.evernote.com
+www.evernote.com
+accounts.evernote.com
+www.evernote.com
+accounts.evernote.com
+api.evernote.com
 www.myetherwallet.com
 www.myetherwallet.com
 ota.helium.com
