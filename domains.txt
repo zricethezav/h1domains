@@ -1,15 +1,15 @@
 *omniplus.com
 *.mercedes-benz-trucks.com
 *.setra.de
-*.daimlertruck.com
 *detroitconnect.com
+*.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
 *.freightliner.com
 *.bharatbenz.com
-*evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
+*evobus.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -1886,8 +1886,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -3672,8 +3672,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -6806,8 +6806,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -8649,8 +8649,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 twitterflightschool.com
-*.vine.co
 *.twitter.com
+*.vine.co
 t.co
 *.twimg.com
 gnip.com

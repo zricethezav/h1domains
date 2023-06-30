@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3355,8 +3355,8 @@ onboarding.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
-*.vine.co
 *.twitter.com
+*.vine.co
 *.twimg.com
 gnip.com
 *.twitter.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 11:09:26 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 12:13:56 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3361,8 +3361,8 @@ onboarding.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
-*.vine.co
 *.twitter.com
+*.vine.co
 *.twimg.com
 gnip.com
 *.twitter.com
