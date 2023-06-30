@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 23:11:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 00:24:02 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1066,10 +1066,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-*.redditmedia.com
 ads.reddit.com
 old.reddit.com
 gql.reddit.com
+*.redditmedia.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1585,12 +1585,12 @@ faucet.polygon.technology
 *.skybettest.net
 *.skybingo.com
 *.skyvegas.com
-*.sportinglife.com
 *.skybet.com
 *.paddypower.it
 *.operationstechnology.io
 *.betfair.it
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1813,8 +1813,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2001,8 +2001,8 @@ www.bookingholdings.com
 press.priceline.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
