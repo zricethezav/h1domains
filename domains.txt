@@ -8,8 +8,8 @@
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -1014,8 +1014,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -1437,8 +1437,8 @@ processaccess.kkr.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2098,10 +2098,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3672,8 +3672,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5285,9 +5285,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6114,8 +6114,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com

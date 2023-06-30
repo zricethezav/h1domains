@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 00:24:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 01:38:23 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -56,8 +56,8 @@ api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -258,8 +258,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1813,8 +1813,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
