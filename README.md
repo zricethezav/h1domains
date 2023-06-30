@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 15:10:14 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 16:13:01 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1020,8 +1020,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1068,8 +1068,8 @@ app.spiketrap.io
 api.reddit.com
 ads.reddit.com
 old.reddit.com
-gql.reddit.com
 *.redditmedia.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1089,9 +1089,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1589,8 +1589,8 @@ faucet.polygon.technology
 *.paddypower.it
 *.operationstechnology.io
 *.betfair.it
-*.sportinglife.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2397,8 +2397,8 @@ research.gs.com
 *.folioclient.com
 *.folioinstitutional.com
 *.gs-mosaic.qa.gs.com
-*.gs.com
 *.gs.de
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
