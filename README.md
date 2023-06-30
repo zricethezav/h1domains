@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 10:13:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 11:09:26 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -124,13 +124,13 @@ api-eu.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
 hiltonmanage.com
-hiltonhawaiianvillage.jp
 *.hilton.io
+hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hiltonbusinessonline.com
 hilton.io
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -3109,8 +3109,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
