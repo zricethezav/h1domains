@@ -2099,10 +2099,10 @@ fossil,www.fossilsg.com,False
 fossil,https://smartstore.naver.com/fossilkorea,False
 fossil,watchstationhk.com,False
 fossil,www.watchstationindia.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2187,8 +2187,8 @@ mars,*.royalcanin.co.uk,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -3673,8 +3673,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6115,8 +6115,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -6807,8 +6807,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
@@ -8052,8 +8052,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8273,8 +8273,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True
