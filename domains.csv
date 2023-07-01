@@ -6,8 +6,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1887,8 +1887,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2187,8 +2187,8 @@ mars,*.jornadasroyalcanin.com.ar,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -3663,8 +3663,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4081,12 +4081,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*Hhapps.net,False
-cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
 cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*Hmh-direct.com,False
 cedars-sinai,*hhcareers.com,False
+cedars-sinai,*Hhapps.net,False
+cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -5276,9 +5276,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -8290,8 +8290,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
