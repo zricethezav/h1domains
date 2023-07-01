@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 13:13:14 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 14:10:51 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1012,13 +1012,13 @@ elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
 *.eops.nl
-*.elasticnet.co
 *.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elasticnet.co
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2492,10 +2492,10 @@ insights.newrelic.com
 *.nr-data.net
 *.newrelic.com
 one.newrelic.com
-support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+support.newrelic.com
 discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
@@ -3136,8 +3136,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
