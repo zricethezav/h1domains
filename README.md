@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 02:40:06 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 03:24:43 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -346,10 +346,10 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
-www.expediaagents.com
 www.abritel.fr
 www.mrjet.se
 www.expediagroup.com
+www.expediaagents.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2928,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com

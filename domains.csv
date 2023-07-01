@@ -1314,8 +1314,8 @@ svb-financial,developer.svb.com,False
 svb-financial,connect.svb.com,False
 svb-financial,www.cipherbio.com,False
 svb-financial,lendx.svb.com,False
-svb-financial,www.svbconnect.com,False
 svb-financial,www.svb.com,False
+svb-financial,www.svbconnect.com,False
 svb-financial,www.svb.com,False
 svb-financial,www.svbconnect.com,False
 svb-financial,connect.svb.com,False
@@ -1564,10 +1564,10 @@ expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
-expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -3663,8 +3663,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6790,8 +6790,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
@@ -8036,8 +8036,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True

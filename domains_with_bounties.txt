@@ -340,10 +340,10 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
-www.expediaagents.com
 www.abritel.fr
 www.mrjet.se
 www.expediagroup.com
+www.expediaagents.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2922,8 +2922,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
