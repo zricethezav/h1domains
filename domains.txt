@@ -5,8 +5,8 @@
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *fleetboard.com
 *evobus.com
 *.mitsubishi-fuso.com
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -3662,8 +3662,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -6098,8 +6098,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -6789,8 +6789,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *.efficientforms.com
 *equifax.cl
@@ -8035,8 +8035,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
