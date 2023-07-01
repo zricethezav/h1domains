@@ -1008,8 +1008,8 @@ elastic-cloud.com
 *.eops.nl
 *.elstc.co
 *.swiftype.com
-cloud.elastic.co
 *.elasticnet.co
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
