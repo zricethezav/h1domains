@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 23:09:10 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 00:26:54 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -58,10 +58,10 @@ crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
+merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 aus5.mozilla.org
@@ -69,8 +69,8 @@ lando.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
 crash-reports.allizom.org
-location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -88,11 +88,11 @@ crash-stats.allizom.org
 lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+relay.firefox.com
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1083,9 +1083,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2928,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
