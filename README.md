@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 08:10:54 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 09:08:56 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -64,10 +64,10 @@ bugzilla.mozilla.org
 merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
-aus5.mozilla.org
 lando.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
+aus5.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -1017,8 +1017,8 @@ elastic-cloud.com
 cloud.elastic.co
 *.elstc.co
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1807,8 +1807,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2928,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
