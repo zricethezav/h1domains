@@ -5192,12 +5192,12 @@ citrix,www.cloud.com,True
 citrix,*.browser.cloud.com,True
 citrix,accounts.cloud.com,True
 citrix,(yoursubdomain).sf-api.eu,True
-citrix,(yoursubdomain).sharefile.eu,True
 citrix,sf-rp-us.sharefile.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
 citrix,secure.sharefile.com,True
+citrix,(yoursubdomain).sharefile.eu,True
 citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -5598,10 +5598,10 @@ playstation,social.playstation.com,True
 playstation,wallets.api.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,*.api.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True

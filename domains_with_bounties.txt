@@ -1254,12 +1254,12 @@ www.cloud.com
 *.browser.cloud.com
 accounts.cloud.com
 (yoursubdomain).sf-api.eu
-(yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
 secure.sharefile.com
+(yoursubdomain).sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 ap-s.cloud.com
@@ -1522,10 +1522,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-store.playstation.com
 direct.playstation.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
