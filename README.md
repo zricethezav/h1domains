@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 10:10:23 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 11:10:17 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -355,8 +355,8 @@ www.flights.com
 www.vrbo.com
 www.ebookers.com
 www.lastminute.co.nz
-www.cheaptickets.com
 www.lastminute.com.au
+www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
@@ -1013,9 +1013,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 cloud.elastic.co
 *.elstc.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 *.elastic.co
 www.elastic.co
@@ -1694,8 +1694,8 @@ www.alibabagroup.com
 *.1688.com
 www.alibabagroup.com
 www.mini.de
-configure.bmw.de
 www.bmw.de
+configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
 configure.mini.de
