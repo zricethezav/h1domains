@@ -759,8 +759,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -3431,8 +3431,8 @@ custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
