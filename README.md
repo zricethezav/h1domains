@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 12:11:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 13:12:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -65,9 +65,9 @@ merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 lando.services.mozilla.com
-hg.mozilla.org
 phabricator.services.mozilla.com
 aus5.mozilla.org
+hg.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -89,10 +89,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
-hg.mozilla.org
 getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -1637,8 +1637,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2003,9 +2003,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *emailsignature.trustpilot.com
-*business.trustpilot.com
 *signup.business.trustpilot.com
 *authenticate.trustpilot.com
+*business.trustpilot.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
@@ -3134,10 +3134,10 @@ shopifyinbox.com
 exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 shopify.plus
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3503,8 +3503,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
