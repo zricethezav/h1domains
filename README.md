@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 13:12:29 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 14:09:30 UTC 2023)
 ```
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1318,8 +1318,8 @@ tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1669,8 +1669,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
