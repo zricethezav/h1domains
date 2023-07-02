@@ -5,8 +5,8 @@
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -4080,12 +4080,12 @@ www.urbanclap.com
 *csmc.edu
 *kerlanjobe.org
 *www.cshs.org
-*Hmh-direct.com
-*Hhapps.net
-*Hmhdr.com
 *SANGABRIELVALLEYHEALTHECONNECT.NET
 *Huntingtonhealth.net
+*Hmh-direct.com
 *hhcareers.com
+*Hhapps.net
+*Hmhdr.com
 *Hmhrx.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
@@ -6098,8 +6098,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -6788,8 +6788,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *.efficientforms.com
 *equifax.com
