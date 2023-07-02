@@ -1011,8 +1011,8 @@ cloud.elastic.co
 *.elasticnet.co
 *.swiftype.com
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
