@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 20:10:08 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 21:10:18 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1013,9 +1013,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.elasticnet.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
 www.elastic.co
