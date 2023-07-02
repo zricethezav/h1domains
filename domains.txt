@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -5773,9 +5773,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -6099,8 +6099,8 @@ connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-*.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -8744,8 +8744,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
