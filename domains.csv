@@ -3663,8 +3663,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4081,12 +4081,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
-cedars-sinai,*Huntingtonhealth.net,False
 cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hhapps.net,False
 cedars-sinai,*Hmhdr.com,False
+cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
+cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -6789,8 +6789,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
