@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 21:10:18 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 22:10:43 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2870,8 +2870,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com.sg
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr

@@ -2029,8 +2029,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,fossilhk.com,False
 fossil,www.watchstationindia.com,False
+fossil,fossilhk.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -3663,8 +3663,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4081,12 +4081,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*Hhapps.net,False
-cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
 cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*Hmh-direct.com,False
 cedars-sinai,*hhcareers.com,False
+cedars-sinai,*Hhapps.net,False
+cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -5276,9 +5276,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -7978,8 +7978,8 @@ starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True

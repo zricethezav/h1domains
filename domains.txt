@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -3662,8 +3662,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4080,12 +4080,12 @@ www.urbanclap.com
 *csmc.edu
 *kerlanjobe.org
 *www.cshs.org
-*Hmh-direct.com
-*Hhapps.net
-*Hmhdr.com
 *SANGABRIELVALLEYHEALTHECONNECT.NET
 *Huntingtonhealth.net
+*Hmh-direct.com
 *hhcareers.com
+*Hhapps.net
+*Hmhdr.com
 *Hmhrx.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
@@ -5275,9 +5275,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -7977,8 +7977,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com.sg
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
