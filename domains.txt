@@ -1211,8 +1211,8 @@ api.fastly.com
 manage.fastly.com
 api.fastly.com
 docs.fastly.com
-ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+ab-platform-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2098,10 +2098,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.vcahospitals.com
@@ -4004,8 +4004,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 www-264.aig.com
 www.lifeandretirement.aig.com
 www.rapidcover.ie
-www.cropriskservices.com
 *.corebridgefinancial.com
+www.cropriskservices.com
 www.layahealthcare.ie
 www.vfis.com
 www.glatfelters.com
@@ -4017,11 +4017,11 @@ www.travelguard.com
 *.aig.com
 www.aig.co.il
 www.aig.com.br
-www.iafcf.org
-www.vfisu.com
 sales.aig.co.il
 www.vfisal.com
 *.aig.co.jp
+www.iafcf.org
+www.vfisu.com
 www.corebridgefinancial.com
 www.americanhome.co.jp
 services.aig.co.il
@@ -4294,8 +4294,8 @@ meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
 ads-api.reddit.com
-*.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -5275,9 +5275,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
+*.logi.com
 alert.logitech.com
 *.myharmony.com
-*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 02:37:53 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 03:19:18 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -154,8 +154,8 @@ hiltonlocalbiz.com
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+ab-platform-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
@@ -1074,8 +1074,8 @@ meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
 ads-api.reddit.com
-*.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
