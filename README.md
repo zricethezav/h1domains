@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 19:11:40 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 20:09:58 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -257,8 +257,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
-*.jitsi.net
 connect.8x8.com
+*.jitsi.net
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -267,6 +267,7 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
 *.jit.si
+*.8x8.id
 *.packet8.net
 voapi.8x8.com
 *.8x8staging.com
@@ -274,11 +275,18 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
+*.p8t.us
+*.wavecell.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
 *.8x8staging.com
 *.chalet.8x8.com
+*.8x8.id
+*.8x8cloud.net
+*.p8t.us
+*.wavecell.com
 connect.8x8.com
 sms.8x8.com
 platform.8x8pilot.com
@@ -2872,10 +2880,10 @@ secureui.starbucks.com
 www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
-www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
