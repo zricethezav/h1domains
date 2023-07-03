@@ -1,6 +1,6 @@
 *omniplus.com
-*.mercedes-benz-trucks.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1047,10 +1047,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
-getpocket.com
-relay.firefox.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+relay.firefox.com
+getpocket.com
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -1780,8 +1780,8 @@ resmed.jp
 produktion.api.praxispad.de/
 referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
-shop.resmed.com
 account.resmed.com
+shop.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2098,10 +2098,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.vcahospitals.com
@@ -3662,8 +3662,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4004,8 +4004,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 www-264.aig.com
 www.lifeandretirement.aig.com
 www.rapidcover.ie
-*.corebridgefinancial.com
 www.cropriskservices.com
+*.corebridgefinancial.com
 www.layahealthcare.ie
 www.vfis.com
 www.glatfelters.com
@@ -4017,11 +4017,11 @@ www.travelguard.com
 www.aig.co.il
 *.aig.com
 www.aig.com.br
+www.iafcf.org
+www.vfisu.com
 sales.aig.co.il
 www.vfisal.com
 *.aig.co.jp
-www.iafcf.org
-www.vfisu.com
 www.corebridgefinancial.com
 www.americanhome.co.jp
 services.aig.co.il
@@ -6788,8 +6788,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *.efficientforms.com
 *equifax.com
@@ -7402,8 +7402,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.foliofn.com
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
