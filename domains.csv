@@ -2029,8 +2029,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,www.watchstationindia.com,False
 fossil,fossilhk.com,False
+fossil,www.watchstationindia.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2099,10 +2099,10 @@ fossil,www.fossilsg.com,False
 fossil,https://smartstore.naver.com/fossilkorea,False
 fossil,watchstationhk.com,False
 fossil,www.watchstationindia.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3663,8 +3663,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4012,11 +4012,11 @@ aig,www.vfis.com,False
 aig,www.glatfelters.com,False
 aig,www-402.aigdirect.com,False
 aig,www-1008.aig.com,False
-aig,www.aig.co.il,False
 aig,www-417.aig.ie,False
 aig,*.myretirementmanager.com,False
 aig,www.travelguard.com,False
 aig,*.aig.com,False
+aig,www.aig.co.il,False
 aig,www.aig.com.br,False
 aig,www.iafcf.org,False
 aig,www.vfisu.com,False
@@ -6789,8 +6789,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
