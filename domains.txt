@@ -8,8 +8,8 @@
 *.freightliner.com
 *.bharatbenz.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *evobus.com
+*.mitsubishi-fuso.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -1023,9 +1023,9 @@ merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 lando.services.mozilla.com
-aus5.mozilla.org
-hg.mozilla.org
 phabricator.services.mozilla.com
+hg.mozilla.org
+aus5.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -1047,10 +1047,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 getpocket.com
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -1446,10 +1446,10 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
 *.jit.si
-platform.8x8.com
 *.packet8.net
 voapi.8x8.com
 *.8x8staging.com
+platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
@@ -1780,8 +1780,8 @@ resmed.jp
 produktion.api.praxispad.de/
 referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
-account.resmed.com
 shop.resmed.com
+account.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
@@ -1995,8 +1995,8 @@ www.fossil.co.jp
 www.skagenglobal.com
 www.shopkatchin.com
 *.misfit.com
-*.cdgfossil.com
 *.watchstation.com
+*.cdgfossil.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -3759,8 +3759,8 @@ rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -4004,8 +4004,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 www-264.aig.com
 www.lifeandretirement.aig.com
 www.rapidcover.ie
-*.corebridgefinancial.com
 www.cropriskservices.com
+*.corebridgefinancial.com
 www.layahealthcare.ie
 www.vfis.com
 www.glatfelters.com
@@ -4017,11 +4017,11 @@ www.travelguard.com
 www.aig.co.il
 *.aig.com
 www.aig.com.br
+www.iafcf.org
+www.vfisu.com
 sales.aig.co.il
 www.vfisal.com
 *.aig.co.jp
-www.iafcf.org
-www.vfisu.com
 www.corebridgefinancial.com
 www.americanhome.co.jp
 services.aig.co.il
@@ -6140,7 +6140,6 @@ supersite.8x8.com
 cloud8.8x8.com
 www.8x8.com
 8x8.force.com
-platform.8x8.com
 *.sameroom.io
 *.8x8.id
 *.8x8pilot.com
@@ -6151,6 +6150,7 @@ platform.8x8.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
+platform.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 09:14:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 10:12:51 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -65,9 +65,9 @@ merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 lando.services.mozilla.com
-aus5.mozilla.org
-hg.mozilla.org
 phabricator.services.mozilla.com
+hg.mozilla.org
+aus5.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -89,10 +89,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 getpocket.com
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -267,10 +267,10 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
 *.jit.si
-platform.8x8.com
 *.packet8.net
 voapi.8x8.com
 *.8x8staging.com
+platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
@@ -976,8 +976,8 @@ rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
