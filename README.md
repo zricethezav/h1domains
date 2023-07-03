@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 12:15:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 13:17:43 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1014,8 +1014,8 @@ elastic-cloud.com
 *.eops.nl
 *.elstc.co
 *.swiftype.com
-*.elasticnet.co
 cloud.elastic.co
+*.elasticnet.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1677,8 +1677,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliexpress.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2253,10 +2253,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
-*.braintreepayments.com
 *.braintree-api.com
 *.xoom.com
 py.pl
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
