@@ -1314,9 +1314,9 @@ careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2778,7 +2778,6 @@ irclogs.wordpress.org
 gutenberg.run
 *.wordpress.net
 api.wordpress.org
-mercantile.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
@@ -2787,6 +2786,7 @@ doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
+mercantile.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3452,8 +3452,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com

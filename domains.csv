@@ -4005,24 +4005,24 @@ homebargains,hackerone-m1rtuq8orz.hbstaging.website,True
 aig,www-264.aig.com,False
 aig,www.lifeandretirement.aig.com,False
 aig,www.rapidcover.ie,False
-aig,www.cropriskservices.com,False
 aig,*.corebridgefinancial.com,False
+aig,www.cropriskservices.com,False
 aig,www.layahealthcare.ie,False
 aig,www.vfis.com,False
 aig,www.glatfelters.com,False
 aig,www-402.aigdirect.com,False
 aig,www-1008.aig.com,False
-aig,www.aig.co.il,False
 aig,www-417.aig.ie,False
 aig,*.myretirementmanager.com,False
+aig,www.aig.co.il,False
 aig,www.travelguard.com,False
 aig,*.aig.com,False
 aig,www.aig.com.br,False
-aig,www.iafcf.org,False
-aig,www.vfisu.com,False
 aig,sales.aig.co.il,False
 aig,www.vfisal.com,False
 aig,*.aig.co.jp,False
+aig,www.iafcf.org,False
+aig,www.vfisu.com,False
 aig,www.corebridgefinancial.com,False
 aig,www.americanhome.co.jp,False
 aig,services.aig.co.il,False
@@ -5253,9 +5253,9 @@ tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -6789,8 +6789,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
@@ -7884,7 +7884,6 @@ wordpress,irclogs.wordpress.org,True
 wordpress,gutenberg.run,True
 wordpress,*.wordpress.net,True
 wordpress,api.wordpress.org,True
-wordpress,mercantile.wordpress.org,True
 wordpress,*.trac.wordpress.org,True
 wordpress, *.svn.wordpress.org,True
 wordpress, *.git.wordpress.org,True
@@ -7893,6 +7892,7 @@ wordpress,doaction.org,True
 wordpress,codex.wordpress.org,True
 wordpress,codex.bbpress.org,True
 wordpress,codex.buddypress.org,True
+wordpress,mercantile.wordpress.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True
@@ -8742,8 +8742,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True

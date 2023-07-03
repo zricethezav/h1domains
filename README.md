@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 23:11:11 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 00:24:38 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1320,9 +1320,9 @@ careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2784,7 +2784,6 @@ irclogs.wordpress.org
 gutenberg.run
 *.wordpress.net
 api.wordpress.org
-mercantile.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
@@ -2793,6 +2792,7 @@ doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
+mercantile.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3458,8 +3458,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
