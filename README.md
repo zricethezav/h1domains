@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 13:17:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 14:14:20 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1677,8 +1677,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2935,8 +2935,8 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-*.tube8.com
 www.thumbzilla.com
+*.tube8.com
 www.redtube.com
 www.modelhub.com
 www.pornhub.com
@@ -3364,8 +3364,8 @@ gnip.com
 *.twimg.com
 gnip.com
 cloudflareworkers.com
-*.cloudflare.com
 *.teams.cloudflare.com
+*.cloudflare.com
 one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
