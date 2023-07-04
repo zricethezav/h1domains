@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 11:14:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 12:16:16 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -354,12 +354,12 @@ dookeydash.com
 hv-mtl.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.mrjet.se
 www.expediaagents.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -889,8 +889,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2500,8 +2500,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
@@ -3146,8 +3146,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3375,8 +3375,8 @@ gnip.com
 gnip.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com

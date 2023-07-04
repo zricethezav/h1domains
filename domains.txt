@@ -5,8 +5,8 @@
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1386,8 +1386,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-login.stanford.edu
 www.stanford.edu
+login.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -1571,12 +1571,12 @@ dookeydash.com
 hv-mtl.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.mrjet.se
 www.expediaagents.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -2038,8 +2038,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2108,10 +2108,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2347,9 +2347,9 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.iseeme.com
 www.gifts.com
-*.cafepress.com
 *.personalcreations.com
 *.canvasworld.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -3668,8 +3668,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4360,8 +4360,8 @@ customers.mattermost.com
 *.voteohio.gov
 *.vote.ohio.gov
 *.safeathomeohio.gov
-*.electionintegrity.ohio.gov
 *.ohiosos.gov
+*.electionintegrity.ohio.gov
 *.ohiobusinesscentral.gov
 *.sos.state.oh.us
 *.boe.ohio.gov
@@ -5061,7 +5061,6 @@ mxpeople.mendixcloud.com
 provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
-poh0v3odoi.execute-api.eu-central-1.amazonaws.com
 dealservice.mendixcloud.com
 deskallocation.mendixcloud.com
 3s.mendixcloud.com
@@ -5076,10 +5075,8 @@ mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
-http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
 servicemanagement-accp.mendixcloud.com
-poh0v3odoi.execute-api.eu-central-1.amazonaws.com
 3dvis.mendixcloud.com
 slm.store.mendix.com
 contributor.mendixcloud.com
@@ -5278,9 +5275,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
+*.logi.com
 alert.logitech.com
 *.myharmony.com
-*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -7529,8 +7526,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
@@ -8291,8 +8288,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8648,8 +8645,8 @@ twitterflightschool.com
 t.co
 cloudflareworkers.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net

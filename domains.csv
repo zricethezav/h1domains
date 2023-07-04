@@ -6,8 +6,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1387,8 +1387,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,login.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,login.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -1572,12 +1572,12 @@ yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
-expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -2039,8 +2039,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,fossilhk.com,False
 fossil,www.watchstationindia.com,False
+fossil,fossilhk.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2109,10 +2109,10 @@ fossil,www.fossilsg.com,False
 fossil,https://smartstore.naver.com/fossilkorea,False
 fossil,watchstationhk.com,False
 fossil,www.watchstationindia.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2348,9 +2348,9 @@ planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -3669,8 +3669,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4361,8 +4361,8 @@ ohiosecretaryofstate,*.boe.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.safeathomeohio.gov,False
-ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
 ohiosecretaryofstate,*.ohiosos.gov,False
+ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
 ohiosecretaryofstate,*.ohiobusinesscentral.gov,False
 ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.boe.ohio.gov,False
@@ -5062,7 +5062,6 @@ mendix,mxpeople.mendixcloud.com,False
 mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
-mendix,poh0v3odoi.execute-api.eu-central-1.amazonaws.com,False
 mendix,dealservice.mendixcloud.com,False
 mendix,deskallocation.mendixcloud.com,False
 mendix,3s.mendixcloud.com,False
@@ -5077,10 +5076,8 @@ mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
-mendix,http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev,False
 mendix,gateway.us-east-1.sws.siemens.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,poh0v3odoi.execute-api.eu-central-1.amazonaws.com,False
 mendix,3dvis.mendixcloud.com,False
 mendix,slm.store.mendix.com,False
 mendix,contributor.mendixcloud.com,False
@@ -5279,9 +5276,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
+logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
-logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -7530,8 +7527,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-ops.net,True
 newrelic,*.nr-data.net,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
@@ -8292,8 +8289,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8649,8 +8646,8 @@ twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
+cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
