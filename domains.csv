@@ -1267,8 +1267,8 @@ abb,*.cylon.com,False
 abb,*.abb.com.cn,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.abb,False
 abb,*.abb.com,False
 abb,*.abb,False
@@ -1438,8 +1438,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,connect.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -1455,8 +1455,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.p8t.us,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
@@ -2195,8 +2195,8 @@ mars,banfieldexchange.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
@@ -2584,8 +2584,8 @@ alohi,www.alohi.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
-anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
@@ -3667,8 +3667,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4085,12 +4085,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
-cedars-sinai,*Huntingtonhealth.net,False
 cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hhapps.net,False
 cedars-sinai,*Hmhdr.com,False
+cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
+cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -5280,9 +5280,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
+logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
-logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
