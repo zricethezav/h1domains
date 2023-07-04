@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 15:17:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 16:13:54 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -244,8 +244,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -889,8 +889,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3141,8 +3141,8 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3854,8 +3854,8 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
-portal.kiwi.ki
 api.kiwi.ki
+portal.kiwi.ki
 mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
@@ -3866,16 +3866,16 @@ login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
-*.urbandictionary.com
 *.ud.wtf
-av.urbandictionary.biz
-*.urbandictionary.biz
+*.urbandictionary.com
 *.urbandictionary.org
+*.urbandictionary.biz
+av.urbandictionary.biz
 *.urbandictionary.blog
 urbandictionary.github.io
 *.urbandictionary.net
-*.urbanup.com
 *.udimg.com
+*.urbanup.com
 *.urbandictionary.com
 *.urbandictionary.net
 *.urbandictionary.biz
