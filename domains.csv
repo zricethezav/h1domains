@@ -1455,8 +1455,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.p8t.us,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
@@ -2197,8 +2197,8 @@ mars,*.royalcanin.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
@@ -3669,8 +3669,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5050,7 +5050,6 @@ jimdo,a.jimdo.com,False
 jimdo,logo.e.jimdo.com,False
 jimdo,help.jimdo.com,False
 jimdo,jimdo.design,False
-mendix,event.us-east-1.sws.siemens.com,False
 mendix,gateway.us-east-1.sws.siemens.com,False
 mendix,slm.store.mendix.com,False
 mendix,contributor.mendixcloud.com,False
@@ -5078,12 +5077,10 @@ mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
-mendix,event.us-east-1.sws.siemens.com,False
 mendix,http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev,False
 mendix,gateway.us-east-1.sws.siemens.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
 mendix,poh0v3odoi.execute-api.eu-central-1.amazonaws.com,False
-mendix,https://react.vis.pre2.usea1.devops.sws.siemens.com/sample/dist/index.html,False
 mendix,3dvis.mendixcloud.com,False
 mendix,slm.store.mendix.com,False
 mendix,contributor.mendixcloud.com,False
@@ -6794,8 +6791,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.com,False
 equifax,*.efficientforms.com,False
@@ -7791,9 +7788,9 @@ grab,p.grabtaxi.com,True
 grab,manage.grab.co,True
 grab,xtramile.grabpay.com,True
 grab,*.grab.co,True
+grab,*.myteksi.com,True
 grab,api.grabpay.com,True
 grab,*.grab.com,True
-grab,*.myteksi.com,True
 grab,gamma.grab.co,True
 grab,kartaview.org,True
 grab,jira.grab.com,True
@@ -8652,8 +8649,8 @@ twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,*.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
+cloudflare,*.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
@@ -8773,8 +8770,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

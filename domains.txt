@@ -1454,8 +1454,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -2196,8 +2196,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.vcahospitals.com
@@ -3668,8 +3668,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5049,7 +5049,6 @@ a.jimdo.com
 logo.e.jimdo.com
 help.jimdo.com
 jimdo.design
-event.us-east-1.sws.siemens.com
 gateway.us-east-1.sws.siemens.com
 slm.store.mendix.com
 contributor.mendixcloud.com
@@ -5077,12 +5076,10 @@ mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
-event.us-east-1.sws.siemens.com
 http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
 servicemanagement-accp.mendixcloud.com
 poh0v3odoi.execute-api.eu-central-1.amazonaws.com
-https://react.vis.pre2.usea1.devops.sws.siemens.com/sample/dist/index.html
 3dvis.mendixcloud.com
 slm.store.mendix.com
 contributor.mendixcloud.com
@@ -6793,8 +6790,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.com
 *.efficientforms.com
@@ -7790,9 +7787,9 @@ p.grabtaxi.com
 manage.grab.co
 xtramile.grabpay.com
 *.grab.co
+*.myteksi.com
 api.grabpay.com
 *.grab.com
-*.myteksi.com
 gamma.grab.co
 kartaview.org
 jira.grab.com
@@ -8651,8 +8648,8 @@ twitterflightschool.com
 t.co
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
@@ -8772,8 +8769,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
