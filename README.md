@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 13:18:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 14:17:44 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -63,11 +63,11 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 merino.services.mozilla.com
 contile.services.mozilla.com
-addons.allizom.org
 lando.services.mozilla.com
 phabricator.services.mozilla.com
 hg.mozilla.org
 aus5.mozilla.org
+addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -889,8 +889,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1027,8 +1027,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1646,9 +1646,9 @@ track.amazon.com
 chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
-apay-us.amazon.com
 music.amazon.com
 api.amazon.com
+apay-us.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -1992,8 +1992,8 @@ admin.rezserver.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2272,8 +2272,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
+paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
@@ -2286,9 +2286,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3144,10 +3144,10 @@ shopifyinbox.com
 exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3166,8 +3166,8 @@ story.snapchat.com
 ads.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 create.snapchat.com
+accounts.snapchat.com
 code.playcanvas.com
 scan.snapchat.com
 playcanv.as
@@ -3402,8 +3402,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3499,16 +3499,16 @@ hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
-www.hackerone.com
 *.vpn.hackerone.net
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
