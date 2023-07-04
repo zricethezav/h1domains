@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 14:17:44 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 15:17:48 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -132,8 +132,8 @@ hilton.io
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -275,8 +275,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -889,8 +889,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1018,9 +1018,7 @@ main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
-elastic-cloud.com
 *.found.io
-*.elastic-cloud.com
 *.eops.nl
 *.elstc.co
 *.elasticnet.co
@@ -1035,11 +1033,9 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.elastic-cloud.com
 www.elastic.co
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-elastic-cloud.com
 *.reckoproduction.com
 *.stripe.com
 *.link.co
@@ -2402,7 +2398,7 @@ research.gs.com
 *.gs-mosaic.qa.gs.com
 *.gs.de
 *.gsam.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3145,9 +3141,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
