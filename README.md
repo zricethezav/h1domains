@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  5 19:14:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 20:13:00 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -201,10 +201,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -372,11 +372,11 @@ www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
-www.hotwire.com
-www.expediacruises.com
 www.expediapartnercentral.com
+www.hotwire.com
 www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -886,10 +886,10 @@ playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
-*.tinderops.net
 *.tinder.com
-*.tstaging.com
+*.tinderops.net
 *.gotinder.com
+*.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -900,8 +900,8 @@ capturingreality.com
 *.tinderwebstaging.com
 therecord.media
 app.recordedfuture.com
-api.recordedfuture.com
 hatching.io
+api.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
 www.recordedfuture.com
@@ -946,6 +946,7 @@ opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
+ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1063,10 +1064,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1076,8 +1077,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1274,18 +1275,18 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
+secure.sharefile.eu
 (youriwssubdomain).cloud.com
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1533,9 +1534,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1576,8 +1577,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.it
-*.paddypower.it
 *.sbgcdn.com
 *.skybet.com
 *.betviewapi.com
@@ -1588,6 +1587,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
+*.betfair.it
+*.paddypower.it
 *.betfair.com
 *.betfair.se
 *.skygamingcontent.com
@@ -1597,9 +1598,9 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
-*.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.ro
 *.betfair.es
 *.betfair.com
 *.paddypower.com
@@ -1876,9 +1877,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 hub.vroid.com
+vroid.com
 payment.pixiv.net
 neoket.net
-vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -1912,11 +1913,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2258,9 +2259,9 @@ matomo.cloud
 matomo.cloud
 *.xoom.com
 py.pl
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintree-api.com
 *.paylution.com
 *.braintreepayments.com
 www.swiftcapital.com
@@ -2279,11 +2280,11 @@ pigeon.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
-*.braintreegateway.com
-paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
+*.braintreegateway.com
+paypalobjects.com
 api.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
@@ -2565,9 +2566,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
+*.securecircle.com
 www.crowdstrike.com
 *.humio.com
-*.securecircle.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -2879,9 +2880,9 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 app.starbucks.com
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
@@ -2972,13 +2973,13 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
+gist.github.com
 *.github.net
 education.github.com
-gist.github.com
 npmjs.org
 *.githubusercontent.com
 github.com
@@ -3114,8 +3115,8 @@ www.zendesk.com
 apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 api.getbase.com
+app.smooch.io
 zopim.com
 www.zendesk.com
 developer.zendesk.com
@@ -3352,9 +3353,9 @@ donations.livestream.com
 onboarding.greenhouse.io
 support.greenhouse.io
 api.greenhouse.io
-jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
+jss.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -3460,9 +3461,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
-spaces.pm
 api.slack.com
 status.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
@@ -3493,8 +3494,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3784,21 +3785,21 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -3869,8 +3870,8 @@ login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
-*.ud.wtf
 *.urbandictionary.com
+*.ud.wtf
 *.urbandictionary.org
 *.urbandictionary.biz
 av.urbandictionary.biz
