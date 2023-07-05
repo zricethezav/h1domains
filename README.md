@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  5 21:12:19 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 22:11:10 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -201,10 +201,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -225,8 +225,8 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
-extranet.s-pankki.fi
 www.s-pankki.fi
+extranet.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 www.sokos.fi
@@ -808,9 +808,9 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+*.unrealtournament.com
 *.easy.ac
 *.mediatonic.co.uk
-*.unrealtournament.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
@@ -886,10 +886,10 @@ playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
-*.tinderops.net
 *.tinder.com
-*.tstaging.com
+*.tinderops.net
 *.gotinder.com
+*.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -946,7 +946,6 @@ opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1023,9 +1022,9 @@ main.trafficfactory.biz
 *.found.io
 *.elstc.co
 *.eops.nl
+cloud.elastic.co
 *.swiftype.com
 *.elasticnet.co
-cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1209,8 +1208,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1275,18 +1274,18 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-(yoursubdomain).eu.iws.cloud.com
 secure.sharefile.eu
+(yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1577,6 +1576,8 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.betfair.it
+*.paddypower.it
 *.sbgcdn.com
 *.skybet.com
 *.betviewapi.com
@@ -1587,8 +1588,6 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
-*.betfair.it
-*.paddypower.it
 *.betfair.com
 *.betfair.se
 *.skygamingcontent.com
@@ -1598,9 +1597,9 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
+*.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.ro
 *.betfair.es
 *.betfair.com
 *.paddypower.com
@@ -1736,12 +1735,12 @@ maria.casino
 *.mariacasino.com
 *.kindredext.net
 *.unibet.com
-www.32red.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
 *.ottokasino.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1806,8 +1805,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -1877,9 +1876,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 hub.vroid.com
-vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2259,9 +2258,9 @@ matomo.cloud
 matomo.cloud
 *.xoom.com
 py.pl
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintree-api.com
 *.paylution.com
 *.braintreepayments.com
 www.swiftcapital.com
@@ -2280,11 +2279,11 @@ pigeon.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
-*.braintreegateway.com
-paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
+*.braintreegateway.com
+paypalobjects.com
 api.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
@@ -2390,12 +2389,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2880,9 +2879,9 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 app.starbucks.com
+www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
-www.starbucks.co.kr
 www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
@@ -3115,8 +3114,8 @@ www.zendesk.com
 apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 api.getbase.com
+app.smooch.io
 zopim.com
 www.zendesk.com
 developer.zendesk.com
@@ -3173,10 +3172,10 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
+map.snapchat.com
 store.snapchat.com
 business.snapchat.com
 my.snapchat.com
@@ -3278,11 +3277,11 @@ luckey.fr
 luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
