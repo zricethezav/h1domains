@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  6 22:11:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul  6 23:11:45 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -124,10 +124,10 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-hiltonhawaiianvillage.jp
 hiltonjapan.co.jp
 hiltonmanage.com
 *.hilton.io
+hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1022,11 +1022,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.elstc.co
 *.swiftype.com
 *.eops.nl
 *.elasticnet.co
 cloud.elastic.co
+*.elstc.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1348,6 +1348,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1409,8 +1410,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1418,6 +1417,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1607,8 +1608,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1771,8 +1772,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -1920,17 +1921,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-datapod-1-100-druid-query.development.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2070,10 +2071,6 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
@@ -2082,20 +2079,24 @@ vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-booking.beachbound.com
-holidays-nz.fijiairways.com
-res.en.travelbrandsagent.com
-res.funjet.com
-res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
+booking.beachbound.com
+holidays-nz.fijiairways.com
+res.en.travelbrandsagent.com
+res.funjet.com
+res.secretsresorts.com
 login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2107,13 +2108,13 @@ res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2553,12 +2554,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-demo.plaid.com
 secure.plaid.com
+demo.plaid.com
 dashboard.plaid.com
 my.plaid.com
-production.plaid.com
 plaid.com
+production.plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2700,11 +2701,11 @@ gifts.grab.com
 wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
-xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 p.grabtaxi.com
 manage.grab.co
+xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 *.myteksi.net
@@ -3454,8 +3455,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-api.custody.coinbase.com
 institutional.coinbase.com
+api.custody.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
@@ -3716,10 +3717,10 @@ account.magento.com
 accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-u.magento.com
-imagine.magento.com
 marketplace.magento.com
 magento.com
+u.magento.com
+imagine.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -3885,8 +3886,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-urbandictionary.github.io
 *.urbandictionary.net
+urbandictionary.github.io
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
