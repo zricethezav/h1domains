@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  6 06:13:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul  6 07:15:01 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -91,11 +91,11 @@ mozilla-pontoon-staging.herokuapp.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-developer.mozilla.org
+getpocket.com
 monitor.firefox.com
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 vpn.mozilla.org
@@ -226,9 +226,9 @@ api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
-www.s-pankki.fi
 tunnistus.s-ryhma.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -244,8 +244,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -360,9 +360,9 @@ www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
-www.ebookers.com
-www.travelocity.com
 www.vrbo.com
+www.travelocity.com
+www.ebookers.com
 www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
@@ -450,8 +450,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-www.poloniex.com
 m.poloniex.com
+www.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -1021,12 +1021,12 @@ www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
 *.elstc.co
-*.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
-*.elastic.co
+*.elasticnet.co
+*.swiftype.com
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1121,8 +1121,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1208,8 +1208,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1346,6 +1346,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1605,8 +1606,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1738,15 +1739,15 @@ unibet.me
 *.bingo.com
 *.kolikkopelit.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2551,12 +2552,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
+secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
-secure.plaid.com
 my.plaid.com
-production.plaid.com
 plaid.com
+production.plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2575,8 +2576,8 @@ plaid.com
 www.crowdstrike.com
 *.humio.com
 *.securecircle.com
-www.crowdstrike.org
 *.crowdstrike.com
+www.crowdstrike.org
 hybrid-analysis.com
 falcon-sandbox.com
 *.preempt.com
@@ -2875,11 +2876,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2890,8 +2891,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
-www.starbucks.ca
 openapi.starbucks.com
+www.starbucks.ca
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -2919,10 +2920,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-search.brave.com
-talk.brave.com
 brave.com
 basicattentiontoken.org
+talk.brave.com
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3028,12 +3029,12 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-*.hyperpure.com
 api.grofers.com
 api2.grofers.com
+*.hyperpure.com
 blinkit.com
-*.zomans.com
 winecellar.zomato.com
+*.zomans.com
 *.zdev.net
 *.zomato.com
 *.runnr.in
@@ -3396,15 +3397,15 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
-my.pressable.com
 embed.tumblr.com
+my.pressable.com
 happy.tools
 simplenote.com
 simperium.com
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3477,8 +3478,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3511,11 +3512,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 www.hackerone.com
 reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 b5s.hackerone-ext-content.com
