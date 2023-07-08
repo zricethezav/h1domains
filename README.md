@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  8 08:11:39 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  8 09:10:42 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1606,8 +1606,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1739,15 +1739,15 @@ unibet.me
 *.bingo.com
 *.kolikkopelit.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1888,8 +1888,8 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-booth.pm
 *.fanbox.cc
+booth.pm
 accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
@@ -2876,11 +2876,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2891,8 +2891,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
-openapi.starbucks.com
 www.starbucks.ca
+openapi.starbucks.com
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -2920,9 +2920,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-talk.brave.com
 brave.com
 basicattentiontoken.org
+talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3569,7 +3569,6 @@ dcita.edu
 dliflc.edu
 nps.edu
 uscga.edu
-*.mil
 cnss.gov
 cttso.gov
 fehrm.gov
@@ -3581,6 +3580,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+*.mil
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3786,27 +3786,27 @@ www.data.gov
 catalog.data.gov
 admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
+alertmanager.fr.cloud.gov
+grafana.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-alertmanager.fr.cloud.gov
-grafana.fr.cloud.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
