@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  8 13:13:21 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  8 14:09:48 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -362,8 +362,8 @@ www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.abritel.fr
-www.ebookers.com
 www.travelocity.com
+www.ebookers.com
 www.flights.com
 www.vrbo.com
 www.cheaptickets.com
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1348,7 +1348,6 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
-www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1607,8 +1606,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1920,17 +1919,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+datapod-1-100-druid-query.development.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2377,11 +2376,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2397,11 +2396,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2498,23 +2497,23 @@ docs.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 *.infrastructure-data.newrelic.com
-*.nr-data.net
-*.nr-ops.net
+learn.newrelic.com
 insights.newrelic.com
+*.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2553,12 +2552,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-demo.plaid.com
 secure.plaid.com
+demo.plaid.com
 dashboard.plaid.com
 my.plaid.com
-production.plaid.com
 plaid.com
+production.plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2700,11 +2699,11 @@ gifts.grab.com
 wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
+xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 p.grabtaxi.com
 manage.grab.co
-xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 gamma.grab.co
@@ -2877,11 +2876,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2892,8 +2891,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
-openapi.starbucks.com
 www.starbucks.ca
+openapi.starbucks.com
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3183,13 +3182,13 @@ store.playcanvas.com
 playcanv.as
 map.snapchat.com
 store.snapchat.com
-business.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
 app.snapchat.com
 www.bitmoji.com
 playcanvas.com
 snappublisher.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3454,8 +3453,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-institutional.coinbase.com
 api.custody.coinbase.com
+institutional.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
@@ -3715,10 +3714,10 @@ account.magento.com
 accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-u.magento.com
-imagine.magento.com
 marketplace.magento.com
 magento.com
+u.magento.com
+imagine.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -3743,9 +3742,9 @@ api.breadcrumb.com
 pos.swipely.com
 swipely-merchant-assets.s3.amazonaws.com
 reports.breadcrumb.com
-inventory.upserve.com
 payments.upserve.com
 d2evh2mef3r450.cloudfront.net
+inventory.upserve.com
 teamhelp.upserve.com
 payments.breadcrumb.com
 hq-api.upserve.com
@@ -3884,8 +3883,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-urbandictionary.github.io
 *.urbandictionary.net
+urbandictionary.github.io
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
