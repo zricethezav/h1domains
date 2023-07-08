@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  8 15:11:05 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  8 16:10:20 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -54,8 +54,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -63,9 +63,9 @@ push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
-contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -362,8 +362,8 @@ www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.abritel.fr
-www.ebookers.com
 www.travelocity.com
+www.ebookers.com
 www.flights.com
 www.vrbo.com
 www.cheaptickets.com
@@ -579,8 +579,8 @@ kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
-aggregator.etoro.com
 etoropartners.com
+aggregator.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
 kyc.etoro.com
@@ -989,8 +989,8 @@ rubygems.org
 trufflesuite.com
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
-consensys.net
 activate.codefi.network
+consensys.net
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1025,8 +1025,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1348,7 +1348,6 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
-www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1410,8 +1409,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1419,6 +1416,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1607,8 +1606,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.es
 *.skycasino.com
-*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1721,9 +1720,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
+fortmatic.com
 auth.magic.link
 dashboard.magic.link
-fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -1825,9 +1824,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -1920,17 +1919,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-datapod-1-100-druid-query.development.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2070,6 +2069,10 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
@@ -2078,24 +2081,20 @@ vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
+booking.beachbound.com
+holidays-nz.fijiairways.com
+res.en.travelbrandsagent.com
+res.funjet.com
+res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
-booking.beachbound.com
-holidays-nz.fijiairways.com
-res.en.travelbrandsagent.com
-res.funjet.com
-res.secretsresorts.com
 login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2107,13 +2106,13 @@ res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2553,12 +2552,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-secure.plaid.com
 demo.plaid.com
+secure.plaid.com
 dashboard.plaid.com
 my.plaid.com
-plaid.com
 production.plaid.com
+plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2877,11 +2876,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2892,8 +2891,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
-openapi.starbucks.com
 www.starbucks.ca
+openapi.starbucks.com
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3743,9 +3742,9 @@ api.breadcrumb.com
 pos.swipely.com
 swipely-merchant-assets.s3.amazonaws.com
 reports.breadcrumb.com
-inventory.upserve.com
 payments.upserve.com
 d2evh2mef3r450.cloudfront.net
+inventory.upserve.com
 teamhelp.upserve.com
 payments.breadcrumb.com
 hq-api.upserve.com
@@ -3884,8 +3883,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-urbandictionary.github.io
 *.urbandictionary.net
+urbandictionary.github.io
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
