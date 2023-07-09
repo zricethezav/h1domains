@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  8 23:09:31 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 00:28:13 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -54,8 +54,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -63,9 +63,9 @@ push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
-contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -362,8 +362,8 @@ www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.abritel.fr
-www.travelocity.com
 www.ebookers.com
+www.travelocity.com
 www.flights.com
 www.vrbo.com
 www.cheaptickets.com
@@ -579,8 +579,8 @@ kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
-aggregator.etoro.com
 etoropartners.com
+aggregator.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
 kyc.etoro.com
@@ -1072,19 +1072,19 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
+*.snooguts.net
 strapi.reddit.com
 m.reddit.com
-*.snooguts.net
 sh.reddit.com
 meta-api.reddit.com
 *.redditinc.com
-s.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
 *.reddit.com
-amp.reddit.com
 *.redditblog.com
+amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1348,6 +1348,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1409,8 +1410,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1418,6 +1417,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1606,8 +1607,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1708,9 +1709,9 @@ www.alibabagroup.com
 www.mini.de
 www.bmw.de
 configure.bmw.de
+www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1739,15 +1740,15 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1888,8 +1889,8 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 booth.pm
+*.fanbox.cc
 accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
@@ -1919,17 +1920,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-datapod-1-100-druid-query.development.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2376,11 +2377,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2396,11 +2397,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2576,8 +2577,8 @@ plaid.com
 www.crowdstrike.com
 *.humio.com
 *.securecircle.com
-www.crowdstrike.org
 *.crowdstrike.com
+www.crowdstrike.org
 hybrid-analysis.com
 falcon-sandbox.com
 *.preempt.com
@@ -3397,14 +3398,14 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
 my.pressable.com
+embed.tumblr.com
 happy.tools
 simplenote.com
 simperium.com
+intensedebate.com
 api.tumblr.com
 assets.tumblr.com
-intensedebate.com
 wordpress.com
 safe.tumblr.com
 *.tumblr.com
@@ -3883,8 +3884,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-urbandictionary.github.io
 *.urbandictionary.net
+urbandictionary.github.io
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
