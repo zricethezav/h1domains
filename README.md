@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  9 00:28:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 01:38:28 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -54,8 +54,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -63,9 +63,9 @@ push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
-contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
+contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -354,7 +354,6 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.hotels.com
 www.orbitz.com
 www.mrjet.se
 www.hotwirepartnercentral.com
@@ -362,6 +361,7 @@ www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.abritel.fr
+www.hotels.com
 www.ebookers.com
 www.travelocity.com
 www.flights.com
@@ -1072,27 +1072,27 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
-*.snooguts.net
 strapi.reddit.com
 m.reddit.com
+*.snooguts.net
 sh.reddit.com
 meta-api.reddit.com
 *.redditinc.com
-gateway.reddit.com
 s.reddit.com
+gateway.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
 *.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
 reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1607,8 +1607,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.es
 *.skycasino.com
-*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2070,10 +2070,6 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
@@ -2082,20 +2078,24 @@ vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-booking.beachbound.com
-holidays-nz.fijiairways.com
-res.en.travelbrandsagent.com
-res.funjet.com
-res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
+booking.beachbound.com
+holidays-nz.fijiairways.com
+res.en.travelbrandsagent.com
+res.funjet.com
+res.secretsresorts.com
 login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2107,13 +2107,13 @@ res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2377,11 +2377,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2397,11 +2397,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2577,8 +2577,8 @@ plaid.com
 www.crowdstrike.com
 *.humio.com
 *.securecircle.com
-*.crowdstrike.com
 www.crowdstrike.org
+*.crowdstrike.com
 hybrid-analysis.com
 falcon-sandbox.com
 *.preempt.com
@@ -2921,9 +2921,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-talk.brave.com
 brave.com
 basicattentiontoken.org
+talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3715,10 +3715,10 @@ account.magento.com
 accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-marketplace.magento.com
-magento.com
 u.magento.com
 imagine.magento.com
+marketplace.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
