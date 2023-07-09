@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  9 12:12:05 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 13:13:19 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1027,8 +1027,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1409,6 +1409,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1416,8 +1418,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1606,8 +1606,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1708,9 +1708,9 @@ www.alibabagroup.com
 www.mini.de
 www.bmw.de
 configure.bmw.de
-www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1888,8 +1888,8 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-booth.pm
 *.fanbox.cc
+booth.pm
 accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
@@ -1919,17 +1919,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-datapod-1-100-druid-query.development.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2270,19 +2270,19 @@ swiftfinancial.com
 py.pl
 *.paylution.com
 *.xoom.com
+paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
-paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
+*.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-*.paydiant.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
@@ -2497,23 +2497,23 @@ docs.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 *.infrastructure-data.newrelic.com
-*.nr-data.net
-*.nr-ops.net
+learn.newrelic.com
 insights.newrelic.com
+*.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2552,12 +2552,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-demo.plaid.com
 secure.plaid.com
+demo.plaid.com
 dashboard.plaid.com
 my.plaid.com
-production.plaid.com
 plaid.com
+production.plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2576,8 +2576,8 @@ plaid.com
 www.crowdstrike.com
 *.humio.com
 *.securecircle.com
-www.crowdstrike.org
 *.crowdstrike.com
+www.crowdstrike.org
 hybrid-analysis.com
 falcon-sandbox.com
 *.preempt.com
@@ -2699,11 +2699,11 @@ gifts.grab.com
 wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
-xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 p.grabtaxi.com
 manage.grab.co
+xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 gamma.grab.co
@@ -2876,11 +2876,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2891,8 +2891,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
-www.starbucks.ca
 openapi.starbucks.com
+www.starbucks.ca
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -2920,9 +2920,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
+talk.brave.com
 brave.com
 basicattentiontoken.org
-talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3397,14 +3397,14 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
-my.pressable.com
 embed.tumblr.com
+my.pressable.com
 happy.tools
 simplenote.com
 simperium.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+intensedebate.com
 wordpress.com
 safe.tumblr.com
 *.tumblr.com
@@ -3569,6 +3569,7 @@ dcita.edu
 dliflc.edu
 nps.edu
 uscga.edu
+*.mil
 cnss.gov
 cttso.gov
 fehrm.gov
@@ -3580,7 +3581,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-*.mil
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3714,10 +3714,10 @@ account.magento.com
 accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-marketplace.magento.com
-magento.com
 u.magento.com
 imagine.magento.com
+marketplace.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -3883,8 +3883,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-*.urbandictionary.net
 urbandictionary.github.io
+*.urbandictionary.net
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
