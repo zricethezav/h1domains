@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  9 02:40:38 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 03:23:14 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -376,10 +376,10 @@ www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
 www.wotif.com
-www.hotwire.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1348,6 +1348,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1606,8 +1607,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.es
 *.skycasino.com
-*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1708,9 +1709,9 @@ www.alibabagroup.com
 www.mini.de
 www.bmw.de
 configure.bmw.de
-www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1919,17 +1920,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-datapod-1-100-druid-query.development.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2270,19 +2271,19 @@ swiftfinancial.com
 py.pl
 *.paylution.com
 *.xoom.com
+paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
-paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
+*.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-*.paydiant.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
@@ -2376,11 +2377,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2396,11 +2397,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2876,11 +2877,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2891,8 +2892,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
-openapi.starbucks.com
 www.starbucks.ca
+openapi.starbucks.com
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -2920,9 +2921,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-talk.brave.com
 brave.com
 basicattentiontoken.org
+talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3453,8 +3454,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-institutional.coinbase.com
 api.custody.coinbase.com
+institutional.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
