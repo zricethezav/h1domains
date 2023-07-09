@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  9 03:23:14 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 04:10:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -54,8 +54,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -63,9 +63,9 @@ push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
-contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -362,8 +362,8 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 www.abritel.fr
 www.hotels.com
-www.travelocity.com
 www.ebookers.com
+www.travelocity.com
 www.flights.com
 www.vrbo.com
 www.cheaptickets.com
@@ -1410,6 +1410,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1417,8 +1419,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1607,8 +1607,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1721,9 +1721,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
+fortmatic.com
 auth.magic.link
 dashboard.magic.link
-fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -1740,15 +1740,15 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1889,8 +1889,8 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-booth.pm
 *.fanbox.cc
+booth.pm
 accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
@@ -2377,11 +2377,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2397,11 +2397,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2553,12 +2553,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-demo.plaid.com
 secure.plaid.com
+demo.plaid.com
 dashboard.plaid.com
 my.plaid.com
-production.plaid.com
 plaid.com
+production.plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -3510,18 +3510,18 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
@@ -3570,7 +3570,6 @@ dcita.edu
 dliflc.edu
 nps.edu
 uscga.edu
-*.mil
 cnss.gov
 cttso.gov
 fehrm.gov
@@ -3582,6 +3581,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+*.mil
 adlnet.gov
 aftac.gov
 dc3on.gov
