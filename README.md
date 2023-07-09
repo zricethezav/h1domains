@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  9 20:10:43 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 21:10:38 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -54,8 +54,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -63,9 +63,9 @@ push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
-contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -1073,19 +1073,19 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
+*.snooguts.net
 strapi.reddit.com
 m.reddit.com
-*.snooguts.net
 sh.reddit.com
 meta-api.reddit.com
 *.redditinc.com
-s.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
 *.reddit.com
-amp.reddit.com
 *.redditblog.com
+amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
@@ -1349,6 +1349,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1381,8 +1382,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 api.aiven.io
-help.aiven.io
 www.aiven.io
+help.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -1607,8 +1608,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1721,9 +1722,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
-fortmatic.com
 auth.magic.link
 dashboard.magic.link
+fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -1825,9 +1826,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -1889,8 +1890,8 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 booth.pm
+*.fanbox.cc
 accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
@@ -2377,11 +2378,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2397,11 +2398,11 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2498,23 +2499,23 @@ docs.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-*.infrastructure-data.newrelic.com
 learn.newrelic.com
-insights.newrelic.com
+*.infrastructure-data.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
-synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+synthetics.eu.newrelic.com
 login.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2553,12 +2554,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-secure.plaid.com
 demo.plaid.com
+secure.plaid.com
 dashboard.plaid.com
 my.plaid.com
-plaid.com
 production.plaid.com
+plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2877,11 +2878,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -2892,8 +2893,8 @@ www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
-www.starbucks.ca
 openapi.starbucks.com
+www.starbucks.ca
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -2921,9 +2922,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
+talk.brave.com
 brave.com
 basicattentiontoken.org
-talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3151,9 +3152,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3714,10 +3715,10 @@ account.magento.com
 accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-u.magento.com
-imagine.magento.com
 marketplace.magento.com
 magento.com
+u.magento.com
+imagine.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
