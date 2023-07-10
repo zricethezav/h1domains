@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 10 21:11:58 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 10 22:12:46 UTC 2023)
 ```
 www.visa.com.tw
 www.visa.com.cn
@@ -156,9 +156,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -166,8 +166,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -1495,8 +1495,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2201,16 +2201,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2508,11 +2508,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3632,8 +3632,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
