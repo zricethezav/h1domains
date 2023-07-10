@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 10 13:21:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 10 14:16:13 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -571,6 +571,13 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
+my.exness.com
+exnessaffiliates.com
+pay.ibex.exchange
+my.exness.com
+pay.ibex.exchange
+https://my.exness.com/webtrading/
+exnessaffiliates.com
 app.smtp2go.com
 api.smtp2go.com
 smtp2go.com
@@ -1000,8 +1007,8 @@ rubygems.org
 trufflesuite.com
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1336,8 +1343,8 @@ tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1420,6 +1427,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1427,8 +1436,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1614,9 +1621,9 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
-*.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.ro
 *.betfair.es
 *.skycasino.com
 *.betfair.com
@@ -1698,10 +1705,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.1688.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1757,8 +1764,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2090,10 +2097,10 @@ book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
-vacations.us.palladiumhotelgroup.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 www.wynnvacations.com
+vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
@@ -2389,11 +2396,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3071,8 +3078,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3163,9 +3170,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3184,8 +3191,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
-story.snapchat.com
 accounts.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
