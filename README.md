@@ -2,8 +2,24 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 16:19:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 17:14:04 UTC 2023)
 ```
+testapi.redoxengine.com
+fhir.redoxengine.com
+www.redoxengine.com
+help.redoxengine.com
+testapp.redoxengine.com
+10x.redoxengine.com
+docs.redoxengine.com
+explore.redoxengine.com
+10x.redoxengine.com
+testapp.redoxengine.com
+testapi.redoxengine.com
+docs.redoxengine.com
+fhir.redoxengine.com
+explore.redoxengine.com
+www.redoxengine.com
+help.redoxengine.com
 www.mobile-phantom.com
 *.palm.tech
 www.tecno-mobile.com
@@ -34,9 +50,9 @@ www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
-www.visa.co.nz
 www.visa.com.mx
 www.currencycloud.com
+www.visa.co.nz
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -654,10 +670,6 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-*.simpletax.ca
-*.wealthsimple.com
-*.wealthsimple.com
-*.simpletax.ca
 www.mundi.com.br
 www.momondo.com
 www.hotelscombined.com
@@ -1167,11 +1179,11 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1233,9 +1245,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2212,16 +2224,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2519,11 +2531,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3025,11 +3037,11 @@ www.starbucks.fr
 www.starbucks.com.br
 www.starbucks.co.uk
 card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
