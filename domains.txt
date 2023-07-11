@@ -2,8 +2,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -15,8 +15,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -136,8 +136,8 @@ www.tink.com
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1151,8 +1151,8 @@ preprod.oyorooms.ms
 traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -2310,8 +2310,8 @@ www.watchstationindia.com
 banfield.us
 *.royalcanin.nl
 *.royalcanin.be
-*.miroyalcanin.com.ar
 *.banfield.com
+*.miroyalcanin.com.ar
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.com
@@ -5556,8 +5556,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -5565,6 +5563,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 api.watsons.com.ph
 www10.watsons.com.my
 api.watsons.com.hk
@@ -5575,6 +5575,7 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
+www.pns.hk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -5871,9 +5872,9 @@ chat.amazon.com
 affiliate-program.amazon.com
 track.amazon.com
 manufacturing.amazon.com
-music.amazon.com
 api.amazon.com
 apay-us.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -5906,8 +5907,8 @@ https://amazonpay.amazon.in/*
 *.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
@@ -5990,8 +5991,8 @@ api.picsart.io
 www.picsart.com
 picsart.io
 api.picsart.io
-relaxcdn.unibet.com
 unibet.me
+relaxcdn.unibet.com
 *.highrolling.nu
 *.unibet.fr
 *.kolikkopelit.com
@@ -6004,8 +6005,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -7529,11 +7530,11 @@ cloud.rocket.chat
 *.arkadiyt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -7817,8 +7818,8 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.prowly.com
 *.berush.com
+*.prowly.com
 *.semrush.net
 workflows.semrush.com
 *.seoquake.com
@@ -9158,12 +9159,12 @@ web.uphabit.com
 api.uphabit.com
 api.uphabit.com
 web.uphabit.com
+www.nuri.com
 www.bitwala.com
 api.app.bitwala.com
-www.nuri.com
 api.app.nuri.com
-app.nuri.com
 app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
@@ -9394,10 +9395,10 @@ marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

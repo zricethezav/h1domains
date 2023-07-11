@@ -3,8 +3,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -16,8 +16,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -137,8 +137,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1152,8 +1152,8 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
-mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
+mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
@@ -2311,8 +2311,8 @@ mars,*.myroyalcanin.ro,False
 mars,banfield.us,False
 mars,*.royalcanin.nl,False
 mars,*.royalcanin.be,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.banfield.com,False
+mars,*.miroyalcanin.com.ar,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -5557,8 +5557,6 @@ watson_group,www.iciparisxl.lu,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,app.marionnaud.hu,True
 watson_group,www.marionnaud.ro,True
-watson_group,www.marionnaud.fr,True
-watson_group,www.watsons.com.tr,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
@@ -5566,6 +5564,8 @@ watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
+watson_group,www.marionnaud.fr,True
+watson_group,www.watsons.com.tr,True
 watson_group,api.watsons.com.ph,True
 watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
@@ -5576,6 +5576,7 @@ watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
+watson_group,www.pns.hk,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -5872,9 +5873,9 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,track.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
-amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
+amazonvrp,music.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -5907,8 +5908,8 @@ alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
-alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
+alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
@@ -5991,8 +5992,8 @@ picsart,api.picsart.io,False
 picsart,www.picsart.com,False
 picsart,picsart.io,False
 picsart,api.picsart.io,False
-kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
+kindred_group,relaxcdn.unibet.com,False
 kindred_group,*.highrolling.nu,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.kolikkopelit.com,True
@@ -6005,8 +6006,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -7530,11 +7531,11 @@ arkadiyt-projects,*.arkadiyt.com,False
 arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
+goldmansachs,*.gsselect.com,True
+goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.gsselect.com,True
-goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -7818,8 +7819,8 @@ localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
-semrush,*.prowly.com,False
 semrush,*.berush.com,False
+semrush,*.prowly.com,False
 semrush,*.semrush.net,True
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
@@ -9159,12 +9160,12 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
+nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
-nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9395,10 +9396,10 @@ tts,*.search.gov,True
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
