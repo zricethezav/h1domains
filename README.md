@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 06:12:52 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 07:13:05 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -35,8 +35,8 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.visa.com.mx
 www.currencycloud.com
+www.visa.com.mx
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -52,8 +52,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.authorize.net
-visa.com.au
 www.cybersource.com
+visa.com.au
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1164,10 +1164,10 @@ main.trafficfactory.biz
 *.eops.nl
 *.swiftype.com
 cloud.elastic.co
-*.elstc.co
 *.elasticnet.co
-*.elastic.co
+*.elstc.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1519,8 +1519,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 api.aiven.io
-www.aiven.io
 help.aiven.io
+www.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -1557,7 +1557,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
 www10.watsons.com.my
@@ -1826,10 +1825,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2210,16 +2209,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2517,11 +2516,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2652,9 +2651,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3017,10 +3016,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
@@ -3642,8 +3641,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
