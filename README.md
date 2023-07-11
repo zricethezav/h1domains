@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 00:24:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 01:40:15 UTC 2023)
 ```
 www.visa.com.tw
 www.visa.com.cn
@@ -26,8 +26,8 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.currencycloud.com
 www.visa.com.mx
+www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -36,7 +36,6 @@ www.cardinalcommerce.com
 aw.visa.com
 usa.visa.com
 bm.visa.com
-visa.com.au
 www.visa.co.id
 www.visa.co.ke
 www.visa.co.th
@@ -45,6 +44,7 @@ www.visa.co.ve
 visa.co.za
 www.authorize.net
 www.cybersource.com
+visa.com.au
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1539,6 +1539,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1546,8 +1548,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1876,8 +1876,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1956,9 +1956,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2201,16 +2201,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2508,11 +2508,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2643,9 +2643,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3248,8 +3248,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
