@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 14:36:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 15:28:37 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -52,8 +52,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 visa.com.au
-www.authorize.net
 www.cybersource.com
+www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -496,11 +496,11 @@ www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.wotif.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1163,8 +1163,8 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 cloud.elastic.co
 *.elastic.co
 www.elastic.co
@@ -1548,8 +1548,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1557,6 +1555,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 api.watsons.com.ph
 www10.watsons.com.my
 api.watsons.com.hk
@@ -1883,8 +1883,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1963,9 +1963,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2208,16 +2208,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2643,16 +2643,16 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2879,9 +2879,9 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 eu1.badoo.com
-badoo.com
 ccardseu1.badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3015,10 +3015,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
@@ -3174,8 +3174,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3325,9 +3325,9 @@ my.snapchat.com
 rt.playcanvas.com
 app.snapchat.com
 www.bitmoji.com
-playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
