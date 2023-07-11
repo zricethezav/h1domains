@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 11:12:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 12:17:36 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -175,8 +175,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -1163,11 +1163,11 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-*.elasticnet.co
 *.elstc.co
+*.elasticnet.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1323,9 +1323,9 @@ internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api.larksuite.com
-open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 app.larksuite.com
@@ -1504,8 +1504,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1883,8 +1883,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1963,9 +1963,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2395,8 +2395,8 @@ fanduel.design
 *.flickr.com
 *.flickr.com
 bedpost.casper.com
-operator.casper.tools
 casper.com
+operator.casper.tools
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2643,8 +2643,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3015,10 +3015,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
@@ -3942,10 +3942,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
