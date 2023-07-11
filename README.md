@@ -2,8 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 01:40:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 02:34:42 UTC 2023)
 ```
+www.mobile-phantom.com
+*.palm.tech
+www.tecno-mobile.com
+security.tecno.com
+*.palm.tech
+www.tecno-mobile.com
+www.boomplay.com
+security.tecno.com
+www.mobile-phantom.com
 www.visa.com.tw
 www.visa.com.cn
 www.visa.com.hk
@@ -26,8 +35,8 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.visa.com.mx
 www.currencycloud.com
+www.visa.com.mx
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -43,8 +52,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.authorize.net
-www.cybersource.com
 visa.com.au
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -166,8 +175,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -1155,8 +1164,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.swiftype.com
 cloud.elastic.co
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1539,8 +1548,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1548,6 +1555,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1813,8 +1822,8 @@ https://amazonpay.amazon.in/*
 *.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
-*.aliexpress.ru
 *.alibaba-inc.com
+*.aliexpress.ru
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
@@ -1876,8 +1885,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2643,9 +2652,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3008,10 +3017,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
@@ -3089,9 +3098,9 @@ www.redtube.com
 www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
-www.youporn.com
 www.youpornpremium.com
 api.pornhub.com
+www.youporn.com
 mobile.pornhub.com
 ht.pornhub.com
 www.pornmd.com
@@ -3632,8 +3641,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3934,10 +3943,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
