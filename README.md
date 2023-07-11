@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 07:13:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 08:14:05 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -51,9 +51,9 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-www.authorize.net
 www.cybersource.com
 visa.com.au
+www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -291,8 +291,8 @@ super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 *.indriverapp.com
-*.indriver.com
 *.indrive.com
+*.indriver.com
 new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 injob.indriver.com
@@ -1163,9 +1163,9 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
-*.elasticnet.co
 *.elstc.co
+*.elasticnet.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1827,8 +1827,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1884,8 +1884,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2651,9 +2651,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3943,10 +3943,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
