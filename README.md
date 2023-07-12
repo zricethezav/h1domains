@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 12 07:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 12 08:12:45 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
-getpocket.com
 hg.mozilla.org
+getpocket.com
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -514,9 +514,9 @@ www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
-www.stayz.com.au
 www.hotwire.com
 www.wotif.com
+www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1226,12 +1226,12 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
+old.reddit.com
 new.reddit.com
 *.snooguts.net
 strapi.reddit.com
@@ -1570,8 +1570,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1579,6 +1577,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 api.watsons.com.ph
 www10.watsons.com.my
 api.watsons.com.hk
@@ -2231,16 +2231,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2538,11 +2538,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3038,10 +3038,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3150,8 +3150,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3959,10 +3959,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
