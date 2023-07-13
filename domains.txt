@@ -1490,8 +1490,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1623,8 +1623,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1923,8 +1923,8 @@ app.citushealth.com/
 resmed.co.in
 resmed.com.cn
 resmed.es
-www.citushealth.com
 careers.resmed.com
+www.citushealth.com
 myair.resmed.com
 airview.resmed.com
 resmed.hk
@@ -2463,9 +2463,9 @@ www.fidelityworkplace.com
 www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
-www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
+www.photoaffections.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -7724,10 +7724,10 @@ nyc01.jamieweb.net
 jamiewebgbelqfno.onion
 ipv6.jamieweb.net
 ipv4.jamieweb.net
-jamieweb.net
 ldn01.jamieweb.net
 jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion
 www.jamieweb.net
+jamieweb.net
 www.jamieweb.net
 ipv6.jamieweb.net
 ipv4.jamieweb.net
@@ -7827,8 +7827,8 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.berush.com
 *.prowly.com
+*.berush.com
 *.semrush.net
 workflows.semrush.com
 *.seoquake.com

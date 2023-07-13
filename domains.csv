@@ -1491,8 +1491,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -1624,8 +1624,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,https://webrtc.8x8.com/,True
 8x8-bounty,cloud8.8x8.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -1924,8 +1924,8 @@ resmed,app.citushealth.com/,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
-resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
+resmed,www.citushealth.com,False
 resmed,myair.resmed.com,False
 resmed,airview.resmed.com,False
 resmed,resmed.hk,False
@@ -2464,9 +2464,9 @@ fidelity,www.fidelityworkplace.com,False
 fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
+planetart,www.photoaffections.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
@@ -7725,10 +7725,10 @@ jamieweb,nyc01.jamieweb.net,False
 jamieweb,jamiewebgbelqfno.onion,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False
-jamieweb,jamieweb.net,False
 jamieweb,ldn01.jamieweb.net,False
 jamieweb,jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion,False
 jamieweb,www.jamieweb.net,False
+jamieweb,jamieweb.net,False
 jamieweb,www.jamieweb.net,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False
@@ -7828,8 +7828,8 @@ localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
-semrush,*.berush.com,False
 semrush,*.prowly.com,False
+semrush,*.berush.com,False
 semrush,*.semrush.net,True
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
