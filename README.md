@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 13 01:39:41 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 13 02:37:22 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -366,8 +366,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -442,8 +442,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1906,8 +1906,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1986,9 +1986,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2231,16 +2231,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2538,11 +2538,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2672,10 +2672,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3038,10 +3038,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
