@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 13 17:12:40 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 13 18:12:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -53,12 +53,12 @@ www.visa.com.vn
 www.visa.co.nz
 www.currencycloud.com
 www.visa.co.in
+www.cardinalcommerce.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 usa.visa.com
-www.cardinalcommerce.com
 aw.visa.com
 bm.visa.com
 www.visa.co.id
@@ -68,8 +68,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 visa.com.au
-www.cybersource.com
 www.authorize.net
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1167,8 +1167,8 @@ staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
 trufflesuite.com
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2379,9 +2379,9 @@ login.tvg.com
 pabets.tvg.com
 fdbox.net
 sportsbook.fanduel.com
-login-4ngbets.us.betfair.com
 ia.tvg.com
 login-ia.tvg.com
+login-4ngbets.us.betfair.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
@@ -2535,11 +2535,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2561,10 +2561,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
-*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3631,10 +3631,10 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
-app.slack.com
-*.quip.com
 slackatwork.com
 slack-redir.net
+app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3671,16 +3671,16 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-*.vpn.hackerone.net
 reviewer.pullrequest.com
+*.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-errors.hackerone.net
 hackerone.live
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
