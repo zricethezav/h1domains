@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 13 12:14:01 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 13 13:20:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -54,12 +54,12 @@ www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
 www.cardinalcommerce.com
-aw.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 usa.visa.com
+aw.visa.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -70,7 +70,6 @@ visa.co.za
 visa.com.au
 www.cybersource.com
 www.authorize.net
-www.tink.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -79,6 +78,7 @@ www.visa.com.az
 www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
+www.visa.com.tr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -147,9 +147,9 @@ app.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
-kolesa.kz
 id.avtoelon.uz
 m.avtoelon.uz
+kolesa.kz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -497,8 +497,8 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.hotwirepartnercentral.com
 www.expediagroup.com
-www.abritel.fr
 www.orbitz.com
+www.abritel.fr
 www.ebookers.com
 www.flights.com
 www.travelocity.com
@@ -1222,8 +1222,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1846,8 +1846,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1903,8 +1903,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1941,8 +1941,8 @@ marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
-*uat.marriott.com
 homes-and-villas.marriott.com
+*uat.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2210,8 +2210,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 link.omise.co
-dashboard.omise.co
 www.opn.ooo
+dashboard.omise.co
 dashboard2.omise.co
 api.omise.co
 linksplus-dashboard.omise.co
@@ -2425,10 +2425,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 py.pl
-*.paylution.com
 *.braintreepayments.com
 *.braintree-api.com
 *.xoom.com
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2437,8 +2437,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2535,11 +2535,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2561,10 +2561,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2946,8 +2946,8 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
-*.wordpress.org
 planet.wordpress.org
+*.wordpress.org
 wordpressfoundation.org
 *.buddypress.org
 bbpress.org
@@ -3517,8 +3517,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 onboarding.greenhouse.io
-support.greenhouse.io
 api.greenhouse.io
+support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
