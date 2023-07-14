@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 14 19:11:17 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 14 20:11:18 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -51,8 +51,8 @@ www.visa.com.mx
 www.visa.com.vn
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -383,8 +383,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1901,10 +1901,10 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
+*.vladcazino.ro
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1970,8 +1970,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -1982,9 +1982,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -3034,10 +3034,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3631,9 +3631,9 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
+*.quip.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
 edgeapi.slack.com
 slack-imgs.com
@@ -3671,8 +3671,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
