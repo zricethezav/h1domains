@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 14 14:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 14 15:12:18 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1226,11 +1226,11 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
+ads.reddit.com
 new.reddit.com
 *.snooguts.net
 strapi.reddit.com
@@ -1482,14 +1482,14 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 *.tiktokv.com
-developers.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1844,9 +1844,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2534,11 +2534,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2560,10 +2560,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2668,10 +2668,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3034,10 +3034,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
