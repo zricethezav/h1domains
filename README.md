@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 14 00:24:06 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 14 01:41:30 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -51,13 +51,13 @@ www.visa.com.mx
 www.visa.com.vn
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
-www.cardinalcommerce.com
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
+www.cardinalcommerce.com
 aw.visa.com
 usa.visa.com
 bm.visa.com
@@ -1903,8 +1903,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2386,10 +2386,10 @@ www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
 tvg.com
-*.fanduel.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3631,9 +3631,9 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
+*.quip.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
 edgeapi.slack.com
 slack-imgs.com
