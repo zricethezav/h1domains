@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 16 16:11:40 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 16 17:10:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1902,8 +1902,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2079,7 +2079,6 @@ obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
 datapod-1-druid-ingest.production.forescoutcloud.net
-www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
 updates.forescout.com
@@ -2088,6 +2087,7 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
+www.forescout.com
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3309,9 +3309,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3543,8 +3543,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3671,8 +3671,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-*.vpn.hackerone.net
 reviewer.pullrequest.com
+*.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
