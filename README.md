@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 16 02:42:34 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 16 03:24:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -50,8 +50,8 @@ www.visa.co.ao
 www.visa.com.mx
 www.visa.com.vn
 www.visa.co.nz
-bb.visa.com
 www.visa.co.in
+bb.visa.com
 www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
@@ -1902,8 +1902,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2228,16 +2228,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -3543,8 +3543,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3634,8 +3634,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
