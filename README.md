@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 18 13:15:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 18 14:14:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -270,9 +270,9 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonmanage.com
 *.hiltonjapan.co.jp
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -394,11 +394,11 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-sso.8x8.com
 work.8x8.com
 *.jitsi.net
 connect.8x8.com
 *.8x8.vc
+sso.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1750,8 +1750,8 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
-*.skybet.com
 *.skybingo.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2437,8 +2437,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 support.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3147,8 +3147,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3310,8 +3310,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3669,8 +3669,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
