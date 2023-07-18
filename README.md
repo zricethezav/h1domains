@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 18 12:14:54 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 18 13:15:53 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -366,8 +366,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -509,8 +509,8 @@ www.lastminute.co.nz
 www.travelocity.ca
 www.carrentals.com
 www.fewo-direkt.de
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
@@ -1744,7 +1744,6 @@ faucet.polygon.technology
 *.sbgcdn.com
 *.betviewapi.com
 *.skyvegas.com
-*.skybingo.com
 *.msgsvc.io
 *.operationstechnology.io
 *.securityservices.io
@@ -1752,6 +1751,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.betfair.com
 *.skybet.com
+*.skybingo.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1902,8 +1902,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -1931,12 +1931,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
 giftcards.marriott.com
+all-inclusive.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3302,8 +3302,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
