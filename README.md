@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 18 03:18:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 18 04:10:47 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 support.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3147,8 +3147,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3302,8 +3302,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
