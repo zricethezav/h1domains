@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 18 19:12:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 18 20:12:36 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -698,8 +698,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1251,8 +1251,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2553,8 +2553,8 @@ goldmansachsindices.com
 *.nextcapital.com
 *.goldmansachs.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 *.finlife.com
+*.vennhypotheken.nl
 research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -2564,7 +2564,7 @@ marquee.gs.com
 *.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 support.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
