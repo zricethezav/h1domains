@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 18 18:14:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 18 19:12:43 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1370,8 +1370,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 ccloud.yoti.com
 core.yoti.com
 code.yoti.com
@@ -1484,9 +1484,9 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -1971,8 +1971,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2228,16 +2228,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -3112,8 +3112,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.pornhub.com
 www.redtube.com
+www.pornhub.com
 www.redtubepremium.com
 www.youpornpremium.com
 api.pornhub.com
@@ -3309,9 +3309,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3443,8 +3443,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3633,8 +3633,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
