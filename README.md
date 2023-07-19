@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 19 08:17:19 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 19 09:14:09 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
 testapi.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -271,8 +271,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -294,8 +294,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2537,11 +2537,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2563,9 +2563,9 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -3037,10 +3037,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3544,8 +3544,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3672,8 +3672,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
