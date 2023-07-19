@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 19 12:12:50 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 19 13:12:17 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -57,9 +57,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-aw.visa.com
 usa.visa.com
 www.cardinalcommerce.com
+aw.visa.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -398,9 +398,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -605,8 +605,8 @@ blueprints.amazon.com
 a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1986,9 +1986,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2231,15 +2231,15 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
@@ -2538,11 +2538,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2564,9 +2564,9 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -3545,8 +3545,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
