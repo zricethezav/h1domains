@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 19 14:12:01 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 19 15:10:23 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -1187,8 +1187,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2538,11 +2538,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2564,9 +2564,9 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -2670,12 +2670,12 @@ one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
 blog.newrelic.com
-alerts.newrelic.com
 support.newrelic.com
-discuss.newrelic.com
+alerts.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2864,10 +2864,10 @@ gifts.grab.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
-p.grabtaxi.com
 manage.grab.co
 api.grabpay.com
 *.grab.com
+p.grabtaxi.com
 gamma.grab.co
 kartaview.org
 *.myteksi.net
@@ -3545,8 +3545,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
