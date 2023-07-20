@@ -1126,8 +1126,8 @@ kolesa.kz
 m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1289,8 +1289,8 @@ api-eu.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
 *.hilton.io
-hiltonmanage.com
 hiltonhawaiianvillage.jp
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1619,6 +1619,7 @@ user-profile.8x8.com
 *.wavecell.com
 sso.8x8pilot.com
 *.8x8cloud.net
+pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1643,6 +1644,7 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
+pay.8x8.com
 *.magicjackpot.ro
 *.superbet.com
 *.superbet.ro
@@ -2457,8 +2459,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -2485,8 +2487,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 *.simplytoimpress.com
-www.photoaffections.com
 *.mycustomcase.com
+www.photoaffections.com
 www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
@@ -4330,10 +4332,10 @@ www.urbanclap.com
 *appofchoice.huntingtonhospital.com/
 *.thomsonreuters.com
 *.thomsonreuters.com
-app.aktia.fi
 www.aktia.fi
 auth.aktia.fi
 ftn.aktia.fi
+app.aktia.fi
 ebank.aktia.fi
 mobile-gateway.aktia.fi
 www.aktia.com
@@ -5222,11 +5224,11 @@ deskallocation.mendixcloud.com
 3s.mendixcloud.com
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6263,9 +6265,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -6312,6 +6314,7 @@ work.8x8.com
 *.8x8.id
 sso.8x8.com
 *.chalet.8x8.com
+pay.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -6323,7 +6326,6 @@ express.8x8.com
 *.wavecell.com
 *.packet8.net
 *.p8t.us
-*.dxi.eu
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -6363,6 +6365,7 @@ https://webrtc.8x8.com/
 express.8x8.com
 cloud8.8x8.com
 supersite.8x8.com
+pay.8x8.com
 www.8x8.com
 get8x8.com
 www.paloalto.com
@@ -7696,10 +7699,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 support.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -7845,8 +7848,8 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.berush.com
 *.prowly.com
+*.berush.com
 *.semrush.net
 workflows.semrush.com
 *.seoquake.com
@@ -8819,8 +8822,8 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
 *.cloudflarepartners.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -9416,10 +9419,10 @@ marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
