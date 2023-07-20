@@ -1836,9 +1836,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3541,8 +3541,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3669,8 +3669,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
