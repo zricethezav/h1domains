@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 20 09:10:57 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 20 10:10:58 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -294,8 +294,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -368,8 +368,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2540,10 +2540,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2568,8 +2568,8 @@ marquee.gs.com
 *.gsam.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2674,10 +2674,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 support.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3547,8 +3547,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3665,8 +3665,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3961,10 +3961,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
