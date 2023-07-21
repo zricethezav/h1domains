@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 21 04:10:34 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 21 05:10:29 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -1240,8 +1240,8 @@ new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-meta-api.reddit.com
 *.redditinc.com
+meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1755,16 +1755,16 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.skybingo.com
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
 *.sbgorigin.com
 *.skybet.net
 *.skybet.co.uk
-*.betfair.se
 *.sbgservices.com
+*.betfair.se
 *.platformservices.io
 *.sbgtest.net
 *.betfair.ro
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -3040,9 +3040,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
@@ -3315,8 +3315,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3547,8 +3547,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
