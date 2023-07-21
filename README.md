@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 21 22:09:30 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 21 23:10:10 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1186,11 +1186,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.elstc.co
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
+*.elstc.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1252,11 +1252,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 www.reddit.com
-*.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1486,11 +1486,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1905,8 +1905,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
