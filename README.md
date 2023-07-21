@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 21 10:10:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 21 11:10:32 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -182,8 +182,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1719,9 +1719,9 @@ api.direct.playstation.com
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
-mapper.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
+mapper.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2868,8 +2868,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 api.grabpay.com
-p.grabtaxi.com
 *.grab.com
+p.grabtaxi.com
 gamma.grab.co
 kartaview.org
 jira.grab.com
@@ -3675,8 +3675,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
