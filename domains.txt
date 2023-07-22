@@ -154,9 +154,9 @@ www.tink.com
 *fleetboard.de
 *.freightliner.com
 *.bharatbenz.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -6264,10 +6264,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -8957,10 +8957,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
@@ -9158,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
