@@ -1096,8 +1096,8 @@ api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
-www.mercadopago.cl
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1475,8 +1475,8 @@ developer.svb.com
 connect.svb.com
 www.cipherbio.com
 www.svb.com
-www.svbconnect.com
 lendx.svb.com
+www.svbconnect.com
 www.svb.com
 www.svbconnect.com
 connect.svb.com
@@ -8954,8 +8954,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+ctf.hacker101.com
 www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com

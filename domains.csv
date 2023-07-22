@@ -1097,8 +1097,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
-mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1476,8 +1476,8 @@ svb-financial,developer.svb.com,False
 svb-financial,connect.svb.com,False
 svb-financial,www.cipherbio.com,False
 svb-financial,www.svb.com,False
-svb-financial,www.svbconnect.com,False
 svb-financial,lendx.svb.com,False
+svb-financial,www.svbconnect.com,False
 svb-financial,www.svb.com,False
 svb-financial,www.svbconnect.com,False
 svb-financial,connect.svb.com,False
@@ -8955,8 +8955,8 @@ security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
-security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
+security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
