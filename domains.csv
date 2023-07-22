@@ -3769,6 +3769,7 @@ epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
+epicgames,*.harmonixmusic.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -4483,9 +4484,9 @@ reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,oauth.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
@@ -6034,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6265,10 +6266,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6326,7 +6327,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.8x8.vc,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -7441,10 +7441,10 @@ matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True

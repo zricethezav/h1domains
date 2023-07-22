@@ -3768,6 +3768,7 @@ forum.sketchfab.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
+*.harmonixmusic.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -4482,9 +4483,9 @@ amp.reddit.com
 redditforbusiness.com
 www.reddit.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
@@ -6033,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6264,10 +6265,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -6325,7 +6326,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7440,10 +7440,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.braintree-api.com
 *.xoom.com
 py.pl
 *.paylution.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com

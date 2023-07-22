@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 22 11:08:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 22 12:10:00 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -992,6 +992,7 @@ wonderboxdev.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
+*.harmonixmusic.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1253,9 +1254,9 @@ amp.reddit.com
 redditforbusiness.com
 www.reddit.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
@@ -1905,8 +1906,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1985,10 +1986,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2427,10 +2428,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.braintree-api.com
 *.xoom.com
 py.pl
 *.paylution.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
