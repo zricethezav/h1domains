@@ -154,9 +154,9 @@ www.tink.com
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1096,8 +1096,8 @@ api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1427,9 +1427,9 @@ http://miro.com/blog
 *.abb.com.cn
 *.cylon.com
 *.tnb.com
-*.abb.com
 *.abb.com.tr
 *.baldor.com
+*.abb.com
 *.abb
 *.abb.com
 *.abb
@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5568,9 +5568,9 @@ app.dropcontact.io
 beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
-*.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -5936,8 +5936,8 @@ https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
 www.alibabagroup.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.Daraz.com
 *.aliyun.com
 *.1688.com
@@ -6265,10 +6265,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -6326,7 +6326,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8464,8 +8463,8 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8920,8 +8919,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -9160,8 +9159,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
