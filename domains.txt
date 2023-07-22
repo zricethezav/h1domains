@@ -154,9 +154,9 @@ www.tink.com
 *fleetboard.de
 *.freightliner.com
 *.bharatbenz.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1095,9 +1095,9 @@ www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -3723,8 +3723,8 @@ poplindata.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-judge.me
 bigcommerce-adapter.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -5522,8 +5522,8 @@ goerli.cloud.enjin.io
 jumpnet.cloud.enjin.io
 beam.enjin.io
 jumpnet.beam.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -6033,8 +6033,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6325,6 +6325,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8909,9 +8910,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
-api.slack.com
 status.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
@@ -8957,10 +8958,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
