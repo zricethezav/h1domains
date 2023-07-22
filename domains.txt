@@ -1096,8 +1096,8 @@ api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
-www.mercadopago.cl
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6265,10 +6265,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -6326,6 +6326,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8430,8 +8431,8 @@ www.coursera.org
 developer.zendesk.com
 h1-your-domain.zendesk.com
 smooch.io
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
@@ -8919,8 +8920,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -9159,8 +9160,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
@@ -9391,10 +9392,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

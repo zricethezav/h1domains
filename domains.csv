@@ -1097,8 +1097,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
-mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6266,10 +6266,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6327,6 +6327,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.8x8.vc,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8431,8 +8432,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,h1-your-domain.zendesk.com,True
 zendesk,smooch.io,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True
@@ -8920,8 +8921,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -9160,8 +9161,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
+nuri,app.bitwala.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9392,10 +9393,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
