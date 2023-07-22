@@ -1096,8 +1096,8 @@ api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1380,8 +1380,8 @@ new-order.eu-east-1.indriverapp.com
 *.indriver.com
 profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
-watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1675,7 +1675,6 @@ share.doppler.com
 *.IBWC.GOV
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
-*.AMERICA.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV
@@ -1684,6 +1683,7 @@ share.doppler.com
 *.USMISSION.GOV
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
+*.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
 *.STATE.GOV
@@ -4458,12 +4458,12 @@ www.medicine.com
 www.question.com
 blog.drugs.com
 www.woolshed.com
-old.reddit.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -6264,10 +6264,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -7231,9 +7231,9 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
-*.ford.com
 *.lincoln.com
 *.motorcraft.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -8463,8 +8463,8 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8919,8 +8919,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -9391,10 +9391,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
