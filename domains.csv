@@ -2,10 +2,10 @@ handle,domain,eligible_for_bounty
 shi_vdp,api.shi.com,False
 shi_vdp,durango.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
-shi_vdp,accounts.shi.com,False
 shi_vdp,apiconsole.shi.com,False
 shi_vdp,assetinsights.shi.com,False
 shi_vdp,servicepro.shi.com,False
+shi_vdp,accounts.shi.com,False
 shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,accounts.shi.com,False
@@ -155,9 +155,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1378,8 +1378,8 @@ indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
-indrive,*.indriver.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
+indrive,*.indriver.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
@@ -8346,9 +8346,9 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
-zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
+zomato,*.zdev.net,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8753,8 +8753,8 @@ airbnb,admin.demo.urbandoor.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.partners,True
 airbnb,www.hoteltonight.com,True
-vimeo,api.vimeo.com,True
 vimeo,donations.livestream.com,True
+vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
@@ -8921,8 +8921,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -9161,8 +9161,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9393,10 +9393,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
