@@ -1095,9 +1095,9 @@ www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1380,8 +1380,8 @@ new-order.eu-east-1.indriverapp.com
 *.indriver.com
 profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
-priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
+priority.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -6033,8 +6033,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -8957,10 +8957,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
