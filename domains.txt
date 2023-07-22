@@ -1096,8 +1096,8 @@ api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -4006,8 +4006,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6326,7 +6326,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8761,7 +8760,6 @@ api.vhx.tv
 *.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
-*.vhx.tv
 magisto.com
 www.magisto.com
 staging.magisto.com
@@ -9160,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
@@ -9392,10 +9390,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
