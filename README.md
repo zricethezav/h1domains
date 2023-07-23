@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 07:09:19 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 08:09:57 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1490,8 +1490,8 @@ tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1906,8 +1906,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3521,8 +3521,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 onboarding.greenhouse.io
-api.greenhouse.io
 support.greenhouse.io
+api.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -3932,10 +3932,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
