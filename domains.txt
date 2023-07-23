@@ -1073,8 +1073,8 @@ bindplus.org
 biocarepatientsupportprogram.ca
 biocomplexitycentral.com
 biocomplexitycentral.org
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -1379,9 +1379,9 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
+*.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -2163,7 +2163,6 @@ www.shopkatchin.com
 *.fossil.vn
 m.fossil.co.uk
 m.fossil.de
-www.fossil.ch
 www.fossil.de
 www.fossil.es
 www.fossil.in
@@ -2180,6 +2179,7 @@ watchstationhk.com
 fossilcare.com
 *.cdgcitizen.com
 *.smartwatchstations.com
+www.fossil.ch
 *.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
@@ -5225,11 +5225,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5603,7 +5603,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-www.watsons.com.tw
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -9157,8 +9157,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com

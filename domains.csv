@@ -1074,8 +1074,8 @@ clarivate,bindplus.org,False
 clarivate,biocarepatientsupportprogram.ca,False
 clarivate,biocomplexitycentral.com,False
 clarivate,biocomplexitycentral.org,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -1380,9 +1380,9 @@ indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -2164,7 +2164,6 @@ fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
-fossil,www.fossil.ch,False
 fossil,www.fossil.de,False
 fossil,www.fossil.es,False
 fossil,www.fossil.in,False
@@ -2181,6 +2180,7 @@ fossil,watchstationhk.com,False
 fossil,fossilcare.com,False
 fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
+fossil,www.fossil.ch,False
 fossil,*.fossil.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
@@ -5226,11 +5226,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5604,7 +5604,7 @@ watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
 watson_group,www.pns.hk,True
-watson_group,www.watsons.com.tw,True
+watson_group,api.watsons.com.tw,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -9158,8 +9158,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
+nuri,app.bitwala.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
