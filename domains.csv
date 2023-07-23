@@ -35,8 +35,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1096,9 +1096,9 @@ mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadopago.cl,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -4004,9 +4004,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
+elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
-elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5939,8 +5939,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
@@ -6033,8 +6033,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6325,7 +6325,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.8x8.vc,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8344,9 +8343,9 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
+zomato,*.zomato.com,True
 zomato,*.zomans.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -9390,10 +9389,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

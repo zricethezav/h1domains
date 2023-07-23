@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 22:10:04 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 23:10:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1187,9 +1187,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
+cloud.elastic.co
 *.elstc.co
 *.swiftype.com
-cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1845,8 +1845,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.1688.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.alimama.com
 *.aliyun.com
 *.taobao.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3195,9 +3195,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 winecellar.zomato.com
+*.zomato.com
 *.zomans.com
 *.zdev.net
-*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3930,10 +3930,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
