@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 14:09:29 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 15:09:32 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -725,12 +725,12 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-www.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1848,8 +1848,8 @@ www.alibabagroup.com
 *.aliyun.com
 *.1688.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.alimama.com
 *.taobao.com
 *.alibaba.com
@@ -1986,10 +1986,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3197,9 +3197,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 winecellar.zomato.com
+*.zomato.com
 *.zomans.com
 *.zdev.net
-*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

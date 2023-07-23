@@ -35,8 +35,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -1097,8 +1097,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
-mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -2658,12 +2658,12 @@ gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
-etoro_bbp,www.etoro.com,True
 etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,delta.app,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -5942,8 +5942,8 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.alimama.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6327,7 +6327,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.8x8.vc,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8346,9 +8345,9 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
+zomato,*.zomato.com,True
 zomato,*.zomans.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
