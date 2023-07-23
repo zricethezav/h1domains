@@ -1097,8 +1097,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadopago.cl,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -6266,10 +6266,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -8345,8 +8345,8 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.zdev.net,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
