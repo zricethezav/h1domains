@@ -187,7 +187,6 @@ clarivate,compumark.fr,False
 clarivate,compumark.info,False
 clarivate,compumark.jp,False
 clarivate,compumarks.com,False
-clarivate,computer-central.com,False
 clarivate,corporateintelligence.com,False
 clarivate,corporateintelligence.org,False
 clarivate,cpainproma.co.uk,False
@@ -224,6 +223,7 @@ clarivate,drganswers.com,False
 clarivate,drgaws.com,False
 clarivate,drginsight.com,False
 clarivate,drgpayersandproviders.com,False
+clarivate,endnote360.com,False
 clarivate,cpaglobal.ru,False
 clarivate,authorconnect-webofscience.com,False
 clarivate,authorconnectwebofscience.com,False
@@ -1119,9 +1119,9 @@ kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
-kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
+kolesagroup,avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
@@ -1495,8 +1495,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
-s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6266,10 +6266,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6838,9 +6838,9 @@ pixiv,*.fanbox.cc,True
 pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
-pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,dic.pixiv.net,True
+pixiv,sketch.pixiv.net,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -8455,9 +8455,9 @@ udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True
+shopify,*.shopifycloud.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
