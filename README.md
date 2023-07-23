@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 20:10:08 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 21:09:48 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1187,9 +1187,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.elstc.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1894,8 +1894,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -3311,9 +3311,9 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

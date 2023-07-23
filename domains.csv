@@ -35,8 +35,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1097,8 +1097,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadopago.cl,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -4004,9 +4004,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5226,11 +5226,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6023,8 +6023,8 @@ kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
 kindred_group,*.unibet.fr,True
-kindred_group,*.bingo.com,True
 kindred_group,*.kolikkopelit.com,True
+kindred_group,*.bingo.com,True
 kindred_group,maria.casino,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.kindredext.net,True
@@ -8461,9 +8461,9 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
