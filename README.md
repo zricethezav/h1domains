@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 19:09:51 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 20:10:08 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1243,9 +1243,9 @@ sh.reddit.com
 meta-api.reddit.com
 s.reddit.com
 www.spiketrap.io
+ads-api.reddit.com
 *.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1845,8 +1845,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.1688.com
 *.aliyun-inc.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.alimama.com
 *.aliyun.com
 *.taobao.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2948,8 +2948,8 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
-*.wordpress.org
 planet.wordpress.org
+*.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
@@ -3195,9 +3195,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 winecellar.zomato.com
+*.zomato.com
 *.zomans.com
 *.zdev.net
-*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3311,9 +3311,9 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3445,8 +3445,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 www.airbnb.com
 api.airbnb.com
