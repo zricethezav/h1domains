@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 16:09:36 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 17:09:00 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1242,18 +1242,18 @@ m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
 s.reddit.com
-ads-api.reddit.com
 www.spiketrap.io
 *.reddit.com
 gateway.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.reddithelp.com
 accounts.reddit.com
 *.snooguts.net
@@ -1984,10 +1984,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2950,10 +2950,10 @@ logs.dashlane.com
 api.dashlane.com
 *.wordpress.org
 planet.wordpress.org
-wordpressfoundation.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+wordpressfoundation.org
 *.wordcamp.org
 lists.wordpress.org
 api.wordpress.org
@@ -3195,9 +3195,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 winecellar.zomato.com
+*.zomato.com
 *.zomans.com
 *.zdev.net
-*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3638,8 +3638,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
