@@ -22,8 +22,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1210,8 +1210,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,getpocket.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
+mozilla_core_services,getpocket.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -1380,9 +1380,9 @@ indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
+indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -2680,7 +2680,6 @@ etoro_bbp,push-n-hap.cloud.etoro.com,True
 etoro_bbp,kyc.etoro.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
-etoro_bbp,etorox.com,True
 etoro_bbp,partners.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
@@ -2729,7 +2728,6 @@ etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
-etoro_bbp,etorox.com,True
 instacart,api.instacart.com,True
 instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
@@ -5228,11 +5226,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6035,8 +6033,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -8345,9 +8343,9 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
 zomato,*.zdev.net,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8463,9 +8461,9 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8919,8 +8917,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -9159,8 +9157,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9391,10 +9389,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
