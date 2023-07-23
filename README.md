@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 13:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 14:09:29 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1848,8 +1848,8 @@ www.alibabagroup.com
 *.aliyun.com
 *.1688.com
 *.aliyun-inc.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.alibaba.com
@@ -2666,9 +2666,9 @@ rpm.newrelic.com
 *.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3314,8 +3314,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3640,8 +3640,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

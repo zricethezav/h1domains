@@ -1096,8 +1096,8 @@ api.mercadopago.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -2490,11 +2490,11 @@ www.photoaffections.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.simplytoimpress.com
-www.cafepress.com
 iseeme.com
-www.canvasworld.com
+www.cafepress.com
 *.gifts.com
 *.photoaffections.com
+www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
 *.iseeme.com
@@ -5941,8 +5941,8 @@ www.alibabagroup.com
 *.aliyun.com
 *.1688.com
 *.aliyun-inc.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.alibaba.com
@@ -7694,9 +7694,9 @@ rpm.newrelic.com
 *.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -8464,8 +8464,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8919,8 +8919,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -9159,8 +9159,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
