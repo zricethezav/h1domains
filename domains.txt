@@ -5228,11 +5228,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5943,8 +5943,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7871,8 +7871,8 @@ investors.semrush.com
 *.berush.com
 workflows.semrush.com
 investors.semrush.com
-api.bitwarden.com
 vault.bitwarden.com
+api.bitwarden.com
 help.bitwarden.com
 identity.bitwarden.com
 bitwarden.com
@@ -8461,10 +8461,10 @@ partners.shopify.com
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8941,8 +8941,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -9158,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com

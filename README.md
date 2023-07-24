@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 24 17:09:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 18:11:59 UTC 2023)
 ```
 app.cal.com
 testapi.redoxengine.com
@@ -1848,8 +1848,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3310,10 +3310,10 @@ partners.shopify.com
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3661,8 +3661,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
