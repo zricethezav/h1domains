@@ -72,8 +72,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,usa.visa.com,True
 visa,www.cardinalcommerce.com,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -1093,12 +1093,12 @@ mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.br,False
-mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadopago.cl,False
+mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1171,9 +1171,9 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
-mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
+mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
@@ -1489,8 +1489,8 @@ svb-financial,api.svb.com,False
 svb-financial,https://openbanking.svb.com/open-banking/v3.1/,False
 svb-financial,developer.svb.com,False
 svb-financial,www.cipherbio.com,False
-s-pankki,online.s-pankki.fi,True
 s-pankki,api.sokos.fi,True
+s-pankki,online.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
@@ -4476,8 +4476,8 @@ reddit,meta-api.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
-reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -5411,8 +5411,8 @@ tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6327,7 +6327,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
 8x8,*.8x8.vc,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -7466,8 +7465,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.braintreegateway.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True

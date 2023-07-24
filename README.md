@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 24 11:09:44 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 12:12:15 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -191,9 +191,9 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
+accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
@@ -362,8 +362,8 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
 api.sokos.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
@@ -1244,8 +1244,8 @@ meta-api.reddit.com
 s.reddit.com
 www.spiketrap.io
 *.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1488,8 +1488,8 @@ tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1984,10 +1984,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2450,8 +2450,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
