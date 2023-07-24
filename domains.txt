@@ -1096,8 +1096,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
 www.mercadopago.com.ar
-www.mercadopago.cl
 api.mercadopago.com
+www.mercadopago.cl
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1380,8 +1380,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -3618,8 +3618,8 @@ opensea.io
 pro.opensea.io
 opensea.io
 pro.opensea.io
-*.inmobi.com
 *.koralapp.com
+*.inmobi.com
 *.glance.app
 *.roposo.com
 *.dash101.com
@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7873,8 +7873,8 @@ workflows.semrush.com
 investors.semrush.com
 vault.bitwarden.com
 api.bitwarden.com
-help.bitwarden.com
 identity.bitwarden.com
+help.bitwarden.com
 bitwarden.com
 v4.passwordless.dev
 bitwarden.com
@@ -8298,8 +8298,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -8462,8 +8462,8 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -9159,8 +9159,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
