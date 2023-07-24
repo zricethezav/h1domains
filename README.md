@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 24 04:09:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 05:10:36 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -401,7 +401,6 @@ jobs.kiwi.com
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
-*.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -409,6 +408,7 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 cloud8.8x8.com
 *.8x8.id
+*.jit.si
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -720,8 +720,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1243,9 +1243,9 @@ sh.reddit.com
 meta-api.reddit.com
 s.reddit.com
 www.spiketrap.io
+ads-api.reddit.com
 *.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1488,8 +1488,8 @@ tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1845,10 +1845,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.1688.com
 *.aliyun-inc.com
+*.Daraz.com
 *.aliexpress.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1984,10 +1984,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3445,8 +3445,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 www.airbnb.com
 api.airbnb.com
