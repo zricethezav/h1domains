@@ -2500,9 +2500,9 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
-planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2967,7 +2967,6 @@ mondelez,magnit.milka.ru,False
 mondelez,milka.ru,False
 mondelez,mothersday.cadbury.co.nz,False
 mondelez,bot.cadburygifting.in,False
-mondelez,www.cadburygifting.in,False
 mondelez,loyalty.deliciousdisplay.co.uk,False
 mondelez,fattorieosella.it,False
 mondelez,missionebonta.fattorieosella.it,False
@@ -2975,6 +2974,7 @@ mondelez,detoutcoeuraveclesbleus.milka.fr,False
 mondelez,miamourembourse.milka.fr,False
 mondelez,magnit.oreo.ru,False
 mondelez,oreo.ru,False
+mondelez,order-service.philadelphia-professional.de,False
 mondelez,mondelezinternational.com,False
 mondelez,www.cadbury.com.au,False
 mondelez,amea.mondelezinternational.com,False
@@ -4006,9 +4006,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5941,10 +5941,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6327,6 +6327,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
 8x8,*.8x8.vc,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6951,7 +6952,6 @@ equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
 equifax,*.paynet.credit,False
-equifax,*.efficientforms.com,False
 equifax,HOURLY-JOBS.NET,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
@@ -6959,6 +6959,7 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,*equifax.com,False
+equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -8481,10 +8482,10 @@ shopify,linkpop.com,True
 shopify,shopifyinbox.com,True
 snapchat,story.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
@@ -8716,8 +8717,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -9392,10 +9393,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
