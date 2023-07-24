@@ -24,8 +24,8 @@ redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
-redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
+redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2625,8 +2625,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -4006,9 +4006,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -4484,10 +4484,10 @@ reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,oauth.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -7663,8 +7663,8 @@ crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
-crypto,merchant.crypto.com,True
 crypto,tax.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,js.crypto.com,True
 crypto,app.mona.co,True
@@ -8462,9 +8462,9 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopify.com,True
-shopify,shopify.plus,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9159,8 +9159,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
+nuri,app.bitwala.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False

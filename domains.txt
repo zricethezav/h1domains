@@ -23,8 +23,8 @@ www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
-docs.redoxengine.com
 explore.redoxengine.com
+docs.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -152,8 +152,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -2624,8 +2624,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -4005,9 +4005,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -4483,10 +4483,10 @@ amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 *.reddithelp.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -7662,8 +7662,8 @@ auth.crypto.com
 www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -8461,9 +8461,9 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 *.shopify.com
-shopify.plus
 admin.shopify.com
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -9158,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com

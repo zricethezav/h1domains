@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 24 12:12:15 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 13:11:57 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -10,8 +10,8 @@ www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
-docs.redoxengine.com
 explore.redoxengine.com
+docs.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1187,9 +1187,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1252,10 +1252,10 @@ amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 *.reddithelp.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2633,8 +2633,8 @@ auth.crypto.com
 www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -3310,9 +3310,9 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 *.shopify.com
-shopify.plus
 admin.shopify.com
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
