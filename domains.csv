@@ -24,8 +24,8 @@ redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
-redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
+redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
@@ -5933,10 +5933,10 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -8267,10 +8267,10 @@ pornhub,www.modelhub.com,True
 pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
 pornhub,api.pornhub.com,True
-pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youporn.com,True
 pornhub,www.youpornpremium.com,True
+pornhub,www.pornhubpremium.com,True
 pornhub,mobile.pornhub.com,True
 pornhub,ht.pornhub.com,True
 pornhub,www.pornmd.com,True
@@ -8299,8 +8299,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8579,7 +8579,6 @@ ui,blog.ui.com,False
 ui,training.ui.com,False
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
-adobe,*.adobeaemcloud.com,False
 adobe,*.mixamo.com,False
 adobe,auth.services.adobe.com,False
 adobe,community.adobe.com,False
@@ -8595,6 +8594,7 @@ adobe,stream.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
+adobe,*.adobeaemcloud.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9392,10 +9392,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
