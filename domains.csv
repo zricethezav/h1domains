@@ -1494,9 +1494,9 @@ s-pankki,api.sokos.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -1956,7 +1956,6 @@ resmed,myair.resmed.eu,False
 resmed,resmed-healthcare.de,False
 resmed,airview.resmed.com,False
 resmed,onlinestore.resmed.com,False
-resmed,u-sleep.umbian.com,False
 resmed,narval-easy.resmed.eu,False
 resmed,resmed.mx,False
 resmed,resmed.com.br,False
@@ -1966,6 +1965,7 @@ resmed,resmed.la,False
 resmed,propellerhealth.com,False
 resmed,airview.resmed.eu,False
 resmed,mealtracker.com,False
+resmed,u-sleep.umbian.com,False
 resmed,resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
@@ -2069,11 +2069,11 @@ allegion,*.allegionengage.com,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,www.planopunkt.com,False
 allegion,zentra.co,False
-allegion,*.allegion.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
 allegion,www.bricard.com,False
+allegion,*.allegion.com,False
 allegion,www.republicdoor.com,False
 allegion,www.normbau.de,False
 allegion,www.fshlocking.com.au,False
@@ -2362,7 +2362,6 @@ mars,banfieldfoundation.org,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
-mars,*.bluepearlvet.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
 mars,*.royalcaninrewards.co.za,False
@@ -2371,6 +2370,7 @@ mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
 mars,*.royalcanin.edu.pl,False
+mars,*.rcpracownik.pl,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -4473,9 +4473,9 @@ reddit,sh.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -5226,11 +5226,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6033,8 +6033,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6264,10 +6264,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -8102,8 +8102,8 @@ rockstargames,lifeinvader.com,True
 rockstargames,rockstarnorth.com,True
 rockstargames,circolocorecords.com/,True
 files,app.files.com,True
-files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
+files,your-assigned-subdomain.files.com,True
 files,app.files.com,True
 files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
@@ -8715,8 +8715,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -9390,10 +9390,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
