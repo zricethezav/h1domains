@@ -1156,9 +1156,9 @@ ring,*.immedia-semi.com/*,True
 ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,web.tide.co,True
 tide,api.tide.co,True
 tide,www.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -1877,8 +1877,8 @@ teleport,cloud.gravitational.io,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
-teleport,*.goteleport.com,True
 teleport,platform.teleport.sh,True
+teleport,*.goteleport.com,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -4475,8 +4475,8 @@ reddit,sh.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
@@ -4485,9 +4485,9 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5803,8 +5803,8 @@ polygon-technology,open-api.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
-xiaomi,*.mi.com,True
 xiaomi,*.xiaomiyoupin.com,True
+xiaomi,*.mi.com,True
 xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6327,6 +6327,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
 8x8,*.8x8.vc,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6936,7 +6937,6 @@ forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
 forescout_technologies,cysiv.com,True
 forescout_technologies,app.command.cysiv.com,True
-equifax,*equifax.com,False
 equifax,*equifax.sv,False
 equifax,*equifax.co.in,False
 equifax,*equifax.com.py,False
@@ -6959,6 +6959,7 @@ equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
+equifax,*equifax.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -9159,8 +9160,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False

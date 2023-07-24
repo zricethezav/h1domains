@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 24 05:10:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 06:11:08 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -181,9 +181,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-web.tide.co
 api.tide.co
 www.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -569,8 +569,8 @@ cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-*.goteleport.com
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1243,8 +1243,8 @@ sh.reddit.com
 meta-api.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 gateway.reddit.com
 *.redditblog.com
 reddit.secure.force.com
@@ -1253,9 +1253,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 *.reddithelp.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1733,8 +1733,8 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.mi.com
 *.xiaomiyoupin.com
+*.mi.com
 *.miwifi.com
 *.mi.com
 *.xiaomi.com
@@ -1984,10 +1984,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
