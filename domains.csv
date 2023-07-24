@@ -154,8 +154,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1126,8 +1126,8 @@ kolesagroup,avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
@@ -1655,8 +1655,8 @@ superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
-moonpay,moonpay.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -3989,8 +3989,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
+xvideos,www.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -4010,8 +4010,8 @@ elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -4487,8 +4487,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5411,9 +5411,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8464,8 +8464,8 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8916,8 +8916,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True
@@ -8956,8 +8956,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
@@ -9391,10 +9391,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
