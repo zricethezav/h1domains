@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.bharatbenz.com,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*fleetboard.de,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1381,8 +1381,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -1412,8 +1412,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -6326,6 +6326,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6767,8 +6768,8 @@ datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,*.nordvpn.com,True
-pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
+pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 line,*.line-apps.com,True
@@ -8344,8 +8345,8 @@ zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomans.com,True
-zomato,*.zdev.net,True
 zomato,*.zomato.com,True
+zomato,*.zdev.net,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -9158,8 +9159,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
+nuri,app.bitwala.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False

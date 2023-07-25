@@ -152,8 +152,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *.bharatbenz.com
-*.freightliner.com
 *fleetboard.de
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1380,8 +1380,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1411,8 +1411,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -6325,6 +6325,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -6766,8 +6767,8 @@ docs.datastax.com
 astra.datastax.com
 *.nordvpn.com
 *.nordvpn.com
-*.pubgesports.com
 *.pubg.com
+*.pubgesports.com
 *.pubg.com
 *.pubgesports.com
 *.line-apps.com
@@ -8343,8 +8344,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
-*.zdev.net
 *.zomato.com
+*.zdev.net
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -9157,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
