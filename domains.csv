@@ -1117,14 +1117,14 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
-kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
+kolesagroup,app.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
-kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,m.avtoelon.uz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -1297,9 +1297,9 @@ hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
-hilton,hilton.com,True
 hilton,*.hiltonjapan.co.jp,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -2336,8 +2336,8 @@ mars,*.myroyalcanin.gr,False
 mars,*.myroyalcanin.ro,False
 mars,*.royalcanin.be,False
 mars,banfield.us,False
-mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -2625,8 +2625,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -2693,8 +2693,8 @@ etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-dn-hap.cloud.etoro.com,True
 etoro_bbp,push-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-real-hk-lightstreamer.cloud.etoro.com,True
-etoro_bbp,etorologsapi.etoro.com,True
 etoro_bbp,bullsheet.me,True
+etoro_bbp,etorologsapi.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -5935,8 +5935,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -7259,7 +7259,6 @@ hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
 hyatt,login.www.vaxvacationaccess.com,True
 hyatt,res.en.travelbrandsagent.com,True
-hyatt,res.funjet.com,True
 hyatt,res.secretsresorts.com,True
 hyatt,booking.beachbound.com,True
 hyatt,holidays-nz.fijiairways.com,True
@@ -7269,6 +7268,7 @@ hyatt,vacations.hotelcasavelas.com,True
 hyatt,vacations.travelimpressions.com,True
 hyatt,www.cheapcaribbean.com,True
 hyatt,www.globalhotelchoices.com,True
+hyatt,res.funjet.com,True
 hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
@@ -8030,9 +8030,9 @@ spotify,app.sonantic.io,True
 spotify,label-studio-public.sonantic.io,True
 spotify,backstage.io,True
 dashlane,api.dashlane.com,True
-dashlane,www.dashlane.com,True
 dashlane,app.dashlane.com,True
 dashlane,logs.dashlane.com,True
+dashlane,www.dashlane.com,True
 dashlane,console.dashlane.com,True
 dashlane,ws1.dashlane.com,True
 dashlane,ws1.dashlane.com,True
@@ -8298,8 +8298,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,education.github.com,True
 github,github.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8918,8 +8918,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -8944,8 +8944,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
+security,www.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
