@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 19:10:38 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 20:09:43 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -273,8 +273,8 @@ hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
-hilton.com.tr
 *.hilton.com
+hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1187,8 +1187,8 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 *.swiftype.com
+*.elstc.co
 cloud.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1487,9 +1487,9 @@ live-backstage.tiktok.com
 tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1839,16 +1839,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.tmall.com
 *.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3195,8 +3195,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
