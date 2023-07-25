@@ -390,11 +390,11 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.8x8.vc
 *.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
+*.8x8.vc
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1280,8 +1280,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1898,8 +1898,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3142,8 +3142,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3321,12 +3321,12 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-ads.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
-accounts.snapchat.com
 businesshelp.snapchat.com
+ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3345,8 +3345,8 @@ playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net

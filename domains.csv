@@ -1597,11 +1597,11 @@ kkr_vdp,*.kkr.cloud,False
 kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,work.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -4520,8 +4520,8 @@ coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
 on,*.on-running.com,False
 on,*.on-running.com,False
-scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6326,7 +6326,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
-8x8,*.8x8.vc,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8298,8 +8297,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,education.github.com,True
 github,github.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8479,12 +8478,12 @@ shopify,exchangemarketplace.com,True
 shopify,linkpop.com,True
 shopify,shopifyinbox.com,True
 snapchat,story.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
+snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
@@ -8503,8 +8502,8 @@ snapchat,playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -9159,8 +9158,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
+nuri,app.bitwala.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
