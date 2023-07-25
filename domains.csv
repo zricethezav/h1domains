@@ -7659,8 +7659,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
+crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,merchant.crypto.com,True
@@ -8462,9 +8462,9 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8719,10 +8719,10 @@ airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
-airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
+airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
