@@ -2336,8 +2336,8 @@ mars,*.myroyalcanin.gr,False
 mars,*.myroyalcanin.ro,False
 mars,*.royalcanin.be,False
 mars,banfield.us,False
-mars,*.banfield.com,False
 mars,*.royalcanin.pt,False
+mars,*.banfield.com,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -4008,8 +4008,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
-elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True

@@ -2335,8 +2335,8 @@ www.watchstationindia.com
 *.myroyalcanin.ro
 *.royalcanin.be
 banfield.us
-*.banfield.com
 *.royalcanin.pt
+*.banfield.com
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.com
@@ -4007,8 +4007,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
