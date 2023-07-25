@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 21:10:39 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 22:10:22 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1188,8 +1188,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1295,11 +1295,20 @@ www.coinspot.com.au
 customers.mattermost.com
 customers.mattermost.com
 *.chimecard.com
+www.chime.com
 *.chimepayments.com
+wp-dev1.chime.com
+wp-dev3.chime.com
+wp-integ.chime.com
+wp-dev4.chime.com
+wp-qa.chime.com
 *.chime.com
 *.1debit.com
 *.chimebank.com
 *.chmfin.com
+wp-dev2.chime.com
+wp-dev5.chime.com
+wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1308,6 +1317,15 @@ customers.mattermost.com
 *.chimepayments.com
 http://member-qa.chime.com/users/sign_in
 http://member-qa.chime.com/enroll/#/account
+www.chime.com
+wp-ci.chime.com
+wp-dev1.chime.com
+wp-dev2.chime.com
+wp-dev3.chime.com
+wp-dev4.chime.com
+wp-dev5.chime.com
+wp-integ.chime.com
+wp-qa.chime.com
 app.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
@@ -3311,8 +3329,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3483,10 +3501,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-vhx.tv
 api.vhx.tv
 *.magisto.com
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
