@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6265,10 +6265,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -6326,7 +6326,6 @@ work-staging.8x8.com
 express.8x8.com
 *.jit.si
 *.8x8.vc
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8592,8 +8591,8 @@ app.frame.io
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
 firefly.adobe.com
-*.adobe.com
 *.adobeaemcloud.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9391,10 +9390,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

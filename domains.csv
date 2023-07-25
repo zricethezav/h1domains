@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6327,7 +6327,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
 8x8,*.8x8.vc,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8593,8 +8592,8 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,firefly.adobe.com,False
-adobe,*.adobe.com,False
 adobe,*.adobeaemcloud.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9392,10 +9391,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
