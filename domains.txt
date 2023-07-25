@@ -34,8 +34,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1598,9 +1598,9 @@ www.kkresg.com
 processaccess.kkr.com
 *.jitsi.net
 connect.8x8.com
-sso.8x8.com
 work.8x8.com
 *.8x8.vc
+sso.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2064,10 +2064,10 @@ www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
 brio.com.au
-*.allegionengage.com
 *.isonaspureaccesscloud.com
 www.planopunkt.com
 zentra.co
+*.allegionengage.com
 www.krytonitelock.com
 www.schlage.com
 *.yonomi.co
@@ -2489,8 +2489,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.mycustomcase.com
 *.simplytoimpress.com
+*.mycustomcase.com
 www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
@@ -6265,10 +6265,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -6303,7 +6303,6 @@ user-profile.8x8.com
 cloud8.8x8.com
 supersite.8x8.com
 *.jitsi.org
-sso.8x8.com
 *.8x8pilot.com
 *.jitsi.net
 www.8x8.com
@@ -6315,6 +6314,7 @@ www.8x8.com
 work.8x8.com
 platform.8x8.com
 pay.8x8.com
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -7578,8 +7578,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
+*.goldmansachs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -8297,8 +8297,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -8338,9 +8338,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-*.hyperpure.com
 api.grofers.com
 api2.grofers.com
+*.hyperpure.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
@@ -8492,7 +8492,6 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 map.snapchat.com
-www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 store.snapchat.com
@@ -8500,6 +8499,7 @@ business.snapchat.com
 my.snapchat.com
 playcanvas.com
 rt.playcanvas.com
+www.bitmoji.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -9158,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
