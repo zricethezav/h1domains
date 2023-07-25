@@ -151,9 +151,9 @@ www.tink.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
-*.freightliner.com
 *fleetboard.de
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1372,8 +1372,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1446,8 +1446,8 @@ cloud.malwarebytes.com
 *.mbamupdates.com
 forums.malwarebytes.com
 oneview.malwarebytes.com
-*.malwarebytes.com
 *.mwb-threatintel.com
+*.malwarebytes.com
 blog.malwarebytes.com
 support.malwarebytes.com
 www.malwarebytes.com
@@ -1596,11 +1596,11 @@ www.kkrfunds.com
 www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
-*.jitsi.net
 connect.8x8.com
 work.8x8.com
 *.8x8.vc
 sso.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6304,7 +6304,6 @@ cloud8.8x8.com
 supersite.8x8.com
 *.jitsi.org
 *.8x8pilot.com
-*.jitsi.net
 www.8x8.com
 *.8x8.id
 *.adgjmp.net
@@ -6315,6 +6314,7 @@ work.8x8.com
 platform.8x8.com
 pay.8x8.com
 sso.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -7578,8 +7578,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -7848,9 +7848,9 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.prowly.com
 *.berush.com
 *.semrush.net
+*.prowly.com
 workflows.semrush.com
 *.seoquake.com
 *.scatec.io
@@ -8297,8 +8297,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -8986,7 +8986,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
-app.cal.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
@@ -9158,8 +9157,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.nuri.com
 app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
@@ -9390,10 +9389,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

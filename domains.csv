@@ -152,9 +152,9 @@ daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1373,8 +1373,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1447,8 +1447,8 @@ malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
-malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
+malwarebytes,*.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
@@ -1597,11 +1597,11 @@ kkr_vdp,*.kkr.cloud,False
 kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6305,7 +6305,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,supersite.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
-8x8,*.jitsi.net,False
 8x8,www.8x8.com,False
 8x8,*.8x8.id,False
 8x8,*.adgjmp.net,False
@@ -6316,6 +6315,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,platform.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,sso.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
@@ -7579,8 +7579,8 @@ goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
-goldmansachs,*.nextcapital.com,True
 goldmansachs,*.goldmansachs.com,True
+goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
@@ -7849,9 +7849,9 @@ localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
-semrush,*.prowly.com,False
 semrush,*.berush.com,False
 semrush,*.semrush.net,True
+semrush,*.prowly.com,False
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,*.scatec.io,True
@@ -8298,8 +8298,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,education.github.com,True
 github,github.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8987,7 +8987,6 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,*.vpn.hackerone.net,True
-cal_com_inc,app.cal.com,True
 gsa-h1c3,idp.int.identitysandbox.gov,True
 gsa-h1c3,login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True
@@ -9159,8 +9158,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9391,10 +9390,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
