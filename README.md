@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 08:11:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 09:09:40 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1485,11 +1485,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1553,8 +1553,8 @@ api.aiven.io
 aivencloud.com
 help.aiven.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -2554,8 +2554,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -3195,8 +3195,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
-*.zomato.com
 *.zdev.net
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3541,8 +3541,8 @@ gnip.com
 gnip.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
