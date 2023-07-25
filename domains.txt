@@ -1122,8 +1122,8 @@ m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
 id.avtoelon.uz
-kolesa.kz
 m.avtoelon.uz
+kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -5228,11 +5228,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5943,8 +5943,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7869,8 +7869,8 @@ investors.semrush.com
 *.berush.com
 workflows.semrush.com
 investors.semrush.com
-vault.bitwarden.com
 api.bitwarden.com
+vault.bitwarden.com
 identity.bitwarden.com
 help.bitwarden.com
 bitwarden.com
@@ -8478,11 +8478,11 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 create.snapchat.com
-forum.playcanvas.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -9156,8 +9156,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.nuri.com
 app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
