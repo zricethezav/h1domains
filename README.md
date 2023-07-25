@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 02:34:04 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 03:10:25 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2629,12 +2629,12 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -3148,8 +3148,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com

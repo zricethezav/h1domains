@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -7658,12 +7658,12 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -8297,8 +8297,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -9158,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.nuri.com
 app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
