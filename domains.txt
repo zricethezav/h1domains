@@ -21,8 +21,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -152,8 +152,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1511,8 +1511,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1790,7 +1790,6 @@ www.flights.com
 *.hotwirepartnercentral.com
 *.expediapartnersolutions.com
 *.expediaagents.com
-*.expedia.com
 *.orbitz.com
 *.wotif.com
 *.cruiseshipcenters.com
@@ -1799,6 +1798,7 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -1946,8 +1946,8 @@ app.citushealth.com/
 resmed.co.in
 resmed.com.cn
 resmed.es
-www.citushealth.com
 careers.resmed.com
+www.citushealth.com
 myair.resmed.com
 resmed.hk
 resmed.de
@@ -2521,8 +2521,8 @@ iseeme.com
 portfolio.metamask.io
 portfolio.metamask.io
 *.tms.pl
-*.oanda.com
 *.oanda.jp
+*.oanda.com
 *.tmsbrokers.com
 *.oanda.com
 *.oanda.jp
@@ -2660,11 +2660,11 @@ api.smtp2go.com
 *.gymshark.com
 *.gymshark.io
 push-d-hap.cloud.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 www.etoro.com
+push-demo-lightstreamer.cloud.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -5430,7 +5430,6 @@ shop.tiktok.com
 live-backstage.tiktok.com
 alert.logitech.com
 *.myharmony.com
-*.logitech.com
 www.logitechg.com
 *.ultimateearsuniversity.com
 *.lukwerks.com
@@ -5440,6 +5439,7 @@ www.logitech.com.cn
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
+*.logitech.com
 *.streamlabscharity.com
 circle.logi.com
 www.ultimateears.com
@@ -6035,8 +6035,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6313,9 +6313,9 @@ www.8x8.com
 *.chalet.8x8.com
 work.8x8.com
 platform.8x8.com
-pay.8x8.com
 sso.8x8.com
 *.jitsi.net
+pay.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -6326,6 +6326,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -6386,7 +6387,6 @@ eppm.mtn.com
 fs-prdfus.mtn.com
 ecap.mtn.com
 mtnholdings.org
-mtnhostedservices.mobi
 usermtn.com
 mtnconnect.com
 promobymtn.com
@@ -8144,8 +8144,8 @@ https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
-www.starbucks.co.uk
 www.starbucks.com.br
+www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -8462,8 +8462,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -9389,10 +9389,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

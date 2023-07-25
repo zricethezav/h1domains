@@ -22,8 +22,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1512,8 +1512,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -1791,7 +1791,6 @@ expediagroup,*.stayz.com.au,False
 expediagroup,*.hotwirepartnercentral.com,False
 expediagroup,*.expediapartnersolutions.com,False
 expediagroup,*.expediaagents.com,False
-expediagroup,*.expedia.com,False
 expediagroup,*.orbitz.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.cruiseshipcenters.com,False
@@ -1800,6 +1799,7 @@ expediagroup,*.hoteis.com,False
 expediagroup,*.vrbo.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
+expediagroup,*.expedia.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -1947,8 +1947,8 @@ resmed,app.citushealth.com/,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
-resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
+resmed,www.citushealth.com,False
 resmed,myair.resmed.com,False
 resmed,resmed.hk,False
 resmed,resmed.de,False
@@ -2522,8 +2522,8 @@ planetart,iseeme.com,False
 metamask,portfolio.metamask.io,True
 metamask,portfolio.metamask.io,True
 oanda,*.tms.pl,False
-oanda,*.oanda.com,False
 oanda,*.oanda.jp,False
+oanda,*.oanda.com,False
 oanda,*.tmsbrokers.com,False
 oanda,*.oanda.com,False
 oanda,*.oanda.jp,False
@@ -2661,11 +2661,11 @@ gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
-etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,www.etoro.com,True
+etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -5431,7 +5431,6 @@ tiktok,shop.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
-logitech,*.logitech.com,False
 logitech,www.logitechg.com,True
 logitech,*.ultimateearsuniversity.com,False
 logitech,*.lukwerks.com,False
@@ -5441,6 +5440,7 @@ logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,circle.logi.com,True
 logitech,www.ultimateears.com,True
@@ -6036,8 +6036,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6314,9 +6314,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.chalet.8x8.com,False
 8x8,work.8x8.com,False
 8x8,platform.8x8.com,False
-8x8,pay.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,pay.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
@@ -6327,6 +6327,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6387,7 +6388,6 @@ mtn_group,eppm.mtn.com,False
 mtn_group,fs-prdfus.mtn.com,False
 mtn_group,ecap.mtn.com,False
 mtn_group,mtnholdings.org,False
-mtn_group,mtnhostedservices.mobi,False
 mtn_group,usermtn.com,False
 mtn_group,mtnconnect.com,False
 mtn_group,promobymtn.com,False
@@ -8145,8 +8145,8 @@ portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.fr,True
-starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
+starbucks,www.starbucks.co.uk,True
 starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
@@ -8463,8 +8463,8 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9390,10 +9390,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
