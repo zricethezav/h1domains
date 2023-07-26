@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 26 01:35:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 26 02:30:06 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -344,9 +344,9 @@ api.miro.com
 http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1253,9 +1253,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
