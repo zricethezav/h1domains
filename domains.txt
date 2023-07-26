@@ -2492,8 +2492,8 @@ www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
 www.cafepress.com
-iseeme.com
 www.simplytoimpress.com
+iseeme.com
 *.photoaffections.com
 *.gifts.com
 www.canvasworld.com
@@ -4009,8 +4009,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -5330,7 +5330,6 @@ www.netlifycms.org
 *.nuinvest.com.br
 *.spinpay.com.br
 *.olivia.ai
-*.somoszetta.org.br
 *.cognitect.com
 *.easynvest.com.br
 *.investidores.nu
@@ -5353,7 +5352,6 @@ www.netlifycms.org
 *.plataformatec.com.br
 *.nuinternational.com
 *.investidores.nu
-*.somoszetta.org.br
 *.hey.com
 world.hey.com
 launchpad.37signals.com
@@ -8479,9 +8477,9 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

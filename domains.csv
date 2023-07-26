@@ -2493,8 +2493,8 @@ planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.cafepress.com,False
-planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
+planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
@@ -4010,8 +4010,8 @@ elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -5331,7 +5331,6 @@ nubank,*.nu.com.co,False
 nubank,*.nuinvest.com.br,False
 nubank,*.spinpay.com.br,False
 nubank,*.olivia.ai,False
-nubank,*.somoszetta.org.br,False
 nubank,*.cognitect.com,False
 nubank,*.easynvest.com.br,False
 nubank,*.investidores.nu,False
@@ -5354,7 +5353,6 @@ nubank,*.plataformatec.com,False
 nubank,*.plataformatec.com.br,False
 nubank,*.nuinternational.com,False
 nubank,*.investidores.nu,False
-nubank,*.somoszetta.org.br,False
 basecamp,*.hey.com,True
 basecamp,world.hey.com,True
 basecamp,launchpad.37signals.com,True
@@ -8480,9 +8478,9 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
