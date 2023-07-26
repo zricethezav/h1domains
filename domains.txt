@@ -17,9 +17,9 @@ servicepro.shi.com
 www.content.shi.com
 www.shi.com
 https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc
-testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
+testapi.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -34,8 +34,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -146,8 +146,8 @@ usa.visa.com
 www.tink.com
 *omniplus.com
 *exceleratorparts.com
-*.setra.de
 *.mercedes-benz-trucks.com
+*.setra.de
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1751,8 +1751,8 @@ www.cheaptickets.com
 www.expedia.com
 www.carrentals.com
 www.bookabach.co.nz
-www.travelocity.ca
 www.fewo-direkt.de
+www.travelocity.ca
 www.expediapartnercentral.com
 www.hotwire.com
 www.ebookers.fi
@@ -1893,12 +1893,12 @@ www.divvyhomes.com
 *.papercrane.io
 *.netleglobal.com
 *.crowdreason.com
-*.avalara.net
 *.track1099.com
 *.davosalestax.com
 *.ttrus.com
 *.impendulo.com
 *.avalara.io
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -2495,8 +2495,8 @@ www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
 *.cafepress.com
@@ -4486,8 +4486,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7517,8 +7517,8 @@ swiftcapital.com
 secure.chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
-*.securegatewayaccess.com
 *.mmcdn.com
+*.securegatewayaccess.com
 billingsupport.chaturbate.com
 chaturbate.com
 blog.chaturbate.com
@@ -7683,8 +7683,8 @@ crypto.org
 merchant.crypto.com
 tax.crypto.com
 pay.crypto.com
-js.crypto.com
 app.mona.co
+js.crypto.com
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co

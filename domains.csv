@@ -18,9 +18,9 @@ shi_vdp,servicepro.shi.com,False
 shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
-redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
+redox_bbp,testapi.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -35,8 +35,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -147,8 +147,8 @@ visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*.setra.de,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1752,8 +1752,8 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
-expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.fewo-direkt.de,True
+expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.ebookers.fi,True
@@ -1894,12 +1894,12 @@ divvy-homes,www.divvyhomes.com,False
 avalara,*.papercrane.io,False
 avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
-avalara,*.avalara.net,False
 avalara,*.track1099.com,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -2496,8 +2496,8 @@ planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
@@ -4487,8 +4487,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7518,8 +7518,8 @@ paypal,*.paylution.com,True
 chaturbate,secure.chaturbate.com,True
 chaturbate,*.highwebmedia.com,True
 chaturbate,m.chaturbate.com,True
-chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.mmcdn.com,True
+chaturbate,*.securegatewayaccess.com,True
 chaturbate,billingsupport.chaturbate.com,True
 chaturbate,chaturbate.com,True
 chaturbate,blog.chaturbate.com,True
@@ -7684,8 +7684,8 @@ crypto,crypto.org,True
 crypto,merchant.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,pay.crypto.com,True
-crypto,js.crypto.com,True
 crypto,app.mona.co,True
+crypto,js.crypto.com,True
 crypto,www.crypto.com,True
 crypto,https://crypto.com/exchange,True
 crypto,app.mona.co,True
