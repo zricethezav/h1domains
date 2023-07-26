@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,api.shi.com,False
@@ -26,8 +26,8 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -69,8 +69,8 @@ visa,www.visa.com.sg,True
 visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
-visa,www.currencycloud.com,True
 visa,www.visa.co.in,True
+visa,www.currencycloud.com,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -1101,8 +1101,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1120,9 +1120,9 @@ mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.krisha.kz,True
-kolesagroup,api.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,api.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
@@ -1302,8 +1302,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
-hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
+hilton,*.hiltonmanage.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -2352,8 +2352,8 @@ mars,*.royalcanin-vouchers.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
-mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
+mars,*.banfieldassets.com,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
@@ -6176,6 +6176,7 @@ topcoder,tco17.topcoder.com,False
 topcoder,vpn.topcoder.com,False
 topcoder,wordpress-move.topcoder.com,False
 topcoder,accounts.topcoder.com,False
+topcoder,discussions.topcoder.com,False
 topcoder,challenges.topcoder.com,False
 topcoder,accounts-auth0.topcoder.com,False
 topcoder,www.topcoder.com,False
@@ -6215,7 +6216,6 @@ topcoder,forums.topcoder.com,False
 topcoder,hfgeoloc.topcoder.com,False
 topcoder,idolondemand.topcoder.com,False
 topcoder,morgoth.topcoder.com,False
-topcoder,pins-dash.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
@@ -6280,6 +6280,7 @@ topcoder,apps.topcoder.com,False
 topcoder,challenges.topcoder.com,False
 topcoder,accounts-auth0.topcoder.com,False
 topcoder,vanilla.topcoder-dev.com,False
+topcoder,discussions.topcoder.com,False
 topcoder,go.topcoder.com,False
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,connect-console.dev.lifeomic.com,True

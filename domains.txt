@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -25,8 +25,8 @@ fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -68,8 +68,8 @@ www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
-www.currencycloud.com
 www.visa.co.in
+www.currencycloud.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -1100,8 +1100,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.mercadopago.com
 www.mercadopago.cl
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1119,9 +1119,9 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.krisha.kz
-api.kolesa.kz
 id.kolesa.kz
 app.kolesa.kz
+api.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1301,8 +1301,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
 *.hiltonjapan.co.jp
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2351,8 +2351,8 @@ banfield.us
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
-*.banfieldassets.com
 banfieldexchange.com
+*.banfieldassets.com
 *.mms.com
 *.pedigree.com
 *.vcahospitals.com
@@ -6175,6 +6175,7 @@ tco17.topcoder.com
 vpn.topcoder.com
 wordpress-move.topcoder.com
 accounts.topcoder.com
+discussions.topcoder.com
 challenges.topcoder.com
 accounts-auth0.topcoder.com
 www.topcoder.com
@@ -6214,7 +6215,6 @@ forums.topcoder.com
 hfgeoloc.topcoder.com
 idolondemand.topcoder.com
 morgoth.topcoder.com
-pins-dash.topcoder.com
 www.topcoder.com
 api.topcoder.com
 arena.topcoder.com
@@ -6279,6 +6279,7 @@ apps.topcoder.com
 challenges.topcoder.com
 accounts-auth0.topcoder.com
 vanilla.topcoder-dev.com
+discussions.topcoder.com
 go.topcoder.com
 lifeology.dev.lifeomic.com
 connect-console.dev.lifeomic.com
