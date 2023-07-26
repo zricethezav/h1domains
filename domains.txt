@@ -25,8 +25,8 @@ fhir.redoxengine.com
 www.redoxengine.com
 testapi.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -1123,8 +1123,8 @@ app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
-avtoelon.uz
 app.avtoelon.uz
+avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -4489,9 +4489,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5338,9 +5338,9 @@ www.netlifycms.org
 *.easynvest.com.br
 *.investidores.nu
 *.datomic.com
-*.nubank.com.br
 *.nu.com.mx
 *.nuinternational.com
+*.nubank.com.br
 *.investnews.com.br
 *.nubank.com.br
 *.nu.com.mx
@@ -5918,9 +5918,9 @@ aprms.insulet.com
 eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
-chat.amazon.com
 track.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -7869,8 +7869,8 @@ api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.berush.com
-*.semrush.net
 *.prowly.com
+*.semrush.net
 workflows.semrush.com
 *.seoquake.com
 *.scatec.io
@@ -8013,9 +8013,9 @@ eu1.badoo.com
 bma.badoo.com
 badoocdn.com
 heyfiesta.com
-www.bumble.com
 ccardseu1.badoo.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -8482,8 +8482,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
