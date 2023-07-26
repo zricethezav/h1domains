@@ -1373,8 +1373,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1749,11 +1749,11 @@ expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.cheaptickets.com,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.travelocity.ca,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.ebookers.fi,True
@@ -2492,9 +2492,9 @@ planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
+planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
@@ -3998,8 +3998,8 @@ xvideos,www.xvideos.red,True
 xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
 xvideos,https://www.xvideos.net/app/,True
-trafficfactory,www.trafficfactory.com,True
 trafficfactory,*.trafficfactory.biz,True
+trafficfactory,www.trafficfactory.com,True
 trafficfactory,main.trafficfactory.biz,True
 trafficfactory,*.trafficfactory.biz,True
 trafficfactory,www.trafficfactory.com,True
@@ -4486,9 +4486,9 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
-reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -8363,8 +8363,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
-zomato,*.zomato.com,True
 zomato,winecellar.zomato.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
