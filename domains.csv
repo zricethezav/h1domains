@@ -2693,8 +2693,8 @@ etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-dn-hap.cloud.etoro.com,True
 etoro_bbp,push-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-real-hk-lightstreamer.cloud.etoro.com,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etorologsapi.etoro.com,True
+etoro_bbp,bullsheet.me,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -4008,8 +4008,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
-elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -6786,8 +6786,8 @@ datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,*.nordvpn.com,True
-pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
+pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 line,*.line-apps.com,True
@@ -8501,8 +8501,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
