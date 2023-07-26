@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1300,8 +1300,8 @@ hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
-hilton,*.hilton.com,True
 hilton,hilton.com.tr,True
+hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
@@ -1373,8 +1373,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
