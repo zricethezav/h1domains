@@ -5919,8 +5919,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
