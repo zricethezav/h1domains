@@ -4,8 +4,8 @@ shi_vdp,durango.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
 shi_vdp,assetinsights.shi.com,False
 shi_vdp,servicepro.shi.com,False
-shi_vdp,accounts.shi.com,False
 shi_vdp,apiconsole.shi.com,False
+shi_vdp,accounts.shi.com,False
 shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,accounts.shi.com,False
@@ -22,8 +22,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -146,9 +146,9 @@ visa,www.fraedom.com,True
 visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*omniplus.com,False
-daimler_truck,*.setra.de,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*.setra.de,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1288,10 +1288,10 @@ floqast,api-eu.floqast.app,True
 floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
-hilton,hiltonhawaiianvillage.jp,True
 hilton,hiltonjapan.co.jp,True
 hilton,*.hilton.io,True
 hilton,hiltonmanage.com,True
+hilton,hiltonhawaiianvillage.jp,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
@@ -3975,9 +3975,9 @@ nominet,*.nominet.uk,False
 nominet,*.nominet.uk,False
 nominet,*.nominet.org.uk,False
 nominet,*.nic.uk,False
-proctorio,proctorio.com,False
 proctorio,*.proctor.io,False
 proctorio,getproctorio.com,False
+proctorio,proctorio.com,False
 proctorio,*.proctorcollect.com,False
 proctorio,cdn.proctorio.com,False
 proctorio,*.proctordata.com,False
@@ -4008,8 +4008,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
-elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -8169,8 +8169,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
