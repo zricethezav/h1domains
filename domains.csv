@@ -1123,8 +1123,8 @@ kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
-kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,m.avtoelon.uz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -4008,8 +4008,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
-elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -5430,8 +5430,8 @@ tiktok,tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -5833,7 +5833,6 @@ xiaomi,*.miwifi.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
-flutteruki,*.skybet.com,True
 flutteruki,*.betviewapi.com,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybingo.com,True
@@ -5843,6 +5842,7 @@ flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skybet.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7976,10 +7976,10 @@ grab,*.grab.co,True
 grab,p.grabtaxi.com,True
 grab,manage.grab.co,True
 grab,*.grab.com,True
-grab,*.myteksi.net,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
+grab,*.myteksi.net,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -8516,9 +8516,9 @@ snapchat,app.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -8733,8 +8733,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,assets.airbnb.com,True
