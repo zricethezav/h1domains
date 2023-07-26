@@ -39,8 +39,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -1294,8 +1294,8 @@ floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,hiltonjapan.co.jp,True
 hilton,*.hilton.io,True
-hilton,hiltonmanage.com,True
 hilton,hiltonhawaiianvillage.jp,True
+hilton,hiltonmanage.com,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
