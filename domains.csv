@@ -22,8 +22,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1619,8 +1619,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,*.wavecell.com,True
-8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,pay.8x8.com,True
+8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -1746,9 +1746,9 @@ expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
-expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
+expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
@@ -4008,8 +4008,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
-elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -4241,8 +4241,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -6313,8 +6313,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,*.8x8cloud.net,False
 8x8,connect.8x8.com,False
+8x8,*.8x8cloud.net,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
@@ -8220,8 +8220,8 @@ rubygems,rubygems.org,True
 rubygems,rubygems.org,True
 yelp,yelptop100.com,True
 yelp,*.yelpwifi.com,True
-yelp,*.yelp.com,True
 yelp,*.yelp-support.com,True
+yelp,*.yelp.com,True
 yelp,*.yelp.com,True
 yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
