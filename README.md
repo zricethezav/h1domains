@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 26 15:12:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 26 16:16:28 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -985,12 +985,12 @@ harmonixmusic.com
 capturingreality.com
 wonderboxdev.com
 *.3lateral.com
-*.fortnite.com
 *.psyonix.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
+*.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1107,9 +1107,9 @@ inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
+*.login.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1190,8 +1190,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1960,8 +1960,8 @@ marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
-homes-and-villas.marriott.com
 *uat.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2919,8 +2919,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 www.bumble.com
-badoo.com
 ccardseu1.badoo.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3165,9 +3165,9 @@ classroom.github.com
 *.github.net
 npmjs.org
 gist.github.com
-*.githubusercontent.com
 education.github.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3329,8 +3329,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3647,8 +3647,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net

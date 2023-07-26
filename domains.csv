@@ -2501,8 +2501,8 @@ planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
-planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -3764,13 +3764,13 @@ epicgames,harmonixmusic.com,True
 epicgames,capturingreality.com,True
 epicgames,wonderboxdev.com,True
 epicgames,*.3lateral.com,True
-epicgames,*.fortnite.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.harmonixmusic.com,True
+epicgames,*.hmxwebservices.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -3903,9 +3903,9 @@ gsa_bbp,inventory.data.gov,True
 gsa_bbp,diagrams.fr.cloud.gov,True
 gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
-gsa_bbp,*.login.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
+gsa_bbp,*.login.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
@@ -4010,8 +4010,8 @@ elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -6091,8 +6091,8 @@ marriott,marrtool.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,homes-and-villas.marriott.com,True
 marriott,*uat.marriott.com,True
+marriott,homes-and-villas.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -8011,8 +8011,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,www.bumble.com,True
-bumble,badoo.com,True
 bumble,ccardseu1.badoo.com,True
+bumble,badoo.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -8313,9 +8313,9 @@ github,*.githubapp.com,True
 github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,education.github.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8479,8 +8479,8 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8926,8 +8926,8 @@ coinbase,cloud.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.base.org,True
 slack,status.slack.com,True
-slack,spaces.pm,True
 slack,api.slack.com,True
+slack,spaces.pm,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
