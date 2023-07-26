@@ -1123,8 +1123,8 @@ kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
-kolesagroup,kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
+kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -4486,9 +4486,9 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -8361,10 +8361,10 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
-zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,winecellar.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8481,8 +8481,8 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
