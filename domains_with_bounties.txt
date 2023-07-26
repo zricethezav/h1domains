@@ -1182,8 +1182,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co

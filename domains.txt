@@ -4007,8 +4007,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -8242,7 +8242,6 @@ apps.nextcloud.com
 portal.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
-knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
 push-notifications.nextcloud.com
@@ -8250,6 +8249,7 @@ customerupdates.nextcloud.com
 nextcloud.com
 newsletter.nextcloud.com
 download.nextcloud.com
+knowledge.nextcloud.com
 surveyserver.nextcloud.com
 docs.nextcloud.com
 lists.nextcloud.com
