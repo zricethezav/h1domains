@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 03:10:38 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 04:10:33 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -416,8 +416,8 @@ voapi.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
-*.wavecell.com
 sso.8x8pilot.com
+*.wavecell.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
@@ -1821,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -3349,8 +3349,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com

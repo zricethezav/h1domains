@@ -1088,10 +1088,10 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
+api.mercadolibre.com
 www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
@@ -1620,8 +1620,8 @@ voapi.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
-*.wavecell.com
 sso.8x8pilot.com
+*.wavecell.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
@@ -1807,11 +1807,11 @@ www.flights.com
 *.flights.com
 *.hoteles.com
 *.travelocity.ca
-*.homeaway.com
 *.cheaptickets.com
 *.carrentals.com
 *.bookabach.co.nz
 thailand.airasiago.com
+*.homeaway.com
 *.hotwire.com
 *.hotels.com
 *.travelocity.com
@@ -5919,8 +5919,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -6339,7 +6339,6 @@ sso.8x8.com
 pay.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
-*.wavecell.com
 *.mycontactual.com
 *.8x8e2e.com
 *.ucverse.com
@@ -6347,6 +6346,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.wavecell.com
 *.p8t.us
 *.ucverse.com
 *.8x8.com
@@ -8503,8 +8503,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com

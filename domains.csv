@@ -1089,10 +1089,10 @@ freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
 mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
-mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
+mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.br,False
@@ -1621,8 +1621,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.p8t.us,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,sso.8x8pilot.com,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,*.8x8.vc,True
@@ -1808,11 +1808,11 @@ expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
 expediagroup,*.travelocity.ca,False
-expediagroup,*.homeaway.com,False
 expediagroup,*.cheaptickets.com,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.bookabach.co.nz,False
 expediagroup,thailand.airasiago.com,False
+expediagroup,*.homeaway.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.hotels.com,False
 expediagroup,*.travelocity.com,False
@@ -5920,8 +5920,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -6340,7 +6340,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
-8x8,*.wavecell.com,False
 8x8,*.mycontactual.com,False
 8x8,*.8x8e2e.com,False
 8x8,*.ucverse.com,False
@@ -6348,6 +6347,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
+8x8,*.wavecell.com,False
 8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
@@ -8504,8 +8504,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
