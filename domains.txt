@@ -1930,7 +1930,6 @@ www.divvyhomes.com
 *.mailchimp.com
 resupply.resmed.com
 account.resmed.com
-shop.resmed.com
 resmed.co.uk
 resmed.com.au
 resmed.co.id
@@ -1947,6 +1946,7 @@ produktion.api.praxispad.de/
 referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
 app.citushealth.com/
+shop.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
@@ -4524,8 +4524,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 *.on-running.com
 *.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -5919,8 +5919,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -5962,9 +5962,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
