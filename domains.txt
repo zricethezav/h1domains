@@ -1,5 +1,5 @@
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -1098,10 +1098,10 @@ www.mercadopago.com.br
 www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-api.mercadopago.com
 www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1515,8 +1515,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2477,6 +2477,7 @@ n45ht.or.id
 1337.or.id
 we.windstream.com
 *broadviewnet.com
+paetec.net
 *.windstreamsmallbusiness.com
 www.windstream.com
 *.windstreamsmallbusiness.com
@@ -2484,6 +2485,7 @@ www.windstream.com
 https://www.windstream.com/gokinetic
 we.windstream.com
 www.windstream.com
+paetec.net
 *.fidelity.com
 www.myfidelitysolutions.com
 www.fidelityworkplace.com
@@ -2503,8 +2505,8 @@ iseeme.com
 www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
-*.iseeme.com
 *.personalcreations.com
+*.iseeme.com
 *.cafepress.com
 *.cafepress.com
 *.canvasworld.com
@@ -2628,8 +2630,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5855,7 +5857,7 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
+*.skycasino.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -5955,8 +5957,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
 *.tmall.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -8168,8 +8170,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp

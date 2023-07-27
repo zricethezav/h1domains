@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,api.shi.com,False
@@ -1099,10 +1099,10 @@ mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1516,8 +1516,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -2478,6 +2478,7 @@ n45ht,n45ht.or.id,False
 n45ht,1337.or.id,False
 windstream,we.windstream.com,False
 windstream,*broadviewnet.com,False
+windstream,paetec.net,False
 windstream,*.windstreamsmallbusiness.com,False
 windstream,www.windstream.com,False
 windstream,*.windstreamsmallbusiness.com,False
@@ -2485,6 +2486,7 @@ windstream,*broadviewnet.com,False
 windstream,https://www.windstream.com/gokinetic,False
 windstream,we.windstream.com,False
 windstream,www.windstream.com,False
+windstream,paetec.net,False
 fidelity,*.fidelity.com,False
 fidelity,www.myfidelitysolutions.com,False
 fidelity,www.fidelityworkplace.com,False
@@ -2504,8 +2506,8 @@ planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -2629,8 +2631,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5856,7 +5858,7 @@ flutteruki,*.skybet.co.uk,True
 flutteruki,*.betfair.ro,True
 flutteruki,*.platformservices.io,True
 flutteruki,*.sbgtest.net,True
-flutteruki,*.betfair.es,True
+flutteruki,*.skycasino.com,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
 flutteruki,*.betfair.es,True
@@ -5956,8 +5958,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -8169,8 +8171,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
