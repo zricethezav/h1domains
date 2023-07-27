@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 16:12:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 17:11:07 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -634,8 +634,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -3364,8 +3364,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
@@ -3465,11 +3465,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 luckey.partners
-www.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com

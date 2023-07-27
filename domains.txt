@@ -25,8 +25,8 @@ fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -1944,8 +1944,8 @@ resmedshop.de
 resmed.jp
 shop.resmed.com
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 resmed.co.in
 resmed.com.cn
@@ -2330,7 +2330,6 @@ www.watchstationindia.com
 *.royalcanin.nl
 *.eukanubasportingdog.com
 *.royalcaninfoodfinder.com
-*.miroyalcanin.com.ar
 *.mivetshop.com.ar
 *.shoproyalcanin.com
 *.vetschoice.co.za
@@ -2341,6 +2340,7 @@ www.watchstationindia.com
 banfield.us
 *.royalcanin.pt
 *.banfield.com
+*.miroyalcanin.com.ar
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.com
@@ -2447,8 +2447,8 @@ banfield.us
 *.transmissionapp.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -2499,8 +2499,8 @@ www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
 *.iseeme.com
@@ -8515,8 +8515,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
@@ -8735,11 +8735,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 luckey.partners
-www.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
