@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -148,10 +148,10 @@ www.yellowpepper.com
 www.fraedom.com
 usa.visa.com
 www.tink.com
-*omniplus.com
 *exceleratorparts.com
 *.setra.de
 *.mercedes-benz-trucks.com
+*omniplus.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1376,8 +1376,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -2499,13 +2499,13 @@ www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.iseeme.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -2696,8 +2696,8 @@ push-demo-hk-lightstreamer.cloud.etoro.com
 push-dn-hap.cloud.etoro.com
 push-lightstreamer.cloud.etoro.com
 push-real-hk-lightstreamer.cloud.etoro.com
-etorologsapi.etoro.com
 bullsheet.me
+etorologsapi.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -8503,8 +8503,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com

@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,api.shi.com,False
@@ -149,10 +149,10 @@ visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,usa.visa.com,True
 visa,www.tink.com,True
-daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*omniplus.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -2500,13 +2500,13 @@ planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2697,8 +2697,8 @@ etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-dn-hap.cloud.etoro.com,True
 etoro_bbp,push-lightstreamer.cloud.etoro.com,True
 etoro_bbp,push-real-hk-lightstreamer.cloud.etoro.com,True
-etoro_bbp,etorologsapi.etoro.com,True
 etoro_bbp,bullsheet.me,True
+etoro_bbp,etorologsapi.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -8504,8 +8504,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
