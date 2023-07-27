@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,api.shi.com,False
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -8504,8 +8504,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
@@ -8518,9 +8518,9 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
