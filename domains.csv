@@ -151,8 +151,8 @@ visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*omniplus.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1302,8 +1302,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
-hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1611,9 +1611,9 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8.id,True
 8x8-bounty,*.jit.si,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -5963,9 +5963,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
