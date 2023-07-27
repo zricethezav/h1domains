@@ -6890,7 +6890,6 @@ forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
 forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
-forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
@@ -6898,6 +6897,7 @@ forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
 forescout_technologies,streaming-api.iris.production.forescoutcloud.net,True
 forescout_technologies,us.forescout.cloud,True
+forescout_technologies,www.forescout.com,True
 forescout_technologies,iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com,True
 forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
@@ -8504,8 +8504,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
