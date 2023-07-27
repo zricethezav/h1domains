@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 11:10:57 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 12:12:20 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -516,11 +516,11 @@ www.fewo-direkt.de
 www.travelocity.ca
 www.expedia.com
 www.expediapartnercentral.com
-www.hotwire.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3364,9 +3364,9 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
+my.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
