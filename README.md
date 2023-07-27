@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 22:11:26 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 23:11:15 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -1857,8 +1857,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
 *.tmall.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -3364,9 +3364,9 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
+my.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
