@@ -1119,17 +1119,17 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.krisha.kz
-id.kolesa.kz
 app.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
-app.krisha.kz
 m.kolesa.kz
+app.krisha.kz
 api.avtoelon.uz
 krisha.kz
 kolesa.kz
@@ -2375,7 +2375,7 @@ banfieldfoundation.org
 *.wikichien.fr
 *.royalcanin.edu.pl
 *.rcpracownik.pl
-*.bluepearlvet.com
+*.coroapremiada.com.br
 *.mars.com
 *.marschocolate.com
 *.mms.com
@@ -2667,8 +2667,8 @@ push-d-hap.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
-www.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -5919,8 +5919,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -6496,7 +6496,6 @@ mtn.mobi
 mtn-investor.com
 mtnbusiness.com
 mtnonlineservices.net
-mtnhostedservices.mobi
 mtnonlineservices.mobi
 www.mtn.com
 mtn.wiki
@@ -6543,7 +6542,6 @@ mtnplay-ssd.com
 mymtnapps.com
 mtnpaid.com
 mtnmusiconline.com
-mtn.tel
 mtnglobalrecharge.com
 mtnpromoloaded.com
 mtnbusiness.mobi
@@ -6585,7 +6583,6 @@ mtnpulse.tel
 mtnholdingsptyltd.com
 mtn131.com
 mtnmobilecity.com
-mtnmail.mobi
 mtnmobilemoney.com
 mtncloud.com
 mtnptylimited.net
@@ -8518,8 +8515,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com

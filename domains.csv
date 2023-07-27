@@ -1120,17 +1120,17 @@ mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.krisha.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
-kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
+kolesagroup,app.krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
@@ -2376,7 +2376,7 @@ mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
 mars,*.royalcanin.edu.pl,False
 mars,*.rcpracownik.pl,False
-mars,*.bluepearlvet.com,False
+mars,*.coroapremiada.com.br,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -2668,8 +2668,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,www.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -5920,8 +5920,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
+amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -6497,7 +6497,6 @@ mtn_group,mtn.mobi,False
 mtn_group,mtn-investor.com,False
 mtn_group,mtnbusiness.com,False
 mtn_group,mtnonlineservices.net,False
-mtn_group,mtnhostedservices.mobi,False
 mtn_group,mtnonlineservices.mobi,False
 mtn_group,www.mtn.com,False
 mtn_group,mtn.wiki,False
@@ -6544,7 +6543,6 @@ mtn_group,mtnplay-ssd.com,False
 mtn_group,mymtnapps.com,False
 mtn_group,mtnpaid.com,False
 mtn_group,mtnmusiconline.com,False
-mtn_group,mtn.tel,False
 mtn_group,mtnglobalrecharge.com,False
 mtn_group,mtnpromoloaded.com,False
 mtn_group,mtnbusiness.mobi,False
@@ -6586,7 +6584,6 @@ mtn_group,mtnpulse.tel,False
 mtn_group,mtnholdingsptyltd.com,False
 mtn_group,mtn131.com,False
 mtn_group,mtnmobilecity.com,False
-mtn_group,mtnmail.mobi,False
 mtn_group,mtnmobilemoney.com,False
 mtn_group,mtncloud.com,False
 mtn_group,mtnptylimited.net,False
@@ -8519,8 +8516,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
