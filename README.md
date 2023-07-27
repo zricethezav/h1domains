@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 04:10:33 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 05:09:21 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -2651,8 +2651,8 @@ www.crypto.com
 auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 app.mona.co
 js.crypto.com

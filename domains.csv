@@ -6789,8 +6789,8 @@ datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,*.nordvpn.com,True
-pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
+pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 line,*.line-apps.com,True
@@ -7684,8 +7684,8 @@ crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
-crypto,merchant.crypto.com,True
 crypto,tax.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,app.mona.co,True
 crypto,js.crypto.com,True

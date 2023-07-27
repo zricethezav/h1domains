@@ -2645,8 +2645,8 @@ www.crypto.com
 auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 app.mona.co
 js.crypto.com

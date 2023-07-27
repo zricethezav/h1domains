@@ -6788,8 +6788,8 @@ docs.datastax.com
 astra.datastax.com
 *.nordvpn.com
 *.nordvpn.com
-*.pubgesports.com
 *.pubg.com
+*.pubgesports.com
 *.pubg.com
 *.pubgesports.com
 *.line-apps.com
@@ -7683,8 +7683,8 @@ www.crypto.com
 auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 app.mona.co
 js.crypto.com
