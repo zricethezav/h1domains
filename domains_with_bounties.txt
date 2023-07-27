@@ -3323,8 +3323,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3358,8 +3358,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com

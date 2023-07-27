@@ -1,5 +1,5 @@
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -1942,11 +1942,11 @@ provider.propellerhealth.biz
 patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
-produktion.api.praxispad.de/
-referenzkunden.api.praxispad.de
-app.medifox-therapie.de/
-app.citushealth.com/
 shop.resmed.com
+app.citushealth.com/
+app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
+produktion.api.praxispad.de/
 resmed.co.in
 resmed.com.cn
 resmed.es
@@ -1965,10 +1965,10 @@ resmed.com.br
 resmed.sg
 resmed.ch
 resmed.la
-propellerhealth.com
 airview.resmed.eu
 mealtracker.com
 u-sleep.umbian.com
+propellerhealth.com
 resmed.com
 resmed.lat
 resmed.vn
@@ -8480,8 +8480,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8515,8 +8515,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
