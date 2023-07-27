@@ -88,7 +88,6 @@ visa,www.visa.co.ve,True
 visa,visa.co.za,True
 visa,www.cybersource.com,True
 visa,www.authorize.net,True
-visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -97,6 +96,7 @@ visa,www.visa.com.kz,True
 visa,www.visa.com.lk,True
 visa,www.visa.com.ng,True
 visa,www.visa.com.tr,True
+visa,visa.co.cr,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -5836,7 +5836,6 @@ flutteruki,*.betfair.it,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
 flutteruki,*.betviewapi.com,True
-flutteruki,*.skyvegas.com,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.msgsvc.io,True
 flutteruki,*.operationstechnology.io,True
@@ -5845,6 +5844,7 @@ flutteruki,*.skybettest.net,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
+flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -5920,8 +5920,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -6323,8 +6323,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8staging.com,False
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
-8x8,cloud8.8x8.com,False
 8x8,supersite.8x8.com,False
+8x8,cloud8.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
@@ -8514,12 +8514,12 @@ snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
 snapchat,map.snapchat.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 08:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 09:11:04 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -70,7 +70,6 @@ www.visa.co.ve
 visa.co.za
 www.cybersource.com
 www.authorize.net
-bd.visa.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -79,6 +78,7 @@ www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
 www.visa.com.tr
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1763,7 +1763,6 @@ faucet.polygon.technology
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
-*.skyvegas.com
 *.skybingo.com
 *.msgsvc.io
 *.operationstechnology.io
@@ -1772,6 +1771,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.betfair.com
 *.skybet.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1821,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -3359,12 +3359,12 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 map.snapchat.com
-snappublisher.snapchat.com
 app.snapchat.com
 store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
+snappublisher.snapchat.com
 my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
