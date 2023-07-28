@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 14:11:10 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 15:12:11 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -982,8 +982,8 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.3lateral.com
 *.psyonix.com
 *.dropmix.com
@@ -1503,13 +1503,13 @@ partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
-effecthouse.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com

@@ -3767,8 +3767,8 @@ epicgames,*.audicagame.com,True
 epicgames,fallguys.com,True
 epicgames,fortnite.com,True
 epicgames,harmonixmusic.com,True
-epicgames,capturingreality.com,True
 epicgames,wonderboxdev.com,True
+epicgames,capturingreality.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
@@ -5432,13 +5432,13 @@ tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,effecthouse.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True

@@ -3766,8 +3766,8 @@ api.stage.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.3lateral.com
 *.psyonix.com
 forum.sketchfab.com
@@ -5431,13 +5431,13 @@ partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
-effecthouse.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
