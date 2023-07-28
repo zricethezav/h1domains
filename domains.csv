@@ -1945,8 +1945,8 @@ resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,shop.resmed.com,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
@@ -5922,8 +5922,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -5958,8 +5958,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -8518,9 +8518,9 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
