@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 17:11:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 18:11:49 UTC 2023)
 ```
-fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
+fhir.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -1820,8 +1820,8 @@ faucet.polygon.technology
 *.paddypartners.com
 super6.skysports.com
 itv7.itv.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 track.amazon.com
 manufacturing.amazon.com
 api.amazon.com
@@ -1857,8 +1857,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3063,8 +3063,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
