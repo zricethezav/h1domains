@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 12:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 13:12:17 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -10,8 +10,8 @@ www.redoxengine.com
 help.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
-explore.redoxengine.com
 docs.redoxengine.com
+explore.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -270,9 +270,9 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
+*.hiltonlocalbiz.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -3325,9 +3325,9 @@ shop.app
 linkpop.com
 *.shopifycloud.com
 partners.shopify.com
-*.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
+*.shopifykloud.com
 shopify.plus
 admin.shopify.com
 accounts.shopify.com
