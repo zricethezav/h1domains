@@ -1329,10 +1329,10 @@ paystack-vdp,decodefintech.com,False
 apnic,* IPv6 addresses,False
 apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
-apnic,*.isif.asia,False
 apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
+apnic,*.isif.asia,False
 apnic,*.apidt.org,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
@@ -4013,8 +4013,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5434,8 +5434,8 @@ tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -5966,9 +5966,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8524,8 +8524,8 @@ snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
 snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
