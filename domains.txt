@@ -27,8 +27,8 @@ www.redoxengine.com
 help.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
-docs.redoxengine.com
 explore.redoxengine.com
+docs.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1216,8 +1216,8 @@ hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
 developer.mozilla.org
-www.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 vpn.mozilla.org
@@ -1301,8 +1301,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1376,8 +1376,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1515,8 +1515,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1944,8 +1944,8 @@ resmedshop.de
 resmed.jp
 shop.resmed.com
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 resmed.co.in
 resmed.com.cn
@@ -4527,8 +4527,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 *.on-running.com
 *.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -5922,8 +5922,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -5965,9 +5965,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.aliexpress.com
 *.Daraz.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8518,8 +8518,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
