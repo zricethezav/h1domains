@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 07:11:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 08:11:16 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -271,8 +271,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1509,8 +1509,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1607,6 +1607,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
 api.watsons.com.tw
+www10.watsons.com.my
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1821,8 +1822,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -1856,9 +1857,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3453,9 +3454,9 @@ omgpro.airbnb.com
 *.atairbnb.com
 next.airbnb.com
 one.airbnb.com
-*.withairbnb.com
 demo.urbandoor.com
 admin.demo.urbandoor.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
