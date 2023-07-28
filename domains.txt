@@ -1130,8 +1130,8 @@ m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 app.krisha.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -2505,9 +2505,9 @@ iseeme.com
 www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
-*.personalcreations.com
 *.iseeme.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5826,9 +5826,9 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.xiaomiyoupin.com
 *.miwifi.com
 *.mi.com
+*.xiaomiyoupin.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
