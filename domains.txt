@@ -2,9 +2,9 @@
 *.service-now.com
 *.servicenow.com
 *.service-now.com
-api.shi.com
 durango.shi.com
 renewalreminder.shi.com
+api.shi.com
 assetinsights.shi.com
 servicepro.shi.com
 apiconsole.shi.com
@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -5921,9 +5921,9 @@ aprms.insulet.com
 eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
-chat.amazon.com
 affiliate-program.amazon.com
 track.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -6093,12 +6093,12 @@ lawmanager.marriott.com
 www.ritzcarlton.com
 giftcards.marriott.com
 all-inclusive.marriott.com
-marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -7463,8 +7463,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -8318,8 +8318,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

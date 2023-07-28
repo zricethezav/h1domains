@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 22:09:55 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 23:09:10 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1820,9 +1820,9 @@ faucet.polygon.technology
 *.paddypartners.com
 super6.skysports.com
 itv7.itv.com
-chat.amazon.com
 affiliate-program.amazon.com
 track.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -1956,12 +1956,12 @@ lawmanager.marriott.com
 www.ritzcarlton.com
 giftcards.marriott.com
 all-inclusive.marriott.com
-marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3166,8 +3166,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

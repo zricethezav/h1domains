@@ -3,9 +3,9 @@ servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
-shi_vdp,api.shi.com,False
 shi_vdp,durango.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
+shi_vdp,api.shi.com,False
 shi_vdp,assetinsights.shi.com,False
 shi_vdp,servicepro.shi.com,False
 shi_vdp,apiconsole.shi.com,False
@@ -157,8 +157,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5922,9 +5922,9 @@ insulet_corporation,aprms.insulet.com,False
 insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
-amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,track.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -6094,12 +6094,12 @@ marriott,lawmanager.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,giftcards.marriott.com,True
 marriott,all-inclusive.marriott.com,True
-marriott,marrtool.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
+marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -7464,8 +7464,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8319,8 +8319,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,education.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
