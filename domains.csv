@@ -26,8 +26,8 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1124,8 +1124,8 @@ kolesagroup,app.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,app.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -1252,8 +1252,8 @@ shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
-shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,preschoolsmiles.com,False
+shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -8176,9 +8176,9 @@ starbucks,www.starbucks.de,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
-starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
+starbucks,login.starbucks.co.jp,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
@@ -8485,8 +8485,8 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
