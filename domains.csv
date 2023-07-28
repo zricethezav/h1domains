@@ -26,8 +26,8 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -4493,8 +4493,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5967,8 +5967,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7471,8 +7471,8 @@ paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
 paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
-paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
+paypal,paypal.me,True
 paypal,my.loanbuilder.com,True
 paypal,*.venmo.com,True
 paypal,*.paypal.com,True
@@ -8311,8 +8311,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
