@@ -1516,8 +1516,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -1945,8 +1945,8 @@ resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,shop.resmed.com,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
@@ -3656,10 +3656,10 @@ tennessee-valley-authority,http://energyright.com,False
 tennessee-valley-authority,http://tvasites.com,False
 krisp,help-jp.krisp.ai,False
 krisp,resources.krisp.ai,False
-krisp,analytics.krisp.ai,True
 krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
+krisp,analytics.krisp.ai,True
 krisp,upld.krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,account.krisp.ai,True
@@ -4630,8 +4630,8 @@ emoney-advisor,api.getincentive.com,False
 emoney-advisor,home.getincentive.com,False
 emoney-advisor,wealth.emaplan.com,False
 emoney-advisor,www.getincentive.com,False
-emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emoneyadvisor.com,False
+emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emoneyadvisor.com,False
 emoney-advisor,wealth.emaplan.com,False
@@ -5156,9 +5156,9 @@ lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
-lark_technologies,open.larksuite.com,True
 lark_technologies,api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
+lark_technologies,open.larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,app.larksuite.com,True
@@ -5923,8 +5923,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
+amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -5957,9 +5957,9 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
@@ -8519,8 +8519,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
@@ -8777,8 +8777,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
-vimeo,*.livestream.com,True
 vimeo,vhx.tv,True
+vimeo,*.livestream.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,magisto.com,True

@@ -1515,8 +1515,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1944,8 +1944,8 @@ resmedshop.de
 resmed.jp
 shop.resmed.com
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 resmed.co.in
 resmed.com.cn
@@ -3655,10 +3655,10 @@ http://energyright.com
 http://tvasites.com
 help-jp.krisp.ai
 resources.krisp.ai
-analytics.krisp.ai
 help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
+analytics.krisp.ai
 upld.krisp.ai
 *.krisp.ai
 account.krisp.ai
@@ -4629,8 +4629,8 @@ api.getincentive.com
 home.getincentive.com
 wealth.emaplan.com
 www.getincentive.com
-*.emaplan.com
 *.emoneyadvisor.com
+*.emaplan.com
 *.emaplan.com
 *.emoneyadvisor.com
 wealth.emaplan.com
@@ -5155,9 +5155,9 @@ internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
-open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 app.larksuite.com
@@ -5922,8 +5922,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -5956,9 +5956,9 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
@@ -8518,8 +8518,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
@@ -8776,8 +8776,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-*.livestream.com
 vhx.tv
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
