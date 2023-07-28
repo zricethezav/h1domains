@@ -23,8 +23,8 @@ shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
 redox_bbp,testapi.redoxengine.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -160,8 +160,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3661,8 +3661,8 @@ krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,analytics.krisp.ai,True
 krisp,upld.krisp.ai,True
-krisp,*.krisp.ai,True
 krisp,account.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,krisp.ai,True
@@ -4015,8 +4015,8 @@ elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -6128,8 +6128,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7464,8 +7464,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8519,8 +8519,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
@@ -8982,8 +8982,8 @@ security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,hackerone.live,True
 security,app.pullrequest.com,True
+security,hackerone.live,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 18:11:49 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 19:11:10 UTC 2023)
 ```
 testapi.redoxengine.com
-www.redoxengine.com
 fhir.redoxengine.com
+www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -933,8 +933,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 krisp.ai
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.elstc.co
 cloud.elastic.co
 *.swiftype.com
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1990,8 +1990,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3364,8 +3364,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
@@ -3698,8 +3698,8 @@ errors.hackerone.net
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
