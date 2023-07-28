@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 13:12:17 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 14:11:10 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -986,7 +986,6 @@ capturingreality.com
 wonderboxdev.com
 *.3lateral.com
 *.psyonix.com
-*.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
@@ -1254,8 +1253,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1503,11 +1502,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3330,8 +3329,8 @@ shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
