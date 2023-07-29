@@ -1327,12 +1327,12 @@ paystack-vdp,*.paystackintegrations.com,False
 paystack-vdp,nigerialogos.com,False
 paystack-vdp,decodefintech.com,False
 apnic,* IPv6 addresses,False
-apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
 apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.isif.asia,False
+apnic,*.apnic.net,False
 apnic,*.apidt.org,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2344,7 +2344,6 @@ mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.pl,False
 mars,*.royalcaninconcorsi.it,False
@@ -2354,6 +2353,7 @@ mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
+mars,*.royalcanin.com,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
@@ -5966,9 +5966,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8366,8 +8366,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8518,8 +8518,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
