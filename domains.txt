@@ -1243,10 +1243,10 @@ snapfish.de
 lifetouch.com
 prestigeportraits.com
 www.borrowlenses.com
-shutterfly.com
 jcpportraits.com
 snapfish.com
 admin.spoonflower.com
+shutterfly.com
 tinyprints.com
 snapfish.co.uk
 snapfish.com.au
@@ -5922,8 +5922,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 affiliate-program.amazon.com
-track.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -8517,8 +8517,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
@@ -8612,8 +8612,8 @@ app.frame.io
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
 *.adobeaemcloud.com
-firefly.adobe.com
 *.adobe.com
+firefly.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
