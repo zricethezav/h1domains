@@ -1212,10 +1212,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,getpocket.com,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7464,8 +7464,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8518,8 +8518,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
