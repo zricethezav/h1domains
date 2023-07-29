@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1515,8 +1515,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5303,9 +5303,9 @@ api.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
 *.services.netlify.com
-netlify-cdp-loader.netlify.app
 www.netlifycms.org
 supportal.netlify.app
+netlify-cdp-loader.netlify.app
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
 screenshot-proxy.netlify.app
@@ -6855,8 +6855,8 @@ neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 booth.pm
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
@@ -7463,8 +7463,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7788,8 +7788,8 @@ my.plaid.com
 production.plaid.com
 api.blockscore.com
 secure.quovo.com
-cdn.plaid.com
 manage.blockscore.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -8517,8 +8517,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com

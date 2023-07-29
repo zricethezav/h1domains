@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 05:10:17 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 06:10:55 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1407,9 +1407,9 @@ api.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
 *.services.netlify.com
-netlify-cdp-loader.netlify.app
 www.netlifycms.org
 supportal.netlify.app
+netlify-cdp-loader.netlify.app
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
 screenshot-proxy.netlify.app
@@ -2067,8 +2067,8 @@ neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 booth.pm
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2738,8 +2738,8 @@ my.plaid.com
 production.plaid.com
 api.blockscore.com
 secure.quovo.com
-cdn.plaid.com
 manage.blockscore.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3363,8 +3363,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
