@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 00:22:01 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 01:36:29 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -48,11 +48,11 @@ visa.com.jm
 www.visa.com.ms
 www.visa.com.my
 www.visa.com.sg
-www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.visa.co.in
 www.currencycloud.com
+www.visa.com.vn
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -707,8 +707,8 @@ exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
-social-trading.exness.com
 api.excalls.mobi
+social-trading.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1524,8 +1524,8 @@ shop.tiktok.com
 live-backstage.tiktok.com
 www.logitechg.com
 www.logitech.com.cn
-circle.logi.com
 www.ultimateears.com
+circle.logi.com
 sync.logitech.com
 id.logi.com
 *vc.logitech.com
@@ -1990,8 +1990,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3359,14 +3359,14 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 map.snapchat.com
-app.snapchat.com
 store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
