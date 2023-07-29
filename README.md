@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 08:10:42 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 09:09:58 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -344,9 +344,9 @@ api.miro.com
 http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
-my.malwarebytes.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2919,8 +2919,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3363,8 +3363,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
