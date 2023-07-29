@@ -76,8 +76,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -157,8 +157,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -4015,8 +4015,8 @@ elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -4490,11 +4490,11 @@ reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
-reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,matrix.redditspace.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5836,7 +5836,6 @@ xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.miwifi.com,True
 flutteruki,*.betfair.it,True
-flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
 flutteruki,*.betviewapi.com,True
 flutteruki,*.skybingo.com,True
@@ -5848,6 +5847,7 @@ flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.skyvegas.com,True
+flutteruki,*.paddypower.it,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7464,8 +7464,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8518,8 +8518,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
@@ -8612,9 +8612,9 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.adobe.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -8936,8 +8936,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True

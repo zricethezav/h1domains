@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 03:10:33 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 04:08:58 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.elstc.co
 *.swiftype.com
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
-matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1760,7 +1760,6 @@ faucet.polygon.technology
 *.xiaomiyoupin.com
 *.miwifi.com
 *.betfair.it
-*.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
 *.skybingo.com
@@ -1772,6 +1771,7 @@ faucet.polygon.technology
 *.betfair.com
 *.skybet.com
 *.skyvegas.com
+*.paddypower.it
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3363,8 +3363,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
@@ -3652,8 +3652,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
