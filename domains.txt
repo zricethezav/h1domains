@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2630,8 +2630,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -8477,10 +8477,10 @@ your-store.myshopify.com
 shop.app
 linkpop.com
 *.shopifycloud.com
-partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 admin.shopify.com
 *.shopify.com

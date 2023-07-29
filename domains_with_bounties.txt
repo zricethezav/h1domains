@@ -696,8 +696,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3317,10 +3317,10 @@ your-store.myshopify.com
 shop.app
 linkpop.com
 *.shopifycloud.com
-partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 admin.shopify.com
 *.shopify.com
