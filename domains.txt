@@ -8483,8 +8483,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8526,10 +8526,10 @@ spectacles.com
 web.snapchat.com
 *.sc-corp.net
 www.bitstrips.com
-kit.snapchat.com
 *.sc-core.net
 developer.playcanvas.com
 launch.playcanvas.com
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net

@@ -8484,8 +8484,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8527,10 +8527,10 @@ snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
-snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
+snapchat,kit.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
