@@ -157,8 +157,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1299,8 +1299,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
-hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
+hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
 hilton,*.hiltonlocalbiz.com,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2507,8 +2507,8 @@ planetart,www.canvasworld.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8513,7 +8513,6 @@ snapchat,login.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
-snapchat,map.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
@@ -8522,6 +8521,7 @@ snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,map.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -8892,9 +8892,9 @@ automattic,intensedebate.com,True
 automattic,happy.tools,True
 irccloud,www.irccloud.com,True
 irccloud,api.irccloud.com,True
-irccloud,irccloud.com,True
 irccloud,irc.irccloud.com,True
 irccloud,team-irc.irccloud.com,True
+irccloud,irccloud.com,True
 irccloud,*.irccloud-cdn.com,True
 irccloud,blog.irccloud.com,True
 irccloud,*.irccloud.com,True

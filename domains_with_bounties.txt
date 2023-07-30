@@ -262,8 +262,8 @@ hiltonmanage.com
 hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
 *.hiltonlocalbiz.com
@@ -3352,7 +3352,6 @@ login.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
-map.snapchat.com
 store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
@@ -3361,6 +3360,7 @@ my.snapchat.com
 playcanvas.com
 app.snapchat.com
 snappublisher.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3602,9 +3602,9 @@ intensedebate.com
 happy.tools
 www.irccloud.com
 api.irccloud.com
-irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
+irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
 *.irccloud.com

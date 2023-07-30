@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 30 17:09:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 30 18:10:09 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -268,8 +268,8 @@ hiltonmanage.com
 hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
 *.hiltonlocalbiz.com
@@ -3358,7 +3358,6 @@ login.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
-map.snapchat.com
 store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
@@ -3367,6 +3366,7 @@ my.snapchat.com
 playcanvas.com
 app.snapchat.com
 snappublisher.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3608,9 +3608,9 @@ intensedebate.com
 happy.tools
 www.irccloud.com
 api.irccloud.com
-irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
+irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
 *.irccloud.com
