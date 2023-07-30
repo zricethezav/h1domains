@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2337,11 +2337,11 @@ mars,*.vetschoice.co.za,False
 mars,*.individualis.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.myroyalcanin.ro,False
-mars,*.royalcanin.be,False
 mars,banfield.us,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.royalcanin.be,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.co.uk,False
@@ -4013,8 +4013,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True

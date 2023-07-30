@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2336,11 +2336,11 @@ www.watchstationindia.com
 *.individualis.com
 *.myroyalcanin.gr
 *.myroyalcanin.ro
-*.royalcanin.be
 banfield.us
 *.royalcanin.pt
 *.banfield.com
 *.miroyalcanin.com.ar
+*.royalcanin.be
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.co.uk
@@ -4012,8 +4012,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
