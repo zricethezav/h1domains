@@ -1123,8 +1123,8 @@ api.kolesa.kz
 id.kolesa.kz
 app.kolesa.kz
 m.krisha.kz
-avtoelon.uz
 app.avtoelon.uz
+avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
