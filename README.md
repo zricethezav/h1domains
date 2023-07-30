@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 30 01:36:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 30 02:22:01 UTC 2023)
 ```
 testapi.redoxengine.com
 www.redoxengine.com
@@ -3213,8 +3213,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
-*.zomato.com
 winecellar.zomato.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

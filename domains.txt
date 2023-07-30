@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -8365,8 +8365,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
-*.zomato.com
 winecellar.zomato.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
