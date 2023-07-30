@@ -2505,9 +2505,9 @@ iseeme.com
 www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
-*.personalcreations.com
 www.gifts.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -8482,9 +8482,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
