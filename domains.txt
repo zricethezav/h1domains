@@ -5966,8 +5966,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7197,8 +7197,8 @@ developers.smartsheet.com
 *signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *invitations-api.trustpilot.com
-*www.trustpilot.com
 *share.trustpilot.com
+*www.trustpilot.com
 *api.trustpilot.com
 *b2b.trustpilot.com
 *widget.trustpilot.com

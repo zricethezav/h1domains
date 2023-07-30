@@ -5967,8 +5967,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7198,8 +7198,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*emailsignature.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*www.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
+trustpilot,*www.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
