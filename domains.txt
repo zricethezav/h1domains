@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2162,10 +2162,10 @@ www.skagenglobal.com
 *.watchstation.com
 www.watchstation.fr
 www.fossil.co.id
-www.shopkatchin.com
 *.cdgfossil.com
 *.fossil.vn
 *.fossil.com.hk
+www.shopkatchin.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.de
@@ -8517,8 +8517,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
