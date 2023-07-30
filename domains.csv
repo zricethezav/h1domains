@@ -5566,8 +5566,8 @@ simple_poll,simplegoals.app,False
 simple_poll,simplepoll.rocks,False
 simple_poll,simplegoals.app,False
 aiven_ltd,www.aiven.io,True
-aiven_ltd,api.aiven.io,True
 aiven_ltd,help.aiven.io,True
+aiven_ltd,api.aiven.io,True
 aiven_ltd,console.aiven.io,True
 aiven_ltd,aivencloud.com,True
 aiven_ltd,www.aiven.io,True

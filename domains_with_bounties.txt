@@ -1554,8 +1554,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 www.aiven.io
-api.aiven.io
 help.aiven.io
+api.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
