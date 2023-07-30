@@ -1,6 +1,6 @@
 testapi.redoxengine.com
-www.redoxengine.com
 fhir.redoxengine.com
+www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com

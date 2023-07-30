@@ -22,8 +22,8 @@ www.content.shi.com
 www.shi.com
 https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc
 testapi.redoxengine.com
-www.redoxengine.com
 fhir.redoxengine.com
+www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -6345,11 +6345,11 @@ accountmanager.8x8.com
 *.mycontactual.com
 *.8x8e2e.com
 *.ucverse.com
-*.packet8.net
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
 *.wavecell.com
+*.packet8.net
 *.p8t.us
 *.ucverse.com
 *.8x8.com
