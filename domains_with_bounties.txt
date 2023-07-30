@@ -1814,9 +1814,9 @@ faucet.polygon.technology
 *.paddypartners.com
 super6.skysports.com
 itv7.itv.com
-affiliate-program.amazon.com
 chat.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -3363,8 +3363,8 @@ playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com

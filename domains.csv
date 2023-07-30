@@ -1817,11 +1817,11 @@ expediagroup,*.hotwire.com,False
 expediagroup,*.hotels.com,False
 expediagroup,*.travelocity.com,False
 expediagroup,*.expediapartnercentral.com,False
-expediagroup,*.abritel.fr,False
 expediagroup,*.expediagroup.com,False
 expediagroup,*.ebookers.com,False
 expediagroup,*.mrjet.se,False
 expediagroup,china.airasiago.com,False
+expediagroup,*.abritel.fr,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -5922,9 +5922,9 @@ insulet_corporation,aprms.insulet.com,False
 insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
 amazonvrp,track.amazon.com,True
+amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -8524,8 +8524,8 @@ snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True

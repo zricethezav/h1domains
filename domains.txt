@@ -1816,11 +1816,11 @@ thailand.airasiago.com
 *.hotels.com
 *.travelocity.com
 *.expediapartnercentral.com
-*.abritel.fr
 *.expediagroup.com
 *.ebookers.com
 *.mrjet.se
 china.airasiago.com
+*.abritel.fr
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -5921,9 +5921,9 @@ aprms.insulet.com
 eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
-affiliate-program.amazon.com
 chat.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -8523,8 +8523,8 @@ playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
