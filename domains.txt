@@ -5616,11 +5616,11 @@ www.marionnaud.fr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
 www.watsons.com.tr
+www.watsons.com.ph
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -5956,10 +5956,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -6327,7 +6327,6 @@ sms.8x8.com
 user-profile.8x8.com
 supersite.8x8.com
 cloud8.8x8.com
-*.jitsi.org
 *.8x8pilot.com
 www.8x8.com
 *.8x8.id
@@ -6340,6 +6339,7 @@ platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 pay.8x8.com
+*.jitsi.org
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com

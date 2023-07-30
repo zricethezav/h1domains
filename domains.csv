@@ -5617,11 +5617,11 @@ watson_group,www.marionnaud.fr,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
-watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.tr,True
+watson_group,www.watsons.com.ph,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -5957,10 +5957,10 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -6328,7 +6328,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,user-profile.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,cloud8.8x8.com,False
-8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
 8x8,*.8x8.id,False
@@ -6341,6 +6340,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,*.jitsi.net,False
 8x8,pay.8x8.com,False
+8x8,*.jitsi.org,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
