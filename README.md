@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 30 09:08:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 30 10:10:03 UTC 2023)
 ```
 testapi.redoxengine.com
 www.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -3158,8 +3158,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3329,8 +3329,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3364,9 +3364,9 @@ business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
