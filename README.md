@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 30 22:09:57 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 30 23:09:05 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2433,9 +2433,9 @@ www.4njbets.com
 fanduel.design
 *.flickr.com
 *.flickr.com
-casper.com
 bedpost.casper.com
 operator.casper.tools
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools

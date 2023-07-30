@@ -2427,9 +2427,9 @@ www.4njbets.com
 fanduel.design
 *.flickr.com
 *.flickr.com
-casper.com
 bedpost.casper.com
 operator.casper.tools
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
