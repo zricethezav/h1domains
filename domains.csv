@@ -26,8 +26,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1254,8 +1254,8 @@ shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,blog.spoonflower.com,False
-shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
+shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
@@ -2631,8 +2631,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -4637,12 +4637,6 @@ emoney-advisor,wealth.emaplan.com,False
 emoney-advisor,www.getincentive.com,False
 emoney-advisor,api.getincentive.com,False
 emoney-advisor,home.getincentive.com,False
-panther_labs,*.runpanther.io,True
-panther_labs,*.runpanther.com,True
-panther_labs,*.panther.com,True
-panther_labs,*.panther.com,True
-panther_labs,*.runpanther.io,True
-panther_labs,*.runpanther.com,True
 fetlife,fetlife.com,True
 fetlife,*.fetlife.com,True
 fetlife,*.fetlife.com,True
@@ -5433,9 +5427,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -8519,9 +8513,9 @@ snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -9165,6 +9159,12 @@ earny,www.earny.com,False
 earny,www.earny.co,False
 earny,api.earny.com,False
 earny,www.earny.com,False
+panther_labs,*.runpanther.io,True
+panther_labs,*.runpanther.com,True
+panther_labs,*.panther.com,True
+panther_labs,*.panther.com,True
+panther_labs,*.runpanther.io,True
+panther_labs,*.runpanther.com,True
 ozon,id.ozon.ru,False
 ozon,job.ozon.ru,False
 ozon,www.ozon.ru,False
