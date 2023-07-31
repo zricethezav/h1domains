@@ -3051,8 +3051,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3316,9 +3316,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

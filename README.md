@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 19:11:20 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 20:09:36 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3057,8 +3057,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3322,9 +3322,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

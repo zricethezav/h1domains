@@ -149,9 +149,9 @@ www.fraedom.com
 usa.visa.com
 www.tink.com
 *omniplus.com
-*.mercedes-benz-trucks.com
 *.setra.de
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -8125,8 +8125,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -8436,9 +8436,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
