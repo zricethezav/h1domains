@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -2184,8 +2184,8 @@ fossilcare.com
 *.cdgcitizen.com
 *.smartwatchstations.com
 www.fossil.ch
-*.fossil.com
 *.fossilgroup.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
@@ -5433,8 +5433,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -7133,9 +7133,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -8868,9 +8868,9 @@ wordpress.com
 intensedebate.com
 safe.tumblr.com
 *.tumblr.com
-www.tumblr.com
 t.umblr.com
 mailpoet.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
