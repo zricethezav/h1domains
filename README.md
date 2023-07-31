@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 04:10:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 05:09:09 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2682,8 +2682,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3207,9 +3207,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-api.grofers.com
 api2.grofers.com
 *.hyperpure.com
+api.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com

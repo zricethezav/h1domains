@@ -7715,8 +7715,8 @@ newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -8360,9 +8360,9 @@ gitlab,about.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
-zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,*.hyperpure.com,True
+zomato,api.grofers.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True

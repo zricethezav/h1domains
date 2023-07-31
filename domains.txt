@@ -7714,8 +7714,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -8359,9 +8359,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-api.grofers.com
 api2.grofers.com
 *.hyperpure.com
+api.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
