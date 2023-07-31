@@ -4490,11 +4490,11 @@ reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,accounts.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7594,8 +7594,8 @@ goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
-goldmansachs,*.nextcapital.com,True
 goldmansachs,*.goldmansachs.com,True
+goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
@@ -8465,9 +8465,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8500,10 +8500,10 @@ snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
