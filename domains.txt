@@ -1,5 +1,5 @@
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -148,10 +148,10 @@ www.yellowpepper.com
 www.fraedom.com
 usa.visa.com
 www.tink.com
-*.setra.de
 *omniplus.com
 *.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.setra.de
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -159,8 +159,8 @@ www.tink.com
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1301,8 +1301,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonlocalbiz.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2503,11 +2503,11 @@ iseeme.com
 *.photoaffections.com
 *.gifts.com
 www.canvasworld.com
-*.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.personalcreations.com
 *.cafepress.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4014,8 +4014,8 @@ main.trafficfactory.biz
 *.elstc.co
 cloud.elastic.co
 *.swiftype.com
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -6127,8 +6127,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
