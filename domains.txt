@@ -1676,9 +1676,9 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.FAN.GOV
-*.IBWC.GOV
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
+*.IBWC.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV
@@ -8272,8 +8272,8 @@ classroom.github.com
 npmjs.org
 education.github.com
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com

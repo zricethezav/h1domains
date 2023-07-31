@@ -1677,9 +1677,9 @@ doppler,api.doppler.com,True
 doppler,dashboard.doppler.com,True
 doppler,share.doppler.com,True
 us-department-of-state,*.FAN.GOV,False
-us-department-of-state,*.IBWC.GOV,False
 us-department-of-state,*.SUPPORTFAN.GOV,False
 us-department-of-state,*.USDOSCLOUD.GOV,False
+us-department-of-state,*.IBWC.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.OSAC.GOV,False
@@ -8273,8 +8273,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,education.github.com,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,gist.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
