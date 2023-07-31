@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -38,8 +38,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -150,8 +150,8 @@ usa.visa.com
 www.tink.com
 *omniplus.com
 *.mercedes-benz-trucks.com
-*exceleratorparts.com
 *.setra.de
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -159,8 +159,8 @@ www.tink.com
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*fleetboard.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1120,8 +1120,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.krisha.kz
 api.kolesa.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4014,8 +4014,8 @@ main.trafficfactory.biz
 *.elstc.co
 *.swiftype.com
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -4491,9 +4491,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -8512,9 +8512,9 @@ rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-snappublisher.snapchat.com
 map.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
