@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 16:11:46 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 17:12:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -1250,10 +1250,10 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
+matrix.redditspace.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1499,8 +1499,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1763,9 +1763,9 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
-*.skybet.com
 *.paddypower.it
 *.skyvegas.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1850,9 +1850,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3057,8 +3057,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3092,10 +3092,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
 basicattentiontoken.org
 search.brave.com
 talk.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3353,7 +3353,6 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 store.snapchat.com
-business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
@@ -3361,6 +3360,7 @@ map.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
