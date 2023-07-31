@@ -2179,7 +2179,6 @@ fossil,www.fossilsingapore.com.sg,False
 fossil,www.watchstation.co.uk,False
 fossil,prod.shopkatchin.com,False
 fossil,www.skagen-japan.com,False
-fossil,*.fossilgroup.com,False
 fossil,fossilmy.com,False
 fossil,watchstationhk.com,False
 fossil,fossilcare.com,False
@@ -2187,6 +2186,7 @@ fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
 fossil,www.fossil.ch,False
 fossil,*.fossil.com,False
+fossil,*.fossilgroup.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.com.au,False

@@ -2178,7 +2178,6 @@ www.fossilsingapore.com.sg
 www.watchstation.co.uk
 prod.shopkatchin.com
 www.skagen-japan.com
-*.fossilgroup.com
 fossilmy.com
 watchstationhk.com
 fossilcare.com
@@ -2186,6 +2185,7 @@ fossilcare.com
 *.smartwatchstations.com
 www.fossil.ch
 *.fossil.com
+*.fossilgroup.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
