@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1515,8 +1515,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -6338,8 +6338,8 @@ work.8x8.com
 platform.8x8.com
 sso.8x8.com
 *.jitsi.net
-pay.8x8.com
 *.jitsi.org
+pay.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -8365,8 +8365,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
-winecellar.zomato.com
 *.zomato.com
+winecellar.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
