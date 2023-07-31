@@ -1,5 +1,5 @@
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -1301,8 +1301,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1600,11 +1600,11 @@ www.kkrfunds.com
 www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
-connect.8x8.com
 work.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.8x8.vc
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1755,8 +1755,8 @@ www.cheaptickets.com
 www.carrentals.com
 www.fewo-direkt.de
 www.travelocity.ca
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4492,8 +4492,8 @@ accounts.reddit.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6284,8 +6284,8 @@ get8x8.com
 *.8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
-connect.8x8.com
 *.8x8cloud.net
+connect.8x8.com
 *.fuze.com
 *.thinkingphones.net
 *.8x8staging.com
@@ -8436,8 +8436,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

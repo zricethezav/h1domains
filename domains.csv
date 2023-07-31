@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -1302,8 +1302,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
-hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1601,11 +1601,11 @@ kkr_vdp,*.kkr.cloud,False
 kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -1756,8 +1756,8 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.travelocity.ca,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4493,8 +4493,8 @@ reddit,accounts.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
+reddit,matrix.redditspace.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6285,8 +6285,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
@@ -8437,8 +8437,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
