@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
