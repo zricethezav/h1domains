@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -2565,9 +2565,9 @@ business.linkedin.com
 start.ro.co
 *.hellorory.com
 login.ro.co
-my.ro.co
 *.getroman.com
 *.ropharmacy.com
+my.ro.co
 *.myplenity.com
 *.modernfertility.com
 *.ro.co
@@ -5398,9 +5398,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -8436,9 +8436,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
