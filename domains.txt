@@ -1253,8 +1253,8 @@ snapfish.com.au
 snapfish.co.nz
 blog.spoonflower.com
 preschoolsmiles.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 lifetouch.com
 jcpportraits.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4250,8 +4250,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -4493,11 +4493,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7441,8 +7441,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com

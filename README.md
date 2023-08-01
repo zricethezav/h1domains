@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 14:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 15:12:18 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1223,8 +1223,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2450,8 +2450,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
