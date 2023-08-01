@@ -1253,8 +1253,8 @@ snapfish.com.au
 snapfish.co.nz
 blog.spoonflower.com
 preschoolsmiles.com
-www.spoonflower.com
 *.shutterfly.com
+www.spoonflower.com
 *.shutterfly.com
 lifetouch.com
 jcpportraits.com
@@ -1376,8 +1376,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -6540,7 +6540,6 @@ mtntelecom.com
 mtninsure.com
 mtn-ns.net
 mtnyellomail.com
-mtnghonlineservices.mobi
 mtnfastmail.com
 mtn.software
 mtnonlineplay.com

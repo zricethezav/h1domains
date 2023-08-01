@@ -1254,8 +1254,8 @@ shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,preschoolsmiles.com,False
-shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
+shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -6541,7 +6541,6 @@ mtn_group,mtntelecom.com,False
 mtn_group,mtninsure.com,False
 mtn_group,mtn-ns.net,False
 mtn_group,mtnyellomail.com,False
-mtn_group,mtnghonlineservices.mobi,False
 mtn_group,mtnfastmail.com,False
 mtn_group,mtn.software,False
 mtn_group,mtnonlineplay.com,False
