@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -69,8 +69,8 @@ visa,www.visa.com.sg,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.visa.co.in,True
-visa,www.currencycloud.com,True
 visa,www.visa.com.vn,True
+visa,www.currencycloud.com,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -1161,8 +1161,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,api.tide.co,True
-tide,www.tide.co,True
 tide,web.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -1213,9 +1213,9 @@ mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4490,11 +4490,11 @@ reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,accounts.reddit.com,True
-reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,*.reddithelp.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7814,10 +7814,10 @@ localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
-localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8129,9 +8129,9 @@ starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
-starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
 starbucks,login.starbucks.co.jp,True
+starbucks,www.starbucks.co.jp,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
