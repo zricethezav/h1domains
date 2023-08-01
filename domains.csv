@@ -5399,9 +5399,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -7379,10 +7379,10 @@ fanduel,com.fanduel.android.live,True
 fanduel,login.tvg.com,True
 fanduel,pabets.tvg.com,True
 fanduel,fdbox.net,True
-fanduel,sportsbook.fanduel.com,True
 fanduel,ia.tvg.com,True
 fanduel,login-4ngbets.us.betfair.com,True
 fanduel,login-ia.tvg.com,True
+fanduel,sportsbook.fanduel.com,True
 fanduel,www.tvg.com,True
 fanduel,mobile-prod.tvg.com,True
 fanduel,*.fanduel.com,True

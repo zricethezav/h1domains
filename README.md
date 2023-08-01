@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 23:10:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 00:24:41 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1498,9 +1498,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2391,10 +2391,10 @@ com.fanduel.android.live
 login.tvg.com
 pabets.tvg.com
 fdbox.net
-sportsbook.fanduel.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
+sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
 *.fanduel.com
