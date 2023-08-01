@@ -1180,9 +1180,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1492,9 +1492,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
