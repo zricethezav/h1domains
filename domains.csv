@@ -3,8 +3,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -1948,8 +1948,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7436,8 +7436,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7458,8 +7458,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.paypalcorp.com,True
-paypal,paypalobjects.com,True
 paypal,*.braintreegateway.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -7571,9 +7571,9 @@ goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
-goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.nextcapital.com,True
+goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
@@ -8933,10 +8933,10 @@ security,*.vpn.hackerone.net,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
