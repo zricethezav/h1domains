@@ -1182,13 +1182,13 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
-addons.allizom.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
 shavar.services.mozilla.com
 aus5.mozilla.org
 hg.mozilla.org
+addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -2505,9 +2505,9 @@ iseeme.com
 www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.iseeme.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -2736,8 +2736,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -4246,8 +4246,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -6387,7 +6387,6 @@ mtn.hosting
 mtn-global.net
 mtnpulse.com
 mtnbanking.com
-mtnghonlineservices.mobi
 mtnfastmail.com
 mtnmena.com
 mtnholdingsptyltd.net
@@ -8477,8 +8476,8 @@ business.snapchat.com
 app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
