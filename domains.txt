@@ -1602,9 +1602,9 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 sso.8x8.com
-*.jitsi.net
 *.8x8.vc
 connect.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2290,8 +2290,8 @@ www.watchstationindia.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mssm.edu
 *.mountsinai.org
+*.mssm.edu
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -3843,9 +3843,9 @@ forum.sketchfab.com
 www.jfrog.co.jp
 www.jfrogchina.com
 *.jfrog.org
-www.jfrog.com
 conan.io
 *.jfrog.com
+www.jfrog.com
 *.jfrog.com
 *.jfrog.org
 www.jfrog.com
@@ -4371,9 +4371,9 @@ blogs.zebra.com
 brand.zebra.com
 creative.zebra.com
 greece.zebra.com
-supportcommunity.zebra.com
 zsbsupport.zebra.com
 *.zebrasports.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5406,8 +5406,8 @@ business.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -8431,8 +8431,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com

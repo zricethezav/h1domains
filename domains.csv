@@ -1603,9 +1603,9 @@ kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -2291,8 +2291,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -3844,9 +3844,9 @@ epicgames,forum.sketchfab.com,False
 jfrog,www.jfrog.co.jp,False
 jfrog,www.jfrogchina.com,False
 jfrog,*.jfrog.org,False
-jfrog,www.jfrog.com,False
 jfrog,conan.io,False
 jfrog,*.jfrog.com,False
+jfrog,www.jfrog.com,False
 jfrog,*.jfrog.com,False
 jfrog,*.jfrog.org,False
 jfrog,www.jfrog.com,False
@@ -4372,9 +4372,9 @@ zebra_vdp,blogs.zebra.com,False
 zebra_vdp,brand.zebra.com,False
 zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -5407,8 +5407,8 @@ tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8432,8 +8432,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
