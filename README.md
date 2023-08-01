@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 22:10:31 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 23:10:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1499,8 +1499,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3049,10 +3049,10 @@ portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
 www.starbucks.co.uk
+www.starbucksreserve.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
