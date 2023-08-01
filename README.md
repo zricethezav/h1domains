@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 17:12:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 18:12:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -145,8 +145,8 @@ api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
-avtoelon.uz
 app.avtoelon.uz
+avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -271,8 +271,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1762,10 +1762,10 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
-*.betfair.com
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com

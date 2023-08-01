@@ -1123,8 +1123,8 @@ api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
-avtoelon.uz
 app.avtoelon.uz
+avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -1301,8 +1301,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2180,12 +2180,12 @@ prod.shopkatchin.com
 www.skagen-japan.com
 fossilmy.com
 watchstationhk.com
-fossilcare.com
 *.cdgcitizen.com
 *.smartwatchstations.com
 www.fossil.ch
 *.fossilgroup.com
 *.fossil.com
+fossilcare.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
@@ -5421,7 +5421,6 @@ partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
 alert.logitech.com
-*.myharmony.com
 www.logitechg.com
 *.ultimateearsuniversity.com
 *.lukwerks.com
@@ -5432,6 +5431,7 @@ www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
 *.logitech.com
+*.myharmony.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -5813,10 +5813,10 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
-*.betfair.com
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com

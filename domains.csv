@@ -1124,8 +1124,8 @@ kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,avtoelon.uz,True
 kolesagroup,app.avtoelon.uz,True
+kolesagroup,avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -1302,8 +1302,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
-hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
+hilton,*.hiltonmanage.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -2181,12 +2181,12 @@ fossil,prod.shopkatchin.com,False
 fossil,www.skagen-japan.com,False
 fossil,fossilmy.com,False
 fossil,watchstationhk.com,False
-fossil,fossilcare.com,False
 fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
 fossil,www.fossil.ch,False
 fossil,*.fossilgroup.com,False
 fossil,*.fossil.com,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.com.au,False
@@ -5422,7 +5422,6 @@ tiktok,partner.tiktokshop.com,True
 tiktok,shop.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 logitech,alert.logitech.com,False
-logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,*.ultimateearsuniversity.com,False
 logitech,*.lukwerks.com,False
@@ -5433,6 +5432,7 @@ logitech,www.logitechstore.com.br,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
 logitech,*.logitech.com,False
+logitech,*.myharmony.com,False
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -5814,10 +5814,10 @@ flutteruki,*.operationstechnology.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.sportinglife.com,True
-flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybet.com,True
+flutteruki,*.betfair.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
