@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 10:10:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 11:11:07 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -229,9 +229,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
-getpocket.com
 hg.mozilla.org
 support.mozilla.org
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1499,8 +1499,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
