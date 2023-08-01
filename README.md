@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 08:10:14 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 09:10:17 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1498,9 +1498,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2781,8 +2781,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3646,8 +3646,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
