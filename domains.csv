@@ -5399,9 +5399,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -8066,8 +8066,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
