@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 02:19:36 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 03:09:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1856,11 +1856,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
-*.alimama.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1984,8 +1984,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
