@@ -160,8 +160,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1305,8 +1305,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1947,8 +1947,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2294,8 +2294,8 @@ www.watchstationindia.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mountsinai.org
 *.mssm.edu
+*.mountsinai.org
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -5406,9 +5406,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7651,8 +7651,8 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com

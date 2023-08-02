@@ -161,8 +161,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -1306,8 +1306,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
-hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1948,8 +1948,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2295,8 +2295,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -5407,9 +5407,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7652,8 +7652,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
+crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,tax.crypto.com,True
