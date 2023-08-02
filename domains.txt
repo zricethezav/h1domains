@@ -2,11 +2,11 @@ nba.com
 bal.nba.com
 cdn.nba.com
 stats-trafficcop-prod.nba.com
-2kleague.nba.com
 content-api-prod.nba.com
 gleague.nba.com
 identity.nba.com
 teamportal.nba.com
+2kleague.nba.com
 core-api.nba.com
 wnba.com
 nba.com
@@ -28,6 +28,8 @@ portal.greenfly.com
 *.service-now.com
 *.servicenow.com
 *.service-now.com
+*.massmutual.com
+*.massmutual.com
 durango.shi.com
 api.shi.com
 renewalreminder.shi.com
@@ -1926,8 +1928,8 @@ www.divvyhomes.com
 *.track1099.com
 *.ttrus.com
 *.impendulo.com
-*.avalara.net
 *.davosalestax.com
+*.avalara.net
 *.avalara.io
 *.inposia.com
 *.3ce.com
@@ -1969,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4041,9 +4043,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -4498,10 +4500,10 @@ blog.drugs.com
 www.woolshed.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
+gql.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -7587,9 +7589,9 @@ cloud.rocket.chat
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.ayco.com
 *.gsselect.com
+*.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -8298,8 +8300,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net

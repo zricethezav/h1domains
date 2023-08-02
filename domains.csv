@@ -3,11 +3,11 @@ nba-vdp,nba.com,False
 nba-vdp,bal.nba.com,False
 nba-vdp,cdn.nba.com,False
 nba-vdp,stats-trafficcop-prod.nba.com,False
-nba-vdp,2kleague.nba.com,False
 nba-vdp,content-api-prod.nba.com,False
 nba-vdp,gleague.nba.com,False
 nba-vdp,identity.nba.com,False
 nba-vdp,teamportal.nba.com,False
+nba-vdp,2kleague.nba.com,False
 nba-vdp,core-api.nba.com,False
 nba-vdp,wnba.com,False
 nba-vdp,nba.com,False
@@ -29,6 +29,8 @@ servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+massmutual,*.massmutual.com,False
+massmutual,*.massmutual.com,False
 shi_vdp,durango.shi.com,False
 shi_vdp,api.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
@@ -1927,8 +1929,8 @@ avalara,*.crowdreason.com,False
 avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
-avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
+avalara,*.avalara.net,False
 avalara,*.avalara.io,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
@@ -1970,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4042,9 +4044,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -4499,10 +4501,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,ads.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -7588,9 +7590,9 @@ goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
-goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.gsselect.com,True
+goldmansachs,*.foliofn.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
@@ -8299,8 +8301,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
