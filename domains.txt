@@ -1929,8 +1929,8 @@ www.divvyhomes.com
 *.ttrus.com
 *.impendulo.com
 *.davosalestax.com
-*.avalara.net
 *.avalara.io
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4044,8 +4044,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -5436,9 +5436,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -5613,7 +5613,6 @@ hackerone.affirm-odin.com
 direct-hackerone.affirm-odin.com
 vcn-hackerone.affirm-odin.com
 www.iciparisxl.lu
-apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
 mapi-sim.fortress.com.hk
@@ -5625,6 +5624,7 @@ www.watsons.co.id
 www.watsons.com.tr
 www.watsons.com.ph
 www.marionnaud.fr
+apptps.theperfumeshop.com
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -6025,14 +6025,18 @@ osd.myndr.nl
 osd.myndr.nl
 www.myndr.nl
 cloud.digitalocean.com
+developers.cloudways.com
 api.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 *.digitalocean.com
+api.cloudways.com
+www.cloudways.com
 do.co
 hacktoberfest.com
 www.digitalocean.com
 hackathon-tracker.digitalocean.com
+platform.cloudways.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -6042,6 +6046,10 @@ do.co
 hacktoberfest.com
 www.digitalocean.com
 hackathon-tracker.digitalocean.com
+api.cloudways.com
+developers.cloudways.com
+platform.cloudways.com
+www.cloudways.com
 www.picsart.com
 picsart.io
 api.picsart.io
@@ -7160,8 +7168,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -8725,8 +8733,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com

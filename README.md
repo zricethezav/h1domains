@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 17:12:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 18:14:13 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1187,8 +1187,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1504,9 +1504,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1586,7 +1586,6 @@ account.acronis.com
 hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 www.iciparisxl.lu
-apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
 mapi-sim.fortress.com.hk
@@ -1598,6 +1597,7 @@ www.watsons.co.id
 www.watsons.com.tr
 www.watsons.com.ph
 www.marionnaud.fr
+apptps.theperfumeshop.com
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -3462,8 +3462,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com

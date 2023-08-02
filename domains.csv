@@ -1930,8 +1930,8 @@ avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.davosalestax.com,False
-avalara,*.avalara.net,False
 avalara,*.avalara.io,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4045,8 +4045,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5437,9 +5437,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -5614,7 +5614,6 @@ affirm,hackerone.affirm-odin.com,True
 affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
 watson_group,www.iciparisxl.lu,True
-watson_group,apptps.theperfumeshop.com,True
 watson_group,app.marionnaud.hu,True
 watson_group,www.marionnaud.ro,True
 watson_group,mapi-sim.fortress.com.hk,True
@@ -5626,6 +5625,7 @@ watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
+watson_group,apptps.theperfumeshop.com,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -6026,14 +6026,18 @@ myndr,*.myndr.nl,False
 myndr,osd.myndr.nl,False
 myndr,www.myndr.nl,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,developers.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.cloudways.com,False
+digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
 digitalocean,www.digitalocean.com,False
 digitalocean,hackathon-tracker.digitalocean.com,False
+digitalocean,platform.cloudways.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -6043,6 +6047,10 @@ digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
 digitalocean,www.digitalocean.com,False
 digitalocean,hackathon-tracker.digitalocean.com,False
+digitalocean,api.cloudways.com,False
+digitalocean,developers.cloudways.com,False
+digitalocean,platform.cloudways.com,False
+digitalocean,www.cloudways.com,False
 picsart,www.picsart.com,False
 picsart,picsart.io,False
 picsart,api.picsart.io,False
@@ -7161,8 +7169,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -8726,8 +8734,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,luckey.partners,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
