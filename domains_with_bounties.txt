@@ -1245,10 +1245,10 @@ amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
 matrix.redditspace.com
-*.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
