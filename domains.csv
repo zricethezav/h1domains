@@ -31,9 +31,9 @@ servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
 massmutual,*.massmutual.com,False
-shi_vdp,durango.shi.com,False
 shi_vdp,api.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
+shi_vdp,durango.shi.com,False
 shi_vdp,assetinsights.shi.com,False
 shi_vdp,servicepro.shi.com,False
 shi_vdp,apiconsole.shi.com,False

@@ -30,9 +30,9 @@ portal.greenfly.com
 *.service-now.com
 *.massmutual.com
 *.massmutual.com
-durango.shi.com
 api.shi.com
 renewalreminder.shi.com
+durango.shi.com
 assetinsights.shi.com
 servicepro.shi.com
 apiconsole.shi.com
