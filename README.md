@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 23:10:34 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 00:22:06 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -399,8 +399,8 @@ jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
