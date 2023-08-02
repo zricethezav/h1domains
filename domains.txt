@@ -2188,8 +2188,8 @@ watchstationhk.com
 *.smartwatchstations.com
 www.fossil.ch
 *.fossilgroup.com
-fossilcare.com
 *.fossil.com
+fossilcare.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
@@ -4500,8 +4500,8 @@ accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6026,8 +6026,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.kindredext.net
 *.unibet.com
+*.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
@@ -8432,8 +8432,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 *.shopifycloud.com
 shop.app
 linkpop.com

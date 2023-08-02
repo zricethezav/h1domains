@@ -2189,8 +2189,8 @@ fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
 fossil,www.fossil.ch,False
 fossil,*.fossilgroup.com,False
-fossil,fossilcare.com,False
 fossil,*.fossil.com,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.com.au,False
@@ -4501,8 +4501,8 @@ reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,*.reddithelp.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6027,8 +6027,8 @@ kindred_group,*.kolikkopelit.com,True
 kindred_group,*.bingo.com,True
 kindred_group,maria.casino,True
 kindred_group,*.mariacasino.com,True
-kindred_group,*.kindredext.net,True
 kindred_group,*.unibet.com,True
+kindred_group,*.kindredext.net,True
 kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
@@ -8433,8 +8433,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True

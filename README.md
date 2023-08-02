@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 08:10:27 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 09:12:19 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1253,8 +1253,8 @@ accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1910,8 +1910,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.kindredext.net
 *.unibet.com
+*.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
@@ -3312,8 +3312,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 *.shopifycloud.com
 shop.app
 linkpop.com
