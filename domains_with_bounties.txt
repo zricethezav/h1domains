@@ -1978,8 +1978,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3308,9 +3308,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-linkpop.com
 *.shopifycloud.com
 shop.app
+linkpop.com
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
