@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 14:12:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 15:12:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -227,11 +227,11 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
 getpocket.com
 support.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -2682,8 +2682,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3325,8 +3325,8 @@ shop.app
 linkpop.com
 exchangemarketplace.com
 shopifyinbox.com
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 admin.shopify.com
 accounts.shopify.com
 *.shopify.com
@@ -3691,8 +3691,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
