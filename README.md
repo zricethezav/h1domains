@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 03:09:56 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 04:10:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3230,8 +3230,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 *.binary.com
-*.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 app.deriv.com
 *.deriv.cloud
 oauth.deriv.com

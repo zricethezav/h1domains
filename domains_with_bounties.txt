@@ -3224,8 +3224,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 *.binary.com
-*.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 app.deriv.com
 *.deriv.cloud
 oauth.deriv.com
