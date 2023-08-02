@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -1279,9 +1279,9 @@ shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
-shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,preschoolsmiles.com,False
+shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
@@ -5852,7 +5852,6 @@ flutteruki,*.paddypower.it,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.betfair.com,True
-flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
 flutteruki,*.skybetservices.com,True
@@ -5860,6 +5859,7 @@ flutteruki,*.sbgorigin.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.skybet.net,True
 flutteruki,*.skybet.co.uk,True
+flutteruki,*.betfair.se,True
 flutteruki,*.betfair.ro,True
 flutteruki,*.platformservices.io,True
 flutteruki,*.sbgtest.net,True
@@ -5971,8 +5971,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.alimama.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6064,9 +6064,9 @@ kindred_group,*.unibet.fr,True
 kindred_group,*.kolikkopelit.com,True
 kindred_group,*.bingo.com,True
 kindred_group,maria.casino,True
-kindred_group,*.mariacasino.com,True
 kindred_group,*.unibet.com,True
 kindred_group,*.kindredext.net,True
+kindred_group,*.mariacasino.com,True
 kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
@@ -8480,10 +8480,10 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

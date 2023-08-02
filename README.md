@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 19:12:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 20:10:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1772,7 +1772,6 @@ faucet.polygon.technology
 *.skyvegas.com
 *.skybet.com
 *.betfair.com
-*.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -1780,6 +1779,7 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
+*.betfair.se
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
@@ -1865,8 +1865,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
-*.alimama.com
 *.aliexpress.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1915,9 +1915,9 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
 *.kindredext.net
+*.mariacasino.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
@@ -3327,10 +3327,10 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
-admin.shopify.com
 accounts.shopify.com
 shopify.plus
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
