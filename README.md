@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 12:13:10 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 13:12:42 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -704,8 +704,8 @@ ws.sorare.com
 *.sheingsp.com
 exnessaffiliates.com
 my.exness.com
-pay.ibex.exchange
 exness.com
+pay.ibex.exchange
 pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
@@ -1589,7 +1589,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1598,6 +1597,7 @@ www20.watsons.co.th
 www.watsons.co.id
 www.watsons.com.tr
 www.watsons.com.ph
+www.marionnaud.fr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -3678,8 +3678,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
