@@ -161,8 +161,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -1766,8 +1766,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.stayz.com.au,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.wotif.com,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -7107,8 +7107,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -8924,8 +8924,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True

@@ -160,8 +160,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1765,8 +1765,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
-www.hotwire.com
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -7106,8 +7106,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.getaroom.com
-www.priceline.com
 www.bookingholdings.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -8923,8 +8923,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
