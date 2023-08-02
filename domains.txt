@@ -1436,8 +1436,8 @@ http://miro.com/blog
 *.cylon.com
 *.tnb.com
 *.abb.com.tr
-*.baldor.com
 *.abb.com
+*.baldor.com
 *.abb
 *.abb.com
 *.abb
@@ -4020,8 +4020,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -4644,6 +4644,12 @@ wealth.emaplan.com
 www.getincentive.com
 api.getincentive.com
 home.getincentive.com
+*.runpanther.io
+*.runpanther.com
+*.panther.com
+*.panther.com
+*.runpanther.io
+*.runpanther.com
 fetlife.com
 *.fetlife.com
 *.fetlife.com
@@ -7435,8 +7441,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -9123,12 +9129,6 @@ www.earny.com
 www.earny.co
 api.earny.com
 www.earny.com
-*.runpanther.io
-*.runpanther.com
-*.panther.com
-*.panther.com
-*.runpanther.io
-*.runpanther.com
 bostonfed.org
 frbsf.org
 federalreserveonline.org
