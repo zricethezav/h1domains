@@ -8774,8 +8774,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-vhx.tv
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com

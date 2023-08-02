@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 18:14:13 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 19:12:02 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3503,8 +3503,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-vhx.tv
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
