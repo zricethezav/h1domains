@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 09:11:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 10:11:21 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1504,9 +1504,9 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2572,8 +2572,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.goldmansachs.com
-*.nextcapital.com
 *.vennhypotheken.nl
+*.nextcapital.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -2682,8 +2682,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -2882,8 +2882,8 @@ xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 manage.grab.co
-*.grab.com
 p.grabtaxi.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
