@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 20:09:44 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 21:09:50 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -182,8 +182,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-web.tide.co
 www.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -411,8 +411,8 @@ user-profile-staging.8x8.com
 cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
-voapi.8x8.com
 *.packet8.net
+voapi.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
@@ -3355,8 +3355,8 @@ blog.playcanvas.com
 code.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
-login.playcanvas.com
 playcanv.as
+login.playcanvas.com
 store.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
@@ -3368,8 +3368,8 @@ snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com

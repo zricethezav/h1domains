@@ -1191,8 +1191,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,api.tide.co,True
-tide,web.tide.co,True
 tide,www.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -1646,8 +1646,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
-8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
+8x8-bounty,voapi.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.p8t.us,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -6349,9 +6349,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,platform.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.jitsi.org,False
-8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
 8x8,work.8x8.com,False
+8x8,pay.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -8508,8 +8508,8 @@ snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
-snapchat,login.playcanvas.com,True
 snapchat,playcanv.as,True
+snapchat,login.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
@@ -8521,8 +8521,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True
