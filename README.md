@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 13:11:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 14:12:00 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2582,8 +2582,8 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2826,8 +2826,8 @@ api.ukrn.io
 noti.ukrn.io
 quest.ukrn.io
 help.unikrn.com
-promotions.unikrn.com
 static.unkrn.com
+promotions.unikrn.com
 auth.ukrn.io
 c.ukrn.io
 casino.ukrn.io
@@ -3318,8 +3318,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 linkpop.com
