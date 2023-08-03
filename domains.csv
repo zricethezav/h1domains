@@ -54,8 +54,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -6866,8 +6866,8 @@ pixiv,neoket.net,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,*.fanbox.cc,True
-pixiv,booth.pm,True
 pixiv,accounts.pixiv.net,True
+pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,dic.pixiv.net,True
