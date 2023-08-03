@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 10:11:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 11:12:15 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1185,10 +1185,10 @@ www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
-*.eops.nl
 *.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.eops.nl
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1206,10 +1206,10 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
-api.stripe.com
 api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -2782,9 +2782,9 @@ myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-www.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
+www.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
@@ -3029,16 +3029,6 @@ your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
-*.lystit.com
-*.lyst.co
-*.lyst.com
-mobileapi.lystit.com
-cdna.lystit.com
-*.lyst.com
-*.lystit.com
-*.lyst.co
-cdna.lystit.com
-mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
 *.quora.com
