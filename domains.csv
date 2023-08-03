@@ -1719,8 +1719,8 @@ us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -3802,7 +3802,6 @@ epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
 epicgames,capturingreality.com,True
 epicgames,*.3lateral.com,True
-epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
@@ -5619,11 +5618,11 @@ watson_group,www10.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.com.tr,True
-watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.co.id,True
 watson_group,www.iciparisxl.lu,True
+watson_group,www.watsons.com.ph,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -6138,8 +6137,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8314,9 +8313,9 @@ github,*.githubapp.com,True
 github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8597,13 +8596,11 @@ ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,*.mixamo.com,False
 adobe,auth.services.adobe.com,False
-adobe,community.adobe.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
 adobe,repo.magento.com,True
-adobe,magento.com,True
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
@@ -8611,6 +8608,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,magento.com,True
+adobe,community.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -8958,8 +8957,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True

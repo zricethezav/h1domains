@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 16:13:34 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 17:11:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -985,7 +985,6 @@ harmonixmusic.com
 wonderboxdev.com
 capturingreality.com
 *.3lateral.com
-*.psyonix.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
@@ -1593,11 +1592,11 @@ www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
-www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
 www.watsons.co.id
 www.iciparisxl.lu
+www.watsons.com.ph
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -1990,8 +1989,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3165,9 +3164,9 @@ classroom.github.com
 *.github.net
 npmjs.org
 gist.github.com
-github.com
 *.githubusercontent.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3678,8 +3677,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
