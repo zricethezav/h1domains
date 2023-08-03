@@ -2,9 +2,8 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 18:09:57 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 19:09:17 UTC 2023)
 ```
-https://github.com/fireblocks/fireblocks-mpc
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
@@ -2785,10 +2784,10 @@ verovelvollisuustiedot.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
 www.lahitapiola.fi
-www.tapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
 *.lahitapiola.fi
+www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3348,9 +3347,9 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
 story.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com

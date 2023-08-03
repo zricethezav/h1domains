@@ -1,5 +1,4 @@
 handle,domain,eligible_for_bounty
-fireblocks_mpc,https://github.com/fireblocks/fireblocks-mpc,True
 nba-vdp,nba.com,False
 nba-vdp,bal.nba.com,False
 nba-vdp,cdn.nba.com,False
@@ -1563,11 +1562,11 @@ stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,campusmap.stanford.edu,False
 stanford-university,authority.stanford.edu,False
 stanford-university,accessories.stanford.edu,False
-stanford-university,*.sahr.stanford.edu,False
 stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,stanfordwho.stanford.edu,False
 stanford-university,who.stanford.edu,False
+stanford-university,*.sahr.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,regadmin.stanford.edu,False
 stanford-university,idp.stanford.edu,False
@@ -1975,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -6988,8 +6987,8 @@ equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
-equifax,*equifax.com,False
 equifax,*.efficientforms.com,False
+equifax,*equifax.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7858,10 +7857,10 @@ localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,www.lahitapiola.fi,True
-localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8501,9 +8500,9 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
 snapchat,story.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True

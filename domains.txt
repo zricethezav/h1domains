@@ -1,4 +1,3 @@
-https://github.com/fireblocks/fireblocks-mpc
 nba.com
 bal.nba.com
 cdn.nba.com
@@ -1562,11 +1561,11 @@ cardinalprintcenter.stanford.edu
 campusmap.stanford.edu
 authority.stanford.edu
 accessories.stanford.edu
-*.sahr.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 stanfordwho.stanford.edu
 who.stanford.edu
+*.sahr.stanford.edu
 secureportal.stanford.edu
 regadmin.stanford.edu
 idp.stanford.edu
@@ -1974,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -6987,8 +6986,8 @@ JOBALINECI.COM
 efficienthire.info
 ehxhr.com
 wotctech.com
-*equifax.com
 *.efficientforms.com
+*equifax.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -7857,10 +7856,10 @@ verovelvollisuustiedot.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
 www.lahitapiola.fi
-www.tapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
 *.lahitapiola.fi
+www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -8500,9 +8499,9 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
 story.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
