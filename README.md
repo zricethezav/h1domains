@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 12:11:50 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 13:11:53 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -273,8 +273,8 @@ hiltonlocalbiz.com
 *.hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
-hilton.com.tr
 *.hilton.com
+hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -396,11 +396,11 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-work.8x8.com
 sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 connect.8x8.com
+work.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -3166,8 +3166,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 github.com
-*.githubusercontent.com
 education.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3652,8 +3652,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
