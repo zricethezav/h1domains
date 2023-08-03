@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 04:10:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 05:10:30 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2403,12 +2403,12 @@ login-ia.tvg.com
 sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
-*.fanduel.com
 *racing.fanduel.com
 tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3349,8 +3349,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3363,19 +3363,19 @@ rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
-snappublisher.snapchat.com
-playcanvas.com
 business.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
-launch.playcanvas.com
 kit.snapchat.com
+launch.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
