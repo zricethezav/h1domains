@@ -104,8 +104,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2529,9 +2529,9 @@ fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
@@ -5439,8 +5439,8 @@ tiktok,partner.tiktokshop.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8308,8 +8308,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
@@ -8473,8 +8473,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
-shopify,linkpop.com,True
 shopify,shop.app,True
+shopify,linkpop.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -8508,8 +8508,8 @@ snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
-snapchat,playcanv.as,True
 snapchat,login.playcanvas.com,True
+snapchat,playcanv.as,True
 snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
@@ -8608,10 +8608,10 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
-adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,magento.com,True
 adobe,community.adobe.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
