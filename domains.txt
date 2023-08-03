@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 *.massmutual.com
@@ -53,8 +53,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -1685,8 +1685,8 @@ pay.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -1829,8 +1829,8 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
-*.expedia.com
 *.hoteis.com
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4046,8 +4046,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.eops.nl
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -7427,11 +7427,11 @@ sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -7471,8 +7471,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7618,7 +7618,7 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -8471,8 +8471,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
@@ -8606,10 +8606,10 @@ magento.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-nicetryapril.na1.echosignsandbox.com
 *.adobeaemcloud.com
 firefly.adobe.com
 *.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com

@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -54,8 +54,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1686,8 +1686,8 @@ superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
-moonpay,moonpay.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -1830,8 +1830,8 @@ expediagroup,*.egadvertising.com,False
 expediagroup,*.vrbo.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
-expediagroup,*.expedia.com,False
 expediagroup,*.hoteis.com,False
+expediagroup,*.expedia.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4047,8 +4047,8 @@ elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
 elastic,*.eops.nl,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -7428,11 +7428,11 @@ fanduel,sportsbook.fanduel.com,True
 fanduel,www.tvg.com,True
 fanduel,mobile-prod.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,tvg.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*.fanduel.com,True
+fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -7472,8 +7472,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7619,7 +7619,7 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -8472,8 +8472,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
-shopify,shop.app,True
 shopify,linkpop.com,True
+shopify,shop.app,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -8607,10 +8607,10 @@ adobe,magento.com,True
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
