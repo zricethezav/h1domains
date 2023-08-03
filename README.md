@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 15:11:45 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 16:13:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -142,8 +142,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.krisha.kz
 api.kolesa.kz
-app.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1186,9 +1186,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
 *.eops.nl
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1585,7 +1585,6 @@ beta-cloud.acronis.com
 account.acronis.com
 hackerone.affirm-odin.com
 hackerone.affirm-odin.com
-www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
 mapi-sim.fortress.com.hk
@@ -1598,6 +1597,7 @@ www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
 www.watsons.co.id
+www.iciparisxl.lu
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -2193,10 +2193,10 @@ http://api.smartsheet.com/2.0
 admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
-*authenticate.trustpilot.com
 *business.trustpilot.com
 *signup.business.trustpilot.com
 *emailsignature.trustpilot.com
+*authenticate.trustpilot.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
@@ -3063,8 +3063,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -3166,8 +3166,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 github.com
-education.github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3329,8 +3329,8 @@ partners.shopify.com
 *.shopifykloud.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

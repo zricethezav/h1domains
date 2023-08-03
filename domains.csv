@@ -104,8 +104,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,usa.visa.com,True
 visa,www.cardinalcommerce.com,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -1149,8 +1149,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
-kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
+kolesagroup,app.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
@@ -1719,8 +1719,8 @@ us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -4044,9 +4044,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
 elastic,*.eops.nl,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -5611,7 +5611,6 @@ affirm,hackerone.affirm-odin.com,True
 affirm,hackerone.affirm-odin.com,True
 affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
-watson_group,www.iciparisxl.lu,True
 watson_group,app.marionnaud.hu,True
 watson_group,www.marionnaud.ro,True
 watson_group,mapi-sim.fortress.com.hk,True
@@ -5624,6 +5623,7 @@ watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.co.id,True
+watson_group,www.iciparisxl.lu,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -7201,10 +7201,10 @@ smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
 smartsheet,developers.smartsheet.com,True
-trustpilot,*authenticate.trustpilot.com,True
 trustpilot,*business.trustpilot.com,True
 trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*emailsignature.trustpilot.com,True
+trustpilot,*authenticate.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
@@ -8168,8 +8168,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.cn,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
@@ -8315,8 +8315,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,github.com,True
-github,education.github.com,True
 github,*.githubusercontent.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8480,8 +8480,8 @@ shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
