@@ -1,4 +1,5 @@
 handle,domain,eligible_for_bounty
+fireblocks_mpc,https://github.com/fireblocks/fireblocks-mpc,True
 nba-vdp,nba.com,False
 nba-vdp,bal.nba.com,False
 nba-vdp,cdn.nba.com,False
@@ -203,6 +204,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*detroitconnect.com,False
+fifth_third_bank_vdp,*53.com,False
+fifth_third_bank_vdp,*53.com,False
 truist_financial,https://www.mcgriff.com,False
 truist_financial,https://www.gotapco.com,False
 truist_financial,https://secure.gotapco.com,False
@@ -1972,8 +1975,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2376,12 +2379,12 @@ mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.pl,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
-mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
 mars,*.royalcanin.com,False
+mars,*.jornadasroyalcanin.com.ar,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.ca,False
@@ -4232,8 +4235,8 @@ aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
 aig,www-417.aig.ie,False
 aig,*.aig.com,False
-aig,www.aig.co.il,False
 aig,*.myretirementmanager.com,False
+aig,www.aig.co.il,False
 aig,www.aig.com.br,False
 aig,www.vfisu.com,False
 aig,www.vfisal.com,False
@@ -6027,8 +6030,8 @@ digitalocean,developers.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,*.digitalocean.com,False
 digitalocean,api.cloudways.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -8504,10 +8507,10 @@ snapchat,story.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
-snapchat,login.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
+snapchat,login.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
@@ -8931,8 +8934,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True
@@ -8957,8 +8960,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True

@@ -1,3 +1,4 @@
+https://github.com/fireblocks/fireblocks-mpc
 nba.com
 bal.nba.com
 cdn.nba.com
@@ -202,6 +203,8 @@ www.tink.com
 *fleetboard.com
 *.freightliner.com
 *detroitconnect.com
+*53.com
+*53.com
 https://www.mcgriff.com
 https://www.gotapco.com
 https://secure.gotapco.com
@@ -1971,8 +1974,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2375,12 +2378,12 @@ banfield.us
 *.royalcanin.pl
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
-*.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
 banfieldexchange.com
 *.banfieldassets.com
 *.royalcanin.com
+*.jornadasroyalcanin.com.ar
 *.mms.com
 *.pedigree.com
 *.royalcanin.ca
@@ -4231,8 +4234,8 @@ www-1008.aig.com
 www.travelguard.com
 www-417.aig.ie
 *.aig.com
-www.aig.co.il
 *.myretirementmanager.com
+www.aig.co.il
 www.aig.com.br
 www.vfisu.com
 www.vfisal.com
@@ -6026,8 +6029,8 @@ developers.cloudways.com
 api.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
-*.digitalocean.com
 api.cloudways.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -8503,10 +8506,10 @@ story.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
-login.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
+login.playcanvas.com
 store.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
@@ -8930,8 +8933,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -8956,8 +8959,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com

@@ -2,8 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 17:11:34 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 18:09:57 UTC 2023)
 ```
+https://github.com/fireblocks/fireblocks-mpc
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
@@ -3353,10 +3354,10 @@ story.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
-login.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
+login.playcanvas.com
 store.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
@@ -3651,8 +3652,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -3677,8 +3678,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
