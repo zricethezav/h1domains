@@ -52,8 +52,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -61,9 +61,9 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-www.authorize.net
 www.visa.co.ke
 www.cybersource.com
+www.authorize.net
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -1498,9 +1498,9 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3057,8 +3057,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.jp

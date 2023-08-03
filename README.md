@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 07:10:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 08:11:47 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -67,9 +67,9 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-www.authorize.net
 www.visa.co.ke
 www.cybersource.com
+www.authorize.net
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -1504,9 +1504,9 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3063,8 +3063,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.jp
