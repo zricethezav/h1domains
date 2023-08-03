@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -2570,8 +2570,8 @@ oanda,*.tmsbrokers.com,False
 recargapay,api.recarga.com,True
 recargapay,api.recarga.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,api.razorpay.com,True
 razorpay,payroll.razorpay.com,True
+razorpay,api.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -5285,8 +5285,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-exodus,*.exodus.io,True
 exodus,*.exodus.com,True
+exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
@@ -7496,8 +7496,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.paypalcorp.com,True
-paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True

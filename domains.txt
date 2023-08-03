@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 *.massmutual.com
@@ -2569,8 +2569,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -5284,8 +5284,8 @@ provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
 notification.billing.appservices.mendix.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -7495,8 +7495,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
