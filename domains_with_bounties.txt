@@ -1763,8 +1763,8 @@ faucet.polygon.technology
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
-*.betfair.com
 *.sportinglife.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
