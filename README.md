@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 11:12:15 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 12:11:50 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3029,6 +3029,16 @@ your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
+*.lystit.com
+*.lyst.co
+*.lyst.com
+mobileapi.lystit.com
+cdna.lystit.com
+*.lyst.com
+*.lystit.com
+*.lyst.co
+cdna.lystit.com
+mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
 *.quora.com
@@ -3121,8 +3131,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -3154,10 +3164,10 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 npmjs.org
-education.github.com
 gist.github.com
 github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
