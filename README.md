@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 06:22:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 07:10:39 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -255,6 +255,12 @@ www.six-group.com
 www.six-group.com
 node.e2ro.com/*
 api-user.e2ro.com/*
+*.eu.floqast.app
+*.floqast.app
+api-eu.floqast.app
+*.eu.floqast.app
+*.floqast.app
+api-eu.floqast.app
 *.hilton.io
 hiltonmanage.com
 *.hiltonhotels.jp
@@ -330,6 +336,12 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
+miro.com
+api.miro.com
+http://miro.com/app
+miro.com
+api.miro.com
+http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
 cloud.malwarebytes.com
@@ -690,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1331,6 +1343,12 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
+www.remitano.com
+socket.remitano.com
+api.remitano.com
+www.remitano.com
+api.remitano.com
+socket.remitano.com
 nvio.mx
 nvio.ar
 api.bitso.com
@@ -1486,9 +1504,9 @@ tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1847,8 +1865,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.alimama.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3311,8 +3329,8 @@ partners.shopify.com
 *.shopifykloud.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
