@@ -8168,8 +8168,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -8480,8 +8480,8 @@ partners.shopify.com
 *.shopifykloud.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8608,9 +8608,9 @@ stream.frame.io
 *.adobeaemcloud.com
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
-magento.com
 community.adobe.com
 *.adobe.com
+magento.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com

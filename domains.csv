@@ -8169,8 +8169,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.cn,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
@@ -8481,8 +8481,8 @@ shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8609,9 +8609,9 @@ adobe,stream.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,magento.com,True
 adobe,community.adobe.com,False
 adobe,*.adobe.com,False
+adobe,magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
