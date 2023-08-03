@@ -1223,10 +1223,10 @@ www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
 ads.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
+*.redditmedia.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1761,11 +1761,11 @@ faucet.polygon.technology
 *.operationstechnology.io
 *.securityservices.io
 *.skybettest.net
-*.sportinglife.com
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com

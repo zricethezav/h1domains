@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4501,10 +4501,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,ads.reddit.com,True
-reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
 reddit,gql.reddit.com,True
+reddit,*.redditmedia.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -5847,11 +5847,11 @@ flutteruki,*.msgsvc.io,True
 flutteruki,*.operationstechnology.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
-flutteruki,*.sportinglife.com,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.sportinglife.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
 flutteruki,*.skybetservices.com,True

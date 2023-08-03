@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 03:10:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 04:10:53 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1229,10 +1229,10 @@ www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
 ads.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
+*.redditmedia.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1767,11 +1767,11 @@ faucet.polygon.technology
 *.operationstechnology.io
 *.securityservices.io
 *.skybettest.net
-*.sportinglife.com
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com

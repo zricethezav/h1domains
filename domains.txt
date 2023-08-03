@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4500,10 +4500,10 @@ blog.drugs.com
 www.woolshed.com
 api.reddit.com
 ads.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
+*.redditmedia.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -5846,11 +5846,11 @@ faucet.polygon.technology
 *.operationstechnology.io
 *.securityservices.io
 *.skybettest.net
-*.sportinglife.com
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
