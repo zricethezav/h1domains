@@ -177,9 +177,9 @@ www.fraedom.com
 usa.visa.com
 www.tink.com
 *omniplus.com
-*exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.setra.de
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2320,8 +2320,8 @@ www.watchstationindia.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mssm.edu
 *.mountsinai.org
+*.mssm.edu
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -7261,9 +7261,9 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
-*.lincoln.com
 *.motorcraft.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com

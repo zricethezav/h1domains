@@ -178,9 +178,9 @@ visa,www.fraedom.com,True
 visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*omniplus.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2321,8 +2321,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -7262,9 +7262,9 @@ omise,linksplus-dashboard.omise.co,True
 omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
-ford,*.lincoln.com,False
 ford,*.motorcraft.com,False
 ford,*.ford.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
