@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 05:07:47 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 06:10:54 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 hg.mozilla.org
 getpocket.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1185,9 +1185,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
 *.eops.nl
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1229,9 +1229,9 @@ www.urbanclap.com
 api.reddit.com
 ads.reddit.com
 app.spiketrap.io
-old.reddit.com
 gql.reddit.com
 *.redditmedia.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1730,12 +1730,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -2773,8 +2773,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi

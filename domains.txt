@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 *.massmutual.com
@@ -184,8 +184,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1243,8 +1243,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 hg.mozilla.org
 getpocket.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1825,7 +1825,6 @@ www.flights.com
 *.expediapartnersolutions.com
 *.expediaagents.com
 *.orbitz.com
-*.wotif.com
 *.cruiseshipcenters.com
 *.egadvertising.com
 *.vrbo.com
@@ -1833,6 +1832,7 @@ www.flights.com
 *.lastminute.co.nz
 *.hoteis.com
 *.expedia.com
+*.wotif.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -4044,9 +4044,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
 *.eops.nl
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -4502,9 +4502,9 @@ www.woolshed.com
 api.reddit.com
 ads.reddit.com
 app.spiketrap.io
-old.reddit.com
 gql.reddit.com
 *.redditmedia.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -5809,12 +5809,12 @@ www.trycourier.app
 api.trycourier.app
 api.courier.com
 www.courier.com
-wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -7845,8 +7845,8 @@ bugbountyguide.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi

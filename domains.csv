@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -185,8 +185,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -1244,8 +1244,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,getpocket.com,True
-mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -1826,7 +1826,6 @@ expediagroup,*.hotwirepartnercentral.com,False
 expediagroup,*.expediapartnersolutions.com,False
 expediagroup,*.expediaagents.com,False
 expediagroup,*.orbitz.com,False
-expediagroup,*.wotif.com,False
 expediagroup,*.cruiseshipcenters.com,False
 expediagroup,*.egadvertising.com,False
 expediagroup,*.vrbo.com,False
@@ -1834,6 +1833,7 @@ expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
 expediagroup,*.hoteis.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.wotif.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -4045,9 +4045,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.eops.nl,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -4503,9 +4503,9 @@ drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,ads.reddit.com,True
 reddit,app.spiketrap.io,True
-reddit,old.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
+reddit,old.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -5810,12 +5810,12 @@ trycourier,www.trycourier.app,False
 trycourier,api.trycourier.app,False
 trycourier,api.courier.com,False
 trycourier,www.courier.com,False
-polygon-technology,wallet.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
+polygon-technology,wallet.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
@@ -7846,8 +7846,8 @@ ed,bugbountyguide.com,False
 localtapiola,verkkopalvelu.tapiola.fi,True
 localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
-localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
+localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,myynti.lahitapiolarahoitus.fi,True
