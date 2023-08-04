@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 09:11:03 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 10:11:10 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 hg.mozilla.org
 getpocket.com
-support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -261,15 +261,15 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.hilton.io
 hiltonmanage.com
 *.hiltonhotels.jp
+*.hilton.io
 *.hiltonbusinessonline.com
 hiltonhotels.jp
-hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
+hilton.io
 *.hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
@@ -937,8 +937,8 @@ account.krisp.ai
 *.krisp.ai
 api.krisp.ai
 teams.krisp.ai
-krisp.ai
 download.krisp.ai
+krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1439,12 +1439,12 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-www.cloud.com
 accounts.cloud.com
 *.browser.cloud.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -1856,8 +1856,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1989,8 +1989,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3328,8 +3328,8 @@ partners.shopify.com
 *.shopifykloud.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
