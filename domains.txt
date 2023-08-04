@@ -1148,10 +1148,10 @@ www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-api.krisha.kz
 api.kolesa.kz
 id.kolesa.kz
 app.kolesa.kz
+api.krisha.kz
 m.krisha.kz
 avtoelon.uz
 app.avtoelon.uz
@@ -5622,8 +5622,8 @@ www.watsons.com.tr
 www.marionnaud.fr
 apptps.theperfumeshop.com
 www.watsons.co.id
-www.iciparisxl.lu
 www.watsons.com.ph
+www.iciparisxl.lu
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -8525,8 +8525,8 @@ web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
-kit.snapchat.com
 launch.playcanvas.com
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net

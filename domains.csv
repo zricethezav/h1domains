@@ -1149,10 +1149,10 @@ mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,api.krisha.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,app.avtoelon.uz,True
@@ -5623,8 +5623,8 @@ watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.co.id,True
-watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.ph,True
+watson_group,www.iciparisxl.lu,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -8526,8 +8526,8 @@ snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True
-snapchat,kit.snapchat.com,True
 snapchat,launch.playcanvas.com,True
+snapchat,kit.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
