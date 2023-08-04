@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 06:10:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 07:09:30 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -499,22 +499,22 @@ www.orbitz.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediagroup.com
 www.abritel.fr
 www.hotels.com
-www.travelocity.com
+www.expediaagents.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
+www.travelocity.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
 www.carrentals.com
 www.fewo-direkt.de
-www.travelocity.ca
 www.bookabach.co.nz
 www.expedia.com
+www.travelocity.ca
 www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
@@ -1185,9 +1185,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 *.eops.nl
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1383,8 +1383,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
