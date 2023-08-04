@@ -3689,11 +3689,11 @@ tennessee-valley-authority,http://tvaloans.com,False
 tennessee-valley-authority,http://energyright.com,False
 tennessee-valley-authority,http://tvasites.com,False
 krisp,help-jp.krisp.ai,False
-krisp,resources.krisp.ai,False
 krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,analytics.krisp.ai,True
+krisp,resources.krisp.ai,False
 krisp,upld.krisp.ai,True
 krisp,account.krisp.ai,True
 krisp,*.krisp.ai,True
@@ -4501,11 +4501,11 @@ drugs_com,www.question.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -5973,9 +5973,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7267,8 +7267,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False

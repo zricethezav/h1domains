@@ -3688,11 +3688,11 @@ http://tvaloans.com
 http://energyright.com
 http://tvasites.com
 help-jp.krisp.ai
-resources.krisp.ai
 help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
 analytics.krisp.ai
+resources.krisp.ai
 upld.krisp.ai
 account.krisp.ai
 *.krisp.ai
@@ -4500,11 +4500,11 @@ www.question.com
 blog.drugs.com
 www.woolshed.com
 api.reddit.com
-ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
 *.redditmedia.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -5972,9 +5972,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.alimama.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7266,8 +7266,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
