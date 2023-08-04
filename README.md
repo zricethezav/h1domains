@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 15:10:33 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 16:12:46 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -2730,8 +2730,8 @@ bounty-node.rsk.co
 *.deliveroo-streams.net
 app.quovo.com
 secure.plaid.com
-dashboard.plaid.com
 demo.plaid.com
+dashboard.plaid.com
 plaid.com
 my.plaid.com
 production.plaid.com
@@ -3012,8 +3012,8 @@ circolocorecords.com/
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3671,6 +3671,7 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
+data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -3693,11 +3694,11 @@ hackerone-ext-content.com
 www.hackerone.com
 hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
