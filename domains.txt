@@ -184,8 +184,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4045,8 +4045,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.elstc.co
 cloud.elastic.co
-*.eops.nl
 *.swiftype.com
+*.eops.nl
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -8609,8 +8609,8 @@ stream.frame.io
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 community.adobe.com
-*.adobe.com
 magento.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
