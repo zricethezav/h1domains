@@ -1154,8 +1154,8 @@ kolesagroup,api.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,app.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5632,8 +5632,8 @@ watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
 watson_group,www.pns.hk,True
-watson_group,api.watsons.com.tw,True
 watson_group,www10.watsons.com.my,True
+watson_group,app.watsons.com.tr,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -8609,9 +8609,9 @@ adobe,stream.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,community.adobe.com,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
+adobe,community.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False

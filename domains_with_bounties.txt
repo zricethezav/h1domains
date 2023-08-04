@@ -139,8 +139,8 @@ api.kolesa.kz
 id.kolesa.kz
 app.kolesa.kz
 m.krisha.kz
-app.avtoelon.uz
 avtoelon.uz
+app.avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -1598,8 +1598,8 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-api.watsons.com.tw
 www10.watsons.com.my
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be

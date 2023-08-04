@@ -1153,8 +1153,8 @@ api.kolesa.kz
 id.kolesa.kz
 app.kolesa.kz
 m.krisha.kz
-app.avtoelon.uz
 avtoelon.uz
+app.avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5631,8 +5631,8 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-api.watsons.com.tw
 www10.watsons.com.my
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -8608,9 +8608,9 @@ stream.frame.io
 *.adobeaemcloud.com
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
-community.adobe.com
 magento.com
 *.adobe.com
+community.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
