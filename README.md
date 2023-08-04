@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 14:11:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 15:10:33 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -273,8 +273,8 @@ hilton.io
 *.hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
-*.hilton.com
 hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -446,8 +446,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1499,8 +1499,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -1856,8 +1856,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1942,8 +1942,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2681,8 +2681,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3681,9 +3681,9 @@ api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com

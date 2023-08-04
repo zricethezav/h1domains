@@ -1333,8 +1333,8 @@ hilton.io
 *.hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
-*.hilton.com
 hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1462,8 +1462,8 @@ http://miro.com/blog
 *.cylon.com
 *.tnb.com
 *.abb.com.tr
-*.abb.com
 *.baldor.com
+*.abb.com
 *.abb
 *.abb.com
 *.abb
@@ -1582,8 +1582,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -1680,8 +1680,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2369,8 +2369,8 @@ banfield.us
 *.banfield.com
 *.miroyalcanin.com.ar
 *.royalcanin.be
-*.royalcanin.pt
 *.individualis.com
+*.royalcanin.pt
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.co.uk
@@ -5433,8 +5433,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -5965,8 +5965,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -6095,8 +6095,8 @@ www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -7727,8 +7727,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -8966,9 +8966,9 @@ api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com

@@ -1334,8 +1334,8 @@ hilton,hilton.io,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
-hilton,*.hilton.com,True
 hilton,hilton.com.tr,True
+hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
@@ -1463,8 +1463,8 @@ abb,*.abb.com.cn,False
 abb,*.cylon.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
-abb,*.abb.com,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.abb,False
 abb,*.abb.com,False
 abb,*.abb,False
@@ -1583,8 +1583,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,login.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -1681,8 +1681,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2370,8 +2370,8 @@ mars,banfield.us,False
 mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
-mars,*.royalcanin.pt,False
 mars,*.individualis.com,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.co.uk,False
@@ -5434,8 +5434,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -5966,8 +5966,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -6096,8 +6096,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
@@ -7728,8 +7728,8 @@ newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,one.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -8967,9 +8967,9 @@ security,api.hackerone.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
-security,cover-photos-us-east-2.hackerone-user-content.com,True
-security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
+security,a5s.hackerone-ext-content.com,True
+security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
