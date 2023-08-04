@@ -1154,15 +1154,15 @@ kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,avtoelon.uz,True
 kolesagroup,app.avtoelon.uz,True
+kolesagroup,avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
+kolesagroup,api.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -6033,8 +6033,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
-digitalocean,*.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
