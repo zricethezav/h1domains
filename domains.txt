@@ -1217,8 +1217,8 @@ phabricator.services.mozilla.com
 lando.services.mozilla.com
 shavar.services.mozilla.com
 aus5.mozilla.org
-hg.mozilla.org
 addons.allizom.org
+hg.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -1241,10 +1241,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 relay.firefox.com
-hg.mozilla.org
 getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+hg.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -4279,8 +4279,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -5285,8 +5285,8 @@ provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
 notification.billing.appservices.mendix.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -5971,10 +5971,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.1688.com
-*.Daraz.com
 *.alimama.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6038,8 +6038,8 @@ www.cloudways.com
 do.co
 hacktoberfest.com
 hackathon-tracker.digitalocean.com
-www.digitalocean.com
 platform.cloudways.com
+www.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -8736,8 +8736,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com

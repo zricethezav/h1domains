@@ -1218,8 +1218,8 @@ mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
-mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
+mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,location.services.mozilla.com,True
@@ -1242,10 +1242,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -4280,8 +4280,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -5286,8 +5286,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-exodus,*.exodus.com,True
 exodus,*.exodus.io,True
+exodus,*.exodus.com,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
@@ -5972,10 +5972,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6039,8 +6039,8 @@ digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
 digitalocean,hackathon-tracker.digitalocean.com,False
-digitalocean,www.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
+digitalocean,www.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8737,8 +8737,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
