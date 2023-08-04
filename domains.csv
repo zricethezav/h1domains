@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5286,8 +5286,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-exodus,*.exodus.io,True
 exodus,*.exodus.com,True
+exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
@@ -6028,8 +6028,8 @@ myndr,*.myndr.net,False
 myndr,*.myndr.nl,False
 myndr,osd.myndr.nl,False
 myndr,www.myndr.nl,False
-digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,developers.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
@@ -8312,8 +8312,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
@@ -8519,10 +8519,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -8907,11 +8907,11 @@ irccloud,irccloud.com,True
 irccloud,irc.irccloud.com,True
 irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
-coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
-coinbase,prime.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
+coinbase,prime.coinbase.com,True
+coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
@@ -8981,9 +8981,9 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 13:12:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 14:11:16 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1383,8 +1383,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -3157,8 +3157,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3362,10 +3362,10 @@ rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
-business.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3621,11 +3621,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-pro.coinbase.com
 custody.coinbase.com
-prime.coinbase.com
 paradex.io
 *.cbhq.net
+prime.coinbase.com
+pro.coinbase.com
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
@@ -3695,9 +3695,9 @@ hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone.live
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
