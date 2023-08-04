@@ -4045,8 +4045,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.elstc.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -5973,8 +5973,8 @@ www.alibabagroup.com
 *.1688.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8980,10 +8980,10 @@ www.hackerone.com
 hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
-hackerone.live
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 errors.hackerone.net
+cover-photos.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
