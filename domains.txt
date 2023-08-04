@@ -1980,8 +1980,8 @@ shop.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
-careers.resmed.com
 www.citushealth.com
+careers.resmed.com
 myair.resmed.com
 resmed.hk
 myair.resmed.eu
@@ -4279,8 +4279,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -5285,8 +5285,8 @@ provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
 notification.billing.appservices.mendix.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -6027,8 +6027,8 @@ osd.myndr.nl
 *.myndr.nl
 osd.myndr.nl
 www.myndr.nl
-cloud.digitalocean.com
 developers.cloudways.com
+cloud.digitalocean.com
 api.digitalocean.com
 169.254.169.254
 api.cloudways.com
@@ -7476,8 +7476,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7862,8 +7862,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
-*.lahitapiola.fi
 www.tapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi

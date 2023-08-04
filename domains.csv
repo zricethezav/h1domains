@@ -1981,8 +1981,8 @@ resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
-resmed,careers.resmed.com,False
 resmed,www.citushealth.com,False
+resmed,careers.resmed.com,False
 resmed,myair.resmed.com,False
 resmed,resmed.hk,False
 resmed,myair.resmed.eu,False
@@ -4280,8 +4280,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -5286,8 +5286,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-exodus,*.exodus.io,True
 exodus,*.exodus.com,True
+exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
@@ -6028,8 +6028,8 @@ myndr,*.myndr.net,False
 myndr,*.myndr.nl,False
 myndr,osd.myndr.nl,False
 myndr,www.myndr.nl,False
-digitalocean,cloud.digitalocean.com,False
 digitalocean,developers.cloudways.com,False
+digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
@@ -7477,8 +7477,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7863,8 +7863,8 @@ localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
