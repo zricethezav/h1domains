@@ -32,7 +32,6 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.yellowpepper.com
-bb.visa.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -47,6 +46,7 @@ www.visa.co.nz
 www.visa.co.in
 www.visa.com.vn
 www.currencycloud.com
+bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -267,8 +267,8 @@ hiltonlocalbiz.com
 *.hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
-hilton.com.tr
 *.hilton.com
+hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -392,9 +392,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 *.8x8.vc
-*.jitsi.net
 connect.8x8.com
 work.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -3686,12 +3686,12 @@ ctf.hacker101.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 app.pullrequest.com
+hackerone.live
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

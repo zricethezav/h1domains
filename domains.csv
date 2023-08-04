@@ -84,7 +84,6 @@ visa,visa.com.ua,True
 visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.yellowpepper.com,True
-visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -99,6 +98,7 @@ visa,www.visa.co.nz,True
 visa,www.visa.co.in,True
 visa,www.visa.com.vn,True
 visa,www.currencycloud.com,True
+visa,bb.visa.com,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -1334,8 +1334,8 @@ hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
-hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
+hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
@@ -1633,9 +1633,9 @@ kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,work.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -1932,8 +1932,8 @@ avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.davosalestax.com,False
-avalara,*.avalara.net,False
 avalara,*.avalara.io,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5542,8 +5542,10 @@ logitech,logitechgchallenge.com,False
 logitech,www.logitechclub.com,False
 logitech,select.logitech.com,False
 logitech,alert.logitech.com,False
+enjin,enjinx.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
+enjin,api.enjinx.io,False
 enjin,cloud.enjin.io,False
 enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
@@ -5552,6 +5554,8 @@ enjin,goerli.cloud.enjin.io,False
 enjin,jumpnet.cloud.enjin.io,False
 enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
+enjin,api.enjinx.io,False
+enjin,enjinx.io,False
 figma,api.figma.com,True
 figma,www.figma.com,True
 figma,www.figma.com,True
@@ -6349,9 +6353,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,platform.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.jitsi.org,False
-8x8,*.jitsi.net,False
 8x8,work.8x8.com,False
 8x8,pay.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -8974,12 +8978,12 @@ security,ctf.hacker101.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,www.hackerone.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,hackerone.live,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
+security,hackerone.live,True
+security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
