@@ -1543,9 +1543,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-cs.money
 support.cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -3358,8 +3358,8 @@ my.snapchat.com
 map.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com

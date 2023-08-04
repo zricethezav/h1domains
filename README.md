@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 19:10:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 20:10:54 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1549,9 +1549,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-cs.money
 support.cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -3364,8 +3364,8 @@ my.snapchat.com
 map.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
