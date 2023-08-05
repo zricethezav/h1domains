@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 17:08:42 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 18:10:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -197,8 +197,8 @@ firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
-push.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
@@ -2555,13 +2555,13 @@ www.shipt.com
 *.liberapay.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
-*.goldman.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.ayco.com
 *.gsselect.com
 *.foliofn.com
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -2621,9 +2621,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com

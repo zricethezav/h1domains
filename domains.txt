@@ -1210,8 +1210,8 @@ firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
-push.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7596,13 +7596,13 @@ cloud.rocket.chat
 *.liberapay.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
-*.goldman.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.ayco.com
 *.gsselect.com
 *.foliofn.com
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -7663,9 +7663,9 @@ api.foliofn.com
 *.folioinvesting.com
 *.claritymoney.com
 playartifact.com
-help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
