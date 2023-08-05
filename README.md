@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 14:08:51 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 15:10:12 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1918,12 +1918,12 @@ maria.casino
 *.kindredext.net
 *.mariacasino.com
 *.storspiller.com
-*.casinohuone.com
 *.igame.com
 *.vladcazino.ro
 www.32red.com
 *.ottokasino.com
 *.kes.kindredext.net
+*.casinohuone.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2167,9 +2167,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -3682,9 +3682,9 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
+www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
