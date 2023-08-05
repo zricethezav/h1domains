@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 07:10:14 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 08:10:40 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3356,8 +3356,8 @@ my.snapchat.com
 map.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3670,8 +3670,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3682,9 +3682,9 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
