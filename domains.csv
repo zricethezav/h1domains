@@ -2000,7 +2000,6 @@ resmed,airview.resmed.eu,False
 resmed,mealtracker.com,False
 resmed,u-sleep.umbian.com,False
 resmed,propellerhealth.com,False
-resmed,resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
@@ -2009,6 +2008,7 @@ resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
 resmed,app.citushealth.ca,False
+resmed,brightree.net/,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -2532,17 +2532,17 @@ planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
+planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
-planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8517,8 +8517,8 @@ snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True

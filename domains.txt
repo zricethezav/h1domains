@@ -1999,7 +1999,6 @@ airview.resmed.eu
 mealtracker.com
 u-sleep.umbian.com
 propellerhealth.com
-resmed.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -2008,6 +2007,7 @@ sigmacare.com
 soneto.net
 careanyware.com
 app.citushealth.ca
+brightree.net/
 resmed.com
 resupply.resmed.com
 myair.resmed.com
@@ -2531,17 +2531,17 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
+www.cafepress.com
 *.photoaffections.com
 *.gifts.com
 www.canvasworld.com
 *.canvasworld.com
 *.personalcreations.com
 www.gifts.com
-*.cafepress.com
 *.iseeme.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -8516,8 +8516,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
