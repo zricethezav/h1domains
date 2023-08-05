@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 21:09:55 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 22:10:20 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1504,8 +1504,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3199,13 +3199,13 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-*.hyperpure.com
 api.grofers.com
+*.hyperpure.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3688,9 +3688,9 @@ reviewer.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 app.pullrequest.com
 b5s.hackerone-ext-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
