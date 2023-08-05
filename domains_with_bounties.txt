@@ -2576,7 +2576,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-*.gs.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
