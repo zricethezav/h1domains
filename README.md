@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 09:10:07 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 10:10:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
