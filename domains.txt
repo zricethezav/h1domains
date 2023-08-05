@@ -1406,8 +1406,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
