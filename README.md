@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 22:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 23:09:53 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1595,8 +1595,8 @@ www.watsons.com.tr
 www.marionnaud.fr
 apptps.theperfumeshop.com
 www.watsons.co.id
-www.watsons.com.ph
 www.iciparisxl.lu
+www.watsons.com.ph
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
