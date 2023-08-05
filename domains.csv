@@ -1688,8 +1688,8 @@ superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
-moonpay,*.moonpaycloud.com,True
 moonpay,moonpay.com,True
+moonpay,*.moonpaycloud.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -2665,8 +2665,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -6341,8 +6341,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8staging.com,False
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
-8x8,supersite.8x8.com,False
 8x8,cloud8.8x8.com,False
+8x8,supersite.8x8.com,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
 8x8,*.8x8.id,False
@@ -8974,9 +8974,9 @@ security,hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,hackerone.live,True
 security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
-security,hackerone.live,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
