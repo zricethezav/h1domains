@@ -696,8 +696,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1493,8 +1493,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -3673,12 +3673,12 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 ctf.hacker101.com
+reviewer.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
