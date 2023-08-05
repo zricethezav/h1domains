@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 19:08:37 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 20:10:29 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -398,9 +398,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 work.8x8.com
 *.jitsi.net
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -495,7 +495,6 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.orbitz.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
@@ -503,6 +502,7 @@ www.expediagroup.com
 www.abritel.fr
 www.expediaagents.com
 www.hotels.com
+www.orbitz.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
@@ -1952,9 +1952,9 @@ jobs.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
-www.ritzcarlton.com
 giftcards.marriott.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -2944,8 +2944,8 @@ assets.spotify.com
 api.sonantic.io
 app.sonantic.io
 backstage.io
-api.spotify.com
 label-studio-public.sonantic.io
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 api.sonantic.io
@@ -3157,8 +3157,8 @@ classroom.github.com
 gist.github.com
 *.githubusercontent.com
 education.github.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3670,8 +3670,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

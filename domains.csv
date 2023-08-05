@@ -1633,9 +1633,9 @@ kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -1768,7 +1768,6 @@ yuga_labs,*.10ktf.com,True
 yuga_labs,*.wenewmoments.com,True
 yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
-expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
@@ -1776,6 +1775,7 @@ expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.hotels.com,True
+expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -6106,9 +6106,9 @@ marriott,jobs.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
-marriott,www.ritzcarlton.com,True
 marriott,giftcards.marriott.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,www.ritzcarlton.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
@@ -6333,9 +6333,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
@@ -8043,8 +8043,8 @@ spotify,assets.spotify.com,True
 spotify,api.sonantic.io,True
 spotify,app.sonantic.io,True
 spotify,backstage.io,True
-spotify,api.spotify.com,True
 spotify,label-studio-public.sonantic.io,True
+spotify,api.spotify.com,True
 spotify,assets.spotify.com,True
 spotify,api.spotify.com,True
 spotify,api.sonantic.io,True
@@ -8312,8 +8312,8 @@ github,*.github.net,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,education.github.com,True
-github,github.com,True
 github,npmjs.org,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8956,8 +8956,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
