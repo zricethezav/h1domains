@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 00:22:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 01:36:20 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2277,7 +2277,6 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
@@ -2290,6 +2289,7 @@ holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
 book.extraholidaysvacations.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2573,7 +2573,6 @@ goldmansachsindices.com
 *.goldmansachs.com
 *.vennhypotheken.nl
 *.nextcapital.com
-*.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2583,6 +2582,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3065,9 +3065,9 @@ www.starbucks.de
 app.starbucks.com
 www.starbucks.com
 www.starbucks.com.cn
-login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.co.kr
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3119,14 +3119,6 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-harvestapp.com
-id.getharvest.com
-getharvest.com
-forecastapp.com
-harvestapp.com
-forecastapp.com
-id.getharvest.com
-getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.pornhub.com
@@ -3693,12 +3685,12 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 ctf.hacker101.com
-profile-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
-app.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
+profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4004,6 +3996,14 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
+harvestapp.com
+id.getharvest.com
+getharvest.com
+forecastapp.com
+harvestapp.com
+forecastapp.com
+id.getharvest.com
+getharvest.com
 *.secnews.gr
 *.secnews.gr
 api.kiwi.ki
