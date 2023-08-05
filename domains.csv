@@ -2538,11 +2538,11 @@ planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
-planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8359,8 +8359,8 @@ zomato,api.grofers.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

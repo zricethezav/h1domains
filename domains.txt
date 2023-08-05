@@ -2537,11 +2537,11 @@ www.cafepress.com
 *.photoaffections.com
 *.gifts.com
 www.canvasworld.com
-*.canvasworld.com
 *.personalcreations.com
 www.gifts.com
 *.iseeme.com
 *.cafepress.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -8358,8 +8358,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
