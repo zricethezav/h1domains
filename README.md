@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 18:10:56 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 19:08:37 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3646,8 +3646,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
