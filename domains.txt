@@ -1275,8 +1275,8 @@ www.borrowlenses.com
 prestigeportraits.com
 jcpportraits.com
 snapfish.com
-admin.spoonflower.com
 shutterfly.com
+admin.spoonflower.com
 tinyprints.com
 snapfish.co.uk
 snapfish.com.au
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -3902,8 +3902,8 @@ hatching.io
 www.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -8302,8 +8302,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -8953,9 +8953,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com

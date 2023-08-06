@@ -1276,8 +1276,8 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -3903,8 +3903,8 @@ recorded-future,hatching.io,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
-recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
+recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -8303,8 +8303,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
@@ -8954,9 +8954,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
