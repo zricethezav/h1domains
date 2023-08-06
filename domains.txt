@@ -1748,8 +1748,8 @@ www.engelvoelkers.com
 *.yuga.com
 *.otherside.xyz
 *.mdvmm.xyz
-*.meebits.app
 *.10ktf.com
+*.meebits.app
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
@@ -1773,8 +1773,8 @@ www.expediapartnersolutions.com
 www.expediagroup.com
 www.abritel.fr
 www.expediaagents.com
-www.hotels.com
 www.orbitz.com
+www.hotels.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
@@ -2189,13 +2189,13 @@ www.fossilnorway.no
 *.misfit.com
 www.skagenbrand.de
 www.skagenglobal.com
-*.watchstation.com
 www.watchstation.fr
 www.fossil.co.id
 *.cdgfossil.com
 *.fossil.vn
 *.fossil.com.hk
 www.shopkatchin.com
+*.watchstation.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.de
