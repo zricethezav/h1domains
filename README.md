@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  6 07:09:56 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug  6 08:10:38 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -679,9 +679,9 @@ www.momondo.com
 www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
-www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1188,8 +1188,8 @@ main.trafficfactory.biz
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1222,8 +1222,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com

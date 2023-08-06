@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2632,9 +2632,9 @@ kayak,www.momondo.com,True
 kayak,www.hotelscombined.com,True
 kayak,www.checkfelix.com,True
 kayak,business.kayak.com,True
-kayak,www.swoodoo.com,True
 kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
+kayak,www.swoodoo.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -4048,8 +4048,8 @@ elastic,*.eops.nl,True
 elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -4280,8 +4280,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False

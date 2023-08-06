@@ -673,9 +673,9 @@ www.momondo.com
 www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
-www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1182,8 +1182,8 @@ main.trafficfactory.biz
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1216,8 +1216,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com

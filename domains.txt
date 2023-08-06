@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2631,9 +2631,9 @@ www.momondo.com
 www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
-www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -4047,8 +4047,8 @@ main.trafficfactory.biz
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -4279,8 +4279,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
