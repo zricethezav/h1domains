@@ -54,8 +54,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1778,8 +1778,8 @@ expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
-expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.travelocity.com,True
+expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.cheaptickets.com,True
@@ -7861,9 +7861,9 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
-localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8475,8 +8475,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -8928,8 +8928,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -8955,8 +8955,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
