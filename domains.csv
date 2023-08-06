@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2796,9 +2796,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.mycbdesk.com,False
@@ -3874,8 +3874,8 @@ jfrog,www.jfrog.co.jp,False
 jfrog,www.jfrogchina.com,False
 jfrog,*.jfrog.org,False
 jfrog,conan.io,False
-jfrog,www.jfrog.com,False
 jfrog,*.jfrog.com,False
+jfrog,www.jfrog.com,False
 jfrog,*.jfrog.com,False
 jfrog,*.jfrog.org,False
 jfrog,www.jfrog.com,False

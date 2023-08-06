@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2795,9 +2795,9 @@ www.alohi.com
 *.bhgre.*
 *.era.com
 *.century21.*
-*.corcoran.*
 *.sothebysrealty.*
 *.nrtllc.*
+*.corcoran.*
 *.realogy.*
 *.cbcworldwide.*
 *.mycbdesk.com
@@ -3873,8 +3873,8 @@ www.jfrog.co.jp
 www.jfrogchina.com
 *.jfrog.org
 conan.io
-www.jfrog.com
 *.jfrog.com
+www.jfrog.com
 *.jfrog.com
 *.jfrog.org
 www.jfrog.com
