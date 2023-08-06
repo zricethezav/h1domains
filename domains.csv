@@ -4048,8 +4048,8 @@ elastic,*.eops.nl,True
 elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -8474,10 +8474,10 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

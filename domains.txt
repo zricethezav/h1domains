@@ -4047,8 +4047,8 @@ main.trafficfactory.biz
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -8473,10 +8473,10 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
-accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
