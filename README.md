@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  6 20:10:09 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug  6 21:09:59 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -261,9 +261,9 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-hiltonmanage.com
 *.hiltonhotels.jp
 *.hilton.io
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.com.tr
@@ -1544,8 +1544,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2581,8 +2581,8 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3319,8 +3319,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
