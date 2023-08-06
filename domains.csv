@@ -4045,11 +4045,11 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
-elastic,*.elastic.co,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -8303,8 +8303,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
