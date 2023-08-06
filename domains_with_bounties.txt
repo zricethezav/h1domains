@@ -2619,10 +2619,10 @@ developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
 partner.steampowered.com
-www.valvesoftware.com
 partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
+www.valvesoftware.com
 api.steampowered.com
 www.dota2.com
 support.steampowered.com

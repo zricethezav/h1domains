@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7666,10 +7666,10 @@ developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
 partner.steampowered.com
-www.valvesoftware.com
 partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
+www.valvesoftware.com
 api.steampowered.com
 wiki.teamfortress.com
 storefront.steampowered.com

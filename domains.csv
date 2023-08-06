@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7667,10 +7667,10 @@ valve,developer.valvesoftware.com,True
 valve,store.steampowered.com,True
 valve,help.steampowered.com,True
 valve,partner.steampowered.com,True
-valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True
+valve,www.valvesoftware.com,True
 valve,api.steampowered.com,True
 valve,wiki.teamfortress.com,False
 valve,storefront.steampowered.com,False
