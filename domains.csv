@@ -3667,9 +3667,9 @@ inmobi,*.roposo.com,False
 inmobi,*.dash101.com,False
 inmobi,*.glance.com,False
 inmobi,*.glance.world,False
-inmobi,*.glance.inmobi.com,False
 inmobi,mydash101.com,False
 inmobi,*.shop101.com,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
 inmobi,*.glance.app,False
@@ -3874,8 +3874,8 @@ jfrog,www.jfrog.co.jp,False
 jfrog,www.jfrogchina.com,False
 jfrog,*.jfrog.org,False
 jfrog,conan.io,False
-jfrog,*.jfrog.com,False
 jfrog,www.jfrog.com,False
+jfrog,*.jfrog.com,False
 jfrog,*.jfrog.com,False
 jfrog,*.jfrog.org,False
 jfrog,www.jfrog.com,False
@@ -8960,9 +8960,9 @@ security,hackerone-user-content.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
-security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
+security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
@@ -8974,9 +8974,9 @@ security,reviewer.pullrequest.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,app.pullrequest.com,True
-security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
+security,b5s.hackerone-ext-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
