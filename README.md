@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  6 18:09:36 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug  6 19:09:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -2168,8 +2168,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -3099,8 +3099,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 search.brave.com
-talk.brave.com
 brave.com
+talk.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3689,8 +3689,8 @@ errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
