@@ -177,9 +177,9 @@ www.fraedom.com
 usa.visa.com
 www.tink.com
 *omniplus.com
-*.mercedes-benz-trucks.com
 *.setra.de
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -5970,10 +5970,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
-*.1688.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
+*.1688.com
 *.aliyun.com
 *.taobao.com
 *.alibaba.com
@@ -8475,8 +8475,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
