@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 10:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 11:10:29 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1222,8 +1222,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
