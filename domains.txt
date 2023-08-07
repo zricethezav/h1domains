@@ -1321,9 +1321,9 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.hiltonhotels.jp
 *.hilton.io
 hiltonmanage.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5973,8 +5973,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7167,9 +7167,9 @@ press.priceline.com
 *.theunioncard.com
 *.capitalone360.com
 *.bluetarp.com
-*.capitalone.co.uk
 *.capitaloneshopping.com
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -8300,8 +8300,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -8472,8 +8472,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -8925,8 +8925,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
