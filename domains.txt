@@ -1210,8 +1210,8 @@ firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
-push.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
@@ -1789,10 +1789,10 @@ www.travelocity.ca
 www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
-www.expediacruises.com
 www.stayz.com.au
 www.wotif.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2535,8 +2535,8 @@ iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
 *.gifts.com
-www.canvasworld.com
 *.photoaffections.com
+www.canvasworld.com
 *.personalcreations.com
 www.gifts.com
 *.iseeme.com
@@ -4471,8 +4471,8 @@ jira-quantum.lumiradx.com
 www.lumiradx.com
 investors.lumiradx.com
 collaborazioni.lumiradx.com
-parcerias.lumiradx.com
 wiki-quantum.lumiradx.com
+parcerias.lumiradx.com
 https://connect.lumiradx.com/api/uk/router/v8.1/
 https://connect.lumiradx.com/api/uk/reports/v8.1/
 https://connect.lumiradx.com/api/uk/quantumsync/v8.1/
@@ -4506,12 +4506,12 @@ gql.reddit.com
 old.reddit.com
 ads.reddit.com
 new.reddit.com
-*.redditinc.com
 *.snooguts.net
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
+*.redditinc.com
 s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
@@ -5851,9 +5851,9 @@ faucet.polygon.technology
 *.skybettest.net
 *.paddypower.it
 *.skyvegas.com
-*.skybet.com
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -8604,8 +8604,8 @@ stream.frame.io
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 magento.com
-*.adobe.com
 community.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -8967,8 +8967,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 hackerone.live
 app.pullrequest.com
 cover-photos.hackerone-user-content.com

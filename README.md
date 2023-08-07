@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 11:10:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 12:12:25 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -197,8 +197,8 @@ firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
-push.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
@@ -517,10 +517,10 @@ www.travelocity.ca
 www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
-www.expediacruises.com
 www.stayz.com.au
 www.wotif.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1233,12 +1233,12 @@ gql.reddit.com
 old.reddit.com
 ads.reddit.com
 new.reddit.com
-*.redditinc.com
 *.snooguts.net
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
+*.redditinc.com
 s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
@@ -1768,9 +1768,9 @@ faucet.polygon.technology
 *.skybettest.net
 *.paddypower.it
 *.skyvegas.com
-*.skybet.com
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -3683,8 +3683,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 hackerone.live
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
