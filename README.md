@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 13:12:53 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 14:12:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-support.mozilla.org
 hg.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1188,8 +1188,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1895,9 +1895,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
-fortmatic.com
 auth.magic.link
 dashboard.magic.link
+fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -3204,8 +3204,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3320,8 +3320,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -177,10 +177,10 @@ visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,usa.visa.com,True
 visa,www.tink.com,True
-daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*omniplus.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1244,8 +1244,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -2100,9 +2100,9 @@ allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
 allegion,brio.com.au,False
 allegion,*.isonaspureaccesscloud.com,False
-allegion,www.planopunkt.com,False
 allegion,zentra.co,False
 allegion,*.allegionengage.com,False
+allegion,www.planopunkt.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
@@ -4048,8 +4048,8 @@ elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -6005,9 +6005,9 @@ bmwgroup,konfigurator.bmw-motorrad.de,True
 magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
-magic-bbp,fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
+magic-bbp,fortmatic.com,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
@@ -6592,7 +6592,6 @@ mtn_group,mtnonlineloaded.com,False
 mtn_group,mtnmena.com,False
 mtn_group,mtncompass.mobi,False
 mtn_group,mtnbussiness.com,False
-mtn_group,mtnsp.mobi,False
 mtn_group,mtnnconnectstore.com,False
 mtn_group,mtn50.com,False
 mtn_group,mtnpulse.tel,False
@@ -6688,7 +6687,6 @@ mtn_group,mtngo.capetown,False
 mtn_group,mtngo.net,False
 mtn_group,mtngo.joburg,False
 mtn_group,mtngo.mtn,False
-mtn_group,mtngroup.tel,False
 mtn_group,mtngroupltd.net,False
 mtn_group,mtngrouplimited.com,False
 mtn_group,mtngrouplimited.net,False
@@ -8358,8 +8356,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8476,8 +8474,8 @@ shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
