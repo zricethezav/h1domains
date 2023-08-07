@@ -2397,7 +2397,6 @@ banfieldfoundation.org
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
-*.bibliotecarc.cl
 *.royalcaninrewards.co.za
 *.royalcanin.it
 *.royalcanin.sk
@@ -2406,6 +2405,7 @@ banfieldfoundation.org
 *.royalcanin.edu.pl
 *.rcpracownik.pl
 *.coroapremiada.com.br
+*.bluepearlvet.com
 *.mars.com
 *.marschocolate.com
 *.mms.com
@@ -7168,8 +7168,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -8472,8 +8472,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -8967,12 +8967,12 @@ www.hackerone.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
-hackerone.live
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
