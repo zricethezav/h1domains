@@ -1129,9 +1129,9 @@ www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
-www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1791,8 +1791,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.hotwire.com
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -5555,8 +5555,8 @@ beam.enjin.io
 jumpnet.beam.enjin.io
 api.enjinx.io
 enjinx.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -6349,12 +6349,12 @@ www.8x8.com
 *.8x8.uk
 8x8.force.com
 *.chalet.8x8.com
-platform.8x8.com
 sso.8x8.com
 *.jitsi.org
 work.8x8.com
 pay.8x8.com
 *.jitsi.net
+platform.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com

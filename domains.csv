@@ -1130,9 +1130,9 @@ mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,api.mercadopago.com,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1792,8 +1792,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.wotif.com,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.expediacruises.com,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -5556,8 +5556,8 @@ enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
 enjin,api.enjinx.io,False
 enjin,enjinx.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -6350,12 +6350,12 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8.uk,False
 8x8,8x8.force.com,False
 8x8,*.chalet.8x8.com,False
-8x8,platform.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,work.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,platform.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
