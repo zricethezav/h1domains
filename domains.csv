@@ -114,8 +114,8 @@ visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,visa.co.za,True
 visa,www.visa.co.ke,True
-visa,www.cybersource.com,True
 visa,www.authorize.net,True
+visa,www.cybersource.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -1125,8 +1125,8 @@ mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
-mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
+mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
@@ -1327,13 +1327,13 @@ hilton,*.hilton.io,True
 hilton,hiltonmanage.com,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
-hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
+hilton,*.hilton.com.tr,True
 hilton,*.hiltonlocalbiz.com,True
-hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1645,9 +1645,9 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.jit.si,True
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
-8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,voapi.8x8.com,True
+8x8-bounty,platform.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.p8t.us,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -8273,9 +8273,9 @@ nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
-pornhub,www.pornhub.com,True
 pornhub,www.redtube.com,True
 pornhub,www.modelhub.com,True
+pornhub,www.pornhub.com,True
 pornhub,api.pornhub.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youporn.com,True
@@ -8470,8 +8470,8 @@ shopify,shop.app,True
 shopify,linkpop.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
@@ -8926,8 +8926,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True

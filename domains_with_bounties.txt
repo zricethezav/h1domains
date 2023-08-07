@@ -62,8 +62,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.visa.co.ke
-www.cybersource.com
 www.authorize.net
+www.cybersource.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -260,13 +260,13 @@ api-eu.floqast.app
 hiltonmanage.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
-*.hilton.com.tr
 hiltonlocalbiz.com
 hilton.io
 hiltonbusinessonline.com
+*.hilton.com.tr
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -404,9 +404,9 @@ user-profile-staging.8x8.com
 *.jit.si
 cloud8.8x8.com
 *.8x8staging.com
-platform.8x8.com
 *.packet8.net
 voapi.8x8.com
+platform.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
@@ -3115,9 +3115,9 @@ yelptop100.com
 yelptop100.com
 www.thumbzilla.com
 *.tube8.com
-www.pornhub.com
 www.redtube.com
 www.modelhub.com
+www.pornhub.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -3310,8 +3310,8 @@ shop.app
 linkpop.com
 exchangemarketplace.com
 shopifyinbox.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
@@ -3637,8 +3637,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
