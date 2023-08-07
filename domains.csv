@@ -1154,8 +1154,8 @@ kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,app.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -1206,8 +1206,8 @@ oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
-mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
+mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
@@ -1242,10 +1242,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,getpocket.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,getpocket.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2800,9 +2800,9 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.realogy.*,False
-anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -4502,10 +4502,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,app.spiketrap.io,True
-reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,strapi.reddit.com,True
@@ -8164,8 +8164,8 @@ portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.com.br,True
-starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucksreserve.com,True
+starbucks,www.starbucks.co.uk,True
 starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
