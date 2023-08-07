@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -1988,7 +1988,6 @@ myair.resmed.eu
 resmed-healthcare.de
 airview.resmed.com
 resmed.de
-onlinestore.resmed.com
 narval-easy.resmed.eu
 resmed.mx
 resmed.com.br
@@ -1999,6 +1998,7 @@ airview.resmed.eu
 mealtracker.com
 u-sleep.umbian.com
 propellerhealth.com
+onlinestore.resmed.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -5973,8 +5973,8 @@ www.alibabagroup.com
 *.1688.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8474,8 +8474,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -8510,9 +8510,9 @@ www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
 app.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
