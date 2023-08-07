@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 *.massmutual.com
@@ -1631,10 +1631,10 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 sso.8x8.com
-*.8x8.vc
 work.8x8.com
 *.jitsi.net
 connect.8x8.com
+*.8x8.vc
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -8300,8 +8300,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -8859,8 +8859,8 @@ intensedebate.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -8962,11 +8962,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
-ctf.hacker101.com
 reviewer.pullrequest.com
 www.hackerone.com
 hackathon-photos.hackerone-user-content.com
+ctf.hacker101.com
+hackerone-ext-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
