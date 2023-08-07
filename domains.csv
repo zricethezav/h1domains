@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -8969,11 +8969,11 @@ security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone.live,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
