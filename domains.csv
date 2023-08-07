@@ -1310,8 +1310,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2665,8 +2665,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5786,8 +5786,8 @@ wellsfargo,*.wystar.com,False
 wellsfargo,*.advisor-connection.com,False
 playstation,social.playstation.com,True
 playstation,wallets.api.playstation.com,True
-playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
+playstation,api.direct.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,*.api.playstation.com,True
 playstation,store.playstation.com,True
@@ -5972,10 +5972,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7622,8 +7622,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
