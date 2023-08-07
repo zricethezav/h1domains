@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 07:10:52 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 08:11:31 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -271,8 +271,8 @@ hiltonlocalbiz.com
 hilton.io
 hiltonbusinessonline.com
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1188,8 +1188,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1295,9 +1295,9 @@ customers.mattermost.com
 *.chimecard.com
 www.chime.com
 *.chimepayments.com
-wp-dev1.chime.com
 wp-dev3.chime.com
 wp-integ.chime.com
+wp-dev1.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
 *.chime.com
@@ -2168,8 +2168,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2786,8 +2786,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 www.tapiola.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2809,8 +2809,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.sellzone.com
 *.semrush.com
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3670,8 +3670,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3682,9 +3682,9 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
-reviewer.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
+reviewer.pullrequest.com
 hackerone.live
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
