@@ -1243,8 +1243,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-hg.mozilla.org
 support.mozilla.org
+hg.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1309,8 +1309,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.msd.com
 *.merck.com
+*.msd.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -8953,9 +8953,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
