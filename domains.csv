@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5433,9 +5433,9 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
-tiktok,live-backstage.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,live-backstage.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -8475,8 +8475,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -8971,11 +8971,11 @@ security,hackerone-ext-content.com,True
 security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
 security,errors.hackerone.net,True
-security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
-security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

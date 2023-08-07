@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5432,9 +5432,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -8474,8 +8474,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -8970,11 +8970,11 @@ hackerone-ext-content.com
 reviewer.pullrequest.com
 www.hackerone.com
 errors.hackerone.net
-profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-b5s.hackerone-ext-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
