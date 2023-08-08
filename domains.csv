@@ -114,8 +114,8 @@ visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,visa.co.za,True
 visa,www.visa.co.ke,True
-visa,www.authorize.net,True
 visa,www.cybersource.com,True
+visa,www.authorize.net,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -1407,8 +1407,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1749,8 +1749,8 @@ engel_volkers_bbp,www.engelvoelkers.com,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.10ktf.com,True
 yuga_labs,*.meebits.app,True
+yuga_labs,*.10ktf.com,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.boredapeyachtclub.com,True
 yuga_labs,*.yugalabs.io,True
@@ -2633,8 +2633,8 @@ kayak,www.hotelscombined.com,True
 kayak,www.checkfelix.com,True
 kayak,business.kayak.com,True
 kayak,www.cheapflights.com,True
-kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -5991,8 +5991,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
 alibaba,www.alibabagroup.com,True
 bmwgroup,www.mini.de,True
-bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
+bmwgroup,configure.bmw.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 bmwgroup,www.bmw-motorrad.de,True
@@ -7609,9 +7609,9 @@ goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.nextcapital.com,True
+goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
