@@ -28,8 +28,6 @@ portal.greenfly.com
 *.servicenow.com
 *.servicenow.com
 *.service-now.com
-*.massmutual.com
-*.massmutual.com
 renewalreminder.shi.com
 durango.shi.com
 api.shi.com
@@ -53,8 +51,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -1220,8 +1218,8 @@ aus5.mozilla.org
 addons.allizom.org
 hg.mozilla.org
 crash-reports.allizom.org
-mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1406,8 +1404,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -4045,8 +4043,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -7167,8 +7165,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -8706,8 +8704,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com
@@ -8800,6 +8798,7 @@ www.greenhouse.io
 *.vine.co
 twitterflightschool.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -8807,6 +8806,7 @@ gnip.com
 *.vine.co
 *.twimg.com
 gnip.com
+x.com
 twitterflightschool.com
 t.co
 cloudflareworkers.com
@@ -8978,6 +8978,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
+*.massmutual.com
+*.massmutual.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
