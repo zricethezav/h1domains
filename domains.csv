@@ -2530,9 +2530,9 @@ planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,iseeme.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
@@ -2641,8 +2641,8 @@ kayak,www.cheapflights.com,True
 kayak,www.hotelscombined.com,True
 kayak,www.mundi.com.br,True
 kayak,business.kayak.com,True
-callsign,app.s02.callsign.com,False
 callsign,southfields-v2.s02.t00-csglobal.a2develop.com,False
+callsign,app.s02.callsign.com,False
 callsign,b2b.s02.callsign.com,False
 callsign,*.*,False
 callsign,*.s02.callsign.com,False
@@ -7166,8 +7166,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False

@@ -2529,9 +2529,9 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
+iseeme.com
 *.gifts.com
 *.photoaffections.com
 www.canvasworld.com
@@ -2640,8 +2640,8 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
-app.s02.callsign.com
 southfields-v2.s02.t00-csglobal.a2develop.com
+app.s02.callsign.com
 b2b.s02.callsign.com
 *.*
 *.s02.callsign.com
@@ -7165,8 +7165,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
