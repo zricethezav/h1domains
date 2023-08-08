@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  8 12:12:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  8 13:12:50 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -549,8 +549,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1598,7 +1598,6 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.kruidvat.be
-www.theperfumeshop.com
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2226,24 +2225,6 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
-vault.omise.co
-link.omise.co
-www.opn.ooo
-dashboard.omise.co
-dashboard2.omise.co
-api.omise.co
-linksplus-dashboard.omise.co
-offsite.omise.co
-www.omise.co
-vault.omise.co
-api.omise.co
-dashboard.omise.co
-link.omise.co
-offsite.omise.co
-dashboard2.omise.co
-www.omise.co
-linksplus-dashboard.omise.co
-www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
 book.booktandl.com
@@ -2646,8 +2627,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
@@ -3204,8 +3185,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3643,8 +3624,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3683,8 +3664,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
@@ -3841,6 +3822,24 @@ api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
 https://github.com/evolveum/midpoint
+vault.omise.co
+link.omise.co
+www.opn.ooo
+dashboard.omise.co
+dashboard2.omise.co
+api.omise.co
+linksplus-dashboard.omise.co
+offsite.omise.co
+www.omise.co
+vault.omise.co
+api.omise.co
+dashboard.omise.co
+link.omise.co
+offsite.omise.co
+dashboard2.omise.co
+www.omise.co
+linksplus-dashboard.omise.co
+www.opn.ooo
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 account.magento.com
