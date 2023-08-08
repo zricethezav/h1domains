@@ -3313,8 +3313,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
