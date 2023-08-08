@@ -1406,8 +1406,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1791,8 +1791,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.expediacruises.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -2100,8 +2100,8 @@ www.allegion.co.uk
 brio.com.au
 *.isonaspureaccesscloud.com
 zentra.co
-*.allegionengage.com
 www.planopunkt.com
+*.allegionengage.com
 www.krytonitelock.com
 www.schlage.com
 *.yonomi.co
@@ -2539,9 +2539,9 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.personalcreations.com
 www.gifts.com
+*.cafepress.com
 *.iseeme.com
 *.canvasworld.com
-*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -8355,8 +8355,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

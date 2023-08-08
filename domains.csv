@@ -1407,8 +1407,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1792,8 +1792,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.wotif.com,True
-expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotwire.com,True
+expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -2101,8 +2101,8 @@ allegion,www.allegion.co.uk,False
 allegion,brio.com.au,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,zentra.co,False
-allegion,*.allegionengage.com,False
 allegion,www.planopunkt.com,False
+allegion,*.allegionengage.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
@@ -2540,9 +2540,9 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8356,8 +8356,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
