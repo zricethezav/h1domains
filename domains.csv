@@ -1119,10 +1119,10 @@ freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
 mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
-mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
+mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.br,False
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7264,8 +7264,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -8473,8 +8473,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -8494,8 +8494,8 @@ snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,story.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True

@@ -1118,10 +1118,10 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-www.mercadolibre.com.co
 www.mercadolibre.com.mx
 api.mercadolibre.com
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.co
 www.mercadolibre.cl
 www.mercadopago.com.br
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7263,8 +7263,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -8472,8 +8472,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -8493,8 +8493,8 @@ msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com

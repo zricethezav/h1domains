@@ -3313,8 +3313,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3334,8 +3334,8 @@ msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
