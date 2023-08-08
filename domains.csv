@@ -54,8 +54,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1121,8 +1121,8 @@ mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
 mercadolibre_vdp,api.mercadolibre.com,False
-mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
+mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.br,False
@@ -1310,8 +1310,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -1407,8 +1407,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1619,8 +1619,8 @@ kkr_vdp,portal.kkr.com,False
 kkr_vdp,www.fskkradvisor.com,False
 kkr_vdp,www.kkrfunds.com,False
 kkr_vdp,*.kkr.cloud,False
-kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
+kkr_vdp,www.kkresg.com,False
 kkr_vdp,www.kkrreit.com,False
 kkr_vdp,portal.kkr.com,False
 kkr_vdp,*.kkr.com,False
@@ -4526,8 +4526,8 @@ reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,*.reddithelp.com,True
-reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5286,8 +5286,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-exodus,*.exodus.com,True
 exodus,*.exodus.io,True
+exodus,*.exodus.com,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
@@ -5852,8 +5852,8 @@ flutteruki,*.skybettest.net,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.sportinglife.com,True
-flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
+flutteruki,*.betfair.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
 flutteruki,*.skybetservices.com,True
@@ -8282,8 +8282,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
@@ -8953,8 +8953,8 @@ security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
-security,app.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
