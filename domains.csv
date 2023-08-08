@@ -1405,8 +1405,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -6002,9 +6002,9 @@ bmwgroup,konfigurator.bmw-motorrad.de,True
 magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
-magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
 magic-bbp,fortmatic.com,True
+magic-bbp,auth.magic.link,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
@@ -7669,8 +7669,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
+crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,merchant.crypto.com,True
@@ -8452,9 +8452,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
