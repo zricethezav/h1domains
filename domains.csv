@@ -2101,8 +2101,8 @@ allegion,www.allegion.co.uk,False
 allegion,brio.com.au,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,zentra.co,False
-allegion,*.allegionengage.com,False
 allegion,www.planopunkt.com,False
+allegion,*.allegionengage.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
@@ -7169,8 +7169,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -8473,8 +8473,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True

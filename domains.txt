@@ -2100,8 +2100,8 @@ www.allegion.co.uk
 brio.com.au
 *.isonaspureaccesscloud.com
 zentra.co
-*.allegionengage.com
 www.planopunkt.com
+*.allegionengage.com
 www.krytonitelock.com
 www.schlage.com
 *.yonomi.co
@@ -7168,8 +7168,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -8472,8 +8472,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
