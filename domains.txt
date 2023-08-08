@@ -53,8 +53,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -8507,10 +8507,10 @@ rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
-app.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com

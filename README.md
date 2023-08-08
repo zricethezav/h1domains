@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  8 02:22:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  8 03:10:24 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -3354,10 +3354,10 @@ rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
-app.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
