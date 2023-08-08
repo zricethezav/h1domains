@@ -54,8 +54,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1161,8 +1161,8 @@ kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3903,8 +3903,8 @@ recorded-future,hatching.io,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
-recorded-future,tria.ge,True
 recorded-future,id.recordedfuture.com,True
+recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -5439,8 +5439,8 @@ tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -6803,8 +6803,8 @@ pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line-apps.com,True
 line,*.line.me,True
+line,*.line-apps.com,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
@@ -7169,8 +7169,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -7620,8 +7620,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -8356,8 +8356,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8970,10 +8970,10 @@ security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,hackerone.live,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
