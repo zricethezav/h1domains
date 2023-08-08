@@ -1412,8 +1412,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1565,9 +1565,9 @@ stanfordwho.stanford.edu
 who.stanford.edu
 *.sahr.stanford.edu
 secureportal.stanford.edu
-regadmin.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
+regadmin.stanford.edu
 ice.stanford.edu
 code.stanford.edu
 accounts.stanford.edu
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7165,8 +7165,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8704,8 +8704,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com
@@ -8943,11 +8943,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
+reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live

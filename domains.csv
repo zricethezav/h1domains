@@ -1413,8 +1413,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -1566,9 +1566,9 @@ stanford-university,stanfordwho.stanford.edu,False
 stanford-university,who.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
-stanford-university,regadmin.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
+stanford-university,regadmin.stanford.edu,False
 stanford-university,ice.stanford.edu,False
 stanford-university,code.stanford.edu,False
 stanford-university,accounts.stanford.edu,False
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7166,8 +7166,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8705,8 +8705,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
@@ -8944,11 +8944,11 @@ security,a5s.hackerone-ext-content.com,True
 security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,reviewer.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
