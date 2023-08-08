@@ -65,8 +65,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -2538,9 +2538,9 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
-planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6140,8 +6140,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7166,11 +7166,11 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
-capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
+capital-one,*.capitalonebank.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
 capital-one,*.wikibuy.com,False
@@ -7954,8 +7954,8 @@ grab,xtramile.grabpay.com,True
 grab,*.myteksi.com,True
 grab,*.grab.co,True
 grab,manage.grab.co,True
-grab,p.grabtaxi.com,True
 grab,*.grab.com,True
+grab,p.grabtaxi.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
@@ -8798,8 +8798,8 @@ greenhouse,jss.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 twitter,*.vine.co,True
 twitter,twitterflightschool.com,False
-twitter,*.twitter.com,True
 twitter,x.com,True
+twitter,*.twitter.com,True
 twitter,t.co,False
 twitter,*.twimg.com,True
 twitter,gnip.com,True
@@ -8947,8 +8947,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
-security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
