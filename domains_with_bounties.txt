@@ -1242,12 +1242,12 @@ ads-api.reddit.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
-accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
 *.reddithelp.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3680,11 +3680,11 @@ ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com

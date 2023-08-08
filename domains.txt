@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4521,12 +4521,12 @@ ads-api.reddit.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
-accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
 *.reddithelp.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7168,8 +7168,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -8968,11 +8968,11 @@ ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
