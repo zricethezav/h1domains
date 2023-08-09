@@ -65,8 +65,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -1148,9 +1148,9 @@ mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
@@ -1979,8 +1979,8 @@ resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
-resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
+resmed,www.citushealth.com,False
 resmed,myair.resmed.com,False
 resmed,resmed.hk,False
 resmed,myair.resmed.eu,False
@@ -6984,8 +6984,8 @@ equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
-equifax,*equifax.com,False
 equifax,*.efficientforms.com,False
+equifax,*equifax.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7165,8 +7165,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False

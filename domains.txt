@@ -64,8 +64,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1147,9 +1147,9 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.kolesa.kz
-id.kolesa.kz
 api.krisha.kz
 app.kolesa.kz
+id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1978,8 +1978,8 @@ shop.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
-www.citushealth.com
 careers.resmed.com
+www.citushealth.com
 myair.resmed.com
 resmed.hk
 myair.resmed.eu
@@ -6983,8 +6983,8 @@ JOBALINECI.COM
 efficienthire.info
 ehxhr.com
 wotctech.com
-*equifax.com
 *.efficientforms.com
+*equifax.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -7164,8 +7164,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
