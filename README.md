@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 19:10:51 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 20:09:16 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -152,8 +152,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1251,9 +1251,9 @@ redditforbusiness.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2862,8 +2862,8 @@ xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 manage.grab.co
-*.grab.com
 p.grabtaxi.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3300,9 +3300,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3626,8 +3626,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
