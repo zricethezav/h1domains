@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 18:11:37 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 19:10:51 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -262,8 +262,8 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 *.hilton.io
-hiltonmanage.com
 *.hiltonhotels.jp
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
@@ -3560,8 +3560,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3626,8 +3626,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

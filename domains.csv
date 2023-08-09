@@ -1321,8 +1321,8 @@ floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
-hilton,hiltonmanage.com,True
 hilton,*.hiltonhotels.jp,True
+hilton,hiltonmanage.com,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hiltonlocalbiz.com,True
@@ -7166,8 +7166,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8841,8 +8841,8 @@ automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
-automattic,mailpoet.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
@@ -8907,8 +8907,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
