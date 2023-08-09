@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 renewalreminder.shi.com
@@ -182,8 +182,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1128,8 +1128,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 api.mercadopago.com
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4161,6 +4161,7 @@ vhb.agrisync.com
 vnd.agrisync.com
 www.agrisync.com
 zeus.agrisync.com
+johndeere.invisionapp.com
 *deere.com*
 *promotemyprograms*.deere.com
 *.reckoproduction.com
@@ -4521,9 +4522,9 @@ redditforbusiness.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
-*.reddithelp.com
 www.reddit.com
 accounts.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7164,8 +7165,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7697,13 +7698,13 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
 one.newrelic.com
+*.nr-data.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -8149,10 +8150,10 @@ secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
 www.starbucks.com
-www.starbucks.com.cn
 www.starbucks.co.jp
-www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.kr
+www.starbucks.com.cn
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp

@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,renewalreminder.shi.com,False
@@ -183,8 +183,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1129,8 +1129,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,api.mercadopago.com,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4162,6 +4162,7 @@ john-deere,vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
 john-deere,zeus.agrisync.com,False
+john-deere,johndeere.invisionapp.com,False
 john-deere,*deere.com*,False
 john-deere,*promotemyprograms*.deere.com,False
 stripe,*.reckoproduction.com,True
@@ -4522,9 +4523,9 @@ reddit,redditforbusiness.com,True
 reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,*.reddithelp.com,True
 reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,*.reddithelp.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7165,8 +7166,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7698,13 +7699,13 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
-newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.nr-data.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -8150,10 +8151,10 @@ starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
-starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.jp,True
-starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
+starbucks,www.starbucks.co.kr,True
+starbucks,www.starbucks.com.cn,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True

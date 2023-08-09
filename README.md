@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 15:12:18 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 16:11:33 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1251,9 +1251,9 @@ redditforbusiness.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
-*.reddithelp.com
 www.reddit.com
 accounts.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2657,13 +2657,13 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
 one.newrelic.com
+*.nr-data.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3045,10 +3045,10 @@ secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
 www.starbucks.com
-www.starbucks.com.cn
 www.starbucks.co.jp
-www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.kr
+www.starbucks.com.cn
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
