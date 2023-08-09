@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 renewalreminder.shi.com
@@ -1151,11 +1151,11 @@ id.kolesa.kz
 api.krisha.kz
 app.kolesa.kz
 m.krisha.kz
-avtoelon.uz
 app.avtoelon.uz
-id.avtoelon.uz
+avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -1978,8 +1978,8 @@ shop.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
-careers.resmed.com
 www.citushealth.com
+careers.resmed.com
 myair.resmed.com
 resmed.hk
 myair.resmed.eu
@@ -2529,9 +2529,9 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
+www.cafepress.com
 *.gifts.com
 *.photoaffections.com
 www.canvasworld.com
@@ -7164,8 +7164,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8333,8 +8333,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8442,9 +8442,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-shop.app
 linkpop.com
 *.shopifycloud.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
@@ -8703,8 +8703,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com
@@ -8944,9 +8944,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
