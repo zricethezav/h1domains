@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2538,8 +2538,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6138,8 +6138,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7164,8 +7164,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
