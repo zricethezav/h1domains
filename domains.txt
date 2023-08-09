@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5970,8 +5970,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6026,11 +6026,11 @@ osd.myndr.nl
 www.myndr.nl
 developers.cloudways.com
 cloud.digitalocean.com
-api.digitalocean.com
 169.254.169.254
 api.cloudways.com
 marketplace.digitalocean.com
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -6799,8 +6799,8 @@ astra.datastax.com
 *.pubgesports.com
 *.pubg.com
 *.pubgesports.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -8334,8 +8334,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8704,8 +8704,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com
