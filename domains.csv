@@ -176,9 +176,9 @@ visa,www.fraedom.com,True
 visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*.setra.de,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -6988,10 +6988,10 @@ equifax,wotctech.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
 equifax,*.boavistascpc.com.br,False
-equifax,*.bvsnet.com.br,False
 equifax,*.certificadoboavista.com.br,False
 equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
+equifax,*.bvsnet.com.br,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7032,6 +7032,8 @@ equifax,*.redeverdeamarela.com.br,False
 equifax,*.scpcnet.com.br,False
 equifax,*.servicodeprotecaoaocredito.com.br,False
 equifax,*.seuladobom.com.br,False
+equifax,*.fraudday.com,False
+equifax,*.konduto.blog,False
 equifax,www.equifax.com,False
 equifax,chaodeudas.cl,False
 equifax,ext-equifax.cl,False
@@ -7179,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7589,10 +7591,10 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
@@ -8162,8 +8164,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True

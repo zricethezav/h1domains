@@ -175,9 +175,9 @@ www.fraedom.com
 usa.visa.com
 www.tink.com
 *.setra.de
-*.mercedes-benz-trucks.com
 *omniplus.com
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -6987,10 +6987,10 @@ wotctech.com
 *.efficientforms.com
 *equifax.com
 *.boavistascpc.com.br
-*.bvsnet.com.br
 *.certificadoboavista.com.br
 *.konduto.com
 *.redeverdeamarela.com.br
+*.bvsnet.com.br
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -7031,6 +7031,8 @@ ntcusa.com
 *.scpcnet.com.br
 *.servicodeprotecaoaocredito.com.br
 *.seuladobom.com.br
+*.fraudday.com
+*.konduto.blog
 www.equifax.com
 chaodeudas.cl
 ext-equifax.cl
@@ -7178,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7588,10 +7590,10 @@ cloud.rocket.chat
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.ayco.com
 *.gsselect.com
 *.foliofn.com
 *.goldman.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -8161,8 +8163,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
