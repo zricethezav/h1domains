@@ -146,8 +146,8 @@ kolesa.kz
 id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -470,8 +470,8 @@ www.engelvoelkers.com
 *.yuga.com
 *.otherside.xyz
 *.mdvmm.xyz
-*.meebits.app
 *.10ktf.com
+*.meebits.app
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
@@ -1092,7 +1092,6 @@ admin.fr.cloud.gov
 nessus.fr.cloud.gov
 api.data.gov
 tock.18f.gov
-dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
 inventory.data.gov
@@ -1102,6 +1101,7 @@ opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
+dashboard.fr.cloud.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -3329,10 +3329,10 @@ rt.playcanvas.com
 www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com

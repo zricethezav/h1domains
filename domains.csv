@@ -1159,8 +1159,8 @@ kolesagroup,kolesa.kz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
+kolesagroup,api.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -1747,8 +1747,8 @@ engel_volkers_bbp,www.engelvoelkers.com,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.meebits.app,True
 yuga_labs,*.10ktf.com,True
+yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.boredapeyachtclub.com,True
 yuga_labs,*.yugalabs.io,True
@@ -3931,7 +3931,6 @@ gsa_bbp,admin.fr.cloud.gov,True
 gsa_bbp,nessus.fr.cloud.gov,True
 gsa_bbp,api.data.gov,True
 gsa_bbp,tock.18f.gov,True
-gsa_bbp,dashboard.fr.cloud.gov,True
 gsa_bbp,sdg.data.gov,True
 gsa_bbp,labs.data.gov,True
 gsa_bbp,inventory.data.gov,True
@@ -3941,6 +3940,7 @@ gsa_bbp,opslogin.fr.cloud.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
 gsa_bbp,*.login.gov,True
+gsa_bbp,dashboard.fr.cloud.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8502,10 +8502,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
