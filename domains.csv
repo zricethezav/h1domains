@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -3658,8 +3658,8 @@ opensea,opensea.io,True
 opensea,pro.opensea.io,True
 opensea,opensea.io,True
 opensea,pro.opensea.io,True
-inmobi,*.inmobi.com,False
 inmobi,*.koralapp.com,False
+inmobi,*.inmobi.com,False
 inmobi,*.glance.app,False
 inmobi,*.roposo.com,False
 inmobi,*.dash101.com,False
@@ -7166,8 +7166,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
