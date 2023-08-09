@@ -2665,8 +2665,8 @@ shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 exness,my.exness.com,True
 exness,exnessaffiliates.com,True
-exness,pay.ibex.exchange,True
 exness,exness.com,True
+exness,pay.ibex.exchange,True
 exness,pwapi.ex2b.com,True
 exness,social-trading.exness.com,True
 exness,api.excalls.mobi,True
@@ -7165,8 +7165,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8704,8 +8704,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,luckey.partners,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
