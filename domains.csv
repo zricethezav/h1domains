@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7200,9 +7200,9 @@ smartsheet,admin.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
 smartsheet,developers.smartsheet.com,True
 trustpilot,*business.trustpilot.com,True
-trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*emailsignature.trustpilot.com,True
 trustpilot,*authenticate.trustpilot.com,True
+trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
@@ -8811,8 +8811,8 @@ twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,*.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
+cloudflare,*.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True

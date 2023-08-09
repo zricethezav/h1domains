@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 12:12:43 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 13:13:41 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2192,9 +2192,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *business.trustpilot.com
-*signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *authenticate.trustpilot.com
+*signup.business.trustpilot.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
@@ -3533,8 +3533,8 @@ gnip.com
 x.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com

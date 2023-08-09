@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7199,9 +7199,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *business.trustpilot.com
-*signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *authenticate.trustpilot.com
+*signup.business.trustpilot.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
@@ -8810,8 +8810,8 @@ twitterflightschool.com
 t.co
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
