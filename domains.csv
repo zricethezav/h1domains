@@ -1719,8 +1719,8 @@ us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -8452,9 +8452,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8535,11 +8535,11 @@ snapchat,*.sc-corp.net,True
 ui,*.ubnt.com,True
 ui,training.ui.com,False
 ui,store.ui.com,False
-ui,community.ui.com,True
 ui,ir.ui.com,False
 ui,blog.ui.com,False
 ui,ispdesign.ui.com,True
 ui,ca.store.ui.com,True
+ui,community.ui.com,True
 ui,help.ui.com,False
 ui,rma.ui.com,True
 ui,careers.ui.com,True
@@ -8910,8 +8910,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True

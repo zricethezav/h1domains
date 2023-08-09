@@ -1718,8 +1718,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -8451,9 +8451,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8534,11 +8534,11 @@ story.snapchat.com
 *.ubnt.com
 training.ui.com
 store.ui.com
-community.ui.com
 ir.ui.com
 blog.ui.com
 ispdesign.ui.com
 ca.store.ui.com
+community.ui.com
 help.ui.com
 rma.ui.com
 careers.ui.com
@@ -8909,8 +8909,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
