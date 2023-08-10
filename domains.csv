@@ -1327,8 +1327,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hiltonlocalbiz.com,True
 hilton,hilton.io,True
-hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
+hilton,hiltonbusinessonline.com,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
@@ -1413,8 +1413,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -2694,8 +2694,8 @@ securityscorecard,*.securityscorecard.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
-gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
+gymshark,*.gymshark.com,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
@@ -5970,9 +5970,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7962,8 +7962,8 @@ grab,grab.careers,True
 grab,*.grabtaxi.com,True
 grab,wiki.grab.com,True
 grab,gifts.grab.com,True
-grab,*.grabpay.com,True
 grab,*.grab-sure.com,True
+grab,*.grabpay.com,True
 grab,api.grabpay.com,True
 grab,xtramile.grabpay.com,True
 grab,*.myteksi.com,True
@@ -8508,8 +8508,8 @@ snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True
@@ -8556,11 +8556,11 @@ ui,ispdesign.ui.com,True
 ui,ca.store.ui.com,True
 ui,community.ui.com,True
 ui,help.ui.com,False
-ui,rma.ui.com,True
 ui,careers.ui.com,True
 ui,wiki.ui.com,False
 ui,dev-training.ui.com,False
 ui,account.ui.com,True
+ui,rma.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True
