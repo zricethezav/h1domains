@@ -7222,9 +7222,9 @@ trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
-trustpilot,*api.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*authenticate.trustpilot.com,True
@@ -7682,8 +7682,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
+crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,tax.crypto.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 10 19:10:38 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 10 20:09:46 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2198,9 +2198,9 @@ developers.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
-*api.trustpilot.com
 *b2b.trustpilot.com
 *widget.trustpilot.com
+*api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
@@ -2625,8 +2625,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com

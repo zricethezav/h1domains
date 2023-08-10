@@ -7221,9 +7221,9 @@ developers.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
-*api.trustpilot.com
 *b2b.trustpilot.com
 *widget.trustpilot.com
+*api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
@@ -7681,8 +7681,8 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com
