@@ -1774,10 +1774,10 @@ expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
-expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.vrbo.com,True
+expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.com.au,True
@@ -8947,8 +8947,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

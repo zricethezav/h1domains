@@ -1773,10 +1773,10 @@ www.abritel.fr
 www.expediaagents.com
 www.hotels.com
 www.orbitz.com
-www.ebookers.com
 www.flights.com
 www.travelocity.com
 www.vrbo.com
+www.ebookers.com
 www.lastminute.co.nz
 www.cheaptickets.com
 www.lastminute.com.au
@@ -8946,8 +8946,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
