@@ -2534,8 +2534,8 @@ planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.gifts.com,False
-planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
+planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
@@ -5971,8 +5971,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8164,8 +8164,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
+starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
@@ -8962,8 +8962,8 @@ security,ctf.hacker101.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos.hackerone-user-content.com,True
-security,www.hackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
