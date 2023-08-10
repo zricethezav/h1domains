@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7686,8 +7686,8 @@ crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
-crypto,merchant.crypto.com,True
 crypto,tax.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,app.mona.co,True
 crypto,js.crypto.com,True
@@ -8348,8 +8348,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8955,13 +8955,13 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,*.vpn.hackerone.net,True
-security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,reviewer.pullrequest.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
+security,hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,errors.hackerone.net,True
