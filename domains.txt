@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8347,8 +8347,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8465,8 +8465,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8597,7 +8597,6 @@ magento.com
 community.adobe.com
 *.adobe.com
 *.tt.omtrdc.net
-*.marketo.com
 *.omniture.com
 *.tubemogul.com
 *.typekit.com
@@ -8609,6 +8608,7 @@ magentolive.com
 *.proofhq.com
 applications.frame.io
 create.adobe.com
+*.marketo.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
