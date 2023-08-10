@@ -1159,8 +1159,8 @@ kolesagroup,kolesa.kz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -5464,8 +5464,8 @@ logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
-logitech,*.myharmony.com,False
 logitech,*.logitech.com,False
+logitech,*.myharmony.com,False
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -5970,9 +5970,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8946,9 +8946,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
@@ -8960,8 +8960,8 @@ security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
-security,www.hackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,errors.hackerone.net,True
