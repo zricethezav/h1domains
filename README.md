@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 10 08:11:19 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 10 09:11:57 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -1067,8 +1067,8 @@ api.recordedfuture.com
 www.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2419,8 +2419,6 @@ casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
-matomo.cloud
-matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
@@ -3341,8 +3339,8 @@ playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
@@ -3670,8 +3668,8 @@ hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-hackerone.live
 errors.hackerone.net
+hackerone.live
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
@@ -3867,6 +3865,8 @@ www.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
+matomo.cloud
+matomo.cloud
 mossy.breadcrumb.com
 app.upserve.com
 hq.breadcrumb.com

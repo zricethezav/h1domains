@@ -2663,8 +2663,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,exness.com,True
 exness,pay.ibex.exchange,True
 exness,pwapi.ex2b.com,True
@@ -3900,8 +3900,8 @@ recorded-future,api.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
-recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
+recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -6989,9 +6989,9 @@ equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
 equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
+equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*.bvsnet.com.br,False
-equifax,*.konduto.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7461,8 +7461,6 @@ casper,casper.com,True
 casper,casper.com,True
 casper,bedpost.casper.com,True
 casper,operator.casper.tools,True
-matomo,matomo.cloud,True
-matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
@@ -8508,8 +8506,8 @@ snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True
@@ -8966,8 +8964,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
-security,hackerone.live,True
 security,errors.hackerone.net,True
+security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.com,True
@@ -9332,6 +9330,8 @@ otf,www.opentech.fund,True
 otf,sandbox.opentech.fund,True
 otf,www.opentech.fund,True
 otf,apply.opentech.fund,True
+matomo,matomo.cloud,True
+matomo,matomo.cloud,True
 eslint,jenkins.eslint.org,False
 eslint,jenkins.eslint.org,False
 fig,www.fig.co,False
