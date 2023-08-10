@@ -1279,8 +1279,8 @@ tinyprints.com
 snapfish.co.uk
 snapfish.com.au
 blog.spoonflower.com
-preschoolsmiles.com
 snapfish.co.nz
+preschoolsmiles.com
 *.shutterfly.com
 www.spoonflower.com
 *.shutterfly.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
