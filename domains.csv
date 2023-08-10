@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4505,12 +4505,12 @@ reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,new.reddit.com,True
-reddit,*.snooguts.net,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,*.redditinc.com,True
+reddit,*.snooguts.net,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,gateway.reddit.com,True
@@ -6989,9 +6989,9 @@ equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
 equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
-equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*.bvsnet.com.br,False
+equifax,*.konduto.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -8164,8 +8164,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com,True
-starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
+starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
