@@ -2797,9 +2797,9 @@ www.alohi.com
 *.nrtllc.*
 *.corcoran.*
 *.realogy.*
-*.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
+*.mycbdesk.com
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -5433,11 +5433,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
