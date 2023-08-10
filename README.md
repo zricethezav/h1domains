@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 10 15:11:36 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 10 16:11:46 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -933,8 +933,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -2446,8 +2446,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3624,8 +3624,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
