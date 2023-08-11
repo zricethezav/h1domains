@@ -1752,8 +1752,8 @@ www.engelvoelkers.com
 *.boredapeyachtclub.com
 *.yugalabs.io
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2379,8 +2379,8 @@ banfield.us
 *.myroyalcanin.hu
 banfieldexchange.com
 *.banfieldassets.com
-*.royalcanin.com
 *.jornadasroyalcanin.com.ar
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.royalcanin.ca
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
