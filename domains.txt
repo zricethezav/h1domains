@@ -1118,8 +1118,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 www.mercadopago.com.co
 www.mercadolibre.cl
 www.mercadopago.com.mx
@@ -1630,9 +1630,9 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1789,8 +1789,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.hotwire.com
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -2537,9 +2537,9 @@ www.canvasworld.com
 *.photoaffections.com
 www.gifts.com
 *.iseeme.com
-*.personalcreations.com
 *.canvasworld.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
