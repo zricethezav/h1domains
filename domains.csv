@@ -1321,8 +1321,8 @@ floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
-hilton,*.hiltonhotels.jp,True
 hilton,hiltonmanage.com,True
+hilton,*.hiltonhotels.jp,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hiltonlocalbiz.com,True
@@ -3749,8 +3749,8 @@ snowplow,docs.snowplow.io,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False
 snowplow,iglucentral.com,False
-snowplow,snowplow.io,False
 snowplow,poplindata.com,False
+snowplow,snowplow.io,False
 snowplow,snowplowanalytics.com,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False

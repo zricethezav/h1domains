@@ -1320,8 +1320,8 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 *.hilton.io
-*.hiltonhotels.jp
 hiltonmanage.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
@@ -3748,8 +3748,8 @@ docs.snowplow.io
 next.snowplowanalytics.com
 console.snowplowanalytics.com
 iglucentral.com
-snowplow.io
 poplindata.com
+snowplow.io
 snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com

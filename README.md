@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 11 11:10:09 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 11 12:11:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -262,8 +262,8 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 *.hilton.io
-*.hiltonhotels.jp
 hiltonmanage.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
