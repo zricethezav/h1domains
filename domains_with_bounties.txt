@@ -24,7 +24,6 @@ www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
 www.visa.com.tw
-www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
 www.visa.com.ph
@@ -32,6 +31,7 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.yellowpepper.com
+www.visa.com.cn
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy

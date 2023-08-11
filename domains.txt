@@ -73,7 +73,6 @@ www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
 www.visa.com.tw
-www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
 www.visa.com.ph
@@ -81,6 +80,7 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.yellowpepper.com
+www.visa.com.cn
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com

@@ -74,7 +74,6 @@ tecno,www.boomplay.com,True
 tecno,security.tecno.com,True
 tecno,www.mobile-phantom.com,True
 visa,www.visa.com.tw,True
-visa,www.visa.com.cn,True
 visa,www.visa.com.hk,True
 visa,www.visa.com.lc,True
 visa,www.visa.com.ph,True
@@ -82,6 +81,7 @@ visa,visa.com.ua,True
 visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.yellowpepper.com,True
+visa,www.visa.com.cn,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False

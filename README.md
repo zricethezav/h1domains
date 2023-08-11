@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 11 07:10:35 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 11 08:09:57 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -30,7 +30,6 @@ www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
 www.visa.com.tw
-www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
 www.visa.com.ph
@@ -38,6 +37,7 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.yellowpepper.com
+www.visa.com.cn
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
