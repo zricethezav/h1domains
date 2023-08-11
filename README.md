@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 11 16:10:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 11 17:11:13 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2562,8 +2562,8 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
