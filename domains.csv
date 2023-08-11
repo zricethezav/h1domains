@@ -52,8 +52,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -3692,8 +3692,8 @@ krisp,url5145.krisp.ai,False
 krisp,analytics.krisp.ai,True
 krisp,resources.krisp.ai,False
 krisp,upld.krisp.ai,True
-krisp,*.krisp.ai,True
 krisp,account.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,download.krisp.ai,True
@@ -5464,8 +5464,8 @@ logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
-logitech,*.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7880,8 +7880,8 @@ semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,*.scatec.io,True
 semrush,investors.semrush.com,False
-semrush,*.semrush.com,True
 semrush,*.sellzone.com,True
+semrush,*.semrush.com,True
 semrush,*.myinsights.io,True
 semrush,*.seoab.io,True
 semrush,*.semrush.com,True
@@ -8467,8 +8467,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8961,8 +8961,8 @@ security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,www.hackerone.com,True
 security,reviewer.pullrequest.com,True
+security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True

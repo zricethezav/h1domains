@@ -51,8 +51,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -3691,8 +3691,8 @@ url5145.krisp.ai
 analytics.krisp.ai
 resources.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -5463,8 +5463,8 @@ www.logitech.com.cn
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
-*.logitech.com
 *.myharmony.com
+*.logitech.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7879,8 +7879,8 @@ workflows.semrush.com
 *.seoquake.com
 *.scatec.io
 investors.semrush.com
-*.semrush.com
 *.sellzone.com
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -8466,8 +8466,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8960,8 +8960,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
