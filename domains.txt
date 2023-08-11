@@ -1506,9 +1506,9 @@ api.svb.com
 developer.svb.com
 connect.svb.com
 www.cipherbio.com
-www.svb.com
 lendx.svb.com
 www.svbconnect.com
+www.svb.com
 www.svb.com
 www.svbconnect.com
 connect.svb.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2529,9 +2529,9 @@ www.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
 *.mycustomcase.com
-iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
+iseeme.com
 *.gifts.com
 www.canvasworld.com
 *.photoaffections.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8347,8 +8347,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
