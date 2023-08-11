@@ -1929,8 +1929,8 @@ www.divvyhomes.com
 *.ttrus.com
 *.impendulo.com
 *.avalara.io
-*.avalara.net
 *.davosalestax.com
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -5969,9 +5969,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7257,8 +7257,8 @@ support.creditkarma.ca
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -8347,8 +8347,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
