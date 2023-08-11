@@ -1148,8 +1148,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.kolesa.kz
 api.krisha.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1272,9 +1272,9 @@ lifetouch.com
 www.borrowlenses.com
 prestigeportraits.com
 jcpportraits.com
-snapfish.com
 shutterfly.com
 admin.spoonflower.com
+snapfish.com
 tinyprints.com
 snapfish.co.uk
 snapfish.com.au
@@ -1329,8 +1329,8 @@ hilton.io
 *.hilton.com.tr
 hiltonbusinessonline.com
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1929,8 +1929,8 @@ www.divvyhomes.com
 *.ttrus.com
 *.impendulo.com
 *.avalara.io
-*.davosalestax.com
 *.avalara.net
+*.davosalestax.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -2538,8 +2538,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7460,6 +7460,8 @@ casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
+matomo.cloud
+matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
@@ -9329,8 +9331,6 @@ www.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
-matomo.cloud
-matomo.cloud
 jenkins.eslint.org
 jenkins.eslint.org
 www.fig.co

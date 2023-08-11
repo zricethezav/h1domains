@@ -1149,8 +1149,8 @@ mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
@@ -1273,9 +1273,9 @@ shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,admin.spoonflower.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
@@ -1330,8 +1330,8 @@ hilton,hilton.io,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hiltonlocalbiz.com,True
-hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
+hilton,*.hiltonmanage.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1930,8 +1930,8 @@ avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
-avalara,*.davosalestax.com,False
 avalara,*.avalara.net,False
+avalara,*.davosalestax.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -2539,8 +2539,8 @@ planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7461,6 +7461,8 @@ casper,casper.com,True
 casper,casper.com,True
 casper,bedpost.casper.com,True
 casper,operator.casper.tools,True
+matomo,matomo.cloud,True
+matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
@@ -9330,8 +9332,6 @@ otf,www.opentech.fund,True
 otf,sandbox.opentech.fund,True
 otf,www.opentech.fund,True
 otf,apply.opentech.fund,True
-matomo,matomo.cloud,True
-matomo,matomo.cloud,True
 eslint,jenkins.eslint.org,False
 eslint,jenkins.eslint.org,False
 fig,www.fig.co,False

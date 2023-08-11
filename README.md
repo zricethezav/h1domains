@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 11 12:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 11 13:09:27 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -142,8 +142,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.kolesa.kz
 api.krisha.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -271,8 +271,8 @@ hilton.io
 *.hilton.com.tr
 hiltonbusinessonline.com
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2419,6 +2419,8 @@ casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
+matomo.cloud
+matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
@@ -3865,8 +3867,6 @@ www.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
-matomo.cloud
-matomo.cloud
 mossy.breadcrumb.com
 app.upserve.com
 hq.breadcrumb.com
