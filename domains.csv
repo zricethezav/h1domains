@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8963,11 +8963,11 @@ security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
 security,hackerone.live,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

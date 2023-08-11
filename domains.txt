@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8962,11 +8962,11 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 errors.hackerone.net
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
