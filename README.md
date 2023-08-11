@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 11 15:09:42 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 11 16:10:01 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -45,7 +45,6 @@ www.visa.com.ge
 www.visa.com.hr
 visa.com.jm
 www.visa.com.ms
-www.visa.com.my
 www.visa.com.sg
 www.visa.co.ao
 www.visa.co.nz
@@ -53,6 +52,7 @@ www.visa.co.in
 www.visa.com.vn
 bb.visa.com
 www.currencycloud.com
+www.visa.com.my
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -268,8 +268,8 @@ hiltonmanage.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-*.hilton.com.tr
 hiltonbusinessonline.com
+*.hilton.com.tr
 *.hiltonlocalbiz.com
 hilton.com
 *.hiltonmanage.com
@@ -2606,10 +2606,10 @@ developer.valvesoftware.com
 help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
-partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
+partner.steamgames.com
 api.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3336,8 +3336,8 @@ my.snapchat.com
 map.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3652,8 +3652,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

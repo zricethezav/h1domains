@@ -6,8 +6,8 @@ nba-vdp,bal.nba.com,False
 nba-vdp,content-api-prod.nba.com,False
 nba-vdp,gleague.nba.com,False
 nba-vdp,teamportal.nba.com,False
-nba-vdp,2kleague.nba.com,False
 nba-vdp,identity.nba.com,False
+nba-vdp,2kleague.nba.com,False
 nba-vdp,core-api.nba.com,False
 nba-vdp,wnba.com,False
 nba-vdp,nba.com,False
@@ -89,7 +89,6 @@ visa,www.visa.com.ge,True
 visa,www.visa.com.hr,True
 visa,visa.com.jm,True
 visa,www.visa.com.ms,True
-visa,www.visa.com.my,True
 visa,www.visa.com.sg,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
@@ -97,6 +96,7 @@ visa,www.visa.co.in,True
 visa,www.visa.com.vn,True
 visa,bb.visa.com,True
 visa,www.currencycloud.com,True
+visa,www.visa.com.my,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -1327,8 +1327,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hiltonlocalbiz.com,True
 hilton,hilton.io,True
-hilton,*.hilton.com.tr,True
 hilton,hiltonbusinessonline.com,True
+hilton,*.hilton.com.tr,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7659,10 +7659,10 @@ valve,developer.valvesoftware.com,True
 valve,help.steampowered.com,True
 valve,store.steampowered.com,True
 valve,partner.steampowered.com,True
-valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True
 valve,www.valvesoftware.com,True
+valve,partner.steamgames.com,True
 valve,api.steampowered.com,True
 valve,wiki.teamfortress.com,False
 valve,storefront.steampowered.com,False
@@ -8503,8 +8503,8 @@ snapchat,my.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -8948,8 +8948,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
