@@ -4066,7 +4066,6 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
-john-deere,kreiselelectric.com,False
 john-deere,hagiegear.com,False
 john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
@@ -4082,6 +4081,7 @@ john-deere,stage-diagnostics.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
 john-deere,*deere.com*,False
+john-deere,kreiselelectric.com,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -8718,8 +8718,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,assets.airbnb.com,True

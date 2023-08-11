@@ -4065,7 +4065,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-kreiselelectric.com
 hagiegear.com
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
@@ -4081,6 +4080,7 @@ stage-diagnostics.agrisync.com
 stage-vnd.agrisync.com
 www.agrisync.com
 *deere.com*
+kreiselelectric.com
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -8717,8 +8717,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 assets.airbnb.com
