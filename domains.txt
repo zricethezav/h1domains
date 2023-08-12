@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 renewalreminder.shi.com
@@ -51,8 +51,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -1639,8 +1639,8 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 *.8x8.id
 *.jit.si
-cloud8.8x8.com
 platform.8x8pilot.com
+cloud8.8x8.com
 *.8x8staging.com
 *.packet8.net
 voapi.8x8.com
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -6337,8 +6337,8 @@ connect.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 supersite.8x8.com
-cloud8.8x8.com
 *.fuze.com
+cloud8.8x8.com
 *.8x8pilot.com
 www.8x8.com
 *.8x8.id
@@ -8959,15 +8959,15 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
-www.hackerone.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 app.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 hackerone.live
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
