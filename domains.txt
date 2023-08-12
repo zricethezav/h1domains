@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -6332,13 +6332,13 @@ get8x8.com
 *.8x8.com
 *.8x8cloud.net
 connect.8x8.com
-*.fuze.com
 *.thinkingphones.net
 *.8x8staging.com
 sms.8x8.com
 user-profile.8x8.com
 supersite.8x8.com
 cloud8.8x8.com
+*.fuze.com
 *.8x8pilot.com
 www.8x8.com
 *.8x8.id
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
