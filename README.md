@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 13:08:45 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 14:10:05 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -271,8 +271,8 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -401,7 +401,6 @@ work.8x8.com
 *.8x8.vc
 connect.8x8.com
 sso.8x8.com
-platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -409,6 +408,7 @@ user-profile-staging.8x8.com
 *.8x8.id
 *.jit.si
 cloud8.8x8.com
+platform.8x8pilot.com
 *.8x8staging.com
 *.packet8.net
 voapi.8x8.com
@@ -3651,9 +3651,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
