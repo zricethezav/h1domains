@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7965,11 +7965,11 @@ grab,*.grab-sure.com,True
 grab,*.grabpay.com,True
 grab,api.grabpay.com,True
 grab,xtramile.grabpay.com,True
-grab,*.myteksi.com,True
 grab,*.grab.co,True
 grab,manage.grab.co,True
 grab,p.grabtaxi.com,True
 grab,*.grab.com,True
+grab,*.myteksi.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
@@ -8854,9 +8854,9 @@ automattic,intensedebate.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
-automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,mailpoet.com,True
+automattic,www.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
@@ -8961,8 +8961,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
-security,www.hackerone.com,True
 security,profile-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
