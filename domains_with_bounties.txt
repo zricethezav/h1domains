@@ -981,7 +981,6 @@ capturingreality.com
 *.3lateral.com
 *.dropmix.com
 www.rockband4.com
-*.harmonixmusic.com
 *.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg

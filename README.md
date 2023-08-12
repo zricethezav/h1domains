@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 22:10:01 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 23:10:08 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -987,7 +987,6 @@ capturingreality.com
 *.3lateral.com
 *.dropmix.com
 www.rockband4.com
-*.harmonixmusic.com
 *.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg
