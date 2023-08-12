@@ -1649,8 +1649,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.p8t.us,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,sso.8x8pilot.com,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
@@ -6361,8 +6361,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
-8x8,*.wavecell.com,False
 8x8,*.packet8.net,False
+8x8,*.wavecell.com,False
 8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8156,9 +8156,9 @@ portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.fr,True
-starbucks,www.starbucks.com.br,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.co.uk,True
+starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
@@ -8349,8 +8349,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

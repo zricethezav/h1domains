@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 20:08:45 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 21:09:54 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -416,8 +416,8 @@ platform.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
-*.wavecell.com
 sso.8x8pilot.com
+*.wavecell.com
 pay.8x8.com
 *.8x8cloud.net
 *.8x8.vc
@@ -3035,9 +3035,9 @@ forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
 www.starbucks.fr
-www.starbucks.com.br
 www.starbucksreserve.com
 www.starbucks.co.uk
+www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3184,8 +3184,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
