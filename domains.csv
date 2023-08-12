@@ -1776,8 +1776,8 @@ expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
-expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.travelocity.com,True
+expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.com.au,True
@@ -1963,7 +1963,6 @@ resmed,resmed.co.uk,False
 resmed,resmed.com.au,False
 resmed,resmed.co.id,False
 resmed,resmed.ph,False
-resmed,resmed.fr,False
 resmed,resmed.nl,False
 resmed,resmed.no,False
 resmed,resmed.dk,False
@@ -1972,10 +1971,11 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
+resmed,resmed.fr,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
@@ -4080,8 +4080,8 @@ john-deere,stage-dc-service.agrisync.com,False
 john-deere,stage-diagnostics.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
-john-deere,*deere.com*,False
 john-deere,kreiselelectric.com,False
+john-deere,*deere.com*,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8924,8 +8924,8 @@ slack,slack-redir.net,True
 slack,app.slack.com,True
 slack,*.quip.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
