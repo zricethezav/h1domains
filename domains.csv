@@ -2665,8 +2665,8 @@ shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 exness,exnessaffiliates.com,True
 exness,my.exness.com,True
-exness,exness.com,True
 exness,pay.ibex.exchange,True
+exness,exness.com,True
 exness,pwapi.ex2b.com,True
 exness,social-trading.exness.com,True
 exness,api.excalls.mobi,True
@@ -6990,8 +6990,8 @@ equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
 equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
-equifax,*.bvsnet.com.br,False
 equifax,*.efficientforms.com,False
+equifax,*.bvsnet.com.br,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8467,8 +8467,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8961,8 +8961,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,hackerone-ext-content.com,True
 security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
-security,profile-photos.hackerone-user-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
+security,profile-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
