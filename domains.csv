@@ -186,8 +186,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
+daimler_truck,*fleetboard.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -4043,8 +4043,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False

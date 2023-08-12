@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 06:10:24 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 07:09:42 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1186,8 +1186,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
