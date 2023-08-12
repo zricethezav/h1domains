@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8466,8 +8466,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
