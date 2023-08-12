@@ -1971,8 +1971,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -3624,8 +3624,8 @@ mondelez,www.greenandblacks.co.uk,False
 mondelez,www.twistandmake.com,False
 mondelez,horizon-api.www.toblerone.co.uk,False
 veeam,*.veeam.com,False
-veeam,*.kasten.io,False
 veeam,*.veeamgov.com,False
+veeam,*.kasten.io,False
 veeam,*.veeam.com,False
 veeam,*.kasten.io,False
 veeam,*.veeamgov.com,False
@@ -4066,7 +4066,6 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
-john-deere,hagiegear.com,False
 john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
@@ -4082,6 +4081,7 @@ john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
 john-deere,kreiselelectric.com,False
 john-deere,*deere.com*,False
+john-deere,hagiegear.com,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8466,9 +8466,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8846,8 +8846,8 @@ automattic,akismet.com,True
 automattic,simplenote.com,True
 automattic,simperium.com,True
 automattic,embed.tumblr.com,True
-automattic,my.pressable.com,True
 automattic,happy.tools,True
+automattic,my.pressable.com,True
 automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
 automattic,intensedebate.com,True

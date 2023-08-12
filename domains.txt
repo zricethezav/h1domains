@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -3623,8 +3623,8 @@ www.greenandblacks.co.uk
 www.twistandmake.com
 horizon-api.www.toblerone.co.uk
 *.veeam.com
-*.kasten.io
 *.veeamgov.com
+*.kasten.io
 *.veeam.com
 *.kasten.io
 *.veeamgov.com
@@ -4065,7 +4065,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-hagiegear.com
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
@@ -4081,6 +4080,7 @@ stage-vnd.agrisync.com
 www.agrisync.com
 kreiselelectric.com
 *deere.com*
+hagiegear.com
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8465,9 +8465,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8845,8 +8845,8 @@ akismet.com
 simplenote.com
 simperium.com
 embed.tumblr.com
-my.pressable.com
 happy.tools
+my.pressable.com
 api.tumblr.com
 assets.tumblr.com
 intensedebate.com

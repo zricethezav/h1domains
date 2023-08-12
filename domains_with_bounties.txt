@@ -3293,9 +3293,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3544,8 +3544,8 @@ akismet.com
 simplenote.com
 simperium.com
 embed.tumblr.com
-my.pressable.com
 happy.tools
+my.pressable.com
 api.tumblr.com
 assets.tumblr.com
 intensedebate.com
