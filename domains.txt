@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -3928,8 +3928,8 @@ account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
 tock.18f.gov
+api.data.gov
 sdg.data.gov
 labs.data.gov
 inventory.data.gov
@@ -8965,9 +8965,9 @@ www.hackerone.com
 app.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
