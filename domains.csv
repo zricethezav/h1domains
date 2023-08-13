@@ -102,8 +102,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,usa.visa.com,True
 visa,www.cardinalcommerce.com,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -1106,8 +1106,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -1971,8 +1971,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -7180,8 +7180,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8265,9 +8265,9 @@ nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
-pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
 pornhub,www.modelhub.com,True
+pornhub,www.redtube.com,True
 pornhub,api.pornhub.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youporn.com,True
@@ -8952,8 +8952,8 @@ security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
-security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
+security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True

@@ -101,8 +101,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -1105,8 +1105,8 @@ biology-browser.com
 biologybrowser.com
 biologybrowser.org
 biologyfinder.com
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -7179,8 +7179,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8264,9 +8264,9 @@ pushfeed.nextcloud.com
 newsletter.nextcloud.com
 www.thumbzilla.com
 *.tube8.com
-www.redtube.com
 www.pornhub.com
 www.modelhub.com
+www.redtube.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -8951,8 +8951,8 @@ hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
