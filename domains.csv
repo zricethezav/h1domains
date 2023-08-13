@@ -1971,8 +1971,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -2631,8 +2631,8 @@ kayak,www.hotelscombined.com,True
 kayak,www.checkfelix.com,True
 kayak,business.kayak.com,True
 kayak,www.swoodoo.com,True
-kayak,www.kayak.com,True
 kayak,www.cheapflights.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -4172,10 +4172,10 @@ stripe,*.touchtechpayments.com,True
 stripe,js.stripe.com,True
 stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
-stripe,api.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
 stripe,api.stripe.com,True
+stripe,api.taxjar.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True

@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -2630,8 +2630,8 @@ www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
 www.swoodoo.com
-www.kayak.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -4171,10 +4171,10 @@ johndeere.invisionapp.com
 js.stripe.com
 www.stripe.partners
 app.taxjar.com
-api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
 api.stripe.com
+api.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
