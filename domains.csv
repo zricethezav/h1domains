@@ -95,8 +95,8 @@ visa,www.visa.co.nz,True
 visa,www.visa.co.in,True
 visa,www.visa.com.vn,True
 visa,bb.visa.com,True
-visa,www.currencycloud.com,True
 visa,www.visa.com.my,True
+visa,www.currencycloud.com,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -1405,8 +1405,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1526,9 +1526,9 @@ s-pankki,online.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
-s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,www.s-pankki.fi,True
+s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -1971,8 +1971,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -2539,8 +2539,8 @@ planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
-planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7156,8 +7156,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.priceline.com,True
-priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.getaroom.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,cruises.priceline.com,True

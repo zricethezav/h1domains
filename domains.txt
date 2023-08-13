@@ -94,8 +94,8 @@ www.visa.co.nz
 www.visa.co.in
 www.visa.com.vn
 bb.visa.com
-www.currencycloud.com
 www.visa.com.my
+www.currencycloud.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -1404,8 +1404,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1525,9 +1525,9 @@ online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
 www.s-pankki.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -2538,8 +2538,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.canvasworld.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7155,8 +7155,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.priceline.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
