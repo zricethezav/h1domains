@@ -4079,8 +4079,8 @@ john-deere,stage-diagnostics.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
 john-deere,kreiselelectric.com,False
-john-deere,*deere.com*,False
 john-deere,hagiegear.com,False
+john-deere,*deere.com*,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -7811,8 +7811,8 @@ coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
 crowdstrike,*.securecircle.com,True
-crowdstrike,www.crowdstrike.com,True
 crowdstrike,*.humio.com,True
+crowdstrike,www.crowdstrike.com,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,hybrid-analysis.com,True
@@ -8299,10 +8299,10 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,education.github.com,True
 github,npmjs.org,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

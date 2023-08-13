@@ -4078,8 +4078,8 @@ stage-diagnostics.agrisync.com
 stage-vnd.agrisync.com
 www.agrisync.com
 kreiselelectric.com
-*deere.com*
 hagiegear.com
+*deere.com*
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -7810,8 +7810,8 @@ platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
 *.securecircle.com
-www.crowdstrike.com
 *.humio.com
+www.crowdstrike.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -8298,10 +8298,10 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 gist.github.com
-*.githubusercontent.com
 education.github.com
 npmjs.org
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com

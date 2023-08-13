@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 13 06:09:24 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug 13 07:08:35 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2730,8 +2730,8 @@ api.blockscore.com
 demo.plaid.com
 plaid.com
 *.securecircle.com
-www.crowdstrike.com
 *.humio.com
+www.crowdstrike.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -3134,10 +3134,10 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 gist.github.com
-*.githubusercontent.com
 education.github.com
 npmjs.org
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
