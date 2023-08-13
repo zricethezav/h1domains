@@ -186,8 +186,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
+daimler_truck,*fleetboard.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -7257,8 +7257,8 @@ creditkarma,support.creditkarma.ca,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False

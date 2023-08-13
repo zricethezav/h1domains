@@ -185,8 +185,8 @@ www.tink.com
 *.freightliner.com
 *.bharatbenz.com
 *evobus.com
-*fleetboard.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -7256,8 +7256,8 @@ support.creditkarma.ca
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
