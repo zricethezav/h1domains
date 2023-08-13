@@ -7155,9 +7155,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.bookingholdings.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -7180,8 +7180,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8301,8 +8301,8 @@ github,*.github.net,True
 github,gist.github.com,True
 github,education.github.com,True
 github,npmjs.org,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8923,8 +8923,8 @@ slack,slack-redir.net,True
 slack,app.slack.com,True
 slack,*.quip.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True

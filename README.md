@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 13 14:10:01 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug 13 15:08:53 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2165,9 +2165,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -3136,8 +3136,8 @@ classroom.github.com
 gist.github.com
 education.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3627,8 +3627,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
