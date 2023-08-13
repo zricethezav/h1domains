@@ -1323,8 +1323,8 @@ floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
 hilton,hiltonmanage.com,True
 hilton,*.hiltonhotels.jp,True
-hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
+hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
@@ -1405,8 +1405,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1790,8 +1790,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.wotif.com,True
-expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotwire.com,True
+expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
