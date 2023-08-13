@@ -6028,8 +6028,8 @@ cloud.digitalocean.com
 169.254.169.254
 api.cloudways.com
 marketplace.digitalocean.com
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -7179,8 +7179,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8951,8 +8951,8 @@ hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -8961,11 +8961,11 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
-app.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
