@@ -224,8 +224,8 @@ shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 support.mozilla.org
-getpocket.com
 relay.firefox.com
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org

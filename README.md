@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 13 07:08:35 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug 13 08:09:29 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 support.mozilla.org
-getpocket.com
 relay.firefox.com
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org

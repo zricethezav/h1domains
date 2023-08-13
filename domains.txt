@@ -1241,8 +1241,8 @@ shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 support.mozilla.org
-getpocket.com
 relay.firefox.com
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
