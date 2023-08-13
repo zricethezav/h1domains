@@ -1854,10 +1854,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2926,9 +2926,9 @@ app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
-app.dashlane.com
 logs.dashlane.com
 www.dashlane.com
+app.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
