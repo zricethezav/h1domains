@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 13 02:14:10 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug 13 03:10:32 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2562,7 +2562,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3128,8 +3128,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3298,9 +3298,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3627,8 +3627,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3667,11 +3667,11 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
