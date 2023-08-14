@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -2141,8 +2141,8 @@ www.interflex.com
 www.planopunkt.com
 zentra.co
 www.normbau.de
-m.poloniex.com
 www.poloniex.com
+m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
 api.poloniex.com
@@ -7179,8 +7179,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8810,8 +8810,8 @@ jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -8963,10 +8963,10 @@ www.hackerone.com
 profile-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
