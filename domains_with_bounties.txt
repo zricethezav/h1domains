@@ -258,8 +258,8 @@ api-eu.floqast.app
 *.hilton.io
 hiltonmanage.com
 *.hiltonhotels.jp
-hiltonhotels.jp
 *.hiltonbusinessonline.com
+hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
 hiltonbusinessonline.com
@@ -3514,8 +3514,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
