@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 nba-vdp,nba.com,False
 nba-vdp,cdn.nba.com,False
-nba-vdp,stats-trafficcop-prod.nba.com,False
 nba-vdp,bal.nba.com,False
+nba-vdp,stats-trafficcop-prod.nba.com,False
 nba-vdp,content-api-prod.nba.com,False
 nba-vdp,gleague.nba.com,False
 nba-vdp,teamportal.nba.com,False
@@ -183,8 +183,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -1405,8 +1405,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -3797,9 +3797,9 @@ epicgames,*.audicagame.com,True
 epicgames,fallguys.com,True
 epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
-epicgames,capturingreality.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,fortnite.com,True
+epicgames,capturingreality.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.dropmix.com,True
@@ -5969,9 +5969,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8947,8 +8947,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
