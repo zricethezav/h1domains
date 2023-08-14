@@ -2390,8 +2390,8 @@ banfieldexchange.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.moncse-royalcanin-siege.com
 banfieldfoundation.org
-*.vcahospitals.com
 *.monespaceveto.com
+*.vcahospitals.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -4064,6 +4064,7 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
+map.deere.com
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
@@ -4080,6 +4081,7 @@ www.agrisync.com
 kreiselelectric.com
 *deere.com*
 hagiegear.com
+setup-builder-qual.deere.com
 sandbox.spark.ai
 www.allpartsstore.com
 www.hagie.com
@@ -4088,8 +4090,6 @@ gitlab.bearflagrobotics.com
 api.agrisync.com
 help.agrisync.com
 links.help.agrisync.com
-ms-voicehub.agrisync.com
-stage-cs-admin.agrisync.com
 jdisonline.com
 johndeere.com
 wirtgen-group.com
@@ -4119,6 +4119,8 @@ gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 www.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
+setup-builder.deere.com
+map.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -4161,6 +4163,8 @@ vnd.agrisync.com
 www.agrisync.com
 zeus.agrisync.com
 johndeere.invisionapp.com
+setup-builder-cert.deere.com
+setup-builder-qual.deere.com
 *deere.com*
 *promotemyprograms*.deere.com
 *.reckoproduction.com
@@ -5967,10 +5971,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8810,8 +8814,8 @@ jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -8892,9 +8896,9 @@ blog.irccloud.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com

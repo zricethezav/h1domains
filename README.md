@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 14 12:12:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 14 13:11:37 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1860,10 +1860,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3520,8 +3520,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3597,9 +3597,9 @@ blog.irccloud.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com

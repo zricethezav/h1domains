@@ -2391,8 +2391,8 @@ mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,banfieldfoundation.org,False
-mars,*.vcahospitals.com,False
 mars,*.monespaceveto.com,False
+mars,*.vcahospitals.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -4065,6 +4065,7 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
 john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
@@ -4081,6 +4082,7 @@ john-deere,www.agrisync.com,False
 john-deere,kreiselelectric.com,False
 john-deere,*deere.com*,False
 john-deere,hagiegear.com,False
+john-deere,setup-builder-qual.deere.com,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -4089,8 +4091,6 @@ john-deere,gitlab.bearflagrobotics.com,False
 john-deere,api.agrisync.com,False
 john-deere,help.agrisync.com,False
 john-deere,links.help.agrisync.com,False
-john-deere,ms-voicehub.agrisync.com,False
-john-deere,stage-cs-admin.agrisync.com,False
 john-deere,jdisonline.com,False
 john-deere,johndeere.com,False
 john-deere,wirtgen-group.com,False
@@ -4120,6 +4120,8 @@ john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
 john-deere,www.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
+john-deere,setup-builder.deere.com,False
+john-deere,map.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -4162,6 +4164,8 @@ john-deere,vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
 john-deere,zeus.agrisync.com,False
 john-deere,johndeere.invisionapp.com,False
+john-deere,setup-builder-cert.deere.com,False
+john-deere,setup-builder-qual.deere.com,False
 john-deere,*deere.com*,False
 john-deere,*promotemyprograms*.deere.com,False
 stripe,*.reckoproduction.com,True
@@ -5968,10 +5972,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8811,8 +8815,8 @@ greenhouse,jss.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -8893,9 +8897,9 @@ irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
-coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,pro.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,institutional.coinbase.com,True
