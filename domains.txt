@@ -178,8 +178,8 @@ www.tink.com
 *omniplus.com
 *.mercedes-benz-trucks.com
 *exceleratorparts.com
-*detroitconnect.com
 *.daimlertruck.com
+*detroitconnect.com
 *.westernstar.com
 *fleetboard.de
 *.freightliner.com
@@ -5456,9 +5456,9 @@ live-backstage.tiktok.com
 tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -8941,8 +8941,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -9204,12 +9204,6 @@ app.nuri.com
 api.app.nuri.com
 rghost.net
 rghost.net
-api.orionlabs.io
-observatory.orionlabs.io
-login.orionlabs.io
-login.orionlabs.io
-observatory.orionlabs.io
-api.orionlabs.io
 ota.helium.com
 ota.helium.com
 *.companyhub.com

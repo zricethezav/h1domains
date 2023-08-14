@@ -179,8 +179,8 @@ daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
+daimler_truck,*detroitconnect.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
@@ -5457,9 +5457,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -8942,8 +8942,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -9205,12 +9205,6 @@ nuri,app.nuri.com,False
 nuri,api.app.nuri.com,False
 rghost,rghost.net,False
 rghost,rghost.net,False
-orion_labs,api.orionlabs.io,False
-orion_labs,observatory.orionlabs.io,False
-orion_labs,login.orionlabs.io,False
-orion_labs,login.orionlabs.io,False
-orion_labs,observatory.orionlabs.io,False
-orion_labs,api.orionlabs.io,False
 helium,ota.helium.com,True
 helium,ota.helium.com,True
 companyhub,*.companyhub.com,False
