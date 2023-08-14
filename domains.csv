@@ -1823,7 +1823,6 @@ expediagroup,*.stayz.com.au,False
 expediagroup,*.hotwirepartnercentral.com,False
 expediagroup,*.expediapartnersolutions.com,False
 expediagroup,*.expediaagents.com,False
-expediagroup,*.orbitz.com,False
 expediagroup,*.cruiseshipcenters.com,False
 expediagroup,*.egadvertising.com,False
 expediagroup,*.vrbo.com,False
@@ -1832,6 +1831,7 @@ expediagroup,*.lastminute.co.nz,False
 expediagroup,*.hoteis.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.orbitz.com,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
 expediagroup,*.travelocity.ca,False
@@ -8370,8 +8370,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8487,9 +8487,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
