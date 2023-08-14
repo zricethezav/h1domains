@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 14 09:10:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 14 10:10:36 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -446,15 +446,15 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-*.moonpaycloud.com
 moonpay.com
+*.moonpaycloud.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -1185,8 +1185,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2538,10 +2538,10 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.gsselect.com
 *.foliofn.com
 *.goldman.com
 *.ayco.com
+*.gsselect.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
