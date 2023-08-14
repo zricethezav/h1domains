@@ -102,8 +102,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -111,18 +111,18 @@ visa,www.visa.co.th,True
 visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,www.visa.co.ke,True
-visa,www.cybersource.com,True
 visa,visa.co.za,True
 visa,www.authorize.net,True
+visa,www.cybersource.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
 visa,www.visa.com.az,True
 visa,www.visa.com.kz,True
 visa,www.visa.com.lk,True
-visa,www.visa.com.ng,True
 visa,www.visa.com.tr,True
 visa,bd.visa.com,True
+visa,visa.co.cr,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -1971,8 +1971,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -2319,8 +2319,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -3932,7 +3932,6 @@ gsa_bbp,tock.18f.gov,True
 gsa_bbp,api.data.gov,True
 gsa_bbp,sdg.data.gov,True
 gsa_bbp,labs.data.gov,True
-gsa_bbp,inventory.data.gov,True
 gsa_bbp,diagrams.fr.cloud.gov,True
 gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
@@ -3940,6 +3939,7 @@ gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
 gsa_bbp,*.login.gov,True
 gsa_bbp,dashboard.fr.cloud.gov,True
+gsa_bbp,inventory.data.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
@@ -4066,6 +4066,8 @@ john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
 john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hvc.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
@@ -4091,8 +4093,6 @@ john-deere,www.hagie.com,False
 john-deere,formant.dev.bearflagrobotics.com,False
 john-deere,gitlab.bearflagrobotics.com,False
 john-deere,api.agrisync.com,False
-john-deere,help.agrisync.com,False
-john-deere,links.help.agrisync.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -4107,7 +4107,6 @@ john-deere,oca.deere.com,False
 john-deere,payload.deere.com,False
 john-deere,johndeere.com,False
 john-deere,wirtgen-group.com,False
-john-deere,deere.com,False
 john-deere,bluerivertechnology.com,False
 john-deere,bearflagrobotics.com,False
 john-deere,johndeerecloud.com,False
@@ -4137,6 +4136,9 @@ john-deere,www.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
 john-deere,setup-builder.deere.com,False
 john-deere,map.deere.com,False
+john-deere,expertconnect.support,False
+john-deere,sustainability-programs.deere.com,False
+john-deere,www.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -4181,6 +4183,9 @@ john-deere,zeus.agrisync.com,False
 john-deere,johndeere.invisionapp.com,False
 john-deere,setup-builder-cert.deere.com,False
 john-deere,setup-builder-qual.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
+john-deere,deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
 stripe,*.link.co,True
@@ -6354,8 +6359,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,supersite.8x8.com,False
-8x8,*.fuze.com,False
 8x8,cloud8.8x8.com,False
+8x8,*.fuze.com,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
 8x8,*.8x8.id,False
@@ -7197,8 +7202,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8519,8 +8524,8 @@ snapchat,my.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True

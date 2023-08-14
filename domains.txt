@@ -101,8 +101,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -110,18 +110,18 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 www.visa.co.ke
-www.cybersource.com
 visa.co.za
 www.authorize.net
+www.cybersource.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
 www.visa.com.az
 www.visa.com.kz
 www.visa.com.lk
-www.visa.com.ng
 www.visa.com.tr
 bd.visa.com
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -2318,8 +2318,8 @@ www.watchstationindia.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mssm.edu
 *.mountsinai.org
+*.mssm.edu
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -3931,7 +3931,6 @@ tock.18f.gov
 api.data.gov
 sdg.data.gov
 labs.data.gov
-inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
@@ -3939,6 +3938,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 dashboard.fr.cloud.gov
+inventory.data.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -4065,6 +4065,8 @@ stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
 map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
@@ -4090,8 +4092,6 @@ www.hagie.com
 formant.dev.bearflagrobotics.com
 gitlab.bearflagrobotics.com
 api.agrisync.com
-help.agrisync.com
-links.help.agrisync.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -4106,7 +4106,6 @@ oca.deere.com
 payload.deere.com
 johndeere.com
 wirtgen-group.com
-deere.com
 bluerivertechnology.com
 bearflagrobotics.com
 johndeerecloud.com
@@ -4136,6 +4135,9 @@ www.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
 setup-builder.deere.com
 map.deere.com
+expertconnect.support
+sustainability-programs.deere.com
+www.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -4180,6 +4182,9 @@ zeus.agrisync.com
 johndeere.invisionapp.com
 setup-builder-cert.deere.com
 setup-builder-qual.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
+deere.com
 *.reckoproduction.com
 *.stripe.com
 *.link.co
@@ -6353,8 +6358,8 @@ connect.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 supersite.8x8.com
-*.fuze.com
 cloud8.8x8.com
+*.fuze.com
 *.8x8pilot.com
 www.8x8.com
 *.8x8.id
@@ -7196,8 +7201,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8518,8 +8523,8 @@ my.snapchat.com
 map.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com

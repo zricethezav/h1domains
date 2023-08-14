@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 14 14:10:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 14 15:10:05 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -67,18 +67,18 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 www.visa.co.ke
-www.cybersource.com
 visa.co.za
 www.authorize.net
+www.cybersource.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
 www.visa.com.az
 www.visa.com.kz
 www.visa.com.lk
-www.visa.com.ng
 www.visa.com.tr
 bd.visa.com
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1099,7 +1099,6 @@ tock.18f.gov
 api.data.gov
 sdg.data.gov
 labs.data.gov
-inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
@@ -1107,6 +1106,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 dashboard.fr.cloud.gov
+inventory.data.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -3335,8 +3335,8 @@ my.snapchat.com
 map.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
