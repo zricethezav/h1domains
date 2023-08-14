@@ -111,8 +111,8 @@ www.visa.co.uk
 www.visa.co.ve
 www.visa.co.ke
 www.cybersource.com
-www.authorize.net
 visa.co.za
+www.authorize.net
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -4041,8 +4041,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -5967,10 +5967,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
-*.Daraz.com
 *.aliexpress.com
+*.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6983,13 +6983,13 @@ JOBALINECI.COM
 efficienthire.info
 ehxhr.com
 wotctech.com
-*equifax.com
 *.boavistascpc.com.br
 *.certificadoboavista.com.br
 *.konduto.com
 *.redeverdeamarela.com.br
 *.efficientforms.com
 *.bvsnet.com.br
+*equifax.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -7179,8 +7179,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8347,8 +8347,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8581,7 +8581,6 @@ training.ui.com
 dev-training.ui.com
 wiki.ui.com
 *.mixamo.com
-auth.services.adobe.com
 exchange.adobe.com
 licenses.adobe.com
 mobilemarketing.adobe.com
@@ -8596,6 +8595,7 @@ nicetryapril.na1.echosignsandbox.com
 magento.com
 community.adobe.com
 *.adobe.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -8945,9 +8945,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com

@@ -112,8 +112,8 @@ visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,www.visa.co.ke,True
 visa,www.cybersource.com,True
-visa,www.authorize.net,True
 visa,visa.co.za,True
+visa,www.authorize.net,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -4042,8 +4042,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -5968,10 +5968,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6984,13 +6984,13 @@ equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
-equifax,*equifax.com,False
 equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
 equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*.efficientforms.com,False
 equifax,*.bvsnet.com.br,False
+equifax,*equifax.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7180,8 +7180,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -8348,8 +8348,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8582,7 +8582,6 @@ ui,training.ui.com,False
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,*.mixamo.com,False
-adobe,auth.services.adobe.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
@@ -8597,6 +8596,7 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,magento.com,True
 adobe,community.adobe.com,False
 adobe,*.adobe.com,False
+adobe,auth.services.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -8946,9 +8946,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
