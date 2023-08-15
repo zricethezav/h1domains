@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 15 16:10:31 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 15 17:10:55 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -227,10 +227,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
+getpocket.com
 support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-getpocket.com
 relay.firefox.com
 developer.mozilla.org
 monitor.firefox.com
@@ -342,11 +342,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -1168,8 +1168,8 @@ staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
 trufflesuite.com
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1229,8 +1229,8 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-gql.reddit.com
 *.redditmedia.com
+gql.reddit.com
 app.spiketrap.io
 ads.reddit.com
 new.reddit.com
@@ -1252,9 +1252,9 @@ redditforbusiness.com
 www.reddit.com
 *.reddithelp.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1589,6 +1589,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1596,8 +1598,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -1941,9 +1941,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
+www.marriott.com
 sso.marriott.com
 mgs.marriott.com
-www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2059,10 +2059,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2085,10 +2085,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2733,9 +2733,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
-*.humio.com
 *.securecircle.com
 www.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 www.crowdstrike.org
 hybrid-analysis.com
@@ -3096,8 +3096,8 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -3186,9 +3186,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.zomans.com
-winecellar.zomato.com
 *.zdev.net
 *.zomato.com
+winecellar.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3318,8 +3318,8 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 create.snapchat.com
+accounts.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
@@ -3430,18 +3430,18 @@ demo.urbandoor.com
 admin.demo.urbandoor.com
 luckey.fr
 luckey.in
-*.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
-www.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3523,8 +3523,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3534,8 +3534,8 @@ gnip.com
 x.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3554,10 +3554,10 @@ my.pressable.com
 happy.tools
 simplenote.com
 simperium.com
-wordpress.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3654,10 +3654,10 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
-www.wearehackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3670,9 +3670,9 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 hackerone.com
