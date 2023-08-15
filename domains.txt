@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -2529,9 +2529,9 @@ www.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
 *.mycustomcase.com
-www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
+www.cafepress.com
 *.gifts.com
 www.canvasworld.com
 *.photoaffections.com
@@ -5451,9 +5451,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -5947,8 +5947,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 chat.amazon.com
-affiliate-program.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -7201,8 +7201,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8832,8 +8832,8 @@ jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -8983,12 +8983,12 @@ ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
