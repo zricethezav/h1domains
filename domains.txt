@@ -12,8 +12,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
@@ -22,7 +22,6 @@ aboitizpower.net
 enerzone.com.ph
 sustainablephilippines.com
 *.snaboitiz.com
-aboitizpower.com.ph
 aboitizpowercorporation.com.ph
 aboitiztrading.com
 apsiph.com
@@ -31,6 +30,7 @@ cleanergy.com.ph
 limaenerzone.com
 prismenergy.com.ph
 subicenerzone.com
+aboitizpower.com.ph
 aboitizpower.ph
 mactanenerzone.com
 snap-res.com
@@ -2048,8 +2048,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -8447,8 +8447,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8601,8 +8601,8 @@ map.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
