@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 15 01:28:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 15 02:12:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1503,8 +1503,8 @@ partner.tiktokshop.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
