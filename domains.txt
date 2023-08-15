@@ -2433,7 +2433,6 @@ www.watchstationindia.com
 *.snch.org
 *.southnassau.org
 *.twix.com
-*.royalcanin.nl
 *.eukanubasportingdog.com
 *.royalcaninfoodfinder.com
 *.mivetshop.com.ar
@@ -2447,6 +2446,7 @@ banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.be
 *.banfield.com
+*.royalcanin.nl
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.pl
@@ -7293,8 +7293,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7385,12 +7385,12 @@ res.universalorlandovacations.com
 reservations.wynnvacations.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
-vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
 vacations.universalstudioshollywood.com
+vacations.us.palladiumhotelgroup.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -8909,8 +8909,8 @@ donations.livestream.com
 *.informatica.com
 *.informaticacloud.com
 onboarding.greenhouse.io
-support.greenhouse.io
 api.greenhouse.io
+support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -9070,11 +9070,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com

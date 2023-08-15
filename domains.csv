@@ -2434,7 +2434,6 @@ mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
 mars,*.twix.com,False
-mars,*.royalcanin.nl,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.mivetshop.com.ar,False
@@ -2448,6 +2447,7 @@ mars,*.royalcanin.pt,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
 mars,*.banfield.com,False
+mars,*.royalcanin.nl,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.pl,False
@@ -7294,8 +7294,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7386,12 +7386,12 @@ hyatt,res.universalorlandovacations.com,True
 hyatt,reservations.wynnvacations.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
-hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,www.wynnvacations.com,True
 hyatt,res.sunscaperesorts.com,True
 hyatt,res.vacations.buschgardens.com,True
 hyatt,book.beachbound.com,True
 hyatt,vacations.universalstudioshollywood.com,True
+hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -8910,8 +8910,8 @@ informatica,*.informaticacloud.com,False
 informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 greenhouse,onboarding.greenhouse.io,True
-greenhouse,support.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
+greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
@@ -9071,11 +9071,11 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,reviewer.pullrequest.com,True
-security,www.hackerone.com,True
 security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
