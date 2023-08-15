@@ -12,8 +12,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
@@ -189,8 +189,8 @@ www.visa.co.uk
 www.visa.co.ve
 www.visa.co.ke
 visa.co.za
-www.authorize.net
 www.cybersource.com
+www.authorize.net
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -254,8 +254,8 @@ usa.visa.com
 www.tink.com
 *.setra.de
 *.mercedes-benz-trucks.com
-*exceleratorparts.com
 *omniplus.com
+*exceleratorparts.com
 *.daimlertruck.com
 *detroitconnect.com
 *.westernstar.com
@@ -1824,8 +1824,8 @@ www.engelvoelkers.com
 *.yuga.com
 *.otherside.xyz
 *.mdvmm.xyz
-*.10ktf.com
 *.meebits.app
+*.10ktf.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
@@ -2396,8 +2396,8 @@ www.watchstationindia.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mountsinai.org
 *.mssm.edu
+*.mountsinai.org
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -5544,8 +5544,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -7101,9 +7101,9 @@ wotctech.com
 *.certificadoboavista.com.br
 *.konduto.com
 *.redeverdeamarela.com.br
-*.efficientforms.com
 *equifax.com
 *.bvsnet.com.br
+*.efficientforms.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -7592,9 +7592,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
+*.braintree.tools
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
@@ -7727,7 +7727,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

@@ -13,8 +13,8 @@ aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.davaolight.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
@@ -190,8 +190,8 @@ visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,www.visa.co.ke,True
 visa,visa.co.za,True
-visa,www.authorize.net,True
 visa,www.cybersource.com,True
+visa,www.authorize.net,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -255,8 +255,8 @@ visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*omniplus.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.westernstar.com,False
@@ -1825,8 +1825,8 @@ engel_volkers_bbp,www.engelvoelkers.com,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.10ktf.com,True
 yuga_labs,*.meebits.app,True
+yuga_labs,*.10ktf.com,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.boredapeyachtclub.com,True
 yuga_labs,*.yugalabs.io,True
@@ -2397,8 +2397,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -5545,8 +5545,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
@@ -7102,9 +7102,9 @@ equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
 equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
-equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
 equifax,*.bvsnet.com.br,False
+equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -7593,9 +7593,9 @@ paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
 paypal,*.venmo.com,True
 paypal,*.paypal.com,True
-paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
+paypal,*.braintree.tools,True
 paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
@@ -7728,7 +7728,7 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True

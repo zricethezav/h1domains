@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 15 08:11:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 15 09:10:33 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -68,8 +68,8 @@ www.visa.co.uk
 www.visa.co.ve
 www.visa.co.ke
 visa.co.za
-www.authorize.net
 www.cybersource.com
+www.authorize.net
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -476,8 +476,8 @@ www.engelvoelkers.com
 *.yuga.com
 *.otherside.xyz
 *.mdvmm.xyz
-*.10ktf.com
 *.meebits.app
+*.10ktf.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
@@ -1498,8 +1498,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -2437,9 +2437,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
+*.braintree.tools
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
@@ -2562,7 +2562,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
