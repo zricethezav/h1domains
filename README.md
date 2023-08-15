@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 15 02:12:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 15 03:10:43 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1498,8 +1498,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -2730,8 +2730,8 @@ api.blockscore.com
 demo.plaid.com
 plaid.com
 *.securecircle.com
-*.humio.com
 www.crowdstrike.com
+*.humio.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com

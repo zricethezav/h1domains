@@ -2048,8 +2048,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -5530,8 +5530,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -7910,8 +7910,8 @@ platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
 *.securecircle.com
-*.humio.com
 www.crowdstrike.com
+*.humio.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com

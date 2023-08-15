@@ -2049,8 +2049,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -5531,8 +5531,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
@@ -7911,8 +7911,8 @@ coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
 crowdstrike,*.securecircle.com,True
-crowdstrike,*.humio.com,True
 crowdstrike,www.crowdstrike.com,True
+crowdstrike,*.humio.com,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,hybrid-analysis.com,True
