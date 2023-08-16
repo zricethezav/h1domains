@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 16 05:09:13 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug 16 06:09:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -181,9 +181,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -227,10 +227,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
+getpocket.com
 support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-getpocket.com
 relay.firefox.com
 developer.mozilla.org
 monitor.firefox.com
@@ -294,8 +294,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -342,11 +342,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -504,9 +504,9 @@ www.abritel.fr
 www.expediagroup.com
 www.expediaagents.com
 www.vrbo.com
-www.travelocity.com
 www.ebookers.com
 www.flights.com
+www.travelocity.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -516,11 +516,11 @@ www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.wotif.com
-www.hotwire.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
+www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -982,8 +982,8 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
@@ -1229,8 +1229,8 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 ads.reddit.com
 new.reddit.com
@@ -1390,8 +1390,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1589,8 +1589,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1598,6 +1596,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -2059,10 +2059,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2085,10 +2085,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2422,19 +2422,19 @@ bedpost.casper.com
 operator.casper.tools
 matomo.cloud
 matomo.cloud
-*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
-*.paylution.com
+*.xoom.com
 py.pl
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2535,19 +2535,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3317,8 +3317,8 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 create.snapchat.com
+accounts.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
@@ -3545,13 +3545,13 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
+*.srvcs.tumblr.com
+simplenote.com
+simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-simplenote.com
-simperium.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
@@ -3665,14 +3665,14 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-hackerone.live
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
