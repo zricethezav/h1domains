@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 16 01:28:58 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug 16 02:12:59 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -140,10 +140,10 @@ yourdomain.freshservice.com
 http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.krisha.kz
 avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
@@ -195,9 +195,9 @@ accounts.firefox.com
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -1148,10 +1148,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
-on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 consensys.net
+activate.codefi.network
+on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1229,8 +1229,8 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 ads.reddit.com
 new.reddit.com
@@ -1390,8 +1390,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1589,8 +1589,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1598,6 +1596,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -2059,10 +2059,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2422,19 +2422,19 @@ bedpost.casper.com
 operator.casper.tools
 matomo.cloud
 matomo.cloud
-*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
-*.paylution.com
+*.xoom.com
 py.pl
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2535,19 +2535,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3035,14 +3035,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
-app.starbucks.com
 secureui.starbucks.com
+app.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
@@ -3413,15 +3413,15 @@ imagine.magento.com
 magentolive.com
 account.magento.com
 accounts.magento.cloud
-luckey.app
 m.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
+luckey.app
+luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 *.withairbnb.com
@@ -3670,10 +3670,10 @@ www.hackerone.com
 hackerone-ext-content.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone.live
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3824,9 +3824,9 @@ api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
 https://github.com/evolveum/midpoint
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
