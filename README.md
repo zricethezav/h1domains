@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 16 19:11:16 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug 16 20:12:13 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -195,9 +195,9 @@ accounts.firefox.com
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -496,9 +496,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.abritel.fr
 www.expediaagents.com
@@ -1148,10 +1148,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
-on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 consensys.net
+activate.codefi.network
+on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1231,8 +1231,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 meta-api.reddit.com
@@ -1504,9 +1504,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -1604,9 +1604,9 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
-www.pns.hk
 www.watsons.com.tw
 api.watsons.com.tw
+www10.watsons.com.my
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1943,8 +1943,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2423,23 +2423,23 @@ bedpost.casper.com
 operator.casper.tools
 matomo.cloud
 matomo.cloud
-*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
+*.xoom.com
 py.pl
+*.paylution.com
 *.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -3319,10 +3319,10 @@ shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
 create.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3546,13 +3546,13 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
+simplenote.com
+simperium.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
@@ -3671,9 +3671,9 @@ www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
