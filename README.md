@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 19 07:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 19 08:10:57 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -1504,10 +1504,10 @@ live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -1923,8 +1923,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2061,10 +2061,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2087,10 +2087,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2438,17 +2438,17 @@ matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 py.pl
+*.paylution.com
 *.xoom.com
 *.braintreepayments.com
 *.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2549,19 +2549,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 *.marcus.co.uk
 *.ayco.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3049,14 +3049,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
@@ -3200,8 +3200,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3650,9 +3650,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
