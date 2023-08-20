@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 20 10:09:10 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug 20 11:08:43 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -1590,14 +1590,14 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.ph
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2260,21 +2260,21 @@ vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
-login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2549,19 +2549,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3544,13 +3544,13 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
+simplenote.com
+simperium.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
