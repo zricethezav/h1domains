@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 21 21:09:22 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 21 22:09:21 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -195,9 +195,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -496,8 +496,8 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.abritel.fr
 www.expediaagents.com
 www.orbitz.com
@@ -1149,10 +1149,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
-on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 consensys.net
+activate.codefi.network
+on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1187,9 +1187,9 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elasticnet.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1244,8 +1244,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1301,8 +1301,8 @@ wp-dev1.chime.com
 wp-dev3.chime.com
 wp-integ.chime.com
 wp-qa.chime.com
-wp-dev4.chime.com
 *.chime.com
+wp-dev4.chime.com
 *.1debit.com
 *.chimebank.com
 *.chmfin.com
@@ -2061,10 +2061,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2087,10 +2087,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2438,17 +2438,17 @@ matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 py.pl
+*.paylution.com
 *.braintree-api.com
 *.braintreepayments.com
 *.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2549,19 +2549,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3349,9 +3349,9 @@ snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
