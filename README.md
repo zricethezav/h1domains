@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 24 19:11:06 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 24 20:10:55 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -195,9 +195,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -498,8 +498,8 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.mrjet.se
 www.hotwirepartnercentral.com
+www.mrjet.se
 www.abritel.fr
 www.expediaagents.com
 www.expediagroup.com
@@ -1686,6 +1686,8 @@ store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
+ca.account.sony.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -1696,6 +1698,8 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
+ca.account.sony.com
+my.account.sony.com
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -1748,7 +1752,7 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.es
+*.skycasino.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2029,10 +2033,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2196,9 +2200,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2517,19 +2521,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3017,14 +3021,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucksreserve.com
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
@@ -3470,12 +3474,12 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
+simplenote.com
+simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
@@ -3577,8 +3581,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3586,8 +3590,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 reviewer.pullrequest.com
+hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
 ctf.hacker101.com
