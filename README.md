@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 25 12:12:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 25 13:11:42 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -164,9 +164,9 @@ yourdomain.freshservice.com
 http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
+api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
-api.krisha.kz
 id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
@@ -522,8 +522,8 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.abritel.fr
 www.expediaagents.com
 www.expediagroup.com
@@ -969,8 +969,8 @@ api.evernote.com
 *.audicagame.com
 fallguys.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 fortnite.com
 *.3lateral.com
 *.psyonix.com
@@ -1577,13 +1577,13 @@ hackerone.affirm-odin.com
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.ph
 www.watsons.co.id
 www.iciparisxl.lu
@@ -1731,8 +1731,8 @@ burn.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
 bridge-api.matic.network
-watchgod.polygon.technology
 open-api.polygon.technology
+watchgod.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2057,10 +2057,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2256,9 +2256,9 @@ www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2452,7 +2452,6 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-*.braintreegateway.com
 paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
@@ -2461,6 +2460,7 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2572,9 +2572,9 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioclient.com
 *.gsam.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3601,9 +3601,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
