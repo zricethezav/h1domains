@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 31 14:11:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 31 15:11:36 UTC 2023)
 ```
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -221,9 +221,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -394,8 +394,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -2264,9 +2264,9 @@ www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2384,8 +2384,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2445,8 +2445,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
@@ -2553,19 +2553,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.unitedcp.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3003,13 +3003,13 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.co.uk
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 card.starbucks.com.sg
@@ -3148,9 +3148,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-*.hyperpure.com
 api2.grofers.com
 api.grofers.com
+*.hyperpure.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
@@ -3355,11 +3355,11 @@ one.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.airbnb.com
-callbacks.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 open.airbnb.com
 www.airbnb.com
+callbacks.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
