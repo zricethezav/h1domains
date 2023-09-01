@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep  1 12:12:34 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep  1 13:10:47 UTC 2023)
 ```
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -16,9 +16,9 @@ eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
-webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
+webhooks.gamma.redoxstage.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -166,8 +166,8 @@ yourdomain.freshservice.com
 http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-api.krisha.kz
 app.kolesa.kz
+api.krisha.kz
 id.kolesa.kz
 api.kolesa.kz
 app.avtoelon.uz
@@ -1385,8 +1385,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1583,7 +1583,6 @@ hackerone.affirm-odin.com
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1593,6 +1592,7 @@ www.watsons.com.ph
 www.watsons.co.id
 www.iciparisxl.lu
 www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -2063,10 +2063,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2089,10 +2089,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2230,9 +2230,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
-link.omise.co
 vault.omise.co
 dashboard.omise.co
+link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2551,19 +2551,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3001,13 +3001,13 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.co.uk
-app.starbucks.com
 secureui.starbucks.com
+app.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com
@@ -3577,12 +3577,12 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
-hackerone.live
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
