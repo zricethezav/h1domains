@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep  1 09:10:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep  1 10:09:46 UTC 2023)
 ```
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -368,10 +368,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -977,8 +977,8 @@ api.evernote.com
 *.audicagame.com
 fallguys.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 fortnite.com
 *.3lateral.com
 *.psyonix.com
@@ -1186,8 +1186,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elasticnet.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1218,8 +1218,6 @@ app.taxjar.com
 *.reckoproduction.com
 *.reckostaging.com
 *.link.co
-hackerone-m1rtuq8orz.hbstaging.website
-hackerone-m1rtuq8orz.hbstaging.website
 www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
@@ -1387,8 +1385,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1997,11 +1995,11 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
+*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2091,10 +2089,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2264,9 +2262,9 @@ res.vacations.buschgardens.com
 book.beachbound.com
 res.universalorlandovacations.com
 res.blueskytours.globalbookingsolutions.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2553,19 +2551,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3342,8 +3340,8 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 m.airbnb.com
-*.airbnb-aws.com
 *.luxuryretreats.com
+*.airbnb-aws.com
 omgpro.airbnb.com
 support-api.airbnb.com
 *.atairbnb.com
@@ -3457,17 +3455,17 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
 api.tumblr.com
 assets.tumblr.com
-intensedebate.com
 wordpress.com
+intensedebate.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
@@ -3726,6 +3724,8 @@ usna.edu
 usnwc.edu
 usuhs.edu
 westpoint.edu
+hackerone-m1rtuq8orz.hbstaging.website
+hackerone-m1rtuq8orz.hbstaging.website
 ota.helium.com
 ota.helium.com
 app.localizestaging.com
