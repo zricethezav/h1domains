@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep  2 02:12:03 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep  2 03:10:42 UTC 2023)
 ```
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -221,9 +221,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -738,8 +738,8 @@ ws.sorare.com
 *.sheingsp.com
 my.exness.com
 exnessaffiliates.com
-exness.com
 pay.ibex.exchange
+exness.com
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
@@ -1385,8 +1385,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1995,11 +1995,11 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
-*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2063,10 +2063,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2089,10 +2089,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2262,9 +2262,9 @@ res.vacations.buschgardens.com
 book.beachbound.com
 res.universalorlandovacations.com
 res.blueskytours.globalbookingsolutions.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2551,19 +2551,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3455,10 +3455,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 simplenote.com
 happy.tools
 my.pressable.com
