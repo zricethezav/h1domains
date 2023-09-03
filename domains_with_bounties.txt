@@ -1242,8 +1242,8 @@ redditforbusiness.com
 accounts.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1379,8 +1379,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -3449,10 +3449,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3571,12 +3571,12 @@ profile-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
-profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 hackerone.live
+app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
