@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  4 17:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep  4 18:10:03 UTC 2023)
 ```
-baidu.jp
 popin.cc
+baidu.jp
 creativeappnow.com
 simeji.me
 smj.io
-simejiglobal.com
 mediago.io
+simejiglobal.com
 facemojikeyboard.com
 dubox.com
 simeji.me
@@ -239,9 +239,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -1298,8 +1298,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2081,10 +2081,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2107,10 +2107,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2280,9 +2280,9 @@ book.beachbound.com
 res.universalorlandovacations.com
 res.blueskytours.globalbookingsolutions.com
 vacations.us.palladiumhotelgroup.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2569,19 +2569,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.unitedcp.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3235,9 +3235,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-shop.app
 linkpop.com
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
@@ -3592,9 +3592,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
