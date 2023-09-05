@@ -2,25 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  5 13:12:18 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep  5 14:11:15 UTC 2023)
 ```
-baidu.jp
-creativeappnow.com
 terabox.com
-smj.io
-simeji.me
-simejiglobal.com
-mediago.io
 dubox.com
-facemojikeyboard.com
-simeji.me
-facemojikeyboard.com
-mediago.io
 dubox.com
-creativeappnow.com
-simejiglobal.com
-baidu.jp
-smj.io
 terabox.com
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -35,8 +21,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -184,8 +170,8 @@ yourdomain.freshservice.com
 http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-api.krisha.kz
 app.kolesa.kz
+api.krisha.kz
 api.kolesa.kz
 id.kolesa.kz
 app.avtoelon.uz
@@ -386,10 +372,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -2007,8 +1993,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2081,10 +2067,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2222,8 +2208,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
@@ -2689,9 +2675,9 @@ insights.eu.newrelic.com
 docs.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
-developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
+developer.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
@@ -3019,13 +3005,13 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com.sg
@@ -3123,8 +3109,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
