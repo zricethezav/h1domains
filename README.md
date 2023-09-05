@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  5 15:12:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep  5 16:05:20 UTC 2023)
 ```
 terabox.com
 dubox.com
