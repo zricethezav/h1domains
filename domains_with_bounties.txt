@@ -533,8 +533,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.mrjet.se
 www.hotels.com
-www.expediagroup.com
 www.orbitz.com
+www.expediagroup.com
 www.ebookers.com
 www.flights.com
 www.travelocity.com
@@ -2006,11 +2006,11 @@ localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
-*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2067,8 +2067,6 @@ http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-*.allegro.pl.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
 codacontent.io
 codahosted.io
 https://coda.io/signup/email
@@ -2241,9 +2239,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2261,7 +2259,6 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
 reservations.wynnvacations.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
@@ -2271,11 +2268,12 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
 res.universalorlandovacations.com
-res.blueskytours.globalbookingsolutions.com
 vacations.us.palladiumhotelgroup.com
-confluence.hyattdev.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -3236,9 +3234,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3591,9 +3589,9 @@ www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3737,6 +3735,8 @@ usuhs.edu
 westpoint.edu
 ota.helium.com
 ota.helium.com
+*.allegro.pl.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
