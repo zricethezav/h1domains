@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  7 21:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep  7 22:10:33 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -213,9 +213,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-web.tide.co
 api.tide.co
 www.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -374,10 +374,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -2103,10 +2103,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2271,14 +2271,14 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
 vacations.us.palladiumhotelgroup.com
-book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
+book.booktandl.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.universalorlandovacations.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -3015,9 +3015,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
