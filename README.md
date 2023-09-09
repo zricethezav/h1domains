@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep  9 10:10:16 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep  9 11:10:16 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -230,9 +230,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -1970,8 +1970,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2015,11 +2015,11 @@ localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
-*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2107,10 +2107,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2696,9 +2696,9 @@ developer.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
 *.nr-data.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2847,8 +2847,8 @@ xtramile.grabpay.com
 manage.grab.co
 *.myteksi.com
 p.grabtaxi.com
-*.grab.com
 *.grab.co
+*.grab.com
 gamma.grab.co
 kartaview.org
 *.myteksi.net
@@ -3551,8 +3551,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -3595,10 +3595,10 @@ www.hackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
