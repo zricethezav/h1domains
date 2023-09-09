@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep  9 12:11:19 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep  9 13:10:40 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -230,9 +230,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -1970,8 +1970,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2081,10 +2081,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2274,15 +2274,15 @@ www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 vacations.us.palladiumhotelgroup.com
-res.blueskytours.globalbookingsolutions.com
 book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
 res.vacations.discoverycove.com
 res.universalorlandovacations.com
 vacations.universalstudioshollywood.com
 book.beachbound.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
