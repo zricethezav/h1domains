@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 11 19:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 11 20:11:02 UTC 2023)
 ```
 rei.com
 rei.com
@@ -92,9 +92,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.visa.com.my
 bb.visa.com
 www.currencycloud.com
+www.visa.com.my
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -238,8 +238,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -1620,7 +1620,6 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1840,8 +1839,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 chat.amazon.com
-affiliate-program.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 apay-us.amazon.com
@@ -1978,8 +1977,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2089,10 +2088,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2577,19 +2576,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3479,10 +3478,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3956,9 +3955,9 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
-harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
+harvestapp.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
