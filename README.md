@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 11 15:10:17 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 11 16:11:22 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
