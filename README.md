@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 09:10:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 10:11:30 UTC 2023)
 ```
 rei.com
 rei.com
@@ -1617,6 +1617,7 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2100,8 +2101,8 @@ booth.pm
 accounts.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
-sketch.pixiv.net
 comic.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2115,10 +2116,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2256,9 +2257,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2809,9 +2810,9 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
-*.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
+*.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3562,8 +3563,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3602,11 +3603,11 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.live
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
