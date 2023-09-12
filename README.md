@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 13:13:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 14:13:05 UTC 2023)
 ```
 rei.com
 rei.com
@@ -610,8 +610,8 @@ zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
 *.teleportinfra.sh
-*.gravitational.com
 askpam.ai
+*.gravitational.com
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1516,8 +1516,8 @@ partner.tiktokshop.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1731,9 +1731,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+store.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -2578,19 +2578,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3028,9 +3028,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3245,8 +3245,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3480,10 +3480,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 my.pressable.com
 happy.tools
 simplenote.com
@@ -3589,11 +3589,11 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
-a5s.hackerone-ext-content.com
+www.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
@@ -3958,8 +3958,8 @@ www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
