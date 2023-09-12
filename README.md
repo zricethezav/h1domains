@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 11:09:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 12:11:27 UTC 2023)
 ```
 rei.com
 rei.com
@@ -29,12 +29,12 @@ eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
-docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 explore.redoxengine.com
 evening-earth.gamma.redoxstage.com
+docs.redoxengine.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -1978,8 +1978,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2436,8 +2436,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2577,19 +2577,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3484,8 +3484,8 @@ akismet.com
 embed.tumblr.com
 simperium.com
 simplenote.com
-happy.tools
 my.pressable.com
+happy.tools
 api.tumblr.com
 assets.tumblr.com
 intensedebate.com
@@ -3597,16 +3597,16 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
+ctf.hacker101.com
 www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
