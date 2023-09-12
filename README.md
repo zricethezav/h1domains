@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 21:11:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 22:10:42 UTC 2023)
 ```
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -44,9 +44,9 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 testapi.redoxengine.com
-clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 www.redoxengine.com
+clientcert.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -409,9 +409,9 @@ api.miro.com
 http://miro.com/blog
 *.mb-cosmos.com
 cloud.malwarebytes.com
-*.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -2006,8 +2006,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2316,9 +2316,9 @@ vacations.universalstudioshollywood.com
 book.beachbound.com
 res.universalorlandovacations.com
 book.booktandl.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2497,8 +2497,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
@@ -3278,9 +3278,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3627,8 +3627,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
