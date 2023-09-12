@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 04:09:47 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 05:10:36 UTC 2023)
 ```
 rei.com
 rei.com
@@ -301,8 +301,8 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonmanage.com
-*.hiltonhotels.jp
 *.hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 hiltonbusinessonline.com
@@ -1616,6 +1616,7 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1973,8 +1974,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2084,10 +2085,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2283,9 +2284,9 @@ vacations.universalstudioshollywood.com
 book.beachbound.com
 res.universalorlandovacations.com
 book.booktandl.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2428,11 +2429,11 @@ fdbox.net
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3022,9 +3023,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3474,10 +3475,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3594,8 +3595,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
