@@ -51,7 +51,6 @@ boysweb.shaya.com.tr
 *.footlocker.com.bh
 *.bathandbodyworks.jo
 *.carrier.alshaya.com
-customercare.alshaya.com
 *.starbucks.com.tr
 *.americaneagle.com.sa
 *.americaneagle.com.eg
@@ -64,6 +63,7 @@ kuwait.kidzania.com
 *.footlocker.ae
 *.aloyoga.com.qa
 *.debenhams.com.kw
+qt.boots.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -1561,8 +1561,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -2726,12 +2726,12 @@ www.watchstationindia.com
 *.snch.org
 *.southnassau.org
 *.twix.com
+*.shoproyalcanin.com
+*.vetschoice.co.za
 *.eukanubasportingdog.com
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
 *.myroyalcanin.ro
-*.shoproyalcanin.com
-*.vetschoice.co.za
 banfield.us
 *.royalcanin.nl
 *.banfield.com
@@ -4100,9 +4100,9 @@ cache.judge.me
 *.wilmingtontrust.com
 *.trustnota.com
 *.leafnow.com
-accounts.stage.evernote.com
 api.evernote.com
 api.stage.evernote.com
+accounts.stage.evernote.com
 www.evernote.com
 accounts.evernote.com
 www.evernote.com
@@ -4663,8 +4663,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-*sd.invio.dev
-*mycslink.org
 *Hmhrx.net
 *Hmhrx.org
 *Huntingtonhealtheconnect.net
@@ -4673,6 +4671,8 @@ www.urbanclap.com
 *sgveconnect.org
 *huntingtonhospital.com
 *huntingtonhospital.net
+*mycslink.org
+*sd.invio.dev
 *csmc.edu
 *hhphysicians.org
 *ourstory.huntingtonhospital.com/
@@ -6428,8 +6428,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-relaxcdn.unibet.com
 unibet.me
+relaxcdn.unibet.com
 *.highrolling.nu
 *.unibet.fr
 *.kolikkopelit.com
@@ -6480,8 +6480,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -7672,9 +7672,9 @@ vacations.universalstudioshollywood.com
 book.beachbound.com
 res.universalorlandovacations.com
 book.booktandl.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -8781,8 +8781,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -9239,8 +9239,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
@@ -9429,8 +9429,8 @@ ns1.jimdo.com
 ns12.jimdo.com
 dash.e.jimdo.com
 cms-backend.jimdosite.com
-help.jimdo.com
 *.jimdo.systems
+help.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com
 *.jimdo-data-platform.net
