@@ -39,8 +39,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 testapi.redoxengine.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 clientcert.gamma.redoxstage.com
+www.redoxengine.com
 blob.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -86,7 +86,6 @@ www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
 www.visa.com.cn
-www.visa.com.lc
 www.visa.com.ph
 visa.com.ua
 www.visa.co.jp
@@ -96,6 +95,7 @@ www.visa.com.tw
 www.visa.com.hk
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
+www.visa.com.lc
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -2137,10 +2137,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2329,7 +2329,6 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
@@ -2342,6 +2341,7 @@ holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
 book.extraholidaysvacations.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3501,10 +3501,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 my.pressable.com
 happy.tools
 simplenote.com
@@ -3619,10 +3619,10 @@ a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
-profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
+profile-photos.hackerone-user-content.com
+www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
