@@ -2,8 +2,19 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 14 08:11:36 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 14 09:11:45 UTC 2023)
 ```
+prismalabsteam.com
+lensa-ai.com
+prisma-ai.com
+neuralprisma.com
+appapi.neuralprisma.com
+neuralprisma.com
+prismalabsteam.com
+lensa-ai.com
+prisma-ai.com
+appapi.neuralprisma.com
+https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -871,8 +882,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1278,9 +1289,9 @@ meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1628,6 +1639,8 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1635,8 +1648,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -2606,10 +2617,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2626,12 +2637,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -2861,9 +2872,9 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.semrush.com
 *.scatec.io
 *.sellzone.com
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3275,8 +3286,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 *.shopify.com
 shopify.plus
@@ -3615,9 +3626,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3865,15 +3876,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
