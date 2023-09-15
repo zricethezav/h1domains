@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 15 02:16:39 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 15 03:10:40 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -1197,10 +1197,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-consensys.net
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
+consensys.net
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1248,8 +1248,8 @@ www.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.stripe.com
 *.reckoproduction.com
+*.stripe.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
@@ -1809,9 +1809,9 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.mi.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2617,10 +2617,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2637,12 +2637,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2740,12 +2740,12 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
-*.nr-ops.net
-insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3326,8 +3326,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3567,10 +3567,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
