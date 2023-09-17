@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 17 17:09:58 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep 17 18:14:10 UTC 2023)
 ```
 prismalabsteam.com
 lensa-ai.com
@@ -1310,8 +1310,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1481,9 +1481,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1613,14 +1613,14 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www.kruidvat.be
 app.marionnaud.cz
@@ -2140,11 +2140,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2295,17 +2295,16 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-login.www.vaxvacationaccess.com
 res.secretsresorts.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
@@ -2317,6 +2316,7 @@ vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
+login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2324,14 +2324,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 hyatt.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2591,10 +2591,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2611,12 +2611,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2714,12 +2714,12 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3041,11 +3041,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3430,8 +3430,8 @@ next.airbnb.com
 *.byairbnb.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
@@ -3510,8 +3510,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3541,10 +3541,10 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
@@ -3640,9 +3640,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
