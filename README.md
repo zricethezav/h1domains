@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 17 04:10:24 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep 17 05:10:31 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -1263,9 +1263,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1897,9 +1897,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3041,11 +3041,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
