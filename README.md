@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 18 06:09:47 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 18 07:10:26 UTC 2023)
 ```
 prismalabsteam.com
 lensa-ai.com
@@ -495,8 +495,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.superbet.com
 *.superbet.ro
 *.luckydays.ca
@@ -1263,9 +1263,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1481,9 +1481,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1613,14 +1613,14 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www.kruidvat.be
 app.marionnaud.cz
@@ -1895,11 +1895,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
-*.1688.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2295,13 +2295,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2324,14 +2324,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 hyatt.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2714,12 +2714,12 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
-*.nr-ops.net
-insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
