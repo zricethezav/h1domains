@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 18 13:13:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 18 14:10:50 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -18,8 +18,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 xero-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -1289,9 +1289,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1302,8 +1302,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1507,9 +1507,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2518,8 +2518,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2617,9 +2617,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2637,12 +2637,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -3067,11 +3067,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3326,8 +3326,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3567,10 +3567,10 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
@@ -3640,8 +3640,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3666,28 +3666,28 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
+reviewer.pullrequest.com
+hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-hackerone-ext-content.com
-reviewer.pullrequest.com
 www.hackerone.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
