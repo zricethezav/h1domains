@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 20 20:12:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 20 21:10:36 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -102,8 +102,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1295,9 +1295,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1585,6 +1585,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1648,13 +1649,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -2176,11 +2177,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2750,11 +2751,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-data.net
-*.nr-ops.net
 insights.newrelic.com
+*.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
@@ -3036,8 +3037,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 store.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
