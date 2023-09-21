@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 21 09:10:56 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 21 10:10:58 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -13,8 +13,8 @@ nicex.com
 https://api-test.nicex.com
 https://api-test.nicehash.com
 prismalabsteam.com
-lensa-ai.com
 prisma-ai.com
+lensa-ai.com
 neuralprisma.com
 appapi.neuralprisma.com
 neuralprisma.com
@@ -57,6 +57,7 @@ http://rei.com/learn/expert-advice
 http://rei.com/events
 www.coinhako.com
 www.coinhako.com
+http://qa.gbu-alert.com/
 www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
@@ -529,8 +530,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.superbet.com
 *.superbet.ro
 *.luckydays.ca
@@ -1447,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1513,9 +1514,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1649,13 +1650,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -1987,8 +1988,8 @@ unibet.me
 *.kolikkopelit.com
 maria.casino
 *.mariacasino.com
-*.unibet.com
 *.kindredext.net
+*.unibet.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
@@ -2325,13 +2326,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2354,14 +2355,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 book.extraholidaysvacations.com
 hyatt.com
@@ -2744,11 +2745,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-insights.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
@@ -3417,9 +3418,9 @@ story.snapchat.com
 ispdesign.ui.com
 ca.store.ui.com
 community.ui.com
-account.ui.com
 rma.ui.com
 careers.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
@@ -3688,8 +3689,8 @@ cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3928,15 +3929,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
