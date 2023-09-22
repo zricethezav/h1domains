@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 22 09:10:49 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 22 10:11:05 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -1296,9 +1296,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1514,9 +1514,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1604,8 +1604,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1650,13 +1650,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -1993,9 +1993,9 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
 *.kes.kindredext.net
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2067,6 +2067,14 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
+app.localizestaging.com
+localizestaging.com
+cdn.localizestaging.com
+api.localizestaging.com
+localizestaging.com
+api.localizestaging.com
+app.localizestaging.com
+cdn.localizestaging.com
 lifeology.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
@@ -2170,11 +2178,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2744,11 +2752,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-data.net
-*.nr-ops.net
 insights.newrelic.com
+*.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
@@ -2936,8 +2944,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 www.bumble.com
-badoo.com
 ccardseu1.badoo.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3668,9 +3676,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3833,14 +3841,6 @@ usuhs.edu
 westpoint.edu
 ota.helium.com
 ota.helium.com
-app.localizestaging.com
-localizestaging.com
-cdn.localizestaging.com
-api.localizestaging.com
-localizestaging.com
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
 *.allegro.pl.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 https://github.com/evolveum/midpoint
