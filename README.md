@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 23 04:09:13 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 23 05:08:35 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -1296,9 +1296,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1650,13 +1650,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -2142,9 +2142,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 booth.pm
@@ -3079,11 +3079,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3371,7 +3371,6 @@ login.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
-map.snapchat.com
 www.bitmoji.com
 store.snapchat.com
 business.snapchat.com
@@ -3380,6 +3379,7 @@ snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 my.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
