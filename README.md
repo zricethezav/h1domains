@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 24 14:10:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep 24 15:10:18 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -285,10 +285,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -589,9 +589,9 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.orbitz.com
 www.mrjet.se
 www.expediagroup.com
+www.orbitz.com
 www.flights.com
 www.travelocity.com
 www.vrbo.com
@@ -1296,9 +1296,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1448,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1514,9 +1514,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2543,8 +2543,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2979,9 +2979,9 @@ app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
-www.dashlane.com
 app.dashlane.com
 logs.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -3230,8 +3230,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
-*.zomato.com
 winecellar.zomato.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3927,15 +3927,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
