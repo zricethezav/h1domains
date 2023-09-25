@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 25 07:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 25 08:11:41 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -1296,9 +1296,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2178,11 +2178,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -3377,9 +3377,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 my.snapchat.com
-map.snapchat.com
 app.snapchat.com
 www.bitmoji.com
+map.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3675,9 +3675,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
 hackerone-user-content.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
