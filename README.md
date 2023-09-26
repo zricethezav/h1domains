@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 26 20:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 26 21:10:42 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -509,6 +509,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 *.8x8cloud.net
 pay.8x8.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -534,6 +535,7 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
+admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.com
@@ -1208,11 +1210,11 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 staking-uat.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1300,9 +1302,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1518,9 +1520,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1622,9 +1624,9 @@ wiki.cs.money
 3d.cs.money
 app.faraday.io
 app.faraday.io
-www.aiven.io
 help.aiven.io
 api.aiven.io
+www.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -2546,9 +2548,9 @@ api.loanbuilder.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3083,11 +3085,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3935,15 +3937,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
