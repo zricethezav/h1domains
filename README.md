@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 26 00:21:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 26 01:32:14 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -289,10 +289,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1518,9 +1518,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2644,7 +2644,6 @@ apigw.foliofn.com
 *.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
-*.goldmansachs.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2653,6 +2652,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -3471,9 +3471,9 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
-www.hoteltonight.com
 *.hoteltonight-test.com
 *.airbnb.com
+www.hoteltonight.com
 api.airbnb.com
 assets.airbnb.com
 callbacks.airbnb.com
