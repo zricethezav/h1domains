@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 26 19:11:18 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 26 20:10:06 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -77,8 +77,8 @@ eets-sftp-listener.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
-10x.redoxengine.com
 help.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
@@ -1111,8 +1111,8 @@ wonderboxdev.com
 capturingreality.com
 *.tinder.com
 *.tinderops.net
-*.gotinder.com
 *.tstaging.com
+*.gotinder.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -1300,9 +1300,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1452,8 +1452,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2535,8 +2535,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2633,9 +2633,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2651,11 +2651,11 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
-research.gs.com
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3702,9 +3702,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 hackerone.live
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3935,15 +3935,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
