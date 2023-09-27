@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 27 16:12:09 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 27 17:11:00 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -318,16 +318,16 @@ shavar.services.mozilla.com
 phabricator.allizom.org
 support.mozilla.org
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 getpocket.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -379,8 +379,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1302,9 +1302,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2635,9 +2635,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2655,9 +2655,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2758,10 +2758,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -3348,9 +3348,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
