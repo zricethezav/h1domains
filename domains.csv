@@ -431,8 +431,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-aven_response,my.aven.com,False
 aven_response,*.aven.com,False
+aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
 aven_response,aven.com,False
 aven_response,*.aven.com,False
@@ -3099,9 +3099,9 @@ kayak,www.momondo.com,True
 kayak,www.hotelscombined.com,True
 kayak,www.checkfelix.com,True
 kayak,business.kayak.com,True
-kayak,www.kayak.com,True
 kayak,www.cheapflights.com,True
 kayak,www.swoodoo.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -4107,6 +4107,9 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4115,9 +4118,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -4666,9 +4666,9 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
-reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
@@ -5456,9 +5456,9 @@ citrix,(yoursubdomain).sf-api.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -6161,8 +6161,8 @@ picsart,stage.optifyr.com,False
 picsart,optifyr.com,False
 picsart,upload.picsart.com,False
 picsart,console.picsart.io,False
-kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
+kindred_group,relaxcdn.unibet.com,False
 kindred_group,*.highrolling.nu,True
 kindred_group,*.kolikkopelit.com,True
 kindred_group,*.unibet.fr,True
@@ -7754,9 +7754,9 @@ arkadiyt-projects,*.arkadiyt.com,False
 arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
+goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
-goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -7774,9 +7774,9 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.nextcapital.com,True
-goldmansachs,research.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
+goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
@@ -8931,8 +8931,8 @@ cloudflare,*.teams.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
-cloudflare,waf.cumulusfire.net,True
 cloudflare,api.cloudflare.com,True
+cloudflare,waf.cumulusfire.net,True
 cloudflare,dash.cloudflare.com,True
 cloudflare,dash.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
@@ -9322,9 +9322,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
