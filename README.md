@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 27 09:11:19 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 27 10:11:16 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -107,8 +107,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -490,7 +490,6 @@ work.8x8.com
 *.jitsi.net
 *.8x8.vc
 sso.8x8.com
-*.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -498,6 +497,7 @@ user-profile-staging.8x8.com
 *.8x8.id
 cloud8.8x8.com
 *.chalet.8x8.com
+*.jit.si
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -538,8 +538,8 @@ pay.8x8.com
 admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1454,8 +1454,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1673,7 +1673,6 @@ app.marionnaud.ro
 www.marionnaud.sk
 www10.watsons.com.my
 api.watsons.com.hk
-api.watsons.co.id
 app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
@@ -1894,6 +1893,7 @@ faucet.polygon.technology
 *.betsharedservices.io
 *.sportinglife.com
 *.paddypartners.com
+*.dibz.co.uk
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
@@ -2339,12 +2339,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2367,14 +2367,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 book.extraholidaysvacations.com
 assets.hyatt.com
@@ -2758,10 +2758,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
