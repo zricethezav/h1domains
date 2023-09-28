@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 28 17:10:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 28 18:10:43 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
+test.nicex.com
 test.nicehash.com
-nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
-nicex.com
 https://api-test.nicex.com
 https://api-test.nicehash.com
+test.nicex.com
 prismalabsteam.com
 lensa-ai.com
 prisma-ai.com
@@ -1049,7 +1049,6 @@ wonderboxdev.com
 *.psyonix.com
 *.bcbits.com
 *.dropmix.com
-www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -1076,16 +1075,11 @@ twinmotion.unrealengine.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
-*.bandcamp.com
-isitbandcampfriday.com
 *.bcbits.com
 *.amplitude-game.com
 *.audicagame.com
 *.dancecentral.com
 *.dropmix.com
-ps3-meta.rockband.com
-www.rockband4.com
-*.rockbandvr.com
 *.singspacegame.com
 *.harmonixmusic.com
 *.hmxservices.com
@@ -1454,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2616,9 +2610,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2636,9 +2630,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3066,11 +3060,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3329,9 +3323,9 @@ partners.shopify.com
 shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3369,8 +3363,8 @@ app.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
