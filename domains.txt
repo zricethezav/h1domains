@@ -2286,8 +2286,8 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
-*.expedia.com
 *.orbitz.com
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -2958,8 +2958,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -6160,8 +6160,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-relaxcdn.unibet.com
 unibet.me
+relaxcdn.unibet.com
 *.highrolling.nu
 *.kolikkopelit.com
 *.unibet.fr
@@ -6922,8 +6922,8 @@ simfyafrica.mobi
 ayo.ba
 downloads.datastax.com
 www.datastax.com
-docs.datastax.com
 astra.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -8534,8 +8534,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com

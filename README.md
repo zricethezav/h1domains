@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 29 22:10:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 29 23:10:26 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -2086,8 +2086,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-docs.datastax.com
 astra.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3297,8 +3297,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com

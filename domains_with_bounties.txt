@@ -2080,8 +2080,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-docs.datastax.com
 astra.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3291,8 +3291,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
