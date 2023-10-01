@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct  1 15:10:05 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct  1 16:10:37 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -1299,9 +1299,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1517,9 +1517,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2157,10 +2157,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2590,9 +2590,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2610,9 +2610,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2713,10 +2713,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 *.nr-data.net
 one.newrelic.com
