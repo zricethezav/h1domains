@@ -2085,7 +2085,6 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -2093,6 +2092,7 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
@@ -3394,8 +3394,8 @@ costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
 mondelez,missionebonta.fattorieosella.it,False
-mondelez,createatreat.com,False
 mondelez,mueller.milka.de,False
+mondelez,createatreat.com,False
 mondelez,philadelphia.gr,False
 mondelez,oreoitalia.it,False
 mondelez,oreo.ru,False
@@ -3435,8 +3435,8 @@ mondelez,marabou.fi,False
 mondelez,saboresconjuego.es,False
 mondelez,ejackson.co.uk,False
 mondelez,oboy.fi,False
-mondelez,sourpatchkids.com,False
 mondelez,pt.cocoalife.org,False
+mondelez,sourpatchkids.com,False
 mondelez,greenandblacks.co.uk,False
 mondelez,opavia.info,False
 mondelez,perfectsnacks.com,False
@@ -4106,6 +4106,9 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4114,9 +4117,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -4665,9 +4665,9 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
+reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
@@ -6159,8 +6159,8 @@ picsart,stage.optifyr.com,False
 picsart,optifyr.com,False
 picsart,upload.picsart.com,False
 picsart,console.picsart.io,False
-kindred_group,unibet.me,True
 kindred_group,relaxcdn.unibet.com,False
+kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
 kindred_group,*.kolikkopelit.com,True
 kindred_group,*.unibet.fr,True
@@ -7028,10 +7028,10 @@ forescout_technologies,mgmt-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
+forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
-forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
@@ -7839,10 +7839,10 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,one.newrelic.com,True
@@ -8230,11 +8230,11 @@ portswigger,portswigger.net,True
 portswigger,portswigger.net,True
 portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
-starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
+starbucks,cart.starbucks.co.jp,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
@@ -8980,8 +8980,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -9006,9 +9006,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
@@ -9279,9 +9279,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
+nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
-nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
