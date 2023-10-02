@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  2 14:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  2 15:11:37 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -890,8 +890,8 @@ pgg11o.hubspot.databricks.com
 waf-test.corp.databricks.com
 docs.delta.io
 accounts.cloud.databricks.com
-staging.spark-summit.org
 databricks.com
+staging.spark-summit.org
 connect.databricks.com
 go.corp.databricks.com
 gw1-eu.corp.databricks.com
@@ -1273,9 +1273,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1425,8 +1425,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1537,11 +1537,13 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+www.pangleglobal.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+*.tiktokv.com
+academy-outbound-ads.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1557,6 +1559,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
+academy-outbound-ads.tiktok.com
+www.pangleglobal.com
 www.logitech.com.cn
 www.logitechg.com
 circle.logi.com
@@ -1963,8 +1967,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.unibet.com
 *.kindredext.net
+*.unibet.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
@@ -2037,8 +2041,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2268,12 +2272,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2296,14 +2300,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 assets.hyatt.com
 book.extraholidaysvacations.com
@@ -2564,9 +2568,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2584,9 +2588,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2687,10 +2691,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3147,8 +3151,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-*.gitlab.org
 gitlab.com
+*.gitlab.org
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3663,8 +3667,8 @@ hackerone.live
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -3931,15 +3935,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
