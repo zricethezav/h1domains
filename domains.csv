@@ -2271,8 +2271,8 @@ expediagroup,*.hoteis.com,False
 expediagroup,*.vrbo.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
-expediagroup,*.expedia.com,False
 expediagroup,*.orbitz.com,False
+expediagroup,*.expedia.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -2981,8 +2981,8 @@ planetart,www.personalcreations.com,False
 planetart,ai.planetart.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
+planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
@@ -4653,9 +4653,9 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
-reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
@@ -7022,10 +7022,10 @@ forescout_technologies,mgmt-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
+forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
-forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
@@ -7586,9 +7586,9 @@ paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.xoom.com,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.braintreepayments.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7705,9 +7705,9 @@ arkadiyt-projects,*.arkadiyt.com,False
 arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
+goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
-goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -7725,9 +7725,9 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.nextcapital.com,True
-goldmansachs,research.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
+goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
@@ -9301,9 +9301,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False

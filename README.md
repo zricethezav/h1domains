@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  3 03:10:35 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct  3 04:10:42 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -1285,9 +1285,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2147,10 +2147,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2471,9 +2471,9 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.xoom.com
 py.pl
-*.braintreepayments.com
 *.paylution.com
 *.braintree-api.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2580,9 +2580,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2600,9 +2600,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
