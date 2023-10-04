@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct  4 07:10:28 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct  4 08:12:31 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -275,10 +275,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -460,8 +460,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -594,8 +594,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediapartnercentral.com
 www.wotif.com
 www.ebookers.fi
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 askpam.ai
 cloud.gravitational.io
-*.teleportinfra.sh
 *.teleport.dev
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1285,9 +1285,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2147,10 +2147,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2284,12 +2284,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2312,14 +2312,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 world.hyatt.com
 assets.hyatt.com
 book.extraholidaysvacations.com
@@ -2703,10 +2703,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 *.newrelic.com
 one.newrelic.com
@@ -3030,11 +3030,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3417,9 +3417,9 @@ next.airbnb.com
 *.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.muscache.com
 api.airbnb.com
 assets.airbnb.com
@@ -3607,8 +3607,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
