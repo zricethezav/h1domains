@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  5 14:10:45 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct  5 15:10:37 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
 *.teleport.dev
-*.teleportinfra.sh
 askpam.ai
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1437,8 +1437,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1888,8 +1888,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2600,9 +2600,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2703,10 +2703,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 *.newrelic.com
 one.newrelic.com
@@ -3293,9 +3293,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3947,15 +3947,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
