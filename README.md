@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  7 12:09:34 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct  7 13:08:40 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -473,9 +473,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -582,8 +582,8 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.hotels.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.ebookers.com
 www.vrbo.com
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 *.teleport.dev
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1285,9 +1285,9 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1437,8 +1437,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2147,10 +2147,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2511,9 +2511,9 @@ api.loanbuilder.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2721,10 +2721,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3048,11 +3048,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
