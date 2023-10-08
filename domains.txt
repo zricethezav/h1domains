@@ -1754,8 +1754,8 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.hilton.io
 *.hiltonhotels.jp
+*.hilton.io
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
@@ -2949,8 +2949,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -3257,9 +3257,9 @@ www.alohi.com
 *.bhgre.*
 *.era.com
 *.century21.*
-*.nrtllc.*
 *.corcoran.*
 *.sothebysrealty.*
+*.nrtllc.*
 *.realogy.*
 *.cbcworldwide.*
 *.mycbdesk.com
@@ -4100,9 +4100,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4111,6 +4108,9 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 parts.deere.africa
@@ -4521,9 +4521,9 @@ greece.zebra.com
 *.zams-eu.zebra.com
 *.zebrasports.com
 *.profitect.com
+supportcommunity.zebra.com
 cmm01.sl.zebra.com
 zsbsupport.zebra.com
-supportcommunity.zebra.com
 reflexisinc.com/
 *.zams.zebra.com
 zebratradeinprogram.com
@@ -6044,9 +6044,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -6167,8 +6167,8 @@ relaxcdn.unibet.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.bingo.com
 *.unibet.fr
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -6431,8 +6431,8 @@ get8x8.com
 *.thinkingphones.com
 *.8x8cloud.net
 admin.8x8.com
-connect.8x8.com
 *.8x8.com
+connect.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -7029,10 +7029,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -7750,9 +7750,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -8019,8 +8019,8 @@ api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.berush.com
-*.semrush.net
 *.prowly.com
+*.semrush.net
 workflows.semrush.com
 *.seoquake.com
 *.scatec.io
@@ -8685,8 +8685,8 @@ accounts.frame.io
 magento.com
 theblog.adobe.com
 app.frame.io
-firefly.adobe.com
 *.adobe.com
+firefly.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -8888,8 +8888,8 @@ app.interseller.io
 www.greenhouse.io
 twitterflightschool.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -9037,8 +9037,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 www.hackerone.com
-reviewer.pullrequest.com
 ctf.hacker101.com
+reviewer.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net

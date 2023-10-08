@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct  8 08:10:19 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct  8 09:08:57 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -336,8 +336,8 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.hilton.io
 *.hiltonhotels.jp
+*.hilton.io
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
@@ -1919,9 +1919,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -1975,8 +1975,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.bingo.com
 *.unibet.fr
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -2147,10 +2147,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3518,8 +3518,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3662,8 +3662,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 www.hackerone.com
-reviewer.pullrequest.com
 ctf.hacker101.com
+reviewer.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
