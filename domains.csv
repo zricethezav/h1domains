@@ -456,8 +456,8 @@ redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
-redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
+redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
 redox_bbp,testapp.redoxengine.com,True
@@ -1908,8 +1908,8 @@ abb,*.cylon.com,False
 abb,*.abb.com.cn,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.abb,False
 abb,*.abb.com,False
 abb,*.abb,False
@@ -2301,8 +2301,8 @@ expediagroup,*.mrjet.se,False
 expediagroup,china.airasiago.com,False
 expediagroup,*.travelocity.com,False
 expediagroup,*.abritel.fr,False
-expediagroup,*.hotwire.com,False
 expediagroup,*.expediagroup.com,False
+expediagroup,*.hotwire.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -2374,8 +2374,8 @@ teleport,*.gravitational.com,True
 teleport,*.gravitational.co,True
 teleport,*.teleport.dev,True
 teleport,askpam.ai,True
-teleport,cloud.gravitational.io,True
 teleport,*.teleportinfra.sh,True
+teleport,cloud.gravitational.io,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
@@ -3235,8 +3235,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,*.instacart.tools,True
 instacart,www.instacart.com,True
+instacart,*.instacart.tools,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -3258,8 +3258,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.era.com,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
@@ -3389,8 +3389,8 @@ costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
 mondelez,missionebonta.fattorieosella.it,False
-mondelez,mueller.milka.de,False
 mondelez,createatreat.com,False
+mondelez,mueller.milka.de,False
 mondelez,philadelphia.gr,False
 mondelez,oreoitalia.it,False
 mondelez,oreo.ru,False
@@ -3431,8 +3431,8 @@ mondelez,cadburyworld.co.uk,False
 mondelez,saboresconjuego.es,False
 mondelez,ejackson.co.uk,False
 mondelez,oboy.fi,False
-mondelez,pt.cocoalife.org,False
 mondelez,sourpatchkids.com,False
+mondelez,pt.cocoalife.org,False
 mondelez,greenandblacks.co.uk,False
 mondelez,opavia.info,False
 mondelez,perfectsnacks.com,False
@@ -5390,8 +5390,8 @@ exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,www.yotisign.com,True
 yoti,api.yoti.com,True
+yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
@@ -5457,9 +5457,9 @@ citrix,(yoursubdomain).sf-api.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -6181,8 +6181,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
-kindred_group,www.32red.com,True
 kindred_group,*.vladcazino.ro,True
+kindred_group,www.32red.com,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.storspiller.com,True
@@ -6433,8 +6433,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,admin.8x8.com,False
-8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
+8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -6547,7 +6547,6 @@ mtn_group,mtngaming.com,False
 mtn_group,mtnwireless.net,False
 mtn_group,mtnpromosite.com,False
 mtn_group,mtnhelloworld.mobi,False
-mtn_group,aimco.co.ke,False
 mtn_group,mtn.digital,False
 mtn_group,mtn.wtf,False
 mtn_group,mtngo.net,False
@@ -7031,10 +7030,10 @@ forescout_technologies,mgmt-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
+forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
-forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
@@ -7860,10 +7859,10 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,*.nr-data.net,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
@@ -8021,8 +8020,8 @@ localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
 semrush,*.berush.com,False
-semrush,*.semrush.net,True
 semrush,*.prowly.com,False
+semrush,*.semrush.net,True
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,*.scatec.io,True
@@ -8687,8 +8686,8 @@ adobe,accounts.frame.io,False
 adobe,magento.com,True
 adobe,theblog.adobe.com,False
 adobe,app.frame.io,False
-adobe,*.adobe.com,False
 adobe,firefly.adobe.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -9326,9 +9325,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
