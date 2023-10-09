@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  9 09:10:41 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  9 10:09:25 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -816,7 +816,6 @@ delta.app
 push-demo-lightstreamer.cloud.etoro.com
 push-d-hap.cloud.etoro.com
 www.etoro.com
-aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -824,6 +823,7 @@ tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
 etoropartners.com
+aggregator.etoro.com
 api.etoro.com
 billing.etoro.com
 charts.etoro.com
@@ -1285,11 +1285,11 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
-*.reddit.com
 gateway.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1503,9 +1503,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2145,10 +2145,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2299,12 +2299,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 confluence.hyattdev.com
@@ -2328,14 +2328,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2616,9 +2616,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3309,9 +3309,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3349,8 +3349,8 @@ snappublisher.snapchat.com
 app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3465,10 +3465,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-vhx.tv
 *.magisto.com
 *.livestream.com
 api.vhx.tv
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3516,8 +3516,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3652,8 +3652,8 @@ hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -3945,15 +3945,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
