@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 11 16:12:11 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 11 17:10:52 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -673,8 +673,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1457,8 +1457,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2639,12 +2639,12 @@ goldmansachsindices.com
 *.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.goldmansachs.com
 *.nextcapital.com
 *.vennhypotheken.nl
+*.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2745,10 +2745,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -2937,8 +2937,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
