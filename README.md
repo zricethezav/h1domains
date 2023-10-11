@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 11 08:14:12 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 11 09:11:42 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -303,10 +303,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -609,9 +609,9 @@ www.hotels.com
 www.expediagroup.com
 www.abritel.fr
 www.orbitz.com
-www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
+www.hotwirepartnercentral.com
 www.travelocity.com
 www.vrbo.com
 www.flights.com
@@ -1523,9 +1523,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1660,7 +1660,6 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.hk
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
@@ -1672,7 +1671,7 @@ www10.watsons.com.ph
 mapi-sim.fortress.com.hk
 www.watsons.com.tr
 www.marionnaud.fr
-www.kruidvat.be
+www10.watsons.com.hk
 www.kruidvat.nl
 www.pns.hk
 api.iciparisxl.lu
@@ -1680,7 +1679,6 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
-www10.watsons.com.my
 api.watsons.com.tw
 www.watsons.com.tw
 api.watsons.co.id
@@ -1754,6 +1752,7 @@ api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
 blog.watsons.com.tr
+https://www.kruidvat.nl/fotoservice
 chat.clario.co
 dl.clario.co
 event.clario.co
@@ -1986,8 +1985,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -2171,10 +2170,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2325,12 +2324,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 confluence.hyattdev.com
@@ -2354,14 +2353,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2640,9 +2639,9 @@ goldmansachsindices.com
 *.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3674,8 +3673,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3956,15 +3955,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
