@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 13 14:10:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 13 15:09:29 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -48,9 +48,7 @@ connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
-ob.gocardless.com
 oauth-sandbox.gocardless.com
-bankaccountdata.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
 manage-sandbox.gocardless.com
@@ -67,8 +65,6 @@ connect-sandbox.gocardless.com
 www.gocardless.com
 oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
-bankaccountdata.gocardless.com
-ob.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -297,17 +293,17 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 hg.mozilla.org
 crash-reports.allizom.org
@@ -490,8 +486,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1310,8 +1306,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1509,10 +1505,10 @@ launchpad.37signals.com
 world.hey.com
 *.browser.cloud.com
 sf-rp-eu.sharefile.com
-api.sharefile.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 accounts.cloud.com
+api.sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.eu
@@ -2169,10 +2165,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2744,10 +2740,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3334,8 +3330,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3672,8 +3668,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3684,8 +3680,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
@@ -3954,15 +3950,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
