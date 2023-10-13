@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 13 13:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 13 14:10:48 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -304,12 +304,12 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
-hg.mozilla.org
 contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 addons.allizom.org
+hg.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
@@ -333,10 +333,10 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 support.mozilla.org
-hg.mozilla.org
 relay.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -490,8 +490,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -503,9 +503,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -609,11 +609,11 @@ hv-mtl.com
 www.mrjet.se
 www.hotels.com
 www.expediagroup.com
-www.orbitz.com
 www.expediapartnersolutions.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.expediaagents.com
+www.orbitz.com
 www.travelocity.com
 www.vrbo.com
 www.ebookers.com
@@ -1523,9 +1523,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1999,8 +1999,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.unibet.fr
 *.bingo.com
+*.unibet.fr
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -2169,10 +2169,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2626,10 +2626,10 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.ayco.com
 *.marcus.co.uk
 *.goldman.com
+*.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -2821,8 +2821,8 @@ plaid.com
 *.securecircle.com
 www.crowdstrike.com
 *.humio.com
-*.crowdstrike.com
 www.crowdstrike.org
+*.crowdstrike.com
 hybrid-analysis.com
 falcon-sandbox.com
 *.preempt.com
@@ -3071,11 +3071,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3334,9 +3334,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 accounts.shopify.com
 admin.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3578,9 +3578,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-www.tumblr.com
 *.tumblr.com
 mailpoet.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3672,8 +3672,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3684,8 +3684,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
