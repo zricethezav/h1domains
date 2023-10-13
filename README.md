@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 13 15:09:29 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 13 16:11:32 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -300,10 +300,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 hg.mozilla.org
 crash-reports.allizom.org
@@ -1519,9 +1519,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1980,8 +1980,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -3067,11 +3067,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3330,9 +3330,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3680,8 +3680,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
