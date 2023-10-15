@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 15 17:09:58 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 15 18:10:40 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -499,8 +499,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
+*.8x8.vc
 connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1255,8 +1255,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.elstc.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1297,8 +1297,8 @@ api.reddit.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
@@ -2165,10 +2165,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -3950,15 +3950,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
