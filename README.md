@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 16 05:10:19 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 16 06:11:33 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -304,8 +304,8 @@ shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 hg.mozilla.org
+addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
@@ -671,8 +671,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1306,8 +1306,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -2319,12 +2319,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 confluence.hyattdev.com
@@ -2348,14 +2348,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2467,8 +2467,8 @@ login.tvg.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
-sportsbook.fanduel.com
 fdbox.net
+sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
