@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 16 14:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 16 15:10:07 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -300,10 +300,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 crash-reports.allizom.org
@@ -1040,7 +1040,6 @@ www.evernote.com
 accounts.evernote.com
 api.evernote.com
 *.unrealtournament.com
-*.easy.ac
 *.mediatonic.co.uk
 *.rukkaz.com
 *.jellychat.com
@@ -1052,6 +1051,7 @@ wonderboxdev.com
 fortnite.com
 capturingreality.com
 fallguys.com
+*.easy.ac
 *.3lateral.com
 *.psyonix.com
 *.dropmix.com
@@ -1253,8 +1253,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.elstc.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1304,8 +1304,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1501,12 +1501,12 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-*.browser.cloud.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 accounts.cloud.com
 api.sharefile.com
+*.browser.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.eu
@@ -1517,9 +1517,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1965,9 +1965,9 @@ www.alibabagroup.com
 www.mini.de
 configure.bmw.de
 www.bmw.de
-configure.mini.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2622,8 +2622,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.ayco.com
 *.marcus.co.uk
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -2738,10 +2738,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3065,11 +3065,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3329,8 +3329,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3484,10 +3484,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-api.vhx.tv
 *.magisto.com
 vhx.tv
 *.livestream.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3639,8 +3639,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3950,15 +3950,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
