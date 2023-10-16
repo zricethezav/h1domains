@@ -1673,10 +1673,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 crash-reports.allizom.org
@@ -2984,8 +2984,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -4822,8 +4822,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -4938,8 +4938,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.testglovo.com
 *.glovoapp.com
-*.glovostore.com
 *.glovoint.com
+*.glovostore.com
 *.glovoapp.com
 *.glovoint.com
 *.glovostore.com
@@ -5647,8 +5647,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -6307,8 +6307,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-relaxcdn.unibet.com
 unibet.me
+relaxcdn.unibet.com
 *.highrolling.nu
 *.kolikkopelit.com
 *.bingo.com
@@ -6388,8 +6388,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7546,8 +7546,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -9463,9 +9463,9 @@ web.uphabit.com
 api.uphabit.com
 api.uphabit.com
 web.uphabit.com
-www.nuri.com
 www.bitwala.com
 api.app.bitwala.com
+www.nuri.com
 api.app.nuri.com
 app.bitwala.com
 app.nuri.com

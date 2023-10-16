@@ -1674,10 +1674,10 @@ mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
+mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
-mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
@@ -2985,8 +2985,8 @@ trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
-tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
+tokenweb3,*.tokensvc.com,False
 tokenweb3,blog.token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
@@ -4823,8 +4823,8 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
-reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,gateway.reddit.com,True
 reddit,*.reddit.com,True
@@ -4939,8 +4939,8 @@ chime,wp-integ.chime.com,True
 chime,wp-qa.chime.com,True
 glovo,*.testglovo.com,False
 glovo,*.glovoapp.com,False
-glovo,*.glovostore.com,False
 glovo,*.glovoint.com,False
+glovo,*.glovostore.com,False
 glovo,*.glovoapp.com,False
 glovo,*.glovoint.com,False
 glovo,*.glovostore.com,False
@@ -5648,8 +5648,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -6308,8 +6308,8 @@ picsart,stage.optifyr.com,False
 picsart,optifyr.com,False
 picsart,upload.picsart.com,False
 picsart,console.picsart.io,False
-kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
+kindred_group,relaxcdn.unibet.com,False
 kindred_group,*.highrolling.nu,True
 kindred_group,*.kolikkopelit.com,True
 kindred_group,*.bingo.com,True
@@ -6389,8 +6389,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7547,8 +7547,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -9464,9 +9464,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
