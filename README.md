@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 17 15:11:24 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 17 16:11:49 UTC 2023)
 ```
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1217,8 +1217,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1260,9 +1260,9 @@ www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 old.reddit.com
-gql.reddit.com
 *.redditmedia.com
 ads.reddit.com
+gql.reddit.com
 new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
@@ -1338,8 +1338,8 @@ wp-dev4.chime.com
 wp-dev2.chime.com
 *.chimebank.com
 app.chime.com
-*.1debit.com
 wp-dev5.chime.com
+*.1debit.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -1483,9 +1483,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1534,8 +1534,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2274,12 +2274,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 confluence.hyattdev.com
@@ -2303,14 +2303,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -3022,17 +3022,17 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
 login.starbucks.co.jp
@@ -3095,9 +3095,9 @@ www.redtube.com
 www.pornhub.com
 www.redtubepremium.com
 www.youpornpremium.com
-api.pornhub.com
 www.pornhubpremium.com
 www.youporn.com
+api.pornhub.com
 mobile.pornhub.com
 ht.pornhub.com
 www.pornmd.com
@@ -3917,15 +3917,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
