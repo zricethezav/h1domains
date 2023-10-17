@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 17 09:10:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 17 10:11:09 UTC 2023)
 ```
 *.booztlet.com
 *.boozt.com
@@ -61,8 +61,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 *.gocardless-cicd.io
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -310,10 +310,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 crash-reports.allizom.org
@@ -681,8 +681,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -2150,6 +2150,7 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+https://vroid.com/studio
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
@@ -2633,9 +2634,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2736,10 +2737,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3063,11 +3064,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3326,9 +3327,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3557,8 +3558,8 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
+*.srvcs.tumblr.com
 simperium.com
 embed.tumblr.com
 happy.tools
