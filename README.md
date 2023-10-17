@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 16 23:10:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 17 00:20:03 UTC 2023)
 ```
 dashboard.mergify.com
 api.mergify.com
@@ -304,10 +304,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 crash-reports.allizom.org
@@ -1291,8 +1291,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1308,8 +1308,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1572,8 +1572,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2742,10 +2742,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3069,11 +3069,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3572,8 +3572,8 @@ simplenote.com
 my.pressable.com
 api.tumblr.com
 intensedebate.com
-wordpress.com
 assets.tumblr.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 *.tumblr.com
