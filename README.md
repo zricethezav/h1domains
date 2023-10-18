@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 18 15:09:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 18 16:11:27 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -24,8 +24,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com
@@ -689,8 +689,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1253,16 +1253,16 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 old.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
+gql.reddit.com
 new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
@@ -1605,8 +1605,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -2272,12 +2272,12 @@ public.hyatt.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 res.marival.globalbookingsolutions.com
@@ -2302,14 +2302,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2694,10 +2694,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3021,10 +3021,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 secureui.starbucks.com
@@ -3568,9 +3568,9 @@ blog.irccloud.com
 paradex.io
 *.cbhq.net
 prime.coinbase.com
-pro.coinbase.com
 custody.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
