@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 18 04:09:08 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 18 05:10:22 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1217,8 +1217,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1253,8 +1253,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1861,8 +1861,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 music.amazon.com
-api.amazon.com
 apay-us.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2272,12 +2272,12 @@ public.hyatt.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 res.marival.globalbookingsolutions.com
@@ -2302,14 +2302,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2591,9 +2591,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3285,8 +3285,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
