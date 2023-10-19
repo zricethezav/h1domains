@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 22:08:38 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 23:10:17 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -3286,8 +3286,8 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3624,9 +3624,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
