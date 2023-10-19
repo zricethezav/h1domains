@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 17:11:07 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 18:12:55 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -1260,10 +1260,10 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -2188,10 +2188,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
-www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -3124,9 +3124,9 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 gist.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3446,7 +3446,6 @@ api.vhx.tv
 *.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
-*.vhx.tv
 magisto.com
 www.magisto.com
 staging.magisto.com
@@ -3493,9 +3492,9 @@ jss.greenhouse.io
 interseller.io
 app.interseller.io
 www.greenhouse.io
-*.twitter.com
 *.vine.co
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3640,10 +3639,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
