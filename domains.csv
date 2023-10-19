@@ -2429,8 +2429,8 @@ zerobounce,zerobounce.net,True
 teleport,*.gravitational.com,True
 teleport,*.gravitational.co,True
 teleport,askpam.ai,True
-teleport,cloud.gravitational.io,True
 teleport,*.teleportinfra.sh,True
+teleport,cloud.gravitational.io,True
 teleport,*.teleport.dev,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
@@ -2597,8 +2597,8 @@ deribit,insights.deribit.com,True
 deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
-abercrombie_fitch,hollisterco.com,False
 abercrombie_fitch,corporate.abercrombie.com,False
+abercrombie_fitch,hollisterco.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,hollisterco.com,False
@@ -3394,8 +3394,8 @@ costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
 mondelez,missionebonta.fattorieosella.it,False
-mondelez,mueller.milka.de,False
 mondelez,createatreat.com,False
+mondelez,mueller.milka.de,False
 mondelez,philadelphia.gr,False
 mondelez,oreoitalia.it,False
 mondelez,oreo.ru,False
@@ -3435,8 +3435,8 @@ mondelez,nabiscoseasonofgiving.com,False
 mondelez,cadburyworld.co.uk,False
 mondelez,ejackson.co.uk,False
 mondelez,oboy.fi,False
-mondelez,pt.cocoalife.org,False
 mondelez,sourpatchkids.com,False
+mondelez,pt.cocoalife.org,False
 mondelez,greenandblacks.co.uk,False
 mondelez,opavia.info,False
 mondelez,perfectsnacks.com,False
@@ -4126,6 +4126,9 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4134,9 +4137,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,parts.deere.africa,False
@@ -4515,8 +4515,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -5571,9 +5571,9 @@ citrix,secure.sharefile.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -7227,9 +7227,9 @@ equifax,*.redeverdeamarela.com.br,False
 equifax,*.certificadoboavista.com.br,False
 equifax,JOBALINE.COM,False
 equifax,*.bvsnet.com.br,False
+equifax,*equifax.com,False
 equifax,*.efficientforms.com,False
 equifax,www.equifax.com,False
-equifax,*equifax.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -8660,9 +8660,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9438,9 +9438,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
+nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
-nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
