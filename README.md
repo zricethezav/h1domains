@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 20 04:09:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 20 05:10:30 UTC 2023)
 ```
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -644,8 +644,8 @@ www.expediapartnercentral.com
 www.wotif.com
 www.hotwire.com
 www.ebookers.fi
-www.expediacruises.com
 www.stayz.com.au
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1796,7 +1796,6 @@ faucet.polygon.technology
 *.betfair.it
 *.paddypower.it
 *.sbgcdn.com
-*.skybet.com
 *.betviewapi.com
 *.skyvegas.com
 *.skybingo.com
@@ -1806,6 +1805,7 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2707,8 +2707,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3251,8 +3251,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -3285,8 +3285,8 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3367,9 +3367,9 @@ story.snapchat.com
 community.ui.com
 ispdesign.ui.com
 ca.store.ui.com
-account.ui.com
 rma.ui.com
 careers.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
@@ -3624,8 +3624,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com

@@ -1,5 +1,5 @@
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1829,8 +1829,8 @@ hiltonhotels.jp
 *.paystack.com
 *.paystackintegrations.com
 checkout.paystack.com
-dashboard.paystack.com
 standard.paystack.co
+dashboard.paystack.com
 nigerialogos.com
 legacy.paystack.co
 api.paystack.co
@@ -2298,8 +2298,8 @@ www.expediapartnercentral.com
 www.wotif.com
 www.hotwire.com
 www.ebookers.fi
-www.expediacruises.com
 www.stayz.com.au
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -6029,7 +6029,6 @@ faucet.polygon.technology
 *.betfair.it
 *.paddypower.it
 *.sbgcdn.com
-*.skybet.com
 *.betviewapi.com
 *.skyvegas.com
 *.skybingo.com
@@ -6039,6 +6038,7 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -7444,9 +7444,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -7996,8 +7996,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8648,8 +8648,8 @@ devmaximum.com
 www.coursera.org
 www.coursera.org
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -8682,8 +8682,8 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8769,11 +8769,11 @@ blog.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 help.ui.com
-account.ui.com
 rma.ui.com
 careers.ui.com
 dev-training.ui.com
 wiki.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
@@ -8810,8 +8810,8 @@ magento.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-nicetryapril.na1.echosignsandbox.com
 firefly.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9150,8 +9150,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com

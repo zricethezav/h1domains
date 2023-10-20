@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -1830,8 +1830,8 @@ hilton,hiltonhotels.jp,True
 paystack-vdp,*.paystack.com,False
 paystack-vdp,*.paystackintegrations.com,False
 paystack-vdp,checkout.paystack.com,False
-paystack-vdp,dashboard.paystack.com,False
 paystack-vdp,standard.paystack.co,False
+paystack-vdp,dashboard.paystack.com,False
 paystack-vdp,nigerialogos.com,False
 paystack-vdp,legacy.paystack.co,False
 paystack-vdp,api.paystack.co,False
@@ -2299,8 +2299,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.ebookers.fi,True
-expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.stayz.com.au,True
+expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -6030,7 +6030,6 @@ xiaomi,*.miwifi.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
-flutteruki,*.skybet.com,True
 flutteruki,*.betviewapi.com,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybingo.com,True
@@ -6040,6 +6039,7 @@ flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skybet.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7445,9 +7445,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -7997,8 +7997,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
+newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8649,8 +8649,8 @@ radancy,devmaximum.com,True
 coursera,www.coursera.org,False
 coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
-zendesk,h1-your-domain.zendesk.com,True
 zendesk,smooch.io,True
+zendesk,h1-your-domain.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
 zendesk,api.smooch.io,True
@@ -8683,8 +8683,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8770,11 +8770,11 @@ ui,blog.ui.com,False
 ui,ispdesign.ui.com,True
 ui,ca.store.ui.com,True
 ui,help.ui.com,False
-ui,account.ui.com,True
 ui,rma.ui.com,True
 ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
+ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True
@@ -8811,8 +8811,8 @@ adobe,magento.com,True
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,firefly.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9151,8 +9151,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
