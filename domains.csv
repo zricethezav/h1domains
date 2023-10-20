@@ -539,8 +539,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -3058,9 +3058,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
-planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5618,8 +5618,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
@@ -5779,9 +5779,9 @@ dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
-acronis,*.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -7997,8 +7997,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
-newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9150,8 +9150,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
+security,hackerone-user-content.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
@@ -9698,10 +9698,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
