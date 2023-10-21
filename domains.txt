@@ -1605,8 +1605,8 @@ api.mercadopago.com
 www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -2132,10 +2132,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 *.8x8.vc
-*.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
+*.jitsi.net
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -5494,11 +5494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5638,8 +5638,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -6571,7 +6571,6 @@ supersite.8x8.com
 cloud8.8x8.com
 sso.8x8.com
 *.8x8pilot.com
-*.jitsi.net
 www.8x8.com
 *.8x8.id
 *.8x8.uk
@@ -6582,6 +6581,7 @@ platform.8x8.com
 8x8.force.com
 pay.8x8.com
 *.jitsi.org
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -7466,9 +7466,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8018,8 +8018,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8145,8 +8145,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -8825,7 +8825,6 @@ exchange.adobe.com
 licenses.adobe.com
 mobilemarketing.adobe.com
 theblog.adobe.com
-*.adobe.com
 repo.magento.com
 magento.com
 accounts.frame.io
@@ -8834,6 +8833,7 @@ stream.frame.io
 firefly.adobe.com
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9174,8 +9174,8 @@ yimg.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
