@@ -5638,8 +5638,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -5683,7 +5683,6 @@ logilife.logitech.com
 *.uesmartradio.com
 jira.logitech.com
 logitechgchallenge.com
-sync.logitech.com
 id.logi.com
 *.logitechmusic.com
 external.logitech.com
@@ -5691,6 +5690,7 @@ feedback.logitech.com
 *.melonapp.com
 *.lucra.live
 www.logitechclub.com
+sync.logitech.com
 partner.logitech.com
 maintenance.logitech.com
 *vc.logitech.com
@@ -9187,9 +9187,9 @@ reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 ctf.hacker101.com
+app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 errors.hackerone.net
@@ -9707,10 +9707,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9773,10 +9773,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
