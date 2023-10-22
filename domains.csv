@@ -1606,8 +1606,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -4676,7 +4676,6 @@ zebra_vdp,blogs.zebra.com,False
 zebra_vdp,brand.zebra.com,False
 zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
@@ -4684,6 +4683,7 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6183,10 +6183,10 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliyun-inc.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7467,9 +7467,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -9501,10 +9501,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9708,10 +9708,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
