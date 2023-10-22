@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 22 08:10:26 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 22 09:08:59 UTC 2023)
 ```
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1282,12 +1282,12 @@ www.spiketrap.io
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
-www.reddit.com
 *.reddithelp.com
 oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1800,7 +1800,6 @@ faucet.polygon.technology
 *.sbgcdn.com
 *.betviewapi.com
 *.skyvegas.com
-*.skybingo.com
 *.msgsvc.io
 *.operationstechnology.io
 *.securityservices.io
@@ -1808,6 +1807,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.betfair.com
 *.skybet.com
+*.skybingo.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1950,8 +1950,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -3326,13 +3326,13 @@ rt.playcanvas.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
-*.sc-core.net
 www.bitstrips.com
+*.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3626,8 +3626,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
