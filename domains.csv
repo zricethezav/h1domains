@@ -1785,8 +1785,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,www.prolinx.co.uk,False
@@ -4544,7 +4544,6 @@ urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
-cedars-sinai,*csmc.edu,False
 cedars-sinai,*mycslink.org,False
 cedars-sinai,*Hmhrx.net,False
 cedars-sinai,*Hmhrx.org,False
@@ -4555,6 +4554,7 @@ cedars-sinai,*sgveconnect.org,False
 cedars-sinai,*huntingtonhospital.com,False
 cedars-sinai,*huntingtonhospital.net,False
 cedars-sinai,*hhphysicians.org,False
+cedars-sinai,*csmc.edu,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
 cedars-sinai,*www.cshs.org,False
@@ -8146,8 +8146,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8744,13 +8744,13 @@ snapchat,rt.playcanvas.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,kit.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
-snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
+snapchat,www.bitstrips.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -9173,8 +9173,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
@@ -9708,10 +9708,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

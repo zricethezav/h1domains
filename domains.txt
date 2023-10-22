@@ -1784,8 +1784,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 www.prolinx.co.uk
@@ -4543,7 +4543,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
-*csmc.edu
 *mycslink.org
 *Hmhrx.net
 *Hmhrx.org
@@ -4554,6 +4553,7 @@ www.urbanclap.com
 *huntingtonhospital.com
 *huntingtonhospital.net
 *hhphysicians.org
+*csmc.edu
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
 *www.cshs.org
@@ -8145,8 +8145,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -8743,13 +8743,13 @@ rt.playcanvas.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
-www.bitstrips.com
 *.sc-core.net
+www.bitstrips.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -9172,8 +9172,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -9707,10 +9707,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
