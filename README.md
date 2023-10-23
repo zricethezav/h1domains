@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 23 02:16:53 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 23 03:10:07 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2888,8 +2888,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 www.bumble.com
-badoo.com
 ccardseu1.badoo.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -2944,8 +2944,8 @@ profiles.wordpress.org
 lists.wordpress.org
 api.wordpress.org
 irclogs.wordpress.org
-*.wordpress.net
 gutenberg.run
+*.wordpress.net
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3326,13 +3326,13 @@ rt.playcanvas.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
-*.sc-core.net
 www.bitstrips.com
+*.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3814,10 +3814,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3927,10 +3927,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
