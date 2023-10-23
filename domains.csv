@@ -161,7 +161,6 @@ alshaya,*.aloyoga.ae,False
 alshaya,*.aloyoga.com.qa,False
 alshaya,*.americaneagle.com.eg,False
 alshaya,*.americaneagle.com.sa,False
-alshaya,*.victoriassecret.pl,False
 alshaya,*.victoriassecret.ae,False
 alshaya,*.thebodyshop.pl,False
 alshaya,*.thebodyshop.com.eg,False
@@ -177,6 +176,7 @@ alshaya,*.footlocker.com.bh,False
 alshaya,*.footlocker.ae,False
 alshaya,*.debenhams.ae,False
 alshaya,*.bathandbodyworks.jo,False
+alshaya,*.bathandbodyworks.com.tr,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1606,8 +1606,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -5638,8 +5638,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -6375,8 +6375,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8012,10 +8012,10 @@ newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
-newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
 newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
+newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8141,8 +8141,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -9079,9 +9079,9 @@ automattic,intensedebate.com,True
 automattic,happy.tools,True
 irccloud,www.irccloud.com,True
 irccloud,api.irccloud.com,True
-irccloud,irccloud.com,True
 irccloud,irc.irccloud.com,True
 irccloud,team-irc.irccloud.com,True
+irccloud,irccloud.com,True
 irccloud,*.irccloud-cdn.com,True
 irccloud,blog.irccloud.com,True
 irccloud,*.irccloud.com,True
@@ -9478,10 +9478,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9689,10 +9689,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
