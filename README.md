@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 23 17:09:18 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 23 18:11:14 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -12,8 +12,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -137,8 +137,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -487,8 +487,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -1258,12 +1258,12 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1857,8 +1857,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 chat.amazon.com
-affiliate-program.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 music.amazon.com
@@ -3081,12 +3081,20 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
+id.getharvest.com
+harvestapp.com
+forecastapp.com
+harvestapp.com
+forecastapp.com
+id.getharvest.com
+getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.pornhub.com
@@ -3410,8 +3418,8 @@ next.airbnb.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3475,8 +3483,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3621,11 +3629,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-errors.hackerone.net
 b5s.hackerone-ext-content.com
+errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
@@ -4017,14 +4025,6 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
-getharvest.com
-id.getharvest.com
-harvestapp.com
-forecastapp.com
-harvestapp.com
-forecastapp.com
-id.getharvest.com
-getharvest.com
 *.secnews.gr
 *.secnews.gr
 api.kiwi.ki
