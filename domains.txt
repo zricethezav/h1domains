@@ -6,8 +6,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1605,8 +1605,8 @@ api.mercadopago.com
 www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1756,8 +1756,8 @@ snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
 preschoolsmiles.com
-blog.spoonflower.com
 tinyprints.com
+blog.spoonflower.com
 www.spoonflower.com
 *.shutterfly.com
 *.shutterfly.com
@@ -3351,9 +3351,9 @@ labs.databricks.com
 marketplace.databricks.com
 community.databricks.com
 partners.databricks.com
-customer-academy.databricks.com
 advocates.databricks.com
 help.databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -3856,7 +3856,6 @@ accounts.stage.evernote.com
 api.stage.evernote.com
 *.unrealtournament.com
 *.easy.ac
-*.mediatonic.co.uk
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
@@ -3867,6 +3866,7 @@ harmonixmusic.com
 wonderboxdev.com
 capturingreality.com
 *.bcbits.com
+*.mediatonic.co.uk
 *.3lateral.com
 *.psyonix.com
 *.fortnite.com
@@ -4679,8 +4679,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 cmm01.sl.zebra.com
-supportcommunity.zebra.com
 reflexisinc.com/
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5492,11 +5492,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5643,8 +5643,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -6590,6 +6590,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9126,8 +9127,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -9168,11 +9169,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
-app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
-b5s.hackerone-ext-content.com
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
@@ -9758,10 +9759,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
