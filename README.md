@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 24 17:10:21 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 24 18:11:19 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1528,8 +1528,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
