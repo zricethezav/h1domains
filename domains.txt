@@ -1605,8 +1605,8 @@ api.mercadopago.com
 www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -2712,7 +2712,6 @@ www.fossil.co.id
 *.fossil.com.hk
 *.cdgfossil.com
 *.fossil.vn
-*.fossil.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -2731,6 +2730,7 @@ fossilmy.com
 watchstationhk.com
 *.cdgcitizen.com
 *.smartwatchstations.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
@@ -4680,8 +4680,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 cmm01.sl.zebra.com
-reflexisinc.com/
 supportcommunity.zebra.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -4822,10 +4822,10 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 s.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
 www.spiketrap.io
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -5493,11 +5493,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5644,8 +5644,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -6374,8 +6374,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -6591,7 +6591,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7465,9 +7464,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8012,9 +8011,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9128,8 +9127,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -9154,8 +9153,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -9694,10 +9693,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9760,10 +9759,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
