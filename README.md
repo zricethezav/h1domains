@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 24 09:10:37 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 24 10:10:47 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -388,8 +388,8 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-hilton.com
 *.hiltonlocalbiz.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -620,7 +620,6 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.hotels.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
@@ -628,6 +627,7 @@ www.expediagroup.com
 www.orbitz.com
 www.mrjet.se
 www.abritel.fr
+www.hotels.com
 www.travelocity.com
 www.ebookers.com
 www.flights.com
@@ -644,8 +644,8 @@ www.expediapartnercentral.com
 www.wotif.com
 www.ebookers.fi
 www.stayz.com.au
-www.expediacruises.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -730,8 +730,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-blueprints.amazon.com
 a4k.amazon.com
+blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 read.amazon.com
@@ -2059,8 +2059,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -2706,9 +2706,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3627,12 +3627,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
