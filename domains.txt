@@ -165,7 +165,6 @@ sa.cosstores.com
 *.thebodyshop.com.eg
 *.starbucks.com.tr
 *.shakeshack.co.uk
-*.potterybarnkids.com.kw
 *.potterybarnkids.ae
 *.potterybarn.com.sa
 *.potterybarn.ae
@@ -176,6 +175,7 @@ sa.cosstores.com
 *.bathandbodyworks.jo
 *.carrier.alshaya.com
 customercare.alshaya.com
+kuwait.kidzania.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1757,8 +1757,8 @@ snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
 preschoolsmiles.com
-blog.spoonflower.com
 tinyprints.com
+blog.spoonflower.com
 www.spoonflower.com
 *.shutterfly.com
 *.shutterfly.com
@@ -1952,8 +1952,8 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-*.abb.com.cn
 *.cylon.com
+*.abb.com.cn
 *.tnb.com
 *.abb.com.tr
 *.baldor.com
@@ -5494,11 +5494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8013,9 +8013,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8698,8 +8698,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -8836,8 +8836,8 @@ firefly.adobe.com
 magento.com
 *.adobe.com
 auth.services.adobe.com
-nicetryapril.na1.echosignsandbox.com
 repo.magento.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9156,8 +9156,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9484,10 +9484,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9695,10 +9695,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
