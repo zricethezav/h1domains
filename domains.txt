@@ -95,10 +95,10 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -4089,8 +4089,8 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -6048,7 +6048,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.it
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
@@ -6061,6 +6060,7 @@ faucet.polygon.technology
 *.skybet.com
 *.sportinglife.com
 *.skybingo.com
+*.betfair.it
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -6592,7 +6592,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9484,10 +9483,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9761,10 +9760,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
