@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3773,10 +3773,10 @@ krisp,upld.krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
-krisp,krisp.ai,True
 krisp,download.krisp.ai,True
 krisp,whatsnew.krisp.ai,False
 krisp,contact.krisp.ai,False
+krisp,krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -6594,6 +6594,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -7467,9 +7468,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -7555,8 +7556,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -8837,8 +8838,8 @@ adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,repo.magento.com,True
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,firefly.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9104,8 +9105,8 @@ coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
-coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,prime.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,institutional.coinbase.com,True

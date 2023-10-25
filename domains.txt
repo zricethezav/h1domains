@@ -1,5 +1,5 @@
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -3772,10 +3772,10 @@ upld.krisp.ai
 *.krisp.ai
 api.krisp.ai
 teams.krisp.ai
-krisp.ai
 download.krisp.ai
 whatsnew.krisp.ai
 contact.krisp.ai
+krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -6593,6 +6593,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7466,9 +7467,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -7554,8 +7555,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -8836,8 +8837,8 @@ magento.com
 *.adobe.com
 auth.services.adobe.com
 repo.magento.com
-nicetryapril.na1.echosignsandbox.com
 firefly.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9103,8 +9104,8 @@ pro.coinbase.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
