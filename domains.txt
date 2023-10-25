@@ -299,9 +299,9 @@ http://vdp.kahootz.com
 *.abnamroinvestmentsolutions.com
 *.alfam.nl
 *.abnamro.com
-*.tikkie.me
 *abnamroprivatebanking.be
 *.abnamro.nl
+*.tikkie.me
 *.abnamrolease.com
 *neuflizeobc.fr
 *.abnamro.org
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -2277,12 +2277,12 @@ dookeydash.com
 hv-mtl.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediagroup.com
 www.orbitz.com
 www.mrjet.se
 www.abritel.fr
 www.hotels.com
+www.expediaagents.com
 www.travelocity.com
 www.ebookers.com
 www.flights.com
@@ -3292,8 +3292,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -6592,6 +6592,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7276,7 +7277,6 @@ wotctech.com
 *equifax.hn
 *equifax.co.nz
 *equifax.es
-*equifax.co.uk
 *.dicom.cl
 *.i2verify.com
 *.wageverify.com
@@ -7296,6 +7296,7 @@ JOBALINE.CO
 JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
+BE-THE-AMERICAN-DREAM.net
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -8700,8 +8701,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
@@ -9155,8 +9156,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9483,10 +9484,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
