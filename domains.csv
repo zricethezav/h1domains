@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -2874,7 +2874,6 @@ mars,*.twix.com,False
 mars,*.individualis.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.myroyalcanin.ro,False
-mars,*.royalcanin.be,False
 mars,*.royalcanin.nl,False
 mars,*.royalcanin.pt,False
 mars,*.mivetshop.com.ar,False
@@ -2885,6 +2884,7 @@ mars,*.royalcaninfoodfinder.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.banfield.com,False
+mars,*.royalcanin.be,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -7466,9 +7466,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -7755,11 +7755,11 @@ matomo,matomo.cloud,True
 matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.braintree-api.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
 paypal,*.xoom.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8398,9 +8398,9 @@ starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
@@ -8708,8 +8708,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8834,10 +8834,10 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
-adobe,auth.services.adobe.com,False
 adobe,repo.magento.com,True
-adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,auth.services.adobe.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9484,10 +9484,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
