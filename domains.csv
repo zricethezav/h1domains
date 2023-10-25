@@ -569,10 +569,10 @@ visa,www.visa.com.ms,True
 visa,www.visa.com.sg,True
 visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
-visa,www.visa.co.in,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
 visa,www.visa.com.my,True
+visa,www.visa.co.in,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2629,7 +2629,6 @@ allegion,*.allegionengage.com,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,www.planopunkt.com,False
 allegion,zentra.co,False
-allegion,*.allegion.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
@@ -4835,10 +4834,10 @@ reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
-reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,matrix.redditspace.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6594,7 +6593,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -7053,8 +7051,8 @@ mtn_group,progressivetech.holdings,False
 mtn_group,ayo.ba,False
 datastax,downloads.datastax.com,True
 datastax,www.datastax.com,True
-datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
+datastax,docs.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -8015,9 +8013,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8079,8 +8077,8 @@ plaid,dashboard.plaid.com,True
 plaid,demo.plaid.com,True
 plaid,plaid.com,True
 plaid,my.plaid.com,True
-plaid,production.plaid.com,True
 plaid,api.blockscore.com,True
+plaid,production.plaid.com,True
 plaid,secure.quovo.com,True
 plaid,cdn.plaid.com,True
 plaid,manage.blockscore.com,True
@@ -9697,10 +9695,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -9763,10 +9761,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
