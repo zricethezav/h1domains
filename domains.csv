@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5495,11 +5495,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6182,11 +6182,11 @@ alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6593,6 +6593,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -7466,9 +7467,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -7554,8 +7555,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.ford.com,False
 ford,*.lincoln.com,False
+ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -8013,9 +8014,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8835,8 +8836,8 @@ adobe,stream.frame.io,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,repo.magento.com,True
-adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,auth.services.adobe.com,False
 adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False

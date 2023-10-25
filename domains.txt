@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -5494,11 +5494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6181,11 +6181,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.Daraz.com
-*.1688.com
 *.alimama.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6592,6 +6592,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7465,9 +7466,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -7553,8 +7554,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -8012,9 +8013,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8834,8 +8835,8 @@ stream.frame.io
 magento.com
 *.adobe.com
 repo.magento.com
-auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 firefly.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
