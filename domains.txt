@@ -2021,9 +2021,9 @@ api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
-www.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -3408,7 +3408,6 @@ tuctime.it
 twobite.ca
 www.clifbar.pt
 mmmax.milka.de
-mueller.milka.de
 cadburyfc.com
 milka.bg
 milka.ru
@@ -3435,6 +3434,7 @@ giveasmile.belvitasnacks.com
 winter.lu.be
 favourites.milka.de
 nabiscoseasonofgiving.com
+mueller.milka.de
 cadbury.co.uk
 de.oreo.eu
 pt.cocoalife.org
@@ -5494,11 +5494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6058,9 +6058,9 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.com
-*.skybingo.com
 *.skybet.com
 *.sportinglife.com
+*.skybingo.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -6592,6 +6592,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8012,9 +8013,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8834,9 +8835,9 @@ stream.frame.io
 firefly.adobe.com
 magento.com
 *.adobe.com
-repo.magento.com
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
+repo.magento.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9155,8 +9156,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9483,10 +9484,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com

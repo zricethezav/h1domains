@@ -2022,9 +2022,9 @@ s-pankki,api.sokos.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -3409,7 +3409,6 @@ mondelez,tuctime.it,False
 mondelez,twobite.ca,False
 mondelez,www.clifbar.pt,False
 mondelez,mmmax.milka.de,False
-mondelez,mueller.milka.de,False
 mondelez,cadburyfc.com,False
 mondelez,milka.bg,False
 mondelez,milka.ru,False
@@ -3436,6 +3435,7 @@ mondelez,giveasmile.belvitasnacks.com,False
 mondelez,winter.lu.be,False
 mondelez,favourites.milka.de,False
 mondelez,nabiscoseasonofgiving.com,False
+mondelez,mueller.milka.de,False
 mondelez,cadbury.co.uk,False
 mondelez,de.oreo.eu,False
 mondelez,pt.cocoalife.org,False
@@ -5495,11 +5495,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6059,9 +6059,9 @@ flutteruki,*.operationstechnology.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.betfair.com,True
-flutteruki,*.skybingo.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.sportinglife.com,True
+flutteruki,*.skybingo.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -6593,6 +6593,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8013,9 +8014,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8835,9 +8836,9 @@ adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
-adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,repo.magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9156,8 +9157,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -9484,10 +9485,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
