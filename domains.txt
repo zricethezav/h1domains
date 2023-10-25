@@ -1606,8 +1606,8 @@ www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -5645,8 +5645,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -6058,9 +6058,9 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.com
-*.sportinglife.com
 *.skybingo.com
 *.skybet.com
+*.sportinglife.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -6592,7 +6592,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8013,9 +8012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8833,11 +8832,11 @@ repo.magento.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-*.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9761,10 +9760,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
