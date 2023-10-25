@@ -1212,8 +1212,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2842,9 +2842,9 @@ api.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
-*.grab.com
 p.grabtaxi.com
 manage.grab.co
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3907,10 +3907,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
