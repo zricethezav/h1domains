@@ -5638,8 +5638,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -6592,6 +6592,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7465,9 +7466,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8012,9 +8013,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8398,8 +8399,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -8832,11 +8833,11 @@ repo.magento.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-magento.com
 *.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
+magento.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9483,10 +9484,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9760,10 +9761,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
@@ -9862,8 +9863,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 boards.greenhouse.io
-interseller.io
 app.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
