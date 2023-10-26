@@ -1719,9 +1719,9 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -2300,8 +2300,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.hotwire.com,True
-expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.wotif.com,True
+expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -3839,8 +3839,8 @@ judgeme,woocommerce-adapter.judge.me,True
 judgeme,bigcommerce-adapter.judge.me,True
 judgeme,cache.judge.me,True
 mtb,*.wilmingtontrust.com,False
-mtb,*.mtb.com,False
 mtb,*.leafnow.com,False
+mtb,*.mtb.com,False
 mtb,*.trustnota.com,False
 mtb,*.mtb.com,False
 mtb,*.wilmingtontrust.com,False
@@ -4048,8 +4048,8 @@ ibb,rubygems.org,True
 ibb,rubygems.org,True
 consensys,activate.codefi.network,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
-consensys,consensys.net,True
 consensys,staking-uat.codefi.network,True
+consensys,consensys.net,True
 consensys,staking.codefi.network,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -7498,8 +7498,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*emailsignature.trustpilot.com,True
 trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*www.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
+trustpilot,*www.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
@@ -8013,9 +8013,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9484,10 +9484,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
