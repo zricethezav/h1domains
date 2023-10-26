@@ -3809,9 +3809,9 @@ playhyenas.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
-snowplowanalytics.com
 try.snowplowanalytics.com
 docs.snowplow.io
+snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com
 iglucentral.com
@@ -4365,7 +4365,6 @@ vpn.kreiselelectric.com
 webmail.kreiselelectric.com
 www.kreiselelectric.com
 sdicert.deere.com
-droneci.deere.com
 anubhutiapi.deere.com
 equipment.deere.com
 contest.deere.com
@@ -4380,6 +4379,7 @@ staging.marksman.surepointag.com
 www.surepointelectronics.com
 anubhutiuat.deere.com
 vision-staging.johndeere.com
+droneci.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -4668,7 +4668,6 @@ asuntolaina.aktiawallet.fi
 lender.aktiawallet.fi
 www.aktiawallet.fi
 investors.aktia.com
-downloads.zebra.com
 blogs.zebra.com
 brand.zebra.com
 creative.zebra.com
@@ -4681,6 +4680,7 @@ zsbsupport.zebra.com
 cmm01.sl.zebra.com
 supportcommunity.zebra.com
 reflexisinc.com/
+downloads.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5493,11 +5493,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8545,8 +8545,8 @@ education.github.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
-github.com
 *.github.net
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -9148,7 +9148,6 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
-data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -9483,10 +9482,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9694,10 +9693,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9760,10 +9759,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
