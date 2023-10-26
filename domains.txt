@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1973,9 +1973,9 @@ my.malwarebytes.com
 cloud.malwarebytes.com
 *.mbamupdates.com
 forums.malwarebytes.com
-oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.malwarebytes.com
+oneview.malwarebytes.com
 blog.malwarebytes.com
 support.malwarebytes.com
 www.malwarebytes.com
@@ -3185,8 +3185,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3870,7 +3870,6 @@ capturingreality.com
 *.mediatonic.co.uk
 *.3lateral.com
 *.psyonix.com
-*.fortnite.com
 forum.sketchfab.com
 *.bcbits.com
 *.dropmix.com
@@ -6473,7 +6472,6 @@ veterans.topcoder.com
 webhooks.topcoder.com
 wordpress.topcoder.com
 app.topcoder.com
-api.topcoder.com
 arena.topcoder.com
 bugzilla.topcoder.com
 demo.topcoder.com
@@ -6482,6 +6480,7 @@ forums.topcoder.com
 hfgeoloc.topcoder.com
 idolondemand.topcoder.com
 morgoth.topcoder.com
+pins-dash.topcoder.com
 www.topcoder.com
 api.topcoder.com
 arena.topcoder.com
@@ -7465,9 +7464,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8545,8 +8544,8 @@ education.github.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
-github.com
 *.github.net
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -8707,8 +8706,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8834,9 +8833,9 @@ stream.frame.io
 magento.com
 *.adobe.com
 repo.magento.com
-auth.services.adobe.com
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9694,10 +9693,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9760,10 +9759,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

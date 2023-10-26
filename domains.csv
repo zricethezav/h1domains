@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1974,9 +1974,9 @@ malwarebytes,my.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
-malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.malwarebytes.com,True
+malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
@@ -3186,8 +3186,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -3871,7 +3871,6 @@ epicgames,*.bcbits.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
-epicgames,*.fortnite.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
@@ -6474,7 +6473,6 @@ topcoder,veterans.topcoder.com,False
 topcoder,webhooks.topcoder.com,False
 topcoder,wordpress.topcoder.com,False
 topcoder,app.topcoder.com,False
-topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
 topcoder,demo.topcoder.com,False
@@ -6483,6 +6481,7 @@ topcoder,forums.topcoder.com,False
 topcoder,hfgeoloc.topcoder.com,False
 topcoder,idolondemand.topcoder.com,False
 topcoder,morgoth.topcoder.com,False
+topcoder,pins-dash.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
@@ -7466,9 +7465,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8546,8 +8545,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.githubusercontent.com,True
 github,gist.github.com,True
-github,github.com,True
 github,*.github.net,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8708,8 +8707,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8835,9 +8834,9 @@ adobe,stream.frame.io,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,repo.magento.com,True
-adobe,auth.services.adobe.com,False
 adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,auth.services.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9695,10 +9694,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -9761,10 +9760,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
