@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1606,9 +1606,9 @@ mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,api.mercadopago.com,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -4366,6 +4366,7 @@ john-deere,vpn.kreiselelectric.com,False
 john-deere,webmail.kreiselelectric.com,False
 john-deere,www.kreiselelectric.com,False
 john-deere,sdicert.deere.com,False
+john-deere,droneci.deere.com,False
 john-deere,anubhutiapi.deere.com,False
 john-deere,equipment.deere.com,False
 john-deere,contest.deere.com,False
@@ -7465,9 +7466,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -7485,8 +7486,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,app.smartsheet.com,True
 smartsheet,admin.smartsheet.com,True
+smartsheet,app.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9760,10 +9761,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
