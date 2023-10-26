@@ -1,5 +1,5 @@
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -474,8 +474,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -1606,8 +1606,8 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 api.mercadopago.com
 www.mercadolivre.com.br
-www.mercadopago.com.pe
 www.mercadopago.com.ar
+www.mercadopago.com.pe
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -2296,11 +2296,11 @@ www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.wotif.com
 www.ebookers.fi
 www.stayz.com.au
 www.hotwire.com
 www.expediacruises.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -6591,6 +6591,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8544,8 +8545,8 @@ education.github.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
-*.github.net
 github.com
+*.github.net
 github.com
 api.github.com
 gist.github.com
@@ -8736,13 +8737,13 @@ store.playcanvas.com
 playcanv.as
 map.snapchat.com
 www.bitmoji.com
-snappublisher.snapchat.com
 business.snapchat.com
 my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -8834,8 +8835,8 @@ magento.com
 *.adobe.com
 repo.magento.com
 firefly.adobe.com
-nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9482,10 +9483,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9693,10 +9694,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
