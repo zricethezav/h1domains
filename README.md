@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 26 15:10:52 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 26 16:09:48 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1534,8 +1534,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1855,9 +1855,9 @@ faucet.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-chat.amazon.com
 track.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 music.amazon.com
@@ -2705,9 +2705,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3132,8 +3132,8 @@ education.github.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
-*.github.net
 github.com
+*.github.net
 github.com
 api.github.com
 gist.github.com
@@ -3292,8 +3292,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3799,10 +3799,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
