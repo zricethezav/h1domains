@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1606,8 +1606,8 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 api.mercadopago.com
 www.mercadopago.com.pe
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1722,8 +1722,8 @@ getpocket.com
 hg.mozilla.org
 support.mozilla.org
 developer.mozilla.org
-monitor.firefox.com
 www.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -2893,8 +2893,8 @@ banfield.us
 *.royalcanin.pl
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
-*.banfieldassets.com
 banfieldexchange.com
+*.banfieldassets.com
 *.mms.com
 *.pedigree.com
 *.vcahospitals.com
@@ -3052,8 +3052,8 @@ www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
@@ -3720,7 +3720,6 @@ help.jetblue.com
 azrest.jetblue.com
 magnolia.jetblue.com
 experience.jetblue.com
-*.koralapp.com
 *.inmobi.com
 *.glance.app
 *.roposo.com
@@ -3738,7 +3737,6 @@ mydash101.com
 *.shop101.com
 *.dash101.com
 *.roposo.com
-*.koralapp.com
 mydash101.com
 tvars.com
 tvastem.com
@@ -5504,11 +5502,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5655,8 +5653,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -5684,8 +5682,8 @@ alert.logitech.com
 *.crossclip.com
 *.logi.com
 www.logitechg.com
-*.logitech.com
 *.myharmony.com
+*.logitech.com
 *.streamlabscharity.com
 circle.logi.com
 www.ultimateears.com
@@ -8023,9 +8021,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8718,8 +8716,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8962,8 +8960,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
