@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -377,8 +377,8 @@ aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,1882energyventures.com,False
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3314,8 +3314,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.era.com,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
@@ -5505,11 +5505,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5675,7 +5675,6 @@ tiktok,shop.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,www.pangleglobal.com,True
-logitech,*.myharmony.com,False
 logitech,*.ultimateearsuniversity.com,False
 logitech,*.lukwerks.com,False
 logitech,buy.logitech.com,False
@@ -5687,6 +5686,7 @@ logitech,*.crossclip.com,False
 logitech,*.logi.com,False
 logitech,www.logitechg.com,True
 logitech,*.logitech.com,False
+logitech,*.myharmony.com,False
 logitech,*.streamlabscharity.com,False
 logitech,circle.logi.com,True
 logitech,www.ultimateears.com,True
@@ -6386,8 +6386,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7477,9 +7477,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8024,9 +8024,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8846,9 +8846,9 @@ adobe,stream.frame.io,False
 adobe,magento.com,True
 adobe,repo.magento.com,True
 adobe,firefly.adobe.com,False
-adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -8967,9 +8967,9 @@ airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
-airbnb,callbacks.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,callbacks.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -9166,8 +9166,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -9705,10 +9705,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
