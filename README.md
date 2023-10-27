@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 27 17:05:56 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 27 18:11:23 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -828,8 +828,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -983,8 +983,8 @@ analytics.krisp.ai
 upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
-*.joinclubhouse.com
 *.clubhouseapi.com
+*.joinclubhouse.com
 *.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3129,10 +3129,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 npmjs.org
-*.githubusercontent.com
 gist.github.com
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3973,10 +3973,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

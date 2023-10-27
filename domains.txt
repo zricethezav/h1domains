@@ -131,7 +131,6 @@ boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.boots.com
-sa.hm.com
 kw.shopjustice.me
 card.starbucks.com.kz
 *.aloyoga.com.kw
@@ -150,6 +149,7 @@ card.starbucks.com.kz
 dev.alshaya.com
 devimages.alshaya.com
 suppliertraining.alshaya.com
+sa.hm.com
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -2616,9 +2616,9 @@ app.monarchmoney.com
 www.monarchmoney.com
 www.fireglass.com
 www.interflex.de
-www.gainsboroughhardware.com.au
 www.cisa.com
 www.yonomi.com
+www.gainsboroughhardware.com.au
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -2660,6 +2660,7 @@ www.yonomi.com
 www.interflex.com
 www.planopunkt.com
 zentra.co
+zeroplus.co.uk
 www.normbau.de
 www.poloniex.com
 m.poloniex.com
@@ -3184,8 +3185,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3730,15 +3731,15 @@ delishaas.com
 nostragamus.in
 inmobi.jp
 roposoclout.com
-meson.ai
 nostra.gg
+meson.ai
 *.glance.com
 *.glance.world
 *.shop101.com
 inmobi.cn
-shipstreak.com
 thisiskra.com
 worldofek.com
+shipstreak.com
 *.inmobi.com
 *.glance.com
 *.glance.app
@@ -3832,8 +3833,8 @@ games2gether.com
 community.twopointcounty.com
 community.companyofheroes.com
 redeem.footballmanager.com
-*.joinclubhouse.com
 *.clubhouseapi.com
+*.joinclubhouse.com
 *.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
@@ -4271,7 +4272,6 @@ registration.deere.com
 rewards.deere.com
 work-planner.deere.com
 techpubs.deere.com
-anubhutiapis.channel-dss-r1-anubhuti-prod-vpn.ap.e06.c01.johndeerecloud.com
 dealerlocator.deere.com
 powerplan.deere.com
 products.deere.com
@@ -4394,11 +4394,9 @@ vpn.kreiselelectric.com
 webmail.kreiselelectric.com
 www.kreiselelectric.com
 sdicert.deere.com
-anubhutiapi.deere.com
 equipment.deere.com
 contest.deere.com
 vision.johndeere.com
-simfrontend.channel-dss-r1-anubhuti-devl-vpn.ap.e06.c01.johndeerecloud.com
 site.marksman.surefireag.com
 surefireag.surefireag.com
 toolbox.surefireag.com
@@ -4406,7 +4404,6 @@ site.staging.marksman.surepointag.com
 staging.core.surepointag.com
 staging.marksman.surepointag.com
 www.surepointelectronics.com
-anubhutiuat.deere.com
 vision-staging.johndeere.com
 droneci.deere.com
 agrisync.com
@@ -4459,7 +4456,6 @@ sustainability-programs.deere.com
 adzone.deere.com
 advertising.deere.com
 satpredictor2.deere.com
-anubhutiuatapis.deere.com
 *.reckoproduction.com
 *.stripe.com
 *.link.co
@@ -8041,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8572,10 +8568,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 npmjs.org
-*.githubusercontent.com
 gist.github.com
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -8862,9 +8858,9 @@ app.frame.io
 stream.frame.io
 magento.com
 repo.magento.com
-firefly.adobe.com
-auth.services.adobe.com
 *.adobe.com
+auth.services.adobe.com
+firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
@@ -9788,10 +9784,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

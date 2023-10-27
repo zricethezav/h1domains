@@ -132,7 +132,6 @@ alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.boots.com,False
-alshaya,sa.hm.com,False
 alshaya,kw.shopjustice.me,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.aloyoga.com.kw,False
@@ -151,6 +150,7 @@ alshaya,*.bathandbodyworks.com.kw,False
 alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
+alshaya,sa.hm.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -2617,9 +2617,9 @@ monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
 allegion,www.fireglass.com,False
 allegion,www.interflex.de,False
-allegion,www.gainsboroughhardware.com.au,False
 allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
+allegion,www.gainsboroughhardware.com.au,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -2661,6 +2661,7 @@ allegion,www.yonomi.com,False
 allegion,www.interflex.com,False
 allegion,www.planopunkt.com,False
 allegion,zentra.co,False
+allegion,zeroplus.co.uk,False
 allegion,www.normbau.de,False
 poloniex,www.poloniex.com,True
 poloniex,m.poloniex.com,True
@@ -3185,8 +3186,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -3731,15 +3732,15 @@ inmobi,delishaas.com,False
 inmobi,nostragamus.in,False
 inmobi,inmobi.jp,False
 inmobi,roposoclout.com,False
-inmobi,meson.ai,False
 inmobi,nostra.gg,False
+inmobi,meson.ai,False
 inmobi,*.glance.com,False
 inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,inmobi.cn,False
-inmobi,shipstreak.com,False
 inmobi,thisiskra.com,False
 inmobi,worldofek.com,False
+inmobi,shipstreak.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
 inmobi,*.glance.app,False
@@ -3833,8 +3834,8 @@ sega,games2gether.com,False
 sega,community.twopointcounty.com,False
 sega,community.companyofheroes.com,False
 sega,redeem.footballmanager.com,False
-clubhouse,*.joinclubhouse.com,True
 clubhouse,*.clubhouseapi.com,True
+clubhouse,*.joinclubhouse.com,True
 clubhouse,*.clubhouse.com,True
 clubhouse,*.clubhouse.com,True
 clubhouse,*.joinclubhouse.com,True
@@ -4272,7 +4273,6 @@ john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
 john-deere,work-planner.deere.com,False
 john-deere,techpubs.deere.com,False
-john-deere,anubhutiapis.channel-dss-r1-anubhuti-prod-vpn.ap.e06.c01.johndeerecloud.com,False
 john-deere,dealerlocator.deere.com,False
 john-deere,powerplan.deere.com,False
 john-deere,products.deere.com,False
@@ -4395,11 +4395,9 @@ john-deere,vpn.kreiselelectric.com,False
 john-deere,webmail.kreiselelectric.com,False
 john-deere,www.kreiselelectric.com,False
 john-deere,sdicert.deere.com,False
-john-deere,anubhutiapi.deere.com,False
 john-deere,equipment.deere.com,False
 john-deere,contest.deere.com,False
 john-deere,vision.johndeere.com,False
-john-deere,simfrontend.channel-dss-r1-anubhuti-devl-vpn.ap.e06.c01.johndeerecloud.com,False
 john-deere,site.marksman.surefireag.com,False
 john-deere,surefireag.surefireag.com,False
 john-deere,toolbox.surefireag.com,False
@@ -4407,7 +4405,6 @@ john-deere,site.staging.marksman.surepointag.com,False
 john-deere,staging.core.surepointag.com,False
 john-deere,staging.marksman.surepointag.com,False
 john-deere,www.surepointelectronics.com,False
-john-deere,anubhutiuat.deere.com,False
 john-deere,vision-staging.johndeere.com,False
 john-deere,droneci.deere.com,False
 john-deere,agrisync.com,False
@@ -4460,7 +4457,6 @@ john-deere,sustainability-programs.deere.com,False
 john-deere,adzone.deere.com,False
 john-deere,advertising.deere.com,False
 john-deere,satpredictor2.deere.com,False
-john-deere,anubhutiuatapis.deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
 stripe,*.link.co,True
@@ -8042,9 +8038,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8573,10 +8569,10 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
 github,npmjs.org,True
-github,*.githubusercontent.com,True
 github,gist.github.com,True
 github,*.github.net,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8863,9 +8859,9 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,magento.com,True
 adobe,repo.magento.com,True
-adobe,firefly.adobe.com,False
-adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
+adobe,auth.services.adobe.com,False
+adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
@@ -9789,10 +9785,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
