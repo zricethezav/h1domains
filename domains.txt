@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -3053,8 +3053,8 @@ www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
@@ -5669,8 +5669,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8037,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8859,9 +8859,9 @@ stream.frame.io
 magento.com
 repo.magento.com
 auth.services.adobe.com
-firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
+firefly.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9044,8 +9044,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -9784,10 +9784,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
