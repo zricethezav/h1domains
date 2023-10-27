@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -304,8 +304,8 @@ abn_amro_vdp,*abnamroprivatebanking.be,False
 abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.tikkie.me,False
 abn_amro_vdp,*.abnamrolease.com,False
-abn_amro_vdp,*neuflizeobc.fr,False
 abn_amro_vdp,*.abnamro.org,False
+abn_amro_vdp,*neuflizeobc.fr,False
 abn_amro_vdp,*.abnamro.be,False
 abn_amro_vdp,*.new10.com,False
 abn_amro_vdp,*.abnamro.com,False
@@ -5674,8 +5674,8 @@ logitech,www.logitechstore.com.br,False
 logitech,alert.logitech.com,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
-logitech,*.logitech.com,False
 logitech,www.logitechg.com,True
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,circle.logi.com,True
 logitech,www.ultimateears.com,True
@@ -7466,9 +7466,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -9694,10 +9694,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

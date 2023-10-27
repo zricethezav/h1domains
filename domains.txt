@@ -6,8 +6,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -303,8 +303,8 @@ http://vdp.kahootz.com
 *.abnamro.nl
 *.tikkie.me
 *.abnamrolease.com
-*neuflizeobc.fr
 *.abnamro.org
+*neuflizeobc.fr
 *.abnamro.be
 *.new10.com
 *.abnamro.com
@@ -5673,8 +5673,8 @@ www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
 *.logi.com
-*.logitech.com
 www.logitechg.com
+*.logitech.com
 *.streamlabscharity.com
 circle.logi.com
 www.ultimateears.com
@@ -7465,9 +7465,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -9693,10 +9693,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
