@@ -1,5 +1,5 @@
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -130,7 +130,6 @@ bakimonarim.shaya.com.tr
 boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
-kw.boots.com
 kw.shopjustice.me
 card.starbucks.com.kz
 *.aloyoga.com.kw
@@ -150,6 +149,7 @@ dev.alshaya.com
 devimages.alshaya.com
 suppliertraining.alshaya.com
 sa.hm.com
+kw.boots.com
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -474,8 +474,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -3053,8 +3053,8 @@ www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
@@ -7490,9 +7490,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8037,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8229,8 +8229,8 @@ api.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
-p.grabtaxi.com
 manage.grab.co
+p.grabtaxi.com
 *.grab.com
 gamma.grab.co
 jira.grab.com
@@ -8732,8 +8732,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8858,10 +8858,10 @@ app.frame.io
 stream.frame.io
 repo.magento.com
 auth.services.adobe.com
-magento.com
-firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
+firefly.adobe.com
+magento.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -8976,8 +8976,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
@@ -9044,8 +9044,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -9507,10 +9507,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
