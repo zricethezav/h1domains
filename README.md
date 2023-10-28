@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 28 16:10:32 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 28 17:10:03 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -12,8 +12,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -352,8 +352,8 @@ getpocket.com
 hg.mozilla.org
 support.mozilla.org
 monitor.firefox.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -828,8 +828,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3479,8 +3479,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3628,8 +3628,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
