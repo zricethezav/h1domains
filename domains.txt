@@ -1,5 +1,5 @@
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2332,7 +2332,6 @@ www.flights.com
 *.expediapartnersolutions.com
 *.expediaagents.com
 *.orbitz.com
-*.wotif.com
 *.cruiseshipcenters.com
 *.egadvertising.com
 *.hoteis.com
@@ -2340,6 +2339,7 @@ www.flights.com
 *.ean.com
 *.lastminute.co.nz
 *.expedia.com
+*.wotif.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -3053,8 +3053,8 @@ www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
@@ -5518,11 +5518,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7490,9 +7490,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8037,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8970,8 +8970,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 www.hoteltonight.com
@@ -9179,8 +9179,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9507,10 +9507,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
