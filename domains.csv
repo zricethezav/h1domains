@@ -1,14 +1,14 @@
 handle,domain,eligible_for_bounty
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -140,7 +140,6 @@ alshaya,*.americaneagle.com.kw,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.thebodyshop.com.kw,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.muji.qa,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.footlocker.com.eg,False
@@ -151,6 +150,7 @@ alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -1904,9 +1904,9 @@ indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,injob.indriver.com,True
 indrive,super-services.indriverapp.com,True
 indrive,volans.tech,True
@@ -3054,8 +3054,8 @@ planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
@@ -7491,9 +7491,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8977,8 +8977,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -9199,8 +9199,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
-security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -9508,10 +9508,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True

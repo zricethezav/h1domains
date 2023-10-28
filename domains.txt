@@ -1,13 +1,13 @@
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -139,7 +139,6 @@ card.starbucks.com.kz
 *.westelm.com.kw
 *.victoriassecret.com.qa
 *.thebodyshop.com.kw
-*.starbuckscardtr.com
 *.muji.qa
 *.mothercare.com.eg
 *.footlocker.com.eg
@@ -150,6 +149,7 @@ devimages.alshaya.com
 suppliertraining.alshaya.com
 sa.hm.com
 kw.boots.com
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -1903,9 +1903,9 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
 volans.tech
@@ -3053,8 +3053,8 @@ www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
@@ -7490,9 +7490,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8976,8 +8976,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
@@ -9198,8 +9198,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -9507,10 +9507,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
