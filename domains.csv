@@ -7076,8 +7076,8 @@ mtn_group,progressivetech.holdings,False
 mtn_group,ayo.ba,False
 datastax,downloads.datastax.com,True
 datastax,www.datastax.com,True
-datastax,astra.datastax.com,True
 datastax,docs.datastax.com,True
+datastax,astra.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -7782,9 +7782,9 @@ paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.xoom.com,True
 paypal,*.braintreepayments.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8038,9 +8038,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8733,8 +8733,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8859,9 +8859,9 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
-adobe,magento.com,True
-adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
+adobe,firefly.adobe.com,False
+adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
@@ -9045,8 +9045,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -9785,10 +9785,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
