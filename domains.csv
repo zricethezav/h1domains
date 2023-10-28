@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -8038,9 +8038,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9045,8 +9045,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -9785,10 +9785,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
