@@ -6,8 +6,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -148,8 +148,8 @@ card.starbucks.com.kz
 dev.alshaya.com
 devimages.alshaya.com
 suppliertraining.alshaya.com
-sa.hm.com
 kw.boots.com
+sa.hm.com
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -7490,9 +7490,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8037,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8858,9 +8858,9 @@ app.frame.io
 stream.frame.io
 repo.magento.com
 auth.services.adobe.com
+nicetryapril.na1.echosignsandbox.com
 magento.com
 firefly.adobe.com
-nicetryapril.na1.echosignsandbox.com
 *.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
@@ -9044,8 +9044,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -9184,8 +9184,8 @@ hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -9543,8 +9543,8 @@ streaklinks.com
 app.replyify.com
 blog.replyify.com
 track.replyify.com
-api.replyify.com
 replyify.com
+api.replyify.com
 app.replyify.com
 api.replyify.com
 replyify.com
