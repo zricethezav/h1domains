@@ -8037,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8819,11 +8819,11 @@ blog.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 help.ui.com
-rma.ui.com
 careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 account.ui.com
+rma.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
@@ -8858,10 +8858,10 @@ app.frame.io
 stream.frame.io
 repo.magento.com
 auth.services.adobe.com
+magento.com
+firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
-firefly.adobe.com
-magento.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -8976,8 +8976,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
@@ -9044,8 +9044,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -9179,8 +9179,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9197,8 +9197,8 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com

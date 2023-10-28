@@ -8038,9 +8038,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8820,11 +8820,11 @@ ui,blog.ui.com,False
 ui,ispdesign.ui.com,True
 ui,ca.store.ui.com,True
 ui,help.ui.com,False
-ui,rma.ui.com,True
 ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 ui,account.ui.com,True
+ui,rma.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True
@@ -8859,10 +8859,10 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
+adobe,magento.com,True
+adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
-adobe,firefly.adobe.com,False
-adobe,magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -8977,8 +8977,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -9045,8 +9045,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -9180,8 +9180,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -9198,8 +9198,8 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
-security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
+security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
