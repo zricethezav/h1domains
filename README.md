@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 30 08:11:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 30 09:10:20 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -567,8 +567,8 @@ pay.8x8.com
 admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3130,8 +3130,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 *.github.net
 github.com
 api.github.com
@@ -3627,11 +3627,11 @@ hackerone-ext-content.com
 www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 hackerone.live
+app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
