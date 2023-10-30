@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 30 18:11:52 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 30 19:10:36 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -351,9 +351,9 @@ relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 getpocket.com
-developer.mozilla.org
 www.mozilla.org
 monitor.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -518,8 +518,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 *.jit.si
 platform.8x8pilot.com
 work-staging.8x8.com
@@ -828,8 +828,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -1631,6 +1631,7 @@ www.pns.hk
 api.watsons.com.tw
 api.watsons.com.ph
 www10.watsons.com.my
+api.watsons.com.hk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3028,13 +3029,13 @@ www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
-www.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
