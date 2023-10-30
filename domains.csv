@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -76,8 +76,8 @@ brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
-palta,lensa-ai.com,True
 palta,prisma-ai.com,True
+palta,lensa-ai.com,True
 palta,neuralprisma.com,True
 palta,appapi.neuralprisma.com,True
 palta,neuralprisma.com,True
@@ -2135,11 +2135,11 @@ kkr_vdp,advisortimetracker.kkr.com,False
 kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -4191,6 +4191,8 @@ john-deere,kreiselelectric.com,False
 john-deere,sparkai.co,False
 john-deere,hagiegear.com,False
 john-deere,www.hagie.com,False
+john-deere,staging.harvestprofit.com,False
+john-deere,dealers.harvestprofit.com,False
 john-deere,api-meubanco.deere.com,False
 john-deere,meubanco.deere.com,False
 john-deere,formant.dev.bearflagrobotics.com,False
@@ -4377,6 +4379,7 @@ john-deere,staging.marksman.surepointag.com,False
 john-deere,www.surepointelectronics.com,False
 john-deere,vision-staging.johndeere.com,False
 john-deere,droneci.deere.com,False
+john-deere,dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -5482,11 +5485,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6559,7 +6562,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,user-profile.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,cloud8.8x8.com,False
-8x8,sso.8x8.com,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
 8x8,*.8x8.id,False
@@ -6572,6 +6574,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.jitsi.net,False
+8x8,sso.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
@@ -7456,9 +7459,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8447,8 +8450,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,getharvest.com,True
-harvest,id.getharvest.com,True
 harvest,harvestapp.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8825,8 +8828,8 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
-adobe,firefly.adobe.com,False
 adobe,magento.com,True
+adobe,firefly.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
@@ -9121,8 +9124,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -9736,10 +9739,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -9802,10 +9805,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
