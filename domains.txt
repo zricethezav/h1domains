@@ -147,9 +147,9 @@ card.starbucks.com.kz
 dev.alshaya.com
 devimages.alshaya.com
 suppliertraining.alshaya.com
+*.starbuckscardtr.com
 sa.hm.com
 kw.boots.com
-*.starbuckscardtr.com
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1682,8 +1682,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -1753,6 +1753,7 @@ admin.spoonflower.com
 shutterfly.com
 jcpportraits.com
 snapfish.com
+*.snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -1762,6 +1763,7 @@ blog.spoonflower.com
 www.spoonflower.com
 *.shutterfly.com
 *.shutterfly.com
+*.snapfish.com
 lifetouch.com
 jcpportraits.com
 prestigeportraits.com
@@ -6020,8 +6022,8 @@ store.playstation.com
 *.api.playstation.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -6064,9 +6066,9 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.xiaomiyoupin.com
 *.miwifi.com
 *.mi.com
+*.xiaomiyoupin.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -8037,9 +8039,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8857,8 +8859,8 @@ accounts.frame.io
 app.frame.io
 stream.frame.io
 repo.magento.com
-firefly.adobe.com
 magento.com
+firefly.adobe.com
 *.adobe.com
 nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
@@ -9179,8 +9181,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9507,10 +9509,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9718,10 +9720,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9784,10 +9786,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

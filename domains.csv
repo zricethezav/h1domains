@@ -148,9 +148,9 @@ alshaya,*.bathandbodyworks.com.kw,False
 alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1683,8 +1683,8 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
-mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
+mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
@@ -1754,6 +1754,7 @@ shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -1763,6 +1764,7 @@ shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,prestigeportraits.com,False
@@ -6021,8 +6023,8 @@ playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -6065,9 +6067,9 @@ polygon-technology,open-api.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
-xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
+xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -8038,9 +8040,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8858,8 +8860,8 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
-adobe,firefly.adobe.com,False
 adobe,magento.com,True
+adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
@@ -9180,8 +9182,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -9508,10 +9510,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9719,10 +9721,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -9785,10 +9787,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
