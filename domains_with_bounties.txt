@@ -637,8 +637,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.expediacruises.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1584,8 +1584,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 beta-cloud.acronis.com
-*.5nine.com
 account.acronis.com
+*.5nine.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -3791,10 +3791,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
