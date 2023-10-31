@@ -3055,8 +3055,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 *.personalcreations.com
 *.canvasworld.com
 www.gifts.com
@@ -4460,10 +4460,10 @@ moversguide.usps.com
 store.usps.com
 iv.usps.com
 id.usps.com
-www.usps.com
 reg.usps.com
 pi.usps.com
 www.liteblue.usps.gov
+www.usps.com
 retail-pi.usps.com
 iv.usps.com
 id.usps.com
@@ -5484,11 +5484,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7458,8 +7458,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8827,8 +8827,8 @@ accounts.frame.io
 app.frame.io
 stream.frame.io
 repo.magento.com
-firefly.adobe.com
 magento.com
+firefly.adobe.com
 auth.services.adobe.com
 *.adobe.com
 nicetryapril.na1.echosignsandbox.com
@@ -9149,8 +9149,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -9804,10 +9804,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

@@ -3056,8 +3056,8 @@ planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
@@ -4461,10 +4461,10 @@ usps,moversguide.usps.com,False
 usps,store.usps.com,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
-usps,www.usps.com,False
 usps,reg.usps.com,False
 usps,pi.usps.com,False
 usps,www.liteblue.usps.gov,False
+usps,www.usps.com,False
 usps,retail-pi.usps.com,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
@@ -5485,11 +5485,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -7459,8 +7459,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8828,8 +8828,8 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
-adobe,firefly.adobe.com,False
 adobe,magento.com,True
+adobe,firefly.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
@@ -9150,8 +9150,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -9805,10 +9805,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
