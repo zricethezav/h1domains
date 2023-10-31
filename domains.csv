@@ -15,7 +15,6 @@ cbre,*.norlandms.com,False
 cbre,*.norlandprojects.co.uk,False
 cbre,*.siteready.com,False
 cbre,*.spacespot.com,False
-cbre,*.yourhana.com,False
 cbre,asb.cbreesi.com,False
 cbre,bms.cbreesi.com,False
 cbre,conductor.cbreesi.com,False
@@ -43,6 +42,7 @@ cbre,mta-sts.mail1.facilitysource.com,False
 cbre,cbreproperties.cz,False
 cbre,cbre-marketplace.com,False
 cbre,cbrerm.com,False
+cbre,cbrelive.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -901,10 +901,10 @@ porsche-h1c,finder.porsche.com,True
 porsche-h1c,my.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
-porsche-h1c,signup.porsche.com,True
-porsche-h1c,shop.porsche.com,True
 porsche-h1c,identity.porsche.com,True
 porsche-h1c,porsche.com,True
+porsche-h1c,shop.porsche.com,True
+porsche-h1c,signup.porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -5600,8 +5600,8 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6408,11 +6408,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6559,8 +6559,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8382,8 +8382,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8929,9 +8929,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9736,8 +9736,8 @@ adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9852,8 +9852,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.muscache.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.muscache.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,api.airbnb.com,True

@@ -14,7 +14,6 @@
 *.norlandprojects.co.uk
 *.siteready.com
 *.spacespot.com
-*.yourhana.com
 asb.cbreesi.com
 bms.cbreesi.com
 conductor.cbreesi.com
@@ -42,6 +41,7 @@ mta-sts.mail1.facilitysource.com
 cbreproperties.cz
 cbre-marketplace.com
 cbrerm.com
+cbrelive.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -900,10 +900,10 @@ finder.porsche.com
 my.porsche.com
 newsroom.porsche.com
 configurator.porsche.com
-signup.porsche.com
-shop.porsche.com
 identity.porsche.com
 porsche.com
+shop.porsche.com
+signup.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -5599,8 +5599,8 @@ zsbsupport.zebra.com
 reflexisinc.com/
 downloads.zebra.com
 cmm01.sl.zebra.com
-*.profitect.com
 supportcommunity.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6407,11 +6407,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6558,8 +6558,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8381,8 +8381,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8928,9 +8928,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9735,8 +9735,8 @@ magento.com
 *.adobe.com
 *.adobeaemcloud.com
 firefly.adobe.com
-nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9851,8 +9851,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
-*.muscache.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
