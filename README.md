@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 31 11:10:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 31 12:11:04 UTC 2023)
 ```
-connect-store.porsche.com
 jobs.porsche.com
 api.emea.gravity.porsche.com
+connect-store.porsche.com
 skyway.porsche.com
-finder.porsche.com
 my.porsche.com
+finder.porsche.com
 newsroom.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-identity.porsche.com
 porsche.com
+identity.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -161,8 +161,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -488,8 +488,8 @@ http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.mwb-threatintel.com
 *.malwarebytes.com
@@ -589,8 +589,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.com
 *.luckydays.ca
@@ -1205,8 +1205,8 @@ rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
-consensys.net
 activate.codefi.network
+consensys.net
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1557,8 +1557,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2730,9 +2730,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3091,8 +3091,8 @@ api.blockchain.info
 ws.blockchain.info
 brave.com
 basicattentiontoken.org
-search.brave.com
 talk.brave.com
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3312,8 +3312,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
