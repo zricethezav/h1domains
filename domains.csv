@@ -3056,8 +3056,8 @@ planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
@@ -8006,9 +8006,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8817,7 +8817,6 @@ ui,blog.ui.com,False
 ui,training.ui.com,False
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
-adobe,*.adobeaemcloud.com,False
 adobe,*.mixamo.com,False
 adobe,community.adobe.com,False
 adobe,exchange.adobe.com,False
@@ -8829,10 +8828,11 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
 adobe,magento.com,True
-adobe,firefly.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,*.adobeaemcloud.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9739,10 +9739,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
