@@ -8,7 +8,6 @@ cbre,*.cbrebuild.com,False
 cbre,*.cbre-ea.com,False
 cbre,*.cbrecap.com,False
 cbre,*.cbreclarion.com,False
-cbre,*.cbrehotels.com,False
 cbre,*.cbreresidential.es,False
 cbre,*.cbrichardellis.com,False
 cbre,*.famecoretail.com,False
@@ -47,6 +46,7 @@ cbre,cbreproperties.cz,False
 cbre,cbre-marketplace.com,False
 cbre,cbrerm.com,False
 cbre,cbrelive.com,False
+cbre,www.navesylogisticacbre.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -2831,11 +2831,11 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
-indrive,injob.indriver.com,True
 indrive,super-services.indriverapp.com,True
 indrive,volans.tech,True
 indrive,wga.volans.tech,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
+indrive,injob.indriver.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -3059,9 +3059,9 @@ kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -4109,8 +4109,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,exness.com,True
 exness,pay.ibex.exchange,True
 exness,pwapi.ex2b.com,True
@@ -6412,11 +6412,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -7103,9 +7103,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8380,8 +8380,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -9734,8 +9734,8 @@ adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -10071,8 +10071,8 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,hackerone.live,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
@@ -10666,10 +10666,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

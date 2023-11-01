@@ -7,7 +7,6 @@ portal.au.frontegg.com
 *.cbre-ea.com
 *.cbrecap.com
 *.cbreclarion.com
-*.cbrehotels.com
 *.cbreresidential.es
 *.cbrichardellis.com
 *.famecoretail.com
@@ -46,6 +45,7 @@ cbreproperties.cz
 cbre-marketplace.com
 cbrerm.com
 cbrelive.com
+www.navesylogisticacbre.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -2830,11 +2830,11 @@ profile-api.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
-injob.indriver.com
 super-services.indriverapp.com
 volans.tech
 wga.volans.tech
 file-storage-front.eu-east-1.indriverapp.com
+injob.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -3058,9 +3058,9 @@ kinfra.com
 ksam.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 *.8x8.vc
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 work-staging.8x8.com
@@ -4108,8 +4108,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -6411,11 +6411,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7102,9 +7102,9 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8379,8 +8379,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -9733,8 +9733,8 @@ magento.com
 *.adobe.com
 firefly.adobe.com
 *.adobeaemcloud.com
-nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -10070,8 +10070,8 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
@@ -10665,10 +10665,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
