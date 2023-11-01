@@ -897,8 +897,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 api.emea.gravity.porsche.com
-connect-store.porsche.com
 jobs.porsche.com
+connect-store.porsche.com
 skyway.porsche.com
 finder.porsche.com
 newsroom.porsche.com
@@ -1581,8 +1581,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -4108,10 +4108,10 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
-exness.com
+my.exness.com
 pay.ibex.exchange
+exness.com
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
@@ -5305,6 +5305,7 @@ www.surepointelectronics.com
 vision-staging.johndeere.com
 droneci.deere.com
 dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com
+ewdocs.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -5746,8 +5747,8 @@ redditforbusiness.com
 accounts.reddit.com
 mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6411,11 +6412,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7059,8 +7060,8 @@ www.poddercentral.com
 www.omnipod.com
 www.insulet.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 music.amazon.com
@@ -8352,6 +8353,7 @@ www.priceline.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
+flyiin.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -8361,6 +8363,7 @@ cruises.priceline.com
 api.rezserver.com
 admin.rezserver.com
 www.getaroom.com
+flyiin.com
 press.priceline.com
 www.bookingholdings.com
 *.pyopenssl.org
@@ -8379,8 +8382,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10070,8 +10073,8 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
@@ -10430,10 +10433,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -10665,10 +10668,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
