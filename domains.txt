@@ -3054,17 +3054,17 @@ kinfra.com
 ksam.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 *.8x8.vc
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-*.8x8.id
 cloud8.8x8.com
 uc.8x8pilot.com
+*.8x8.id
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -3972,8 +3972,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 *.personalcreations.com
 *.canvasworld.com
 www.gifts.com
@@ -5599,8 +5599,8 @@ zsbsupport.zebra.com
 reflexisinc.com/
 downloads.zebra.com
 cmm01.sl.zebra.com
-supportcommunity.zebra.com
 *.profitect.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7099,8 +7099,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7131,8 +7131,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -7290,8 +7290,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7486,7 +7486,6 @@ cloud8.8x8.com
 *.8x8staging.com
 *.8x8pilot.com
 www.8x8.com
-*.8x8.id
 *.8x8.uk
 *.adgjmp.net
 *.chalet.8x8.com
@@ -7497,6 +7496,7 @@ pay.8x8.com
 *.jitsi.org
 *.jitsi.net
 sso.8x8.com
+*.8x8.id
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -8381,8 +8381,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10073,8 +10073,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -10727,10 +10727,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
