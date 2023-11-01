@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  1 19:11:30 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  1 20:11:23 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api.emea.gravity.porsche.com
-connect-store.porsche.com
 jobs.porsche.com
+connect-store.porsche.com
 skyway.porsche.com
 finder.porsche.com
 newsroom.porsche.com
@@ -18,8 +18,8 @@ my.porsche.com
 configurator.porsche.com
 signup.porsche.com
 identity.porsche.com
-porsche.com
 shop.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -1640,7 +1640,6 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
@@ -1649,6 +1648,7 @@ www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
 www.watsons.com.ph
+www.marionnaud.fr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -2052,8 +2052,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2736,9 +2736,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -4007,10 +4007,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
