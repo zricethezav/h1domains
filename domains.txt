@@ -11,8 +11,8 @@ dsparkingportal.com
 temp.msbpay.com
 apply2.navirefi.com
 www.pampayments.com
-sandiego.dsmyportal.com
 www.pamcollectionsin.com
+sandiego.dsmyportal.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
@@ -938,12 +938,12 @@ flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
 jobs.porsche.com
-api.emea.gravity.porsche.com
 connect-store.porsche.com
+api.emea.gravity.porsche.com
 skyway.porsche.com
-newsroom.porsche.com
 finder.porsche.com
 my.porsche.com
+newsroom.porsche.com
 configurator.porsche.com
 shop.porsche.com
 porsche.com
@@ -961,8 +961,8 @@ porsche.com
 shop.porsche.com
 signup.porsche.com
 skyway.porsche.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -3099,9 +3099,9 @@ kinfra.com
 ksam.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 *.8x8.vc
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 work-staging.8x8.com
@@ -4008,8 +4008,8 @@ paetec.net
 *.wealthscape.com
 *.fidelity.com
 www.personalcreations.com
-www.mycustomcase.com
 ai.planetart.com
+www.mycustomcase.com
 *.simplytoimpress.com
 *.mycustomcase.com
 www.photoaffections.com
@@ -9645,8 +9645,8 @@ linkpop.com
 shop.app
 *.shopifycloud.com
 partners.shopify.com
-*.shopifykloud.com
 shopifyinbox.com
+*.shopifykloud.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
