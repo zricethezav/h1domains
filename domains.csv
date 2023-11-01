@@ -898,8 +898,8 @@ porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,jobs.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
-porsche-h1c,finder.porsche.com,True
 porsche-h1c,my.porsche.com,True
+porsche-h1c,finder.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,shop.porsche.com,True
@@ -3055,9 +3055,9 @@ kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -3802,8 +3802,8 @@ mars,*.royalcaninfoodfinder.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
-mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
+mars,*.myroyalcanin.gr,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -5846,8 +5846,8 @@ chime,wp-integ.chime.com,True
 chime,wp-qa.chime.com,True
 glovo,*.testglovo.com,False
 glovo,*.glovoapp.com,False
-glovo,*.glovoint.com,False
 glovo,*.glovostore.com,False
+glovo,*.glovoint.com,False
 glovo,*.glovoapp.com,False
 glovo,*.glovoint.com,False
 glovo,*.glovostore.com,False
@@ -6408,11 +6408,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -7100,8 +7100,8 @@ alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8382,8 +8382,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8929,9 +8929,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -10055,8 +10055,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10074,8 +10074,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
