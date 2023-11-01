@@ -906,8 +906,8 @@ my.porsche.com
 configurator.porsche.com
 signup.porsche.com
 identity.porsche.com
-shop.porsche.com
 porsche.com
+shop.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -6412,11 +6412,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6563,8 +6563,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8382,8 +8382,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8789,7 +8789,6 @@ www.shipt.com
 *.arkadiyt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
 *.ayco.com
@@ -8798,6 +8797,7 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
+*.gsselect.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com

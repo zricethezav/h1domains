@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  1 18:11:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  1 19:11:30 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -18,8 +18,8 @@ my.porsche.com
 configurator.porsche.com
 signup.porsche.com
 identity.porsche.com
-shop.porsche.com
 porsche.com
+shop.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -1561,8 +1561,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2601,7 +2601,6 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
 *.ayco.com
@@ -2610,6 +2609,7 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
+*.gsselect.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
