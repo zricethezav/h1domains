@@ -924,8 +924,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2600,8 +2600,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -3972,8 +3972,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.personalcreations.com
 *.canvasworld.com
 www.gifts.com
@@ -5599,8 +5599,8 @@ zsbsupport.zebra.com
 reflexisinc.com/
 downloads.zebra.com
 cmm01.sl.zebra.com
-*.profitect.com
 supportcommunity.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -8928,9 +8928,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9734,9 +9734,9 @@ repo.magento.com
 magento.com
 *.adobe.com
 firefly.adobe.com
-auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.adobeaemcloud.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9851,8 +9851,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
-*.airbnb.com
 *.muscache.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
@@ -10054,8 +10054,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -10073,8 +10073,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -10727,10 +10727,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
