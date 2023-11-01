@@ -88,7 +88,6 @@ cbre,*.telfordhomes.london,False
 cbre,*.thinkesi.com,False
 cbre,*.uniongaming.com,False
 cbre,*.usequities.com,False
-cbre,*.yourhana.com,False
 cbre,*.cbre.*,False
 cbre,*.trammellcrow.com,False
 cbre,*.cbre-heery.com,False
@@ -897,13 +896,14 @@ cbre,fi-uat.nonprod.cbre.com,False
 cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
+cbre,fmsdemo-aws.dev.gcso.cbre.com,False
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,jobs.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,finder.porsche.com,True
-porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,my.porsche.com,True
+porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,identity.porsche.com,True
@@ -2552,8 +2552,8 @@ kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
-kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
+kolesagroup,m.krisha.kz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -3971,8 +3971,8 @@ planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,ai.planetart.com,False
 planetart,*.simplytoimpress.com,False
-planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
+planetart,www.photoaffections.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
@@ -4109,8 +4109,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -4267,8 +4267,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -8383,8 +8383,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -10074,8 +10074,8 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,hackerone.live,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
@@ -10669,10 +10669,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

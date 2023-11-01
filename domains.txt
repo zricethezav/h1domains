@@ -87,7 +87,6 @@ www.navesylogisticacbre.com
 *.thinkesi.com
 *.uniongaming.com
 *.usequities.com
-*.yourhana.com
 *.cbre.*
 *.trammellcrow.com
 *.cbre-heery.com
@@ -896,13 +895,14 @@ fi-uat.nonprod.cbre.com
 flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
+fmsdemo-aws.dev.gcso.cbre.com
 api.emea.gravity.porsche.com
 jobs.porsche.com
 connect-store.porsche.com
 skyway.porsche.com
 finder.porsche.com
-newsroom.porsche.com
 my.porsche.com
+newsroom.porsche.com
 configurator.porsche.com
 signup.porsche.com
 identity.porsche.com
@@ -2551,8 +2551,8 @@ api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
-m.krisha.kz
 app.avtoelon.uz
+m.krisha.kz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -3970,8 +3970,8 @@ www.personalcreations.com
 www.mycustomcase.com
 ai.planetart.com
 *.simplytoimpress.com
-www.photoaffections.com
 *.mycustomcase.com
+www.photoaffections.com
 www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
@@ -4108,8 +4108,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -4266,8 +4266,8 @@ new.myzap.com
 academy.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -8382,8 +8382,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10073,8 +10073,8 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
@@ -10668,10 +10668,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
