@@ -11,8 +11,8 @@ dsparkingportal.com
 temp.msbpay.com
 apply2.navirefi.com
 www.pampayments.com
-www.pamcollectionsin.com
 sandiego.dsmyportal.com
+www.pamcollectionsin.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
@@ -3098,9 +3098,9 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
+connect.8x8.com
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 *.jitsi.net
 *.jit.si
 platform.8x8pilot.com
@@ -5858,8 +5858,8 @@ customers.mattermost.com
 www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
-wp-integ.chime.com
 wp-dev1.chime.com
+wp-integ.chime.com
 *.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
@@ -6453,11 +6453,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -9338,8 +9338,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -10095,8 +10095,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -10709,10 +10709,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

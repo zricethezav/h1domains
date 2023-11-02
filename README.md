@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  2 03:10:50 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  2 04:11:05 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -544,9 +544,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
+connect.8x8.com
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 *.jitsi.net
 *.jit.si
 platform.8x8pilot.com
@@ -1356,8 +1356,8 @@ customers.mattermost.com
 www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
-wp-integ.chime.com
 wp-dev1.chime.com
+wp-integ.chime.com
 *.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
@@ -3060,8 +3060,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -3642,8 +3642,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -3944,10 +3944,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
