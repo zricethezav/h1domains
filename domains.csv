@@ -12,8 +12,8 @@ navient_solutions,dsparkingportal.com,False
 navient_solutions,temp.msbpay.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,www.pampayments.com,False
-navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.pamcollectionsin.com,False
+navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
@@ -947,9 +947,9 @@ porsche-h1c,finder.porsche.com,True
 porsche-h1c,my.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,shop.porsche.com,True
-porsche-h1c,identity.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,porsche.com,True
+porsche-h1c,identity.porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -3099,10 +3099,10 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -4256,8 +4256,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -4308,8 +4308,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -8424,8 +8424,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8971,9 +8971,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -10097,8 +10097,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
