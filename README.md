@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  2 04:11:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  2 05:10:15 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -17,9 +17,9 @@ finder.porsche.com
 my.porsche.com
 configurator.porsche.com
 signup.porsche.com
-identity.porsche.com
 shop.porsche.com
 porsche.com
+identity.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -2736,9 +2736,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
