@@ -12,8 +12,8 @@ navient_solutions,dsparkingportal.com,False
 navient_solutions,temp.msbpay.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,www.pampayments.com,False
-navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.pamcollectionsin.com,False
+navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
@@ -939,8 +939,8 @@ cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
 porsche-h1c,api.emea.gravity.porsche.com,True
-porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,jobs.porsche.com,True
+porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,finder.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
@@ -5069,8 +5069,8 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -8973,9 +8973,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9779,8 +9779,8 @@ adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
@@ -10477,10 +10477,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
