@@ -1264,8 +1264,8 @@ abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.alfam.nl,False
 abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*abnamroprivatebanking.be,False
-abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.tikkie.me,False
+abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.abnamrolease.com,False
 abn_amro_vdp,*.abnamro.org,False
 abn_amro_vdp,*neuflizeobc.fr,False
@@ -1340,8 +1340,8 @@ aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,1882energyventures.com,False
@@ -2652,12 +2652,12 @@ mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
+mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
@@ -3101,8 +3101,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -4018,8 +4018,8 @@ planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
@@ -9698,9 +9698,9 @@ shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10759,10 +10759,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

@@ -1263,8 +1263,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.abnamro.nl
 *.tikkie.me
+*.abnamro.nl
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -1339,8 +1339,8 @@ aboitizpower.info
 adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 1882energyventures.com
@@ -2651,12 +2651,12 @@ sync.services.mozilla.com
 push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
-addons.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
+addons.allizom.org
 crash-reports.allizom.org
 location.services.mozilla.com
 phabricator.allizom.org
@@ -3100,8 +3100,8 @@ ksam.com
 work.8x8.com
 *.8x8.vc
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.jit.si
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -4017,8 +4017,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
@@ -9697,9 +9697,9 @@ partners.shopify.com
 shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10758,10 +10758,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
