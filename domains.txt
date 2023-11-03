@@ -938,8 +938,8 @@ flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
 api.emea.gravity.porsche.com
-jobs.porsche.com
 connect-store.porsche.com
+jobs.porsche.com
 skyway.porsche.com
 finder.porsche.com
 newsroom.porsche.com
@@ -4017,8 +4017,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
@@ -4281,8 +4281,8 @@ www.alohi.com
 *.bhgre.*
 *.century21.*
 *.corcoran.*
-*.sothebysrealty.*
 *.nrtllc.*
+*.sothebysrealty.*
 *.realogy.*
 *.cbcworldwide.*
 *.mycbdesk.com
@@ -5068,8 +5068,8 @@ main.trafficfactory.biz
 *.eops.nl
 cloud.elastic.co
 *.elstc.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -6455,11 +6455,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6804,6 +6804,7 @@ api.watsons.com.tw
 api.watsons.com.ph
 www10.watsons.com.my
 api.watsons.com.hk
+api.watsons.co.id
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -8425,8 +8426,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10711,10 +10712,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -10777,10 +10778,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

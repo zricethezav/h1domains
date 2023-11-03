@@ -939,8 +939,8 @@ cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
 porsche-h1c,api.emea.gravity.porsche.com,True
-porsche-h1c,jobs.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
+porsche-h1c,jobs.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,finder.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
@@ -4018,8 +4018,8 @@ planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
@@ -4282,8 +4282,8 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.mycbdesk.com,False
@@ -5069,8 +5069,8 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -6456,11 +6456,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6805,6 +6805,7 @@ watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,api.watsons.co.id,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -8426,8 +8427,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -10712,10 +10713,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -10778,10 +10779,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
