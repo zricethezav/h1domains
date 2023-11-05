@@ -948,8 +948,8 @@ porsche-h1c,my.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,shop.porsche.com,True
 porsche-h1c,identity.porsche.com,True
-porsche-h1c,porsche.com,True
 porsche-h1c,signup.porsche.com,True
+porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -4864,9 +4864,9 @@ epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
 epicgames,capturingreality.com,True
 epicgames,*.bcbits.com,True
-epicgames,*.mediatonic.co.uk,True
 epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
+epicgames,*.mediatonic.co.uk,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
@@ -5128,7 +5128,6 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
-john-deere,johndeereinnovation.com,False
 john-deere,map.deere.com,False
 john-deere,us-central-1.r4.abc.expertconnect.support,False
 john-deere,us-central-1.r4.xyz.expertconnect.support,False
@@ -5167,6 +5166,7 @@ john-deere,mail.kreiselelectric.com,False
 john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
+john-deere,ghost.harvestprofit.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6494,11 +6494,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -9690,9 +9690,9 @@ shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10157,8 +10157,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -10759,10 +10759,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
