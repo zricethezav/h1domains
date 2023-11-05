@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  5 07:09:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov  5 08:10:47 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -545,8 +545,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 work-staging.8x8.com
@@ -2432,8 +2432,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3205,8 +3205,8 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-api.grofers.com
 api2.grofers.com
+api.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
@@ -3514,8 +3514,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3656,9 +3656,9 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
@@ -3832,10 +3832,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3945,10 +3945,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
