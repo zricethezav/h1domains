@@ -947,8 +947,8 @@ my.porsche.com
 configurator.porsche.com
 shop.porsche.com
 identity.porsche.com
-signup.porsche.com
 porsche.com
+signup.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -3100,8 +3100,8 @@ ksam.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 *.jit.si
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -4022,8 +4022,8 @@ www.canvasworld.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4298,8 +4298,8 @@ new.myzap.com
 new.myzap.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
