@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  6 12:13:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov  6 13:12:33 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1045,8 +1045,8 @@ wonderboxdev.com
 capturingreality.com
 *.bcbits.com
 *.popjam.com
-fortnite.com
 *.mediatonic.co.uk
+fortnite.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3325,9 +3325,9 @@ partners.shopify.com
 shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3661,10 +3661,10 @@ reviewer.pullrequest.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone.live
 errors.hackerone.net
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
