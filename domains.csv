@@ -946,9 +946,9 @@ porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,finder.porsche.com,True
 porsche-h1c,my.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
+porsche-h1c,identity.porsche.com,True
 porsche-h1c,shop.porsche.com,True
 porsche-h1c,signup.porsche.com,True
-porsche-h1c,identity.porsche.com,True
 porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
@@ -2862,8 +2862,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -4022,8 +4022,8 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -4397,6 +4397,7 @@ mondelez,cadbury-gifting.com,False
 mondelez,fodboldrejse.marabou.dk,False
 mondelez,marabouchokladhus.se,False
 mondelez,oreo.kz,False
+mondelez,potursinejnostta.milka.bg,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -4664,6 +4665,7 @@ mondelez,cadburygift.com,False
 mondelez,epack.mondelezinternational.com,False
 mondelez,mitiendamondelez.com.ar,False
 mondelez,cadbury-gifting.com,False
+mondelez,https://otm.croc.ru,False
 mondelez,100jaar.liga.nl,False
 mondelez,7days-promo.com,False
 mondelez,bakerypromo.milka.nl,False
@@ -4693,7 +4695,6 @@ mondelez,trident.gr,False
 mondelez,vyhrajschuti.cz,False
 mondelez,vyhrajschutou.sk,False
 mondelez,worldclass.cadburyfc.com,False
-mondelez,https://otm.croc.ru,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
 mondelez,https://oreo.ru,False
@@ -6843,7 +6844,7 @@ watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
-watson_group,api.watsons.co.id,True
+watson_group,app.watsons.com.tr,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -9012,9 +9013,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9726,8 +9727,8 @@ snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -10150,9 +10151,9 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
-security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,www.hackerone.com,True
+security,reviewer.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
