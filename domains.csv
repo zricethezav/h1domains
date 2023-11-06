@@ -1340,8 +1340,8 @@ aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
-aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
+aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,1882energyventures.com,False
@@ -4022,8 +4022,8 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -9569,9 +9569,9 @@ gitlab,about.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
-zomato,api2.grofers.com,True
 zomato,api.grofers.com,True
 zomato,*.hyperpure.com,True
+zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomans.com,True
@@ -9687,9 +9687,9 @@ shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
-shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True

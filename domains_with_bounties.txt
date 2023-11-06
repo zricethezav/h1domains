@@ -3199,9 +3199,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-api2.grofers.com
 api.grofers.com
 *.hyperpure.com
+api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
@@ -3315,9 +3315,9 @@ your-store.myshopify.com
 linkpop.com
 *.shopifycloud.com
 shop.app
-partners.shopify.com
 shopifyinbox.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com

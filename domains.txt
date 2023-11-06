@@ -1339,8 +1339,8 @@ aboitizpower.info
 adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
-*.visayanelectric.com
 *.aboitizpower.com
+*.visayanelectric.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 1882energyventures.com
@@ -4021,8 +4021,8 @@ www.canvasworld.com
 *.photoaffections.com
 *.canvasworld.com
 *.iseeme.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
@@ -9568,9 +9568,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-api2.grofers.com
 api.grofers.com
 *.hyperpure.com
+api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
@@ -9686,9 +9686,9 @@ your-store.myshopify.com
 linkpop.com
 *.shopifycloud.com
 shop.app
-partners.shopify.com
 shopifyinbox.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
