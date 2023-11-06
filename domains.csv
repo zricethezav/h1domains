@@ -970,8 +970,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -4012,8 +4012,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
+planetart,*.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
@@ -4023,8 +4023,8 @@ planetart,*.photoaffections.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4299,8 +4299,8 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,databricks.com,True
 databricks,demo.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
@@ -9012,9 +9012,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True

@@ -969,8 +969,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -4011,8 +4011,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.simplytoimpress.com
 *.mycustomcase.com
+*.simplytoimpress.com
 www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
@@ -4022,8 +4022,8 @@ www.canvasworld.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4298,8 +4298,8 @@ new.myzap.com
 new.myzap.com
 academy.databricks.com
 docs.databricks.com
-databricks.com
 demo.cloud.databricks.com
+databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -9011,9 +9011,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
