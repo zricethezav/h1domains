@@ -1132,7 +1132,6 @@ alshaya,*.shakeshack.co.uk,False
 alshaya,*.potterybarnkids.ae,False
 alshaya,*.potterybarn.com.sa,False
 alshaya,*.potterybarn.ae,False
-alshaya,*.mothercare.com.sa,False
 alshaya,*.mothercare.com.kw,False
 alshaya,*.footlocker.ae,False
 alshaya,*.debenhams.ae,False
@@ -1140,6 +1139,7 @@ alshaya,*.bathandbodyworks.jo,False
 alshaya,*.carrier.alshaya.com,False
 alshaya,customercare.alshaya.com,False
 alshaya,kuwait.kidzania.com,False
+alshaya,*.debenhams.com.kw,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -8465,8 +8465,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8718,12 +8718,12 @@ fanduel,fdbox.net,True
 fanduel,sportsbook.fanduel.com,True
 fanduel,mobile-prod.tvg.com,True
 fanduel,www.tvg.com,True
-fanduel,*racing.fanduel.com,True
 fanduel,tvg.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*.fanduel.com,True
+fanduel,*racing.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -8775,12 +8775,12 @@ paypal,*.paydiant.com,True
 paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
-paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
 paypal,paypalobjects.com,True
+paypal,loanbuilder.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9012,9 +9012,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -10825,10 +10825,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True

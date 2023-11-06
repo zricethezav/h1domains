@@ -1131,7 +1131,6 @@ sa.cosstores.com
 *.potterybarnkids.ae
 *.potterybarn.com.sa
 *.potterybarn.ae
-*.mothercare.com.sa
 *.mothercare.com.kw
 *.footlocker.ae
 *.debenhams.ae
@@ -1139,6 +1138,7 @@ sa.cosstores.com
 *.carrier.alshaya.com
 customercare.alshaya.com
 kuwait.kidzania.com
+*.debenhams.com.kw
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -8464,8 +8464,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8717,12 +8717,12 @@ fdbox.net
 sportsbook.fanduel.com
 mobile-prod.tvg.com
 www.tvg.com
-*racing.fanduel.com
 tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *.fanduel.com
+*racing.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -8774,12 +8774,12 @@ pigeon.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
-loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
+loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -9011,9 +9011,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -10824,10 +10824,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
