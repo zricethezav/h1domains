@@ -4021,8 +4021,8 @@ www.canvasworld.com
 *.photoaffections.com
 *.canvasworld.com
 *.iseeme.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
@@ -8465,8 +8465,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8767,8 +8767,8 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
 *.venmo.com
-*.paypal.com
 my.loanbuilder.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -9012,9 +9012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9180,8 +9180,8 @@ grab.careers
 *.grabtaxi.com
 wiki.grab.com
 gifts.grab.com
-*.grab-sure.com
 *.grabpay.com
+*.grab-sure.com
 api.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
@@ -10526,10 +10526,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -10827,10 +10827,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
