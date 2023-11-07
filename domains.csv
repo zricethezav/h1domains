@@ -2600,8 +2600,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -6679,12 +6679,12 @@ logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
-logitech,circle.logi.com,True
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
 logitech,jira.logitech.com,False
 logitech,logitechgchallenge.com,False
+logitech,circle.logi.com,True
 logitech,id.logi.com,True
 logitech,*.logitechmusic.com,False
 logitech,*.melonapp.com,False
@@ -9827,8 +9827,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
