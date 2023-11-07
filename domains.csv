@@ -939,8 +939,8 @@ cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
 porsche-h1c,api.emea.gravity.porsche.com,True
-porsche-h1c,jobs.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
+porsche-h1c,jobs.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,finder.porsche.com,True
@@ -948,8 +948,8 @@ porsche-h1c,my.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,shop.porsche.com,True
 porsche-h1c,signup.porsche.com,True
-porsche-h1c,porsche.com,True
 porsche-h1c,identity.porsche.com,True
+porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -1502,8 +1502,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -4994,8 +4994,8 @@ gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,federation.data.gov,True
 gsa_bbp,admin.fr.cloud.gov,True
 gsa_bbp,nessus.fr.cloud.gov,True
-gsa_bbp,api.data.gov,True
 gsa_bbp,tock.18f.gov,True
+gsa_bbp,api.data.gov,True
 gsa_bbp,dashboard.fr.cloud.gov,True
 gsa_bbp,sdg.data.gov,True
 gsa_bbp,labs.data.gov,True
@@ -6830,9 +6830,9 @@ watson_group,www10.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
-watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.watsons.com.tr,True
+watson_group,www.marionnaud.fr,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
@@ -8466,8 +8466,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8723,8 +8723,8 @@ fanduel,tvg.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,*racing.fanduel.com,True
 fanduel,*.fanduel.com,True
+fanduel,*racing.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -8767,9 +8767,9 @@ paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,paypal.me,True
-paypal,my.loanbuilder.com,True
 paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,my.loanbuilder.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True

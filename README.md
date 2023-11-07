@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  6 23:10:54 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov  7 00:21:24 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api.emea.gravity.porsche.com
-jobs.porsche.com
 connect-store.porsche.com
+jobs.porsche.com
 skyway.porsche.com
 newsroom.porsche.com
 finder.porsche.com
@@ -18,8 +18,8 @@ my.porsche.com
 configurator.porsche.com
 shop.porsche.com
 signup.porsche.com
-porsche.com
 identity.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -165,8 +165,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1156,8 +1156,8 @@ account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
 tock.18f.gov
+api.data.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
@@ -1646,9 +1646,9 @@ www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.watsons.com.ph
 www.watsons.com.tr
+www.marionnaud.fr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -2460,8 +2460,8 @@ tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*racing.fanduel.com
 *.fanduel.com
+*racing.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2502,9 +2502,9 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
-my.loanbuilder.com
 *.paypal.com
 *.venmo.com
+my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
