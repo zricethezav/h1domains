@@ -1501,8 +1501,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -4022,8 +4022,8 @@ www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
 *.personalcreations.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4141,8 +4141,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -4180,8 +4180,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -5387,6 +5387,7 @@ droneci.deere.com
 dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com
 ewdocs.deere.com
 i3dhub.ghns-web-platform-r2-prod-standalone4.eu.e00.c01.johndeerecloud.com
+wwhui-legacy.channel-warranty-warehouse-devl-vpn2.us.e06.c01.johndeerecloud.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -6494,11 +6495,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7179,8 +7180,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -8471,8 +8472,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8728,8 +8729,8 @@ tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -9018,9 +9019,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -10532,10 +10533,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com

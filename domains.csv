@@ -1502,8 +1502,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -4023,8 +4023,8 @@ planetart,*.photoaffections.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4142,8 +4142,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -4181,8 +4181,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
-etoro_bbp,delta.app,True
 etoro_bbp,www.etoro.com,True
+etoro_bbp,delta.app,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -5388,6 +5388,7 @@ john-deere,droneci.deere.com,False
 john-deere,dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com,False
 john-deere,ewdocs.deere.com,False
 john-deere,i3dhub.ghns-web-platform-r2-prod-standalone4.eu.e00.c01.johndeerecloud.com,False
+john-deere,wwhui-legacy.channel-warranty-warehouse-devl-vpn2.us.e06.c01.johndeerecloud.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -6495,11 +6496,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -7180,8 +7181,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
@@ -8472,8 +8473,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8729,8 +8730,8 @@ fanduel,tvg.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9019,9 +9020,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -10533,10 +10534,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
