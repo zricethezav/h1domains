@@ -947,8 +947,8 @@ porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,shop.porsche.com,True
 porsche-h1c,identity.porsche.com,True
-porsche-h1c,porsche.com,True
 porsche-h1c,signup.porsche.com,True
+porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -3470,8 +3470,8 @@ resmed,app.citushealth.com/,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
-resmed,careers.resmed.com,False
 resmed,www.citushealth.com,False
+resmed,careers.resmed.com,False
 resmed,myair.resmed.com,False
 resmed,airview.resmed.com,False
 resmed,resmed.hk,False
@@ -7310,11 +7310,11 @@ kindred_group,*.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.storspiller.com,True
-kindred_group,*.vladcazino.ro,True
 kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.kes.kindredext.net,True
+kindred_group,*.vladcazino.ro,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.storspiller.com,True
@@ -8146,9 +8146,9 @@ pixiv,payment.pixiv.net,True
 pixiv,neoket.net,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
-pixiv,*.fanbox.cc,True
 pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
+pixiv,*.fanbox.cc,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,sketch.pixiv.net,True
