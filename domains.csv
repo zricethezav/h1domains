@@ -4300,8 +4300,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -6581,11 +6581,11 @@ basecamp,launchpad.37signals.com,True
 basecamp,world.hey.com,True
 citrix,*developer.cloud.com,False
 citrix,sf-rp-eu.sharefile.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,www.cloud.com,True
 citrix,api.sharefile.com,True
 citrix,accounts.cloud.com,True
 citrix,*.browser.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -10158,12 +10158,12 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
 security,ctf.hacker101.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
