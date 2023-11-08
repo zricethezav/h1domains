@@ -1515,12 +1515,12 @@ visa,www.visa.com.hk,True
 visa,www.visa.com.lc,True
 visa,www.visa.com.ph,True
 visa,visa.com.ua,True
-visa,www.visa.co.jp,True
 visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.tw,True
 visa,www.practicalmoneyskills.com,True
+visa,www.visa.co.jp,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,www.visa.com.cy,True
@@ -4008,9 +4008,9 @@ fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
-planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,ai.planetart.com,False
+planetart,www.personalcreations.com,False
 planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
@@ -4271,8 +4271,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.era.com,False
-anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
@@ -10165,11 +10165,11 @@ security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
 security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
