@@ -4144,8 +4144,8 @@ shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 exness,exnessaffiliates.com,True
 exness,my.exness.com,True
-exness,pay.ibex.exchange,True
 exness,exness.com,True
+exness,pay.ibex.exchange,True
 exness,pwapi.ex2b.com,True
 exness,social-trading.exness.com,True
 exness,api.excalls.mobi,True
@@ -9001,9 +9001,9 @@ crypto,testnet-croeseid-4.crypto.org,True
 crypto,https://crypto.com/nft,True
 crypto,tax.crypto.com,True
 crypto,https://crypto.com/price,True
-newrelic,insights.eu.newrelic.com,True
 newrelic,*.eu.newrelic.com,True
 newrelic,docs.newrelic.com,True
+newrelic,insights.eu.newrelic.com,True
 newrelic,developer.newrelic.com,True
 newrelic,infrastructure.eu.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
