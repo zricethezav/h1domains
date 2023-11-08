@@ -9691,8 +9691,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
-shopify,shop.app,True
 shopify,linkpop.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
@@ -10121,8 +10121,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
