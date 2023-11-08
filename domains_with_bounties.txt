@@ -1626,8 +1626,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -2213,9 +2213,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3154,10 +3154,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 gist.github.com
-*.githubusercontent.com
 npmjs.org
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3311,8 +3311,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-linkpop.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com

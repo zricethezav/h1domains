@@ -63,7 +63,6 @@ cbre,bms.cbreesi.com,False
 cbre,conductor.cbreesi.com,False
 cbre,iopleasant.cbreesi.com,False
 cbre,mosaic-bff.cbreesi.com,False
-cbre,emea.cbreglobalinvestors.com,False
 cbre,lp1.cbreinvestors.com,False
 cbre,lp3.cbreinvestors.com,False
 cbre,pcg.cbre.com.au,False
@@ -3180,10 +3179,10 @@ doppler,doppler.team,True
 doppler,api.doppler.com,True
 doppler,dashboard.doppler.com,True
 doppler,share.doppler.com,True
-us-department-of-state,*.IBWC.GOV,False
 us-department-of-state,*.SUPPORTFAN.GOV,False
 us-department-of-state,*.USDOSCLOUD.GOV,False
 us-department-of-state,*.FAN.GOV,False
+us-department-of-state,*.IBWC.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.OSAC.GOV,False
@@ -3847,8 +3846,8 @@ mars,*.royalcaninfoodfinder.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
-mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
+mars,*.myroyalcanin.gr,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -6677,8 +6676,8 @@ logitech,alert.logitech.com,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
 logitech,www.logitechg.com,True
-logitech,*.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -6816,8 +6815,8 @@ acronis,account.acronis.com,True
 affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
 affirm,helpcenter.affirm.com,True
-affirm,hackerone.affirm-odin.com,True
 affirm,helpcenter.affirm.ca,True
+affirm,hackerone.affirm-odin.com,True
 affirm,hackerone.affirm-odin.com,True
 affirm,helpcenter.affirm.ca,True
 affirm,helpcenter.affirm.com,True
@@ -8440,9 +8439,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9532,10 +9531,10 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -9691,8 +9690,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
-shopify,linkpop.com,True
 shopify,shop.app,True
+shopify,linkpop.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 19:09:17 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 20:12:15 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1632,8 +1632,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -2219,9 +2219,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3160,10 +3160,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 gist.github.com
-*.githubusercontent.com
 npmjs.org
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3317,8 +3317,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-linkpop.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com

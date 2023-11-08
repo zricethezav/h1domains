@@ -62,7 +62,6 @@ bms.cbreesi.com
 conductor.cbreesi.com
 iopleasant.cbreesi.com
 mosaic-bff.cbreesi.com
-emea.cbreglobalinvestors.com
 lp1.cbreinvestors.com
 lp3.cbreinvestors.com
 pcg.cbre.com.au
@@ -3179,10 +3178,10 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.IBWC.GOV
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
 *.FAN.GOV
+*.IBWC.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV
@@ -3846,8 +3845,8 @@ fossil.at
 banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.be
-*.myroyalcanin.gr
 *.banfield.com
+*.myroyalcanin.gr
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -6676,8 +6675,8 @@ alert.logitech.com
 *.crossclip.com
 *.logi.com
 www.logitechg.com
-*.logitech.com
 *.myharmony.com
+*.logitech.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -6815,8 +6814,8 @@ account.acronis.com
 direct-hackerone.affirm-odin.com
 vcn-hackerone.affirm-odin.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -8439,9 +8438,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9531,10 +9530,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 gist.github.com
-*.githubusercontent.com
 npmjs.org
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -9690,8 +9689,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-linkpop.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com
