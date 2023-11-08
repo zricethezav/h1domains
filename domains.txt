@@ -2568,9 +2568,9 @@ www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadopago.com.uy
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadopago.com.pe
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -10148,8 +10148,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
