@@ -943,8 +943,8 @@ porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,jobs.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
-porsche-h1c,finder.porsche.com,True
 porsche-h1c,my.porsche.com,True
+porsche-h1c,finder.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,shop.porsche.com,True
@@ -4181,8 +4181,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
-etoro_bbp,www.etoro.com,True
 etoro_bbp,delta.app,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -4273,9 +4273,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
+anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.mycbdesk.com,False
@@ -9942,10 +9942,10 @@ airbnb,*.withairbnb.com,True
 airbnb,one.airbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10149,8 +10149,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
