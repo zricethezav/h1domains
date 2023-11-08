@@ -948,8 +948,8 @@ porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,shop.porsche.com,True
-porsche-h1c,porsche.com,True
 porsche-h1c,identity.porsche.com,True
+porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -9580,8 +9580,8 @@ zomato,api2.grofers.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomans.com,True
 zomato,*.zdev.net,True
+zomato,*.zomans.com,True
 zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
@@ -9697,9 +9697,9 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9731,10 +9731,10 @@ snapchat,www.bitmoji.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -9826,8 +9826,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
+adobe,auth.services.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False

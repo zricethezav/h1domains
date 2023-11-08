@@ -947,8 +947,8 @@ newsroom.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-porsche.com
 identity.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -9579,8 +9579,8 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zomans.com
 *.zdev.net
+*.zomans.com
 *.zomato.com
 *.runnr.in
 *.zomato.com
@@ -9696,9 +9696,9 @@ shop.app
 partners.shopify.com
 shopifyinbox.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -9730,10 +9730,10 @@ www.bitmoji.com
 rt.playcanvas.com
 playcanvas.com
 snappublisher.snapchat.com
-business.snapchat.com
 store.snapchat.com
 app.snapchat.com
 my.snapchat.com
+business.snapchat.com
 spectacles.com
 *.sc-corp.net
 web.snapchat.com
@@ -9825,8 +9825,8 @@ repo.magento.com
 firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
-auth.services.adobe.com
 *.adobe.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
