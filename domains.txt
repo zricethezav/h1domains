@@ -8702,8 +8702,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -9698,9 +9698,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10448,10 +10448,10 @@ storage.jimdosite.com
 websitegenerator.jimdosite.com
 *.jimdo.com
 store.jimdosite.com
-a.jimdo.com
 *.jimdoreseller.com
 *.jimdoapi.com
 *.jimdo-server.com
+a.jimdo.com
 *.jimdosite.com
 *.jimdoreseller.com
 *.jimdo-platform.net

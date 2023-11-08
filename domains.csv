@@ -8703,8 +8703,8 @@ hyatt,www.triseptapi.com,True
 hyatt,www.triseptdemo.com,True
 hyatt,vacations.united.com,True
 hyatt,www.applevacations.com,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -9699,9 +9699,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10449,10 +10449,10 @@ jimdo,storage.jimdosite.com,False
 jimdo,websitegenerator.jimdosite.com,False
 jimdo,*.jimdo.com,False
 jimdo,store.jimdosite.com,False
-jimdo,a.jimdo.com,False
 jimdo,*.jimdoreseller.com,False
 jimdo,*.jimdoapi.com,False
 jimdo,*.jimdo-server.com,False
+jimdo,a.jimdo.com,False
 jimdo,*.jimdosite.com,False
 jimdo,*.jimdoreseller.com,False
 jimdo,*.jimdo-platform.net,False
