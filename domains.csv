@@ -7566,8 +7566,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
-8x8,connect.8x8.com,False
 8x8,admin.8x8.com,False
+8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9578,8 +9578,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api.grofers.com,True
-zomato,*.hyperpure.com,True
 zomato,api2.grofers.com,True
+zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomans.com,True

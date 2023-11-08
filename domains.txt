@@ -7565,8 +7565,8 @@ get8x8.com
 *.thinkingphones.com
 *.8x8cloud.net
 *.8x8.com
-connect.8x8.com
 admin.8x8.com
+connect.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -9577,8 +9577,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api.grofers.com
-*.hyperpure.com
 api2.grofers.com
+*.hyperpure.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
