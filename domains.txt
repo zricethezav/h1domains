@@ -1301,9 +1301,9 @@ thepostoakhotel.com
 aqbeerfest.com
 chefsdinners.com
 lilliesasiancuisine.com
-aqwine.com
 muer.com
 shoppostoak.com
+aqwine.com
 aqbeerfest.com
 aqwine.com
 boardwalkfantasea.com
@@ -3693,8 +3693,8 @@ fossilmy.com
 watchstationhk.com
 *.cdgcitizen.com
 *.smartwatchstations.com
-*.fossil.com
 *.fossilgroup.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
