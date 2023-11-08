@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 15:10:17 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 16:13:06 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -12,14 +12,14 @@ api.emea.gravity.porsche.com
 connect-store.porsche.com
 jobs.porsche.com
 skyway.porsche.com
-newsroom.porsche.com
 my.porsche.com
 finder.porsche.com
+newsroom.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-identity.porsche.com
 porsche.com
+identity.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -532,8 +532,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2456,12 +2456,12 @@ sportsbook.fanduel.com
 fdbox.net
 mobile-prod.tvg.com
 www.tvg.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
