@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 11:09:55 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 12:13:42 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -18,8 +18,8 @@ finder.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-porsche.com
 identity.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2826,7 +2826,6 @@ ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 tunnistus.lahitapiola.fi
 api.lahitapiola.fi
-myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
@@ -2834,9 +2833,9 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2845,7 +2844,6 @@ www.tapiola.fi
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-myynti.lahitapiolarahoitus.fi
 tunnistus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -3321,9 +3319,9 @@ your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 linkpop.com
-shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
+shopifyinbox.com
 shopify.plus
 admin.shopify.com
 *.shopify.com

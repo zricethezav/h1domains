@@ -44,7 +44,6 @@ frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
-cbre,*.trammellcrow.com,False
 cbre,*.cbrebuild.com,False
 cbre,*.cbre-ea.com,False
 cbre,*.cbrecap.com,False
@@ -88,6 +87,7 @@ cbre,cbre-marketplace.com,False
 cbre,cbrerm.com,False
 cbre,cbrelive.com,False
 cbre,www.navesylogisticacbre.com,False
+cbre,dev.www.cartonspleins.fr,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -948,8 +948,8 @@ porsche-h1c,finder.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,shop.porsche.com,True
-porsche-h1c,porsche.com,True
 porsche-h1c,identity.porsche.com,True
+porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -970,8 +970,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -9122,7 +9122,6 @@ localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
-localtapiola,myynti.lahitapiolarahoitus.fi,True
 localtapiola,secure.lahitapiola.fi,True
 localtapiola,lisasijoitus.lahitapiola.fi,True
 localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
@@ -9130,9 +9129,9 @@ localtapiola,www.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,*.tapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -9141,7 +9140,6 @@ localtapiola,www.tapiola.fi,True
 localtapiola,verkkopalvelu.tapiola.fi,True
 localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,secure.lahitapiola.fi,True
-localtapiola,myynti.lahitapiolarahoitus.fi,True
 localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,lisasijoitus.lahitapiola.fi,True
@@ -9695,9 +9693,9 @@ shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True
-shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
+shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
