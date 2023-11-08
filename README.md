@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 20:12:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 21:11:24 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -2219,9 +2219,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3162,8 +3162,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

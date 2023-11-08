@@ -2213,9 +2213,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3156,8 +3156,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

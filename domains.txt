@@ -8263,7 +8263,6 @@ chaodeudas.cl
 *.paynet.ca
 *.paynet.com
 *.paynet.credit
-HOURLY-JOBS.NET
 JOBALINE.COM
 JOBALINECI.COM
 efficienthire.info
@@ -8276,6 +8275,7 @@ wotctech.com
 *equifax.co.in
 *.efficientforms.com
 *.bvsnet.com.br
+HOURLY-JOBS.NET
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -8299,8 +8299,8 @@ JOBALINE.CO
 JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
-BE-THE-AMERICAN-DREAM.net
 *.datacredito2.com
+*.datacredito3.com
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -8438,9 +8438,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9532,8 +9532,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

@@ -8264,7 +8264,6 @@ equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
 equifax,*.paynet.credit,False
-equifax,HOURLY-JOBS.NET,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
@@ -8277,6 +8276,7 @@ equifax,*.redeverdeamarela.com.br,False
 equifax,*equifax.co.in,False
 equifax,*.efficientforms.com,False
 equifax,*.bvsnet.com.br,False
+equifax,HOURLY-JOBS.NET,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -8300,8 +8300,8 @@ equifax,JOBALINE.CO,False
 equifax,JOBALINESTAGING.COM,False
 equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
-equifax,BE-THE-AMERICAN-DREAM.net,False
 equifax,*.datacredito2.com,False
+equifax,*.datacredito3.com,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -8439,9 +8439,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9533,8 +9533,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
