@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 18:11:54 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 19:09:17 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2150,7 +2150,6 @@ uk.forescout.cloud
 de.forescout.cloud
 updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
-www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
 app.iris.acceptance.forescoutcloud.net
@@ -2158,6 +2157,7 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
+www.forescout.com
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
@@ -2219,9 +2219,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3324,8 +3324,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

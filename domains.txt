@@ -969,8 +969,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -6675,9 +6675,9 @@ www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
 *.logi.com
-*.myharmony.com
 www.logitechg.com
 *.logitech.com
+*.myharmony.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -8182,7 +8182,6 @@ uk.forescout.cloud
 de.forescout.cloud
 updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
-www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
 app.iris.acceptance.forescoutcloud.net
@@ -8190,6 +8189,7 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
+www.forescout.com
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
@@ -8439,9 +8439,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9697,8 +9697,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

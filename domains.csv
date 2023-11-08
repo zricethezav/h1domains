@@ -970,8 +970,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -6676,9 +6676,9 @@ logitech,www.logitechstore.com.br,False
 logitech,alert.logitech.com,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
-logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,*.logitech.com,False
+logitech,*.myharmony.com,False
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -8183,7 +8183,6 @@ forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
 forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
-forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
@@ -8191,6 +8190,7 @@ forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
 forescout_technologies,streaming-api.iris.production.forescoutcloud.net,True
 forescout_technologies,us.forescout.cloud,True
+forescout_technologies,www.forescout.com,True
 forescout_technologies,iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com,True
 forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
@@ -8440,9 +8440,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.bookingholdings.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9698,8 +9698,8 @@ shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
