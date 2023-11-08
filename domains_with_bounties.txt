@@ -3357,10 +3357,10 @@ business.snapchat.com
 store.snapchat.com
 app.snapchat.com
 my.snapchat.com
-geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
 web.snapchat.com
+geofilters.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
@@ -3444,9 +3444,9 @@ one.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.muscache.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
