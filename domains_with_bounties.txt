@@ -67,8 +67,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1608,7 +1608,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
-www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1618,6 +1617,7 @@ www.watsons.co.id
 www.watsons.com.tr
 www.marionnaud.fr
 www.watsons.com.ph
+www.marionnaud.ro
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz

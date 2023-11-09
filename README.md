@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 08:11:34 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 09:11:53 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -73,8 +73,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1614,7 +1614,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
-www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1624,6 +1623,7 @@ www.watsons.co.id
 www.watsons.com.tr
 www.marionnaud.fr
 www.watsons.com.ph
+www.marionnaud.ro
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz

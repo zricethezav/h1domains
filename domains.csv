@@ -1036,8 +1036,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -6799,7 +6799,6 @@ affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
 watson_group,www.iciparisxl.lu,True
 watson_group,app.marionnaud.hu,True
-watson_group,www.marionnaud.ro,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
@@ -6809,6 +6808,7 @@ watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
+watson_group,www.marionnaud.ro,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
