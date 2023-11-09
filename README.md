@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 10:11:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 11:10:33 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -834,8 +834,8 @@ ws.sorare.com
 *.sheingsp.com
 exnessaffiliates.com
 my.exness.com
-exness.com
 pay.ibex.exchange
+exness.com
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
@@ -1536,8 +1536,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1596,8 +1596,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -1620,10 +1620,10 @@ www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.watsons.com.tr
 www.marionnaud.fr
 www.watsons.com.ph
 www.marionnaud.ro
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz

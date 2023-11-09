@@ -4119,8 +4119,8 @@ shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 exness,exnessaffiliates.com,True
 exness,my.exness.com,True
-exness,exness.com,True
 exness,pay.ibex.exchange,True
+exness,exness.com,True
 exness,pwapi.ex2b.com,True
 exness,social-trading.exness.com,True
 exness,api.excalls.mobi,True
@@ -6622,8 +6622,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -6777,8 +6777,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -6805,10 +6805,10 @@ watson_group,www10.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
-watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.ro,True
+watson_group,www.watsons.com.tr,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
