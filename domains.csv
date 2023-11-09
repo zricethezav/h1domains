@@ -4847,7 +4847,6 @@ epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
-epicgames,*.dropmix.com,True
 epicgames,*.hmxwebservices.com,True
 epicgames,*.bandcamp.com,True
 epicgames,*.bcbits.com,True
@@ -6623,8 +6622,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8415,9 +8414,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True

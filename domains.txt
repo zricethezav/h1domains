@@ -4846,7 +4846,6 @@ fortnite.com
 *.psyonix.com
 forum.sketchfab.com
 *.bcbits.com
-*.dropmix.com
 *.hmxwebservices.com
 *.bandcamp.com
 *.bcbits.com
@@ -6622,8 +6621,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8414,9 +8413,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com

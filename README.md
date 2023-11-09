@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 06:11:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 07:11:42 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1026,7 +1026,6 @@ fortnite.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
-*.dropmix.com
 *.hmxwebservices.com
 *.bandcamp.com
 *.bcbits.com
@@ -1537,8 +1536,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2195,9 +2194,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
