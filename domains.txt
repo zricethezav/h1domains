@@ -2543,9 +2543,9 @@ www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadopago.com.pe
-api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -4661,9 +4661,7 @@ oreo.kz
 principesportsacademy.es
 secretsanta.cadbury.co.uk
 signwithfingers.cadbury.co.uk
-soutez.opavia.info
 sport70promo.hu
-sutaz.opavia.info
 sutazoreo.sk
 trident.gr
 vyhrajschuti.cz
@@ -8704,8 +8702,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -10120,8 +10118,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -10131,9 +10129,9 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
