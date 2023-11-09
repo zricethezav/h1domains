@@ -6806,9 +6806,9 @@ www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.watsons.com.ph
 www.watsons.com.tr
 www.marionnaud.fr
+www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
