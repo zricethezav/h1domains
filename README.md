@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 20:10:52 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 21:10:39 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -28,8 +28,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -1219,8 +1219,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1284,9 +1284,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1536,8 +1536,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3632,8 +3632,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net

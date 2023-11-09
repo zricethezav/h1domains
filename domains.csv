@@ -961,8 +961,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,*.hypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
+hypr-corp,*.hypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
@@ -5078,8 +5078,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -5801,9 +5801,9 @@ reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6620,8 +6620,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8103,8 +8103,8 @@ overloop,app.overloop.com,False
 worklytics,*.worklytics.co,False
 worklytics,*.worklytics.co,False
 top_echelon_software,bigbiller.topechelon.com,False
-top_echelon_software,bb3api.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
+top_echelon_software,bb3api.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
 top_echelon_software,bigbiller.topechelon.com,False
 top_echelon_software,bb3api.topechelon.com,False
@@ -10132,8 +10132,8 @@ security,reviewer.pullrequest.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
