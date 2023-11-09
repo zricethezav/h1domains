@@ -3078,7 +3078,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
-8x8-bounty,*.jit.si,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
@@ -3086,6 +3085,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
@@ -7567,12 +7567,12 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
 8x8,*.mycontactual.com,False
-8x8,*.jit.si,False
 8x8,*.8x8e2e.com,False
 8x8,*.ucverse.com,False
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.jit.si,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8416,8 +8416,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.priceline.com,True
-priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True

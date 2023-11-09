@@ -518,7 +518,6 @@ work.8x8.com
 sso.8x8.com
 *.8x8.vc
 connect.8x8.com
-*.jit.si
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -526,6 +525,7 @@ uc.8x8pilot.com
 *.8x8.id
 platform.8x8pilot.com
 cloud8.8x8.com
+*.jit.si
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -2190,8 +2190,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.priceline.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
