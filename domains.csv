@@ -3995,11 +3995,11 @@ planetart,www.simplytoimpress.com,False
 planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
-planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5138,8 +5138,8 @@ john-deere,mail.kreiselelectric.com,False
 john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
-john-deere,johndeereinnovation.com,False
 john-deere,stellarsupport.deere.com,False
+john-deere,ghost.harvestprofit.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -9298,9 +9298,9 @@ rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -9669,9 +9669,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9759,9 +9759,9 @@ ui,community.ui.com,True
 ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
-ui,account.ui.com,True
 ui,rma.ui.com,True
 ui,help.ui.com,False
+ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True

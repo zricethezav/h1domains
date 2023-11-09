@@ -3994,11 +3994,11 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
-*.canvasworld.com
 *.iseeme.com
 *.cafepress.com
 www.gifts.com
 *.personalcreations.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5137,8 +5137,8 @@ mail.kreiselelectric.com
 filebox-dev.kreiselelectric.com
 video.kreiselelectric.com
 vpn.kreiselelectric.com
-johndeereinnovation.com
 stellarsupport.deere.com
+ghost.harvestprofit.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -9297,9 +9297,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -9668,9 +9668,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -9758,9 +9758,9 @@ community.ui.com
 careers.ui.com
 dev-training.ui.com
 wiki.ui.com
-account.ui.com
 rma.ui.com
 help.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
