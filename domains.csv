@@ -5140,8 +5140,8 @@ john-deere,mail.kreiselelectric.com,False
 john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
-john-deere,ghost.harvestprofit.com,False
 john-deere,johndeereinnovation.com,False
+john-deere,stellarsupport.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -8535,8 +8535,8 @@ omise,linksplus-dashboard.omise.co,True
 omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
-ford,*.lincoln.com,False
 ford,*.motorcraft.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
@@ -9671,9 +9671,9 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10120,9 +10120,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10132,9 +10132,9 @@ security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-ext-content.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
