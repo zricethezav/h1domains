@@ -934,8 +934,8 @@ shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
 demo.cloud.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -2938,10 +2938,10 @@ bbpress.org
 profiles.wordpress.org
 *.wordcamp.org
 lists.wordpress.org
-api.wordpress.org
 irclogs.wordpress.org
 gutenberg.run
 *.wordpress.net
+api.wordpress.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org

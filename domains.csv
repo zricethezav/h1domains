@@ -4275,8 +4275,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -9261,10 +9261,10 @@ wordpress,bbpress.org,True
 wordpress,profiles.wordpress.org,True
 wordpress,*.wordcamp.org,True
 wordpress,lists.wordpress.org,True
-wordpress,api.wordpress.org,True
 wordpress,irclogs.wordpress.org,True
 wordpress,gutenberg.run,True
 wordpress,*.wordpress.net,True
+wordpress,api.wordpress.org,True
 wordpress,codex.wordpress.org,True
 wordpress,codex.bbpress.org,True
 wordpress,codex.buddypress.org,True
