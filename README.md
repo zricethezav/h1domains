@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 07:11:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 08:11:34 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -647,8 +647,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.expediacruises.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1536,8 +1536,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com

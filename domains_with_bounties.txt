@@ -641,8 +641,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.expediacruises.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1530,8 +1530,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com

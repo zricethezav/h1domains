@@ -1,7 +1,7 @@
-www.pamcollections.com
 admin.msbnexus.navient.com
 myaccount.navirefi.com
 wsmb2bresv.navient.com
+www.pamcollections.com
 sandiegoadmin.dsmyportal.com
 www.nystapayment.com
 payments.msbpay.navient.com
@@ -3238,8 +3238,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.expediacruises.com
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -6621,8 +6621,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -6650,8 +6650,8 @@ alert.logitech.com
 *.crossclip.com
 *.logi.com
 www.logitechg.com
-*.myharmony.com
 *.logitech.com
+*.myharmony.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
