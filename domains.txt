@@ -960,8 +960,8 @@ www.blueapron.com
 https://blog.blueapron.com/
 www.blueapron.com
 http://www.blueapron.com/graphql
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -2942,9 +2942,9 @@ api.svb.com
 developer.svb.com
 connect.svb.com
 www.cipherbio.com
-www.svb.com
 www.svbconnect.com
 lendx.svb.com
+www.svb.com
 www.svb.com
 www.svbconnect.com
 connect.svb.com
@@ -3679,10 +3679,10 @@ www.fossilchina.cn
 m.skagen.de
 www.111watches.com
 fossilcrm.com
-fossil.com.vn
 fossil-staging2.cloud.akeneo.com
 fossilhk.com
 www.watchstationindia.com
+fossil.com.vn
 www.fossil.co.za
 www.fossil.nl
 *.michele.com
@@ -3821,8 +3821,8 @@ fossil.at
 banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.be
-*.banfield.com
 *.myroyalcanin.gr
+*.banfield.com
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -6776,8 +6776,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -7226,10 +7226,10 @@ api.digitalocean.com
 *.digitalocean.com
 www.cloudways.com
 do.co
-www.digitalocean.com
 hackathon-tracker.digitalocean.com
 platform.cloudways.com
 hacktoberfest.com
+www.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -10133,8 +10133,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-ext-content.com
-www.hackerone.com
 hackathon-photos.hackerone-user-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
