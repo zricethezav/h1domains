@@ -2,36 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 23:09:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 00:20:56 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-api.emea.gravity.porsche.com
-connect-store.porsche.com
-jobs.porsche.com
-skyway.porsche.com
-my.porsche.com
-finder.porsche.com
-newsroom.porsche.com
-configurator.porsche.com
-shop.porsche.com
-identity.porsche.com
-signup.porsche.com
-porsche.com
-api.emea.gravity.porsche.com
-configurator.porsche.com
-connect-store.porsche.com
-finder.porsche.com
-identity.porsche.com
-jobs.porsche.com
-my.porsche.com
-newsroom.porsche.com
-porsche.com
-shop.porsche.com
-signup.porsche.com
-skyway.porsche.com
 *.front.com
 app.frontapp.com
 help.front.com
@@ -1244,8 +1220,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2219,9 +2195,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2608,9 +2584,9 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.gsselect.com
 *.goldman.com
+*.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -3689,6 +3665,30 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
+api.emea.gravity.porsche.com
+connect-store.porsche.com
+jobs.porsche.com
+skyway.porsche.com
+my.porsche.com
+finder.porsche.com
+newsroom.porsche.com
+configurator.porsche.com
+shop.porsche.com
+identity.porsche.com
+signup.porsche.com
+porsche.com
+api.emea.gravity.porsche.com
+configurator.porsche.com
+connect-store.porsche.com
+finder.porsche.com
+identity.porsche.com
+jobs.porsche.com
+my.porsche.com
+newsroom.porsche.com
+porsche.com
+shop.porsche.com
+signup.porsche.com
+skyway.porsche.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
