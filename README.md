@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 16:11:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 17:12:55 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -2407,8 +2407,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2435,8 +2435,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2475,8 +2475,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 paypal.me
+*.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
@@ -3295,12 +3295,12 @@ your-store.myshopify.com
 shop.app
 linkpop.com
 *.shopifykloud.com
-partners.shopify.com
 shopifyinbox.com
+partners.shopify.com
 shopify.plus
+*.shopify.com
 accounts.shopify.com
 admin.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3337,9 +3337,9 @@ app.snapchat.com
 my.snapchat.com
 business.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
 geofilters.snapchat.com
+*.sc-corp.net
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
@@ -3630,9 +3630,9 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live

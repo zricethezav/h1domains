@@ -8675,8 +8675,8 @@ hyatt,www.triseptapi.com,True
 hyatt,www.triseptdemo.com,True
 hyatt,vacations.united.com,True
 hyatt,www.applevacations.com,True
-grammarly,*.grammarly.com,True
 grammarly,*.grammarlyaws.com,True
+grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -8703,8 +8703,8 @@ fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -8745,8 +8745,8 @@ paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
 paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
-paypal,*.hyperwallet.com,True
 paypal,paypal.me,True
+paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
 paypal,*.venmo.com,True
 paypal,*.paypal.com,True
@@ -9666,12 +9666,12 @@ shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True
 shopify,*.shopifykloud.com,True
-shopify,partners.shopify.com,True
 shopify,shopifyinbox.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9708,9 +9708,9 @@ snapchat,app.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,kit.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
@@ -10130,9 +10130,9 @@ security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-ext-content.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
