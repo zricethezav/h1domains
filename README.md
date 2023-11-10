@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 11:11:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 12:12:59 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -354,7 +354,6 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -369,7 +368,6 @@ relay.firefox.com
 monitor.firefox.com
 api.profiler.firefox.com
 www.mozilla.org
-getpocket.com
 support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
@@ -1099,9 +1097,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-geminiadvisory.io
 securitytrails.com
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1532,12 +1530,12 @@ live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 www.pangleglobal.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
+careers.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3137,8 +3135,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

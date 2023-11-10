@@ -2659,7 +2659,6 @@ mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,getpocket.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -2674,7 +2673,6 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
-mozilla_core_services,getpocket.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
@@ -4934,9 +4932,9 @@ recorded-future,therecord.media,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
-recorded-future,geminiadvisory.io,True
 recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,geminiadvisory.io,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -6616,12 +6614,12 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
-tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9506,8 +9504,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
