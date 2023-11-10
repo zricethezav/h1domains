@@ -2541,12 +2541,12 @@ mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.br,False
-mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -3992,8 +3992,8 @@ planetart,www.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5773,9 +5773,9 @@ lumiradx,investors.lumiradx.com,False
 reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
-reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,app.spiketrap.io,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -6613,8 +6613,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -8407,8 +8407,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True

@@ -2540,12 +2540,12 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
-www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolivre.com.br
+www.mercadopago.cl
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -3991,8 +3991,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5772,9 +5772,9 @@ investors.lumiradx.com
 api.reddit.com
 gql.reddit.com
 *.redditmedia.com
-app.spiketrap.io
 old.reddit.com
 ads.reddit.com
+app.spiketrap.io
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -6612,8 +6612,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -8406,8 +8406,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
