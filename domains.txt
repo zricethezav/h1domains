@@ -1597,8 +1597,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -3990,9 +3990,9 @@ www.cafepress.com
 www.canvasworld.com
 *.iseeme.com
 www.gifts.com
-*.canvasworld.com
 *.cafepress.com
 *.personalcreations.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5052,8 +5052,8 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -5876,8 +5876,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-*.chimebank.com
 app.chime.com
+*.chimebank.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -6612,8 +6612,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -7528,11 +7528,11 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.easycontactnow.com
-*.thinkingphones.com
 *.8x8cloud.net
 *.8x8.com
 admin.8x8.com
 connect.8x8.com
+*.thinkingphones.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -8874,8 +8874,8 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -9756,7 +9756,6 @@ rma.ui.com
 help.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com

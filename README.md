@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 19:10:41 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 20:09:52 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1194,8 +1194,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1334,8 +1334,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-*.chimebank.com
 app.chime.com
+*.chimebank.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -1529,8 +1529,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2599,8 +2599,8 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3379,7 +3379,6 @@ careers.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com

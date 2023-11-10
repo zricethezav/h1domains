@@ -1598,8 +1598,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3991,9 +3991,9 @@ planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
-planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5053,8 +5053,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,gold.xnxx.com,True
 xvideos,www.xnxx.com,True
+xvideos,gold.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -5877,8 +5877,8 @@ chime,*.1debit.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
 chime,wp-dev5.chime.com,True
-chime,*.chimebank.com,True
 chime,app.chime.com,True
+chime,*.chimebank.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -6613,8 +6613,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -7529,11 +7529,11 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
 8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,*.thinkingphones.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -8875,8 +8875,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -9757,7 +9757,6 @@ ui,rma.ui.com,True
 ui,help.ui.com,False
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
-ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
