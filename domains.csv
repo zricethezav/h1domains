@@ -945,8 +945,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2996,9 +2996,9 @@ stanford-university,authority.stanford.edu,False
 stanford-university,accessories.stanford.edu,False
 stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
-stanford-university,stanfordwho.stanford.edu,False
 stanford-university,who.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
+stanford-university,stanfordwho.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
@@ -6614,8 +6614,8 @@ tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8047,8 +8047,8 @@ line,*.line.me,True
 line,*.line-apps.com,True
 line,*.line.naver.jp,True
 line,*.line.biz,True
-stripo,my.stripo.email,False
 stripo,stripo.email,False
+stripo,my.stripo.email,False
 stripo,my.stripo.email,False
 stripo,stripo.email,False
 oasisprotocol,wallet.oasis.io,True
@@ -9657,8 +9657,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
-shopify,shop.app,True
 shopify,linkpop.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True

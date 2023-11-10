@@ -944,8 +944,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2995,9 +2995,9 @@ authority.stanford.edu
 accessories.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
-stanfordwho.stanford.edu
 who.stanford.edu
 *.sahr.stanford.edu
+stanfordwho.stanford.edu
 secureportal.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
@@ -6613,8 +6613,8 @@ creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8046,8 +8046,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-my.stripo.email
 stripo.email
+my.stripo.email
 my.stripo.email
 stripo.email
 wallet.oasis.io
@@ -9656,8 +9656,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
