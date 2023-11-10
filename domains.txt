@@ -3995,8 +3995,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5678,7 +5678,6 @@ artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
-*.zebra.com/mobicontrol
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -8984,8 +8983,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -9504,8 +9503,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -9668,8 +9667,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 *.shopify.com
-admin.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
