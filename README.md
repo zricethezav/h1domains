@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 23:09:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 00:21:09 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -508,8 +508,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2561,8 +2561,8 @@ staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-staging-admin.shipt.com
 www.shipt.com
+staging-admin.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3635,11 +3635,11 @@ www.hackerone.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
