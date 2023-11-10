@@ -2689,8 +2689,8 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -5470,9 +5470,9 @@ aig,*.corebridgefinancial.com,False
 aig,www.rapidcover.ie,False
 aig,*.aig.com,False
 aig,*.myretirementmanager.com,False
-aig,www.aig.co.il,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
+aig,www.aig.co.il,False
 aig,www.aig.com.br,False
 aig,*.aig.co.jp,False
 aig,www.vfisu.com,False
@@ -5795,9 +5795,9 @@ reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6613,8 +6613,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True

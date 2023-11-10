@@ -2688,8 +2688,8 @@ www.borrowlenses.com
 admin.spoonflower.com
 shutterfly.com
 jcpportraits.com
-snapfish.com
 *.snapfish.com
+snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -5469,9 +5469,9 @@ www.lifeandretirement.aig.com
 www.rapidcover.ie
 *.aig.com
 *.myretirementmanager.com
-www.aig.co.il
 www-1008.aig.com
 www.travelguard.com
+www.aig.co.il
 www.aig.com.br
 *.aig.co.jp
 www.vfisu.com
@@ -5794,9 +5794,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6612,8 +6612,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
