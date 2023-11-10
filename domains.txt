@@ -936,8 +936,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -3074,7 +3074,6 @@ work.8x8.com
 *.jitsi.net
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -3087,7 +3086,6 @@ platform.8x8.com
 voapi.8x8.com
 *.packet8.net
 *.8x8staging.com
-sms.8x8.com
 sso.8x8pilot.com
 user-profile.8x8.com
 *.p8t.us
@@ -3103,8 +3101,6 @@ pay.8x8.com
 *.8x8cloud.net
 *.p8t.us
 *.wavecell.com
-connect.8x8.com
-sms.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 sso.8x8pilot.com
@@ -3995,8 +3991,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6616,8 +6612,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com

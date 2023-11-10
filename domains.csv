@@ -937,8 +937,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -3075,7 +3075,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
@@ -3088,7 +3087,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,*.8x8staging.com,True
-8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.p8t.us,True
@@ -3104,8 +3102,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,*.wavecell.com,True
-8x8-bounty,connect.8x8.com,True
-8x8-bounty,sms.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,sso.8x8pilot.com,True
@@ -3996,8 +3992,8 @@ planetart,www.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6617,8 +6613,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
