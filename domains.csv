@@ -937,8 +937,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -3643,7 +3643,6 @@ fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,www.fossil.co.jp,False
 fossil,www.fossil.co.uk,False
 fossil,www.fossilnorway.no,False
-fossil,*.misfit.com,False
 fossil,www.skagenbrand.de,False
 fossil,www.skagenglobal.com,False
 fossil,*.watchstation.com,False
@@ -3652,6 +3651,7 @@ fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.id,False
+fossil,*.misfit.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -6805,8 +6805,8 @@ watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
-watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.com.tr,True
+watson_group,www.marionnaud.ro,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
@@ -7353,8 +7353,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
