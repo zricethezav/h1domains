@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 15:11:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 16:14:40 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -2193,8 +2193,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2703,8 +2703,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3295,10 +3295,10 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
