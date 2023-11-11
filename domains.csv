@@ -3985,9 +3985,9 @@ planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
-planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
@@ -7530,9 +7530,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9351,9 +9351,9 @@ starbucks,www.starbucksreserve.com,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
@@ -10111,8 +10111,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10130,8 +10130,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
