@@ -4672,10 +4672,10 @@ https://xn--90aiakgkqi1l.xn--p1ai
 *.kasten.io
 *.veeamgov.com
 movil.jetblue.com
-accounts.jetblue.com
 azrest.jetblue.com
 experience.jetblue.com
 *.jetblue.com
+accounts.jetblue.com
 checkin.jetblue.com
 book.jetblue.com
 help.jetblue.com
@@ -7183,8 +7183,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-dashboard.fortmatic.com
 api.fortmatic.com
+dashboard.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -9898,9 +9898,9 @@ m.airbnb.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-next.airbnb.com
 *.withairbnb.com
 one.airbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
@@ -9973,8 +9973,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com

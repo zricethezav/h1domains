@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 20:10:42 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 21:10:29 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1928,8 +1928,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-dashboard.fortmatic.com
 api.fortmatic.com
+dashboard.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -3410,9 +3410,9 @@ m.airbnb.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-next.airbnb.com
 *.withairbnb.com
 one.airbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
@@ -3480,8 +3480,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com

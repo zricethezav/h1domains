@@ -4673,10 +4673,10 @@ veeam,*.veeam.com,False
 veeam,*.kasten.io,False
 veeam,*.veeamgov.com,False
 jetblue,movil.jetblue.com,False
-jetblue,accounts.jetblue.com,False
 jetblue,azrest.jetblue.com,False
 jetblue,experience.jetblue.com,False
 jetblue,*.jetblue.com,False
+jetblue,accounts.jetblue.com,False
 jetblue,checkin.jetblue.com,False
 jetblue,book.jetblue.com,False
 jetblue,help.jetblue.com,False
@@ -7184,8 +7184,8 @@ bmwgroup,configure.bmw.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 magic-bbp,api.magic.link,True
-magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
+magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
@@ -9899,9 +9899,9 @@ airbnb,*.luxuryretreats.com,True
 airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True
-airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,one.airbnb.com,True
+airbnb,next.airbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
@@ -9974,8 +9974,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
