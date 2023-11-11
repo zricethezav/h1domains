@@ -559,8 +559,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -3322,8 +3322,8 @@ playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com

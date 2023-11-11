@@ -3117,8 +3117,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -4087,8 +4087,8 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
-app.s02.callsign.com
 southfields-v2.s02.t00-csglobal.a2develop.com
+app.s02.callsign.com
 b2b.s02.callsign.com
 *.*
 *.s02.callsign.com
@@ -9697,8 +9697,8 @@ playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com

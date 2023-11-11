@@ -3118,8 +3118,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -4088,8 +4088,8 @@ kayak,www.cheapflights.com,True
 kayak,www.hotelscombined.com,True
 kayak,www.mundi.com.br,True
 kayak,business.kayak.com,True
-callsign,app.s02.callsign.com,False
 callsign,southfields-v2.s02.t00-csglobal.a2develop.com,False
+callsign,app.s02.callsign.com,False
 callsign,b2b.s02.callsign.com,False
 callsign,*.*,False
 callsign,*.s02.callsign.com,False
@@ -9698,8 +9698,8 @@ snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True

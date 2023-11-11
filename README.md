@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 18:08:58 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 19:09:04 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -565,8 +565,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -3328,8 +3328,8 @@ playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
