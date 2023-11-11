@@ -1590,8 +1590,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *exceleratorparts.com
-*.setra.de
 *.mercedes-benz-trucks.com
+*.setra.de
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -10123,8 +10123,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
