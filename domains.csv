@@ -5071,8 +5071,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -10111,8 +10111,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
