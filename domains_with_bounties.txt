@@ -2572,8 +2572,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com

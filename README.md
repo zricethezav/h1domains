@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 06:08:57 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 07:09:35 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -2578,8 +2578,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
