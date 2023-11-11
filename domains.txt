@@ -1596,8 +1596,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -9660,10 +9660,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

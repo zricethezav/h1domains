@@ -3285,10 +3285,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
