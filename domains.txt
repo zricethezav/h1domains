@@ -3985,8 +3985,8 @@ iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
 www.canvasworld.com
-*.gifts.com
 *.photoaffections.com
+*.gifts.com
 *.iseeme.com
 www.gifts.com
 *.cafepress.com
@@ -9973,8 +9973,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -10112,8 +10112,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
