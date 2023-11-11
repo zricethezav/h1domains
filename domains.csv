@@ -3071,9 +3071,9 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
@@ -4777,8 +4777,8 @@ clubhouse,*.clubhouse.com,True
 clubhouse,*.joinclubhouse.com,True
 clubhouse,*.clubhouseapi.com,True
 snowplow,docs.snowplow.io,False
-snowplow,try.snowplowanalytics.com,False
 snowplow,snowplowanalytics.com,False
+snowplow,try.snowplowanalytics.com,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False
 snowplow,iglucentral.com,False
@@ -7551,8 +7551,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8.id,False
-8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
@@ -8405,9 +8405,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.bookingholdings.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True

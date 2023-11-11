@@ -3070,9 +3070,9 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-*.jitsi.net
 sso.8x8.com
 *.8x8.vc
+*.jitsi.net
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -4776,8 +4776,8 @@ redeem.footballmanager.com
 *.joinclubhouse.com
 *.clubhouseapi.com
 docs.snowplow.io
-try.snowplowanalytics.com
 snowplowanalytics.com
+try.snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com
 iglucentral.com
@@ -7550,8 +7550,8 @@ platform.8x8.com
 pay.8x8.com
 *.jitsi.org
 *.8x8.id
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -8404,9 +8404,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
