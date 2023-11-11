@@ -936,8 +936,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -5795,8 +5795,8 @@ reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6957,8 +6957,8 @@ wellsfargo,*.wellsfargoadvisors.com,False
 wellsfargo,*.mworld.com,False
 wellsfargo,*.wystar.com,False
 wellsfargo,*.advisor-connection.com,False
-playstation,social.playstation.com,True
 playstation,wallets.api.playstation.com,True
+playstation,social.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,store.playstation.com,True

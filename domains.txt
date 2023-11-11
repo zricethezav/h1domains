@@ -935,8 +935,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -5794,8 +5794,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6956,8 +6956,8 @@ mackeeper.com
 *.mworld.com
 *.wystar.com
 *.advisor-connection.com
-social.playstation.com
 wallets.api.playstation.com
+social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 store.playstation.com

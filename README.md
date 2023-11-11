@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 11:09:52 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 12:10:53 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1279,8 +1279,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1739,8 +1739,8 @@ kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
 mackeeper.com
-social.playstation.com
 wallets.api.playstation.com
+social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 store.playstation.com
