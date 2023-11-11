@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 07:09:35 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 08:10:18 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -3327,9 +3327,9 @@ rt.playcanvas.com
 playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
-app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+app.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
