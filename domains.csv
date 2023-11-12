@@ -3990,9 +3990,9 @@ planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
-planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4363,9 +4363,9 @@ mondelez,epack.mondelezinternational.com,False
 mondelez,mitiendamondelez.com.ar,False
 mondelez,cadbury-gifting.com,False
 mondelez,fodboldrejse.marabou.dk,False
-mondelez,marabouchokladhus.se,False
 mondelez,oreo.kz,False
 mondelez,potursinejnostta.milka.bg,False
+mondelez,secretsanta.cadbury.co.uk,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -7370,8 +7370,8 @@ investnext,altogroup.investnextdemo.co,False
 investnext,app.investnextdemo.co,False
 nutanix,bootcamp.nutanix.com,False
 nutanix,gp.nutanix.com,False
-nutanix,iot.nutanix.com,False
 nutanix,testdrive.nutanix.com,False
+nutanix,iot.nutanix.com,False
 nutanix,support.nutanix.com,False
 nutanix,ticket.nutanix.com,False
 nutanix,nutanix.com,False
@@ -8096,8 +8096,8 @@ overloop,app.overloop.com,False
 worklytics,*.worklytics.co,False
 worklytics,*.worklytics.co,False
 top_echelon_software,bigbiller.topechelon.com,False
-top_echelon_software,bb3api.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
+top_echelon_software,bb3api.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
 top_echelon_software,bigbiller.topechelon.com,False
 top_echelon_software,bb3api.topechelon.com,False
