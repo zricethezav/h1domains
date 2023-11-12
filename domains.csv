@@ -3826,9 +3826,9 @@ mars,*.royalcanin.co.uk,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
-mars,*.royalcanin.com,False
 mars,*.banfieldassets.com,False
 mars,*.royalcanin.pl,False
+mars,*.royalcanin.com,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
@@ -6616,8 +6616,8 @@ tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8875,7 +8875,7 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.gs.de,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True

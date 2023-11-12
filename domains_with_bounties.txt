@@ -1527,8 +1527,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-effecthouse.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2594,7 +2594,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gs.com
-*.gs.de
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

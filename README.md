@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 00:21:21 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 01:35:49 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1533,8 +1533,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-effecthouse.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2600,7 +2600,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gs.com
-*.gs.de
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
