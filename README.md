@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 10:09:14 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 11:08:55 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -620,11 +620,11 @@ hv-mtl.com
 www.hotwirepartnercentral.com
 www.mrjet.se
 www.abritel.fr
-www.hotels.com
 www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.orbitz.com
+www.hotels.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
