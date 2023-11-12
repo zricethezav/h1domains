@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 07:09:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 08:10:54 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1321,8 +1321,8 @@ global-api.citymapper.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-*.chimecard.com
 www.chime.com
+*.chimecard.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -3131,8 +3131,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

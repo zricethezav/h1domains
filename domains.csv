@@ -5863,8 +5863,8 @@ ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
-chime,*.chimecard.com,True
 chime,www.chime.com,True
+chime,*.chimecard.com,True
 chime,*.chimepayments.com,True
 chime,wp-dev3.chime.com,True
 chime,wp-integ.chime.com,True
@@ -9499,8 +9499,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

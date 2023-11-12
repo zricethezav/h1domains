@@ -5862,8 +5862,8 @@ customers.mattermost.com
 *.vote.ohio.gov
 *.voteohio.gov
 *.electionintegrity.ohio.gov
-*.chimecard.com
 www.chime.com
+*.chimecard.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -9498,8 +9498,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
