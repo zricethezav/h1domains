@@ -3829,7 +3829,6 @@ banfieldexchange.com
 *.royalcanin.pl
 *.royalcanin.com
 *.mms.com
-*.pedigree.com
 *.vcahospitals.com
 *.royalcanin.ca
 *.moncse-royalcanin-siege.com
@@ -3839,6 +3838,7 @@ banfieldexchange.com
 *.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
+*.pedigree.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -9498,8 +9498,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
