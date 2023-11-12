@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 04:10:14 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 05:10:42 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1094,8 +1094,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
