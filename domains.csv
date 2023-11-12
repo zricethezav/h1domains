@@ -3071,9 +3071,9 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
@@ -7551,8 +7551,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8.id,False
-8x8,sso.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,sso.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -8873,9 +8873,9 @@ goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10111,8 +10111,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

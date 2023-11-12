@@ -3070,9 +3070,9 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-sso.8x8.com
 *.jitsi.net
 *.8x8.vc
+sso.8x8.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -7550,8 +7550,8 @@ platform.8x8.com
 pay.8x8.com
 *.jitsi.org
 *.8x8.id
-sso.8x8.com
 *.jitsi.net
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -8872,9 +8872,9 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.gs.com
 *.folioclient.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10110,8 +10110,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
