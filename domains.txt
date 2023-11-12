@@ -3446,7 +3446,6 @@ resmed.hk
 resmed.de
 myair.resmed.eu
 resmed-healthcare.de
-onlinestore.resmed.com
 u-sleep.umbian.com
 narval-easy.resmed.eu
 resmed.mx
@@ -3457,6 +3456,7 @@ resmed.la
 airview.resmed.eu
 propellerhealth.com
 mealtracker.com
+onlinestore.resmed.com
 resmed.com
 resmed.lat
 resmed.vn
@@ -4681,8 +4681,8 @@ book.jetblue.com
 help.jetblue.com
 api.jetblue.com
 magnolia.jetblue.com
-www.jetblue.com
 mobile.jetblue.com
+www.jetblue.com
 *.jetblue.com
 www.jetblue.com
 book.jetblue.com

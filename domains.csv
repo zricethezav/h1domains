@@ -3447,7 +3447,6 @@ resmed,resmed.hk,False
 resmed,resmed.de,False
 resmed,myair.resmed.eu,False
 resmed,resmed-healthcare.de,False
-resmed,onlinestore.resmed.com,False
 resmed,u-sleep.umbian.com,False
 resmed,narval-easy.resmed.eu,False
 resmed,resmed.mx,False
@@ -3458,6 +3457,7 @@ resmed,resmed.la,False
 resmed,airview.resmed.eu,False
 resmed,propellerhealth.com,False
 resmed,mealtracker.com,False
+resmed,onlinestore.resmed.com,False
 resmed,resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
@@ -4682,8 +4682,8 @@ jetblue,book.jetblue.com,False
 jetblue,help.jetblue.com,False
 jetblue,api.jetblue.com,False
 jetblue,magnolia.jetblue.com,False
-jetblue,www.jetblue.com,False
 jetblue,mobile.jetblue.com,False
+jetblue,www.jetblue.com,False
 jetblue,*.jetblue.com,False
 jetblue,www.jetblue.com,False
 jetblue,book.jetblue.com,False
