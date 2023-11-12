@@ -3972,8 +3972,8 @@ u.ukrn.io
 utils.ukrn.io
 unikrn.ly
 virtual.ukrn.io
-cashier-w.unikrn.com
 cashier.unikrn.com
+cashier-w.unikrn.com
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
