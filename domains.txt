@@ -3071,8 +3071,8 @@ kinfra.com
 ksam.com
 work.8x8.com
 sso.8x8.com
-*.8x8.vc
 *.jitsi.net
+*.8x8.vc
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -8405,8 +8405,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
