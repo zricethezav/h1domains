@@ -2623,9 +2623,9 @@ mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
-mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
+mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,shavar.services.mozilla.com,True
@@ -7346,8 +7346,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8405,9 +8405,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9681,9 +9681,9 @@ snapchat,story.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
