@@ -3803,7 +3803,6 @@ mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
 mars,*.twix.com,False
-mars,*.individualis.com,False
 mars,*.myroyalcanin.ro,False
 mars,*.royalcanin.nl,False
 mars,*.royalcanin.pt,False
@@ -3817,6 +3816,7 @@ mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
 mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
+mars,*.individualis.com,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -3991,8 +3991,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
-planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -9094,9 +9094,9 @@ localtapiola,www.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,*.tapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -9499,8 +9499,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

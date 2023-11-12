@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 14:23:58 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 15:10:10 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -2802,9 +2802,9 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
 www.tapiola.fi
-asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3131,8 +3131,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

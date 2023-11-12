@@ -3802,7 +3802,6 @@ fossil.at
 *.snch.org
 *.southnassau.org
 *.twix.com
-*.individualis.com
 *.myroyalcanin.ro
 *.royalcanin.nl
 *.royalcanin.pt
@@ -3816,6 +3815,7 @@ banfield.us
 *.royalcanin.be
 *.myroyalcanin.gr
 *.banfield.com
+*.individualis.com
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -3990,8 +3990,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.cafepress.com
-*.personalcreations.com
 *.canvasworld.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -9093,9 +9093,9 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
 www.tapiola.fi
-asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -9498,8 +9498,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
