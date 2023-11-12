@@ -935,8 +935,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -7554,7 +7554,6 @@ sso.8x8.com
 *.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
-*.wavecell.com
 *.mycontactual.com
 *.8x8e2e.com
 *.ucverse.com
@@ -7562,6 +7561,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9540,8 +9540,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api.grofers.com
-*.hyperpure.com
 api2.grofers.com
+*.hyperpure.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
