@@ -1526,9 +1526,9 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
