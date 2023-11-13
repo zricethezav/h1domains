@@ -944,8 +944,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1597,8 +1597,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -2910,10 +2910,11 @@ malwarebytes,*.mwbsys.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
+malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,*.mwb-threatintel.com,True
-malwarebytes,*.malwarebytes.com,True
 malwarebytes,oneview.malwarebytes.com,True
+malwarebytes,*.malwarebytes.com,True
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
@@ -2923,6 +2924,7 @@ malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
+malwarebytes,*.threatdown.com,True
 malwarebytes,www.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
@@ -3118,8 +3120,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -3638,13 +3640,13 @@ fossil,www.fossil.co.uk,False
 fossil,www.fossilnorway.no,False
 fossil,www.skagenbrand.de,False
 fossil,www.skagenglobal.com,False
-fossil,*.watchstation.com,False
 fossil,www.watchstation.fr,False
 fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.id,False
 fossil,*.misfit.com,False
+fossil,*.watchstation.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False

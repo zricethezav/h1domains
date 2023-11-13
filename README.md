@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 13:12:35 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 14:11:35 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -469,9 +469,10 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mbamupdates.com
+*.threatdown.com
 *.mwb-threatintel.com
-*.malwarebytes.com
 oneview.malwarebytes.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -479,6 +480,7 @@ www.malwarebytes.com
 *.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwb-threatintel.com
+*.threatdown.com
 www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
@@ -565,8 +567,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs

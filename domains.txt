@@ -943,8 +943,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1596,8 +1596,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -2909,10 +2909,11 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mbamupdates.com
+*.threatdown.com
 forums.malwarebytes.com
 *.mwb-threatintel.com
-*.malwarebytes.com
 oneview.malwarebytes.com
+*.malwarebytes.com
 support.malwarebytes.com
 blog.malwarebytes.com
 www.malwarebytes.com
@@ -2922,6 +2923,7 @@ www.malwarebytes.com
 *.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwb-threatintel.com
+*.threatdown.com
 www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
@@ -3117,8 +3119,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -3637,13 +3639,13 @@ www.fossil.co.uk
 www.fossilnorway.no
 www.skagenbrand.de
 www.skagenglobal.com
-*.watchstation.com
 www.watchstation.fr
 *.fossil.com.hk
 *.cdgfossil.com
 *.fossil.vn
 www.fossil.co.id
 *.misfit.com
+*.watchstation.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
