@@ -935,8 +935,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2833,8 +2833,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -2911,8 +2911,8 @@ my.malwarebytes.com
 *.mbamupdates.com
 forums.malwarebytes.com
 *.mwb-threatintel.com
-oneview.malwarebytes.com
 *.malwarebytes.com
+oneview.malwarebytes.com
 support.malwarebytes.com
 blog.malwarebytes.com
 www.malwarebytes.com
@@ -4674,8 +4674,8 @@ https://xn--90aiakgkqi1l.xn--p1ai
 movil.jetblue.com
 azrest.jetblue.com
 experience.jetblue.com
-*.jetblue.com
 accounts.jetblue.com
+*.jetblue.com
 checkin.jetblue.com
 book.jetblue.com
 help.jetblue.com
@@ -10109,10 +10109,10 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
-www.wearehackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
