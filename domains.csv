@@ -2962,8 +2962,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -3120,8 +3120,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -4368,6 +4368,7 @@ mondelez,fodboldrejse.marabou.dk,False
 mondelez,oreo.kz,False
 mondelez,potursinejnostta.milka.bg,False
 mondelez,secretsanta.cadbury.co.uk,False
+mondelez,vyhrajschuti.cz,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -7150,12 +7151,12 @@ alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
-alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.alimama.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8695,8 +8696,8 @@ fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
+fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9661,9 +9662,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10129,8 +10130,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
-security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
