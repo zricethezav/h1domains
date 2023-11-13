@@ -1025,8 +1025,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
@@ -8538,7 +8538,6 @@ public.hyatt.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
-book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
@@ -8547,6 +8546,7 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 vacations.us.palladiumhotelgroup.com
 res.universalorlandovacations.com
+book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -8577,8 +8577,8 @@ holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
 vacations.outrigger.com
-book.extraholidaysvacations.com
 world.hyatt.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -9662,8 +9662,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

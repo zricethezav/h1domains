@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 21:11:16 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 22:10:37 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -66,8 +66,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -2273,7 +2273,6 @@ public.hyatt.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
-book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
@@ -2282,6 +2281,7 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 vacations.us.palladiumhotelgroup.com
 res.universalorlandovacations.com
+book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2312,8 +2312,8 @@ holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
 vacations.outrigger.com
-book.extraholidaysvacations.com
 world.hyatt.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3294,8 +3294,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

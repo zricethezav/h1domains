@@ -1026,8 +1026,8 @@ palta,https://simple-life-app.com/,True
 gocardless_bbp,connect-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
-gocardless_bbp,api-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-lab.io,True
+gocardless_bbp,api-sandbox.gocardless.com,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
@@ -8539,7 +8539,6 @@ hyatt,public.hyatt.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
 hyatt,reservations.wynnvacations.com,True
-hyatt,book.beachbound.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
@@ -8548,6 +8547,7 @@ hyatt,res.sunscaperesorts.com,True
 hyatt,res.vacations.buschgardens.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,res.universalorlandovacations.com,True
+hyatt,book.beachbound.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -8578,8 +8578,8 @@ hyatt,holidays-hk.fijiairways.com,True
 hyatt,vacations.velasvallarta.com,True
 hyatt,www.blueskytours.com,True
 hyatt,vacations.outrigger.com,True
-hyatt,book.extraholidaysvacations.com,True
 hyatt,world.hyatt.com,True
+hyatt,book.extraholidaysvacations.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9663,8 +9663,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
