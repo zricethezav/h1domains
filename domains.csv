@@ -1495,7 +1495,6 @@ visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.tw,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.co.jp,True
-visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,www.visa.com.cy,True
 visa,www.visa.com.ge,True
@@ -1510,6 +1509,7 @@ visa,www.visa.com.my,True
 visa,www.visa.co.in,True
 visa,www.currencycloud.com,True
 visa,visa.com.ru,True
+visa,bb.visa.com,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
@@ -4927,9 +4927,9 @@ recorded-future,therecord.media,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
+recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -5552,11 +5552,11 @@ cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
 cedars-sinai,*sgveconnect.com,False
 cedars-sinai,*huntingtonsurgerycenter.com,False
 cedars-sinai,*legacy.huntingtonhospital.org,False
-cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*cedars-sinai.edu,False
 cedars-sinai,*Hmhdr.net,False
 cedars-sinai,*Hmhdr.org,False
 cedars-sinai,*Huntingtonhealthnetwork.org,False
+cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*www.cshs.org,False
 cedars-sinai,*csmc.edu,False
@@ -9706,8 +9706,8 @@ snapchat,*.sc-corp.net,True
 snapchat,kit.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
-snapchat,*.sc-core.net,True
 snapchat,www.bitstrips.com,True
+snapchat,*.sc-core.net,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True

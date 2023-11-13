@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 07:10:44 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 08:11:21 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -160,7 +160,6 @@ www.practicalmoneyskills.org
 www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.co.jp
-bb.visa.com
 www.visa.com.mx
 www.visa.com.cy
 www.visa.com.ge
@@ -175,6 +174,7 @@ www.visa.com.my
 www.visa.co.in
 www.currencycloud.com
 visa.com.ru
+bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -1093,9 +1093,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -3336,8 +3336,8 @@ geofilters.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
-*.sc-core.net
 www.bitstrips.com
+*.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
