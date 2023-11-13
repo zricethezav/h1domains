@@ -4645,8 +4645,6 @@ heritageadvertising.cadbury.co.uk
 loteria7days.pl
 marabouchokladhus.se
 milkamaxtrenutak.ba
-milkamaxtrenutak.hr
-milkamaxtrenutak.rs
 milkamaxtrenutek.si
 mmmax-tester.milka.de
 mongouterprince.fr
@@ -4831,8 +4829,8 @@ wonderboxdev.com
 capturingreality.com
 *.popjam.com
 *.mediatonic.co.uk
-fortnite.com
 *.bcbits.com
+fortnite.com
 *.3lateral.com
 *.psyonix.com
 forum.sketchfab.com
@@ -5651,9 +5649,9 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 downloads.zebra.com
 supportcommunity.zebra.com
-*.profitect.com
 reflexisinc.com/
 cmm01.sl.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5772,8 +5770,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -9972,8 +9970,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -10109,8 +10107,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

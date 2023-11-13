@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 12:15:30 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 13:12:35 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1015,8 +1015,8 @@ wonderboxdev.com
 capturingreality.com
 *.popjam.com
 *.mediatonic.co.uk
-fortnite.com
 *.bcbits.com
+fortnite.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
@@ -1257,8 +1257,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -3479,8 +3479,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3611,8 +3611,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

@@ -4646,8 +4646,6 @@ mondelez,heritageadvertising.cadbury.co.uk,False
 mondelez,loteria7days.pl,False
 mondelez,marabouchokladhus.se,False
 mondelez,milkamaxtrenutak.ba,False
-mondelez,milkamaxtrenutak.hr,False
-mondelez,milkamaxtrenutak.rs,False
 mondelez,milkamaxtrenutek.si,False
 mondelez,mmmax-tester.milka.de,False
 mondelez,mongouterprince.fr,False
@@ -4832,8 +4830,8 @@ epicgames,wonderboxdev.com,True
 epicgames,capturingreality.com,True
 epicgames,*.popjam.com,True
 epicgames,*.mediatonic.co.uk,True
-epicgames,fortnite.com,True
 epicgames,*.bcbits.com,True
+epicgames,fortnite.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
@@ -5652,9 +5650,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -5773,8 +5771,8 @@ reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -9973,8 +9971,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -10110,8 +10108,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
