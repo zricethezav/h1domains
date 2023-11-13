@@ -1476,8 +1476,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -5772,9 +5772,9 @@ lumiradx,investors.lumiradx.com,False
 reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
-reddit,old.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,ads.reddit.com,True
+reddit,old.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -6409,8 +6409,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.mx,True
 bitso,nvio.ar,True
+bitso,nvio.mx,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
@@ -7298,8 +7298,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,mgs.marriott.com,True
-marriott,www.marriott.com,True
 marriott,sso.marriott.com,True
+marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
@@ -7345,8 +7345,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9697,8 +9697,8 @@ snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True

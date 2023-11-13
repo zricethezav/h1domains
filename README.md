@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 09:09:17 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 10:10:57 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -141,8 +141,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1256,9 +1256,9 @@ www.urbanclap.com
 api.reddit.com
 gql.reddit.com
 *.redditmedia.com
-old.reddit.com
 app.spiketrap.io
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1374,8 +1374,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -1974,8 +1974,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2021,8 +2021,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3327,8 +3327,8 @@ playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
