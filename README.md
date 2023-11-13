@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 22:10:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 23:10:38 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -28,8 +28,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -523,6 +523,7 @@ work.8x8.com
 *.jitsi.net
 *.8x8.vc
 sso.8x8.com
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -539,6 +540,7 @@ sso.8x8pilot.com
 *.p8t.us
 *.wavecell.com
 user-profile.8x8.com
+sms.8x8.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
@@ -550,6 +552,8 @@ pay.8x8.com
 *.8x8cloud.net
 *.p8t.us
 *.wavecell.com
+connect.8x8.com
+sms.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 sso.8x8pilot.com
@@ -567,8 +571,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1535,8 +1539,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 shop.tiktok.com
-effecthouse.tiktok.com
 developers.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2023,8 +2027,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2430,8 +2434,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net

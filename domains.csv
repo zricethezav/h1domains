@@ -960,8 +960,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,*.hypr.com,True
+hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
@@ -3076,6 +3076,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -3092,6 +3093,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.p8t.us,True
 8x8-bounty,*.wavecell.com,True
 8x8-bounty,user-profile.8x8.com,True
+8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,*.8x8.vc,True
@@ -3103,6 +3105,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,*.wavecell.com,True
+8x8-bounty,connect.8x8.com,True
+8x8-bounty,sms.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,sso.8x8pilot.com,True
@@ -3120,8 +3124,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -6617,8 +6621,8 @@ tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
-tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7346,8 +7350,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8696,8 +8700,8 @@ fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
