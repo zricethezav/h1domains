@@ -3120,8 +3120,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -4112,8 +4112,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -8241,8 +8241,8 @@ equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*equifax.co.in,False
 equifax,HOURLY-JOBS.NET,False
-equifax,*.efficientforms.com,False
 equifax,*.bvsnet.com.br,False
+equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -9499,8 +9499,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
