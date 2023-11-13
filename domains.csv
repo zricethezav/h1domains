@@ -2613,8 +2613,8 @@ tide,login.tide.co,True
 tide,app.tide.co,True
 tide,api.tideplatform.in,True
 tide,www.tide.co,True
-oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
+oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
@@ -3986,8 +3986,8 @@ planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
-planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
+planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
@@ -5773,8 +5773,8 @@ reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,app.spiketrap.io,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -7529,10 +7529,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
+8x8,*.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9974,8 +9974,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True

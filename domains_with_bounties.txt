@@ -1251,8 +1251,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 app.spiketrap.io
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -3474,8 +3474,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com

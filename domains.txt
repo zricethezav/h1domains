@@ -2612,8 +2612,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-traum-ferienwohnungen.de
 preprod.oyorooms.ms
+traum-ferienwohnungen.de
 traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
@@ -3985,8 +3985,8 @@ iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
 www.canvasworld.com
-*.photoaffections.com
 *.gifts.com
+*.photoaffections.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
@@ -5772,8 +5772,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 app.spiketrap.io
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -7528,10 +7528,10 @@ kubernetes-csi.github.io
 get8x8.com
 *.easycontactnow.com
 *.8x8cloud.net
-*.8x8.com
 connect.8x8.com
 *.thinkingphones.com
 admin.8x8.com
+*.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -9973,8 +9973,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com

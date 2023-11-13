@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 23:08:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 00:21:52 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1257,8 +1257,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 app.spiketrap.io
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -3480,8 +3480,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
