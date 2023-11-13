@@ -944,8 +944,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3120,8 +3120,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -5877,8 +5877,8 @@ chime,*.1debit.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
 chime,wp-dev5.chime.com,True
-chime,app.chime.com,True
 chime,*.chimebank.com,True
+chime,app.chime.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -8567,7 +8567,6 @@ hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
-hyatt,world.hyatt.com,True
 hyatt,res.breathlessresorts.com,True
 hyatt,res.skyteam.com,True
 hyatt,res.vacations.seaworld.com,True
@@ -8580,6 +8579,7 @@ hyatt,vacations.velasvallarta.com,True
 hyatt,www.blueskytours.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,book.extraholidaysvacations.com,True
+hyatt,world.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9663,8 +9663,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
