@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 18:10:10 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 19:10:57 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -66,8 +66,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -567,8 +567,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1795,7 +1795,6 @@ faucet.polygon.technology
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
-*.skyvegas.com
 *.msgsvc.io
 *.operationstechnology.io
 *.securityservices.io
@@ -1805,6 +1804,7 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.betfair.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1987,8 +1987,8 @@ all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
-www.ritzcarlton.com
 giftcards.marriott.com
+www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
