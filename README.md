@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 06:11:00 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 07:10:44 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -141,8 +141,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -530,9 +530,9 @@ platform.8x8pilot.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 voapi.8x8.com
-*.packet8.net
 *.8x8staging.com
 platform.8x8.com
+*.packet8.net
 sso.8x8pilot.com
 *.p8t.us
 *.wavecell.com
@@ -1094,8 +1094,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-geminiadvisory.io
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
