@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 08:11:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 09:09:17 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -271,8 +271,8 @@ app.avtoelon.uz
 m.krisha.kz
 avtoelon.uz
 m.avtoelon.uz
-id.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -934,8 +934,8 @@ shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
 demo.cloud.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1479,9 +1479,9 @@ secure.sharefile.com
 ap-s.cloud.com
 adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-(youriwssubdomain).cloud.com
 secure.sharefile.eu
 accounts-internal.cloud.com
+(youriwssubdomain).cloud.com
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1973,9 +1973,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-sso.marriott.com
 mgs.marriott.com
 www.marriott.com
+sso.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -3327,8 +3327,8 @@ playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com

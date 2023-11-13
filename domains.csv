@@ -17,8 +17,8 @@ navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
 navient_solutions,sandiego.dsmyportal.com,False
-navient_solutions,duncan.imageenforcement.com,False
 navient_solutions,www.msbnexus.com,False
+navient_solutions,duncan.imageenforcement.com,False
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,dspayments.com/*,False
 navient_solutions,www.pamcollections.com,False
@@ -2570,8 +2570,8 @@ kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -2723,8 +2723,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,www.prolinx.co.uk,False
@@ -4268,8 +4268,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -6561,9 +6561,9 @@ citrix,secure.sharefile.com,True
 citrix,ap-s.cloud.com,True
 citrix,adm.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
-citrix,(youriwssubdomain).cloud.com,True
 citrix,secure.sharefile.eu,True
 citrix,accounts-internal.cloud.com,True
+citrix,(youriwssubdomain).cloud.com,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -7297,9 +7297,9 @@ kindred_group,maria.casino,True
 kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,sso.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
@@ -9697,8 +9697,8 @@ snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
