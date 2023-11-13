@@ -3119,8 +3119,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -5651,10 +5651,10 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 *.zams.zebra.com
 downloads.zebra.com
-supportcommunity.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
 *.profitect.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5667,13 +5667,13 @@ fs.viq.zebra.com
 connect.zebra.com
 global.zebra.com
 hcm.zebra.com
-stage-www.zebra.com
 test-marketing-api.zebra.com
 dcs-polarion.zebra.com
 artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
+*.fetchcore-cloud.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -5942,8 +5942,8 @@ fetlife.com
 hack.whocoronavirus.org
 *.whocoronavirus.org
 hack.whocoronavirus.org
-www.remitano.com
 socket.remitano.com
+www.remitano.com
 api.remitano.com
 www.remitano.com
 api.remitano.com
@@ -9498,8 +9498,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -10109,9 +10109,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
