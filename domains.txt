@@ -10060,8 +10060,8 @@ paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -10127,10 +10127,10 @@ ctf.hacker101.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
