@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 05:09:39 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 06:10:03 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -73,8 +73,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -95,7 +95,8 @@ http://rei.com/learn/expert-advice
 http://rei.com/events
 www.coinhako.com
 www.coinhako.com
-http://qa.gbu-alert.com/
+api.facemojikeyboard.com
+api.facemojikeyboard.com
 www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
@@ -571,8 +572,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1596,8 +1597,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -3297,8 +3298,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3518,9 +3519,9 @@ happy.tools
 simplenote.com
 gravatar.com
 wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com

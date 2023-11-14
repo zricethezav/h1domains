@@ -1035,8 +1035,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -1061,7 +1061,8 @@ coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
-baidu,http://qa.gbu-alert.com/,True
+baidu,api.facemojikeyboard.com,True
+baidu,api.facemojikeyboard.com,True
 leather_wallet,www.leather.io,True
 leather_wallet,www.leather.io,True
 alshaya,bakimonarim.shaya.com.tr,False
@@ -3124,8 +3125,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -6773,8 +6774,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.acronis.com,True
 acronis,*.devicelock.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -9666,8 +9667,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10016,9 +10017,9 @@ automattic,happy.tools,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,wordpress.com,True
-automattic,intensedebate.com,True
 automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
+automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,t.umblr.com,True
