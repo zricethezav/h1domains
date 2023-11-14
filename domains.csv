@@ -3001,8 +3001,8 @@ stanford-university,accessories.stanford.edu,False
 stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,who.stanford.edu,False
-stanford-university,*.sahr.stanford.edu,False
 stanford-university,stanfordwho.stanford.edu,False
+stanford-university,*.sahr.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
@@ -4115,8 +4115,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5056,8 +5056,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
+xvideos,www.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -5342,6 +5342,7 @@ john-deere,ghost.harvestprofit.com,False
 john-deere,learn.harvestprofit.com,False
 john-deere,swag.harvestprofit.com,False
 john-deere,www.harvestprofit.com,False
+john-deere,parts.waratah.com,False
 john-deere,equipment.deere.com,False
 john-deere,contest.deere.com,False
 john-deere,vision.johndeere.com,False
@@ -6425,8 +6426,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.ar,True
 bitso,nvio.mx,True
+bitso,nvio.ar,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
@@ -9098,8 +9099,8 @@ localtapiola,secure.lahitapiola.fi,True
 localtapiola,lisasijoitus.lahitapiola.fi,True
 localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
-localtapiola,*.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
+localtapiola,*.tapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True

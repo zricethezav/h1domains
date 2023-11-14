@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 14:11:25 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 15:10:41 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -831,8 +831,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1199,8 +1199,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1379,8 +1379,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -2795,8 +2795,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-*.tapiola.fi
 www.lahitapiola.fi
+*.tapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
