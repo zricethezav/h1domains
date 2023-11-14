@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 08:10:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 09:12:17 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -18,8 +18,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -267,9 +267,9 @@ http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.krisha.kz
-api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 app.avtoelon.uz
 m.krisha.kz
 avtoelon.uz
@@ -574,8 +574,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -942,9 +942,9 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 accounts.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1266,8 +1266,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1599,8 +1599,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.betfair.it
 *.skybingo.com
 *.skybet.com
-*.betfair.com
 *.skyvegas.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1991,11 +1991,11 @@ gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
 cpp.marriott.com
-marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
+marriottfranchisetransactions.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2319,8 +2319,8 @@ holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
 vacations.outrigger.com
-world.hyatt.com
 book.extraholidaysvacations.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3300,8 +3300,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
