@@ -2622,8 +2622,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
@@ -3998,8 +3998,8 @@ www.canvasworld.com
 *.photoaffections.com
 *.iseeme.com
 www.gifts.com
-*.canvasworld.com
 *.personalcreations.com
+*.canvasworld.com
 *.cafepress.com
 *.cafepress.com
 *.canvasworld.com
@@ -5660,8 +5660,8 @@ zsbsupport.zebra.com
 downloads.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
-*.profitect.com
 supportcommunity.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9681,8 +9681,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10142,8 +10142,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
