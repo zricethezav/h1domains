@@ -1,3 +1,5 @@
+*.bybit.com
+*.bybit.com
 admin.msbnexus.navient.com
 myaccount.navirefi.com
 wsmb2bresv.navient.com
@@ -943,8 +945,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3124,8 +3126,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
