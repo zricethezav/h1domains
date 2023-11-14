@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 00:19:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 01:33:00 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -530,8 +530,8 @@ uc.8x8pilot.com
 *.8x8.id
 platform.8x8pilot.com
 *.jit.si
-cloud8.8x8.com
 user-profile-staging.8x8.com
+cloud8.8x8.com
 voapi.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -571,8 +571,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1987,12 +1987,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2852,8 +2852,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3297,8 +3297,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
