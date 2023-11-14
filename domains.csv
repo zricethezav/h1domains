@@ -4933,8 +4933,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,www.recordedfuture.com,True
-recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
+recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -9414,8 +9414,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,getharvest.com,True
-harvest,harvestapp.com,True
 harvest,id.getharvest.com,True
+harvest,harvestapp.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
