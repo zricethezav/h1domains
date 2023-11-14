@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 04:10:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 05:09:39 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1340,8 +1340,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-*.chimebank.com
 app.chime.com
+*.chimebank.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -1596,8 +1596,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -3297,8 +3297,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

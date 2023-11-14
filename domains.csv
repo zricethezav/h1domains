@@ -944,8 +944,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -5881,8 +5881,8 @@ chime,*.1debit.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
 chime,wp-dev5.chime.com,True
-chime,*.chimebank.com,True
 chime,app.chime.com,True
+chime,*.chimebank.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -6773,8 +6773,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -7533,10 +7533,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.8x8cloud.net,False
-8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
 8x8,*.8x8.com,False
+8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9666,8 +9666,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
