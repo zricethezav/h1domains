@@ -2836,8 +2836,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -3124,16 +3124,12 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.magicjackpot.ro
+*.luckydays.com
 *.superbet.ro
-*.superbet.com
 *.luckydays.ca
 *.spinaway.com
-*.superbet.rs
 *.superbet.ro
-*.superbet.rs
-*.superbet.com
 *.magicjackpot.ro
 *.spinaway.com
 *.luckydays.com
@@ -4118,8 +4114,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -6787,8 +6783,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -7435,8 +7431,8 @@ solutions.topcoder.com
 tco18.topcoder.com
 zurich.topcoder.com
 vanilla.topcoder-dev.com
-accounts-auth0.topcoder.com
 www.topcoder.com
+accounts-auth0.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
