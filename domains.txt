@@ -3994,9 +3994,9 @@ www.canvasworld.com
 *.photoaffections.com
 *.iseeme.com
 www.gifts.com
-*.personalcreations.com
 *.canvasworld.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4114,8 +4114,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -6784,8 +6784,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -10068,8 +10068,8 @@ paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org

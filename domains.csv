@@ -3995,9 +3995,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
-planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4115,8 +4115,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -6785,8 +6785,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.acronis.com,True
 acronis,*.devicelock.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -10069,8 +10069,8 @@ coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True

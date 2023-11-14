@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 20:12:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 21:10:40 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -831,8 +831,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1595,8 +1595,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -3558,8 +3558,8 @@ paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
