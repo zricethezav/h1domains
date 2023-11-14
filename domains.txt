@@ -3015,8 +3015,8 @@ login.stanford.edu
 spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
-mailman.stanford.edu
 www.stanford.edu
+mailman.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
