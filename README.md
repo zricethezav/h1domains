@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 22:10:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 23:10:48 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -10,8 +10,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -831,8 +831,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1262,8 +1262,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -2880,8 +2880,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3281,9 +3281,9 @@ www.udemy.com
 yourcompany.udemy.com
 your-store.myshopify.com
 arrive-server.shopifycloud.com
-linkpop.com
 shop.app
 *.shopifycloud.com
+linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3621,8 +3621,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live

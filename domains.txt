@@ -937,8 +937,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -3396,8 +3396,8 @@ www.divvyhomes.com
 *.ttrus.com
 *.avalara.io
 *.avalara.net
-*.3ce.com
 *.inposia.com
+*.3ce.com
 *.avalara.com
 *.avalara.com
 *.avalara.net
@@ -4114,8 +4114,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5789,8 +5789,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -9203,8 +9203,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -9662,9 +9662,9 @@ www.udemy.com
 yourcompany.udemy.com
 your-store.myshopify.com
 arrive-server.shopifycloud.com
-linkpop.com
 shop.app
 *.shopifycloud.com
+linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -10131,8 +10131,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
