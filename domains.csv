@@ -6785,8 +6785,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -8141,6 +8141,8 @@ pixiv,payment.pixiv.net,True
 pixiv,neoket.net,True
 pixiv,novel.pixiv.net,True
 pixiv,https://vroid.com/studio,True
+amitree_inc,www.amitree.com,False
+amitree_inc,www.amitree.com,False
 amitree_inc,www.amitree.com,False
 amitree_inc,www.amitree.com,False
 forescout_technologies,datapod-1-100-druid-ingest.development.forescoutcloud.net,True
@@ -9507,8 +9509,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
