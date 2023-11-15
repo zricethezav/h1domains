@@ -2,16 +2,38 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 08:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 09:08:54 UTC 2023)
 ```
+experiences.booking.com
+careers.booking.com
+supplier.auth.toag.booking.com
+flights.booking.com
+booking.com
+metasearch-api.booking.com
+taxi.booking.com
+widget.rentalcars.com
+secure.booking.com
+cars.booking.com
+account.booking.com
+booking.com
+secure.booking.com
+careers.booking.com
+account.booking.com
+taxi.booking.com
+widget.rentalcars.com
+cars.booking.com
+supplier.auth.toag.booking.com
+metasearch-api.booking.com
+experiences.booking.com
+flights.booking.com
 *.bybit.com
 *.bybit.com
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -831,8 +853,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -939,8 +961,8 @@ shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 demo.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -3127,8 +3149,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3618,11 +3640,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
