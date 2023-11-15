@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 13:11:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 14:11:00 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1216,8 +1216,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2693,8 +2693,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3219,9 +3219,9 @@ werkenbijdnb.nl
 acme-challenge.nl
 nossl.nl
 ruddercms.com
-*.maximum.nl
 werkenbijdefensie.nl
 wp-mail.nl
+*.maximum.nl
 mijnkombijdepolitie.nl
 no-reply.cloud
 maximum-status.com

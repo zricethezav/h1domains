@@ -5069,8 +5069,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -8981,8 +8981,8 @@ newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -9595,9 +9595,9 @@ radancy,werkenbijdnb.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,ruddercms.com,True
-radancy,*.maximum.nl,True
 radancy,werkenbijdefensie.nl,True
 radancy,wp-mail.nl,True
+radancy,*.maximum.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,no-reply.cloud,True
 radancy,maximum-status.com,True
