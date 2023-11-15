@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 12:12:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 13:11:57 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1096,9 +1096,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com

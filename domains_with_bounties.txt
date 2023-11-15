@@ -26,8 +26,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1090,9 +1090,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
