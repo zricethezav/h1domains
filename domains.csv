@@ -9700,8 +9700,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
@@ -10125,9 +10125,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
@@ -10912,8 +10912,8 @@ greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,interseller.io,True
-greenhouse,app.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
+greenhouse,app.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
