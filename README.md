@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 22:09:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 23:09:18 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1337,8 +1337,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-app.chime.com
 *.chimebank.com
+app.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3386,8 +3386,8 @@ careers.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 me.store.ui.com
-repo.magento.com
 magento.com
+repo.magento.com
 magentolive.com
 marketplace.magento.com
 magentocommerce.com
@@ -3848,8 +3848,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 accounts.magento.cloud
 magentocommerce.com
-repo.magento.com
 account.magento.com
+repo.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com

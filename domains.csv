@@ -2541,8 +2541,8 @@ mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,api.mercadopago.com,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.cl,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -4470,8 +4470,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
@@ -6383,8 +6383,8 @@ chime,*.1debit.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
 chime,wp-dev5.chime.com,True
-chime,app.chime.com,True
 chime,*.chimebank.com,True
+chime,app.chime.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -10283,13 +10283,13 @@ adobe,theblog.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,repo.magento.com,True
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
+adobe,repo.magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -11102,8 +11102,8 @@ filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,T
 magento,magentolive.com,True
 magento,accounts.magento.cloud,True
 magento,magentocommerce.com,True
-magento,repo.magento.com,True
 magento,account.magento.com,True
+magento,repo.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,marketplace.magento.com,True

@@ -2540,8 +2540,8 @@ www.mercadopago.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.ar
 api.mercadopago.com
-www.mercadolivre.com.br
 www.mercadopago.cl
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -4469,8 +4469,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-www.photoaffections.com
 *.simplytoimpress.com
+www.photoaffections.com
 iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
@@ -6382,8 +6382,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-app.chime.com
 *.chimebank.com
+app.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -10282,13 +10282,13 @@ theblog.adobe.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-repo.magento.com
 *.adobeaemcloud.com
 firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
 *.adobe.com
+repo.magento.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -11101,8 +11101,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 accounts.magento.cloud
 magentocommerce.com
-repo.magento.com
 account.magento.com
+repo.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
