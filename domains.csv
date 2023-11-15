@@ -6785,8 +6785,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -7433,8 +7433,8 @@ topcoder,solutions.topcoder.com,False
 topcoder,tco18.topcoder.com,False
 topcoder,zurich.topcoder.com,False
 topcoder,vanilla.topcoder-dev.com,False
-topcoder,www.topcoder.com,False
 topcoder,accounts-auth0.topcoder.com,False
+topcoder,www.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
 topcoder,community-app.topcoder.com,False
@@ -9671,8 +9671,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

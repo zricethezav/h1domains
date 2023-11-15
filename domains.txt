@@ -6784,8 +6784,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -7432,8 +7432,8 @@ solutions.topcoder.com
 tco18.topcoder.com
 zurich.topcoder.com
 vanilla.topcoder-dev.com
-www.topcoder.com
 accounts-auth0.topcoder.com
+www.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
@@ -9670,8 +9670,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
