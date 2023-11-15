@@ -1050,8 +1050,8 @@ palta,https://simple-life-app.com/,True
 gocardless_bbp,connect-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
-gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,api-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
@@ -1059,8 +1059,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -4018,8 +4018,8 @@ planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5902,8 +5902,8 @@ ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
-chime,www.chime.com,True
 chime,*.chimecard.com,True
+chime,www.chime.com,True
 chime,*.chimepayments.com,True
 chime,wp-dev3.chime.com,True
 chime,wp-integ.chime.com,True
@@ -10143,8 +10143,8 @@ yahoo,yimg.com,True
 security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True

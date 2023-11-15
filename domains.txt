@@ -1049,8 +1049,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
@@ -1058,8 +1058,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -4017,8 +4017,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5901,8 +5901,8 @@ customers.mattermost.com
 *.vote.ohio.gov
 *.voteohio.gov
 *.electionintegrity.ohio.gov
-www.chime.com
 *.chimecard.com
+www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -10142,8 +10142,8 @@ yimg.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 10:09:34 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 11:08:54 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -90,15 +90,15 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1348,8 +1348,8 @@ global-api.citymapper.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-www.chime.com
 *.chimecard.com
+www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -3632,8 +3632,8 @@ yimg.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
