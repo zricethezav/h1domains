@@ -823,8 +823,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3084,8 +3084,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com

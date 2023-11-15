@@ -4108,8 +4108,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5650,9 +5650,9 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 downloads.zebra.com
 reflexisinc.com/
-supportcommunity.zebra.com
 *.profitect.com
 cmm01.sl.zebra.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9465,8 +9465,8 @@ newsletter.nextcloud.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
