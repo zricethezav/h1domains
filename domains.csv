@@ -3239,10 +3239,10 @@ expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediaagents.com,True
-expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.hotels.com,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -4137,8 +4137,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -6807,8 +6807,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.acronis.com,True
 acronis,*.devicelock.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -10396,12 +10396,12 @@ panther_labs,*.panther.com,True
 panther_labs,*.runpanther.io,True
 panther_labs,*.runpanther.com,True
 jimdo,help.jimdo.com,False
-jimdo,dash.e.jimdo.com,False
 jimdo,cms-backend.jimdosite.com,False
 jimdo,*.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
+jimdo,dash.e.jimdo.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 09:08:54 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 10:09:34 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -648,10 +648,10 @@ www.hotwirepartnercentral.com
 www.mrjet.se
 www.abritel.fr
 www.expediaagents.com
-www.expediagroup.com
 www.expediapartnersolutions.com
 www.orbitz.com
 www.hotels.com
+www.expediagroup.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
@@ -853,8 +853,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1617,8 +1617,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
