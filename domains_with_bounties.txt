@@ -823,8 +823,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3316,8 +3316,8 @@ snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
