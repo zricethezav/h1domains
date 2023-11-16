@@ -1,9 +1,9 @@
 handle,domain,eligible_for_bounty
 bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
-bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
+bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -3457,7 +3457,6 @@ resmed,airview.resmed.eu,False
 resmed,propellerhealth.com,False
 resmed,onlinestore.resmed.com,False
 resmed,mealtracker.com,False
-resmed,resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
@@ -3466,6 +3465,7 @@ resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
 resmed,app.citushealth.ca,False
+resmed,brightree.net/,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -4600,8 +4600,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -9905,8 +9905,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,getharvest.com,True
-harvest,id.getharvest.com,True
 harvest,harvestapp.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -10157,9 +10157,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

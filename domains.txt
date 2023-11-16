@@ -1,8 +1,8 @@
 careers.booking.com
 experiences.booking.com
-supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
+supplier.auth.toag.booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -3456,7 +3456,6 @@ airview.resmed.eu
 propellerhealth.com
 onlinestore.resmed.com
 mealtracker.com
-resmed.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -3465,6 +3464,7 @@ sigmacare.com
 soneto.net
 careanyware.com
 app.citushealth.ca
+brightree.net/
 resmed.com
 resupply.resmed.com
 myair.resmed.com
@@ -4599,8 +4599,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -9904,8 +9904,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 getharvest.com
-id.getharvest.com
 harvestapp.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -10156,9 +10156,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
