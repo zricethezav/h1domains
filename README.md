@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 07:10:46 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 08:10:16 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -52,8 +52,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -324,11 +324,11 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 contile.services.mozilla.com
-aus5.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -355,9 +355,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -829,8 +829,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -2567,13 +2567,13 @@ www.shipt.com
 *.liberapay.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.foliofn.com
 *.goldman.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
