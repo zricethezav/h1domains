@@ -2564,8 +2564,8 @@ kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.avtoelon.uz,True
-kolesagroup,m.krisha.kz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,m.krisha.kz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,id.avtoelon.uz,True
@@ -2680,8 +2680,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
@@ -4600,8 +4600,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -7678,8 +7678,8 @@ bmwgroup,www.mini.de,True
 bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,www.bmw-motorrad.de,True
-bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
+bmwgroup,configure.mini.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,www.mini.de,True
 bmwgroup,www.bmw-motorrad.de,True
@@ -9359,9 +9359,8 @@ goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
-goldmansachs,*.nextcapital.com,True
 goldmansachs,*.goldmansachs.com,True
-goldmansachs,*.gsam.com,True
+goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -9371,6 +9370,7 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
