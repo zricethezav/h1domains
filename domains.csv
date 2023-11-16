@@ -7462,8 +7462,8 @@ wellsfargo,*.wystar.com,False
 wellsfargo,*.advisor-connection.com,False
 playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
-playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
+playstation,transact.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9355,12 +9355,12 @@ goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
-goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.nextcapital.com,True
+goldmansachs,*.finlife.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True

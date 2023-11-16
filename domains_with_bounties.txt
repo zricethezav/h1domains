@@ -1737,8 +1737,8 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 social.playstation.com
-transact.playstation.com
 api.direct.playstation.com
+transact.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2573,12 +2573,12 @@ apigw.foliofn.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
-*.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com

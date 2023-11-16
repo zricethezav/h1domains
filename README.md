@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 22:09:19 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 23:10:55 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1743,8 +1743,8 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 social.playstation.com
-transact.playstation.com
 api.direct.playstation.com
+transact.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2579,12 +2579,12 @@ apigw.foliofn.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
-*.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
