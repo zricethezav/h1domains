@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 21:09:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 22:09:19 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -189,10 +189,10 @@ www.visa.co.ke
 www.visa.co.th
 www.visa.co.uk
 visa.co.za
-www.cybersource.com
 www.authorize.net
 www.visa.co.id
 www.visa.co.ve
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -923,8 +923,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1982,8 +1982,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
