@@ -2975,8 +2975,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4480,8 +4480,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5125,13 +5125,11 @@ mitiendamondelez.com.ar
 cadbury-gifting.com
 https://otm.croc.ru
 100jaar.liga.nl
-7days-promo.com
 bakerypromo.milka.nl
 clifbar.it
 cotedor.be
 entdeckeallesorten.milka.de
 fodboldrejse.marabou.dk
-go.7days.com
 heritageadvertising.cadbury.co.uk
 loteria7days.pl
 marabouchokladhus.se
@@ -5149,6 +5147,7 @@ trident.gr
 vyhrajschuti.cz
 vyhrajschutou.sk
 worldclass.cadburyfc.com
+nabiscoholiday.com
 https://milka.ru
 https://alpengold.me
 https://oreo.ru

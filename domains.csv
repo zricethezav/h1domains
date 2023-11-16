@@ -2976,8 +2976,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -4481,8 +4481,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5126,13 +5126,11 @@ mondelez,mitiendamondelez.com.ar,False
 mondelez,cadbury-gifting.com,False
 mondelez,https://otm.croc.ru,False
 mondelez,100jaar.liga.nl,False
-mondelez,7days-promo.com,False
 mondelez,bakerypromo.milka.nl,False
 mondelez,clifbar.it,False
 mondelez,cotedor.be,False
 mondelez,entdeckeallesorten.milka.de,False
 mondelez,fodboldrejse.marabou.dk,False
-mondelez,go.7days.com,False
 mondelez,heritageadvertising.cadbury.co.uk,False
 mondelez,loteria7days.pl,False
 mondelez,marabouchokladhus.se,False
@@ -5150,6 +5148,7 @@ mondelez,trident.gr,False
 mondelez,vyhrajschuti.cz,False
 mondelez,vyhrajschutou.sk,False
 mondelez,worldclass.cadburyfc.com,False
+mondelez,nabiscoholiday.com,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
 mondelez,https://oreo.ru,False
