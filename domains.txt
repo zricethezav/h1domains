@@ -1,5 +1,5 @@
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 flights.booking.com
 booking.com
 supplier.auth.toag.booking.com
@@ -2889,9 +2889,9 @@ http://miro.com/blog
 *.cylon.com
 *.abb.com.cn
 *.tnb.com
-*.abb.com.tr
 *.baldor.com
 *.abb.com
+*.abb.com.tr
 *.abb
 *.abb.com
 *.abb
@@ -4475,8 +4475,8 @@ iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
 www.canvasworld.com
-*.photoaffections.com
 *.gifts.com
+*.photoaffections.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
@@ -5219,9 +5219,9 @@ analytics.krisp.ai
 help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
-account.krisp.ai
 upld.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -7119,8 +7119,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 shop.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -10157,8 +10157,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
