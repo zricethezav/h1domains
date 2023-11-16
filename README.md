@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 16:10:54 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 17:09:54 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
 flights.booking.com
-supplier.auth.toag.booking.com
 booking.com
+supplier.auth.toag.booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -52,8 +52,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -1751,8 +1751,8 @@ store.playstation.com
 direct.playstation.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -1804,8 +1804,8 @@ faucet.polygon.technology
 *.betfair.it
 *.skybingo.com
 *.skybet.com
-*.betfair.com
 *.skyvegas.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1901,8 +1901,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3606,8 +3606,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3617,10 +3617,10 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
