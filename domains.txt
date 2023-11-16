@@ -4599,8 +4599,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5104,7 +5104,6 @@ budni.milka.de
 https://digitas.8thwall.app/chips-ahoy-happy-by-design
 doppeltgewinnen.fcmilka.de
 http://cadburypakistan.com/cricketworldcup
-hallsfangiveaway.com
 spar.nyerjakedvenceiddel.hu
 https://www.fundraising.com.au/
 chipsahoy.art
@@ -5143,7 +5142,6 @@ secretsanta.cadbury.co.uk
 signwithfingers.cadbury.co.uk
 sport70promo.hu
 sutazoreo.sk
-trident.gr
 vyhrajschuti.cz
 vyhrajschutou.sk
 worldclass.cadburyfc.com

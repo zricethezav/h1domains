@@ -4600,8 +4600,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5105,7 +5105,6 @@ mondelez,budni.milka.de,False
 mondelez,https://digitas.8thwall.app/chips-ahoy-happy-by-design,False
 mondelez,doppeltgewinnen.fcmilka.de,False
 mondelez,http://cadburypakistan.com/cricketworldcup,False
-mondelez,hallsfangiveaway.com,False
 mondelez,spar.nyerjakedvenceiddel.hu,False
 mondelez,https://www.fundraising.com.au/,False
 mondelez,chipsahoy.art,False
@@ -5144,7 +5143,6 @@ mondelez,secretsanta.cadbury.co.uk,False
 mondelez,signwithfingers.cadbury.co.uk,False
 mondelez,sport70promo.hu,False
 mondelez,sutazoreo.sk,False
-mondelez,trident.gr,False
 mondelez,vyhrajschuti.cz,False
 mondelez,vyhrajschutou.sk,False
 mondelez,worldclass.cadburyfc.com,False
