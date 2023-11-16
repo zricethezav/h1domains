@@ -1,8 +1,8 @@
 careers.booking.com
 experiences.booking.com
 flights.booking.com
-booking.com
 supplier.auth.toag.booking.com
+booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -10155,9 +10155,9 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 accounts.shopify.com
 shopify.plus
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com

@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -10156,9 +10156,9 @@ shopify,linkpop.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
