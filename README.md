@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 04:10:51 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 05:10:54 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1216,8 +1216,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
