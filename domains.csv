@@ -1485,13 +1485,13 @@ visa,www.visa.com.cn,True
 visa,www.visa.com.hk,True
 visa,www.visa.com.lc,True
 visa,www.visa.com.ph,True
-visa,visa.com.ua,True
 visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.tw,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.co.jp,True
+visa,visa.com.ua,True
 visa,www.visa.com.mx,True
 visa,www.visa.com.cy,True
 visa,www.visa.com.ge,True
@@ -2619,10 +2619,10 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
-mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,push.services.mozilla.com,True
+mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
@@ -5846,6 +5846,7 @@ john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,work-dispatcher-mobile.prod.us.e01.c01.johndeerecloud.com,False
 john-deere,work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com,False
 john-deere,vistaar.tal.deere.com,False
+john-deere,citratest.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -9366,10 +9367,10 @@ goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gsam.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True

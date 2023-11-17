@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 19:10:45 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 20:09:13 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -154,13 +154,13 @@ www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
 www.visa.com.ph
-visa.com.ua
 www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.co.jp
+visa.com.ua
 www.visa.com.mx
 www.visa.com.cy
 www.visa.com.ge
@@ -319,10 +319,10 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
+sync.services.mozilla.com
 contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -2591,10 +2591,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.gs.de
-*.advisorsolutions.gs.com
-*.gs.com
 *.folioclient.com
 *.folioinstitutional.com
+*.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
