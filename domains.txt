@@ -6,9 +6,9 @@ booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -5617,7 +5617,7 @@ filebox-dev.kreiselelectric.com
 video.kreiselelectric.com
 vpn.kreiselelectric.com
 ghost.harvestprofit.com
-johndeereinnovation.com
+stellarsupport.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -10579,8 +10579,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

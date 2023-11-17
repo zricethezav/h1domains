@@ -7,9 +7,9 @@ bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
-bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -5618,7 +5618,7 @@ john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
 john-deere,ghost.harvestprofit.com,False
-john-deere,johndeereinnovation.com,False
+john-deere,stellarsupport.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -10580,8 +10580,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
