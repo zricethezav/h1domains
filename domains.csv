@@ -2531,8 +2531,8 @@ mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
 mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
-mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,api.mercadolibre.com,False
+mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
@@ -7117,8 +7117,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7687,8 +7687,8 @@ bmwgroup,configure.bmw.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 magic-bbp,api.magic.link,True
-magic-bbp,api.fortmatic.com,True
 magic-bbp,dashboard.fortmatic.com,True
+magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
