@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 00:21:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 01:34:58 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -923,8 +923,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
