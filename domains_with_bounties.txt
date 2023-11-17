@@ -1891,12 +1891,12 @@ www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.1688.com
 *.aliyun-inc.com
 *.Daraz.com
 *.alimama.com
 *.aliyun.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3315,9 +3315,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com

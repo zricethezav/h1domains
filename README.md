@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 02:20:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 03:09:00 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1897,12 +1897,12 @@ www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.1688.com
 *.aliyun-inc.com
 *.Daraz.com
 *.alimama.com
 *.aliyun.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3321,9 +3321,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
