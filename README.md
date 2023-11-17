@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 18:10:31 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 19:10:45 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1466,19 +1466,19 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-sf-rp-eu.sharefile.com
 www.cloud.com
 api.sharefile.com
 accounts.cloud.com
 *.browser.cloud.com
 (yoursubdomain).sharefile.com
+sf-rp-eu.sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
-sf-rp-us.sharefile.com
 secure.sharefile.com
+sf-rp-us.sharefile.com
 ap-s.cloud.com
 adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
@@ -1487,8 +1487,8 @@ accounts-internal.cloud.com
 (youriwssubdomain).cloud.com
 launch.cloud.com
 api.adm.cloud.com
-sf-rp.sharefile.com
 api.sharefile.eu
+sf-rp.sharefile.com
 us.cloud.com
 *.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
@@ -1590,8 +1590,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -2532,8 +2532,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging.airtable.com
 staging.airtable.com
-*.staging-airtableblocks.com
 api-staging.airtable.com
+*.staging-airtableblocks.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -2591,10 +2591,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.gs.de
-*.gsam.com
 *.advisorsolutions.gs.com
 *.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
