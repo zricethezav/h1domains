@@ -4302,10 +4302,10 @@ fossil.at
 banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.be
-*.myroyalcanin.gr
 *.banfield.com
 *.individualis.com
 *.royalcaninfoodfinder.com
+*.myroyalcanin.gr
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -9368,7 +9368,7 @@ api.foliofn.com
 *.folioinstitutional.com
 *.folioclient.com
 *.gsam.com
-*.gs.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10156,8 +10156,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10506,8 +10506,8 @@ simplenote.com
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
-intensedebate.com
 wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com

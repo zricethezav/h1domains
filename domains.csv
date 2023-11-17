@@ -4303,10 +4303,10 @@ mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
-mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
 mars,*.individualis.com,False
 mars,*.royalcaninfoodfinder.com,False
+mars,*.myroyalcanin.gr,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -9369,7 +9369,7 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10157,8 +10157,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10507,8 +10507,8 @@ automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
-automattic,intensedebate.com,True
 automattic,wordpress.com,True
+automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,t.umblr.com,True
