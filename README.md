@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 21:08:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 22:10:21 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2590,11 +2590,11 @@ goldmansachsindices.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
-*.gs.de
-*.folioclient.com
-*.folioinstitutional.com
 *.gsam.com
 *.gs.com
+*.advisorsolutions.gs.com
+*.gs.de
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2914,8 +2914,8 @@ label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 logs.dashlane.com
-www.dashlane.com
 app.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -3089,9 +3089,9 @@ id.getharvest.com
 getharvest.com
 www.thumbzilla.com
 *.tube8.com
-www.modelhub.com
 www.pornhub.com
 www.redtube.com
+www.modelhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3124,9 +3124,9 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.github.net
-github.com
 gist.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
