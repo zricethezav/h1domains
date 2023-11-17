@@ -1234,8 +1234,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.tikkie.me
 *.abnamro.nl
+*.tikkie.me
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -7116,8 +7116,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -10468,8 +10468,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
