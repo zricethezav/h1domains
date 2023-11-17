@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 17:09:30 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 18:10:31 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -317,8 +317,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
@@ -1532,9 +1532,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2572,8 +2572,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.ayco.com
 *.gsselect.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -2582,19 +2582,19 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
 *.finlife.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
-*.folioinstitutional.com
 *.gs.de
 *.gsam.com
 *.advisorsolutions.gs.com
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3286,9 +3286,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3619,8 +3619,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
