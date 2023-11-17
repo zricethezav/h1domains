@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 16:13:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 17:09:30 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -355,9 +355,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -1216,8 +1216,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2591,10 +2591,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.de
-*.gs.com
 *.gsam.com
+*.advisorsolutions.gs.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3124,9 +3124,9 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
 gist.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3285,10 +3285,10 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3605,8 +3605,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com

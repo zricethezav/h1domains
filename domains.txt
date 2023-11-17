@@ -98,7 +98,6 @@ cloud.sequentra.net
 pop.92mountainview.com
 smtp.92mountainview.com
 ftp.callawaydesigngroup.com
-sip.callawaydesigngroup.com
 www.callawaydesigngroup.com
 help.facilitysource.com
 mta-sts.mail1.facilitysource.com
@@ -109,6 +108,7 @@ cbrelive.com
 www.navesylogisticacbre.com
 dev.www.cartonspleins.fr
 3.gallileo-frankfurt.com
+academy.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -1587,8 +1587,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *exceleratorparts.com
-*.mercedes-benz-trucks.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -2654,9 +2654,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -4481,8 +4481,8 @@ www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5556,8 +5556,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -6142,10 +6142,10 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 *.zams.zebra.com
 downloads.zebra.com
-reflexisinc.com/
 *.profitect.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9365,10 +9365,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.de
-*.gs.com
 *.gsam.com
+*.advisorsolutions.gs.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -9991,9 +9991,9 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
 gist.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -10154,10 +10154,10 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10603,8 +10603,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
