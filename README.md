@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 05:09:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 06:11:03 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1533,8 +1533,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1751,8 +1751,8 @@ store.playstation.com
 direct.playstation.com
 my.playstation.com
 ca.account.sony.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2570,10 +2570,10 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.gsselect.com
 *.foliofn.com
 *.goldman.com
 *.ayco.com
+*.gsselect.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -3605,8 +3605,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com

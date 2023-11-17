@@ -7117,8 +7117,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7470,8 +7470,8 @@ playstation,*.api.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
-playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9345,10 +9345,10 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
-goldmansachs,*.gsselect.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.gsselect.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
@@ -10604,8 +10604,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
+security,api.hackerone.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
