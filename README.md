@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 15:11:12 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 16:13:08 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1377,8 +1377,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -2590,11 +2590,11 @@ goldmansachsindices.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
-*.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
 *.gs.de
 *.gs.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3122,11 +3122,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
-gist.github.com
 npmjs.org
 *.github.net
 *.githubusercontent.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3196,8 +3196,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 *.deriv.com
-*.binary.com
 secure-dfadmin.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3287,8 +3287,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
