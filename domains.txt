@@ -7,8 +7,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -6914,8 +6914,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -9341,7 +9341,6 @@ www.shipt.com
 *.liberapay.com
 *.liberapay.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -9349,6 +9348,7 @@ apigw.foliofn.com
 *.gsselect.com
 *.ayco.com
 *.goldman.com
+*.marcus.co.uk
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -9991,10 +9991,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 npmjs.org
-*.github.net
 gist.github.com
 *.githubusercontent.com
 github.com
+*.github.net
 github.com
 api.github.com
 gist.github.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 18 14:09:35 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 18 15:10:03 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -13,8 +13,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1377,8 +1377,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -2566,7 +2566,6 @@ www.shipt.com
 *.liberapay.com
 *.liberapay.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2574,6 +2573,7 @@ apigw.foliofn.com
 *.gsselect.com
 *.ayco.com
 *.goldman.com
+*.marcus.co.uk
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -3123,10 +3123,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 npmjs.org
-*.github.net
 gist.github.com
 *.githubusercontent.com
 github.com
+*.github.net
 github.com
 api.github.com
 gist.github.com

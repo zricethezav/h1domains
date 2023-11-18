@@ -8,8 +8,8 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,secure.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1594,8 +1594,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -6915,8 +6915,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.mx,True
 bitso,nvio.ar,True
+bitso,nvio.mx,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
@@ -9342,7 +9342,6 @@ arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
-goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -9350,6 +9349,7 @@ goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
@@ -9992,10 +9992,10 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
 github,npmjs.org,True
-github,*.github.net,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,github.com,True
+github,*.github.net,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
