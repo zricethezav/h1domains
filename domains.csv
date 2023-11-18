@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
@@ -4471,8 +4471,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
+planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
@@ -10501,12 +10501,12 @@ cloudflare,waf.cumulusfire.net,True
 cloudflare,*.cloudflarepartners.com,False
 automattic,*.srvcs.tumblr.com,True
 automattic,akismet.com,True
-automattic,simperium.com,True
 automattic,embed.tumblr.com,True
 automattic,my.pressable.com,True
 automattic,happy.tools,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
+automattic,simperium.com,True
 automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
 automattic,wordpress.com,True
