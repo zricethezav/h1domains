@@ -1,5 +1,5 @@
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -2747,8 +2747,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hiltonlocalbiz.com
 hilton.com
-*.hilton.com
 hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -4478,11 +4478,11 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
-www.gifts.com
-*.canvasworld.com
 *.cafepress.com
 *.personalcreations.com
 *.iseeme.com
+www.gifts.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com

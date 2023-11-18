@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 18 20:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 18 21:08:39 UTC 2023)
 ```
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -393,8 +393,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hiltonlocalbiz.com
 hilton.com
-*.hilton.com
 hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr

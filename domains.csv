@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
+bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
@@ -2748,8 +2748,8 @@ hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
-hilton,*.hilton.com,True
 hilton,hilton.com.tr,True
+hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
@@ -4479,11 +4479,11 @@ planetart,www.simplytoimpress.com,False
 planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
-planetart,www.gifts.com,False
-planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
+planetart,www.gifts.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
