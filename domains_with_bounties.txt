@@ -2566,8 +2566,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.ayco.com
-*.goldman.com
 *.marcus.co.uk
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
