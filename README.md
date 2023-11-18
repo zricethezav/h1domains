@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 23:08:35 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 18 00:21:16 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -509,8 +509,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -804,8 +804,8 @@ business.linkedin.com
 www.mundi.com.br
 www.momondo.com
 www.hotelscombined.com
-www.checkfelix.com
 business.kayak.com
+www.checkfelix.com
 www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
@@ -2591,10 +2591,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.gsam.com
-*.gs.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3605,9 +3605,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
