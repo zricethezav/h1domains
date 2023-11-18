@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 18 03:10:28 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 18 04:10:32 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -356,8 +356,8 @@ relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 www.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -509,8 +509,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -711,8 +711,8 @@ askpam.ai
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-tools.deribit.com
 metrics.deribit.com
+tools.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -2278,7 +2278,6 @@ vacations.us.palladiumhotelgroup.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-login.www.vaxvacationaccess.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2290,6 +2289,7 @@ vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.globalhotelchoices.com
 www.cheapcaribbean.com
+login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -3661,8 +3661,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io

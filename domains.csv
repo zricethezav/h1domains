@@ -2656,8 +2656,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -2976,8 +2976,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -3520,8 +3520,8 @@ resmed,app.citushealth.ca,False
 deribit,pb.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
-deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
+deribit,tools.deribit.com,True
 deribit,*.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
@@ -9046,7 +9046,6 @@ hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
-hyatt,login.www.vaxvacationaccess.com,True
 hyatt,booking.beachbound.com,True
 hyatt,holidays-nz.fijiairways.com,True
 hyatt,res.en.travelbrandsagent.com,True
@@ -9058,6 +9057,7 @@ hyatt,vacations.hotelcasavelas.com,True
 hyatt,vacations.travelimpressions.com,True
 hyatt,www.globalhotelchoices.com,True
 hyatt,www.cheapcaribbean.com,True
+hyatt,login.www.vaxvacationaccess.com,True
 hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
@@ -10663,8 +10663,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
