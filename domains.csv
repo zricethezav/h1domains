@@ -3268,11 +3268,11 @@ expediagroup,*.orbitz.com,False
 expediagroup,*.cruiseshipcenters.com,False
 expediagroup,*.egadvertising.com,False
 expediagroup,*.hoteis.com,False
-expediagroup,*.vrbo.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
 expediagroup,*.wotif.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.vrbo.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -4303,11 +4303,11 @@ mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
-mars,*.royalcanin.be,False
 mars,*.banfield.com,False
 mars,*.individualis.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
+mars,*.royalcanin.be,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False

@@ -3267,11 +3267,11 @@ www.flights.com
 *.cruiseshipcenters.com
 *.egadvertising.com
 *.hoteis.com
-*.vrbo.com
 *.ean.com
 *.lastminute.co.nz
 *.wotif.com
 *.expedia.com
+*.vrbo.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -4302,11 +4302,11 @@ fossil.at
 *.eukanubasportingdog.com
 banfield.us
 *.miroyalcanin.com.ar
-*.royalcanin.be
 *.banfield.com
 *.individualis.com
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
+*.royalcanin.be
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
