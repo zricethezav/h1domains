@@ -34,8 +34,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2565,9 +2565,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.ayco.com
 *.marcus.co.uk
 *.goldman.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com

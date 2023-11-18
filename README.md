@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 18 19:09:49 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 18 20:10:20 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2571,9 +2571,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.ayco.com
 *.marcus.co.uk
 *.goldman.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
