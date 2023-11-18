@@ -9347,9 +9347,9 @@ goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
@@ -10620,8 +10620,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,www.hackerone.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
