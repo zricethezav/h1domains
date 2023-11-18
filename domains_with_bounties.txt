@@ -314,9 +314,9 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
-bugzilla.mozilla.org
 push.services.mozilla.com
 sync.services.mozilla.com
+bugzilla.mozilla.org
 contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
