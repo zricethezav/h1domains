@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
+bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
@@ -6146,8 +6146,8 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False

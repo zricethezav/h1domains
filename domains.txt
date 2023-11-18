@@ -1,5 +1,5 @@
-experiences.booking.com
 careers.booking.com
+experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -6145,8 +6145,8 @@ zsbsupport.zebra.com
 downloads.zebra.com
 *.profitect.com
 supportcommunity.zebra.com
-cmm01.sl.zebra.com
 reflexisinc.com/
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
