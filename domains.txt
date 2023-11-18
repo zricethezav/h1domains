@@ -9421,8 +9421,8 @@ api.steampowered.com
 wiki.teamfortress.com
 storefront.steampowered.com
 support.steampowered.com
-steamcommunity.com
 www.dota2.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
