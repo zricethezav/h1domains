@@ -4481,8 +4481,8 @@ www.canvasworld.com
 *.cafepress.com
 *.personalcreations.com
 *.iseeme.com
-www.gifts.com
 *.canvasworld.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7657,9 +7657,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9368,7 +9368,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioclient.com
-*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
