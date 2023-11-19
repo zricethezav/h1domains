@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 18 23:08:57 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 00:22:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1096,9 +1096,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com

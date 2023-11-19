@@ -5412,9 +5412,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
