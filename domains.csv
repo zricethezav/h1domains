@@ -8,8 +8,8 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -5557,8 +5557,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
