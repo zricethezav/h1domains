@@ -2655,8 +2655,8 @@ relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 www.mozilla.org
-monitor.firefox.com
 developer.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -7486,9 +7486,9 @@ api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
 *.ct0.app
-api.courier.com
 www.trycourier.app
 api.trycourier.app
+api.courier.com
 www.courier.com
 *.ct0.app
 www.trycourier.app
@@ -10468,8 +10468,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -10604,9 +10604,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+hackerone.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

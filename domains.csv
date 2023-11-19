@@ -2656,8 +2656,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
-mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -7487,9 +7487,9 @@ playstation,api.direct.playstation.com,True
 playstation,ca.account.sony.com,True
 playstation,my.account.sony.com,True
 trycourier,*.ct0.app,False
-trycourier,api.courier.com,False
 trycourier,www.trycourier.app,False
 trycourier,api.trycourier.app,False
+trycourier,api.courier.com,False
 trycourier,www.courier.com,False
 trycourier,*.ct0.app,False
 trycourier,www.trycourier.app,False
@@ -10469,8 +10469,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -10605,9 +10605,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
+security,hackerone.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
