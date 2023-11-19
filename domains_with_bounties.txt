@@ -3618,10 +3618,10 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-hackerone.live
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
