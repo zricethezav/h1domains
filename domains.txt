@@ -4295,7 +4295,6 @@ fossil.at
 *.twix.com
 *.myroyalcanin.ro
 *.royalcanin.nl
-*.royalcanin.pt
 *.mivetshop.com.ar
 *.shoproyalcanin.com
 *.vetschoice.co.za
@@ -4307,6 +4306,7 @@ banfield.us
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
 *.royalcanin.be
+*.royalcanin.pt
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -6914,8 +6914,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com

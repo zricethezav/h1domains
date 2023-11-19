@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 15:10:16 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 16:09:26 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1377,8 +1377,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com

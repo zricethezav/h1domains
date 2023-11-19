@@ -1371,8 +1371,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com

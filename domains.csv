@@ -4296,7 +4296,6 @@ mount-sinai-health,*.southnassau.org,False
 mars,*.twix.com,False
 mars,*.myroyalcanin.ro,False
 mars,*.royalcanin.nl,False
-mars,*.royalcanin.pt,False
 mars,*.mivetshop.com.ar,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
@@ -4308,6 +4307,7 @@ mars,*.individualis.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -6915,8 +6915,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.ar,True
 bitso,nvio.mx,True
+bitso,nvio.ar,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
