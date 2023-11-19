@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 13:08:36 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 14:08:25 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2038,8 +2038,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-docs.datastax.com
 astra.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
