@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 22:10:05 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 23:09:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1987,8 +1987,8 @@ cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
-www.ritzcarlton.com
 marriottfranchisetransactions.marriott.com
+www.ritzcarlton.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
@@ -2573,7 +2573,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.global-liquidity.gs.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2584,6 +2583,7 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2593,7 +2593,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioclient.com
-*.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
