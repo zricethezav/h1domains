@@ -7547,7 +7547,6 @@ flutteruki,*.skybet.co.uk,True
 flutteruki,*.ppbdev.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.betfair.ro,True
-flutteruki,*.platformservices.io,True
 flutteruki,*.sbgtest.net,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -9369,8 +9368,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10607,8 +10606,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
