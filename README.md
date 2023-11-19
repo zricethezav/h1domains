@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 18:09:20 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 19:10:02 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2574,7 +2574,6 @@ apigw.foliofn.com
 *.goldman.com
 *.ayco.com
 *.global-liquidity.gs.com
-*.honestdollar.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2583,6 +2582,7 @@ goldmansachsindices.com
 *.nextcapital.com
 *.finlife.com
 *.vennhypotheken.nl
+*.honestdollar.com
 *.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -3286,8 +3286,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

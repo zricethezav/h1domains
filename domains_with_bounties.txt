@@ -2568,7 +2568,6 @@ apigw.foliofn.com
 *.goldman.com
 *.ayco.com
 *.global-liquidity.gs.com
-*.honestdollar.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2577,6 +2576,7 @@ goldmansachsindices.com
 *.nextcapital.com
 *.finlife.com
 *.vennhypotheken.nl
+*.honestdollar.com
 *.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -3280,8 +3280,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
