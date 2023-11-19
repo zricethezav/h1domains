@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 08:10:28 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 09:08:24 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1260,8 +1260,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net

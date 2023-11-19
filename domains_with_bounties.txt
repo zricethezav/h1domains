@@ -1254,8 +1254,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
