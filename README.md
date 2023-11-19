@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 02:20:19 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 03:10:26 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -3584,8 +3584,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
