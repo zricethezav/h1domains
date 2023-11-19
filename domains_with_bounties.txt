@@ -1603,7 +1603,6 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.iciparisxl.lu
 app.marionnaud.hu
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
@@ -1615,6 +1614,7 @@ www.marionnaud.fr
 www.watsons.com.ph
 www.watsons.com.tr
 www.marionnaud.ro
+www.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -3469,8 +3469,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com

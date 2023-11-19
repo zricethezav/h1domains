@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 00:22:29 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 01:35:19 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1609,7 +1609,6 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.iciparisxl.lu
 app.marionnaud.hu
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
@@ -1621,6 +1620,7 @@ www.marionnaud.fr
 www.watsons.com.ph
 www.watsons.com.tr
 www.marionnaud.ro
+www.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -3475,8 +3475,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
