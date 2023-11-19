@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 16:09:26 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 17:08:13 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -533,10 +533,10 @@ platform.8x8pilot.com
 *.jit.si
 user-profile-staging.8x8.com
 cloud8.8x8.com
-voapi.8x8.com
 *.8x8staging.com
 platform.8x8.com
 *.packet8.net
+voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 *.wavecell.com
@@ -2182,8 +2182,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3624,9 +3624,9 @@ ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone.live
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
