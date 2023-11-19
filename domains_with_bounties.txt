@@ -1739,10 +1739,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 ca.account.sony.com
 my.account.sony.com

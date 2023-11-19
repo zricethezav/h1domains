@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 19:10:02 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 20:10:09 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1745,10 +1745,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 ca.account.sony.com
 my.account.sony.com
