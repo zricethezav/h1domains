@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 17:11:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 18:11:50 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -751,6 +751,8 @@ www.amazon.com/photos/*
 api.amazonalexa.com/*
 https://www.amazon.com/luna/*
 https://luna.amazon.com/*
+knox.beta.blendlabs.com
+knox.beta.blendlabs.com
 https://www.*mongodb.com/*
 mongodb.live/*
 checksw.com
@@ -1205,8 +1207,8 @@ www.xvideos.red
 www.xnxx.com
 gold.xnxx.com
 https://www.xvideos.net/app/
-*.trafficfactory.biz
 www.trafficfactory.com
+*.trafficfactory.biz
 main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
@@ -1376,8 +1378,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -2795,8 +2797,8 @@ www.lahitapiola.fi
 *.tapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3115,8 +3117,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3604,9 +3606,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3688,8 +3690,6 @@ node1.pivcac.staging.login.gov
 node1.pivcac.prod.login.gov
 www.engelvoelkers.com
 www.engelvoelkers.com
-knox.beta.blendlabs.com
-knox.beta.blendlabs.com
 businessdefense.gov
 ioss.gov
 itc.gov
