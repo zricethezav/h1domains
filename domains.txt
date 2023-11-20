@@ -7115,11 +7115,11 @@ tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -9346,8 +9346,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
+*.goldman.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
