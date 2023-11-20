@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 14:11:35 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 15:11:56 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1898,9 +1898,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2569,9 +2569,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.marcus.co.uk
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2591,7 +2591,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioclient.com
-*.gsam.com
+*.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -2970,8 +2970,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 socialclub.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3087,9 +3087,9 @@ id.getharvest.com
 getharvest.com
 www.thumbzilla.com
 *.tube8.com
-www.redtube.com
 www.modelhub.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com

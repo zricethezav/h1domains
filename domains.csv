@@ -25,8 +25,8 @@ bybit_fintech,*.bybit.com,True
 bybit_fintech,*.bybit.com,True
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-navient_solutions,admin.msbnexus.navient.com,False
 navient_solutions,www.pamcollections.com,False
+navient_solutions,admin.msbnexus.navient.com,False
 navient_solutions,sandiegoadmin.dsmyportal.com,False
 navient_solutions,www.nystapayment.com,False
 navient_solutions,payments.msbpay.navient.com,False
@@ -7658,9 +7658,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9345,9 +9345,9 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
-goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
@@ -9367,7 +9367,7 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.gsam.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -9783,8 +9783,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -9954,9 +9954,9 @@ nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
-pornhub,www.redtube.com,True
 pornhub,www.modelhub.com,True
 pornhub,www.pornhub.com,True
+pornhub,www.redtube.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
