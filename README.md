@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 03:09:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 04:09:05 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -117,9 +117,9 @@ testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
+evening-earth.gamma.redoxstage.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -1021,7 +1021,6 @@ capturingreality.com
 *.bcbits.com
 fortnite.com
 *.3lateral.com
-*.psyonix.com
 *.bcbits.com
 *.hmxwebservices.com
 *.bandcamp.com
@@ -3194,9 +3193,9 @@ api.deriv.com
 derivws.com
 smarttrader.deriv.com
 *.derivws.com
-*.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3286,8 +3285,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
