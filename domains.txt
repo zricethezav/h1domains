@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -2517,8 +2517,8 @@ biology-browser.com
 biologybrowser.com
 biologybrowser.org
 biologyfinder.com
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -7657,9 +7657,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9355,9 +9355,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.finlife.com
 *.vennhypotheken.nl
-*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -9734,8 +9734,6 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
-hosted.weblate.org
-hosted.weblate.org
 planet.wordpress.org
 *.wordpress.org
 wordpressfoundation.org
@@ -9955,9 +9953,9 @@ pushfeed.nextcloud.com
 newsletter.nextcloud.com
 www.thumbzilla.com
 *.tube8.com
-www.modelhub.com
 www.redtube.com
 www.pornhub.com
+www.modelhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -10193,9 +10191,9 @@ business.snapchat.com
 app.snapchat.com
 playcanvas.com
 spectacles.com
-web.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
@@ -11344,6 +11342,8 @@ delight.im
 www.delight.im
 parrotlinux.org
 parrotlinux.org
+hosted.weblate.org
+hosted.weblate.org
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com

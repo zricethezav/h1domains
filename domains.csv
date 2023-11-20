@@ -1594,8 +1594,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2518,8 +2518,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -7658,9 +7658,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9356,9 +9356,9 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.vennhypotheken.nl,True
-goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
+goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -9735,8 +9735,6 @@ dashlane,console.dashlane.com,True
 dashlane,app.dashlane.com,True
 dashlane,logs.dashlane.com,True
 dashlane,api.dashlane.com,True
-weblate,hosted.weblate.org,False
-weblate,hosted.weblate.org,False
 wordpress,planet.wordpress.org,True
 wordpress,*.wordpress.org,True
 wordpress,wordpressfoundation.org,True
@@ -9956,9 +9954,9 @@ nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
-pornhub,www.modelhub.com,True
 pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
+pornhub,www.modelhub.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
@@ -10194,9 +10192,9 @@ snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,kit.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
@@ -11345,6 +11343,8 @@ delight_im,delight.im,False
 delight_im,www.delight.im,False
 parrot_sec,parrotlinux.org,False
 parrot_sec,parrotlinux.org,False
+weblate,hosted.weblate.org,False
+weblate,hosted.weblate.org,False
 alvosec,www.alvosec.com,True
 alvosec,dns.alvosec.com,True
 alvosec,cloud.alvosec.com,True

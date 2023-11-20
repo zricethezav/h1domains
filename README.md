@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 11:09:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 12:11:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -255,8 +255,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -1898,9 +1898,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2580,9 +2580,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.finlife.com
 *.vennhypotheken.nl
-*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3087,9 +3087,9 @@ id.getharvest.com
 getharvest.com
 www.thumbzilla.com
 *.tube8.com
-www.modelhub.com
 www.redtube.com
 www.pornhub.com
+www.modelhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3323,9 +3323,9 @@ business.snapchat.com
 app.snapchat.com
 playcanvas.com
 spectacles.com
-web.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
