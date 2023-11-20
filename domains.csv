@@ -25,8 +25,8 @@ bybit_fintech,*.bybit.com,True
 bybit_fintech,*.bybit.com,True
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-navient_solutions,www.pamcollections.com,False
 navient_solutions,admin.msbnexus.navient.com,False
+navient_solutions,www.pamcollections.com,False
 navient_solutions,sandiegoadmin.dsmyportal.com,False
 navient_solutions,www.nystapayment.com,False
 navient_solutions,payments.msbpay.navient.com,False
@@ -2680,8 +2680,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
@@ -5221,8 +5221,8 @@ krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,upld.krisp.ai,True
-krisp,account.krisp.ai,True
 krisp,*.krisp.ai,True
+krisp,account.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,download.krisp.ai,True

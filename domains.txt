@@ -24,8 +24,8 @@ flights.booking.com
 *.bybit.com
 myaccount.navirefi.com
 wsmb2bresv.navient.com
-www.pamcollections.com
 admin.msbnexus.navient.com
+www.pamcollections.com
 sandiegoadmin.dsmyportal.com
 www.nystapayment.com
 payments.msbpay.navient.com
@@ -2679,8 +2679,8 @@ snapfish.ie
 photo.walgreens.com
 snapfish.de
 prestigeportraits.com
-lifetouch.com
 www.borrowlenses.com
+lifetouch.com
 shutterfly.com
 jcpportraits.com
 snapfish.com
@@ -5220,8 +5220,8 @@ help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
 upld.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai

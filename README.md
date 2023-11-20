@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 04:09:05 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 05:10:35 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -968,8 +968,8 @@ marketplace.databricks.com
 *.payoneer.com
 analytics.krisp.ai
 upld.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
