@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 20:10:49 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 21:10:46 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -570,8 +570,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.magicjackpot.ro
+*.luckydays.com
 *.superbet.ro
 *.luckydays.ca
 *.spinaway.com
@@ -2074,9 +2074,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
@@ -3025,9 +3025,9 @@ app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
 www.starbucks.com.cn
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3607,8 +3607,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
