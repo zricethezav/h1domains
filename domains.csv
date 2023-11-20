@@ -4477,8 +4477,8 @@ planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
@@ -10155,9 +10155,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

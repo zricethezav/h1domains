@@ -4476,8 +4476,8 @@ iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.cafepress.com
 *.iseeme.com
 *.canvasworld.com
@@ -10154,9 +10154,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
