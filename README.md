@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 10:09:14 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 11:09:24 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -142,8 +142,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1095,9 +1095,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -2591,7 +2591,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioclient.com
-*.gs.com
+*.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -3077,9 +3077,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 harvestapp.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3087,9 +3087,9 @@ id.getharvest.com
 getharvest.com
 www.thumbzilla.com
 *.tube8.com
-www.pornhub.com
 www.modelhub.com
 www.redtube.com
+www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com

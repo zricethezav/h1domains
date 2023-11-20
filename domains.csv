@@ -1473,8 +1473,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -5413,9 +5413,9 @@ recorded-future,therecord.media,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
-recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
 recorded-future,securitytrails.com,True
+recorded-future,www.recordedfuture.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -9367,7 +9367,7 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -9902,9 +9902,9 @@ yelp,*.yelp.com,True
 yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
-harvest,getharvest.com,True
 harvest,harvestapp.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -9956,9 +9956,9 @@ nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
-pornhub,www.pornhub.com,True
 pornhub,www.modelhub.com,True
 pornhub,www.redtube.com,True
+pornhub,www.pornhub.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
