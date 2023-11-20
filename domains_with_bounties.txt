@@ -1372,8 +1372,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -3840,9 +3840,9 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 accounts.magento.cloud
-magentocommerce.com
 account.magento.com
 repo.magento.com
+magentocommerce.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
