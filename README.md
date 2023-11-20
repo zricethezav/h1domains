@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 09:09:08 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 10:09:14 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2580,19 +2580,19 @@ goldmansachsindices.com
 *.nextcapital.com
 *.finlife.com
 *.vennhypotheken.nl
-*.honestdollar.com
 *.global-liquidity.gs.com
+*.honestdollar.com
 *.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
-*.gsam.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioclient.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2681,11 +2681,11 @@ https://crypto.com/price
 *.eu.newrelic.com
 docs.newrelic.com
 insights.eu.newrelic.com
-developer.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+developer.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
