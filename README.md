@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 16:11:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 17:12:25 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -330,9 +330,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -3507,6 +3507,24 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
+onboarding.greenhouse.io
+api.greenhouse.io
+support.greenhouse.io
+jss.greenhouse.io
+interseller.io
+app.greenhouse.io
+boards.greenhouse.io
+www.greenhouse.io
+app.interseller.io
+app.greenhouse.io
+boards.greenhouse.io
+api.greenhouse.io
+onboarding.greenhouse.io
+support.greenhouse.io
+jss.greenhouse.io
+interseller.io
+app.interseller.io
+www.greenhouse.io
 *.vine.co
 x.com
 *.twitter.com
@@ -3658,9 +3676,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 hackerone.live
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4063,24 +4081,6 @@ login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
-onboarding.greenhouse.io
-api.greenhouse.io
-support.greenhouse.io
-jss.greenhouse.io
-interseller.io
-boards.greenhouse.io
-app.greenhouse.io
-www.greenhouse.io
-app.interseller.io
-app.greenhouse.io
-boards.greenhouse.io
-api.greenhouse.io
-onboarding.greenhouse.io
-support.greenhouse.io
-jss.greenhouse.io
-interseller.io
-app.interseller.io
-www.greenhouse.io
 *.ud.wtf
 *.urbandictionary.com
 *.urbandictionary.org
