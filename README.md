@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 15:10:11 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 16:11:46 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -87,6 +87,7 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
+https://simple.life
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -329,9 +330,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
+www.tide.co
 web.tide.co
 api.tide.co
-www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1924,9 +1925,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
+*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
-*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2500,9 +2501,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
+*.braintree.tools
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
@@ -2623,10 +2624,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
+*.folioclient.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3319,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
