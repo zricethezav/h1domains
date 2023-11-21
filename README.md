@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 21:10:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 22:09:03 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -204,10 +204,10 @@ bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
-www.visa.co.il
 visa.co.ni
 www.cardinalcommerce.com
 usa.visa.com
+www.visa.co.il
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3475,10 +3475,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-api.vhx.tv
 *.magisto.com
 *.livestream.com
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3563,10 +3563,10 @@ wordpress.com
 intensedebate.com
 api.tumblr.com
 safe.tumblr.com
-*.tumblr.com
 t.umblr.com
 mailpoet.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com

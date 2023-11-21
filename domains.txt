@@ -1548,10 +1548,10 @@ bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
-www.visa.co.il
 visa.co.ni
 www.cardinalcommerce.com
 usa.visa.com
+www.visa.co.il
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -5887,6 +5887,7 @@ work-dispatcher-mobile.prod.us.e01.c01.johndeerecloud.com
 work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com
 vistaar.tal.deere.com
 citratest.deere.com
+ims.tcms.tal.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -10200,8 +10201,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10475,10 +10476,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-api.vhx.tv
 *.magisto.com
 *.livestream.com
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -10573,10 +10574,10 @@ wordpress.com
 intensedebate.com
 api.tumblr.com
 safe.tumblr.com
-*.tumblr.com
 t.umblr.com
 mailpoet.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com

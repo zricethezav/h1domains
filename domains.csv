@@ -1549,10 +1549,10 @@ visa,bb.visa.com,True
 visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
-visa,www.visa.co.il,True
 visa,visa.co.ni,True
 visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.visa.co.il,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.ke,True
@@ -5888,6 +5888,7 @@ john-deere,work-dispatcher-mobile.prod.us.e01.c01.johndeerecloud.com,False
 john-deere,work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com,False
 john-deere,vistaar.tal.deere.com,False
 john-deere,citratest.deere.com,False
+john-deere,ims.tcms.tal.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -10201,8 +10202,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10476,10 +10477,10 @@ airbnb,www.hoteltonight.com,True
 vimeo,donations.livestream.com,True
 vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
-vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
 vimeo,vhx.tv,True
+vimeo,api.vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
@@ -10574,10 +10575,10 @@ automattic,wordpress.com,True
 automattic,intensedebate.com,True
 automattic,api.tumblr.com,True
 automattic,safe.tumblr.com,True
-automattic,*.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,mailpoet.com,True
 automattic,www.tumblr.com,True
+automattic,*.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
