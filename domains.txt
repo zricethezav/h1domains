@@ -3014,8 +3014,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -9413,9 +9413,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
-*.gs.com
 *.folioclient.com
 *.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10224,11 +10224,11 @@ forum.playcanvas.com
 accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
-code.playcanvas.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
 login.playcanvas.com
+code.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
