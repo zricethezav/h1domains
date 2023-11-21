@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
+bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
@@ -2521,8 +2521,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -4475,15 +4475,15 @@ fidelity,*.fidelity.com,False
 planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
-planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
+planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
