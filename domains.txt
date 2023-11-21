@@ -967,8 +967,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1090,7 +1090,6 @@ kw.hm.com
 kw.cosstores.com
 sa.cosstores.com
 *.starbucks.com.kz
-*.aloyoga.ae
 *.aloyoga.com.qa
 *.americaneagle.com.eg
 *.americaneagle.com.sa
@@ -1110,6 +1109,7 @@ sa.cosstores.com
 customercare.alshaya.com
 kuwait.kidzania.com
 *.debenhams.com.kw
+*.victoriassecret.pl
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -7659,9 +7659,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

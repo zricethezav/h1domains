@@ -968,8 +968,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1091,7 +1091,6 @@ alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
 alshaya,*.starbucks.com.kz,False
-alshaya,*.aloyoga.ae,False
 alshaya,*.aloyoga.com.qa,False
 alshaya,*.americaneagle.com.eg,False
 alshaya,*.americaneagle.com.sa,False
@@ -1111,6 +1110,7 @@ alshaya,*.carrier.alshaya.com,False
 alshaya,customercare.alshaya.com,False
 alshaya,kuwait.kidzania.com,False
 alshaya,*.debenhams.com.kw,False
+alshaya,*.victoriassecret.pl,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -1594,8 +1594,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -7660,9 +7660,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
