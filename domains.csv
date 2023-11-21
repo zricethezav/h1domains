@@ -968,8 +968,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1594,8 +1594,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5185,7 +5185,6 @@ jetblue,help.jetblue.com,False
 jetblue,azrest.jetblue.com,False
 jetblue,magnolia.jetblue.com,False
 jetblue,experience.jetblue.com,False
-tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,tvastem.com,False
 tennessee-valley-authority,tvarenewables.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
@@ -5193,6 +5192,7 @@ tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
 tennessee-valley-authority,*.tva.com,False
+tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.mytva.com,False
@@ -7858,6 +7858,14 @@ roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
 roblox,*.ra.roblox.com,True
+localizejs,app.localizestaging.com,True
+localizejs,localizestaging.com,True
+localizejs,cdn.localizestaging.com,True
+localizejs,api.localizestaging.com,True
+localizejs,localizestaging.com,True
+localizejs,api.localizestaging.com,True
+localizejs,app.localizestaging.com,True
+localizejs,cdn.localizestaging.com,True
 investnext,altogroup.investnextdemo.co,False
 investnext,mg3.investnext.com,False
 investnext,app.investnext.com,False
@@ -10989,14 +10997,6 @@ endless_group,app.raisable.org,False
 endless_group,api.raisable.org,False
 endless_group,app.raisable.org,False
 endless_group,api.raisable.org,False
-localizejs,app.localizestaging.com,True
-localizejs,localizestaging.com,True
-localizejs,cdn.localizestaging.com,True
-localizejs,api.localizestaging.com,True
-localizejs,localizestaging.com,True
-localizejs,api.localizestaging.com,True
-localizejs,app.localizestaging.com,True
-localizejs,cdn.localizestaging.com,True
 h1-ctf,*.hackyholidays.h1ctf.com,False
 h1-ctf,*.hackyholidays.h1ctf.com,False
 lifeomic,lifeology.dev.lifeomic.com,True

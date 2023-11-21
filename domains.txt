@@ -967,8 +967,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -5184,7 +5184,6 @@ help.jetblue.com
 azrest.jetblue.com
 magnolia.jetblue.com
 experience.jetblue.com
-tvars.com
 tvastem.com
 tvarenewables.com
 *.tva-energyright.com
@@ -5192,6 +5191,7 @@ tvarenewables.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
 *.tva.com
+tvars.com
 *.tva.gov
 tvawcm.com
 *.mytva.com
@@ -7857,6 +7857,14 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
+app.localizestaging.com
+localizestaging.com
+cdn.localizestaging.com
+api.localizestaging.com
+localizestaging.com
+api.localizestaging.com
+app.localizestaging.com
+cdn.localizestaging.com
 altogroup.investnextdemo.co
 mg3.investnext.com
 app.investnext.com
@@ -10988,14 +10996,6 @@ app.raisable.org
 api.raisable.org
 app.raisable.org
 api.raisable.org
-app.localizestaging.com
-localizestaging.com
-cdn.localizestaging.com
-api.localizestaging.com
-localizestaging.com
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
 *.hackyholidays.h1ctf.com
 *.hackyholidays.h1ctf.com
 lifeology.dev.lifeomic.com
