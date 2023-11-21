@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
-bookingcom,booking.com,True
 bookingcom,flights.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -1594,8 +1594,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -6147,9 +6147,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.zams.zebra.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False

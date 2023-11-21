@@ -1,8 +1,8 @@
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-booking.com
 flights.booking.com
+booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com

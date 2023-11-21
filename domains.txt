@@ -1,8 +1,8 @@
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-booking.com
 flights.booking.com
+booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -6146,9 +6146,9 @@ zsbsupport.zebra.com
 downloads.zebra.com
 *.profitect.com
 supportcommunity.zebra.com
-cmm01.sl.zebra.com
 reflexisinc.com/
 *.zams.zebra.com
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
