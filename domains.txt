@@ -970,8 +970,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1087,6 +1087,7 @@ kw.boots.com
 *.starbuckscardtr.com
 *.victoriassecret.com.qa
 bakimonarim.shaya.com.tr
+bathandbodyworks.ro
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -1112,7 +1113,6 @@ sa.cosstores.com
 customercare.alshaya.com
 kuwait.kidzania.com
 *.debenhams.com.kw
-*.victoriassecret.pl
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -1228,6 +1228,8 @@ suppliertraining.alshaya.com
 bakimonarim.shaya.com.tr
 kuwait.kidzania.com
 www.visionexpress.me
+www.tekzone.me
+bathandbodyworks.ro
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 http://vdp.kahootz.com
@@ -1596,8 +1598,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -4711,8 +4713,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -4733,9 +4735,9 @@ www.alohi.com
 *.trgc.com
 *.cartus.com
 *.leadrouter.com
-*.century21.*
 *.bhgre.*
 *.era.com
+*.century21.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -9233,11 +9235,11 @@ matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.paylution.com
 py.pl
 *.braintree-api.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com

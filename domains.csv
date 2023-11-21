@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1088,6 +1088,7 @@ alshaya,kw.boots.com,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,bakimonarim.shaya.com.tr,False
+alshaya,bathandbodyworks.ro,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -1113,7 +1114,6 @@ alshaya,*.carrier.alshaya.com,False
 alshaya,customercare.alshaya.com,False
 alshaya,kuwait.kidzania.com,False
 alshaya,*.debenhams.com.kw,False
-alshaya,*.victoriassecret.pl,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -1229,6 +1229,8 @@ alshaya,suppliertraining.alshaya.com,False
 alshaya,bakimonarim.shaya.com.tr,False
 alshaya,kuwait.kidzania.com,False
 alshaya,www.visionexpress.me,False
+alshaya,www.tekzone.me,False
+alshaya,bathandbodyworks.ro,False
 wisdomtree,api.wisdomtreeprimeapp.com,True
 wisdomtree,api.wisdomtreeprimeapp.com,True
 kahootz-vdp,http://vdp.kahootz.com,False
@@ -1597,8 +1599,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -4712,8 +4714,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -4734,9 +4736,9 @@ alohi,www.alohi.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
@@ -9234,11 +9236,11 @@ matomo,matomo.cloud,True
 matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
 paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintreepayments.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
