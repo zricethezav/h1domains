@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 18:11:33 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 19:09:23 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -216,8 +216,8 @@ www.visa.co.uk
 visa.co.za
 www.authorize.net
 www.visa.co.id
-www.visa.co.ve
 www.cybersource.com
+www.visa.co.ve
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -2670,10 +2670,10 @@ help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
 partner.steampowered.com
-www.valvesoftware.com
 partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
+www.valvesoftware.com
 api.steampowered.com
 support.steampowered.com
 www.dota2.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3359,8 +3359,8 @@ app.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com

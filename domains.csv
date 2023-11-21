@@ -1561,8 +1561,8 @@ visa,www.visa.co.uk,True
 visa,visa.co.za,True
 visa,www.authorize.net,True
 visa,www.visa.co.id,True
-visa,www.visa.co.ve,True
 visa,www.cybersource.com,True
+visa,www.visa.co.ve,True
 visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
@@ -9460,10 +9460,10 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,store.steampowered.com,True
 valve,partner.steampowered.com,True
-valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True
+valve,www.valvesoftware.com,True
 valve,api.steampowered.com,True
 valve,wiki.teamfortress.com,False
 valve,storefront.steampowered.com,False
@@ -10201,9 +10201,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10241,8 +10241,8 @@ snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,web.snapchat.com,True
 snapchat,spectacles.com,True
+snapchat,web.snapchat.com,True
 snapchat,kit.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True

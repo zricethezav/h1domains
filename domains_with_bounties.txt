@@ -210,8 +210,8 @@ www.visa.co.uk
 visa.co.za
 www.authorize.net
 www.visa.co.id
-www.visa.co.ve
 www.cybersource.com
+www.visa.co.ve
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -2664,10 +2664,10 @@ help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
 partner.steampowered.com
-www.valvesoftware.com
 partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
+www.valvesoftware.com
 api.steampowered.com
 support.steampowered.com
 www.dota2.com
@@ -3313,9 +3313,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3353,8 +3353,8 @@ app.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
