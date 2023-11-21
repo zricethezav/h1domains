@@ -8,8 +8,8 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1056,8 +1056,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
+coinhako,www.coinhako.com,True
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -4352,9 +4352,9 @@ mars,*.coroapremiada.com.br,False
 mars,*.royalcaninrewards.co.za,False
 mars,*.royalcanin.edu.pl,False
 mars,*.rcpracownik.pl,False
-mars,*.royalcanin.it,False
 mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
+mars,*.wikichien.fr,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -8980,9 +8980,9 @@ smartsheet,admin.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
 smartsheet,developers.smartsheet.com,True
 trustpilot,*authenticate.trustpilot.com,True
-trustpilot,*business.trustpilot.com,True
 trustpilot,*emailsignature.trustpilot.com,True
 trustpilot,*signup.business.trustpilot.com,True
+trustpilot,*business.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
@@ -9385,10 +9385,10 @@ goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True

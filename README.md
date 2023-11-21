@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 13:13:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 14:11:43 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -13,8 +13,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 secure.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -2218,9 +2218,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *authenticate.trustpilot.com
-*business.trustpilot.com
 *emailsignature.trustpilot.com
 *signup.business.trustpilot.com
+*business.trustpilot.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
@@ -2599,10 +2599,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.de
 *.folioclient.com
 *.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
