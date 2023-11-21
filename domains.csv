@@ -8,8 +8,8 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,secure.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -112,6 +112,7 @@ cbre,3.gallileo-frankfurt.com,False
 cbre,academy.gallileo-frankfurt.com,False
 cbre,acc.gallileo-frankfurt.com,False
 cbre,adfs.gallileo-frankfurt.com,False
+cbre,ag.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -1596,8 +1597,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5418,8 +5419,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,geminiadvisory.io,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -10515,10 +10516,10 @@ automattic,happy.tools,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,simperium.com,True
-automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
 automattic,wordpress.com,True
 automattic,intensedebate.com,True
+automattic,api.tumblr.com,True
 automattic,safe.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,t.umblr.com,True

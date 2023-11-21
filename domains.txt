@@ -7,8 +7,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -111,6 +111,7 @@ dev.www.cartonspleins.fr
 academy.gallileo-frankfurt.com
 acc.gallileo-frankfurt.com
 adfs.gallileo-frankfurt.com
+ag.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -1595,8 +1596,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -5417,8 +5418,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 geminiadvisory.io
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -10514,10 +10515,10 @@ happy.tools
 simplenote.com
 gravatar.com
 simperium.com
-api.tumblr.com
 assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com

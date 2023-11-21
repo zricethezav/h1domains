@@ -7,8 +7,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1092,8 +1092,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 geminiadvisory.io
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -3509,10 +3509,10 @@ happy.tools
 simplenote.com
 gravatar.com
 simperium.com
-api.tumblr.com
 assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
