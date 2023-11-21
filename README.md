@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 22:09:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 23:09:14 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -98,8 +98,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1289,12 +1289,12 @@ app.spiketrap.io
 ads.reddit.com
 old.reddit.com
 new.reddit.com
-*.redditinc.com
 *.snooguts.net
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+*.redditinc.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -2049,8 +2049,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2147,13 +2147,13 @@ de.forescout.cloud
 updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
-community.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
 www.forescout.com
+community.forescout.com
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
@@ -2605,8 +2605,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2777,10 +2777,10 @@ app.quovo.com
 secure.plaid.com
 demo.plaid.com
 dashboard.plaid.com
-plaid.com
 my.plaid.com
 api.blockscore.com
 production.plaid.com
+plaid.com
 secure.quovo.com
 cdn.plaid.com
 manage.blockscore.com
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3526,8 +3526,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
