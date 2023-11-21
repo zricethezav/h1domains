@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 11:10:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 12:12:33 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1470,9 +1470,9 @@ world.hey.com
 www.cloud.com
 api.sharefile.com
 accounts.cloud.com
-*.browser.cloud.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
+*.browser.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
