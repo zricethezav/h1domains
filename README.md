@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 17:12:25 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 18:11:33 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -1773,8 +1773,8 @@ api.direct.playstation.com
 transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
-direct.playstation.com
 store.playstation.com
+direct.playstation.com
 my.playstation.com
 ca.account.sony.com
 my.account.sony.com
@@ -1925,9 +1925,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2084,8 +2084,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -2605,8 +2605,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
+*.goldman.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2795,9 +2795,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
-www.crowdstrike.com
 *.securecircle.com
 *.humio.com
+www.crowdstrike.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3657,9 +3657,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
