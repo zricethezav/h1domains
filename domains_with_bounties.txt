@@ -3505,9 +3505,9 @@ onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
-interseller.io
 app.greenhouse.io
 boards.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
@@ -3520,8 +3520,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com

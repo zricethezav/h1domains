@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 23:09:14 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 00:21:39 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -3511,9 +3511,9 @@ onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
-interseller.io
 app.greenhouse.io
 boards.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
@@ -3526,8 +3526,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
