@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 01:33:58 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 02:20:50 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -1557,10 +1557,10 @@ tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1925,9 +1925,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3512,8 +3512,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
-interseller.io
 boards.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io

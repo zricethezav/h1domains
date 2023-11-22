@@ -7158,10 +7158,10 @@ tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7699,9 +7699,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10202,8 +10202,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10518,8 +10518,8 @@ greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
-greenhouse,interseller.io,True
 greenhouse,boards.greenhouse.io,True
+greenhouse,interseller.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
