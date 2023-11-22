@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 21:09:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 22:08:53 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2626,7 +2626,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.de
-*.folioinstitutional.com
+*.gs.com
 *.folioclient.com
 *.goldmansachs.com
 *.gs.com
@@ -3123,8 +3123,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.pornhub.com
 www.redtube.com
+www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
