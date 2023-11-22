@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 12:15:17 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 13:12:50 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1559,8 +1559,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1926,8 +1926,8 @@ www.alibabagroup.com
 *.1688.com
 *.alimama.com
 *.aliyun.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2007,8 +2007,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2455,9 +2455,9 @@ www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*racing.fanduel.com
 tvg.com
 *.fanduel.com
+*racing.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3229,8 +3229,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3512,8 +3512,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
-boards.greenhouse.io
 interseller.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
