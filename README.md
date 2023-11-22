@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 00:21:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 01:33:58 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1925,9 +1925,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
+*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
-*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3512,8 +3512,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
-boards.greenhouse.io
 interseller.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
