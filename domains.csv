@@ -9402,12 +9402,12 @@ goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
-goldmansachs,*.nextcapital.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.finlife.com,True
+goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -10203,8 +10203,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10518,8 +10518,8 @@ greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
-greenhouse,boards.greenhouse.io,True
 greenhouse,interseller.io,True
+greenhouse,boards.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
