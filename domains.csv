@@ -7160,8 +7160,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7328,8 +7328,8 @@ acronis,account.acronis.com,True
 affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
 affirm,helpcenter.affirm.com,True
-affirm,helpcenter.affirm.ca,True
 affirm,hackerone.affirm-odin.com,True
+affirm,helpcenter.affirm.ca,True
 affirm,hackerone.affirm-odin.com,True
 affirm,helpcenter.affirm.ca,True
 affirm,helpcenter.affirm.com,True
@@ -10203,8 +10203,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10518,8 +10518,8 @@ greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
-greenhouse,interseller.io,True
 greenhouse,boards.greenhouse.io,True
+greenhouse,interseller.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
@@ -10567,9 +10567,9 @@ automattic,akismet.com,True
 automattic,embed.tumblr.com,True
 automattic,my.pressable.com,True
 automattic,happy.tools,True
-automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,simperium.com,True
+automattic,simplenote.com,True
 automattic,assets.tumblr.com,True
 automattic,wordpress.com,True
 automattic,intensedebate.com,True
