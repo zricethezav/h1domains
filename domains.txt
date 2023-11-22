@@ -1,5 +1,5 @@
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -3200,8 +3200,8 @@ share.doppler.com
 *.USMISSION.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -5356,11 +5356,11 @@ api.stage.evernote.com
 fallguys.com
 harmonixmusic.com
 wonderboxdev.com
-capturingreality.com
 *.popjam.com
 *.mediatonic.co.uk
 *.bcbits.com
 fortnite.com
+capturingreality.com
 *.3lateral.com
 forum.sketchfab.com
 *.bcbits.com
@@ -7159,8 +7159,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
