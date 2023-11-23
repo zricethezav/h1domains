@@ -2874,8 +2874,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -4519,8 +4519,8 @@ planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8788,8 +8788,8 @@ equifax,*.redeverdeamarela.com.br,False
 equifax,*equifax.co.in,False
 equifax,HOURLY-JOBS.NET,False
 equifax,*.bvsnet.com.br,False
-equifax,*.efficientforms.com,False
 equifax,JOBALINE.COM,False
+equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
@@ -10692,8 +10692,8 @@ security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,app.pullrequest.com,True
-security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
