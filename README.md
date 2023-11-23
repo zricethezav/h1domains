@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 13:12:09 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 14:10:30 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2624,10 +2624,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gsam.com
 *.gs.de
-*.folioinstitutional.com
+*.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3671,14 +3671,14 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
