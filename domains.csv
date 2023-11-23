@@ -2728,8 +2728,8 @@ shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,*.snapfish.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -9420,8 +9420,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.de,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10690,9 +10690,9 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
 security,app.pullrequest.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
