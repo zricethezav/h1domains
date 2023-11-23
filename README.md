@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 02:19:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 03:10:28 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -98,8 +98,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3005,8 +3005,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3635,8 +3635,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

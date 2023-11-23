@@ -92,8 +92,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2999,8 +2999,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3629,8 +3629,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
