@@ -7,8 +7,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1451,8 +1451,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -3161,8 +3161,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.superbet.ro
 *.luckydays.ca
 *.spinaway.com
@@ -4515,8 +4515,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.simplytoimpress.com
 *.mycustomcase.com
+*.simplytoimpress.com
 iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
@@ -4875,7 +4875,6 @@ fr.philadelphia.ch
 milka.cz
 philadelphia.it
 philadelphia.pt
-cadburyworld.co.uk
 createatreat.com
 gethalls.ca
 halls.jp
@@ -4901,6 +4900,7 @@ oreo.kz
 potursinejnostta.milka.bg
 secretsanta.cadbury.co.uk
 vyhrajschuti.cz
+marabouchokladhus.se
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -6342,11 +6342,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 *.reddithelp.com
-mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -9419,8 +9419,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.de
-*.folioinstitutional.com
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
