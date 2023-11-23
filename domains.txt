@@ -2916,8 +2916,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3018,8 +3018,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4514,12 +4514,12 @@ paetec.net
 ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
-www.photoaffections.com
 *.mycustomcase.com
 *.simplytoimpress.com
+www.photoaffections.com
 iseeme.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
@@ -5945,8 +5945,8 @@ vision-devl.deere.com/
 satpredictor2.deere.com
 *.reckoproduction.com
 *.stripe.com
-*.link.co
 *.recko.io
+*.link.co
 *.touchtechpayments.com
 js.stripe.com
 www.stripe.partners
@@ -7894,8 +7894,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -9419,8 +9419,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioinstitutional.com
-*.gs.com
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -9738,8 +9738,8 @@ chatdate.app
 zodia.studio
 eu1.badoo.com
 bma.badoo.com
-badoocdn.com
 heyfiesta.com
+badoocdn.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com

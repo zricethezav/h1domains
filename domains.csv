@@ -2917,8 +2917,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -3019,8 +3019,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -4515,12 +4515,12 @@ fidelity,*.fidelity.com,False
 planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5946,8 +5946,8 @@ john-deere,vision-devl.deere.com/,False
 john-deere,satpredictor2.deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
-stripe,*.link.co,True
 stripe,*.recko.io,True
+stripe,*.link.co,True
 stripe,*.touchtechpayments.com,True
 stripe,js.stripe.com,True
 stripe,www.stripe.partners,False
@@ -7895,8 +7895,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9420,8 +9420,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.gsam.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -9739,8 +9739,8 @@ bumble,chatdate.app,True
 bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
-bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
+bumble,badoocdn.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,www.bumble.com,True
 bumble,badoo.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 21:08:41 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 22:09:48 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1256,8 +1256,8 @@ www.elastic.co
 cloud.elastic.co
 *.reckoproduction.com
 *.stripe.com
-*.link.co
 *.recko.io
+*.link.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
@@ -2049,8 +2049,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2626,8 +2626,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioinstitutional.com
-*.gs.com
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2908,8 +2908,8 @@ chatdate.app
 zodia.studio
 eu1.badoo.com
 bma.badoo.com
-badoocdn.com
 heyfiesta.com
+badoocdn.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
