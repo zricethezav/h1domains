@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 20:09:07 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 21:08:41 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -98,8 +98,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -950,8 +950,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -2626,8 +2626,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3353,10 +3353,10 @@ www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
-my.snapchat.com
 app.snapchat.com
 playcanvas.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3657,9 +3657,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
