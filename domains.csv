@@ -963,8 +963,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -2643,9 +2643,9 @@ ring,*.immedia-semi.com/*,True
 ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,web.tide.co,True
 tide,api.tide.co,True
 tide,www.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -4519,8 +4519,8 @@ planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4869,7 +4869,6 @@ mondelez,twobite.ca,False
 mondelez,www.clifbar.pt,False
 mondelez,mmmax.milka.de,False
 mondelez,cadburyfc.com,False
-mondelez,milka.bg,False
 mondelez,milka.ru,False
 mondelez,oreo.ru,False
 mondelez,fr.philadelphia.ch,False
@@ -4902,6 +4901,7 @@ mondelez,potursinejnostta.milka.bg,False
 mondelez,secretsanta.cadbury.co.uk,False
 mondelez,vyhrajschuti.cz,False
 mondelez,marabouchokladhus.se,False
+mondelez,nabiscoholiday.com,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -7848,8 +7848,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
@@ -10015,9 +10015,9 @@ pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
 pornhub,api.pornhub.com,True
 pornhub,www.youporn.com,True
-pornhub,mobile.pornhub.com,True
 pornhub,www.pornmd.com,True
 pornhub,ht.pornhub.com,True
+pornhub,mobile.pornhub.com,True
 pornhub,*.tube8.com,True
 pornhub,www.pornhub.com,True
 pornhub,mobile.pornhub.com,True
@@ -10206,9 +10206,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
