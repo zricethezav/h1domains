@@ -2917,8 +2917,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -9407,11 +9407,11 @@ goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.honestdollar.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gspublishing.com,True
+goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -10206,9 +10206,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
