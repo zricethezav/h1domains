@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -6526,12 +6526,12 @@ gsa_vdp,acquisition-staging.gsa.gov,False
 gsa_vdp,edms.gsa.gov,False
 gsa_vdp,staging.ppms.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
-gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
 gsa_vdp,diagrams.fr.cloud.gov,False
 gsa_vdp,logs-platform.fr.cloud.gov,False
 gsa_vdp,*.code.gov,False
 gsa_vdp,federalist-docs.18f.gov,False
+gsa_vdp,debits.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -10573,9 +10573,9 @@ automattic,gravatar.com,True
 automattic,simperium.com,True
 automattic,simplenote.com,True
 automattic,assets.tumblr.com,True
-automattic,wordpress.com,True
 automattic,api.tumblr.com,True
 automattic,intensedebate.com,True
+automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,mailpoet.com,True
@@ -10672,8 +10672,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
