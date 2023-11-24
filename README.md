@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 19:10:37 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 20:08:42 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -566,7 +566,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 *.wavecell.com
 sms.8x8.com
-*.8x8cloud.net
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1287,12 +1287,12 @@ app.spiketrap.io
 ads.reddit.com
 old.reddit.com
 new.reddit.com
-*.snooguts.net
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
+*.snooguts.net
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -2005,8 +2005,8 @@ mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3669,8 +3669,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com

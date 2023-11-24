@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3133,7 +3133,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,*.wavecell.com,True
 8x8-bounty,sms.8x8.com,True
-8x8-bounty,*.8x8cloud.net,True
+8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -6325,12 +6325,12 @@ reddit,app.spiketrap.io,True
 reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
 reddit,new.reddit.com,True
-reddit,*.snooguts.net,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.redditinc.com,True
+reddit,*.snooguts.net,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7851,8 +7851,8 @@ marriott,mgs.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -8075,11 +8075,11 @@ kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
-8x8,*.8x8cloud.net,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,*.8x8cloud.net,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -10685,8 +10685,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,app.pullrequest.com,True
