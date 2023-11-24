@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 23:10:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 00:19:49 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1551,9 +1551,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
@@ -1920,8 +1920,8 @@ www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
 *.alibaba.com
-*.aliexpress.ru
 *.alibaba-inc.com
+*.aliexpress.ru
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
@@ -2002,8 +2002,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -3352,11 +3352,11 @@ map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-store.snapchat.com
 app.snapchat.com
 playcanvas.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
