@@ -1,14 +1,14 @@
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 booking.com
+flights.booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -470,8 +470,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -562,7 +562,6 @@ user-profile.8x8.com
 *.wavecell.com
 sms.8x8.com
 *.8x8cloud.net
-pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1996,8 +1995,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2610,8 +2609,8 @@ goldmansachsindices.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
-*.goldmansachs.com
 *.gspublishing.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2621,7 +2620,7 @@ api.foliofn.com
 *.gs.de
 *.folioinstitutional.com
 *.gsam.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3559,8 +3558,8 @@ intensedebate.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-www.tumblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
