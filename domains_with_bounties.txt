@@ -470,8 +470,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1638,9 +1638,9 @@ www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.ph
-www.watsons.com.tr
 www.marionnaud.ro
 www.iciparisxl.lu
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
