@@ -5,8 +5,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
+bookingcom,taxi.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
@@ -3121,10 +3121,10 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,*.8x8.id,True
-8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -10205,8 +10205,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
