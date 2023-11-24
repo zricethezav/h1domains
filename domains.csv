@@ -8,8 +8,8 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -2917,8 +2917,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -4527,8 +4527,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7164,8 +7164,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -9398,9 +9398,9 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.marcus.co.uk,True
+goldmansachs,*.goldman.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
@@ -10206,8 +10206,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
