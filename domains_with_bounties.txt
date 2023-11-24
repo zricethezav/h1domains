@@ -1912,8 +1912,8 @@ www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
 *.alibaba.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com

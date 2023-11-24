@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 15:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 16:10:02 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1918,8 +1918,8 @@ www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
 *.alibaba.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
