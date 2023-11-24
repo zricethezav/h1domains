@@ -2916,8 +2916,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -4518,8 +4518,8 @@ www.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
 iseeme.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
@@ -7515,9 +7515,9 @@ transact.playstation.com
 store.playstation.com
 direct.playstation.com
 my.playstation.com
-ca.account.sony.com
 my.account.sony.com
 *.playstation.net
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -10205,9 +10205,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
