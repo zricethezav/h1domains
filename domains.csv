@@ -2917,8 +2917,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -4519,8 +4519,8 @@ planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -10226,8 +10226,8 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,ads.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
