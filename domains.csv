@@ -5,8 +5,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,widget.rentalcars.com,True
 bookingcom,taxi.booking.com,True
+bookingcom,widget.rentalcars.com,True
 bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
@@ -2573,8 +2573,8 @@ mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
 mercadolibre_vdp,www.mercadolibre.com.co,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
-mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
+mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadolibre.cl,False
@@ -7856,9 +7856,9 @@ marriott,jobs.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
@@ -10204,8 +10204,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10672,8 +10672,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
