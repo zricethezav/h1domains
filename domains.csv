@@ -1479,9 +1479,9 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
-redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
+redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
@@ -5484,12 +5484,12 @@ gsa_bbp,grafana.fr.cloud.gov,True
 gsa_bbp,api.fr.cloud.gov,True
 gsa_bbp,dashboard-beta.fr.cloud.gov,True
 gsa_bbp,federalist.18f.gov,True
-gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,federation.data.gov,True
 gsa_bbp,admin.fr.cloud.gov,True
 gsa_bbp,nessus.fr.cloud.gov,True
 gsa_bbp,tock.18f.gov,True
 gsa_bbp,api.data.gov,True
+gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,dashboard.fr.cloud.gov,True
 gsa_bbp,sdg.data.gov,True
 gsa_bbp,labs.data.gov,True
@@ -10204,8 +10204,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
