@@ -1,8 +1,8 @@
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-booking.com
 flights.booking.com
+booking.com
 metasearch-api.booking.com
 widget.rentalcars.com
 taxi.booking.com
@@ -1049,7 +1049,6 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
-https://simple.life
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -2572,9 +2571,9 @@ yourdomain.freshcaller.com
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
-www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
+www.mercadolibre.com.ar
 www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadolibre.cl
@@ -7162,8 +7161,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
