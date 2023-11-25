@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 25 15:08:31 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 25 16:09:10 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1035,7 +1035,6 @@ api.evernote.com
 *.unrealtournament.com
 *.easy.ac
 *.rukkaz.com
-*.jellychat.com
 *.audicagame.com
 fallguys.com
 harmonixmusic.com
@@ -1045,6 +1044,7 @@ wonderboxdev.com
 *.bcbits.com
 fortnite.com
 capturingreality.com
+*.jellychat.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -1557,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2233,8 +2233,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2602,9 +2602,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
+*.ayco.com
 *.marcus.co.uk
 *.goldman.com
-*.ayco.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -3317,8 +3317,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3563,8 +3563,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-*.tumblr.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
