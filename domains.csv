@@ -8,8 +8,8 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -2883,11 +2883,11 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
-indrive,super-services.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
 indrive,injob.indriver.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
+indrive,super-services.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -4750,8 +4750,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -6510,7 +6510,6 @@ gsa_vdp,vehiclestdb.fas.gsa.gov,False
 gsa_vdp,reportsportal.fas.gsa.gov,False
 gsa_vdp,vehicledispatch.fas.gsa.gov,False
 gsa_vdp,cars.fas.gsa.gov,False
-gsa_vdp,cio.gov,False
 gsa_vdp,cfo.gov,False
 gsa_vdp,challenge.gov,False
 gsa_vdp,consumeraction.gov,False
@@ -6532,6 +6531,7 @@ gsa_vdp,logs-platform.fr.cloud.gov,False
 gsa_vdp,*.code.gov,False
 gsa_vdp,federalist-docs.18f.gov,False
 gsa_vdp,debits.fas.gsa.gov,False
+gsa_vdp,charlie.sam.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -7162,8 +7162,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -9397,8 +9397,8 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
@@ -10224,8 +10224,8 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
