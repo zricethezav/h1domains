@@ -2881,8 +2881,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -5612,7 +5612,6 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,www.elastic.co,True
 elastic,cloud.elastic.co,True
-john-deere,parts.deere.africa,False
 john-deere,deere.africa,False
 john-deere,dev-crm-connector.agrisync.com,False
 john-deere,dev-cs-admin.agrisync.com,False
@@ -5662,6 +5661,7 @@ john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
 john-deere,ghost.harvestprofit.com,False
 john-deere,stellarsupport.deere.com,False
+john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -7159,10 +7159,10 @@ tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -10204,8 +10204,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True

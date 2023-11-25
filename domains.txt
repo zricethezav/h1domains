@@ -2880,8 +2880,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -5611,7 +5611,6 @@ www.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-parts.deere.africa
 deere.africa
 dev-crm-connector.agrisync.com
 dev-cs-admin.agrisync.com
@@ -5661,6 +5660,7 @@ video.kreiselelectric.com
 vpn.kreiselelectric.com
 ghost.harvestprofit.com
 stellarsupport.deere.com
+work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7158,10 +7158,10 @@ tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -10203,8 +10203,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
