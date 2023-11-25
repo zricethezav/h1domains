@@ -2597,8 +2597,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
+*.goldman.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
