@@ -970,8 +970,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3703,7 +3703,6 @@ fossilshoes.com.mo
 fossilshoes.eu
 fossilshoes.jp
 fossilshoes.vn
-fossilspecialmarkets.com
 fossilstore.ca
 googledev.fossil.com
 abacuswatches.net
@@ -3723,6 +3722,7 @@ fossil.mx
 fossil.my
 fossil.ph
 fossilcorporatemarkets.com
+fossilfootwear.ph
 *.fossil.com
 *.michele.com
 *.misfit.com
@@ -5598,9 +5598,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -9395,9 +9395,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.ayco.com
 *.marcus.co.uk
 *.goldman.com
+*.ayco.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -10032,8 +10032,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -10203,8 +10203,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10336,7 +10336,6 @@ repo.magento.com
 *.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
-*.tubemogul.com
 *.typekit.com
 assets.adobe.com
 create.adobe.com
@@ -10347,6 +10346,7 @@ magentolive.com
 applications.frame.io
 *.marketo.com
 *.proofhq.com
+*.tubemogul.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com

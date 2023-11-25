@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -3704,7 +3704,6 @@ fossil,fossilshoes.com.mo,False
 fossil,fossilshoes.eu,False
 fossil,fossilshoes.jp,False
 fossil,fossilshoes.vn,False
-fossil,fossilspecialmarkets.com,False
 fossil,fossilstore.ca,False
 fossil,googledev.fossil.com,False
 fossil,abacuswatches.net,False
@@ -3724,6 +3723,7 @@ fossil,fossil.mx,False
 fossil,fossil.my,False
 fossil,fossil.ph,False
 fossil,fossilcorporatemarkets.com,False
+fossil,fossilfootwear.ph,False
 fossil,*.fossil.com,False
 fossil,*.michele.com,False
 fossil,*.misfit.com,False
@@ -5599,9 +5599,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -9396,9 +9396,9 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
@@ -10033,8 +10033,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10204,8 +10204,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10337,7 +10337,6 @@ adobe,repo.magento.com,True
 adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
-adobe,*.tubemogul.com,False
 adobe,*.typekit.com,False
 adobe,assets.adobe.com,False
 adobe,create.adobe.com,False
@@ -10348,6 +10347,7 @@ adobe,magentolive.com,True
 adobe,applications.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.proofhq.com,False
+adobe,*.tubemogul.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
