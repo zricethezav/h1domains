@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 03:09:43 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 04:08:41 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1256,8 +1256,8 @@ cloud.elastic.co
 *.stripe.com
 *.recko.io
 *.link.co
-*.touchtechpayments.com
 js.stripe.com
+*.touchtechpayments.com
 app.taxjar.com
 api.taxjar.com
 *.reckostaging.com
@@ -1550,8 +1550,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -1809,8 +1809,8 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.miwifi.com
 *.xiaomiyoupin.com
+*.miwifi.com
 *.mi.com
 *.mi.com
 *.xiaomi.com
@@ -1916,8 +1916,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3227,8 +3227,8 @@ api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3317,8 +3317,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
