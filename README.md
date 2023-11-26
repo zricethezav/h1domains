@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 20:10:42 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 21:08:30 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2011,8 +2011,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
 cpp.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
