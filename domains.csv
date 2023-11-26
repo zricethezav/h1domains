@@ -1084,8 +1084,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
+coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -1347,7 +1347,6 @@ aboitizpower_corporation,bettersolutions.com.ph,False
 aboitizpower_corporation,cleanergy.ph,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,*.enerzone.com.ph,False
-aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,*.oilbu.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
@@ -1355,6 +1354,7 @@ aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
+aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.net,False
@@ -7560,8 +7560,8 @@ polygon-technology,faucet.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
+xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
