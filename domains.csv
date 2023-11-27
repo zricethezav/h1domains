@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1554,8 +1554,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,visa.co.ni,True
 visa,www.cardinalcommerce.com,True
-visa,usa.visa.com,True
 visa,www.visa.co.il,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.ke,True
@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -9103,7 +9103,6 @@ hyatt,www.cheapcaribbean.com,True
 hyatt,login.www.vaxvacationaccess.com,True
 hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
-hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
 hyatt,res.breathlessresorts.com,True
 hyatt,res.skyteam.com,True
@@ -9118,6 +9117,7 @@ hyatt,www.blueskytours.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,world.hyatt.com,True
 hyatt,book.extraholidaysvacations.com,True
+hyatt,sso.oft.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9828,8 +9828,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10433,8 +10433,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -10630,8 +10630,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
