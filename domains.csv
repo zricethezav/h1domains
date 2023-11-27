@@ -68,7 +68,6 @@ frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
-cbre,*.cbrecap.com,False
 cbre,*.cbreclarion.com,False
 cbre,*.cbreresidential.es,False
 cbre,*.cbrichardellis.com,False
@@ -113,6 +112,7 @@ cbre,acc.gallileo-frankfurt.com,False
 cbre,adfs.gallileo-frankfurt.com,False
 cbre,ag.gallileo-frankfurt.com,False
 cbre,autoconfig.gallileo-frankfurt.com,False
+cbre,backoffice.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -7560,8 +7560,8 @@ polygon-technology,faucet.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.mi.com,True
 xiaomi,*.miwifi.com,True
+xiaomi,*.mi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
