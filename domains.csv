@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -10075,8 +10075,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api2.grofers.com,True
-zomato,*.hyperpure.com,True
 zomato,api.grofers.com,True
+zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
@@ -10099,8 +10099,8 @@ algolia,*.algolia.net,True
 algolia,*.algolianet.com,True
 algolia,www.algolia.com,True
 deriv,cashier.deriv.com,True
-deriv,api.deriv.com,True
 deriv,derivws.com,True
+deriv,api.deriv.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.derivws.com,True
 deriv,secure-dfadmin.deriv.com,True
