@@ -962,8 +962,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1450,8 +1450,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -2734,8 +2734,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 lifetouch.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -9411,8 +9411,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.gs.com
 *.gs.de
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10629,8 +10629,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
