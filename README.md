@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 09:11:44 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 10:10:02 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1557,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1923,8 +1923,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -3344,9 +3344,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
 business.snapchat.com
+playcanvas.com
 my.snapchat.com
 store.snapchat.com
-playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3622,8 +3622,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
