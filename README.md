@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 00:21:19 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 01:34:35 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -77,8 +77,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 appapi.neuralprisma.com
 neuralprisma.com
 neuralprisma.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com

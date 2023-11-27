@@ -1039,8 +1039,8 @@ brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 appapi.neuralprisma.com
 neuralprisma.com
 neuralprisma.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -7559,8 +7559,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
