@@ -1636,8 +1636,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2762,8 +2762,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,mail1.wspsecure.co.uk,False
@@ -5601,9 +5601,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -5952,10 +5952,10 @@ stripe,js.stripe.com,True
 stripe,*.touchtechpayments.com,True
 stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
-stripe,api.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
 stripe,api.stripe.com,True
+stripe,api.taxjar.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -7164,8 +7164,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -10188,9 +10188,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10208,8 +10208,8 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10224,8 +10224,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True

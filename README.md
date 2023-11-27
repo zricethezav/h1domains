@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 15:12:39 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 16:13:51 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1241,9 +1241,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1261,10 +1261,10 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
 api.stripe.com
+api.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1559,8 +1559,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -3311,9 +3311,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 accounts.shopify.com
 admin.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3331,8 +3331,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3347,8 +3347,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 my.snapchat.com
 store.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
