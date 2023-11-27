@@ -1551,8 +1551,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2589,8 +2589,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
+*.ayco.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com

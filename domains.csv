@@ -4514,8 +4514,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
+planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
@@ -7162,8 +7162,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -9389,8 +9389,8 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
