@@ -5602,8 +5602,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -6336,8 +6336,8 @@ reddit,new.reddit.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -6346,8 +6346,8 @@ reddit,*.reddithelp.com,True
 reddit,matrix.redditspace.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,mod.reddit.com,True
 reddit,www.reddit.com,True
+reddit,mod.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7164,8 +7164,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -8072,8 +8072,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
 8x8,*.8x8.com,False
-8x8,*.8x8cloud.net,False
 8x8,connect.8x8.com,False
+8x8,*.8x8cloud.net,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -8102,8 +8102,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.wavecell.com,False
-8x8,*.packet8.net,False
 8x8,*.jit.si,False
+8x8,*.packet8.net,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8997,8 +8997,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,app.smartsheet.com,True
 smartsheet,admin.smartsheet.com,True
+smartsheet,app.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9828,8 +9828,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10188,9 +10188,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10208,8 +10208,8 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10421,8 +10421,8 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,marketo.com,False
 adobe,firefly.adobe.com,False
 airbnb,m.airbnb.com,True
-airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
+airbnb,*.airbnb-aws.com,True
 airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True
