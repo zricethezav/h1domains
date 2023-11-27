@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 12:12:09 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 13:11:16 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -546,9 +546,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1240,8 +1240,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -3342,11 +3342,11 @@ map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
 business.snapchat.com
-playcanvas.com
 my.snapchat.com
 store.snapchat.com
+app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3433,10 +3433,10 @@ next.airbnb.com
 *.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-*.muscache.com
 *.hoteltonight-test.com
 *.airbnb.com
 www.hoteltonight.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
