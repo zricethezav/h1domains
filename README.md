@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 13:11:16 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 14:12:18 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -514,6 +514,7 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
+cfapi.voikukka.fi
 extranet.s-pankki.fi
 www.prisma.fi
 www.s-pankki.fi
@@ -531,6 +532,7 @@ digili.s-cloud.fi
 www.prisma.fi
 www.sokos.fi
 api.sokos.fi
+cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
 *.skypicker.com
@@ -553,10 +555,10 @@ work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
 *.8x8.id
-*.jit.si
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
+*.jit.si
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -3310,8 +3312,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3334,10 +3336,10 @@ accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
-playcanv.as
 store.playcanvas.com
 login.playcanvas.com
 code.playcanvas.com
+playcanv.as
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
@@ -3345,8 +3347,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 my.snapchat.com
 store.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
