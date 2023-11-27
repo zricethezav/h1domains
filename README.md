@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 23:10:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 00:21:19 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1737,8 +1737,8 @@ crm.clario.co
 updatetracker.clario.co
 dcs.clario.co
 webapi.clario.co
-account.mackeeper.com
 api.account.clario.co
+account.mackeeper.com
 chat-crm.clario.co
 yapi.clario.co
 kbill.mackeeper.com
@@ -2053,14 +2053,6 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
-app.localizestaging.com
-localizestaging.com
-cdn.localizestaging.com
-api.localizestaging.com
-localizestaging.com
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
 kubernetes.io
 kubernetes-csi.github.io
 k8s.io
@@ -3148,8 +3140,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3673,10 +3665,10 @@ ctf.hacker101.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-app.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3836,6 +3828,14 @@ aivencloud.com
 help.aiven.io
 ota.helium.com
 ota.helium.com
+app.localizestaging.com
+localizestaging.com
+cdn.localizestaging.com
+api.localizestaging.com
+localizestaging.com
+api.localizestaging.com
+app.localizestaging.com
+cdn.localizestaging.com
 lifeology.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
