@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 20:10:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 21:11:32 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2594,11 +2594,11 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3142,8 +3142,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3353,11 +3353,11 @@ geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
 web.snapchat.com
-kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
 *.sc-core.net
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
