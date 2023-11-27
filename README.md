@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 14:12:18 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 15:12:39 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -653,10 +653,10 @@ www.orbitz.com
 www.hotels.com
 www.expediagroup.com
 www.abritel.fr
-www.ebookers.com
 www.flights.com
 www.travelocity.com
 www.vrbo.com
+www.ebookers.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -856,8 +856,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2599,7 +2599,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2610,6 +2609,7 @@ goldmansachsindices.com
 *.nextcapital.com
 *.gspublishing.com
 *.goldmansachs.com
+goldmansachsindices.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com

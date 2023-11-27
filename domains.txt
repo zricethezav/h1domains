@@ -1450,8 +1450,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -3257,10 +3257,10 @@ www.orbitz.com
 www.hotels.com
 www.expediagroup.com
 www.abritel.fr
-www.ebookers.com
 www.flights.com
 www.travelocity.com
 www.vrbo.com
+www.ebookers.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -4645,8 +4645,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -9392,7 +9392,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -9403,6 +9402,7 @@ goldmansachsindices.com
 *.nextcapital.com
 *.gspublishing.com
 *.goldmansachs.com
+goldmansachsindices.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
