@@ -1352,8 +1352,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.visayanelectric.com
-*.davaolight.com
 *.aboitizpower.com
+*.davaolight.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -2582,8 +2582,8 @@ www.mercadopago.com.uy
 www.mercadopago.com.pe
 www.mercadopago.cl
 api.mercadopago.com
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -5591,8 +5591,8 @@ www.xvideos.red
 www.xnxx.com
 gold.xnxx.com
 https://www.xvideos.net/app/
-www.trafficfactory.com
 *.trafficfactory.biz
+www.trafficfactory.com
 main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
@@ -9401,8 +9401,8 @@ apigw.foliofn.com
 *.finlife.com
 *.nextcapital.com
 *.gspublishing.com
-*.goldmansachs.com
 goldmansachsindices.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -10098,8 +10098,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -10518,8 +10518,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -10674,8 +10674,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
