@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 14:10:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 15:12:27 UTC 2023)
 ```
 www.temu.com
 www.temu.com
@@ -537,8 +537,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -551,8 +551,8 @@ jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1036,7 +1036,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-*.unrealtournament.com
 *.easy.ac
 *.rukkaz.com
 *.audicagame.com
@@ -1049,6 +1048,7 @@ fortnite.com
 capturingreality.com
 *.jellychat.com
 fallguys.com
+*.unrealtournament.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -3522,8 +3522,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3846,29 +3846,6 @@ localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
-lifeology.dev.lifeomic.com
-connect-console.dev.lifeomic.com
-marketplace.dev.lifeomic.com
-ga4gh.dev.lifeomic.com
-api.dev.lifeomic.com
-*.dev.lifeomic.com
-apps.dev.skillspring.com
-fhir.dev.lifeomic.com
-*.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
-*.infra.lifeomic.com
-*.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
-lifeology.dev.lifeomic.com
-http://apps.dev.lifeomic.com/phc
-http://apps.dev.lifeomic.com/precision-ocr
-connect-console.dev.lifeomic.com
-apps.dev.skillspring.com
-marketplace.dev.lifeomic.com
-ga4gh.dev.lifeomic.com
-api.dev.lifeomic.com
-http://api.dev.lifeomic.com/graphql
-fhir.dev.lifeomic.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
