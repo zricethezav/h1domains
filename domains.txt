@@ -1454,9 +1454,9 @@ notary.aven.com
 *.servicenow.com
 *.servicenow.com
 *.service-now.com
-api.shi.com
 durango.shi.com
 renewalreminder.shi.com
+api.shi.com
 apiconsole.shi.com
 assetinsights.shi.com
 accounts.shi.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -10431,9 +10431,9 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 *.muscache.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
