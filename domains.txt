@@ -1351,9 +1351,9 @@ aboitizpower.info
 adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
-*.visayanelectric.com
 *.aboitizpower.com
 *.davaolight.com
+*.visayanelectric.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -1450,8 +1450,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -3497,8 +3497,8 @@ resmed.ch
 resmed.la
 airview.resmed.eu
 propellerhealth.com
-mealtracker.com
 onlinestore.resmed.com
+mealtracker.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
