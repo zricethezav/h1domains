@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 19:09:25 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 20:11:17 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -509,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1327,10 +1327,10 @@ ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
-sh.reddit.com
 new.reddit.com
 *.snooguts.net
 *.redditinc.com
+sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -1960,8 +1960,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2644,8 +2644,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.goldmansachs.com
 *.finlife.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3314,8 +3314,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
@@ -3348,8 +3348,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3691,8 +3691,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
