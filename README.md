@@ -2,8 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 06:11:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 07:10:04 UTC 2023)
 ```
+www.temu.com
+www.temu.com
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
@@ -475,8 +477,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com

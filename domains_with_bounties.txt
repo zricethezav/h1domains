@@ -1,3 +1,5 @@
+www.temu.com
+www.temu.com
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
@@ -469,8 +471,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com

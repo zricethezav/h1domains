@@ -1,3 +1,5 @@
+www.temu.com
+www.temu.com
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
@@ -1450,8 +1452,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -2915,8 +2917,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -4774,8 +4776,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.era.com
 *.century21.*
+*.era.com
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -8101,8 +8103,8 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.wavecell.com
-*.jit.si
 *.packet8.net
+*.jit.si
 *.ucverse.com
 *.8x8.com
 *.packet8.net
