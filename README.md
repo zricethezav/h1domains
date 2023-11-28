@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 18:11:52 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 19:09:25 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,10 +13,10 @@ www.mercadolibre.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -509,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1328,9 +1328,9 @@ meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-*.redditinc.com
 new.reddit.com
 *.snooguts.net
+*.redditinc.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -1960,8 +1960,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2644,8 +2644,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.finlife.com
 *.goldmansachs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3554,8 +3554,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 grok.x.ai
 gnip.com
