@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 09:11:18 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 10:13:18 UTC 2023)
 ```
 www.temu.com
 www.temu.com
@@ -477,8 +477,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -550,8 +550,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 *.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
@@ -1926,8 +1926,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -1960,8 +1960,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -1979,8 +1979,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
@@ -2210,8 +2210,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3306,9 +3306,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-shop.app
 linkpop.com
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
