@@ -4803,9 +4803,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -7067,8 +7067,8 @@ netlify,*.services.netlify.com,True
 netlify,netlify-cdp-loader.netlify.app,True
 netlify,supportal.netlify.app,True
 netlify,*.services-prod.nsvcs.net,True
-netlify,*.infra-prod.nsvcs.net,True
 netlify,screenshot-proxy.netlify.app,True
+netlify,*.infra-prod.nsvcs.net,True
 netlify,*.onegraph.com,True
 netlify,*.ops.netlify.com,True
 netlify,list-v2--netlify-plugins.netlify.app,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -10518,9 +10518,9 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,twitterflightschool.com,False
 x,x.com,True
 x,*.twitter.com,True
+x,twitterflightschool.com,False
 x,t.co,False
 x,*.twimg.com,True
 x,grok.x.ai,True
