@@ -2,8 +2,40 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 16:11:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 17:12:37 UTC 2023)
 ```
+www.mercadopago.com.uy
+www.mercadolibre.com.pe
+www.mercadopago.cl
+www.mercadolibre.com.uy
+www.mercadolibre.cl
+www.mercadolibre.com.mx
+www.mercadolivre.com.br
+www.mercadopago.com.pe
+www.mercadopago.com.co
+api.mercadopago.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
+www.mercadolibre.com.co
+www.mercadopago.com.mx
+www.mercadopago.com.br
+api.mercadolibre.com
+api.mercadopago.com
+www.mercadopago.com.ar
+www.mercadopago.com.br
+www.mercadopago.com.mx
+www.mercadopago.com.co
+www.mercadopago.com.pe
+www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadolivre.com.br
+www.mercadolibre.com.mx
+www.mercadolibre.com.co
+www.mercadolibre.com.pe
+www.mercadolibre.com.uy
+www.mercadolibre.cl
+www.mercadopago.cl
 www.temu.com
 www.temu.com
 experiences.booking.com
@@ -34,8 +66,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -477,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2100,10 +2132,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
 payment.pixiv.net
 neoket.net
 hub.vroid.com
+vroid.com
 novel.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
@@ -2999,8 +3031,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3314,8 +3346,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
