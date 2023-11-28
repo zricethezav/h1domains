@@ -996,8 +996,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -3434,8 +3434,8 @@ www.divvyhomes.com
 *.avalara.io
 *.avalara.net
 *.davosalestax.com
-*.ttrus.com
 *.track1099.com
+*.ttrus.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -5605,9 +5605,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -5949,6 +5949,7 @@ sustainability-programs.deere.com
 adzone.deere.com
 advertising.deere.com
 vision-devl.deere.com/
+operationscenter.deere.com
 satpredictor2.deere.com
 *.reckoproduction.com
 *.stripe.com
@@ -9415,7 +9416,7 @@ api.foliofn.com
 *.gsam.com
 *.gs.de
 *.gs.com
-*.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

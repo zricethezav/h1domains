@@ -997,8 +997,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -3435,8 +3435,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
-avalara,*.ttrus.com,False
 avalara,*.track1099.com,False
+avalara,*.ttrus.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -5606,9 +5606,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -5950,6 +5950,7 @@ john-deere,sustainability-programs.deere.com,False
 john-deere,adzone.deere.com,False
 john-deere,advertising.deere.com,False
 john-deere,vision-devl.deere.com/,False
+john-deere,operationscenter.deere.com,False
 john-deere,satpredictor2.deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
@@ -9416,7 +9417,7 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioclient.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
