@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 17:12:06 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 18:12:31 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1016,9 +1016,9 @@ admin.instacart.com
 shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
-academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+academy.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1549,8 +1549,8 @@ api.sharefile.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-www.cloud.com
 accounts.cloud.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -3571,8 +3571,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 grok.x.ai
 gnip.com
