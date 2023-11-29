@@ -41,8 +41,8 @@ bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -2936,8 +2936,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -3118,8 +3118,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -9490,8 +9490,8 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
