@@ -6056,8 +6056,8 @@ www.stripe.partners
 app.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
-api.stripe.com
 api.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
