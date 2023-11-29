@@ -4531,8 +4531,8 @@ www.canvasworld.com
 *.iseeme.com
 *.personalcreations.com
 *.canvasworld.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7709,8 +7709,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -9831,8 +9831,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -10168,8 +10168,8 @@ devmaximum.com
 www.coursera.org
 www.coursera.org
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
@@ -10327,11 +10327,11 @@ app.frame.io
 stream.frame.io
 *.adobeaemcloud.com
 firefly.adobe.com
-magento.com
 nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
 repo.magento.com
 *.adobe.com
+magento.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10445,8 +10445,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.hoteltonight-test.com
-*.muscache.com
 www.hoteltonight.com
+*.muscache.com
 *.airbnb.com
 assets.airbnb.com
 open.airbnb.com

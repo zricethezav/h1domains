@@ -4532,8 +4532,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7710,8 +7710,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -9832,8 +9832,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10169,8 +10169,8 @@ radancy,devmaximum.com,True
 coursera,www.coursera.org,False
 coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
-zendesk,h1-your-domain.zendesk.com,True
 zendesk,smooch.io,True
+zendesk,h1-your-domain.zendesk.com,True
 zendesk,apps.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
@@ -10328,11 +10328,11 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
-adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
 adobe,repo.magento.com,True
 adobe,*.adobe.com,False
+adobe,magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10446,8 +10446,8 @@ airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.muscache.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.muscache.com,True
 airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
