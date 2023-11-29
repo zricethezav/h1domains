@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 14:09:35 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 15:12:39 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -15,8 +15,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
-www.mercadolibre.com.co
 api.mercadopago.com
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1017,8 +1017,8 @@ shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -3277,8 +3277,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3364,8 +3364,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3400,8 +3400,8 @@ snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3573,8 +3573,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
