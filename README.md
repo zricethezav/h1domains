@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 13:11:13 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 14:09:35 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -55,8 +55,8 @@ autocomplete.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 secure.booking.com
-account.booking.com
 webhooks.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -130,8 +130,8 @@ test.nicex.com
 prismalabsteam.com
 lensa-ai.com
 prisma-ai.com
-appapi.neuralprisma.com
 neuralprisma.com
+appapi.neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
