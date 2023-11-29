@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 07:09:37 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 08:12:09 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -18,8 +18,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -40,18 +40,27 @@ www.temu.com
 www.temu.com
 experiences.booking.com
 careers.booking.com
+chat.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
+distribution-xml.booking.com
+accommodations.booking.com
+portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
+autocomplete.booking.com
+secure-supply-xml.booking.com
 cars.booking.com
 secure.booking.com
 account.booking.com
+webhooks.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
+https://iphone-xml.booking.com/json/
 account.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -59,7 +68,15 @@ cars.booking.com
 supplier.auth.toag.booking.com
 metasearch-api.booking.com
 experiences.booking.com
+webhooks.booking.com
+admin.booking.com
+chat.booking.com
+autocomplete.booking.com
+distribution-xml.booking.com
+accommodations.booking.com
+portal.taxi.booking.com
 flights.booking.com
+secure-supply-xml.booking.com
 *.bybit.com
 *.bybit.com
 portal.au.frontegg.com
@@ -3340,9 +3357,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-linkpop.com
 *.shopifycloud.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
