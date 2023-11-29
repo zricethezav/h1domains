@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 18:12:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 19:11:30 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1311,8 +1311,8 @@ cloud.elastic.co
 *.stripe.com
 *.recko.io
 *.link.co
-js.stripe.com
 *.touchtechpayments.com
+js.stripe.com
 app.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
@@ -2102,8 +2102,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2650,8 +2650,8 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.foliofn.com
-*.goldman.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2669,9 +2669,9 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gsam.com
 *.gs.de
 *.folioinstitutional.com
+*.gs.com
 *.folioclient.com
 *.goldmansachs.com
 *.gs.com
@@ -3358,8 +3358,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3571,10 +3571,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
-*.twimg.com
+x.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3727,9 +3727,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
