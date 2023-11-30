@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 16:11:43 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 17:11:11 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2099,8 +2099,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2258,8 +2258,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3350,8 +3350,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3668,8 +3668,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
