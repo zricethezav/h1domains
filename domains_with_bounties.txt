@@ -3546,8 +3546,8 @@ www.greenhouse.io
 *.vine.co
 x.com
 *.twitter.com
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
