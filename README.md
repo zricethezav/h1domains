@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 12:12:15 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 13:12:25 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2343,7 +2343,6 @@ mobileapp.hyatt.com
 public.hyatt.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
@@ -2353,6 +2352,7 @@ res.vacations.buschgardens.com
 res.universalorlandovacations.com
 book.beachbound.com
 vacations.us.palladiumhotelgroup.com
+reservations.wynnvacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -3214,10 +3214,10 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 registry.gitlab.com
 *.gitlab.net
-*.gitlap.com
 design.gitlab.com
 advisories.gitlab.com
 customers.gitlab.com
+*.gitlap.com
 docs.gitlab.com
 about.gitlab.com
 *.gitlab.org
@@ -3710,8 +3710,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net

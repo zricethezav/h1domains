@@ -2337,7 +2337,6 @@ mobileapp.hyatt.com
 public.hyatt.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
@@ -2347,6 +2346,7 @@ res.vacations.buschgardens.com
 res.universalorlandovacations.com
 book.beachbound.com
 vacations.us.palladiumhotelgroup.com
+reservations.wynnvacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -3208,10 +3208,10 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 registry.gitlab.com
 *.gitlab.net
-*.gitlap.com
 design.gitlab.com
 advisories.gitlab.com
 customers.gitlab.com
+*.gitlap.com
 docs.gitlab.com
 about.gitlab.com
 *.gitlab.org
@@ -3704,8 +3704,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
