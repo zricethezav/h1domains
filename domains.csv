@@ -41,8 +41,8 @@ bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -2984,8 +2984,8 @@ abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
-abb,*.abb-drives.com,False
 abb,*.abb,False
+abb,*.abb-drives.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -4903,9 +4903,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,academy.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -7998,8 +7998,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8195,8 +8195,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
-8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,pay.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10204,8 +10204,8 @@ deriv,derivws.com,True
 deriv,api.deriv.com,True
 deriv,*.derivws.com,True
 deriv,secure-dfadmin.deriv.com,True
-deriv,*.binary.com,True
 deriv,smarttrader.deriv.com,True
+deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
@@ -10631,8 +10631,8 @@ x,twitterflightschool.com,False
 x,*.twitter.com,True
 x,x.com,True
 x,t.co,False
-x,grok.x.ai,True
 x,*.twimg.com,True
+x,grok.x.ai,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
@@ -10745,8 +10745,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True

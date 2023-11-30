@@ -40,8 +40,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -2983,8 +2983,8 @@ abb.com.br
 *.de.abb.com
 *.abb.nl
 *.abb.in
-*.abb-drives.com
 *.abb
+*.abb-drives.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -4902,9 +4902,9 @@ new.myzap.com
 new.myzap.com
 docs.databricks.com
 demo.cloud.databricks.com
-databricks.com
 accounts.cloud.databricks.com
 academy.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -7997,8 +7997,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8194,8 +8194,8 @@ work.8x8.com
 sso.8x8.com
 platform.8x8.com
 www.8x8.com
-pay.8x8.com
 *.jitsi.net
+pay.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -10203,8 +10203,8 @@ derivws.com
 api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 smarttrader.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -10630,8 +10630,8 @@ twitterflightschool.com
 *.twitter.com
 x.com
 t.co
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -10744,8 +10744,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
