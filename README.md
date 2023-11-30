@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 09:12:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 10:11:39 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2102,8 +2102,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 *.folioinstitutional.com
-*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2990,18 +2990,6 @@ api.sonantic.io
 app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
-api.dashlane.com
-logs.dashlane.com
-www.dashlane.com
-app.dashlane.com
-console.dashlane.com
-ws1.dashlane.com
-ws1.dashlane.com
-www.dashlane.com
-console.dashlane.com
-app.dashlane.com
-logs.dashlane.com
-api.dashlane.com
 planet.wordpress.org
 *.wordpress.org
 wordpressfoundation.org
@@ -3495,8 +3483,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3683,8 +3671,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -4085,6 +4073,18 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
+api.dashlane.com
+logs.dashlane.com
+www.dashlane.com
+app.dashlane.com
+console.dashlane.com
+ws1.dashlane.com
+ws1.dashlane.com
+www.dashlane.com
+console.dashlane.com
+app.dashlane.com
+logs.dashlane.com
+api.dashlane.com
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
