@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 01:34:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 02:21:02 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -714,8 +714,8 @@ www.lastminute.com.au
 www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
-www.carrentals.com
 www.expedia.com
+www.carrentals.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -1824,10 +1824,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.api.playstation.com
 store.playstation.com
 direct.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 my.account.sony.com
 *.playstation.net
@@ -2670,9 +2670,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
-*.gs.com
 *.gsam.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3571,10 +3571,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
-*.twimg.com
+*.twitter.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3683,8 +3683,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
