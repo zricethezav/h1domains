@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 06:09:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 07:10:39 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -674,9 +674,9 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.mdvmm.xyz
 *.otherside.xyz
 *.yuga.com
+*.mdvmm.xyz
 *.10ktf.com
 *.meebits.app
 *.cryptopunks.app
@@ -2102,8 +2102,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3571,8 +3571,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 grok.x.ai
 gnip.com
@@ -3683,8 +3683,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

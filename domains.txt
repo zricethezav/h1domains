@@ -3325,9 +3325,9 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.onezerobank.com
 *.onezerobank.com
-*.mdvmm.xyz
 *.otherside.xyz
 *.yuga.com
+*.mdvmm.xyz
 *.10ktf.com
 *.meebits.app
 *.cryptopunks.app
@@ -7997,8 +7997,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8194,8 +8194,8 @@ work.8x8.com
 sso.8x8.com
 platform.8x8.com
 www.8x8.com
-*.jitsi.net
 pay.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -10627,8 +10627,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 grok.x.ai
@@ -10744,8 +10744,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

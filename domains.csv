@@ -3326,9 +3326,9 @@ us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 one_zero_vdp,*.onezerobank.com,False
 one_zero_vdp,*.onezerobank.com,False
-yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.otherside.xyz,True
 yuga_labs,*.yuga.com,True
+yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.10ktf.com,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
@@ -7998,8 +7998,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8195,8 +8195,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
-8x8,*.jitsi.net,False
 8x8,pay.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10628,8 +10628,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,grok.x.ai,True
@@ -10745,8 +10745,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
