@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 20:11:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 21:10:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -43,8 +43,8 @@ careers.booking.com
 chat.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 accommodations.booking.com
 distribution-xml.booking.com
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2258,8 +2258,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3360,11 +3360,11 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 create.snapchat.com
-businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
