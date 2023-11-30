@@ -41,8 +41,8 @@ bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -3372,8 +3372,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.wotif.com,True
-expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotwire.com,True
+expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -9043,8 +9043,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10733,8 +10733,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
