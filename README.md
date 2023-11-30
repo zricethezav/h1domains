@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 14:10:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 15:11:43 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2099,8 +2099,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2320,8 +2320,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 link.omise.co
-www.opn.ooo
 dashboard.omise.co
+www.opn.ooo
 dashboard2.omise.co
 api.omise.co
 linksplus-dashboard.omise.co
@@ -2668,8 +2668,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3350,8 +3350,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3556,10 +3556,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
-grok.x.ai
+*.twitter.com
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3751,8 +3751,6 @@ idp.staging.login.gov
 secure.login.gov
 node1.pivcac.staging.login.gov
 node1.pivcac.prod.login.gov
-www.engelvoelkers.com
-www.engelvoelkers.com
 businessdefense.gov
 ioss.gov
 itc.gov
