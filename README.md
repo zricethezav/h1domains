@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 10:11:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 11:10:41 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3510,8 +3510,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 *.livestream.com
-vhx.tv
 api.vhx.tv
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3559,10 +3559,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
-*.twimg.com
+x.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
