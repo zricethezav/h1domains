@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 13:12:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 14:10:29 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1456,8 +1456,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -1689,27 +1689,24 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
+www.iciparisxl.lu
+www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
+www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
-www.watsons.com.ph
-www.marionnaud.ro
-www.iciparisxl.lu
 www.watsons.com.tr
-www.kruidvat.nl
-www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
-www.marionnaud.sk
-www.pns.hk
 api.watsons.com.tw
 api.watsons.com.ph
-www10.watsons.com.my
+api.watsons.com.hk
+api.watsons.co.id
 app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
@@ -3352,8 +3349,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
