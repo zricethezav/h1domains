@@ -4615,8 +4615,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-www.photoaffections.com
 *.simplytoimpress.com
+www.photoaffections.com
 iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
@@ -10606,8 +10606,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
