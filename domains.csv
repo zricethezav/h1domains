@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -2975,11 +2975,11 @@ abb,*.abb.com,False
 abb,*.pl.abb.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
-abb,*.cn.abb.com,False
-abb,*.de.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.motors.abb.com,False
 abb,*.pdc.abb.com,False
+abb,*.cn.abb.com,False
+abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
@@ -4615,8 +4615,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
@@ -4625,9 +4625,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -10728,8 +10728,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True

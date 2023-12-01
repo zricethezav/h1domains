@@ -1013,8 +1013,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2974,11 +2974,11 @@ abb.com.br
 *.pl.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
-*.cn.abb.com
-*.de.abb.com
 *.motors.abb.com.cn
 *.motors.abb.com
 *.pdc.abb.com
+*.cn.abb.com
+*.de.abb.com
 *.abb.nl
 *.abb.in
 *.abb-drives.com
@@ -4614,8 +4614,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-www.photoaffections.com
 *.simplytoimpress.com
+www.photoaffections.com
 iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
@@ -4624,9 +4624,9 @@ www.canvasworld.com
 *.photoaffections.com
 *.iseeme.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
 www.gifts.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -10727,8 +10727,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
