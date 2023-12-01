@@ -1168,8 +1168,8 @@ alshaya,bakimonarim.shaya.com.tr,False
 alshaya,shayakahve.com.tr,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
-alshaya,*.americaneagle.com.kw,False
 alshaya,*.mothercare.com.eg,False
+alshaya,*.americaneagle.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -5333,8 +5333,8 @@ tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,*.tva.com,False
-tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
+tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.mytva.com,False
@@ -6294,8 +6294,8 @@ zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9032,8 +9032,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10728,8 +10728,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True

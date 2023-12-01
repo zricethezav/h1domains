@@ -1167,8 +1167,8 @@ bakimonarim.shaya.com.tr
 shayakahve.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-*.americaneagle.com.kw
 *.mothercare.com.eg
+*.americaneagle.com.kw
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -5332,8 +5332,8 @@ tvarenewables.com
 *.tvaenergyrightsolutions.com
 myenergyrightadvisor.com
 *.tva.com
-tvars.com
 energyright.efficientchoice.com
+tvars.com
 *.tva.gov
 tvawcm.com
 *.mytva.com
@@ -6293,8 +6293,8 @@ supportcommunity.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-cmm01.sl.zebra.com
 downloads.zebra.com
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9031,8 +9031,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10727,8 +10727,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
