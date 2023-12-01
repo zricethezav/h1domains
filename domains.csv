@@ -7210,11 +7210,11 @@ citrix,(yoursubdomain).sharefile.eu,True
 citrix,secure.sharefile.com,True
 citrix,sf-rp-us.sharefile.com,True
 citrix,ap-s.cloud.com,True
-citrix,adm.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,secure.sharefile.eu,True
 citrix,accounts-internal.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
+citrix,adm.cloud.com,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,api.sharefile.eu,True
