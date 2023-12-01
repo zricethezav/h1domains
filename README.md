@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 05:09:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 06:11:17 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -47,8 +47,8 @@ booking.com
 admin.booking.com
 metasearch-api.booking.com
 distribution-xml.booking.com
-accommodations.booking.com
 portal.taxi.booking.com
+accommodations.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -182,8 +182,8 @@ launch.gamma.redoxstage.com
 www.redoxengine.com
 testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
 blob.gamma.redoxstage.com
+dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
@@ -705,8 +705,8 @@ www.expediagroup.com
 www.abritel.fr
 www.flights.com
 www.travelocity.com
-www.vrbo.com
 www.ebookers.com
+www.vrbo.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -2665,9 +2665,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.folioinstitutional.com
-*.folioclient.com
 marquee.gs.com
+*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

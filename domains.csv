@@ -42,8 +42,8 @@ bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,distribution-xml.booking.com,True
-bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
+bookingcom,accommodations.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -1531,8 +1531,8 @@ redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
-redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
+redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
@@ -2983,8 +2983,8 @@ abb,*.pdc.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
-abb,*.abb,False
 abb,*.ability.abb,False
+abb,*.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -3357,8 +3357,8 @@ expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
-expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.ebookers.com,True
+expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
@@ -4615,8 +4615,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
+planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
@@ -9505,9 +9505,9 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,marquee.gs.com,True
+goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
