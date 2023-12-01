@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 15:14:14 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 16:11:27 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -585,8 +585,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -607,8 +607,8 @@ uc.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-cloud8.8x8.com
 *.jit.si
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1691,8 +1691,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.watsons.com.tr
+www.marionnaud.fr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2753,8 +2753,8 @@ insights.eu.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
-rpm.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
@@ -3348,8 +3348,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3704,9 +3704,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
