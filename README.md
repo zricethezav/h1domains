@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 21:10:49 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 22:10:41 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
@@ -541,8 +541,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -1015,9 +1015,9 @@ admin.instacart.com
 shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
-accounts.cloud.databricks.com
 academy.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -3667,8 +3667,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
