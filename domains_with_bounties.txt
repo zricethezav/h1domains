@@ -2053,10 +2053,10 @@ cpp.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
 *uat.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
