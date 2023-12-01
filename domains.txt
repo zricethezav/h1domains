@@ -6292,9 +6292,9 @@ zsbsupport.zebra.com
 supportcommunity.zebra.com
 *.zams.zebra.com
 *.profitect.com
-reflexisinc.com/
 downloads.zebra.com
 cmm01.sl.zebra.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10163,8 +10163,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -10727,8 +10727,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
