@@ -40,8 +40,8 @@ flights.booking.com
 booking.com
 admin.booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -3191,9 +3191,9 @@ portal.kkr.com
 kkrpec.com
 kinfra.com
 ksam.com
-www.kkrfunds.com
 advisortimetracker.kkr.com
 *.kkr.cloud
+www.kkrfunds.com
 www.kkresg.com
 processaccess.kkr.com
 www.kkrreit.com
@@ -6447,9 +6447,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com

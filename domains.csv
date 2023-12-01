@@ -41,8 +41,8 @@ bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -3192,9 +3192,9 @@ kkr_vdp,portal.kkr.com,False
 kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
-kkr_vdp,www.kkrfunds.com,False
 kkr_vdp,advisortimetracker.kkr.com,False
 kkr_vdp,*.kkr.cloud,False
+kkr_vdp,www.kkrfunds.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 kkr_vdp,www.kkrreit.com,False
@@ -6448,9 +6448,9 @@ reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
