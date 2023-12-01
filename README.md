@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 03:09:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 04:09:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 booking.com
 admin.booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -1704,7 +1704,6 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 api.watsons.com.tw
-api.watsons.com.ph
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
@@ -3034,9 +3033,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-support.rockstargames.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3174,8 +3173,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3375,12 +3374,12 @@ store.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 business.snapchat.com
 playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

@@ -40,8 +40,8 @@ flights.booking.com
 booking.com
 admin.booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -4615,8 +4615,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-*.simplytoimpress.com
 www.photoaffections.com
+*.simplytoimpress.com
 iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
@@ -6290,12 +6290,12 @@ greece.zebra.com
 zsbsupport.zebra.com
 *.zebrasports.com
 *.zams-eu.zebra.com
-downloads.zebra.com
 supportcommunity.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
 cmm01.sl.zebra.com
+downloads.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7457,7 +7457,6 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 api.watsons.com.tw
-api.watsons.com.ph
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
@@ -9910,9 +9909,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-support.rockstargames.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -10104,8 +10103,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -10307,12 +10306,12 @@ store.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 business.snapchat.com
 playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
