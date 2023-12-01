@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 06:11:17 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 07:09:21 UTC 2023)
 ```
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -525,8 +525,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3250,9 +3250,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-smarttrader.deriv.com
 *.binary.com
 *.deriv.com
+smarttrader.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3660,8 +3660,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -3704,9 +3704,9 @@ hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
