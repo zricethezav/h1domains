@@ -34,8 +34,8 @@ mercadolibre,www.mercadopago.cl,True
 temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,experiences.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,chat.booking.com,True
+bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
@@ -152,7 +152,6 @@ cbre,help.facilitysource.com,False
 cbre,mta-sts.mail1.facilitysource.com,False
 cbre,cbreproperties.cz,False
 cbre,cbre-marketplace.com,False
-cbre,cbrerm.com,False
 cbre,cbrelive.com,False
 cbre,www.navesylogisticacbre.com,False
 cbre,dev.www.cartonspleins.fr,False
@@ -161,9 +160,10 @@ cbre,academy.gallileo-frankfurt.com,False
 cbre,acc.gallileo-frankfurt.com,False
 cbre,adfs.gallileo-frankfurt.com,False
 cbre,ag.gallileo-frankfurt.com,False
-cbre,autoconfig.gallileo-frankfurt.com,False
 cbre,backoffice.gallileo-frankfurt.com,False
-cbre,billing.gallileo-frankfurt.com,False
+cbre,bot.gallileo-frankfurt.com,False
+cbre,calendar.gallileo-frankfurt.com,False
+cbre,cdn-1.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -3529,8 +3529,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
-avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
+avalara,*.track1099.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -9326,8 +9326,8 @@ fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,tvg.com,True
-fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -10285,8 +10285,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

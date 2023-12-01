@@ -33,8 +33,8 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 experiences.booking.com
-careers.booking.com
 chat.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -2484,8 +2484,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3342,8 +3342,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

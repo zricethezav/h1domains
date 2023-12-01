@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 17:12:22 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 18:11:22 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -39,8 +39,8 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 experiences.booking.com
-careers.booking.com
 chat.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -2490,8 +2490,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3348,8 +3348,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

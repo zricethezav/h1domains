@@ -33,8 +33,8 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 experiences.booking.com
-careers.booking.com
 chat.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -151,7 +151,6 @@ help.facilitysource.com
 mta-sts.mail1.facilitysource.com
 cbreproperties.cz
 cbre-marketplace.com
-cbrerm.com
 cbrelive.com
 www.navesylogisticacbre.com
 dev.www.cartonspleins.fr
@@ -160,9 +159,10 @@ academy.gallileo-frankfurt.com
 acc.gallileo-frankfurt.com
 adfs.gallileo-frankfurt.com
 ag.gallileo-frankfurt.com
-autoconfig.gallileo-frankfurt.com
 backoffice.gallileo-frankfurt.com
-billing.gallileo-frankfurt.com
+bot.gallileo-frankfurt.com
+calendar.gallileo-frankfurt.com
+cdn-1.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -3528,8 +3528,8 @@ www.divvyhomes.com
 *.avalara.io
 *.avalara.net
 *.davosalestax.com
-*.track1099.com
 *.ttrus.com
+*.track1099.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -9325,8 +9325,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -10284,8 +10284,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
