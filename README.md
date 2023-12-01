@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 07:09:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 08:10:21 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -47,8 +47,8 @@ booking.com
 admin.booking.com
 metasearch-api.booking.com
 distribution-xml.booking.com
-portal.taxi.booking.com
 accommodations.booking.com
+portal.taxi.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -141,8 +141,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -525,8 +525,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1449,12 +1449,6 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-socket.remitano.com
-www.remitano.com
-api.remitano.com
-www.remitano.com
-api.remitano.com
-socket.remitano.com
 nvio.ar
 nvio.mx
 api.bitso.com
@@ -2665,8 +2659,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-marquee.gs.com
 *.gs.com
+marquee.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -3251,8 +3245,8 @@ api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
 *.binary.com
-*.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3660,8 +3654,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -3699,14 +3693,14 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3852,6 +3846,12 @@ westpoint.edu
 *.panther.com
 *.runpanther.io
 *.runpanther.com
+socket.remitano.com
+www.remitano.com
+api.remitano.com
+www.remitano.com
+api.remitano.com
+socket.remitano.com
 www.aiven.io
 help.aiven.io
 api.aiven.io
