@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 20:10:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 21:10:49 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1700,6 +1700,7 @@ api.watsons.com.tw
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
+api.iciparisxl.lu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2661,7 +2662,7 @@ api.foliofn.com
 *.gsam.com
 *.folioclient.com
 *.folioinstitutional.com
-marquee.gs.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3691,9 +3692,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

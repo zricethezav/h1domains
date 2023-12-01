@@ -134,7 +134,6 @@ cbre,bms.cbreesi.com,False
 cbre,iopleasant.cbreesi.com,False
 cbre,lp1.cbreinvestors.com,False
 cbre,lp3.cbreinvestors.com,False
-cbre,pcg.cbre.com.au,False
 cbre,www.test-highstreet.cbre.es,False
 cbre,www.us.sequentra.net,False
 cbre,mail.cbreresidencial.es,False
@@ -164,6 +163,7 @@ cbre,gitlab.gallileo-frankfurt.com,False
 cbre,hosting.gallileo-frankfurt.com,False
 cbre,mailgate.gallileo-frankfurt.com,False
 cbre,mailserver.gallileo-frankfurt.com,False
+cbre,ns1.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -7458,6 +7458,7 @@ watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.hk,True
 watson_group,api.watsons.co.id,True
 watson_group,app.watsons.com.tr,True
+watson_group,api.iciparisxl.lu,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -9505,7 +9506,7 @@ goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,marquee.gs.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10757,9 +10758,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10928,14 +10929,14 @@ inmobi,nostragamus.in,False
 inmobi,*.roposo.com,False
 inmobi,inmobi.jp,False
 inmobi,roposoclout.com,False
-inmobi,nostra.gg,False
 inmobi,meson.ai,False
-inmobi,*.glance.com,False
+inmobi,nostra.gg,False
 inmobi,*.glance.world,False
 inmobi,inmobi.cn,False
 inmobi,thisiskra.com,False
 inmobi,worldofek.com,False
 inmobi,shipstreak.com,False
+inmobi,*.glance.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
