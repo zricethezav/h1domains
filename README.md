@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 08:10:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 09:14:23 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -43,8 +43,8 @@ careers.booking.com
 chat.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
@@ -147,9 +147,9 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -217,8 +217,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -525,8 +525,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1598,8 +1598,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-live-backstage.tiktok.com
 tiktok.com
+live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -2659,9 +2659,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
-marquee.gs.com
+*.folioclient.com
 *.folioinstitutional.com
+marquee.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2979,6 +2979,18 @@ api.sonantic.io
 app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
+api.dashlane.com
+logs.dashlane.com
+www.dashlane.com
+app.dashlane.com
+console.dashlane.com
+ws1.dashlane.com
+ws1.dashlane.com
+www.dashlane.com
+console.dashlane.com
+app.dashlane.com
+logs.dashlane.com
+api.dashlane.com
 planet.wordpress.org
 *.wordpress.org
 wordpressfoundation.org
@@ -3679,8 +3691,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
@@ -4060,18 +4072,6 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
-api.dashlane.com
-logs.dashlane.com
-www.dashlane.com
-app.dashlane.com
-console.dashlane.com
-ws1.dashlane.com
-ws1.dashlane.com
-www.dashlane.com
-console.dashlane.com
-app.dashlane.com
-logs.dashlane.com
-api.dashlane.com
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
