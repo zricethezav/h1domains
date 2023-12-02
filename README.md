@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 06:09:04 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 07:09:34 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1698,9 +1698,9 @@ app.marionnaud.it
 app.marionnaud.ro
 api.watsons.com.tw
 api.watsons.com.hk
-api.watsons.co.id
 app.watsons.com.tr
 api.iciparisxl.lu
+www.kruidvat.nl
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3711,9 +3711,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

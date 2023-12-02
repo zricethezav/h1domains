@@ -7456,9 +7456,9 @@ watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.hk,True
-watson_group,api.watsons.co.id,True
 watson_group,app.watsons.com.tr,True
 watson_group,api.iciparisxl.lu,True
+watson_group,www.kruidvat.nl,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -10777,9 +10777,9 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
