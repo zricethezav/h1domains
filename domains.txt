@@ -6054,9 +6054,9 @@ js.stripe.com
 www.stripe.partners
 app.taxjar.com
 *.reckostaging.com
-*.getbouncer.com
 api.taxjar.com
 api.stripe.com
+*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -7256,8 +7256,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-live-backstage.tiktok.com
 tiktok.com
+live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
