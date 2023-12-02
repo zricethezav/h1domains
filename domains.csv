@@ -42,8 +42,8 @@ bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,accommodations.booking.com,True
-bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
+bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
@@ -1113,8 +1113,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -2612,8 +2612,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -4478,7 +4478,6 @@ mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
-mars,*.bluepearlvet.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
 mars,*.royalcaninrewards.co.za,False
@@ -4487,6 +4486,7 @@ mars,*.rcpracownik.pl,False
 mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
+mars,*.plataformaurinary.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -9610,8 +9610,8 @@ newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10195,9 +10195,9 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.deriv.com,True
-deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,*.deriv.cloud,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True

@@ -41,8 +41,8 @@ admin.booking.com
 booking.com
 metasearch-api.booking.com
 accommodations.booking.com
-portal.taxi.booking.com
 distribution-xml.booking.com
+portal.taxi.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -1112,8 +1112,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
 manage-sandbox.gocardless.com
-*.gocardless-staging.io
 www.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2611,8 +2611,8 @@ biology-browser.com
 biologybrowser.com
 biologybrowser.org
 biologyfinder.com
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -4477,7 +4477,6 @@ banfieldfoundation.org
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
-*.bluepearlvet.com
 *.bibliotecarc.cl
 *.coroapremiada.com.br
 *.royalcaninrewards.co.za
@@ -4486,6 +4485,7 @@ banfieldfoundation.org
 *.royalcanin.sk
 *.tradetermsrc.com
 *.wikichien.fr
+*.plataformaurinary.com
 *.mars.com
 *.marschocolate.com
 *.mms.com
@@ -9609,8 +9609,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -10194,9 +10194,9 @@ secure-dfadmin.deriv.com
 *.binary.com
 smarttrader.deriv.com
 *.deriv.com
-*.deriv.cloud
 oauth.deriv.com
 app.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
