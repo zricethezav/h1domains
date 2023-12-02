@@ -9383,9 +9383,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
