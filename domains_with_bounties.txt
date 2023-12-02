@@ -3888,8 +3888,8 @@ repo.magento.com
 magentocommerce.com
 u.magento.com
 imagine.magento.com
-marketplace.magento.com
 magento.com
+marketplace.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
