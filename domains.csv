@@ -10196,8 +10196,8 @@ deriv,*.binary.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.deriv.com,True
 deriv,oauth.deriv.com,True
-deriv,app.deriv.com,True
 deriv,*.deriv.cloud,True
+deriv,app.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True

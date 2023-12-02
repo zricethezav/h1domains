@@ -3255,8 +3255,8 @@ secure-dfadmin.deriv.com
 smarttrader.deriv.com
 *.deriv.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
