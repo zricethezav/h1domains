@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 20:10:00 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 21:08:43 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -713,8 +713,8 @@ www.lastminute.com.au
 www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
-www.expedia.com
 www.carrentals.com
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -955,9 +955,9 @@ tapi-real.etoro.com
 charts.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
-r.etoro.com
 partners.etoro.com
 rankings.etoro.com
+r.etoro.com
 billing-pci.etoro.com
 candle-src.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com
@@ -1449,8 +1449,8 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -2092,8 +2092,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2661,8 +2661,8 @@ api.foliofn.com
 *.gs.de
 *.gsam.com
 *.folioclient.com
-*.folioinstitutional.com
 *.gs.com
+marquee.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
