@@ -5732,7 +5732,6 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
-contest.deere.com
 powerplan.deere.com
 crm.surefireag.com
 support.surefireag.com
@@ -5762,6 +5761,7 @@ ghost.harvestprofit.com
 stellarsupport.deere.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 parts.waratah.com
+citratest.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7196,11 +7196,11 @@ launchpad.37signals.com
 world.hey.com
 *developer.cloud.com
 api.sharefile.com
-(yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 accounts.cloud.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -10285,8 +10285,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

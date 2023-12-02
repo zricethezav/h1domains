@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 21:08:43 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 22:10:12 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1539,11 +1539,11 @@ launchpad.37signals.com
 launchpad.37signals.com
 world.hey.com
 api.sharefile.com
-(yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 accounts.cloud.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -3349,8 +3349,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

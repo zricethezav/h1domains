@@ -1533,11 +1533,11 @@ launchpad.37signals.com
 launchpad.37signals.com
 world.hey.com
 api.sharefile.com
-(yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 accounts.cloud.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -3343,8 +3343,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

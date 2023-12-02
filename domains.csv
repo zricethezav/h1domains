@@ -5733,7 +5733,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,contest.deere.com,False
 john-deere,powerplan.deere.com,False
 john-deere,crm.surefireag.com,False
 john-deere,support.surefireag.com,False
@@ -5763,6 +5762,7 @@ john-deere,ghost.harvestprofit.com,False
 john-deere,stellarsupport.deere.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,parts.waratah.com,False
+john-deere,citratest.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -7197,11 +7197,11 @@ basecamp,launchpad.37signals.com,True
 basecamp,world.hey.com,True
 citrix,*developer.cloud.com,False
 citrix,api.sharefile.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,sf-rp-eu.sharefile.com,True
 citrix,*.browser.cloud.com,True
 citrix,accounts.cloud.com,True
 citrix,www.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -10286,8 +10286,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
