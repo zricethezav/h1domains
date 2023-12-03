@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 07:08:43 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 08:09:15 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1449,8 +1449,8 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -3256,10 +3256,10 @@ cashier.deriv.com
 derivws.com
 api.deriv.com
 *.derivws.com
-secure-dfadmin.deriv.com
 *.binary.com
 smarttrader.deriv.com
 *.deriv.com
+secure-dfadmin.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3349,8 +3349,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

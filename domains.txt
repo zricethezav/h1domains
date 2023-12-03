@@ -4649,8 +4649,8 @@ snaps.metamask.io
 snaps.metamask.io
 portfolio.metamask.io
 *.tms.pl
-*.oanda.com
 *.oanda.jp
+*.oanda.com
 *.tmsbrokers.com
 *.oanda.com
 *.oanda.jp
@@ -7059,8 +7059,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -10190,10 +10190,10 @@ cashier.deriv.com
 derivws.com
 api.deriv.com
 *.derivws.com
-secure-dfadmin.deriv.com
 *.binary.com
 smarttrader.deriv.com
 *.deriv.com
+secure-dfadmin.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -10285,8 +10285,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

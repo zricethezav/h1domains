@@ -4650,8 +4650,8 @@ metamask,snaps.metamask.io,True
 metamask,snaps.metamask.io,True
 metamask,portfolio.metamask.io,True
 oanda,*.tms.pl,False
-oanda,*.oanda.com,False
 oanda,*.oanda.jp,False
+oanda,*.oanda.com,False
 oanda,*.tmsbrokers.com,False
 oanda,*.oanda.com,False
 oanda,*.oanda.jp,False
@@ -7060,8 +7060,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.mx,True
 bitso,nvio.ar,True
+bitso,nvio.mx,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
@@ -10191,10 +10191,10 @@ deriv,cashier.deriv.com,True
 deriv,derivws.com,True
 deriv,api.deriv.com,True
 deriv,*.derivws.com,True
-deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.deriv.com,True
+deriv,secure-dfadmin.deriv.com,True
 deriv,oauth.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
@@ -10286,8 +10286,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
