@@ -2048,10 +2048,10 @@ activities.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
