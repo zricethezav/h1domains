@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 17:08:43 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 18:08:51 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2889,8 +2889,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.sellzone.com
 *.semrush.com
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com

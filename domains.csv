@@ -4464,8 +4464,8 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.pl,False
 mars,*.royalcanin.com,False
+mars,*.royalcanin.pl,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -9753,9 +9753,9 @@ semrush,*.semrush.net,True
 semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,*.scatec.io,True
-semrush,*.sellzone.com,True
 semrush,investors.semrush.com,False
 semrush,*.semrush.com,True
+semrush,*.sellzone.com,True
 semrush,*.myinsights.io,True
 semrush,*.seoab.io,True
 semrush,*.semrush.com,True
