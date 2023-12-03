@@ -48,10 +48,10 @@ bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
-bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -10254,8 +10254,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,apps.zendesk.com,True
 zendesk,www.zendesk.com,True
+zendesk,apps.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True

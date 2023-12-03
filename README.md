@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 04:09:11 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 05:10:16 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -53,10 +53,10 @@ taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
-cars.booking.com
 secure.booking.com
 webhooks.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -3317,8 +3317,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io

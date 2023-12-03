@@ -47,10 +47,10 @@ taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
-cars.booking.com
 secure.booking.com
 webhooks.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -3311,8 +3311,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
