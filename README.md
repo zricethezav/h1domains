@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 00:22:17 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 01:36:09 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -3474,8 +3474,8 @@ next.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.airbnbcitizen.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
