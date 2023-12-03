@@ -5531,9 +5531,9 @@ forum.sketchfab.com
 www.jfrog.co.jp
 www.jfrogchina.com
 *.jfrog.org
-*.jfrog.com
 www.jfrog.com
 conan.io
+*.jfrog.com
 *.jfrog.com
 *.jfrog.org
 www.jfrog.com

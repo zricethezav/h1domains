@@ -5532,9 +5532,9 @@ epicgames,forum.sketchfab.com,False
 jfrog,www.jfrog.co.jp,False
 jfrog,www.jfrogchina.com,False
 jfrog,*.jfrog.org,False
-jfrog,*.jfrog.com,False
 jfrog,www.jfrog.com,False
 jfrog,conan.io,False
+jfrog,*.jfrog.com,False
 jfrog,*.jfrog.com,False
 jfrog,*.jfrog.org,False
 jfrog,www.jfrog.com,False
