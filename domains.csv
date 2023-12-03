@@ -1528,8 +1528,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,testapi.redoxengine.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -7199,9 +7199,9 @@ citrix,*developer.cloud.com,False
 citrix,api.sharefile.com,True
 citrix,sf-rp-eu.sharefile.com,True
 citrix,*.browser.cloud.com,True
-citrix,accounts.cloud.com,True
 citrix,www.cloud.com,True
 citrix,(yoursubdomain).sharefile.com,True
+citrix,accounts.cloud.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -9494,9 +9494,9 @@ goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.finlife.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.vennhypotheken.nl,True
+goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 10:09:21 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 11:10:00 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -179,8 +179,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 testapi.redoxengine.com
-www.redoxengine.com
 launch.gamma.redoxstage.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -1541,9 +1541,9 @@ world.hey.com
 api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-accounts.cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.com
+accounts.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -2650,9 +2650,9 @@ apigw.foliofn.com
 *.gspublishing.com
 goldmansachsindices.com
 *.finlife.com
-*.goldmansachs.com
 *.nextcapital.com
 *.vennhypotheken.nl
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
