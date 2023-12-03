@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 16:09:42 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 17:08:43 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -381,9 +381,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
