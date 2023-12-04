@@ -3231,8 +3231,8 @@ voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
-*.wavecell.com
 sms.8x8.com
+*.wavecell.com
 admin.8x8.com
 *.8x8.vc
 *.jit.si
@@ -4463,8 +4463,8 @@ banfield.us
 *.royalcanin-vouchers.com
 banfieldexchange.com
 *.banfieldassets.com
-*.royalcanin.pl
 *.royalcanin.com
+*.royalcanin.pl
 *.mms.com
 *.vcahospitals.com
 *.moncse-royalcanin-siege.com
@@ -8199,9 +8199,9 @@ accountmanager.8x8.com
 *.ucverse.com
 work-staging.8x8.com
 express.8x8.com
-*.wavecell.com
 *.packet8.net
 *.jit.si
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -10286,9 +10286,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10322,8 +10322,8 @@ store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-business.snapchat.com
 www.bitmoji.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 19:09:38 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 20:09:54 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -618,8 +618,8 @@ voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
-*.wavecell.com
 sms.8x8.com
+*.wavecell.com
 admin.8x8.com
 *.8x8.vc
 *.jit.si
@@ -3350,9 +3350,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3386,8 +3386,8 @@ store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-business.snapchat.com
 www.bitmoji.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
