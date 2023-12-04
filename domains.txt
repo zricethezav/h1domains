@@ -2972,8 +2972,8 @@ http://miro.com/blog
 abb.com.br
 *.cms.abb
 *.abb.at
-*.abb.com
 *.pl.abb.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
@@ -7201,8 +7201,8 @@ api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 www.cloud.com
-(yoursubdomain).sharefile.com
 accounts.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -7614,9 +7614,9 @@ direct.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 my.playstation.com
-my.account.sony.com
 *.playstation.net
 ca.account.sony.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -9506,7 +9506,7 @@ api.foliofn.com
 *.gs.de
 *.gsam.com
 *.folioclient.com
-*.gs.com
+marquee.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
