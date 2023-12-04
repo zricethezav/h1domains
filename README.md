@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 16:10:13 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 17:11:39 UTC 2023)
 ```
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
 www.mercadolibre.cl
@@ -55,8 +55,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 secure.booking.com
 webhooks.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -676,8 +676,8 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.otherside.xyz
-*.yuga.com
 *.mdvmm.xyz
+*.yuga.com
 *.10ktf.com
 *.meebits.app
 *.cryptopunks.app
@@ -928,8 +928,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1340,8 +1340,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1607,8 +1607,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2094,8 +2094,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2763,8 +2763,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3350,8 +3350,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3380,7 +3380,6 @@ code.playcanvas.com
 playcanv.as
 store.playcanvas.com
 map.snapchat.com
-www.bitmoji.com
 rt.playcanvas.com
 my.snapchat.com
 store.snapchat.com
@@ -3388,6 +3387,7 @@ app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3706,16 +3706,16 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
+ctf.hacker101.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com

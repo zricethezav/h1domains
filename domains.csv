@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,secure.booking.com,True
 bookingcom,webhooks.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1135,8 +1135,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
+coinhako,www.coinhako.com,True
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -2747,8 +2747,8 @@ shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
@@ -3328,8 +3328,8 @@ us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 one_zero_vdp,*.onezerobank.com,False
 one_zero_vdp,*.onezerobank.com,False
 yuga_labs,*.otherside.xyz,True
-yuga_labs,*.yuga.com,True
 yuga_labs,*.mdvmm.xyz,True
+yuga_labs,*.yuga.com,True
 yuga_labs,*.10ktf.com,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
@@ -4451,9 +4451,9 @@ mars,*.banfield.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
-mars,*.royalcanin.pt,False
 mars,*.mivetshop.com.ar,False
 mars,*.individualis.com,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -4765,8 +4765,8 @@ exness,social-trading.exness.com,True
 exness,https://my.exness.com/pa/socialtrading,True
 exness,exness.com,True
 smtp2go,app.smtp2go.com,True
-smtp2go,api.smtp2go.com,True
 smtp2go,smtp2go.com,True
+smtp2go,api.smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -6428,8 +6428,8 @@ reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,old.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7266,8 +7266,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7994,8 +7994,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9612,8 +9612,8 @@ newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10287,8 +10287,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10317,7 +10317,6 @@ snapchat,code.playcanvas.com,True
 snapchat,playcanv.as,True
 snapchat,store.playcanvas.com,True
 snapchat,map.snapchat.com,True
-snapchat,www.bitmoji.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
@@ -10325,6 +10324,7 @@ snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
+snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10404,7 +10404,6 @@ ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,*.mixamo.com,False
 adobe,community.adobe.com,False
-adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
@@ -10417,6 +10416,7 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,auth.services.adobe.com,False
+adobe,exchange.adobe.com,False
 adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
@@ -10772,16 +10772,16 @@ security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
+security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
