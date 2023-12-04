@@ -9,8 +9,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 secure.booking.com
 webhooks.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1111,9 +1111,9 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless-staging.io
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3354,8 +3354,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.orbitz.com
 www.hotels.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -7993,8 +7993,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -10115,8 +10115,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -10286,9 +10286,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10415,8 +10415,8 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 auth.services.adobe.com
-exchange.adobe.com
 *.adobe.com
+exchange.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com

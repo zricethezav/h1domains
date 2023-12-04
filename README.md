@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 20:09:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 21:10:42 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -15,8 +15,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -55,8 +55,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 secure.booking.com
 webhooks.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -147,9 +147,9 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless-staging.io
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -703,8 +703,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.orbitz.com
 www.hotels.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -2094,8 +2094,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3181,8 +3181,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3350,9 +3350,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -10,8 +10,8 @@ mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadolibre.com.co,True
-mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,secure.booking.com,True
 bookingcom,webhooks.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1112,9 +1112,9 @@ gocardless_bbp,xero-sandbox.gocardless.com,True
 gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless-staging.io,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -3355,8 +3355,8 @@ expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.hotels.com,True
-expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -7994,8 +7994,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -10116,8 +10116,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10287,9 +10287,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10416,8 +10416,8 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,auth.services.adobe.com,False
-adobe,exchange.adobe.com,False
 adobe,*.adobe.com,False
+adobe,exchange.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
