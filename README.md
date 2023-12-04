@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 07:10:38 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 08:13:19 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1466,9 +1466,9 @@ internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
-open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 app.larksuite.com
@@ -3384,10 +3384,10 @@ www.bitmoji.com
 rt.playcanvas.com
 my.snapchat.com
 store.snapchat.com
-playcanvas.com
 app.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
