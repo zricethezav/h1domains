@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 17:11:39 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 18:12:08 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -1098,9 +1098,9 @@ wonderboxdev.com
 *.bcbits.com
 fortnite.com
 capturingreality.com
-*.jellychat.com
 fallguys.com
 *.unrealtournament.com
+*.jellychat.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com

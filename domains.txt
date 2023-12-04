@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3133,12 +3133,12 @@ win.stanford.edu
 cardinalprintcenter.stanford.edu
 campusmap.stanford.edu
 authority.stanford.edu
-accessories.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
 stanfordwho.stanford.edu
 *.sahr.stanford.edu
+accessories.stanford.edu
 secureportal.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
@@ -5463,9 +5463,9 @@ wonderboxdev.com
 *.bcbits.com
 fortnite.com
 capturingreality.com
-*.jellychat.com
 fallguys.com
 *.unrealtournament.com
+*.jellychat.com
 *.3lateral.com
 forum.sketchfab.com
 *.bcbits.com
@@ -7861,8 +7861,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 api.cloudways.com
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com

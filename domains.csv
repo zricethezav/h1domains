@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -3134,12 +3134,12 @@ stanford-university,win.stanford.edu,False
 stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,campusmap.stanford.edu,False
 stanford-university,authority.stanford.edu,False
-stanford-university,accessories.stanford.edu,False
 stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,who.stanford.edu,False
 stanford-university,stanfordwho.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
+stanford-university,accessories.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
@@ -5464,9 +5464,9 @@ epicgames,*.mediatonic.co.uk,True
 epicgames,*.bcbits.com,True
 epicgames,fortnite.com,True
 epicgames,capturingreality.com,True
-epicgames,*.jellychat.com,True
 epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
+epicgames,*.jellychat.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
@@ -7862,8 +7862,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
-digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
