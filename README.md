@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 13:10:34 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 14:09:45 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -178,8 +178,8 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
-testapi.redoxengine.com
 launch.gamma.redoxstage.com
+testapi.redoxengine.com
 www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
@@ -217,8 +217,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1317,8 +1317,8 @@ js.stripe.com
 app.taxjar.com
 *.reckostaging.com
 api.taxjar.com
-api.stripe.com
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -3181,8 +3181,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3370,8 +3370,8 @@ create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 businesshelp.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com

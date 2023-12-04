@@ -1165,11 +1165,11 @@ alshaya,kw.boots.com,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,bakimonarim.shaya.com.tr,False
-alshaya,shayakahve.com.tr,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.mothercare.com.eg,False
+alshaya,shayakahve.com.tr,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1527,8 +1527,8 @@ shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
-redox_bbp,testapi.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
+redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
@@ -1566,8 +1566,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -4464,8 +4464,8 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.pl,False
+mars,*.royalcanin.com,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -4620,8 +4620,8 @@ planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
@@ -6058,8 +6058,8 @@ stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,api.taxjar.com,True
-stripe,api.stripe.com,True
 stripe,*.getbouncer.com,True
+stripe,api.stripe.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -7861,9 +7861,9 @@ digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
@@ -10116,8 +10116,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10307,8 +10307,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
