@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 04:10:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 05:11:02 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -600,9 +600,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
 *.jitsi.net
+*.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1607,8 +1607,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
