@@ -1167,8 +1167,8 @@ bakimonarim.shaya.com.tr
 shayakahve.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-*.mothercare.com.eg
 *.americaneagle.com.kw
+*.mothercare.com.eg
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2958,8 +2958,8 @@ http://miro.com/blog
 *.abb.co.in
 *.abb.fr
 *.abb.se
-*.br-automation.com
 *.abb.com.cn
+*.br-automation.com
 *.tnb.com
 *.busch-jaeger.nu
 *.xc.abb.com
@@ -6194,11 +6194,11 @@ www.urbanclap.com
 *sgveconnect.com
 *huntingtonsurgerycenter.com
 *legacy.huntingtonhospital.org
-*cedars-sinai.edu
 *Hmhdr.net
 *Hmhdr.org
 *Huntingtonhealthnetwork.org
 *cedars-sinai.org
+*cedars-sinai.edu
 *cedars-sinai.org
 *www.cshs.org
 *csmc.edu
