@@ -1501,8 +1501,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -2958,8 +2958,8 @@ http://miro.com/blog
 *.abb.co.in
 *.abb.fr
 *.abb.se
-*.abb.com.cn
 *.br-automation.com
+*.abb.com.cn
 *.tnb.com
 *.busch-jaeger.nu
 *.xc.abb.com
@@ -9687,8 +9687,8 @@ platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
 *.securecircle.com
-*.humio.com
 www.crowdstrike.com
+*.humio.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -9753,8 +9753,8 @@ workflows.semrush.com
 *.seoquake.com
 *.scatec.io
 investors.semrush.com
-*.semrush.com
 *.sellzone.com
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -9922,8 +9922,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
