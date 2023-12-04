@@ -2973,8 +2973,8 @@ abb,*.in.abb.com,False
 abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.pl.abb.com,False
 abb,*.abb.com,False
+abb,*.pl.abb.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False

@@ -2972,8 +2972,8 @@ http://miro.com/blog
 abb.com.br
 *.cms.abb
 *.abb.at
-*.pl.abb.com
 *.abb.com
+*.pl.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
