@@ -7792,8 +7792,8 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
-amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
+amazonvrp,music.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -8023,8 +8023,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -10200,8 +10200,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -10224,8 +10224,8 @@ deriv,api.deriv.com,True
 deriv,*.derivws.com,True
 deriv,smarttrader.deriv.com,True
 deriv,secure-dfadmin.deriv.com,True
-deriv,*.binary.com,True
 deriv,*.deriv.com,True
+deriv,*.binary.com,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
 deriv,*.deriv.cloud,True
