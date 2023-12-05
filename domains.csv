@@ -2612,11 +2612,11 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -4931,11 +4931,11 @@ anywhererealestate,*.cartus.com,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
-databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
 databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,docs.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True

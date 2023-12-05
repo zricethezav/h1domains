@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 10:10:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 11:09:06 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -330,11 +330,11 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1017,11 +1017,11 @@ api.instacart.com
 www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-docs.databricks.com
 demo.cloud.databricks.com
 academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+docs.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com

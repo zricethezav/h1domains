@@ -2611,11 +2611,11 @@ biology-browser.com
 biologybrowser.com
 biologybrowser.org
 biologyfinder.com
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -4930,11 +4930,11 @@ new.myzap.com
 *.mycbdesk.com
 *.anywhere.re
 new.myzap.com
-docs.databricks.com
 demo.cloud.databricks.com
 academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+docs.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
