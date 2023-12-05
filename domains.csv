@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -5492,10 +5492,10 @@ epicgames,*.popjam.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,*.bcbits.com,True
 epicgames,fortnite.com,True
-epicgames,capturingreality.com,True
 epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
+epicgames,capturingreality.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
@@ -6457,8 +6457,8 @@ reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -10790,8 +10790,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
