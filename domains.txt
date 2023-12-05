@@ -3364,10 +3364,10 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
-www.bookabach.co.nz
 www.fewo-direkt.de
 www.carrentals.com
 www.expedia.com
+www.bookabach.co.nz
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -7792,8 +7792,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*

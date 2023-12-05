@@ -3365,10 +3365,10 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.travelocity.ca,True
-expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
@@ -7793,8 +7793,8 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
-amazonvrp,api.amazon.com,True
 amazonvrp,music.amazon.com,True
+amazonvrp,api.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
