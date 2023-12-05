@@ -48,9 +48,9 @@ autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb-drives.com
-*.ability.abb
 *.abb
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -6075,6 +6075,7 @@ adzone.deere.com
 advertising.deere.com
 vision-devl.deere.com/
 operationscenter.deere.com
+pages.deere.com
 satpredictor2.deere.com
 *.reckoproduction.com
 *.stripe.com
@@ -7294,8 +7295,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -8688,8 +8689,8 @@ progressivetech.holdings
 ayo.ba
 downloads.datastax.com
 www.datastax.com
-astra.datastax.com
 docs.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -10199,8 +10200,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -10739,8 +10740,8 @@ paradex.io
 prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
