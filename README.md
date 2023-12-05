@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 05:11:29 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 06:11:31 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -39,8 +39,8 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 chat.booking.com
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -399,12 +399,12 @@ merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 aus5.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -846,12 +846,14 @@ royal.checksw.com
 *.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
+www.trendyol-milla.com
 m.trendyol.com
 www.dolap.com
 www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
+www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
 portfolio.metamask.io
@@ -1340,8 +1342,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
