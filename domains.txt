@@ -48,9 +48,9 @@ autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -3042,10 +3042,10 @@ abb.com.br
 *.abb.net
 abb.com.br
 *.mb-cosmos.com
-cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -6549,10 +6549,10 @@ customers.mattermost.com
 *.electionintegrity.ohio.gov
 *.chimecard.com
 www.chime.com
-*.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
 wp-dev1.chime.com
+*.chimepayments.com
 wp-dev4.chime.com
 wp-qa.chime.com
 *.chime.com
@@ -7295,8 +7295,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -9951,9 +9951,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com

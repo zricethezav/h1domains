@@ -49,9 +49,9 @@ bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -3043,10 +3043,10 @@ abb,*.abb.se,False
 abb,*.abb.net,False
 abb,abb.com.br,False
 malwarebytes,*.mb-cosmos.com,True
-malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
+malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -6550,10 +6550,10 @@ ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
 chime,*.chimecard.com,True
 chime,www.chime.com,True
-chime,*.chimepayments.com,True
 chime,wp-dev3.chime.com,True
 chime,wp-integ.chime.com,True
 chime,wp-dev1.chime.com,True
+chime,*.chimepayments.com,True
 chime,wp-dev4.chime.com,True
 chime,wp-qa.chime.com,True
 chime,*.chime.com,True
@@ -7296,8 +7296,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -9952,9 +9952,9 @@ rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True

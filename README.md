@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 22:11:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 23:10:37 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -54,9 +54,9 @@ autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -541,10 +541,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 *.mb-cosmos.com
-cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -1408,10 +1408,10 @@ customers.mattermost.com
 customers.mattermost.com
 *.chimecard.com
 www.chime.com
-*.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
 wp-dev1.chime.com
+*.chimepayments.com
 wp-dev4.chime.com
 wp-qa.chime.com
 *.chime.com
@@ -1609,8 +1609,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3039,9 +3039,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
