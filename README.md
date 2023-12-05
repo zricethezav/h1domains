@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 03:11:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 04:09:13 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3381,13 +3381,13 @@ playcanv.as
 store.playcanvas.com
 map.snapchat.com
 rt.playcanvas.com
-my.snapchat.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

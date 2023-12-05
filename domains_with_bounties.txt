@@ -181,8 +181,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3375,13 +3375,13 @@ playcanv.as
 store.playcanvas.com
 map.snapchat.com
 rt.playcanvas.com
-my.snapchat.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
