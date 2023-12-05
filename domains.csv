@@ -34,8 +34,8 @@ mercadolibre,www.mercadopago.cl,True
 temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,chat.booking.com,True
-bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
+bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
@@ -49,9 +49,9 @@ bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -6087,9 +6087,9 @@ stripe,js.stripe.com,True
 stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
-stripe,api.taxjar.com,True
-stripe,*.getbouncer.com,True
 stripe,api.stripe.com,True
+stripe,*.getbouncer.com,True
+stripe,api.taxjar.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -6140,11 +6140,11 @@ aig,www.layahealthcare.ie,False
 aig,www.lifeandretirement.aig.com,False
 aig,*.corebridgefinancial.com,False
 aig,www.rapidcover.ie,False
-aig,*.aig.com,False
 aig,*.myretirementmanager.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
 aig,www.aig.co.il,False
+aig,*.aig.com,False
 aig,www.aig.com.br,False
 aig,*.aig.co.jp,False
 aig,www.vfisu.com,False
@@ -7231,9 +7231,9 @@ citrix,*developer.cloud.com,False
 citrix,api.sharefile.com,True
 citrix,sf-rp-eu.sharefile.com,True
 citrix,*.browser.cloud.com,True
-citrix,www.cloud.com,True
 citrix,accounts.cloud.com,True
 citrix,(yoursubdomain).sharefile.com,True
+citrix,www.cloud.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -10318,8 +10318,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
