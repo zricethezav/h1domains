@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 07:10:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 08:11:09 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -148,8 +148,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 www.gocardless.com
-*.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3234,8 +3234,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3712,8 +3712,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 errors.hackerone.net
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
