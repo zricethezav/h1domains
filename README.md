@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 04:09:13 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 05:11:29 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -38,9 +38,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.temu.com
 www.temu.com
-experiences.booking.com
 chat.booking.com
 careers.booking.com
+experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -1555,10 +1555,10 @@ secure.sharefile.com
 sf-rp-us.sharefile.com
 ap-s.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-secure.sharefile.eu
 accounts-internal.cloud.com
 (youriwssubdomain).cloud.com
 adm.cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 api.sharefile.eu
@@ -2253,8 +2253,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2730,8 +2730,6 @@ help.steampowered.com
 developer.valvesoftware.com
 auth.crypto.com
 www.crypto.com
-testnet-croeseid-4.crypto.org
-crypto.org
 merchant.crypto.com
 tax.crypto.com
 app.mona.co
@@ -2745,8 +2743,6 @@ merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 https://crypto.com/defi/
-crypto.org
-testnet-croeseid-4.crypto.org
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
