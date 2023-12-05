@@ -47,10 +47,10 @@ taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
-secure.booking.com
 webhooks.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
