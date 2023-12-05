@@ -1460,8 +1460,8 @@ caldav.larksuite.com
 passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-internal-api.larksuite.com
 larksuite.com
+internal-api.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -3255,8 +3255,8 @@ secure-dfadmin.deriv.com
 *.deriv.com
 *.binary.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
