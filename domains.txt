@@ -4803,11 +4803,11 @@ kyc.etoro.com
 streams.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
-candle.etoro.com
 push-d-gw.cloud.etoro.com
 partners.etoro.com
 rankings.etoro.com
 r.etoro.com
+candle.etoro.com
 billing-pci.etoro.com
 candle-src.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com

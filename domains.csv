@@ -4804,11 +4804,11 @@ etoro_bbp,kyc.etoro.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,charts.etoro.com,True
-etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,partners.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,r.etoro.com,True
+etoro_bbp,candle.etoro.com,True
 etoro_bbp,billing-pci.etoro.com,True
 etoro_bbp,candle-src.etoro.com,True
 etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
