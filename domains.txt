@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -5288,6 +5288,7 @@ vyhrajschutou.sk
 worldclass.cadburyfc.com
 nabiscoholiday.com
 posters.cadbury.com.au
+sourpatchkids.gg
 https://milka.ru
 https://alpengold.me
 https://oreo.ru
@@ -6483,8 +6484,8 @@ global-api.citymapper.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -7790,8 +7791,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
