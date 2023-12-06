@@ -1100,9 +1100,9 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
-connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 pay-sandbox.gocardless.com
@@ -1111,9 +1111,9 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 *.gocardless-staging.io
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1403,8 +1403,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -6436,8 +6436,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -8167,8 +8167,8 @@ get8x8.com
 *.thinkingphones.com
 admin.8x8.com
 *.8x8.com
-*.8x8cloud.net
 connect.8x8.com
+*.8x8cloud.net
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -10285,8 +10285,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
