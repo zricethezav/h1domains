@@ -3187,11 +3187,11 @@ netdb.stanford.edu
 mailman.stanford.edu
 kkr.com
 *.kkr.com
-www.fskkradvisor.com
 portal.kkr.com
 kkrpec.com
 kinfra.com
 ksam.com
+www.fskkradvisor.com
 advisortimetracker.kkr.com
 *.kkr.cloud
 www.kkrfunds.com
@@ -10224,8 +10224,8 @@ api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
