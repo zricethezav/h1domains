@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.abb-drives.com
 *.ability.abb
+*.abb-drives.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
