@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 15:13:04 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 16:11:42 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -43,8 +43,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -2255,8 +2255,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3368,9 +3368,9 @@ story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
-businesshelp.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com

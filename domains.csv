@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -6291,10 +6291,10 @@ zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,downloads.zebra.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9040,8 +9040,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10304,9 +10304,9 @@ snapchat,story.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,ads.snapchat.com,True
-snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,businesshelp.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
