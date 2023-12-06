@@ -6323,10 +6323,10 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 *.profitect.com
 downloads.zebra.com
-reflexisinc.com/
 cmm01.sl.zebra.com
 supportcommunity.zebra.com
 *.zams.zebra.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10351,9 +10351,9 @@ store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
-business.snapchat.com
 playcanvas.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

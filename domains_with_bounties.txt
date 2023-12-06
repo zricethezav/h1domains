@@ -3377,9 +3377,9 @@ store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
-business.snapchat.com
 playcanvas.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
