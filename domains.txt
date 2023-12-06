@@ -4759,8 +4759,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -5333,8 +5333,8 @@ myenergyrightadvisor.com
 energyright.efficientchoice.com
 tvars.com
 *.tva.gov
-tvawcm.com
 *.mytva.com
+tvawcm.com
 mytva.com
 tvawcma.com
 *.tva.gov
@@ -9725,8 +9725,8 @@ www.lahitapiola.fi
 *.tapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 16:11:42 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 17:11:26 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -930,8 +930,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -2866,8 +2866,8 @@ www.lahitapiola.fi
 *.tapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi

@@ -4760,8 +4760,8 @@ exness,social-trading.exness.com,True
 exness,https://my.exness.com/pa/socialtrading,True
 exness,exness.com,True
 smtp2go,app.smtp2go.com,True
-smtp2go,smtp2go.com,True
 smtp2go,api.smtp2go.com,True
+smtp2go,smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -5334,8 +5334,8 @@ tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
 tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
-tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.mytva.com,False
+tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,mytva.com,False
 tennessee-valley-authority,tvawcma.com,False
 tennessee-valley-authority,*.tva.gov,False
@@ -9726,8 +9726,8 @@ localtapiola,www.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
