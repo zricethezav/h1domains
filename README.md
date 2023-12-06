@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 09:11:01 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 10:11:57 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -15,8 +15,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -1398,8 +1398,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2024,8 +2024,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
@@ -2255,8 +2255,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3694,8 +3694,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

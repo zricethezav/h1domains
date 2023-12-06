@@ -9,8 +9,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.abb-drives.com
 *.ability.abb
+*.abb-drives.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -6484,8 +6484,8 @@ global-api.citymapper.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -7917,8 +7917,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
@@ -9039,8 +9039,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10758,8 +10758,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
