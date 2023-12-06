@@ -9976,10 +9976,10 @@ www.starbucks.de
 app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
-login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -10284,9 +10284,9 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10615,8 +10615,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
