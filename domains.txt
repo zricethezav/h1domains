@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -2614,8 +2614,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.ability.abb
 *.abb-drives.com
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -3043,9 +3043,9 @@ abb.com.br
 abb.com.br
 *.mb-cosmos.com
 *.mwbsys.com
-my.malwarebytes.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -7791,8 +7791,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -7858,8 +7858,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 api.cloudways.com
-api.digitalocean.com
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -7917,8 +7917,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
@@ -10758,8 +10758,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
