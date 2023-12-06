@@ -7758,9 +7758,9 @@ track.amazon.com
 chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
-apay-us.amazon.com
 music.amazon.com
 api.amazon.com
+apay-us.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -9039,8 +9039,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
