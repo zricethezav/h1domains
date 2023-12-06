@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.abb-drives.com
 *.ability.abb
+*.abb-drives.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -3423,7 +3423,6 @@ www.flights.com
 *.carrentals.com
 *.bookabach.co.nz
 thailand.airasiago.com
-*.hotwire.com
 *.hotels.com
 *.travelocity.com
 *.expediapartnercentral.com
@@ -3432,6 +3431,7 @@ thailand.airasiago.com
 *.ebookers.com
 *.mrjet.se
 china.airasiago.com
+*.hotwire.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -3528,10 +3528,10 @@ www.divvyhomes.com
 *.crowdreason.com
 *.impendulo.com
 *.avalara.io
-*.avalara.net
 *.davosalestax.com
 *.ttrus.com
 *.track1099.com
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -10593,8 +10593,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 *.livestream.com
-api.vhx.tv
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com

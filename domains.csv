@@ -2985,8 +2985,8 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
-abb,*.abb-drives.com,False
 abb,*.ability.abb,False
+abb,*.abb-drives.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -3424,7 +3424,6 @@ expediagroup,*.cheaptickets.com,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.bookabach.co.nz,False
 expediagroup,thailand.airasiago.com,False
-expediagroup,*.hotwire.com,False
 expediagroup,*.hotels.com,False
 expediagroup,*.travelocity.com,False
 expediagroup,*.expediapartnercentral.com,False
@@ -3433,6 +3432,7 @@ expediagroup,*.expediagroup.com,False
 expediagroup,*.ebookers.com,False
 expediagroup,*.mrjet.se,False
 expediagroup,china.airasiago.com,False
+expediagroup,*.hotwire.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -3529,10 +3529,10 @@ avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
-avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.track1099.com,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -10594,8 +10594,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
-vimeo,api.vhx.tv,True
 vimeo,vhx.tv,True
+vimeo,api.vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
