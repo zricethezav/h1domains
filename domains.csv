@@ -2984,8 +2984,8 @@ abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
-abb,*.abb-drives.com,False
 abb,*.abb,False
+abb,*.abb-drives.com,False
 abb,*.ability.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
