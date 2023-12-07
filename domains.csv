@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,oauth-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -2961,11 +2961,11 @@ abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
-abb,*.tnb.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
 abb,*.gb.abb.com,False
+abb,*.tnb.com,False
 abb,*.baldor.com,False
 abb,*.abb.com.tr,False
 abb,*.busch-jaeger.at,False
@@ -7857,9 +7857,9 @@ digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.cloudways.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
@@ -10219,11 +10219,11 @@ shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,shopifyinbox.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10646,8 +10646,8 @@ coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
