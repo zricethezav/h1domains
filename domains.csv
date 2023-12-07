@@ -3,9 +3,9 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.co,True
@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -2902,8 +2902,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
 indrive,injob.indriver.com,True
@@ -4877,9 +4877,9 @@ anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.realogy.*,False
-anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.mycbdesk.com,False
+anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
