@@ -1162,7 +1162,6 @@ alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,bakimonarim.shaya.com.tr,False
 alshaya,bathandbodyworks.ro/,False
@@ -1170,6 +1169,7 @@ alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2830,8 +2830,8 @@ paystack-vdp,*.paystackintegrations.com,False
 paystack-vdp,checkout.paystack.com,False
 paystack-vdp,standard.paystack.co,False
 paystack-vdp,dashboard.paystack.com,False
-paystack-vdp,nigerialogos.com,False
 paystack-vdp,legacy.paystack.co,False
+paystack-vdp,nigerialogos.com,False
 paystack-vdp,api.paystack.co,False
 paystack-vdp,decodefintech.com,False
 paystack-vdp,*.paystack.com,False
@@ -10709,8 +10709,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True

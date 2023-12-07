@@ -1161,7 +1161,6 @@ devimages.alshaya.com
 suppliertraining.alshaya.com
 sa.hm.com
 kw.boots.com
-*.starbuckscardtr.com
 *.victoriassecret.com.qa
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
@@ -1169,6 +1168,7 @@ bathandbodyworks.ro
 *.americaneagle.com.kw
 shayakahve.com.tr
 *.mothercare.com.eg
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2829,8 +2829,8 @@ hiltonhotels.jp
 checkout.paystack.com
 standard.paystack.co
 dashboard.paystack.com
-nigerialogos.com
 legacy.paystack.co
+nigerialogos.com
 api.paystack.co
 decodefintech.com
 *.paystack.com
@@ -10708,8 +10708,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 www.hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
