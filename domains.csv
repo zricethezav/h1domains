@@ -9606,12 +9606,12 @@ newrelic,learn.newrelic.com,True
 newrelic,developer.newrelic.com,True
 newrelic,rpm.newrelic.com,True
 newrelic,*.nr-data.net,True
-newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10164,8 +10164,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api2.grofers.com,True
-zomato,api.grofers.com,True
 zomato,*.hyperpure.com,True
+zomato,api.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
@@ -10759,8 +10759,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

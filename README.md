@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 05:10:32 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 06:11:10 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2758,12 +2758,12 @@ learn.newrelic.com
 developer.newrelic.com
 rpm.newrelic.com
 *.nr-data.net
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
 *.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3230,8 +3230,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-api.grofers.com
 *.hyperpure.com
+api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
@@ -3694,8 +3694,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
