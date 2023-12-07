@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 *.gocardless.com
+oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -7857,8 +7857,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 *.digitalocean.com
-api.digitalocean.com
 api.cloudways.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
