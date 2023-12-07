@@ -1022,8 +1022,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
+gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -7755,8 +7755,8 @@ insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
