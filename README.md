@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 15:11:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 16:10:48 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -91,8 +91,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -407,8 +407,8 @@ aus5.mozilla.org
 contile.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -609,8 +609,8 @@ uc.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-*.jit.si
 cloud8.8x8.com
+*.jit.si
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -3698,8 +3698,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

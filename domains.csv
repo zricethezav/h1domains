@@ -1022,8 +1022,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2694,8 +2694,8 @@ mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,location.services.mozilla.com,True
-mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -3223,8 +3223,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
-8x8-bounty,*.jit.si,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.jit.si,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -5329,12 +5329,12 @@ tennessee-valley-authority,tvarenewables.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
-tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
 tennessee-valley-authority,tvars.com,False
-tennessee-valley-authority,*.tva.gov,False
+tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,*.mytva.com,False
 tennessee-valley-authority,tvawcm.com,False
+tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,mytva.com,False
 tennessee-valley-authority,tvawcma.com,False
 tennessee-valley-authority,*.tva.gov,False
@@ -8197,8 +8197,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.packet8.net,False
-8x8,*.jit.si,False
 8x8,*.wavecell.com,False
+8x8,*.jit.si,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -10696,8 +10696,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
