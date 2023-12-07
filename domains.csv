@@ -1680,9 +1680,9 @@ visa,www.practicalmoneyskills.com,True
 visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -3468,8 +3468,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,*.magiceden.io,True
 magic-eden,eng.magiceden.dev,False
+magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
@@ -7262,12 +7262,12 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True

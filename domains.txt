@@ -1679,9 +1679,9 @@ www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -3467,8 +3467,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-*.magiceden.io
 eng.magiceden.dev
+*.magiceden.io
 *.magiceden.dev
 magiceden.io
 magiceden.io
@@ -7261,12 +7261,12 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
