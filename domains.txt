@@ -37,8 +37,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-*.gocardless.com
 oauth-sandbox.gocardless.com
+*.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.ability.abb
 *.abb-drives.com
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -3779,7 +3779,6 @@ royal.checksw.com
 shard.wwwfeo.fossil.com.edgekey.net
 *.cdgfossil.com
 *.abacuswatches.com
-*.cmdportfolio.com
 *.dieseltimeframes.co.uk
 *.dieseltimeframes.de
 *.dieseltimeframes.kr
@@ -3826,6 +3825,7 @@ shard.wwwfeo.fossil.com.edgekey.net
 *.skagen-designs.de
 *.skagen.co.uk
 *.skagen.co.za
+*.skagen.es
 *.cdgfossil.com
 *.linkplatforms.com
 *.cdgcitizen.com
@@ -7791,8 +7791,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -9507,9 +9507,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.folioclient.com
 marquee.gs.com
 *.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

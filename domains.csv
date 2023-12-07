@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,oauth-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -2985,8 +2985,8 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
-abb,*.ability.abb,False
 abb,*.abb-drives.com,False
+abb,*.ability.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -3780,7 +3780,6 @@ alsco,royal.checksw.com,True
 fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,*.cdgfossil.com,False
 fossil,*.abacuswatches.com,False
-fossil,*.cmdportfolio.com,False
 fossil,*.dieseltimeframes.co.uk,False
 fossil,*.dieseltimeframes.de,False
 fossil,*.dieseltimeframes.kr,False
@@ -3827,6 +3826,7 @@ fossil,*.relicwatch.com,False
 fossil,*.skagen-designs.de,False
 fossil,*.skagen.co.uk,False
 fossil,*.skagen.co.za,False
+fossil,*.skagen.es,False
 fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
@@ -7792,8 +7792,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -9508,9 +9508,9 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
