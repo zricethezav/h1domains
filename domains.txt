@@ -151,11 +151,8 @@ cbre-marketplace.com
 cbrelive.com
 www.navesylogisticacbre.com
 dev.www.cartonspleins.fr
-academy.gallileo-frankfurt.com
 acc.gallileo-frankfurt.com
-ag.gallileo-frankfurt.com
 bot.gallileo-frankfurt.com
-calendar.gallileo-frankfurt.com
 developer.gallileo-frankfurt.com
 download.gallileo-frankfurt.com
 gitlab.gallileo-frankfurt.com
@@ -163,6 +160,9 @@ hosting.gallileo-frankfurt.com
 mailgate.gallileo-frankfurt.com
 mailserver.gallileo-frankfurt.com
 ns1.gallileo-frankfurt.com
+post.gallileo-frankfurt.com
+prod.gallileo-frankfurt.com
+pop.fmpilot2.org
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com

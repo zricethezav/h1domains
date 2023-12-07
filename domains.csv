@@ -152,11 +152,8 @@ cbre,cbre-marketplace.com,False
 cbre,cbrelive.com,False
 cbre,www.navesylogisticacbre.com,False
 cbre,dev.www.cartonspleins.fr,False
-cbre,academy.gallileo-frankfurt.com,False
 cbre,acc.gallileo-frankfurt.com,False
-cbre,ag.gallileo-frankfurt.com,False
 cbre,bot.gallileo-frankfurt.com,False
-cbre,calendar.gallileo-frankfurt.com,False
 cbre,developer.gallileo-frankfurt.com,False
 cbre,download.gallileo-frankfurt.com,False
 cbre,gitlab.gallileo-frankfurt.com,False
@@ -164,6 +161,9 @@ cbre,hosting.gallileo-frankfurt.com,False
 cbre,mailgate.gallileo-frankfurt.com,False
 cbre,mailserver.gallileo-frankfurt.com,False
 cbre,ns1.gallileo-frankfurt.com,False
+cbre,post.gallileo-frankfurt.com,False
+cbre,prod.gallileo-frankfurt.com,False
+cbre,pop.fmpilot2.org,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
