@@ -37,8 +37,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1403,8 +1403,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -7254,9 +7254,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -9580,11 +9580,15 @@ storefront.steampowered.com
 wiki.teamfortress.com
 auth.crypto.com
 www.crypto.com
-merchant.crypto.com
+*.mona.co
+*.crypto.com
 tax.crypto.com
+merchant.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
+*.crypto.com
+*.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co

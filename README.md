@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 08:11:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 09:09:13 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -43,8 +43,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1601,9 +1601,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -2733,11 +2733,15 @@ help.steampowered.com
 developer.valvesoftware.com
 auth.crypto.com
 www.crypto.com
-merchant.crypto.com
+*.mona.co
+*.crypto.com
 tax.crypto.com
+merchant.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
+*.crypto.com
+*.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
