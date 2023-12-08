@@ -8,10 +8,10 @@ mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
