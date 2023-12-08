@@ -2677,10 +2677,10 @@ traum-ferienwohnungen.de
 traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -6435,8 +6435,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -9904,9 +9904,9 @@ forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
 www.starbucks.fr
-www.starbucks.com.br
 www.starbucksreserve.com
 www.starbucks.co.uk
+www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
