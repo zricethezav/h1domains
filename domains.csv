@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,oauth-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -1162,7 +1162,6 @@ alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,bakimonarim.shaya.com.tr,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
@@ -1170,6 +1169,7 @@ alshaya,*.americaneagle.com.kw,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -10603,8 +10603,8 @@ automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,mailpoet.com,True
 automattic,www.tumblr.com,True
-automattic,*.tumblr.com,True
 automattic,t.umblr.com,True
+automattic,*.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True

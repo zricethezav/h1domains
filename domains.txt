@@ -37,8 +37,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-*.gocardless.com
 oauth-sandbox.gocardless.com
+*.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -1161,7 +1161,6 @@ devimages.alshaya.com
 suppliertraining.alshaya.com
 sa.hm.com
 kw.boots.com
-*.victoriassecret.com.qa
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
@@ -1169,6 +1168,7 @@ bathandbodyworks.ro
 shayakahve.com.tr
 *.mothercare.com.eg
 *.starbuckscardtr.com
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -10602,8 +10602,8 @@ wordpress.com
 safe.tumblr.com
 mailpoet.com
 www.tumblr.com
-*.tumblr.com
 t.umblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
