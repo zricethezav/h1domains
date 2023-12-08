@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -4456,8 +4456,8 @@ banfield.us
 *.royalcanin-vouchers.com
 banfieldexchange.com
 *.royalcanin.com
-*.royalcanin.pl
 *.banfieldassets.com
+*.royalcanin.pl
 *.mms.com
 *.vcahospitals.com
 *.moncse-royalcanin-siege.com
@@ -5367,9 +5367,9 @@ account.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
-whatsnew.krisp.ai
 contact.krisp.ai
 krisp.ai
+whatsnew.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai

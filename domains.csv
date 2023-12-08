@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -4457,8 +4457,8 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.royalcanin.com,False
-mars,*.royalcanin.pl,False
 mars,*.banfieldassets.com,False
+mars,*.royalcanin.pl,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -5368,9 +5368,9 @@ krisp,*.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,download.krisp.ai,True
-krisp,whatsnew.krisp.ai,False
 krisp,contact.krisp.ai,False
 krisp,krisp.ai,True
+krisp,whatsnew.krisp.ai,False
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
