@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-*.gocardless.com
 oauth-sandbox.gocardless.com
+*.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -2965,7 +2965,6 @@ http://miro.com/blog
 *.evcharging.abb.com
 *.gb.abb.com
 *.tnb.com
-*.baldor.com
 *.abb.com.tr
 *.busch-jaeger.at
 *.in.abb.com
@@ -2973,6 +2972,7 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
+*.baldor.com
 *.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
@@ -9419,9 +9419,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.ayco.com
-*.goldman.com
 *.unitedcp.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -10129,8 +10129,8 @@ api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -10240,9 +10240,9 @@ story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -10709,8 +10709,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com

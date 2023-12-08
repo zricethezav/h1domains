@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 00:20:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 01:34:06 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2644,9 +2644,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.ayco.com
-*.goldman.com
 *.unitedcp.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3263,8 +3263,8 @@ api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3372,9 +3372,9 @@ story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3712,8 +3712,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
