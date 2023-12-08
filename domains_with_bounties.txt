@@ -33,8 +33,8 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 chat.booking.com
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -3383,8 +3383,8 @@ snappublisher.snapchat.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
