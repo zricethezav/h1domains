@@ -2660,8 +2660,8 @@ api.foliofn.com
 *.gs.de
 *.gsam.com
 marquee.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
