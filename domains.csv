@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -2902,8 +2902,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
 indrive,injob.indriver.com,True
@@ -5758,8 +5758,8 @@ john-deere,vpn.kreiselelectric.com,False
 john-deere,ghost.harvestprofit.com,False
 john-deere,stellarsupport.deere.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
-john-deere,parts.waratah.com,False
 john-deere,citratest.deere.com,False
+john-deere,ims.tcms.tal.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -9663,8 +9663,8 @@ localtapiola,www.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -10553,8 +10553,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

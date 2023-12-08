@@ -1013,8 +1013,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2901,8 +2901,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 wga.volans.tech
 volans.tech
 injob.indriver.com
@@ -5757,8 +5757,8 @@ vpn.kreiselelectric.com
 ghost.harvestprofit.com
 stellarsupport.deere.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
-parts.waratah.com
 citratest.deere.com
+ims.tcms.tal.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -9662,8 +9662,8 @@ www.lahitapiola.fi
 *.tapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -10552,8 +10552,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
