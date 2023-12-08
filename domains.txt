@@ -9546,8 +9546,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -10255,10 +10255,10 @@ rt.playcanvas.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

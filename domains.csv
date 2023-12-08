@@ -9547,8 +9547,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,one.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10256,10 +10256,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
