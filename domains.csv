@@ -1022,8 +1022,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1566,8 +1566,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -6581,8 +6581,8 @@ emoney-advisor,api.getincentive.com,False
 emoney-advisor,home.getincentive.com,False
 emoney-advisor,wealth.emaplan.com,False
 emoney-advisor,www.getincentive.com,False
-emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emoneyadvisor.com,False
+emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emoneyadvisor.com,False
 emoney-advisor,wealth.emaplan.com,False
@@ -10222,9 +10222,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
