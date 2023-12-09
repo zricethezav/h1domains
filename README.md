@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  9 17:10:15 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  9 18:08:57 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1095,7 +1095,6 @@ api.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-*.popjam.com
 *.mediatonic.co.uk
 *.bcbits.com
 fortnite.com
@@ -1103,6 +1102,7 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 capturingreality.com
+*.popjam.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -1179,8 +1179,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-geminiadvisory.io
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1398,8 +1398,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2539,8 +2539,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -2903,8 +2903,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 gifts.grab.com
 wiki.grab.com
 *.grab-sure.com
@@ -3093,8 +3093,8 @@ www.starbucks.com
 www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com.cn
 login.starbucks.co.jp
+www.starbucks.com.cn
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3714,14 +3714,14 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com

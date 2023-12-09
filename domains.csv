@@ -5454,7 +5454,6 @@ epicgames,*.rukkaz.com,True
 epicgames,*.audicagame.com,True
 epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
-epicgames,*.popjam.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,*.bcbits.com,True
 epicgames,fortnite.com,True
@@ -5462,6 +5461,7 @@ epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,capturingreality.com,True
+epicgames,*.popjam.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
@@ -5555,8 +5555,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,geminiadvisory.io,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -6484,8 +6484,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -9309,8 +9309,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -9716,8 +9716,8 @@ bitwarden,identity.bitwarden.com,False
 bitwarden,vault.bitwarden.com,False
 bitwarden,help.bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
-grab,grab.careers,True
 grab,*.grabtaxi.com,True
+grab,grab.careers,True
 grab,gifts.grab.com,True
 grab,wiki.grab.com,True
 grab,*.grab-sure.com,True
@@ -9916,8 +9916,8 @@ starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
-starbucks,www.starbucks.com.cn,True
 starbucks,login.starbucks.co.jp,True
+starbucks,www.starbucks.com.cn,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
@@ -10712,14 +10712,14 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
-security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
+security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
