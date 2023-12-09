@@ -7945,11 +7945,11 @@ marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -7990,8 +7990,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
