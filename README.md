@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  9 21:10:08 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  9 22:09:27 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -240,7 +240,6 @@ www.visa.com.mx
 www.visa.com.cy
 www.visa.com.ge
 www.visa.com.hr
-visa.com.jm
 www.visa.com.ms
 www.visa.com.sg
 www.visa.com.vn
@@ -251,6 +250,7 @@ www.visa.co.in
 www.currencycloud.com
 visa.com.ru
 bb.visa.com
+visa.com.jm
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
@@ -1020,8 +1020,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
 databricks.com
-accounts.cloud.databricks.com
 docs.databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -2645,8 +2645,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.ayco.com
 *.foliofn.com
-*.goldman.com
 *.unitedcp.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com

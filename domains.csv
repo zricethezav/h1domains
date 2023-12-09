@@ -1589,7 +1589,6 @@ visa,www.visa.com.mx,True
 visa,www.visa.com.cy,True
 visa,www.visa.com.ge,True
 visa,www.visa.com.hr,True
-visa,visa.com.jm,True
 visa,www.visa.com.ms,True
 visa,www.visa.com.sg,True
 visa,www.visa.com.vn,True
@@ -1600,6 +1599,7 @@ visa,www.visa.co.in,True
 visa,www.currencycloud.com,True
 visa,visa.com.ru,True
 visa,bb.visa.com,True
+visa,visa.com.jm,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,visa.co.ni,True
@@ -4900,8 +4900,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
 databricks,databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,docs.databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -9421,8 +9421,8 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
