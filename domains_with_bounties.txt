@@ -3228,8 +3228,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-*.hyperpure.com
 api.grofers.com
+*.hyperpure.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net

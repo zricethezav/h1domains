@@ -10101,8 +10101,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api2.grofers.com,True
-zomato,*.hyperpure.com,True
 zomato,api.grofers.com,True
+zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
