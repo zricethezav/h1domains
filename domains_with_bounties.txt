@@ -1926,9 +1926,9 @@ track.amazon.com
 affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
+apay-us.amazon.com
 music.amazon.com
 api.amazon.com
-apay-us.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*

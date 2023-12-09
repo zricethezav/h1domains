@@ -7758,9 +7758,9 @@ amazonvrp,track.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
+amazonvrp,apay-us.amazon.com,True
 amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
-amazonvrp,apay-us.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -8166,9 +8166,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
-8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,*.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
