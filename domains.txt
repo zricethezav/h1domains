@@ -5553,9 +5553,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
+securitytrails.com
 geminiadvisory.io
 www.recordedfuture.com
-securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -6420,11 +6420,11 @@ www.question.com
 blog.drugs.com
 www.woolshed.com
 api.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 ads.reddit.com
+gql.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com

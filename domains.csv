@@ -5554,9 +5554,9 @@ recorded-future,therecord.media,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
+recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
-recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -6421,11 +6421,11 @@ drugs_com,www.question.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True

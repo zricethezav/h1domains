@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  9 14:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  9 15:08:53 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1178,9 +1178,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
+securitytrails.com
 geminiadvisory.io
 www.recordedfuture.com
-securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1339,11 +1339,11 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 ads.reddit.com
+gql.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
