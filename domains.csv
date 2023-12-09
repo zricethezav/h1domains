@@ -5586,8 +5586,8 @@ gsa_bbp,federation.data.gov,True
 gsa_bbp,admin.fr.cloud.gov,True
 gsa_bbp,nessus.fr.cloud.gov,True
 gsa_bbp,tock.18f.gov,True
-gsa_bbp,api.data.gov,True
 gsa_bbp,account.fr.cloud.gov,True
+gsa_bbp,api.data.gov,True
 gsa_bbp,dashboard.fr.cloud.gov,True
 gsa_bbp,sdg.data.gov,True
 gsa_bbp,labs.data.gov,True
@@ -7606,10 +7606,10 @@ playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,direct.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
 playstation,store.playstation.com,True
+playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,ca.account.sony.com,True
@@ -9309,8 +9309,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -9420,9 +9420,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.unitedcp.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.unitedcp.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
