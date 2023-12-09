@@ -3083,8 +3083,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
@@ -3554,8 +3554,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

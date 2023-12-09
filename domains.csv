@@ -9912,8 +9912,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,app.starbucks.com,True
-starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
+starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
 starbucks,www.starbucks.com.cn,True
@@ -10553,8 +10553,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
