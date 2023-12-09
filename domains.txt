@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -10312,8 +10312,8 @@ careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 rma.ui.com
-help.ui.com
 account.ui.com
+help.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
