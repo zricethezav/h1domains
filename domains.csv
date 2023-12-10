@@ -2718,9 +2718,9 @@ mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -7948,8 +7948,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
