@@ -11,9 +11,9 @@ api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -2661,7 +2661,7 @@ api.foliofn.com
 marquee.gs.com
 *.folioclient.com
 *.gs.com
-*.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3259,9 +3259,9 @@ smarttrader.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
