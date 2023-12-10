@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  9 23:10:10 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 00:22:38 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -407,8 +407,8 @@ aus5.mozilla.org
 contile.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -3389,12 +3389,12 @@ snappublisher.snapchat.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
-spectacles.com
 web.snapchat.com
+spectacles.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com

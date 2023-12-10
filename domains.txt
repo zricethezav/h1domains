@@ -2693,8 +2693,8 @@ aus5.mozilla.org
 contile.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -10257,12 +10257,12 @@ snappublisher.snapchat.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
-spectacles.com
 web.snapchat.com
+spectacles.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com

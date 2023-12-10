@@ -2694,8 +2694,8 @@ mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,location.services.mozilla.com,True
-mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
+mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -10258,12 +10258,12 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
-snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
+snapchat,spectacles.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
