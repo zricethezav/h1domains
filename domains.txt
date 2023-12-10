@@ -6483,8 +6483,8 @@ global-api.citymapper.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -9138,7 +9138,6 @@ res.vacations.seaworld.com
 www.beachbound.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
-vacations.united.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
@@ -9146,6 +9145,7 @@ vacations.outrigger.com
 world.hyatt.com
 book.extraholidaysvacations.com
 sso.oft.hyatt.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com

@@ -6484,8 +6484,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
+scopely,*.scopely.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -9139,7 +9139,6 @@ hyatt,res.vacations.seaworld.com,True
 hyatt,www.beachbound.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,shop.wyndhamvacationownership.trisept.travel,True
-hyatt,vacations.united.com,True
 hyatt,holidays-hk.fijiairways.com,True
 hyatt,vacations.velasvallarta.com,True
 hyatt,www.blueskytours.com,True
@@ -9147,6 +9146,7 @@ hyatt,vacations.outrigger.com,True
 hyatt,world.hyatt.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,sso.oft.hyatt.com,True
+hyatt,vacations.united.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 06:10:39 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 07:10:24 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1398,8 +1398,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2371,7 +2371,6 @@ res.vacations.seaworld.com
 www.beachbound.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
-vacations.united.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
@@ -2379,6 +2378,7 @@ vacations.outrigger.com
 world.hyatt.com
 book.extraholidaysvacations.com
 sso.oft.hyatt.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
