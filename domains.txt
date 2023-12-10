@@ -1411,8 +1411,8 @@ aboitizpower.net
 enerzone.com.ph
 sustainablephilippines.com
 *.snaboitiz.com
-*.cotabatolight.com
 1882energyventures.com
+*.cotabatolight.com
 aboitizpower.com.ph
 aboitizpowercorporation.com.ph
 aboitiztrading.com
@@ -7947,8 +7947,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com

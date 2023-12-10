@@ -1412,8 +1412,8 @@ aboitizpower_corporation,aboitizpower.net,False
 aboitizpower_corporation,enerzone.com.ph,False
 aboitizpower_corporation,sustainablephilippines.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
-aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,1882energyventures.com,False
+aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,aboitizpower.com.ph,False
 aboitizpower_corporation,aboitizpowercorporation.com.ph,False
 aboitizpower_corporation,aboitiztrading.com,False
@@ -7948,8 +7948,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
