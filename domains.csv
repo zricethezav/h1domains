@@ -1135,8 +1135,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
+coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -10498,9 +10498,9 @@ vimeo,donations.livestream.com,True
 vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,*.magisto.com,True
-vimeo,*.livestream.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
+vimeo,*.livestream.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True

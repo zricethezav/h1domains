@@ -1134,8 +1134,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-help.coinhako.com
 www.coinhako.com
+help.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -10497,9 +10497,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
-*.livestream.com
 vhx.tv
 api.vhx.tv
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
