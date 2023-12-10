@@ -2973,8 +2973,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.pl.abb.com,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
@@ -4904,9 +4904,9 @@ databricks,docs.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
-databricks,labs.databricks.com,True
 databricks,marketplace.databricks.com,True
 databricks,community.databricks.com,True
+databricks,labs.databricks.com,True
 databricks,advocates.databricks.com,True
 databricks,help.databricks.com,True
 databricks,customer-academy.databricks.com,True
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
