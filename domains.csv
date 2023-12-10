@@ -2615,8 +2615,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3578,10 +3578,10 @@ resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
-resmed,resmed.com.cn,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
+resmed,resmed.com.cn,False
 resmed,myair.resmed.com,False
 resmed,resmed.hk,False
 resmed,resmed.de,False
@@ -9298,9 +9298,9 @@ paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
 paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,*.braintreepayments.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10710,10 +10710,10 @@ security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-ext-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
