@@ -1502,8 +1502,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -3213,10 +3213,10 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -3750,8 +3750,8 @@ amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
-amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
+amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,skills-store.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
@@ -8184,11 +8184,11 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,8x8.force.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8.id,False
-8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,sso.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -9439,11 +9439,11 @@ goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10313,8 +10313,8 @@ ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 ui,rma.ui.com,True
-ui,account.ui.com,True
 ui,help.ui.com,False
+ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True
