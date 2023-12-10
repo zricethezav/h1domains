@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 00:22:38 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 01:36:49 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2706,9 +2706,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com
