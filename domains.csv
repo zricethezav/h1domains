@@ -1393,11 +1393,11 @@ fertitta_entertainment,fertittaentertainmentinc.com,False
 aboitizpower_corporation,1882energyventures.net,False
 aboitizpower_corporation,aboitizenergysolutions.com,False
 aboitizpower_corporation,aboitizpowercorporation.ph,False
-aboitizpower_corporation,aesi.com.ph,False
 aboitizpower_corporation,bettersolutions.com.ph,False
 aboitizpower_corporation,cleanergy.ph,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,*.enerzone.com.ph,False
+aboitizpower_corporation,aesi.com.ph,False
 aboitizpower_corporation,*.oilbu.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
@@ -5330,8 +5330,8 @@ tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
-tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.com,False
+tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.mytva.com,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.tva.gov,False
@@ -7948,8 +7948,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.gs.de,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
