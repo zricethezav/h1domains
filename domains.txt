@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -2972,8 +2972,8 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
-*.abb.com
 *.baldor.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
@@ -9441,8 +9441,8 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -9658,8 +9658,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.lahitapiola.fi
 *.tapiola.fi
+www.lahitapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -10698,8 +10698,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
