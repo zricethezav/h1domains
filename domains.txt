@@ -3701,9 +3701,6 @@ brio.com.au
 *.isonaspureaccesscloud.com
 www.planopunkt.com
 zentra.co
-www.krytonitelock.com
-*.yonomi.co
-www.bricard.com
 *.allegion.com
 *.yonomi.co
 *.allegionengage.com
@@ -7952,8 +7949,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -10227,9 +10224,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10558,8 +10555,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
