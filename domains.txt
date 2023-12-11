@@ -37,8 +37,8 @@ experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -7611,8 +7611,8 @@ store.playstation.com
 direct.playstation.com
 my.playstation.com
 *.playstation.net
-ca.account.sony.com
 my.account.sony.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -7947,8 +7947,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -9441,8 +9441,8 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.gs.com
 *.folioinstitutional.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
