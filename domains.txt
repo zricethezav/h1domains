@@ -1021,8 +1021,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2628,9 +2628,9 @@ api.kolesa.kz
 app.avtoelon.uz
 m.krisha.kz
 avtoelon.uz
-m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
+m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -4451,13 +4451,13 @@ banfield.us
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
-*.royalcanin.co.uk
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
 banfieldexchange.com
-*.royalcanin.com
 *.banfieldassets.com
 *.royalcanin.pl
+*.royalcanin.com
+*.royalcanin.co.uk
 *.mms.com
 *.vcahospitals.com
 *.moncse-royalcanin-siege.com
@@ -7076,8 +7076,8 @@ caldav.larksuite.com
 passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api.larksuite.com
+larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -7266,9 +7266,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -7952,8 +7952,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -9446,8 +9446,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -10558,8 +10558,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com

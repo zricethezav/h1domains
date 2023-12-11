@@ -1022,8 +1022,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2629,9 +2629,9 @@ kolesagroup,api.kolesa.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,avtoelon.uz,True
-kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,m.avtoelon.uz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -4452,13 +4452,13 @@ mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
-mars,*.royalcanin.co.uk,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
-mars,*.royalcanin.com,False
 mars,*.banfieldassets.com,False
 mars,*.royalcanin.pl,False
+mars,*.royalcanin.com,False
+mars,*.royalcanin.co.uk,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -7077,8 +7077,8 @@ lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
-lark_technologies,larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7267,9 +7267,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7953,8 +7953,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9447,8 +9447,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -10559,8 +10559,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
