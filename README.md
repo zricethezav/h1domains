@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 22:09:18 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 23:11:03 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -352,8 +352,8 @@ kolesa.kz
 m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -381,9 +381,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 www.tide.co
 web.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -2670,8 +2670,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3189,8 +3189,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3398,8 +3398,8 @@ business.snapchat.com
 my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
@@ -3680,8 +3680,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3705,9 +3705,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
