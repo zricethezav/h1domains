@@ -130,7 +130,6 @@ portal.au.frontegg.com
 *.spacespot.com
 asb.cbreesi.com
 bms.cbreesi.com
-iopleasant.cbreesi.com
 lp1.cbreinvestors.com
 lp3.cbreinvestors.com
 www.test-highstreet.cbre.es
@@ -163,6 +162,7 @@ post.gallileo-frankfurt.com
 pop.fmpilot2.org
 www.fmpilot2.org
 ftp.fmpilot2.net
+smtp.fmpilot2.net
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -7947,8 +7947,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -9441,8 +9441,8 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10255,10 +10255,10 @@ rt.playcanvas.com
 store.snapchat.com
 snappublisher.snapchat.com
 my.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com

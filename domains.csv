@@ -131,7 +131,6 @@ cbre,*.norlandprojects.co.uk,False
 cbre,*.spacespot.com,False
 cbre,asb.cbreesi.com,False
 cbre,bms.cbreesi.com,False
-cbre,iopleasant.cbreesi.com,False
 cbre,lp1.cbreinvestors.com,False
 cbre,lp3.cbreinvestors.com,False
 cbre,www.test-highstreet.cbre.es,False
@@ -164,6 +163,7 @@ cbre,post.gallileo-frankfurt.com,False
 cbre,pop.fmpilot2.org,False
 cbre,www.fmpilot2.org,False
 cbre,ftp.fmpilot2.net,False
+cbre,smtp.fmpilot2.net,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -7948,8 +7948,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -9442,8 +9442,8 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10256,10 +10256,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
