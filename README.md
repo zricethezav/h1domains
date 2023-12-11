@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 10:11:58 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 11:10:50 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -609,8 +609,8 @@ uc.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-cloud8.8x8.com
 *.jit.si
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -2059,8 +2059,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2672,8 +2672,8 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3395,8 +3395,8 @@ snappublisher.snapchat.com
 my.snapchat.com
 www.bitmoji.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -3681,8 +3681,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

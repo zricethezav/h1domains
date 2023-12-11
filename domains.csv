@@ -3223,8 +3223,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.jit.si,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -7953,8 +7953,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9448,8 +9448,8 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10264,8 +10264,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -10679,8 +10679,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
