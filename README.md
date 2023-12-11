@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 05:08:59 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 06:09:59 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -707,16 +707,16 @@ www.expediagroup.com
 www.orbitz.com
 www.flights.com
 www.travelocity.com
-www.ebookers.com
 www.vrbo.com
+www.ebookers.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -1965,8 +1965,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
