@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 18:11:30 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 19:09:31 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -345,8 +345,8 @@ app.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 id.avtoelon.uz
 kolesa.kz
 m.avtoelon.uz
@@ -488,8 +488,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1412,8 +1412,8 @@ platform.remix.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-*.chimecard.com
 www.chime.com
+*.chimecard.com
 wp-dev3.chime.com
 wp-integ.chime.com
 wp-dev1.chime.com
@@ -1615,8 +1615,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3360,8 +3360,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3392,11 +3392,11 @@ map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
 snappublisher.snapchat.com
-my.snapchat.com
 www.bitmoji.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com

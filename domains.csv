@@ -1502,8 +1502,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -2627,8 +2627,8 @@ kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.avtoelon.uz,True
-kolesagroup,m.krisha.kz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,m.krisha.kz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -2984,9 +2984,9 @@ abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
-abb,*.abb,False
 abb,*.abb-drives.com,False
 abb,*.ability.abb,False
+abb,*.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -6517,8 +6517,8 @@ ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
-chime,*.chimecard.com,True
 chime,www.chime.com,True
+chime,*.chimecard.com,True
 chime,wp-dev3.chime.com,True
 chime,wp-integ.chime.com,True
 chime,wp-dev1.chime.com,True
@@ -7265,8 +7265,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10226,8 +10226,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10258,11 +10258,11 @@ snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
