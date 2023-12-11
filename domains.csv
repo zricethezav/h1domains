@@ -10,8 +10,8 @@ mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,api.mercadopago.com,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.ar,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -8066,7 +8066,6 @@ topcoder,vanilla.topcoder-dev.com,False
 topcoder,accounts-auth0.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
-topcoder,community.topcoder.com,False
 topcoder,community-app.topcoder.com,False
 topcoder,dna.topcoder.com,False
 topcoder,innovation.topcoder.com,False
@@ -8082,6 +8081,7 @@ topcoder,veterans.topcoder.com,False
 topcoder,webhooks.topcoder.com,False
 topcoder,wordpress.topcoder.com,False
 topcoder,app.topcoder.com,False
+topcoder,community.topcoder.com,False
 topcoder,arena.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
 topcoder,demo.topcoder.com,False
@@ -9422,9 +9422,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10675,8 +10675,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True

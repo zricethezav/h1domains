@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 21:09:12 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 22:09:18 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -15,8 +15,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -2649,9 +2649,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.foliofn.com
-*.goldman.com
 *.unitedcp.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3680,8 +3680,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

@@ -9,8 +9,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -8065,7 +8065,6 @@ vanilla.topcoder-dev.com
 accounts-auth0.topcoder.com
 www.topcoder.com
 cognitive.topcoder.com
-community.topcoder.com
 community-app.topcoder.com
 dna.topcoder.com
 innovation.topcoder.com
@@ -8081,6 +8080,7 @@ veterans.topcoder.com
 webhooks.topcoder.com
 wordpress.topcoder.com
 app.topcoder.com
+community.topcoder.com
 arena.topcoder.com
 bugzilla.topcoder.com
 demo.topcoder.com
@@ -9421,9 +9421,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.foliofn.com
-*.goldman.com
 *.unitedcp.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -10674,8 +10674,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
