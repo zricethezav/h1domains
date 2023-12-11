@@ -1149,7 +1149,6 @@ alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.aloyoga.com.kw,False
-alshaya,*.alshayaenterprises.com,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.thebodyshop.com.kw,False
@@ -1170,6 +1169,7 @@ alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.alshayaenterprises.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -4614,9 +4614,9 @@ planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,iseeme.com,False
 planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
@@ -7265,10 +7265,10 @@ tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7953,8 +7953,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9425,10 +9425,10 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10219,8 +10219,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
@@ -10357,8 +10357,8 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,exchange.adobe.com,False
-adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
+adobe,auth.services.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10718,8 +10718,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
-security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
