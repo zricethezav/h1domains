@@ -1,10 +1,10 @@
 research.23andme.com
 www.lemonaidhealth.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
+clinic.lemonaidhealth.com
 education.23andme.com
-store.23andme.com
 pd-api.polkadoc.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 api.23andme.com
@@ -7974,8 +7974,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -8838,6 +8838,7 @@ HOURLY-JOBS.NET
 JOBALINE.COM
 *.bvsnet.com.br
 *.efficientforms.com
+register.alertxpress.com
 *equifax.cl
 *equifax.hn
 *equifax.co.nz
@@ -8861,7 +8862,6 @@ efficientwotc.com
 ntcusa.com
 *.datacredito2.com
 *.datacredito3.com
-*.acertandosuascontas.com.br
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -8926,6 +8926,7 @@ BE-THE-AMERICAN-DREAM.ORG
 BE-THE-AMERICAN-DREAM.net
 BE-THE-AMERICAN-DREAM.COM
 https://vpoconfig.tools.prod.appriss.com
+register.alertxpress.com
 *equifax.com
 *equifax.com.ar
 *equifax.com.mx
@@ -9745,8 +9746,8 @@ help.bitwarden.com
 v4.passwordless.dev
 *.grabtaxi.com
 grab.careers
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com

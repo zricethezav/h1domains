@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 22:09:09 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 23:09:33 UTC 2023)
 ```
 research.23andme.com
 www.lemonaidhealth.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
+clinic.lemonaidhealth.com
 education.23andme.com
-store.23andme.com
 pd-api.polkadoc.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 api.23andme.com
@@ -2085,8 +2085,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2937,8 +2937,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.grabtaxi.com
 grab.careers
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com

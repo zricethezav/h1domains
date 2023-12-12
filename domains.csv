@@ -1,11 +1,11 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7975,8 +7975,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -8839,6 +8839,7 @@ equifax,HOURLY-JOBS.NET,False
 equifax,JOBALINE.COM,False
 equifax,*.bvsnet.com.br,False
 equifax,*.efficientforms.com,False
+equifax,register.alertxpress.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
@@ -8862,7 +8863,6 @@ equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
-equifax,*.acertandosuascontas.com.br,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -8927,6 +8927,7 @@ equifax,BE-THE-AMERICAN-DREAM.ORG,False
 equifax,BE-THE-AMERICAN-DREAM.net,False
 equifax,BE-THE-AMERICAN-DREAM.COM,False
 equifax,https://vpoconfig.tools.prod.appriss.com,False
+equifax,register.alertxpress.com,False
 equifax,*equifax.com,False
 equifax,*equifax.com.ar,False
 equifax,*equifax.com.mx,False
@@ -9746,8 +9747,8 @@ bitwarden,help.bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
 grab,*.grabtaxi.com,True
 grab,grab.careers,True
-grab,gifts.grab.com,True
 grab,wiki.grab.com,True
+grab,gifts.grab.com,True
 grab,*.grab-sure.com,True
 grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
