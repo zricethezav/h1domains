@@ -2,9 +2,9 @@ www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
-www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.uy
+www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -7412,8 +7412,6 @@ www.rebelliondefense.com
 *.moochirp.io
 *.mooch.rip
 www.rebelliondefense.com
-app.dropcontact.io
-app.dropcontact.io
 beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
@@ -8975,8 +8973,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10985,6 +10983,8 @@ console.aiven.io
 api.aiven.io
 aivencloud.com
 help.aiven.io
+app.dropcontact.io
+app.dropcontact.io
 *.gener8ads.com
 *.gener8ads.com
 id.ozon.ru

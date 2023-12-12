@@ -3,9 +3,9 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.com.uy,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,api.mercadopago.com,True
@@ -7413,8 +7413,6 @@ rebellion-defense,*.rebellion.dev,False
 rebellion-defense,*.moochirp.io,False
 rebellion-defense,*.mooch.rip,False
 rebellion-defense,www.rebelliondefense.com,False
-dropcontact,app.dropcontact.io,False
-dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
 acronis,*.5nine.com,True
 acronis,account.acronis.com,True
@@ -8976,8 +8974,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10986,6 +10984,8 @@ aiven_ltd,console.aiven.io,True
 aiven_ltd,api.aiven.io,True
 aiven_ltd,aivencloud.com,True
 aiven_ltd,help.aiven.io,True
+dropcontact,app.dropcontact.io,False
+dropcontact,app.dropcontact.io,False
 gener8,*.gener8ads.com,False
 gener8,*.gener8ads.com,False
 ozon,id.ozon.ru,False
