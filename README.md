@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 00:22:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 01:35:21 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -487,8 +487,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -1710,6 +1710,7 @@ api.watsons.com.hk
 app.watsons.com.tr
 api.iciparisxl.lu
 www.kruidvat.nl
+www.kruidvat.be
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2058,8 +2059,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2771,8 +2772,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3717,10 +3718,10 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net

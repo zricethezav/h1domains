@@ -2893,8 +2893,8 @@ fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
@@ -7459,6 +7459,7 @@ watson_group,api.watsons.com.hk,True
 watson_group,app.watsons.com.tr,True
 watson_group,api.iciparisxl.lu,True
 watson_group,www.kruidvat.nl,True
+watson_group,www.kruidvat.be,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -7949,8 +7950,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9549,8 +9550,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,one.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10712,10 +10713,10 @@ security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
