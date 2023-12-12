@@ -1013,8 +1013,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1166,9 +1166,9 @@ shayakahve.com.tr
 *.mothercare.com.eg
 *.victoriassecret.com.qa
 *.starbuckscardtr.com
-*.alshayaenterprises.com
 *.americaneagle.com.kw
 card.starbucks.com.kz
+*.alshayaenterprises.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2623,8 +2623,8 @@ yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 api.krisha.kz
 app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
@@ -3529,9 +3529,9 @@ www.divvyhomes.com
 *.impendulo.com
 *.avalara.io
 *.davosalestax.com
-*.ttrus.com
 *.track1099.com
 *.avalara.net
+*.ttrus.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -7943,8 +7943,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -8602,8 +8602,8 @@ app.nordpass.com
 *.pubg.com
 *.pubg.com
 *.pubgesports.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -8969,8 +8969,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10495,8 +10495,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 api.vhx.tv
-*.livestream.com
 vhx.tv
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -10549,8 +10549,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10695,8 +10695,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
