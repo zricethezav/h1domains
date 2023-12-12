@@ -9,12 +9,12 @@ mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -4739,8 +4739,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5983,6 +5983,7 @@ john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
 john-deere,advance.deere.com,False
 john-deere,devl-app.nprd-exco.deere.com,False
+john-deere,jduetc.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -7605,8 +7606,8 @@ playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
-playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
@@ -7633,6 +7634,7 @@ trycourier,www.trycourier.app,False
 trycourier,api.trycourier.app,False
 trycourier,api.courier.com,False
 trycourier,www.courier.com,False
+polygon-technology,portal.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
@@ -7651,6 +7653,7 @@ polygon-technology,mapper.polygon.technology,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
+polygon-technology,portal.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
@@ -9023,8 +9026,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,app.smartsheet.com,True
 smartsheet,admin.smartsheet.com,True
+smartsheet,app.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9296,8 +9299,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
 paypal,*.xoom.com,True
-paypal,*.braintree-api.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -10463,9 +10466,9 @@ airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.muscache.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.muscache.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -10550,8 +10553,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10696,8 +10699,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10708,9 +10711,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
-security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True

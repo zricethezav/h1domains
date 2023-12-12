@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 15:10:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 16:12:27 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -14,12 +14,12 @@ www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadopago.com.ar
-www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -912,8 +912,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1822,8 +1822,8 @@ api.direct.playstation.com
 transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
-store.playstation.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 my.account.sony.com
@@ -1840,6 +1840,7 @@ direct.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
+portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
@@ -1858,6 +1859,7 @@ mapper.polygon.technology
 watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
+portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
@@ -2276,8 +2278,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2531,8 +2533,8 @@ swiftfinancial.com
 *.paylution.com
 py.pl
 *.xoom.com
-*.braintree-api.com
 *.braintreepayments.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3480,9 +3482,9 @@ next.airbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.muscache.com
 *.airbnbcitizen.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3562,8 +3564,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3703,8 +3705,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3715,9 +3717,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
