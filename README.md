@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 19:11:18 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 20:10:47 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-pd-api.polkadoc.com
 store.23andme.com
 education.23andme.com
+pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 auth.23andme.com
@@ -3124,9 +3124,9 @@ app.starbucks.com
 www.starbucks.com
 www.starbucks.com.sg
 www.starbucks.co.jp
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3216,8 +3216,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3385,9 +3385,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3420,9 +3420,9 @@ store.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
 playcanvas.com
+my.snapchat.com
 app.snapchat.com
 business.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
