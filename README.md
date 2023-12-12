@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 23:11:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 00:22:03 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,10 +13,10 @@ www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -43,8 +43,8 @@ experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -246,11 +246,11 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.visa.com.my
-www.visa.co.in
 www.currencycloud.com
 visa.com.ru
 bb.visa.com
 visa.com.jm
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
@@ -487,9 +487,9 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-ab-platform-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indrive.com
+ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -960,8 +960,8 @@ charts.etoro.com
 push-d-gw.cloud.etoro.com
 partners.etoro.com
 rankings.etoro.com
-r.etoro.com
 candle.etoro.com
+r.etoro.com
 billing-pci.etoro.com
 candle-src.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com
@@ -2670,8 +2670,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.gs.com
 *.goldmansachs.com
 *.gs.com
