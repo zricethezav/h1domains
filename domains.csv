@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -1328,8 +1328,8 @@ abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.alfam.nl,False
 abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*abnamroprivatebanking.be,False
-abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.tikkie.me,False
+abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.abnamrolease.com,False
 abn_amro_vdp,*.abnamro.org,False
 abn_amro_vdp,*neuflizeobc.fr,False
@@ -2893,8 +2893,8 @@ fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
@@ -3220,11 +3220,11 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
-8x8-bounty,*.8x8.id,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.8x8.id,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -8180,12 +8180,12 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work.8x8.com,False
 8x8,8x8.force.com,False
 8x8,*.jitsi.org,False
-8x8,*.8x8.id,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.8x8.id,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -8970,8 +8970,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10550,8 +10550,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

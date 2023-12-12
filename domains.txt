@@ -1013,8 +1013,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1327,8 +1327,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.abnamro.nl
 *.tikkie.me
+*.abnamro.nl
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -2892,8 +2892,8 @@ api.fastly.com
 manage.fastly.com
 api.fastly.com
 docs.fastly.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -3219,11 +3219,11 @@ sso.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -8179,12 +8179,12 @@ cloud8.8x8.com
 work.8x8.com
 8x8.force.com
 *.jitsi.org
-*.8x8.id
 platform.8x8.com
 www.8x8.com
 pay.8x8.com
 *.jitsi.net
 sso.8x8.com
+*.8x8.id
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -8969,8 +8969,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10549,8 +10549,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
