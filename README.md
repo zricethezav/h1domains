@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 21:10:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 22:09:09 UTC 2023)
 ```
 research.23andme.com
-mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1686,8 +1686,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -3120,8 +3120,8 @@ www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.co.jp
 login.starbucks.co.jp
@@ -3421,8 +3421,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 playcanvas.com
 my.snapchat.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3732,9 +3732,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+hackerone.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3744,10 +3744,10 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
