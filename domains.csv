@@ -2893,8 +2893,8 @@ fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
@@ -3361,9 +3361,9 @@ expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.ebookers.com,True
-expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
+expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.carrentals.com,True
@@ -9444,8 +9444,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -10245,8 +10245,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10556,8 +10556,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10702,8 +10702,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
