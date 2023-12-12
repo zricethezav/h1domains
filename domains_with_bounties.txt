@@ -2,9 +2,9 @@ www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
-www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -2665,8 +2665,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -2910,11 +2910,11 @@ wiki.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com
-*.myteksi.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
 api.grabpay.com
+*.myteksi.com
 *.grab.com
 gamma.grab.co
 jira.grab.com

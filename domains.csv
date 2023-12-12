@@ -3,9 +3,9 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
-mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,api.mercadopago.com,True
@@ -9444,8 +9444,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -9726,11 +9726,11 @@ grab,wiki.grab.com,True
 grab,*.grab-sure.com,True
 grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
-grab,*.myteksi.com,True
 grab,*.grab.co,True
 grab,manage.grab.co,True
 grab,p.grabtaxi.com,True
 grab,api.grabpay.com,True
+grab,*.myteksi.com,True
 grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
