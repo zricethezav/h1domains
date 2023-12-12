@@ -7,10 +7,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
-api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -1146,7 +1146,6 @@ boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
-card.starbucks.com.kz
 *.aloyoga.com.kw
 *.americaneagle.com.bh
 *.westelm.com.kw
@@ -1169,6 +1168,7 @@ shayakahve.com.tr
 *.starbuckscardtr.com
 *.alshayaenterprises.com
 *.americaneagle.com.kw
+card.starbucks.com.kz
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2633,8 +2633,8 @@ m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 app.krisha.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -4895,9 +4895,9 @@ new.myzap.com
 new.myzap.com
 demo.cloud.databricks.com
 academy.databricks.com
-docs.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+docs.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -7384,8 +7384,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-3d.cs.money
 cs.money
+3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -7943,8 +7943,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -8969,8 +8969,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10341,7 +10341,6 @@ theblog.adobe.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-*.adobeaemcloud.com
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 repo.magento.com
@@ -10349,6 +10348,7 @@ magento.com
 exchange.adobe.com
 auth.services.adobe.com
 *.adobe.com
+*.adobeaemcloud.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10549,8 +10549,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
