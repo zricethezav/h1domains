@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -88,8 +88,8 @@ bookingcom,paynotifications.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1730,9 +1730,9 @@ visa,www.practicalmoneyskills.com,True
 visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -7997,8 +7997,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9908,9 +9908,9 @@ rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10110,8 +10110,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,*.githubusercontent.com,True
-github,gist.github.com,True
 github,github.com,True
+github,gist.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10139,8 +10139,8 @@ gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.org,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10274,8 +10274,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -11389,10 +11389,10 @@ parrot_sec,parrotlinux.org,False
 parrot_sec,parrotlinux.org,False
 weblate,hosted.weblate.org,False
 weblate,hosted.weblate.org,False
-alvosec,www.alvosec.com,True
 alvosec,dns.alvosec.com,True
 alvosec,cloud.alvosec.com,True
 alvosec,proton-api.alvosec.com,True
+alvosec,www.alvosec.com,True
 alvosec,mail.alvosec.com,True
 alvosec,www.alvosec.com,True
 alvosec,dns.alvosec.com,True

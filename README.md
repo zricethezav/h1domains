@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 14:11:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 15:11:52 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -93,8 +93,8 @@ paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3098,9 +3098,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3246,8 +3246,8 @@ education.github.com
 npmjs.org
 *.github.net
 *.githubusercontent.com
-gist.github.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3275,8 +3275,8 @@ advisories.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3408,8 +3408,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -4135,10 +4135,10 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
-www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
 proton-api.alvosec.com
+www.alvosec.com
 mail.alvosec.com
 www.alvosec.com
 dns.alvosec.com
