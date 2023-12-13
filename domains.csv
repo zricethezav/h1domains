@@ -63,9 +63,9 @@ temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,chat.booking.com,True
 bookingcom,experiences.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,indicative-pricing.taxi.booking.com,True
 bookingcom,kyc-onboarding.booking.com,True
+bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
@@ -77,8 +77,8 @@ bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
-bookingcom,taxis.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,taxis.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
@@ -87,9 +87,9 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,paybridge.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1218,8 +1218,8 @@ alshaya,*.mothercare.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.alshayaenterprises.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1737,8 +1737,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -4515,8 +4515,8 @@ mars,*.royalcanin.fr,False
 mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
-mars,*.pedigree.com,False
 mars,*.royalcanin.ca,False
+mars,*.pedigree.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -4946,9 +4946,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True

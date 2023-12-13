@@ -62,9 +62,9 @@ www.temu.com
 www.temu.com
 chat.booking.com
 experiences.booking.com
-careers.booking.com
 indicative-pricing.taxi.booking.com
 kyc-onboarding.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -76,8 +76,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-taxis.booking.com
 *.rentalcars.com
+taxis.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -86,9 +86,9 @@ paymentcomponent.booking.com
 paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
-account.booking.com
 cars.booking.com
 paybridge.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1217,8 +1217,8 @@ shayakahve.com.tr
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
 card.starbucks.com.kz
-*.starbuckscardtr.com
 *.alshayaenterprises.com
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1736,8 +1736,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -4514,8 +4514,8 @@ banfieldexchange.com
 *.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
-*.pedigree.com
 *.royalcanin.ca
+*.pedigree.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -4945,9 +4945,9 @@ new.myzap.com
 new.myzap.com
 demo.cloud.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 docs.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
