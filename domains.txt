@@ -4514,8 +4514,8 @@ banfieldexchange.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
 *.royalcanin.ca
-*.pedigree.com
 *.vcahospitals.com
+*.pedigree.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -8012,10 +8012,10 @@ marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
-hotel-deals.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -10114,8 +10114,8 @@ education.github.com
 npmjs.org
 *.github.net
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -10278,8 +10278,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

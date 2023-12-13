@@ -4515,8 +4515,8 @@ mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.royalcanin.ca,False
-mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
+mars,*.pedigree.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -8013,10 +8013,10 @@ marriott,marriottfranchisetransactions.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
-marriott,hotel-deals.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
+marriott,hotel-deals.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -10115,8 +10115,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,gist.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10279,8 +10279,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
