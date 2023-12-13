@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 02:22:05 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 03:11:31 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -12,10 +12,10 @@ education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
-blog.23andme.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -36,9 +36,9 @@ www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
-www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadolibre.com.uy
+www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadopago.com.ar
@@ -493,8 +493,8 @@ api-eu.floqast.app
 hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
-*.hilton.com.tr
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
@@ -2085,8 +2085,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
