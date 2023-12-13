@@ -5740,8 +5740,8 @@ elastic,*.found.io,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.elasticnet.co,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -7997,8 +7997,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9962,9 +9962,9 @@ starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -10108,9 +10108,9 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
 github,npmjs.org,True
-github,gist.github.com,True
 github,*.github.net,True
 github,*.githubusercontent.com,True
+github,gist.github.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
