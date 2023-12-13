@@ -1163,8 +1163,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -7997,8 +7997,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9077,8 +9077,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,app.smartsheet.com,True
 smartsheet,admin.smartsheet.com,True
+smartsheet,app.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -10135,12 +10135,12 @@ gitlab,registry.gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
-gitlab,customers.gitlab.com,True
 gitlab,*.gitlap.com,True
+gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,*.gitlab.org,True
 gitlab,gitlab.com,True
+gitlab,*.gitlab.org,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10273,9 +10273,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10769,8 +10769,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,hackerone.live,True
 security,errors.hackerone.net,True
+security,hackerone.live,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
