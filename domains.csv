@@ -1552,8 +1552,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -4494,7 +4494,6 @@ mars,*.mivetshop.com.ar,False
 mars,*.individualis.com,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
-mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -4506,6 +4505,7 @@ mars,*.royalcanin.pl,False
 mars,*.royalcanin.co.uk,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.royalcanin.com,False
+mars,*.orbitgum.com,False
 mars,*.mms.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -4917,9 +4917,9 @@ alohi,www.alohi.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
-anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.era.com,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
@@ -5879,6 +5879,7 @@ john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
 john-deere,work-planner.deere.com,False
 john-deere,techpubs.deere.com,False
+john-deere,anubhutiapis.channel-dss-r1-anubhuti-prod-vpn.ap.e06.c01.johndeerecloud.com,False
 john-deere,dealerlocator.deere.com,False
 john-deere,powerplan.deere.com,False
 john-deere,products.deere.com,False
@@ -6008,9 +6009,11 @@ john-deere,learn.harvestprofit.com,False
 john-deere,swag.harvestprofit.com,False
 john-deere,www.harvestprofit.com,False
 john-deere,parts.waratah.com,False
+john-deere,anubhutiapi.deere.com,False
 john-deere,equipment.deere.com,False
 john-deere,contest.deere.com,False
 john-deere,vision.johndeere.com,False
+john-deere,simfrontend.channel-dss-r1-anubhuti-devl-vpn.ap.e06.c01.johndeerecloud.com,False
 john-deere,site.marksman.surefireag.com,False
 john-deere,surefireag.surefireag.com,False
 john-deere,toolbox.surefireag.com,False
@@ -6018,6 +6021,7 @@ john-deere,site.staging.marksman.surepointag.com,False
 john-deere,staging.core.surepointag.com,False
 john-deere,staging.marksman.surepointag.com,False
 john-deere,www.surepointelectronics.com,False
+john-deere,anubhutiuat.deere.com,False
 john-deere,vision-staging.johndeere.com,False
 john-deere,droneci.deere.com,False
 john-deere,dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com,False
@@ -6087,6 +6091,7 @@ john-deere,vision-devl.deere.com/,False
 john-deere,operationscenter.deere.com,False
 john-deere,pages.deere.com,False
 john-deere,satpredictor2.deere.com,False
+john-deere,anubhutiuatapis.deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
 stripe,*.recko.io,True
@@ -7997,8 +8002,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
+marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -8858,10 +8863,10 @@ equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*equifax.co.in,False
 equifax,HOURLY-JOBS.NET,False
-equifax,JOBALINE.COM,False
 equifax,*.bvsnet.com.br,False
 equifax,*.efficientforms.com,False
 equifax,register.alertxpress.com,False
+equifax,JOBALINE.COM,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
@@ -10273,8 +10278,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10750,8 +10755,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
