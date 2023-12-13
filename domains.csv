@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -1586,8 +1586,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -4487,13 +4487,13 @@ mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
-mars,*.banfield.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
 mars,*.mivetshop.com.ar,False
 mars,*.individualis.com,False
 mars,*.royalcanin.pt,False
+mars,*.banfield.com,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -6521,8 +6521,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,platform.remix.com,True
 ridewithvia,remix.com,True
+ridewithvia,platform.remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
@@ -10518,8 +10518,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.muscache.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -10604,8 +10604,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
