@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 20:10:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 21:09:40 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -12,10 +12,10 @@ education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
-blog.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -73,10 +73,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 supply-xml.booking.com
 booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2360,8 +2360,8 @@ developers.smartsheet.com
 blog.creditkarma.com
 support.creditkarma.ca
 accounts.creditkarma.com
-www.creditkarma.ca
 api.creditkarma.com
+www.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
