@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -68,10 +68,10 @@ bookingcom,kyc-onboarding.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -87,9 +87,9 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -2943,9 +2943,9 @@ fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
-indrive,cargo.indrive.com,True
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -3619,7 +3619,6 @@ resmed,resmed.nl,False
 resmed,resmed.no,False
 resmed,resmed.dk,False
 resmed,provider.propellerhealth.biz,False
-resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,produktion.api.praxispad.de/,False
@@ -3627,6 +3626,7 @@ resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
 resmed,shop.resmed.com,False
+resmed,patient.propellerhealth.biz,False
 resmed,resmed.co.in,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
@@ -5479,8 +5479,8 @@ judgeme,woocommerce-adapter.judge.me,True
 judgeme,bigcommerce-adapter.judge.me,True
 judgeme,cache.judge.me,True
 mtb,*.wilmingtontrust.com,False
-mtb,*.leafnow.com,False
 mtb,*.mtb.com,False
+mtb,*.leafnow.com,False
 mtb,*.trustnota.com,False
 mtb,*.mtb.com,False
 mtb,*.wilmingtontrust.com,False
@@ -6533,8 +6533,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
+scopely,*.scopely.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
