@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
-23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -78,8 +78,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -2708,8 +2708,8 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
-mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
+mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
@@ -7975,8 +7975,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9472,7 +9472,7 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
