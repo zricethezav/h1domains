@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 00:22:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 01:34:34 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-clinic.lemonaidhealth.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -629,8 +629,8 @@ jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1318,11 +1318,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.elasticnet.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.elasticnet.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1364,9 +1364,9 @@ www.urbanclap.com
 api.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2085,8 +2085,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com

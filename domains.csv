@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,www.lemonaidhealth.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -1194,10 +1194,10 @@ alshaya,bathandbodyworks.ro,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.alshayaenterprises.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -3243,8 +3243,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -5715,11 +5715,11 @@ trafficfactory,*.trafficfactory.biz,True
 trafficfactory,www.trafficfactory.com,True
 trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
-elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.elasticnet.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -6444,9 +6444,9 @@ drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7975,8 +7975,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
