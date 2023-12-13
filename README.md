@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 12:11:50 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 13:12:19 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -14,8 +14,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -400,8 +400,8 @@ m.krisha.kz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
-m.kolesa.kz
 app.krisha.kz
+m.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 kolesa.kz
@@ -3614,8 +3614,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
