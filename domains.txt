@@ -5,8 +5,8 @@ reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
 research.23andme.com
-mediacenter.23andme.com
 www.lemonaidhealth.com
+mediacenter.23andme.com
 clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
@@ -93,8 +93,8 @@ paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3374,8 +3374,8 @@ share.doppler.com
 *.USMISSION.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -9495,10 +9495,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.foliofn.com
 *.unitedcp.com
 *.goldman.com
 *.ayco.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
