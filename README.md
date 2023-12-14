@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 16:09:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 17:10:57 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
-pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
+auth.23andme.com
 blog.23andme.com
 you.23andme.com
-auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -445,10 +445,10 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
+merino.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
@@ -1999,8 +1999,8 @@ portal.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 api.amazon.com
@@ -2122,10 +2122,10 @@ mgs.marriott.com
 www.marriott.com
 gatewaydsaptst2.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 jobs.marriott.com
 gatewaydsaptst1.marriott.com
 dcfgatewaytst1.marriott.com
+reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -2166,8 +2166,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3423,9 +3423,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3784,8 +3784,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
