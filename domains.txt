@@ -3,8 +3,8 @@ research.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 education.23andme.com
-store.23andme.com
 pd-api.polkadoc.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 auth.23andme.com
 api.23andme.com
@@ -6468,11 +6468,11 @@ www.question.com
 blog.drugs.com
 www.woolshed.com
 api.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 gql.reddit.com
 old.reddit.com
 ads.reddit.com
+*.redditmedia.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -8008,8 +8008,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
-marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
@@ -9782,8 +9782,8 @@ xtramile.grabpay.com
 manage.grab.co
 p.grabtaxi.com
 api.grabpay.com
-*.myteksi.com
 *.grab.com
+*.myteksi.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
