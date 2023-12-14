@@ -10,8 +10,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,pd-api.polkadoc.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -3191,8 +3191,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -3295,8 +3295,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8.id,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -3306,7 +3306,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.wavecell.com,True
-8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -4940,8 +4939,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
@@ -6172,10 +6171,10 @@ homebargains,hackerone-m1rtuq8orz.hbstaging.website,True
 aig,www-264.aig.com,False
 aig,www.vfis.com,False
 aig,www.glatfelters.com,False
-aig,www.layahealthcare.ie,False
 aig,www.lifeandretirement.aig.com,False
 aig,*.corebridgefinancial.com,False
 aig,www.rapidcover.ie,False
+aig,www.layahealthcare.ie,False
 aig,*.myretirementmanager.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
@@ -8242,10 +8241,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9387,8 +9386,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True

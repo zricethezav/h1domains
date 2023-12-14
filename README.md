@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 17:10:57 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 18:12:24 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 pd-api.polkadoc.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 auth.23andme.com
@@ -653,8 +653,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -675,8 +675,8 @@ uc.8x8pilot.com
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -686,7 +686,6 @@ sso.8x8pilot.com
 user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
-admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2609,8 +2608,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
