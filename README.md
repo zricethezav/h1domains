@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 12:12:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 13:11:42 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -13,9 +13,9 @@ store.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
+auth.23andme.com
 blog.23andme.com
 you.23andme.com
-auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -43,8 +43,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
-api.mercadopago.com
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -198,8 +198,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2117,15 +2117,15 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
 www.marriott.com
-dcfgatewaytst1.marriott.com
+gatewaydsaptst2.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
-gatewaydsaptst1.marriott.com
 jobs.marriott.com
+gatewaydsaptst1.marriott.com
+dcfgatewaytst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -2133,11 +2133,11 @@ cpp.marriott.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 homes-and-villas.marriott.com
-gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
 hotel-deals.marriott.com
+gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
