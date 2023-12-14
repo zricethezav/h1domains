@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 08:10:19 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 09:10:38 UTC 2023)
 ```
 research.23andme.com
-mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
-blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -74,9 +74,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
-booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -398,8 +398,8 @@ app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
 m.avtoelon.uz
-kolesa.kz
 id.avtoelon.uz
+kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -542,12 +542,20 @@ ab-platform-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+external.indrive.dev
+auth.indrive.tech
+aws.indrive.tech
+ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+argocd.indrive.dev
+ci.indrive.dev
 *.indriver.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
+auth2.indrive.tech
+debug.clairvoyance.indrive.tech
 wga.volans.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -569,6 +577,14 @@ file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 volans.tech
 wga.volans.tech
+argocd.indrive.dev
+ci.indrive.dev
+external.indrive.dev
+auth.indrive.tech
+auth2.indrive.tech
+aws.indrive.tech
+debug.clairvoyance.indrive.tech
+ingest.clairvoyance.indrive.tech
 web.grindr.com
 *.grindr.io
 *.grindr.mobi
@@ -1660,8 +1676,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2027,8 +2043,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3614,8 +3630,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3755,8 +3771,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
