@@ -69,9 +69,9 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -88,8 +88,8 @@ bookingcom,paynotifications.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -9783,8 +9783,8 @@ grab,*.grab.co,True
 grab,manage.grab.co,True
 grab,p.grabtaxi.com,True
 grab,api.grabpay.com,True
-grab,*.grab.com,True
 grab,*.myteksi.com,True
+grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
@@ -10144,8 +10144,8 @@ gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.org,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10755,8 +10755,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
