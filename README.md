@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 10:10:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 11:09:14 UTC 2023)
 ```
 research.23andme.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
+www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-store.23andme.com
 education.23andme.com
 pd-api.polkadoc.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
-auth.23andme.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -75,8 +75,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -383,8 +383,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -768,9 +768,9 @@ www.mrjet.se
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.hotels.com
-www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
+www.abritel.fr
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -1613,8 +1613,8 @@ api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 accounts.cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -1946,9 +1946,9 @@ portal.polygon.technology
 *.sportinglife.com
 *.skybingo.com
 *.skyvegas.com
-*.skybet.com
 *.betfair.it
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2123,8 +2123,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2166,8 +2166,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2620,9 +2620,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.braintreegateway.com
 paypalobjects.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3771,8 +3771,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
