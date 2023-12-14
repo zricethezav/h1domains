@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 19:10:58 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 20:09:48 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -43,8 +43,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-api.mercadopago.com
 www.mercadolibre.com.ar
+api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -548,9 +548,9 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+*.indriver.com
 argocd.indrive.dev
 ci.indrive.dev
-*.indriver.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -3423,8 +3423,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
