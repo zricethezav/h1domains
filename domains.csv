@@ -7,8 +7,8 @@ handle,domain,eligible_for_bounty
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -70,8 +70,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -88,8 +88,8 @@ bookingcom,paynotifications.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3630,8 +3630,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmed.co.in,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
-resmed,careers.resmed.com,False
 resmed,resmed.com.cn,False
+resmed,careers.resmed.com,False
 resmed,myair.resmed.com,False
 resmed,resmed.hk,False
 resmed,resmed.de,False

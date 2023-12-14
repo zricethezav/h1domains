@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 04:10:14 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 05:09:36 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -12,8 +12,8 @@ pd-api.polkadoc.com
 store.23andme.com
 education.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
-api.23andme.com
 blog.23andme.com
+api.23andme.com
 auth.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -75,8 +75,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -93,8 +93,8 @@ paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
