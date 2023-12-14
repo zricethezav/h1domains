@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
@@ -4849,8 +4849,8 @@ etoro_bbp,charts.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
-etoro_bbp,partners.etoro.com,True
 etoro_bbp,r.etoro.com,True
+etoro_bbp,partners.etoro.com,True
 etoro_bbp,billing-pci.etoro.com,True
 etoro_bbp,candle-src.etoro.com,True
 etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
@@ -6526,8 +6526,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,remix.com,True
 ridewithvia,platform.remix.com,True
+ridewithvia,remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
@@ -8002,8 +8002,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
