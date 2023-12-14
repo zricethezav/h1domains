@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 13:11:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 14:12:02 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -75,8 +75,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -383,8 +383,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -3423,9 +3423,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3674,9 +3674,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 mailpoet.com
-www.tumblr.com
 t.umblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com

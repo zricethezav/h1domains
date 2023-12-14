@@ -76,8 +76,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2671,8 +2671,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -4513,9 +4513,9 @@ mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
 mars,*.mivetshop.com.ar,False
-mars,*.individualis.com,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
+mars,*.individualis.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -10300,9 +10300,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10680,9 +10680,9 @@ automattic,intensedebate.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,mailpoet.com,True
-automattic,www.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,*.tumblr.com,True
+automattic,www.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True

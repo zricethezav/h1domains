@@ -75,8 +75,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2670,8 +2670,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -4512,9 +4512,9 @@ banfield.us
 *.myroyalcanin.gr
 *.royalcanin.be
 *.mivetshop.com.ar
-*.individualis.com
 *.royalcanin.pt
 *.banfield.com
+*.individualis.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -10299,9 +10299,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10679,9 +10679,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 mailpoet.com
-www.tumblr.com
 t.umblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
