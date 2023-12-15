@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 18:10:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 19:08:43 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -1600,6 +1600,14 @@ netlify-rum.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
+*.hey.com
+world.hey.com
+launchpad.37signals.com
+3.basecamp.com
+*.hey.com
+3.basecamp.com
+launchpad.37signals.com
+world.hey.com
 api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
@@ -3888,14 +3896,6 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-*.hey.com
-world.hey.com
-launchpad.37signals.com
-3.basecamp.com
-*.hey.com
-3.basecamp.com
-launchpad.37signals.com
-world.hey.com
 www.aiven.io
 help.aiven.io
 api.aiven.io

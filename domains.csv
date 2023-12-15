@@ -3047,7 +3047,6 @@ abb,*.abb.at,False
 abb,*.pl.abb.com,False
 abb,*.baldor.com,False
 abb,*.abb.com,False
-abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.motors.abb.com,False
@@ -3059,6 +3058,7 @@ abb,*.abb.in,False
 abb,*.abb-drives.com,False
 abb,*.ability.abb,False
 abb,*.abb,False
+abb,*.busch-jaeger.nl,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -7262,6 +7262,14 @@ netlify,netlify-rum.netlify.app,True
 netlify,list-v2--netlify-plugins.netlify.app,True
 netlify,internal-docs.netlify.com,True
 netlify,supportal.netlify.app,True
+basecamp,*.hey.com,True
+basecamp,world.hey.com,True
+basecamp,launchpad.37signals.com,True
+basecamp,3.basecamp.com,True
+basecamp,*.hey.com,True
+basecamp,3.basecamp.com,True
+basecamp,launchpad.37signals.com,True
+basecamp,world.hey.com,True
 citrix,*developer.cloud.com,False
 citrix,api.sharefile.com,True
 citrix,sf-rp-eu.sharefile.com,True
@@ -10998,14 +11006,6 @@ jimdo,logo.e.jimdo.com,False
 jimdo,help.jimdo.com,False
 jimdo,jimdo.design,False
 jimdo,storage.jimdosite.com,False
-basecamp,*.hey.com,True
-basecamp,world.hey.com,True
-basecamp,launchpad.37signals.com,True
-basecamp,3.basecamp.com,True
-basecamp,*.hey.com,True
-basecamp,3.basecamp.com,True
-basecamp,launchpad.37signals.com,True
-basecamp,world.hey.com,True
 aiven_ltd,www.aiven.io,True
 aiven_ltd,help.aiven.io,True
 aiven_ltd,api.aiven.io,True
