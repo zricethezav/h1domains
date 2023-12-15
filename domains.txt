@@ -3677,7 +3677,7 @@ sigmacare.com
 soneto.net
 careanyware.com
 app.citushealth.ca
-brightree.net/
+resmed.com
 resmed.com
 resupply.resmed.com
 myair.resmed.com
@@ -6516,8 +6516,8 @@ oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com

@@ -3678,7 +3678,7 @@ resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
 resmed,app.citushealth.ca,False
-resmed,brightree.net/,False
+resmed,resmed.com,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -6517,8 +6517,8 @@ reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,www.reddit.com,True
 reddit,*.reddithelp.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
