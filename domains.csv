@@ -10,8 +10,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,education.23andme.com,True
+23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -76,8 +76,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -94,8 +94,8 @@ bookingcom,autocomplete.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -5054,7 +5054,6 @@ mondelez,giveasmile.belvitasnacks.com,False
 mondelez,winter.lu.be,False
 mondelez,favourites.milka.de,False
 mondelez,nabiscoseasonofgiving.com,False
-mondelez,mueller.milka.de,False
 mondelez,weihnachten.milka.de,False
 mondelez,cadburygift.com,False
 mondelez,epack.mondelezinternational.com,False
@@ -5068,6 +5067,7 @@ mondelez,marabouchokladhus.se,False
 mondelez,nabiscoholiday.com,False
 mondelez,fattorieosella.it,False
 mondelez,milka.bg,False
+mondelez,milka.cz,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -6362,9 +6362,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6507,8 +6507,8 @@ reddit,sh.reddit.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -8068,8 +8068,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -10289,10 +10289,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
