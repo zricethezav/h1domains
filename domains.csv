@@ -6,8 +6,8 @@ egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
-23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,education.23andme.com,True
@@ -34,8 +34,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
@@ -1737,8 +1737,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -2961,8 +2961,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,ci.indrive.dev,True
 indrive,argocd.indrive.dev,True
+indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
