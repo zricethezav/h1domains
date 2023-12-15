@@ -1078,8 +1078,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2949,9 +2949,9 @@ fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
-indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -2961,8 +2961,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,argocd.indrive.dev,True
 indrive,ci.indrive.dev,True
+indrive,argocd.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
@@ -8244,9 +8244,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
-8x8,*.8x8.com,False
 8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,*.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
