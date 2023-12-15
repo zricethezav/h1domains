@@ -3541,8 +3541,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,*.magiceden.io,True
 magic-eden,eng.magiceden.dev,False
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -4658,8 +4658,8 @@ n45ht,wiki.1337.or.id,False
 windstream,we.windstream.com,False
 windstream,*broadviewnet.com,False
 windstream,paetec.net,False
-windstream,*.windstreamsmallbusiness.com,False
 windstream,www.windstream.com,False
+windstream,*.windstreamsmallbusiness.com,False
 windstream,*.windstreamsmallbusiness.com,False
 windstream,*broadviewnet.com,False
 windstream,https://www.windstream.com/gokinetic,False
@@ -7337,8 +7337,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10300,8 +10300,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
