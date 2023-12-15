@@ -6,8 +6,8 @@ switch.vdp-egress.com
 www.egress.com
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -3284,10 +3284,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-connect.8x8.com
 *.jitsi.net
 sso.8x8.com
 *.8x8.vc
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -8234,10 +8234,10 @@ kubernetes-csi.github.io
 get8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
-connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
 admin.8x8.com
+connect.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -10538,8 +10538,8 @@ next.airbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
 *.muscache.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -10769,8 +10769,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
