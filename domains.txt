@@ -6356,12 +6356,12 @@ brand.zebra.com
 creative.zebra.com
 greece.zebra.com
 zsbsupport.zebra.com
-*.zebrasports.com
 *.zams-eu.zebra.com
 downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
 zebratradeinprogram.com
@@ -9370,8 +9370,8 @@ swiftfinancial.com
 *.paylution.com
 py.pl
 *.braintreepayments.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -9391,9 +9391,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

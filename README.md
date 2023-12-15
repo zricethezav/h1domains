@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 20:09:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 21:08:53 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -2591,8 +2591,8 @@ swiftfinancial.com
 *.paylution.com
 py.pl
 *.braintreepayments.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2612,9 +2612,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
