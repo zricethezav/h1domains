@@ -7,8 +7,8 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,www.lemonaidhealth.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
@@ -10096,8 +10096,8 @@ nextcloud,newsletter.nextcloud.com,False
 pornhub,*.tube8.com,True
 pornhub,www.thumbzilla.com,True
 pornhub,www.modelhub.com,True
-pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
+pornhub,www.redtube.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True

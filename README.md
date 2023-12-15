@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 11:09:20 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 12:12:22 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-clinic.lemonaidhealth.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -3219,8 +3219,8 @@ getharvest.com
 *.tube8.com
 www.thumbzilla.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
