@@ -6,9 +6,9 @@ egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
@@ -132,8 +132,8 @@ bybit_fintech,*.bybit.com,True
 bybit_fintech,*.bybit.com,True
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-navient_solutions,www.pamcollections.com,False
 navient_solutions,admin.msbnexus.navient.com,False
+navient_solutions,www.pamcollections.com,False
 navient_solutions,sandiegoadmin.dsmyportal.com,False
 navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.msbpay.com,False
@@ -2961,8 +2961,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,argocd.indrive.dev,True
 indrive,ci.indrive.dev,True
+indrive,argocd.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
@@ -3191,8 +3191,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -4444,6 +4444,8 @@ fossil,fossil-staging2.cloud.akeneo.com,False
 fossil,fossil.cloud.akeneo.com,False
 fossil,http://www.findemand.in/dmdprod/,False
 fossil,https://smartstore.naver.com/fossilkorea,False
+fossil,fgemp.fnfsale.in,False
+fossil,fossil.fnfsale.in,False
 mount-sinai-health,*.healthandhealingny.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
@@ -8066,8 +8068,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True

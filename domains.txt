@@ -5,9 +5,9 @@ reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
 research.23andme.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -131,8 +131,8 @@ http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 myaccount.navirefi.com
 wsmb2bresv.navient.com
-www.pamcollections.com
 admin.msbnexus.navient.com
+www.pamcollections.com
 sandiegoadmin.dsmyportal.com
 payments.msbpay.navient.com
 www.msbpay.com
@@ -2960,8 +2960,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -3190,8 +3190,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4443,6 +4443,8 @@ fossil-staging2.cloud.akeneo.com
 fossil.cloud.akeneo.com
 http://www.findemand.in/dmdprod/
 https://smartstore.naver.com/fossilkorea
+fgemp.fnfsale.in
+fossil.fnfsale.in
 *.healthandhealingny.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
@@ -8065,8 +8067,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
