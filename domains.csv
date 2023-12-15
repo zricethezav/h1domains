@@ -9,9 +9,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
-23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
+23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -1592,8 +1592,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -1737,8 +1737,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -2961,8 +2961,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,ci.indrive.dev,True
 indrive,argocd.indrive.dev,True
+indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
@@ -10492,8 +10492,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
