@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 00:22:39 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 01:33:34 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 education.23andme.com
-store.23andme.com
 pd-api.polkadoc.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3455,11 +3455,11 @@ map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
-playcanvas.com
 my.snapchat.com
 business.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
