@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 17:08:36 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 18:08:56 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -10,8 +10,8 @@ education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -229,8 +229,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -1877,10 +1877,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 direct.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -2034,8 +2034,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

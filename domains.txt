@@ -10,8 +10,8 @@ education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1583,8 +1583,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -4939,8 +4939,8 @@ www.alohi.com
 *.corcoran.*
 *.realogy.*
 *.mycbdesk.com
-*.cbcworldwide.*
 *.coldwellbanker.*
+*.cbcworldwide.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -6318,8 +6318,8 @@ mobile-auth.aktia.fi
 *.aktiawallet.fi
 investors.aktia.com
 impakti.fi
-*.aktia.fi
 www.aktiawallet.fi
+*.aktia.fi
 varainhoito.aktia.fi
 aktiawallet.fi
 store.aktiawallet.fi
@@ -7673,10 +7673,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 direct.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -7868,8 +7868,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
