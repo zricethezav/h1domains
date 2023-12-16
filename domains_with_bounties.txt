@@ -2815,8 +2815,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3608,9 +3608,9 @@ simperium.com
 simplenote.com
 gravatar.com
 assets.tumblr.com
-api.tumblr.com
 intensedebate.com
 wordpress.com
+api.tumblr.com
 safe.tumblr.com
 mailpoet.com
 t.umblr.com
