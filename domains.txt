@@ -2674,8 +2674,8 @@ app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -6211,8 +6211,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev

@@ -381,8 +381,8 @@ app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -1380,8 +1380,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
