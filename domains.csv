@@ -5,8 +5,8 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -5392,8 +5392,8 @@ tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
-tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvars.com,False
+tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,*.mytva.com,False
@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9443,8 +9443,8 @@ mariadb,mariadb.org,False
 mariadb,mariadb.org,False
 airtable,*.staging.airtable.com,True
 airtable,staging.airtable.com,True
-airtable,api-staging.airtable.com,True
 airtable,*.staging-airtableblocks.com,True
+airtable,api-staging.airtable.com,True
 airtable,*.staging-airtableblocks.com,True
 airtable,*.staging.airtable.com,True
 airtable,staging.airtable.com,True
@@ -9483,10 +9483,10 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.unitedcp.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.unitedcp.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10281,10 +10281,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True

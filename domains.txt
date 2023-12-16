@@ -4,8 +4,8 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
@@ -5391,8 +5391,8 @@ tvarenewables.com
 *.tvaenergyrightsolutions.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
-*.tva.com
 tvars.com
+*.tva.com
 tvawcm.com
 *.tva.gov
 *.mytva.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9442,8 +9442,8 @@ mariadb.org
 mariadb.org
 *.staging.airtable.com
 staging.airtable.com
-api-staging.airtable.com
 *.staging-airtableblocks.com
+api-staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -9482,10 +9482,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.unitedcp.com
 *.ayco.com
 *.foliofn.com
 *.goldman.com
+*.unitedcp.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -10280,10 +10280,10 @@ rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

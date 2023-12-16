@@ -1,5 +1,5 @@
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
@@ -2653,8 +2653,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging.airtable.com
 staging.airtable.com
-api-staging.airtable.com
 *.staging-airtableblocks.com
+api-staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -2691,10 +2691,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.unitedcp.com
 *.ayco.com
 *.foliofn.com
 *.goldman.com
+*.unitedcp.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3396,10 +3396,10 @@ rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
