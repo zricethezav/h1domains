@@ -6,12 +6,8 @@ switch.vdp-egress.com
 www.egress.com
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
-clinic.lemonaidhealth.com
 store.23andme.com
 education.23andme.com
-pd-api.polkadoc.com
-sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
 you.23andme.com
@@ -27,10 +23,6 @@ medical.23andme.com
 store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
-clinic.lemonaidhealth.com
-www.lemonaidhealth.com
-sapi-live.lh.us-west-2.prd.23andme.us
-pd-api.polkadoc.com
 research.23andme.com
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1221,10 +1213,10 @@ shayakahve.com.tr
 *.mothercare.com.eg
 *.americaneagle.com.kw
 *.alshayaenterprises.com
-*.starbuckscardtr.com
 card.starbucks.com.kz
 *.victoriassecret.com.qa
 *.footlocker.com.eg
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2960,8 +2952,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -6361,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10730,9 +10722,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

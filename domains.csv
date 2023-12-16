@@ -7,12 +7,8 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
-23andme_bbp,pd-api.polkadoc.com,True
-23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
@@ -28,10 +24,6 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
-23andme_bbp,www.lemonaidhealth.com,True
-23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
-23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadopago.cl,True
@@ -1222,10 +1214,10 @@ alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.alshayaenterprises.com,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.footlocker.com.eg,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2961,8 +2953,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,ci.indrive.dev,True
 indrive,argocd.indrive.dev,True
+indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
@@ -6362,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -10731,9 +10723,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

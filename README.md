@@ -2,16 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 23:08:33 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 00:20:17 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
-clinic.lemonaidhealth.com
 store.23andme.com
 education.23andme.com
-pd-api.polkadoc.com
-sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
 you.23andme.com
@@ -27,10 +23,6 @@ medical.23andme.com
 store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
-clinic.lemonaidhealth.com
-www.lemonaidhealth.com
-sapi-live.lh.us-west-2.prd.23andme.us
-pd-api.polkadoc.com
 research.23andme.com
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -549,8 +541,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -3723,9 +3715,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
