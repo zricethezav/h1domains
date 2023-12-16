@@ -1549,8 +1549,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -4938,9 +4938,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.corcoran.*
 *.realogy.*
-*.coldwellbanker.*
 *.mycbdesk.com
 *.cbcworldwide.*
+*.coldwellbanker.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -8029,8 +8029,8 @@ homes-and-villas.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 gatewaydsapdev2.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -10736,8 +10736,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
