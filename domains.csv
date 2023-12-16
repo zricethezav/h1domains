@@ -11,8 +11,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -6257,8 +6257,8 @@ cedars-sinai,*legacy.huntingtonhospital.org,False
 cedars-sinai,*Hmhdr.net,False
 cedars-sinai,*Hmhdr.org,False
 cedars-sinai,*Huntingtonhealthnetwork.org,False
-cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*cedars-sinai.edu,False
+cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*www.cshs.org,False
 cedars-sinai,*csmc.edu,False
@@ -8013,8 +8013,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
-marriott,www.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
+marriott,www.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
@@ -10736,9 +10736,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
