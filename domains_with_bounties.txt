@@ -4,8 +4,8 @@ education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3356,8 +3356,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
