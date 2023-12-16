@@ -1151,8 +1151,8 @@ https://simple-life-app.com/
 *.gocardless.io
 *.gocardless-banking.io
 connect-sandbox.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
@@ -2952,8 +2952,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -9483,9 +9483,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.unitedcp.com
-*.goldman.com
 *.ayco.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com

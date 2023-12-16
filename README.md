@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 03:09:50 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 04:10:29 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -183,8 +183,8 @@ https://simple-life-app.com/
 *.gocardless.io
 *.gocardless-banking.io
 connect-sandbox.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -541,8 +541,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -2698,9 +2698,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.unitedcp.com
-*.goldman.com
 *.ayco.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
