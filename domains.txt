@@ -10,8 +10,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2952,8 +2952,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -5788,7 +5788,6 @@ powerplan.deere.com
 crm.surefireag.com
 support.surefireag.com
 toolbox.surefireag.com
-core.surepointag.com
 enterpriseenrollment.surepointag.com
 site.marksman.surepointag.com
 staging.marksman.surepointag.com
@@ -5816,6 +5815,7 @@ citratest.deere.com
 ims.tcms.tal.deere.com
 parts.deere.africa
 marksman.surepointag.com
+johndeereinnovation.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -10723,8 +10723,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
