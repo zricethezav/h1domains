@@ -5782,7 +5782,6 @@ johndeeretours.deere.com
 shop.deere.com
 connections.deere.com
 machinereports.deere.com
-notifications.deere.com
 registration.deere.com
 powerplan.deere.com
 crm.surefireag.com
@@ -5816,6 +5815,7 @@ ims.tcms.tal.deere.com
 parts.deere.africa
 marksman.surepointag.com
 johndeereinnovation.com
+parts.waratah.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -6485,9 +6485,9 @@ www.woolshed.com
 api.reddit.com
 app.spiketrap.io
 gql.reddit.com
-old.reddit.com
 *.redditmedia.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com

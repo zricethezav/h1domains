@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 22:09:20 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 23:09:09 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -1393,9 +1393,9 @@ www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 gql.reddit.com
-old.reddit.com
 *.redditmedia.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com

@@ -1387,9 +1387,9 @@ www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 gql.reddit.com
-old.reddit.com
 *.redditmedia.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com

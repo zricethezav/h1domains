@@ -5783,7 +5783,6 @@ john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,connections.deere.com,False
 john-deere,machinereports.deere.com,False
-john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,powerplan.deere.com,False
 john-deere,crm.surefireag.com,False
@@ -5817,6 +5816,7 @@ john-deere,ims.tcms.tal.deere.com,False
 john-deere,parts.deere.africa,False
 john-deere,marksman.surepointag.com,False
 john-deere,johndeereinnovation.com,False
+john-deere,parts.waratah.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6486,9 +6486,9 @@ drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
-reddit,old.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,ads.reddit.com,True
+reddit,old.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
