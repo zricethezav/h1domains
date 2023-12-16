@@ -35,8 +35,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -8022,9 +8022,9 @@ gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
-cpp.marriott.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -8887,7 +8887,6 @@ JOBALINE.COM
 *equifax.es
 *.dicom.cl
 *.i2verify.com
-*.wageverify.com
 *.accountscore.co.uk
 *.healthefxforms.us
 mail.ext-equifax.cl
@@ -8904,6 +8903,7 @@ efficientwotc.com
 ntcusa.com
 *.datacredito2.com
 *.datacredito3.com
+*.acertandosuascontas.com.br
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10577,8 +10577,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
