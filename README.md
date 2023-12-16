@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 08:08:47 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 09:10:18 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 api.23andme.com
 blog.23andme.com
 you.23andme.com
@@ -3276,8 +3276,8 @@ advisories.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
