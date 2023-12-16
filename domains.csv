@@ -1070,8 +1070,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3806,8 +3806,8 @@ poloniex,api.poloniex.com,True
 poloniex,m.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
-amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,blueprints.amazon.com,True
+amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
 amazonvrp-devices,alexa.amazon.com,True
@@ -8026,12 +8026,12 @@ marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,homes-and-villas.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,hotel-deals.marriott.com,True
+marriott,homes-and-villas.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -10489,10 +10489,10 @@ airbnb,one.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True

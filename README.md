@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 18:08:56 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 19:09:21 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -133,8 +133,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -864,8 +864,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-a4k.amazon.com
 blueprints.amazon.com
+a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 alexa.amazon.com
@@ -2123,12 +2123,12 @@ www.ritzcarlton.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 cpp.marriott.com
-homes-and-villas.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3491,10 +3491,10 @@ one.airbnb.com
 next.airbnb.com
 *.withairbnb.com
 *.byairbnb.com
-*.hoteltonight-test.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 assets.airbnb.com
 open.airbnb.com
