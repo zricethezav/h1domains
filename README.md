@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 11:09:18 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 12:11:26 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -85,8 +85,8 @@ autocomplete.booking.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1006,7 +1006,6 @@ tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
 etoropartners.com
-api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -1014,6 +1013,7 @@ kyc.etoro.com
 streams.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
+api.etoro.com
 push-d-gw.cloud.etoro.com
 rankings.etoro.com
 candle.etoro.com
@@ -1709,8 +1709,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2026,8 +2026,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
