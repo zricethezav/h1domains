@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 05:09:32 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 06:10:20 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 you.23andme.com
 auth.23andme.com
 api.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2697,10 +2697,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
 *.goldman.com
 *.unitedcp.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
