@@ -4,8 +4,8 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
