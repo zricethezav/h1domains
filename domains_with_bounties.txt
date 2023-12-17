@@ -753,9 +753,9 @@ www.mrjet.se
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.hotels.com
-www.expediagroup.com
 www.orbitz.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
