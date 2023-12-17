@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 22:08:19 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 23:09:38 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -67,8 +67,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -541,8 +541,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 auth2.indrive.tech
@@ -808,8 +808,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
