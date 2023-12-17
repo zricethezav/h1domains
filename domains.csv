@@ -1584,8 +1584,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -3282,13 +3282,13 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
-8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.8x8.id,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -6117,8 +6117,8 @@ stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,api.taxjar.com,True
-stripe,api.stripe.com,True
 stripe,*.getbouncer.com,True
+stripe,api.stripe.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -8024,8 +8024,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
@@ -8249,7 +8249,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8pilot.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
-8x8,*.chalet.8x8.com,False
 8x8,work.8x8.com,False
 8x8,8x8.force.com,False
 8x8,*.jitsi.org,False
@@ -8259,6 +8258,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.jitsi.net,False
 8x8,*.8x8.id,False
 8x8,sso.8x8.com,False
+8x8,*.chalet.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10492,8 +10492,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True

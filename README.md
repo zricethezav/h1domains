@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 10:09:10 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 11:09:18 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -229,8 +229,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -662,13 +662,13 @@ sso.8x8.com
 *.8x8.vc
 connect.8x8.com
 work-staging.8x8.com
-*.chalet.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
 cloud8.8x8.com
+*.chalet.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1371,8 +1371,8 @@ js.stripe.com
 app.taxjar.com
 *.reckostaging.com
 api.taxjar.com
-api.stripe.com
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -2121,8 +2121,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 cpp.marriott.com
-all-inclusive.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
@@ -3494,8 +3494,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
