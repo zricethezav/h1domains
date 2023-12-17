@@ -9,10 +9,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -10375,9 +10375,9 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,exchange.adobe.com,False
-adobe,*.adobeaemcloud.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
+adobe,*.adobeaemcloud.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
