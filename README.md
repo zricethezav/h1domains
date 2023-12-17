@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 16:09:17 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 17:10:28 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 you.23andme.com
-auth.23andme.com
 api.23andme.com
 blog.23andme.com
-therapeutics.23andme.com
+auth.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -221,8 +221,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 testapi.redoxengine.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -3337,8 +3337,8 @@ secure-dfadmin.deriv.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
@@ -3494,8 +3494,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

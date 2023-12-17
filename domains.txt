@@ -9,11 +9,11 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 you.23andme.com
-auth.23andme.com
 api.23andme.com
 blog.23andme.com
-therapeutics.23andme.com
+auth.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1575,8 +1575,8 @@ https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptser
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 testapi.redoxengine.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10215,8 +10215,8 @@ www.coursera.org
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
@@ -10491,8 +10491,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
