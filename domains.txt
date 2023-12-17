@@ -3429,8 +3429,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.carrentals.com
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -3530,8 +3530,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-*.magiceden.io
 eng.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.dev
 magiceden.io
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6540,8 +6540,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-platform.remix.com
 remix.com
+platform.remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com

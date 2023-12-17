@@ -3430,8 +3430,8 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
@@ -3531,8 +3531,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,*.magiceden.io,True
 magic-eden,eng.magiceden.dev,False
+magic-eden,*.magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6541,8 +6541,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,platform.remix.com,True
 ridewithvia,remix.com,True
+ridewithvia,platform.remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
