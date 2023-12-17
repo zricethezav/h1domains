@@ -1061,8 +1061,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2677,8 +2677,8 @@ app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
 m.avtoelon.uz
-kolesa.kz
 id.avtoelon.uz
+kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
