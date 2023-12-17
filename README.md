@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 19:09:54 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 20:08:39 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -544,10 +544,10 @@ profile-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 watchdocs.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
+*.indriverapp.com
 wga.volans.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -667,8 +667,8 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
-cloud8.8x8.com
 *.chalet.8x8.com
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -3575,8 +3575,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com

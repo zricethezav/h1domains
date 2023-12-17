@@ -2955,10 +2955,10 @@ profile-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 watchdocs.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
+*.indriverapp.com
 wga.volans.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -3286,8 +3286,8 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
-cloud8.8x8.com
 *.chalet.8x8.com
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10376,8 +10376,8 @@ repo.magento.com
 magento.com
 exchange.adobe.com
 auth.services.adobe.com
-*.adobe.com
 *.adobeaemcloud.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10578,8 +10578,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
