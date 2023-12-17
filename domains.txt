@@ -2941,8 +2941,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 cargo.indrive.com
-*.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -3057,8 +3057,8 @@ abb.com.br
 *.abb.ca
 *.abb.net
 *.abb.pl
-*.busch-jaeger.de
 *.ch.abb.com
+*.busch-jaeger.de
 *.abb.com
 *.abb
 *.tnb.com
@@ -6211,8 +6211,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10240,8 +10240,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
