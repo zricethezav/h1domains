@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9890,11 +9890,11 @@ codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
 mercantile.wordpress.org
+doaction.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org

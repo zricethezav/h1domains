@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 14:08:26 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 15:08:39 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -3068,11 +3068,11 @@ codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
 mercantile.wordpress.org
+doaction.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org

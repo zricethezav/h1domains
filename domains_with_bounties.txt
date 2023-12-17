@@ -3062,11 +3062,11 @@ codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
 mercantile.wordpress.org
+doaction.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org

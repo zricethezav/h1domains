@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9891,11 +9891,11 @@ wordpress,codex.wordpress.org,True
 wordpress,codex.bbpress.org,True
 wordpress,codex.buddypress.org,True
 wordpress,mercantile.wordpress.org,True
+wordpress,doaction.org,True
 wordpress,*.trac.wordpress.org,True
 wordpress, *.svn.wordpress.org,True
 wordpress, *.git.wordpress.org,True
 wordpress, github.com/WordPress,True
-wordpress,doaction.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True
