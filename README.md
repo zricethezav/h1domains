@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 06:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 07:10:21 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -770,10 +770,10 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
 www.travelocity.ca
-www.fewo-direkt.de
 www.carrentals.com
 www.bookabach.co.nz
 www.expedia.com
+www.fewo-direkt.de
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au

@@ -2896,8 +2896,8 @@ apnic,*.isif.asia,False
 apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
-apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
+apnic,*.apnic.net,False
 apnic,*.apidt.org,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
@@ -3428,10 +3428,10 @@ expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.travelocity.ca,True
-expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
