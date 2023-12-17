@@ -1584,8 +1584,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -6487,8 +6487,8 @@ reddit,api.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7374,9 +7374,9 @@ logitech,*.logitechmusic.com,False
 logitech,*.melonapp.com,False
 logitech,*.lucra.live,False
 logitech,www.logitechclub.com,False
-logitech,sync.logitech.com,True
 logitech,feedback.logitech.com,False
 logitech,external.logitech.com,False
+logitech,sync.logitech.com,True
 logitech,partner.logitech.com,False
 logitech,maintenance.logitech.com,False
 logitech,*vc.logitech.com,True
@@ -10492,8 +10492,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
