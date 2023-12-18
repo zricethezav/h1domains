@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7141,8 +7141,8 @@ lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
-lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
+lark_technologies,internal-api.larksuite.com,True
 lark_technologies,api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7456,9 +7456,9 @@ figma,api.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
-cs_money,support.cs.money,True
 cs_money,3d.cs.money,True
 cs_money,cs.money,True
+cs_money,support.cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -10623,8 +10623,8 @@ automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,assets.tumblr.com,True
 automattic,intensedebate.com,True
-automattic,wordpress.com,True
 automattic,api.tumblr.com,True
+automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,mailpoet.com,True
 automattic,t.umblr.com,True
