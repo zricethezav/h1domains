@@ -1522,8 +1522,8 @@ stats-trafficcop-prod.nba.com
 content-api-prod.nba.com
 identity.nba.com
 teamportal.nba.com
-2kleague.nba.com
 gleague.nba.com
+2kleague.nba.com
 core-api.nba.com
 wnba.com
 nba.com
@@ -1549,8 +1549,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -5493,8 +5493,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 *.wilmingtontrust.com
-*.mtb.com
 *.leafnow.com
+*.mtb.com
 *.trustnota.com
 *.mtb.com
 *.wilmingtontrust.com
@@ -6354,8 +6354,8 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 reflexisinc.com/
+*.zebrasports.com
 *.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -6500,8 +6500,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -9922,9 +9922,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
