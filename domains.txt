@@ -67,8 +67,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3057,8 +3057,8 @@ abb.com.br
 *.abb.ca
 *.abb.net
 *.abb.pl
-*.ch.abb.com
 *.busch-jaeger.de
+*.ch.abb.com
 *.abb.com
 *.abb
 *.tnb.com

@@ -68,8 +68,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3058,8 +3058,8 @@ abb,*.abb.de,False
 abb,*.abb.ca,False
 abb,*.abb.net,False
 abb,*.abb.pl,False
-abb,*.ch.abb.com,False
 abb,*.busch-jaeger.de,False
+abb,*.ch.abb.com,False
 abb,*.abb.com,False
 abb,*.abb,False
 abb,*.tnb.com,False
