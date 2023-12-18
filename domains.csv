@@ -13,8 +13,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -1215,9 +1215,9 @@ alshaya,*.mothercare.com.eg,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -7336,8 +7336,8 @@ tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7863,8 +7863,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
