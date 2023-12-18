@@ -10,8 +10,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -78,10 +78,10 @@ taxis.booking.com
 *.rentalcars.com
 taxi.booking.com
 secure-supply-xml.booking.com
-widget.rentalcars.com
 paymentcomponent.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
+widget.rentalcars.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
@@ -3392,8 +3392,8 @@ share.doppler.com
 *.otherside.xyz
 *.mdvmm.xyz
 *.yuga.com
-*.10ktf.com
 *.meebits.app
+*.10ktf.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
