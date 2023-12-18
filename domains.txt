@@ -12,8 +12,8 @@ api.23andme.com
 blog.23andme.com
 you.23andme.com
 auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -65,10 +65,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-supply-xml.booking.com
 admin.booking.com
 booking.com
 *.booking.com
+supply-xml.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1061,8 +1061,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1549,8 +1549,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -2659,8 +2659,8 @@ biology-browser.com
 biologybrowser.com
 biologybrowser.org
 biologyfinder.com
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
@@ -3593,8 +3593,8 @@ www.divvyhomes.com
 *.avalara.io
 *.davosalestax.com
 *.track1099.com
-*.ttrus.com
 *.avalara.net
+*.ttrus.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -6499,8 +6499,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -8676,8 +8676,8 @@ app.nordpass.com
 *.pubg.com
 *.pubg.com
 *.pubgesports.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -9583,9 +9583,9 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-app.mona.co
 js.crypto.com
 pay.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
