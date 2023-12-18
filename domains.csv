@@ -7,8 +7,8 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -5653,8 +5653,8 @@ gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
-gsa_bbp,*.login.gov,True
 gsa_bbp,inventory.data.gov,True
+gsa_bbp,*.login.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9977,9 +9977,9 @@ starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com.sg,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,secureui.starbucks.com,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
