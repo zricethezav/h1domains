@@ -10,9 +10,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3058,8 +3058,8 @@ abb,*.abb.de,False
 abb,*.abb.ca,False
 abb,*.abb.net,False
 abb,*.abb.pl,False
-abb,*.busch-jaeger.de,False
 abb,*.ch.abb.com,False
+abb,*.busch-jaeger.de,False
 abb,*.abb.com,False
 abb,*.abb,False
 abb,*.tnb.com,False
@@ -3533,8 +3533,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
+magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -3594,8 +3594,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.davosalestax.com,False
 avalara,*.track1099.com,False
-avalara,*.avalara.net,False
 avalara,*.ttrus.com,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -7331,9 +7331,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7676,9 +7676,9 @@ playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True
@@ -8677,8 +8677,8 @@ pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line-apps.com,True
 line,*.line.me,True
+line,*.line-apps.com,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True

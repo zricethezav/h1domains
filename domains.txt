@@ -9,9 +9,9 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3057,8 +3057,8 @@ abb.com.br
 *.abb.ca
 *.abb.net
 *.abb.pl
-*.busch-jaeger.de
 *.ch.abb.com
+*.busch-jaeger.de
 *.abb.com
 *.abb
 *.tnb.com
@@ -3532,8 +3532,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -3593,8 +3593,8 @@ www.divvyhomes.com
 *.avalara.io
 *.davosalestax.com
 *.track1099.com
-*.avalara.net
 *.ttrus.com
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -7330,9 +7330,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -7675,9 +7675,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 *.api.playstation.com
-direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -8676,8 +8676,8 @@ app.nordpass.com
 *.pubg.com
 *.pubg.com
 *.pubgesports.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
