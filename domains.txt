@@ -3277,9 +3277,9 @@ kinfra.com
 ksam.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 *.8x8.vc
 connect.8x8.com
+sso.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -8257,8 +8257,8 @@ www.8x8.com
 pay.8x8.com
 *.jitsi.net
 *.8x8.id
-sso.8x8.com
 *.chalet.8x8.com
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com

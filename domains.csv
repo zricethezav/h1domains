@@ -3278,9 +3278,9 @@ kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -8258,8 +8258,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
 8x8,*.8x8.id,False
-8x8,sso.8x8.com,False
 8x8,*.chalet.8x8.com,False
+8x8,sso.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
