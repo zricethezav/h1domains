@@ -3287,8 +3287,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.8x8.id,True
-8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
