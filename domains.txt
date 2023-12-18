@@ -1575,8 +1575,8 @@ https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptser
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
-testapi.redoxengine.com
 www.redoxengine.com
+testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -7354,7 +7354,6 @@ www.pangleglobal.com
 *.lukwerks.com
 buy.logitech.com
 outage.logitech.com
-www.logitech.com.cn
 www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
@@ -7362,6 +7361,7 @@ alert.logitech.com
 *.myharmony.com
 www.logitechg.com
 *.logitech.com
+www.logitech.com.cn
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -7869,8 +7869,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8236,9 +8236,9 @@ get8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
 *.8x8cloud.net
-admin.8x8.com
 connect.8x8.com
 *.8x8.com
+admin.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -10247,8 +10247,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10735,9 +10735,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net

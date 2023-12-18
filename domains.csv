@@ -1576,8 +1576,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
-redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
+redox_bbp,testapi.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -7355,7 +7355,6 @@ logitech,*.ultimateearsuniversity.com,False
 logitech,*.lukwerks.com,False
 logitech,buy.logitech.com,False
 logitech,outage.logitech.com,False
-logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,alert.logitech.com,False
 logitech,*.crossclip.com,False
@@ -7363,6 +7362,7 @@ logitech,*.logi.com,False
 logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,*.logitech.com,False
+logitech,www.logitech.com.cn,True
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -7870,8 +7870,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8237,9 +8237,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -10248,8 +10248,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10736,9 +10736,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
