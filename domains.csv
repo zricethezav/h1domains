@@ -9,10 +9,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4532,7 +4532,6 @@ mars,banfieldfoundation.org,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
 mars,*.pedigree.com,False
-mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
@@ -4544,6 +4543,7 @@ mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
 mars,*.bluepearlvet.com,False
+mars,*.plataformaurinary.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -10090,8 +10090,8 @@ nextcloud,newsletter.nextcloud.com,False
 pornhub,*.tube8.com,True
 pornhub,www.thumbzilla.com,True
 pornhub,www.modelhub.com,True
-pornhub,www.pornhub.com,True
 pornhub,www.redtube.com,True
+pornhub,www.pornhub.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
