@@ -85,8 +85,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -10368,7 +10368,6 @@ licenses.adobe.com
 mobilemarketing.adobe.com
 theblog.adobe.com
 accounts.frame.io
-app.frame.io
 stream.frame.io
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
@@ -10378,6 +10377,7 @@ exchange.adobe.com
 auth.services.adobe.com
 *.adobeaemcloud.com
 *.adobe.com
+app.frame.io
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
