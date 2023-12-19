@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 15:12:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 16:13:35 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
+auth.23andme.com
 blog.23andme.com
 you.23andme.com
-auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2593,8 +2593,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -2718,10 +2718,10 @@ research.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 marquee.gs.com
-*.gs.com
 *.folioclient.com
 *.gsam.com
 *.folioinstitutional.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
