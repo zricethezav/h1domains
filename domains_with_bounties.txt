@@ -3,9 +3,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
 blog.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -223,8 +223,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -277,7 +277,6 @@ www.visa.com.cy
 www.visa.com.ge
 www.visa.com.hr
 www.visa.com.ms
-www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
@@ -287,6 +286,7 @@ visa.com.ru
 bb.visa.com
 visa.com.jm
 www.visa.co.in
+www.visa.com.sg
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
@@ -2151,8 +2151,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2587,8 +2587,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3568,8 +3568,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3722,8 +3722,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
