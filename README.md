@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 20:09:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 21:08:54 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -67,8 +67,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -133,8 +133,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -394,8 +394,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -776,10 +776,10 @@ www.expedia.com
 www.fewo-direkt.de
 www.ebookers.fi
 www.stayz.com.au
-www.wotif.com
 www.hotwire.com
 www.expediacruises.com
 www.expediapartnercentral.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1157,8 +1157,8 @@ fortnite.com
 fallguys.com
 *.unrealtournament.com
 *.jellychat.com
-capturingreality.com
 *.popjam.com
+capturingreality.com
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -1386,8 +1386,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com

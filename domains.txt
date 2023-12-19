@@ -67,8 +67,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1070,8 +1070,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2682,8 +2682,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -3434,10 +3434,10 @@ www.expedia.com
 www.fewo-direkt.de
 www.ebookers.fi
 www.stayz.com.au
-www.wotif.com
 www.hotwire.com
 www.expediacruises.com
 www.expediapartnercentral.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -5522,8 +5522,8 @@ fortnite.com
 fallguys.com
 *.unrealtournament.com
 *.jellychat.com
-capturingreality.com
 *.popjam.com
+capturingreality.com
 *.3lateral.com
 forum.sketchfab.com
 *.hmxwebservices.com
@@ -6214,8 +6214,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -8739,8 +8739,8 @@ app.overloop.com
 *.worklytics.co
 *.worklytics.co
 bigbiller.topechelon.com
-www.topechelon.com
 bb3api.topechelon.com
+www.topechelon.com
 www.topechelon.com
 bigbiller.topechelon.com
 bb3api.topechelon.com

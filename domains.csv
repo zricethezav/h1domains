@@ -68,8 +68,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1071,8 +1071,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2683,8 +2683,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3435,10 +3435,10 @@ expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
-expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
+expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -5523,8 +5523,8 @@ epicgames,fortnite.com,True
 epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
-epicgames,capturingreality.com,True
 epicgames,*.popjam.com,True
+epicgames,capturingreality.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.hmxwebservices.com,True
@@ -6215,8 +6215,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -8740,8 +8740,8 @@ overloop,app.overloop.com,False
 worklytics,*.worklytics.co,False
 worklytics,*.worklytics.co,False
 top_echelon_software,bigbiller.topechelon.com,False
-top_echelon_software,www.topechelon.com,False
 top_echelon_software,bb3api.topechelon.com,False
+top_echelon_software,www.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
 top_echelon_software,bigbiller.topechelon.com,False
 top_echelon_software,bb3api.topechelon.com,False
