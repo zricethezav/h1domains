@@ -9,9 +9,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -211,6 +211,7 @@ pop.fmpilot2.org
 www.fmpilot2.org
 ftp.fmpilot2.net
 smtp.fmpilot2.net
+gameflex.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -1061,8 +1062,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2659,8 +2660,8 @@ biology-browser.com
 biologybrowser.com
 biologybrowser.org
 biologyfinder.com
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
