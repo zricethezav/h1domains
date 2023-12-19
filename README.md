@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 11:10:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 12:13:33 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
 store.23andme.com
 education.23andme.com
-auth.23andme.com
 blog.23andme.com
 you.23andme.com
 api.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1709,8 +1709,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2157,8 +2157,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
