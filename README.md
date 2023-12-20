@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 19:12:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 20:11:36 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -659,8 +659,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -3332,8 +3332,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
@@ -3342,8 +3342,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3376,9 +3376,9 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 business.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -4095,32 +4095,6 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
-*.tube8.com
-www.thumbzilla.com
-www.modelhub.com
-www.pornhub.com
-www.redtube.com
-www.pornhubpremium.com
-www.redtubepremium.com
-www.youpornpremium.com
-www.youporn.com
-api.pornhub.com
-www.pornmd.com
-ht.pornhub.com
-mobile.pornhub.com
-*.tube8.com
-www.pornhub.com
-mobile.pornhub.com
-api.pornhub.com
-ht.pornhub.com
-www.pornhubpremium.com
-www.pornmd.com
-www.modelhub.com
-www.thumbzilla.com
-www.redtube.com
-www.redtubepremium.com
-www.youporn.com
-www.youpornpremium.com
 api.kiwi.ki
 portal.kiwi.ki
 mobile.kiwi.ki
