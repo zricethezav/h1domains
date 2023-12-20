@@ -388,8 +388,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -2027,9 +2027,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
