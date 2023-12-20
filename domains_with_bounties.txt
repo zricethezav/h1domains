@@ -79,8 +79,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1057,8 +1057,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
