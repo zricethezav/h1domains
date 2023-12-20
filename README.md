@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 09:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 10:14:31 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -772,8 +772,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.carrentals.com
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
@@ -3358,8 +3358,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 *.shopifycloud.com
 linkpop.com
 shop.app
