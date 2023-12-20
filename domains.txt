@@ -6355,10 +6355,10 @@ zsbsupport.zebra.com
 downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
-cmm01.sl.zebra.com
 *.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
