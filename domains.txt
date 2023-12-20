@@ -7453,8 +7453,8 @@ beam.enjin.io
 jumpnet.beam.enjin.io
 api.enjinx.io
 enjinx.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
