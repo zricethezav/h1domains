@@ -9,12 +9,12 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,medical.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -86,8 +86,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -2683,8 +2683,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -7678,10 +7678,10 @@ playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,*.api.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
+playstation,*.api.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True
@@ -10529,8 +10529,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
-vimeo,api.vhx.tv,True
 vimeo,vhx.tv,True
+vimeo,api.vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True

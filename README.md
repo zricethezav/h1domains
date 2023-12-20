@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 11:10:40 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 12:09:37 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
 store.23andme.com
 education.23andme.com
-api.23andme.com
 blog.23andme.com
 auth.23andme.com
 you.23andme.com
-medical.23andme.com
+api.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -85,8 +85,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -394,8 +394,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1877,10 +1877,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.api.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
 direct.playstation.com
+*.api.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -3525,8 +3525,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 *.livestream.com
-api.vhx.tv
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
