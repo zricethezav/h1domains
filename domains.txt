@@ -3363,8 +3363,8 @@ share.doppler.com
 *.SECURITYTESTFAN.GOV
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
-*.AMERICA.GOV
 *.USMISSION.GOV
+*.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
 *.STATE.GOV
@@ -3494,8 +3494,8 @@ thailand.airasiago.com
 *.ebookers.com
 *.mrjet.se
 china.airasiago.com
-*.hotwire.com
 *.hotels.com
+*.hotwire.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -7130,8 +7130,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -10380,8 +10380,8 @@ magento.com
 exchange.adobe.com
 auth.services.adobe.com
 *.adobeaemcloud.com
-*.adobe.com
 app.frame.io
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10740,9 +10740,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
