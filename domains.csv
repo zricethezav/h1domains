@@ -11,8 +11,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -86,8 +86,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3435,10 +3435,10 @@ expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.wotif.com,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -10728,9 +10728,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
