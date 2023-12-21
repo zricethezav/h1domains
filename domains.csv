@@ -3341,8 +3341,8 @@ us-department-of-state,*.USMISSION.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -4493,8 +4493,8 @@ mars,*.banfieldassets.com,False
 mars,*.royalcanin.pl,False
 mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.com,False
-mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
+mars,*.orbitgum.com,False
 mars,*.mms.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -9334,8 +9334,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -9572,8 +9572,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,one.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,one.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -9756,8 +9756,8 @@ grab,*.myteksi.com,True
 grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
-grab,kartaview.org,True
 grab,*.myteksi.net,True
+grab,kartaview.org,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10496,9 +10496,9 @@ greenhouse,onboarding.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
-greenhouse,app.greenhouse.io,True
 greenhouse,interseller.io,True
 greenhouse,boards.greenhouse.io,True
+greenhouse,app.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True

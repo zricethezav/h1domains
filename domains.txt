@@ -3340,8 +3340,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -4492,8 +4492,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.royalcanin.co.uk
 *.royalcanin.com
-*.orbitgum.com
 *.jornadasroyalcanin.com.ar
+*.orbitgum.com
 *.mms.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -9333,8 +9333,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -9571,8 +9571,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -9755,8 +9755,8 @@ api.grabpay.com
 *.grab.com
 gamma.grab.co
 jira.grab.com
-kartaview.org
 *.myteksi.net
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10495,9 +10495,9 @@ onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
-app.greenhouse.io
 interseller.io
 boards.greenhouse.io
+app.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
