@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 00:20:56 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 01:33:58 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -84,9 +84,9 @@ autocomplete.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2820,8 +2820,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
