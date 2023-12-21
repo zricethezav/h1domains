@@ -60,10 +60,10 @@ mercadolibre,www.mercadopago.cl,True
 temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,chat.booking.com,True
-bookingcom,experiences.booking.com,True
 bookingcom,indicative-pricing.taxi.booking.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,careers.booking.com,True
+bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
@@ -8029,8 +8029,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
-marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
+marriott,cpp.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
@@ -9057,8 +9057,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -10538,8 +10538,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

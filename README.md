@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 06:11:47 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 07:10:42 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -59,10 +59,10 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 chat.booking.com
-experiences.booking.com
 indicative-pricing.taxi.booking.com
 kyc-onboarding.booking.com
 careers.booking.com
+experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
@@ -2121,8 +2121,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
+cpp.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
@@ -3548,8 +3548,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
