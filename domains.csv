@@ -1,4 +1,5 @@
 handle,domain,eligible_for_bounty
+eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,www.egress.com,False
@@ -85,9 +86,9 @@ bookingcom,autocomplete.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1071,8 +1072,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
