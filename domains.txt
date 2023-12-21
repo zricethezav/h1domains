@@ -3409,8 +3409,8 @@ www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
 www.expediapartnercentral.com
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -4503,8 +4503,8 @@ banfieldexchange.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
 *.royalcanin.ca
-*.pedigree.com
 *.vcahospitals.com
+*.pedigree.com
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl
@@ -9571,8 +9571,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
