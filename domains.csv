@@ -3261,8 +3261,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.8x8.id,True
-8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -8235,9 +8235,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,www.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.8x8.id,False
-8x8,*.chalet.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,*.chalet.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -9572,8 +9572,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -9782,8 +9782,8 @@ bumble,us1.badoo.com,True
 bumble,m.badoo.com,True
 bumble,meu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
-bumble,chatdate.app,True
 bumble,zodia.studio,True
+bumble,chatdate.app,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True

@@ -3260,8 +3260,8 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
-*.chalet.8x8.com
 cloud8.8x8.com
+*.chalet.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -8234,9 +8234,9 @@ platform.8x8.com
 www.8x8.com
 pay.8x8.com
 *.8x8.id
-*.chalet.8x8.com
 sso.8x8.com
 *.jitsi.net
+*.chalet.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -9571,8 +9571,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -9781,8 +9781,8 @@ us1.badoo.com
 m.badoo.com
 meu1.badoo.com
 ccardsus1.badoo.com
-chatdate.app
 zodia.studio
+chatdate.app
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com

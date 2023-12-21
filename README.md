@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 18:09:55 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 19:10:05 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -644,8 +644,8 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
-*.chalet.8x8.com
 cloud8.8x8.com
+*.chalet.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -2797,8 +2797,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -2975,8 +2975,8 @@ us1.badoo.com
 m.badoo.com
 meu1.badoo.com
 ccardsus1.badoo.com
-chatdate.app
 zodia.studio
+chatdate.app
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
