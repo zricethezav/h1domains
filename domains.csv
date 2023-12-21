@@ -2672,9 +2672,9 @@ freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.myfreshworks.com,True
 kolesagroup,api.krisha.kz,True
-kolesagroup,app.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
+kolesagroup,app.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
@@ -7730,8 +7730,8 @@ polygon-technology,portal.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
+xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
