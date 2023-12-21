@@ -2673,9 +2673,9 @@ freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.myfreshworks.com,True
 kolesagroup,api.krisha.kz,True
-kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
+kolesagroup,api.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
@@ -5353,6 +5353,7 @@ mondelez,worldclass.cadburyfc.com,False
 mondelez,nabiscoholiday.com,False
 mondelez,posters.cadbury.com.au,False
 mondelez,sourpatchkids.gg,False
+mondelez,snackfest.ro,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
 mondelez,https://oreo.ru,False
@@ -6510,11 +6511,11 @@ reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
-reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7454,8 +7455,8 @@ enjin,beam.enjin.io,False
 enjin,jumpnet.beam.enjin.io,False
 enjin,api.enjinx.io,False
 enjin,enjinx.io,False
-figma,api.figma.com,True
 figma,www.figma.com,True
+figma,api.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -9961,11 +9962,11 @@ starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
-starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,www.starbucks.de,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
