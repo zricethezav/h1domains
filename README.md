@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 22:09:09 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 23:10:23 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -79,10 +79,10 @@ taxis.booking.com
 *.rentalcars.com
 taxi.booking.com
 secure-supply-xml.booking.com
-paymentcomponent.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
+paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
 account.booking.com
@@ -2676,8 +2676,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.foliofn.com
 *.unitedcp.com
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2797,8 +2797,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com

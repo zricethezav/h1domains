@@ -80,10 +80,10 @@ bookingcom,taxis.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
-bookingcom,paymentcomponent.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,widget.rentalcars.com,True
+bookingcom,paymentcomponent.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,account.booking.com,True
@@ -9446,8 +9446,8 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.unitedcp.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -9572,8 +9572,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,one.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,one.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
