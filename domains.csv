@@ -27,8 +27,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.com.mx,True
@@ -1740,8 +1740,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -9600,8 +9600,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,one.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,one.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10686,8 +10686,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

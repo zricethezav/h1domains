@@ -26,8 +26,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
 www.mercadolibre.com.mx
@@ -1739,8 +1739,8 @@ www.practicalmoneyskills.org
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -9599,8 +9599,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -10685,8 +10685,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
