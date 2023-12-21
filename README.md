@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 14:11:04 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 15:11:35 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -10,9 +10,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 auth.23andme.com
 you.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -181,30 +181,6 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
-*.gocardless.io
-*.gocardless-banking.io
-connect-sandbox.gocardless.com
-*.gocardless-lab.io
-api-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-*.gocardless-cicd.io
-*.gocardless-staging.io
-manage-sandbox.gocardless.com
-www.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-*.gocardless-cicd.io
-*.gocardless-staging.io
-*.gocardless-lab.io
-manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-api-sandbox.gocardless.com
-connect-sandbox.gocardless.com
-www.gocardless.com
-oauth-sandbox.gocardless.com
-xero-sandbox.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -232,12 +208,12 @@ eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
-docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 explore.redoxengine.com
+docs.redoxengine.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -1525,8 +1501,8 @@ caldav.larksuite.com
 passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-internal-api.larksuite.com
 larksuite.com
+internal-api.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1941,7 +1917,6 @@ portal.polygon.technology
 *.betfair.it
 *.skybet.com
 *.betfair.com
-*.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgorigin.com
@@ -1950,6 +1925,7 @@ portal.polygon.technology
 *.ppbdev.com
 *.sbgservices.com
 *.skybetservices.com
+*.betfair.se
 *.sbgtest.net
 *.platformservices.io
 *.betfair.com
@@ -3342,9 +3318,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3735,6 +3711,30 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
+*.gocardless.io
+*.gocardless-banking.io
+connect-sandbox.gocardless.com
+*.gocardless-lab.io
+api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+*.gocardless-cicd.io
+*.gocardless-staging.io
+manage-sandbox.gocardless.com
+www.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless-staging.io
+*.gocardless-lab.io
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+www.gocardless.com
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
