@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -2926,9 +2926,9 @@ indrive,aws.indrive.tech,True
 indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
-indrive,argocd.indrive.dev,True
 indrive,ci.indrive.dev,True
 indrive,*.indriver.com,True
+indrive,argocd.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,auth2.indrive.tech,True
@@ -8039,8 +8039,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9572,8 +9572,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10182,8 +10182,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10309,9 +10309,9 @@ adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
-adobe,*.adobeaemcloud.com,False
 adobe,app.frame.io,False
 adobe,*.adobe.com,False
+adobe,*.adobeaemcloud.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10670,9 +10670,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
