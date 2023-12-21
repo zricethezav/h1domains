@@ -11,8 +11,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7730,8 +7730,8 @@ polygon-technology,portal.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.mi.com,True
 xiaomi,*.miwifi.com,True
+xiaomi,*.mi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -9314,8 +9314,8 @@ fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
+fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -10538,8 +10538,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

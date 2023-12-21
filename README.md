@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 05:10:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 06:11:47 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -10,8 +10,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1920,8 +1920,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2549,8 +2549,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3548,8 +3548,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

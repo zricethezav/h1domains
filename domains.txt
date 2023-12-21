@@ -10,8 +10,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -7729,8 +7729,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -9313,8 +9313,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -10537,8 +10537,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
