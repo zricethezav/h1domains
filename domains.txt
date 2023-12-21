@@ -7454,8 +7454,8 @@ beam.enjin.io
 jumpnet.beam.enjin.io
 api.enjinx.io
 enjinx.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -7963,9 +7963,9 @@ stage.optifyr.com
 www.picsart.com
 upload.picsart.com
 console.picsart.io
-picsart.io
 api.picsart.com
 t.picsart.com
+picsart.io
 api.picsart.io
 ai.picsart.com
 cdn-basic-content-api.picsart.io
@@ -8028,10 +8028,10 @@ gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 cpp.marriott.com
+www.ritzcarlton.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
@@ -8242,9 +8242,9 @@ get8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
 *.8x8cloud.net
-*.8x8.com
 admin.8x8.com
 connect.8x8.com
+*.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -9599,8 +9599,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -10684,9 +10684,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
