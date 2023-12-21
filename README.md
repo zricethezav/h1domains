@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 08:10:36 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 09:10:45 UTC 2023)
 ```
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
@@ -1753,8 +1753,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
-www.marionnaud.fr
 www.watsons.co.id
+www.marionnaud.fr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2820,8 +2820,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com

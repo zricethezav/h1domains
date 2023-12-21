@@ -5,8 +5,8 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -7517,8 +7517,8 @@ watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.com.tr,True
-watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.co.id,True
+watson_group,www.marionnaud.fr,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -9598,8 +9598,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
