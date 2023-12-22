@@ -10,10 +10,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7840,8 +7840,8 @@ alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
+alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
@@ -10310,8 +10310,8 @@ adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
-adobe,*.adobe.com,False
 adobe,*.adobeaemcloud.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False

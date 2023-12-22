@@ -9,10 +9,10 @@ research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-api.23andme.com
 blog.23andme.com
 auth.23andme.com
 you.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -7839,8 +7839,8 @@ https://amazonpay.amazon.in/*
 *.alibaba.com
 www.alibabagroup.com
 *.tmall.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
@@ -10309,8 +10309,8 @@ magento.com
 exchange.adobe.com
 auth.services.adobe.com
 app.frame.io
-*.adobe.com
 *.adobeaemcloud.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
