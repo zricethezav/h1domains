@@ -36,9 +36,9 @@ mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.co,True
-mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -9995,8 +9995,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,id.getharvest.com,True
 harvest,getharvest.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -10181,9 +10181,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10556,9 +10556,9 @@ automattic,simperium.com,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,assets.tumblr.com,True
-automattic,intensedebate.com,True
 automattic,api.tumblr.com,True
 automattic,wordpress.com,True
+automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
 automattic,mailpoet.com,True
 automattic,t.umblr.com,True
