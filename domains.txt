@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -6485,8 +6485,8 @@ mod.reddit.com
 matrix.redditspace.com
 www.reddit.com
 *.reddithelp.com
-oauth.reddit.com
 accounts.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -10049,8 +10049,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com

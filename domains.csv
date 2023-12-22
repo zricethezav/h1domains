@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -6486,8 +6486,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
 reddit,*.reddithelp.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
