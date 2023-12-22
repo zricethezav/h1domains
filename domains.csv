@@ -86,8 +86,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,paymentcomponent.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -2646,8 +2646,8 @@ freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.myfreshworks.com,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,app.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
@@ -8847,7 +8847,6 @@ equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
 equifax,*.paynet.credit,False
-equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,*.boavistascpc.com.br,False
@@ -8859,6 +8858,7 @@ equifax,*.bvsnet.com.br,False
 equifax,*.efficientforms.com,False
 equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
+equifax,JOBALINECI.COM,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
@@ -10456,10 +10456,10 @@ airbnb,www.hoteltonight.com,True
 vimeo,donations.livestream.com,True
 vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
-vimeo,*.livestream.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
+vimeo,*.livestream.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
