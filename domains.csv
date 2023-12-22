@@ -1088,8 +1088,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,*.hypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
+hypr-corp,*.hypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True
@@ -2652,8 +2652,8 @@ kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,id.avtoelon.uz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3568,8 +3568,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.davosalestax.com,False
 avalara,*.track1099.com,False
-avalara,*.ttrus.com,False
 avalara,*.avalara.net,False
+avalara,*.ttrus.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False

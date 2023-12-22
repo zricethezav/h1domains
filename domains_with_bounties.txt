@@ -140,8 +140,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com
@@ -361,8 +361,8 @@ avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
 m.avtoelon.uz
-id.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
 krisha.kz
