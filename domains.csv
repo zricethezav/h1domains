@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7649,8 +7649,8 @@ wellsfargo,*.wystar.com,False
 wellsfargo,*.advisor-connection.com,False
 playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
-playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
+playstation,api.direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
@@ -7866,8 +7866,8 @@ bmwgroup,www.mini.de,True
 bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
-bmwgroup,configure.mini.de,True
 bmwgroup,www.bmw-motorrad.de,True
+bmwgroup,configure.mini.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,www.mini.de,True
 bmwgroup,www.bmw-motorrad.de,True
@@ -9571,8 +9571,8 @@ newrelic,*.nr-data.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10181,9 +10181,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
