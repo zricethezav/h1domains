@@ -9,10 +9,10 @@ research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-you.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2925,9 +2925,9 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
-ci.indrive.dev
 *.indriver.com
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 auth2.indrive.tech
@@ -10131,8 +10131,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
