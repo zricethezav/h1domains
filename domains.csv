@@ -10,10 +10,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -67,10 +67,10 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,supply-xml.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -5587,8 +5587,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,geminiadvisory.io,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -7912,8 +7912,8 @@ digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
 digitalocean,hacktoberfest.com,False
-digitalocean,www.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
+digitalocean,www.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10670,9 +10670,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
