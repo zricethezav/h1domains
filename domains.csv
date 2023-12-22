@@ -1169,7 +1169,6 @@ alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
-alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.thebodyshop.com.kw,False
@@ -1192,6 +1191,7 @@ alshaya,card.starbucks.com.kz,False
 alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.victoriassecret.com.qa,False
+alshaya,*.aloyoga.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1524,8 +1524,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -6330,9 +6330,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.profitect.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9345,9 +9345,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.braintreegateway.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
 paypal,loanbuilder.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10182,8 +10182,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

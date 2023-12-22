@@ -1168,7 +1168,6 @@ boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
-*.aloyoga.com.kw
 *.americaneagle.com.bh
 *.westelm.com.kw
 *.thebodyshop.com.kw
@@ -1191,6 +1190,7 @@ card.starbucks.com.kz
 *.footlocker.com.eg
 *.starbuckscardtr.com
 *.victoriassecret.com.qa
+*.aloyoga.com.kw
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1523,8 +1523,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -6329,9 +6329,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 *.profitect.com
-cmm01.sl.zebra.com
 *.zebrasports.com
 reflexisinc.com/
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9344,9 +9344,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 loanbuilder.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -10181,8 +10181,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
