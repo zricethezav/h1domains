@@ -2681,8 +2681,8 @@ apigw.foliofn.com
 goldmansachsindices.com
 *.finlife.com
 *.nextcapital.com
-*.goldmansachs.com
 *.vennhypotheken.nl
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3183,8 +3183,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
