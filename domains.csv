@@ -1141,8 +1141,8 @@ brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
-palta,prisma-ai.com,True
 palta,lensa-ai.com,True
+palta,prisma-ai.com,True
 palta,neuralprisma.com,True
 palta,appapi.neuralprisma.com,True
 palta,neuralprisma.com,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True

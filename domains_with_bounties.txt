@@ -165,8 +165,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 neuralprisma.com
 appapi.neuralprisma.com
 neuralprisma.com
@@ -3183,8 +3183,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
