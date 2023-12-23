@@ -3726,10 +3726,10 @@ www.monarchmoney.com
 app.monarchmoney.com
 www.monarchmoney.com
 www.fireglass.com
-www.interflex.de
 www.yonomi.com
 www.gainsboroughhardware.com.au
 www.cisa.com
+www.interflex.de
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -4608,8 +4608,8 @@ www.trendyol-milla.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -4912,9 +4912,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.corcoran.*
 *.realogy.*
-*.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
+*.mycbdesk.com
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -5011,7 +5011,6 @@ lacta.gr
 marabou.dk
 marabou.fi
 milka.cl
-milka.com.tr
 mondelezgrowthprogram.com
 futisviikonloppu.marabou.fi
 giveasmile.belvitasnacks.com
@@ -5033,6 +5032,7 @@ fattorieosella.it
 milka.bg
 milka.cz
 cadburyworld.co.uk
+secretsanta.cadbury.co.uk
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -9467,7 +9467,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10669,8 +10669,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
