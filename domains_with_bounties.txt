@@ -2384,7 +2384,6 @@ newsroom.images.hyatt.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
-res.funjet.com
 res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
@@ -2393,6 +2392,7 @@ vacations.travelimpressions.com
 www.globalhotelchoices.com
 www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
+res.funjet.com
 assets.hyatt.com
 roominglist.hyatt.com
 upsell.hyatt.com

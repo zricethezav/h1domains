@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 23 21:08:29 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 23 22:09:18 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -2390,7 +2390,6 @@ newsroom.images.hyatt.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
-res.funjet.com
 res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
@@ -2399,6 +2398,7 @@ vacations.travelimpressions.com
 www.globalhotelchoices.com
 www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
+res.funjet.com
 assets.hyatt.com
 roominglist.hyatt.com
 upsell.hyatt.com
