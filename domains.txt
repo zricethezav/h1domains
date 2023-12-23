@@ -67,9 +67,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-supply-xml.booking.com
 *.booking.com
 booking.com
+supply-xml.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1549,8 +1549,8 @@ https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptser
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
 clientcert.gamma.redoxstage.com
-www.redoxengine.com
 testapi.redoxengine.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -4489,11 +4489,11 @@ banfield.us
 *.royalcanin-vouchers.com
 banfieldexchange.com
 *.banfieldassets.com
-*.royalcanin.pl
 *.royalcanin.co.uk
 *.royalcanin.com
 *.jornadasroyalcanin.com.ar
 *.orbitgum.com
+*.royalcanin.pl
 *.mms.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -4682,8 +4682,8 @@ snaps.metamask.io
 snaps.metamask.io
 portfolio.metamask.io
 *.tms.pl
-*.oanda.jp
 *.oanda.com
+*.oanda.jp
 *.tmsbrokers.com
 *.oanda.com
 *.oanda.jp
@@ -6330,8 +6330,8 @@ downloads.zebra.com
 supportcommunity.zebra.com
 *.profitect.com
 *.zebrasports.com
-reflexisinc.com/
 cmm01.sl.zebra.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9004,8 +9004,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9030,8 +9030,8 @@ www.bookingholdings.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -9333,8 +9333,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -10669,8 +10669,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
