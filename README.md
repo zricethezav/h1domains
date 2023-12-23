@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 23 15:09:30 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 23 16:10:44 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1877,10 +1877,10 @@ my.account.sony.com
 portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
-burn.polygon.technology
 mapper.polygon.technology
 wallet.polygon.technology
 faucet.polygon.technology
+burn.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -3189,8 +3189,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3525,8 +3525,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3609,9 +3609,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 international.coinbase.com
 api.coinbase.com
 cloud.coinbase.com

@@ -7684,10 +7684,10 @@ trycourier,www.courier.com,False
 polygon-technology,portal.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
-polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
 polygon-technology,wallet.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
+polygon-technology,burn.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10512,8 +10512,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10601,9 +10601,9 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
-coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,prime.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
