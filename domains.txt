@@ -9,9 +9,9 @@ research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-api.23andme.com
 blog.23andme.com
 auth.23andme.com
+api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -9030,8 +9030,8 @@ www.bookingholdings.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
