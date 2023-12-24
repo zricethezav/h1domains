@@ -1743,7 +1743,6 @@ clarivate,compumark.co.uk,False
 clarivate,compumark.de,False
 clarivate,compumark.es,False
 clarivate,compumark.eu,False
-clarivate,compumark.fr,False
 clarivate,compumark.info,False
 clarivate,compumark.jp,False
 clarivate,compumarks.com,False
@@ -1784,6 +1783,7 @@ clarivate,endnote360.com,False
 clarivate,endnote.fi,False
 clarivate,endnote.in,False
 clarivate,endnote.jp,False
+clarivate,endnote.ru,False
 clarivate,cpaglobal.ru,False
 clarivate,authorconnect-webofscience.com,False
 clarivate,authorconnectwebofscience.com,False
@@ -3132,8 +3132,8 @@ svb-financial,api.svb.com,False
 svb-financial,https://openbanking.svb.com/open-banking/v3.1/,False
 svb-financial,developer.svb.com,False
 svb-financial,www.cipherbio.com,False
-s-pankki,online.s-pankki.fi,True
 s-pankki,api.sokos.fi,True
+s-pankki,online.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,cfapi.voikukka.fi,True
@@ -3252,9 +3252,9 @@ kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -8235,9 +8235,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,www.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.8x8.id,False
-8x8,sso.8x8.com,False
 8x8,*.jitsi.net,False
 8x8,*.chalet.8x8.com,False
+8x8,sso.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False

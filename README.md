@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 08:09:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 09:09:31 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -597,8 +597,8 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
 api.sokos.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 cfapi.voikukka.fi
@@ -635,9 +635,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
 *.jitsi.net
+sso.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
