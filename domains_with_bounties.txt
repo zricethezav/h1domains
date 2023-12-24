@@ -2083,11 +2083,11 @@ sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
-dcfgatewaytst1.marriott.com
 reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
+dcfgatewaytst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
@@ -3212,8 +3212,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-registry.gitlab.com
 *.gitlab.net
+registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 16:10:31 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 17:10:21 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2089,11 +2089,11 @@ sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
-dcfgatewaytst1.marriott.com
 reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
+dcfgatewaytst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
@@ -3218,8 +3218,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-registry.gitlab.com
 *.gitlab.net
+registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com

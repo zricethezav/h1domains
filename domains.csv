@@ -7994,11 +7994,11 @@ marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,www.marriott.com,True
-marriott,dcfgatewaytst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,dcfgatewaytst1.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,all-inclusive.marriott.com,True
@@ -10079,8 +10079,8 @@ mapbox,api.mapbox.com,True
 mapbox,www.mapbox.com,True
 mapbox,https://docs.mapbox.com/api/,True
 mapbox,api.mapbox.com,True
-gitlab,registry.gitlab.com,True
 gitlab,*.gitlab.net,True
+gitlab,registry.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,*.gitlap.com,True
