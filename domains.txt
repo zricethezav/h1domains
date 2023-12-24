@@ -1200,7 +1200,6 @@ sa.cosstores.com
 *.americaneagle.com.eg
 *.americaneagle.com.sa
 *.thebodyshop.pl
-*.thebodyshop.com.eg
 *.starbucks.com.tr
 *.shakeshack.co.uk
 *.potterybarn.com.sa
@@ -1210,6 +1209,7 @@ sa.cosstores.com
 *.debenhams.ae
 *.bathandbodyworks.jo
 *.carrier.alshaya.com
+customercare.alshaya.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -10604,8 +10604,8 @@ pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
 international.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org

@@ -1201,7 +1201,6 @@ alshaya,*.aloyoga.com.qa,False
 alshaya,*.americaneagle.com.eg,False
 alshaya,*.americaneagle.com.sa,False
 alshaya,*.thebodyshop.pl,False
-alshaya,*.thebodyshop.com.eg,False
 alshaya,*.starbucks.com.tr,False
 alshaya,*.shakeshack.co.uk,False
 alshaya,*.potterybarn.com.sa,False
@@ -1211,6 +1210,7 @@ alshaya,*.footlocker.ae,False
 alshaya,*.debenhams.ae,False
 alshaya,*.bathandbodyworks.jo,False
 alshaya,*.carrier.alshaya.com,False
+alshaya,customercare.alshaya.com,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -10605,8 +10605,8 @@ coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
