@@ -1524,8 +1524,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -4746,8 +4746,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.swoodoo.com,True
-kayak,www.kayak.com,True
 kayak,www.cheapflights.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 06:09:39 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 07:10:04 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -924,8 +924,8 @@ www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
 www.swoodoo.com
-www.kayak.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com

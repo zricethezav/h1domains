@@ -1523,8 +1523,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -4745,8 +4745,8 @@ www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
 www.swoodoo.com
-www.kayak.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
