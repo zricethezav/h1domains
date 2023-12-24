@@ -3012,8 +3012,8 @@ label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 logs.dashlane.com
-www.dashlane.com
 app.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
