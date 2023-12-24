@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7337,8 +7337,8 @@ logitech,*.crossclip.com,False
 logitech,*.logi.com,False
 logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
-logitech,*.logitech.com,False
 logitech,www.logitech.com.cn,True
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
