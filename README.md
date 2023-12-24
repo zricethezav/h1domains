@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 09:09:31 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 10:08:25 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -681,8 +681,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.magicjackpot.ro
+*.luckydays.com
 *.superbet.ro
 *.luckydays.ca
 *.spinaway.com
@@ -2687,8 +2687,8 @@ apigw.foliofn.com
 goldmansachsindices.com
 *.finlife.com
 *.nextcapital.com
-*.vennhypotheken.nl
 *.goldmansachs.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3432,8 +3432,8 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 m.airbnb.com
-*.luxuryretreats.com
 *.airbnb-aws.com
+*.luxuryretreats.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
