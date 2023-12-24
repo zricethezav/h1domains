@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 11:08:21 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 12:09:55 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -709,9 +709,9 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.otherside.xyz
 *.mdvmm.xyz
 *.yuga.com
+*.otherside.xyz
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
@@ -2134,8 +2134,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg

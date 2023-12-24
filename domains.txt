@@ -3363,9 +3363,9 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.onezerobank.com
 *.onezerobank.com
-*.otherside.xyz
 *.mdvmm.xyz
 *.yuga.com
+*.otherside.xyz
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
@@ -8038,8 +8038,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
