@@ -3339,8 +3339,8 @@ blog.playcanvas.com
 relay.playcanvas.com
 login.playcanvas.com
 code.playcanvas.com
-playcanv.as
 store.playcanvas.com
+playcanv.as
 map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com

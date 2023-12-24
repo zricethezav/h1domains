@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 12:09:55 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 13:09:22 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -3345,8 +3345,8 @@ blog.playcanvas.com
 relay.playcanvas.com
 login.playcanvas.com
 code.playcanvas.com
-playcanv.as
 store.playcanvas.com
+playcanv.as
 map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
