@@ -2914,9 +2914,9 @@ api.fastly.com
 manage.fastly.com
 api.fastly.com
 docs.fastly.com
-cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -4911,10 +4911,10 @@ www.alohi.com
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
-*.realogy.*
 *.coldwellbanker.*
 *.cbcworldwide.*
 *.mycbdesk.com
+*.realogy.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -7703,8 +7703,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -10181,8 +10181,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
