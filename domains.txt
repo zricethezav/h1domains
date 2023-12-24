@@ -7993,11 +7993,11 @@ sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
-activities.marriott.com
 dcfgatewaytst1.marriott.com
 reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
