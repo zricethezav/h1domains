@@ -5,8 +5,8 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
@@ -4474,7 +4474,6 @@ fossil.fnfsale.in
 *.vetschoice.co.za
 *.eukanubasportingdog.com
 banfield.us
-*.miroyalcanin.com.ar
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
 *.royalcanin.be
@@ -4482,6 +4481,7 @@ banfield.us
 *.royalcanin.pt
 *.banfield.com
 *.individualis.com
+*.miroyalcanin.com.ar
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -7835,10 +7835,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.alibaba.com
 www.alibabagroup.com
 *.tmall.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -9788,8 +9788,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com

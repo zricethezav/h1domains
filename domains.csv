@@ -6,8 +6,8 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -4475,7 +4475,6 @@ mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
@@ -4483,6 +4482,7 @@ mars,*.mivetshop.com.ar,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
 mars,*.individualis.com,False
+mars,*.miroyalcanin.com.ar,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -7836,10 +7836,10 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -9789,8 +9789,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,www.bumble.com,True
 bumble,badoo.com,True
+bumble,www.bumble.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
