@@ -7991,13 +7991,13 @@ www.32red.com
 relaxcdn.unibet.com
 sso.marriott.com
 mgs.marriott.com
-gatewaydsaptst2.marriott.com
 www.marriott.com
+gatewaydsaptst2.marriott.com
 reservations.all-inclusive.marriott.com
-gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
 dcfgatewaytst1.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
@@ -10078,8 +10078,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -10511,8 +10511,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10601,8 +10601,8 @@ blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
 pro.coinbase.com
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 international.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
