@@ -8,12 +8,12 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1372,10 +1372,10 @@ abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.new10.com,False
 fertitta_entertainment,dungeonofdoomkemah.com,False
 fertitta_entertainment,thepostoak.com,False
-fertitta_entertainment,galvestonholidayinn.com,False
 fertitta_entertainment,r-u-i.com,False
 fertitta_entertainment,wildwoodcasino.net,False
 fertitta_entertainment,sanluisresort.com,False
+fertitta_entertainment,galvestonholidayinn.com,False
 fertitta_entertainment,hunttinginn.com,False
 fertitta_entertainment,fertittaentertainmentinc.com,False
 fertitta_entertainment,goldennugget.com,False
@@ -8039,8 +8039,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -10512,8 +10512,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
