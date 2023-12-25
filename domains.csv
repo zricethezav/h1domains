@@ -1550,8 +1550,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
-redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
+redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
