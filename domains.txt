@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -7334,10 +7334,10 @@ www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
 *.logi.com
-*.myharmony.com
 www.logitechg.com
 www.logitech.com.cn
 *.logitech.com
+*.myharmony.com
 *.streamlabscharity.com
 logilife.logitech.com
 *.uesmartradio.com
