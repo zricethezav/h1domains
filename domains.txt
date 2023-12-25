@@ -1349,8 +1349,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.tikkie.me
 *.abnamro.nl
+*.tikkie.me
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -4682,8 +4682,8 @@ snaps.metamask.io
 snaps.metamask.io
 portfolio.metamask.io
 *.tms.pl
-*.oanda.com
 *.oanda.jp
+*.oanda.com
 *.tmsbrokers.com
 *.oanda.com
 *.oanda.jp
