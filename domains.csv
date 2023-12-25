@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2701,9 +2701,9 @@ oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,crash-stats.allizom.org,True
-mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
@@ -3392,8 +3392,8 @@ expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
-expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -7311,8 +7311,8 @@ tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9508,9 +9508,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.folioinvesting.com,True
 goldmansachs,*.claritymoney.com,False
 valve,playartifact.com,True
-valve,help.steampowered.com,True
 valve,store.steampowered.com,True
 valve,developer.valvesoftware.com,True
+valve,help.steampowered.com,True
 valve,partner.steampowered.com,True
 valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True

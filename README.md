@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 12:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 25 13:10:42 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -411,9 +411,9 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
@@ -737,8 +737,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -1647,8 +1647,8 @@ careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2737,9 +2737,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-help.steampowered.com
 store.steampowered.com
 developer.valvesoftware.com
+help.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com
