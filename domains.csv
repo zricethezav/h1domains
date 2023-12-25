@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -4914,8 +4914,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -9880,11 +9880,11 @@ wordpress, github.com/WordPress,True
 rockstargames,rockstarnorth.com,True
 rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
-rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,lifeinvader.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -9937,8 +9937,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
 starbucks,secureui.starbucks.com,True
-starbucks,www.starbucks.com,True
 starbucks,www.starbucks.de,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -10512,8 +10512,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10609,8 +10609,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,*.base.org,True
-coinbase,coinbase.com,True
 coinbase,institutional.coinbase.com,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
@@ -10658,8 +10658,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
