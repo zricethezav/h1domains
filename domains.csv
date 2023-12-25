@@ -3015,7 +3015,6 @@ abb,*.baldor.com,False
 abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
-abb,*.motors.abb.com,False
 abb,*.pdc.abb.com,False
 abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
@@ -3025,6 +3024,7 @@ abb,*.abb-drives.com,False
 abb,*.abb,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
+abb,*.motors.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -3409,9 +3409,9 @@ expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
-expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.wotif.com,True
+expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -9560,8 +9560,8 @@ crypto,https://crypto.com/nft,True
 crypto,tax.crypto.com,True
 crypto,https://crypto.com/price,True
 newrelic,*.eu.newrelic.com,True
-newrelic,docs.newrelic.com,True
 newrelic,insights.eu.newrelic.com,True
+newrelic,docs.newrelic.com,True
 newrelic,infrastructure.eu.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True

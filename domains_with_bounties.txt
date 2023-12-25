@@ -748,9 +748,9 @@ www.fewo-direkt.de
 www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
-www.expediapartnercentral.com
 www.hotwire.com
 www.wotif.com
+www.expediapartnercentral.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -2779,8 +2779,8 @@ https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
 *.eu.newrelic.com
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
