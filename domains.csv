@@ -1703,8 +1703,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -2765,8 +2765,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,admin.spoonflower.com,False
@@ -10079,8 +10079,8 @@ mapbox,api.mapbox.com,True
 mapbox,www.mapbox.com,True
 mapbox,https://docs.mapbox.com/api/,True
 mapbox,api.mapbox.com,True
-gitlab,*.gitlab.net,True
 gitlab,registry.gitlab.com,True
+gitlab,*.gitlab.net,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,*.gitlap.com,True
@@ -10182,8 +10182,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

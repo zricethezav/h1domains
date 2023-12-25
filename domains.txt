@@ -1702,8 +1702,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *.setra.de
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -2764,8 +2764,8 @@ snapfish.ie
 photo.walgreens.com
 snapfish.de
 prestigeportraits.com
-lifetouch.com
 www.borrowlenses.com
+lifetouch.com
 shutterfly.com
 jcpportraits.com
 admin.spoonflower.com
@@ -10078,8 +10078,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -10181,8 +10181,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

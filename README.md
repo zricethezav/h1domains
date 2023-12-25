@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 05:09:00 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 25 06:11:11 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -3218,8 +3218,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -3319,8 +3319,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

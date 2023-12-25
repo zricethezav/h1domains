@@ -3212,8 +3212,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -3313,8 +3313,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
