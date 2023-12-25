@@ -7263,10 +7263,10 @@ api.adm.cloud.com
 api.sharefile.eu
 sf-rp.sharefile.com
 us.cloud.com
-*.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -7836,9 +7836,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -7995,9 +7995,9 @@ www.marriott.com
 gatewaydsaptst2.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-activities.marriott.com
-dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
+dcfgatewaytst1.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
@@ -10511,8 +10511,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10669,9 +10669,9 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
