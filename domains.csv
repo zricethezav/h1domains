@@ -10512,8 +10512,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10660,8 +10660,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
+security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
