@@ -1,13 +1,7 @@
 handle,domain,eligible_for_bounty
 eufy_security,https://passport.eufy.com/?app=eufy-us,True
-egress-vdp,switch.vdp-egress.com,False
-egress-vdp,reader.vdp-egress.com,False
-egress-vdp,www.egress.com,False
-egress-vdp,reader.vdp-egress.com,False
-egress-vdp,switch.vdp-egress.com,False
-egress-vdp,www.egress.com,False
-23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3410,8 +3404,8 @@ expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.wotif.com,True
-expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotwire.com,True
+expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -6475,9 +6469,9 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
-reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
