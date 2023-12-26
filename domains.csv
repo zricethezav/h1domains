@@ -6,8 +6,8 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,research.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3138,9 +3138,9 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,extranet.s-pankki.fi,True
-s-pankki,www.prisma.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.prisma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -3409,9 +3409,9 @@ expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -7986,9 +7986,9 @@ marriott,gatewaydsaptst2.marriott.com,True
 marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,all-inclusive.marriott.com,True
