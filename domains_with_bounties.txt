@@ -140,8 +140,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com

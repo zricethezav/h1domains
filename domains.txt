@@ -1087,8 +1087,8 @@ www.blueapron.com
 https://blog.blueapron.com/
 www.blueapron.com
 http://www.blueapron.com/graphql
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com

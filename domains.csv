@@ -1088,8 +1088,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,*.hypr.com,True
+hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True

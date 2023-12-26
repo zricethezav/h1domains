@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 21:10:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 22:08:24 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -146,8 +146,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com
