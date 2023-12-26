@@ -7301,8 +7301,8 @@ tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9889,8 +9889,8 @@ files,your-assigned-subdomain.files.com,True
 files,app.files.com,True
 files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
-lyst,*.lyst.co,True
 lyst,*.lystit.com,True
+lyst,*.lyst.co,True
 lyst,*.lyst.com,True
 lyst,mobileapi.lystit.com,True
 lyst,cdna.lystit.com,True
