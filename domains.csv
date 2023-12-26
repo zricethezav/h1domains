@@ -7836,8 +7836,8 @@ alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliyun-inc.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9161,10 +9161,10 @@ hyatt,shop.wyndhamvacationownership.trisept.travel,True
 hyatt,holidays-hk.fijiairways.com,True
 hyatt,www.blueskytours.com,True
 hyatt,world.hyatt.com,True
-hyatt,book.extraholidaysvacations.com,True
 hyatt,sso.oft.hyatt.com,True
 hyatt,vacations.velasvallarta.com,True
 hyatt,vacations.united.com,True
+hyatt,book.extraholidaysvacations.com,True
 hyatt,soaext.oft.hyatt.com,True
 hyatt,vacations.vallarta.grandvelas.com,True
 hyatt,book.cheapcaribbean.com,True

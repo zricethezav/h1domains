@@ -7835,8 +7835,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.aliyun-inc.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9160,10 +9160,10 @@ shop.wyndhamvacationownership.trisept.travel
 holidays-hk.fijiairways.com
 www.blueskytours.com
 world.hyatt.com
-book.extraholidaysvacations.com
 sso.oft.hyatt.com
 vacations.velasvallarta.com
 vacations.united.com
+book.extraholidaysvacations.com
 soaext.oft.hyatt.com
 vacations.vallarta.grandvelas.com
 book.cheapcaribbean.com
