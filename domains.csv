@@ -1524,8 +1524,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -7643,8 +7643,8 @@ playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,direct.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True

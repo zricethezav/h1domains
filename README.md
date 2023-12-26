@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 04:08:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 05:09:34 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1856,8 +1856,8 @@ transact.playstation.com
 api.direct.playstation.com
 store.playstation.com
 *.api.playstation.com
-direct.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com

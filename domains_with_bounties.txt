@@ -1850,8 +1850,8 @@ transact.playstation.com
 api.direct.playstation.com
 store.playstation.com
 *.api.playstation.com
-direct.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
