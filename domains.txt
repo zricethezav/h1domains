@@ -1071,8 +1071,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -8678,9 +8678,9 @@ app.lemlist.com
 *.xuphub.com
 *.xupsupport.com
 *.key2businesscard.com
-*.laurelroad.com
 *.xuppay-statement-analyzer.com
 *.key.com
+*.laurelroad.com
 *.keyapsolutions.com
 *.keybank.com
 *.xuppay.com
