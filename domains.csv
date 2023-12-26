@@ -7643,8 +7643,8 @@ playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True
@@ -10550,10 +10550,10 @@ automattic,api.tumblr.com,True
 automattic,wordpress.com,True
 automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
-automattic,mailpoet.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
