@@ -11,8 +11,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -5023,6 +5023,7 @@ milka.bg
 milka.cz
 cadburyworld.co.uk
 secretsanta.cadbury.co.uk
+www.clifbar.be
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -6333,15 +6334,14 @@ fs.viq.zebra.com
 zsbportal.zebra.com
 global.zebra.com
 hcm.zebra.com
-test-marketing-api.zebra.com
 dcs-polarion.zebra.com
 artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
-stage-www.zebra.com
 www.matrox.com
 connect.zebra.com
+*.zebra.com/mobicontrol
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7106,8 +7106,8 @@ caldav.larksuite.com
 passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api.larksuite.com
+larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -8644,8 +8644,8 @@ app.nordpass.com
 *.pubg.com
 *.pubg.com
 *.pubgesports.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me

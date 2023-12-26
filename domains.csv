@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -5024,6 +5024,7 @@ mondelez,milka.bg,False
 mondelez,milka.cz,False
 mondelez,cadburyworld.co.uk,False
 mondelez,secretsanta.cadbury.co.uk,False
+mondelez,www.clifbar.be,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -6334,15 +6335,14 @@ zebra_vdp,*.antuit.ai,False
 zebra_vdp,zsbportal.zebra.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
-zebra_vdp,test-marketing-api.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
 zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,zsl.zebra.com,False
 zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
-zebra_vdp,stage-www.zebra.com,False
 zebra_vdp,www.matrox.com,False
 zebra_vdp,connect.zebra.com,False
+zebra_vdp,*.zebra.com/mobicontrol,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7107,8 +7107,8 @@ lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
-lark_technologies,larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -8645,8 +8645,8 @@ pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line.me,True
 line,*.line-apps.com,True
+line,*.line.me,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
