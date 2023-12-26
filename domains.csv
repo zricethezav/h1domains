@@ -31,8 +31,8 @@ mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
-mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.cl,True
+mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.co,True
@@ -2990,7 +2990,6 @@ miro,api.miro.com,True
 miro,http://miro.com/blog,True
 abb,*.cylon.com,False
 abb,*.busch-jaeger.*,False
-abb,*.it.abb.com,False
 abb,*.ru.abb.com,False
 abb,*.abb.ch,False
 abb,*.abb.cn,False
@@ -2999,6 +2998,7 @@ abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.abb.com.cn,False
 abb,*.br-automation.com,False
+abb,*.it.abb.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -10502,8 +10502,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
