@@ -1385,10 +1385,10 @@ amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 *.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
