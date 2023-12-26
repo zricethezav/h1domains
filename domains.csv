@@ -7828,8 +7828,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.tmall.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
