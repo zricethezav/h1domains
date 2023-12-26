@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 19:10:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 20:10:28 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -2738,8 +2738,8 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 store.steampowered.com
-developer.valvesoftware.com
 help.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com

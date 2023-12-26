@@ -1169,7 +1169,6 @@ alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
-alshaya,*.americaneagle.com.bh,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
@@ -1192,6 +1191,7 @@ alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.aloyoga.com.kw,False
+alshaya,*.americaneagle.com.bh,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -9499,8 +9499,8 @@ goldmansachs,*.folioinvesting.com,True
 goldmansachs,*.claritymoney.com,False
 valve,playartifact.com,True
 valve,store.steampowered.com,True
-valve,developer.valvesoftware.com,True
 valve,help.steampowered.com,True
+valve,developer.valvesoftware.com,True
 valve,partner.steampowered.com,True
 valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True

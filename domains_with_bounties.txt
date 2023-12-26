@@ -2732,8 +2732,8 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 store.steampowered.com
-developer.valvesoftware.com
 help.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com

@@ -1168,7 +1168,6 @@ boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
-*.americaneagle.com.bh
 *.westelm.com.kw
 *.thebodyshop.com.kw
 *.muji.qa
@@ -1191,6 +1190,7 @@ card.starbucks.com.kz
 *.starbuckscardtr.com
 *.victoriassecret.com.qa
 *.aloyoga.com.kw
+*.americaneagle.com.bh
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -9498,8 +9498,8 @@ api.foliofn.com
 *.claritymoney.com
 playartifact.com
 store.steampowered.com
-developer.valvesoftware.com
 help.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com
