@@ -1,4 +1,10 @@
 https://passport.eufy.com/?app=eufy-us
+switch.vdp-egress.com
+reader.vdp-egress.com
+www.egress.com
+reader.vdp-egress.com
+switch.vdp-egress.com
+www.egress.com
 research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
@@ -1541,10 +1547,10 @@ www.content.shi.com
 www.shi.com
 https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc
 fhir.redoxengine.com
-testapi.redoxengine.com
 www.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
+testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -4487,8 +4493,8 @@ banfieldexchange.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
 *.royalcanin.ca
-*.vcahospitals.com
 *.pedigree.com
+*.vcahospitals.com
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl
@@ -10641,8 +10647,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
