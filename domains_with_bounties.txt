@@ -2372,12 +2372,12 @@ res.blueskytours.globalbookingsolutions.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
-www.wynnvacations.com
 res.vacations.buschgardens.com
 res.universalorlandovacations.com
 book.beachbound.com
 vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
+www.wynnvacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
