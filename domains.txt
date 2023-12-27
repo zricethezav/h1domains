@@ -1183,7 +1183,6 @@ bathandbodyworks.ro/
 bathandbodyworks.ro
 shayakahve.com.tr
 *.mothercare.com.eg
-*.americaneagle.com.kw
 *.alshayaenterprises.com
 card.starbucks.com.kz
 *.footlocker.com.eg
@@ -1191,6 +1190,7 @@ card.starbucks.com.kz
 *.aloyoga.com.kw
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
+*.americaneagle.com.kw
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -8029,8 +8029,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg

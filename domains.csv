@@ -1184,7 +1184,6 @@ alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
-alshaya,*.americaneagle.com.kw,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.footlocker.com.eg,False
@@ -1192,6 +1191,7 @@ alshaya,*.starbuckscardtr.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
+alshaya,*.americaneagle.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -8030,8 +8030,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
