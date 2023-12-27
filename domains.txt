@@ -3271,6 +3271,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
+pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -8219,7 +8220,6 @@ cloud8.8x8.com
 *.adgjmp.net
 work.8x8.com
 8x8.force.com
-*.jitsi.org
 platform.8x8.com
 www.8x8.com
 pay.8x8.com
@@ -8227,6 +8227,7 @@ pay.8x8.com
 *.jitsi.net
 *.chalet.8x8.com
 sso.8x8.com
+*.jitsi.org
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com

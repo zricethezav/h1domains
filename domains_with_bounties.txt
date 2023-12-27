@@ -649,6 +649,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
+pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
