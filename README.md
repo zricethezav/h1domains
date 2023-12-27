@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 12:10:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 13:11:07 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -10,9 +10,9 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -881,14 +881,12 @@ royal.checksw.com
 *.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
-www.trendyol-milla.com
 m.trendyol.com
 www.dolap.com
 www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
-www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
 portfolio.metamask.io
@@ -2763,9 +2761,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -3526,8 +3524,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

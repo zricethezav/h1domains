@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4586,14 +4586,12 @@ cornershop,*.cornershopapp.com/*,True
 cornershop,*.superpal.com/*,True
 cornershop,*.cornershop.io/*,True
 cornershop,*.superpal.io/*,True
-trendyol,www.trendyol-milla.com,True
 trendyol,m.trendyol.com,True
 trendyol,www.dolap.com,True
 trendyol,www.trendyol.com,True
 trendyol,www.trendyol.com,True
 trendyol,m.trendyol.com,True
 trendyol,www.dolap.com,True
-trendyol,www.trendyol-milla.com,True
 trellix,*.skyhighsecurity.com,False
 trellix,*.trellix.com,False
 trellix,*.trellix.com,False
@@ -9528,9 +9526,9 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,auth.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True
+crypto,auth.crypto.com,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
@@ -10503,8 +10501,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

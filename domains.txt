@@ -10,9 +10,9 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -4585,14 +4585,12 @@ banfield.us
 *.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
-www.trendyol-milla.com
 m.trendyol.com
 www.dolap.com
 www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
-www.trendyol-milla.com
 *.skyhighsecurity.com
 *.trellix.com
 *.trellix.com
@@ -9527,9 +9525,9 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-auth.crypto.com
 *.mona.co
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -10502,8 +10500,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
