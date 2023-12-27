@@ -7835,8 +7835,8 @@ alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliyun-inc.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10190,8 +10190,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
-snapchat,businesshelp.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,businesshelp.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10206,8 +10206,8 @@ snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
