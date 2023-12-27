@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 20:10:05 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 21:10:50 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-blog.23andme.com
 api.23andme.com
 auth.23andme.com
 you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -146,8 +146,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com
@@ -1645,9 +1645,9 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2000,10 +2000,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -3351,10 +3351,10 @@ rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-business.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
