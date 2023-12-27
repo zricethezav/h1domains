@@ -796,8 +796,8 @@ zerobounce.net
 *.teleport.dev
 *.gravitational.co
 cloud.gravitational.io
-askpam.ai
 *.teleportinfra.sh
+askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh

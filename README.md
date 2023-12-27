@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 11:10:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 12:10:15 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -802,8 +802,8 @@ zerobounce.net
 *.teleport.dev
 *.gravitational.co
 cloud.gravitational.io
-askpam.ai
 *.teleportinfra.sh
+askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh

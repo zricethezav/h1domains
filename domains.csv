@@ -3542,8 +3542,8 @@ teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
 teleport,*.gravitational.co,True
 teleport,cloud.gravitational.io,True
-teleport,askpam.ai,True
 teleport,*.teleportinfra.sh,True
+teleport,askpam.ai,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
