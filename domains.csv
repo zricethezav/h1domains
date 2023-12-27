@@ -136,11 +136,11 @@ navient_solutions,dsparkingportal.com,False
 navient_solutions,temp.msbpay.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,www.pampayments.com,False
-navient_solutions,www.pamcollectionsin.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
 navient_solutions,sandiego.dsmyportal.com,False
+navient_solutions,www.pamcollectionsin.com,False
 navient_solutions,www.msbnexus.com,False
 navient_solutions,duncan.imageenforcement.com,False
 navient_solutions,myaccount.navirefi.com,False
@@ -6459,9 +6459,9 @@ reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,new.reddit.com,True
-reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
 reddit,sh.reddit.com,True
+reddit,*.snooguts.net,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7300,8 +7300,8 @@ tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -10501,8 +10501,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
