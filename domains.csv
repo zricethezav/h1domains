@@ -1189,9 +1189,9 @@ alshaya,*.alshayaenterprises.com,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -9325,8 +9325,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True

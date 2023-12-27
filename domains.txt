@@ -1188,9 +1188,9 @@ shayakahve.com.tr
 card.starbucks.com.kz
 *.footlocker.com.eg
 *.starbuckscardtr.com
-*.victoriassecret.com.qa
 *.aloyoga.com.kw
 *.americaneagle.com.bh
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -9324,8 +9324,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
