@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -40,8 +40,8 @@ mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1558,8 +1558,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
@@ -8220,13 +8220,13 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work.8x8.com,False
 8x8,8x8.force.com,False
 8x8,platform.8x8.com,False
-8x8,www.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.8x8.id,False
 8x8,*.jitsi.net,False
 8x8,*.chalet.8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.jitsi.org,False
+8x8,www.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
