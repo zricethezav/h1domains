@@ -75,8 +75,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-taxis.booking.com
 *.rentalcars.com
+taxis.booking.com
 taxi.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
@@ -2653,8 +2653,8 @@ app.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
 id.avtoelon.uz
-app.krisha.kz
 m.kolesa.kz
+app.krisha.kz
 api.avtoelon.uz
 krisha.kz
 kolesa.kz
@@ -7290,9 +7290,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
@@ -8832,7 +8832,6 @@ chaodeudas.cl
 *.accountscore.com
 *.accountscore.net
 *.employersedge.net
-*.datacredito.com.do
 *.paynet.us
 *.paynet.ca
 *.paynet.com
@@ -8849,6 +8848,7 @@ ehxhr.com
 register.alertxpress.com
 JOBALINE.COM
 JOBALINECI.COM
+*.datacredito.com.do
 *equifax.cl
 *equifax.hn
 *equifax.co.nz

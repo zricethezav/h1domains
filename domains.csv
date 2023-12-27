@@ -76,8 +76,8 @@ bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
-bookingcom,taxis.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,taxis.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,paynotifications.booking.com,True
@@ -2654,8 +2654,8 @@ kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,id.avtoelon.uz,True
-kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
+kolesagroup,app.krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
@@ -7291,9 +7291,9 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
-tiktok,live-backstage.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,live-backstage.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -8833,7 +8833,6 @@ equifax,chaodeudas.cl,False
 equifax,*.accountscore.com,False
 equifax,*.accountscore.net,False
 equifax,*.employersedge.net,False
-equifax,*.datacredito.com.do,False
 equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
@@ -8850,6 +8849,7 @@ equifax,*.efficientforms.com,False
 equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
+equifax,*.datacredito.com.do,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
