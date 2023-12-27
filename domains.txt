@@ -7486,7 +7486,6 @@ app.marionnaud.it
 app.marionnaud.ro
 api.watsons.com.tw
 api.watsons.com.hk
-app.watsons.com.tr
 api.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
