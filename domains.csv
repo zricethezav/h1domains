@@ -10500,8 +10500,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10662,11 +10662,11 @@ security,profile-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
