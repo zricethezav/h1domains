@@ -10544,8 +10544,8 @@ simplenote.com
 gravatar.com
 assets.tumblr.com
 api.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
