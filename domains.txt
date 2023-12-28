@@ -4486,7 +4486,6 @@ banfieldexchange.com
 *.jornadasroyalcanin.com.ar
 *.orbitgum.com
 *.royalcanin.pl
-*.mms.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -4497,6 +4496,7 @@ banfieldfoundation.org
 *.pedigree.com
 *.vcahospitals.com
 *.royalcanin.ca
+*.mms.com
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl
@@ -10204,8 +10204,8 @@ www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com

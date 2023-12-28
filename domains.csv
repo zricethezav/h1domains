@@ -4487,7 +4487,6 @@ mars,*.royalcanin.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
-mars,*.mms.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -4498,6 +4497,7 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.royalcanin.ca,False
+mars,*.mms.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
@@ -10205,8 +10205,8 @@ snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
