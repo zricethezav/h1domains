@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1190,8 +1190,8 @@ alshaya,*.starbuckscardtr.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
-alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
+alshaya,*.americaneagle.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
