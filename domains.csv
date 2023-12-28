@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1064,8 +1064,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -3411,8 +3411,8 @@ expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.wotif.com,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -3508,8 +3508,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -7829,12 +7829,12 @@ alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
-alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.alimama.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10310,8 +10310,8 @@ adobe,status.adobe.com,False
 adobe,magentolive.com,True
 adobe,applications.frame.io,False
 adobe,*.proofhq.com,False
-adobe,*.tubemogul.com,False
 adobe,*.marketo.com,False
+adobe,*.tubemogul.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -10411,10 +10411,10 @@ airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
-airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.muscache.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
