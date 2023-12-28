@@ -2652,8 +2652,8 @@ kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,kolesa.kz,True
 kolesagroup,id.avtoelon.uz,True
+kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -3273,6 +3273,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.wavecell.com,True
 8x8-bounty,pay.8x8.com,True
+8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -7833,8 +7834,8 @@ alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
+alibaba,*.alimama.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True

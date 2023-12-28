@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 10:09:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 11:10:25 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -367,8 +367,8 @@ avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
 m.avtoelon.uz
-kolesa.kz
 id.avtoelon.uz
+kolesa.kz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -656,6 +656,7 @@ user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
 pay.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2009,8 +2010,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.aliyun.com
-*.alimama.com
 *.1688.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
