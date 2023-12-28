@@ -9496,9 +9496,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.folioinvesting.com,True
 goldmansachs,*.claritymoney.com,False
 valve,playartifact.com,True
-valve,store.steampowered.com,True
 valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
+valve,store.steampowered.com,True
 valve,partner.steampowered.com,True
 valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True
@@ -10597,8 +10597,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,*.base.org,True
-coinbase,coinbase.com,True
 coinbase,institutional.coinbase.com,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
@@ -10664,9 +10664,9 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
