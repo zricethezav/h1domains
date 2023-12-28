@@ -5,14 +5,14 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 store.23andme.com
 education.23andme.com
-api.23andme.com
 auth.23andme.com
 you.23andme.com
 blog.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2701,8 +2701,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
@@ -2995,9 +2995,9 @@ http://miro.com/blog
 *.abb.co.in
 *.abb.fr
 *.abb.se
-*.abb.com.cn
 *.br-automation.com
 *.it.abb.com
+*.abb.com.cn
 *.busch-jaeger.nu
 *.xc.abb.com
 *.evcharging.abb.com
