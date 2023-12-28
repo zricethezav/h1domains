@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 06:09:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 07:09:29 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -134,8 +134,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2674,8 +2674,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.foliofn.com
 *.unitedcp.com
-*.goldman.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
