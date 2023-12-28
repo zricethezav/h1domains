@@ -4496,8 +4496,8 @@ mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
-mars,*.royalcanin.ca,False
 mars,*.mms.com,False
+mars,*.royalcanin.ca,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
@@ -6561,9 +6561,9 @@ chime,*.chime.com,True
 chime,*.1debit.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
-chime,wp-dev5.chime.com,True
 chime,*.chimebank.com,True
 chime,app.chime.com,True
+chime,wp-dev5.chime.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -9835,15 +9835,15 @@ wordpress,irclogs.wordpress.org,True
 wordpress,gutenberg.run,True
 wordpress,*.wordpress.net,True
 wordpress,api.wordpress.org,True
-wordpress,codex.wordpress.org,True
-wordpress,codex.bbpress.org,True
-wordpress,codex.buddypress.org,True
 wordpress,mercantile.wordpress.org,True
 wordpress,doaction.org,True
 wordpress,*.trac.wordpress.org,True
 wordpress, *.svn.wordpress.org,True
 wordpress, *.git.wordpress.org,True
 wordpress, github.com/WordPress,True
+wordpress,codex.wordpress.org,True
+wordpress,codex.bbpress.org,True
+wordpress,codex.buddypress.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True

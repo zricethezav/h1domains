@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 21:09:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 22:09:45 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1453,9 +1453,9 @@ wp-qa.chime.com
 *.1debit.com
 *.chmfin.com
 wp-dev2.chime.com
-wp-dev5.chime.com
 *.chimebank.com
 app.chime.com
+wp-dev5.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3039,15 +3039,15 @@ irclogs.wordpress.org
 gutenberg.run
 *.wordpress.net
 api.wordpress.org
-codex.wordpress.org
-codex.bbpress.org
-codex.buddypress.org
 mercantile.wordpress.org
 doaction.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+codex.wordpress.org
+codex.bbpress.org
+codex.buddypress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
