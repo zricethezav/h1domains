@@ -7300,8 +7300,8 @@ tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7422,8 +7422,8 @@ figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
 cs_money,3d.cs.money,True
-cs_money,cs.money,True
 cs_money,support.cs.money,True
+cs_money,cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -9769,9 +9769,9 @@ bumble,hotornot.com,True
 bumble,m.badoo.com,True
 bumble,meu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
-bumble,zodia.studio,True
 bumble,chatdate.app,True
 bumble,us1.badoo.com,True
+bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
@@ -10500,8 +10500,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

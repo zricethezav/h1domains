@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 12:11:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 13:10:36 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1647,8 +1647,8 @@ careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1692,8 +1692,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 3d.cs.money
-cs.money
 support.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2973,9 +2973,9 @@ hotornot.com
 m.badoo.com
 meu1.badoo.com
 ccardsus1.badoo.com
-zodia.studio
 chatdate.app
 us1.badoo.com
+zodia.studio
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
@@ -3524,8 +3524,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
