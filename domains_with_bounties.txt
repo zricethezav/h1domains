@@ -3437,8 +3437,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnb.com
 *.muscache.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3606,8 +3606,8 @@ pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
 international.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 *.base.org
 institutional.coinbase.com
