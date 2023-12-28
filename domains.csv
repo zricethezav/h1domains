@@ -8027,8 +8027,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -10038,8 +10038,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10663,10 +10663,10 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
-security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
+security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
