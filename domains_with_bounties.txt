@@ -2790,8 +2790,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
