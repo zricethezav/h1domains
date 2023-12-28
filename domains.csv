@@ -1185,13 +1185,13 @@ alshaya,bathandbodyworks.ro,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.alshayaenterprises.com,False
-alshaya,card.starbucks.com.kz,False
 alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
+alshaya,card.starbucks.com.kz,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -10310,9 +10310,9 @@ adobe,documentcloud.adobe.com,False
 adobe,status.adobe.com,False
 adobe,magentolive.com,True
 adobe,applications.frame.io,False
-adobe,*.marketo.com,False
 adobe,*.proofhq.com,False
 adobe,*.tubemogul.com,False
+adobe,*.marketo.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -10645,8 +10645,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
+security,hackerone-user-content.com,True
 security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
@@ -10659,8 +10659,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,profile-photos.hackerone-user-content.com,True
-security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
