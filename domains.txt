@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 *.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1156,8 +1156,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-help.coinhako.com
 www.coinhako.com
+help.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -1523,8 +1523,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
