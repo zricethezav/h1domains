@@ -1557,8 +1557,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -5384,11 +5384,11 @@ tvawcma.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
 help-jp.krisp.ai
-analytics.krisp.ai
 help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
 resources.krisp.ai
+analytics.krisp.ai
 upld.krisp.ai
 account.krisp.ai
 *.krisp.ai
@@ -9440,8 +9440,8 @@ api.foliofn.com
 marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.de
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

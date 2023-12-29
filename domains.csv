@@ -1558,8 +1558,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
@@ -5385,11 +5385,11 @@ tennessee-valley-authority,tvawcma.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
 krisp,help-jp.krisp.ai,False
-krisp,analytics.krisp.ai,True
 krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,resources.krisp.ai,False
+krisp,analytics.krisp.ai,True
 krisp,upld.krisp.ai,True
 krisp,account.krisp.ai,True
 krisp,*.krisp.ai,True
@@ -9441,8 +9441,8 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.de,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
