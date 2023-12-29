@@ -4495,8 +4495,8 @@ banfieldexchange.com
 banfieldfoundation.org
 *.pedigree.com
 *.vcahospitals.com
-*.royalcanin.ca
 *.mms.com
+*.royalcanin.ca
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl
@@ -8612,8 +8612,8 @@ progressivetech.holdings
 ayo.ba
 downloads.datastax.com
 www.datastax.com
-docs.datastax.com
 astra.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -8824,13 +8824,13 @@ ehxhr.com
 *.certificadoboavista.com.br
 *.konduto.com
 *.redeverdeamarela.com.br
-*equifax.co.in
 *.efficientforms.com
 register.alertxpress.com
 JOBALINE.COM
 JOBALINECI.COM
 *.datacredito.com.do
 www.equifax.com
+*equifax.co.in
 *.bvsnet.com.br
 *equifax.cl
 *equifax.co.nz

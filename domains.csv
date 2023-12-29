@@ -4496,8 +4496,8 @@ mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
-mars,*.royalcanin.ca,False
 mars,*.mms.com,False
+mars,*.royalcanin.ca,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
@@ -8613,8 +8613,8 @@ mtn_group,progressivetech.holdings,False
 mtn_group,ayo.ba,False
 datastax,downloads.datastax.com,True
 datastax,www.datastax.com,True
-datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
+datastax,docs.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -8825,13 +8825,13 @@ equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
 equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
-equifax,*equifax.co.in,False
 equifax,*.efficientforms.com,False
 equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,*.datacredito.com.do,False
 equifax,www.equifax.com,False
+equifax,*equifax.co.in,False
 equifax,*.bvsnet.com.br,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.nz,False
