@@ -11,8 +11,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1181,7 +1181,6 @@ kw.boots.com
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-shayakahve.com.tr
 *.mothercare.com.eg
 *.alshayaenterprises.com
 *.footlocker.com.eg
@@ -1191,6 +1190,7 @@ shayakahve.com.tr
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
 card.starbucks.com.kz
+shayakahve.com.tr
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1523,8 +1523,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -9441,7 +9441,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.folioclient.com
-*.gs.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
