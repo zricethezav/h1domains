@@ -1193,10 +1193,10 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
-id.recordedfuture.com
+www.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -3226,10 +3226,10 @@ api2.grofers.com
 api.grofers.com
 *.hyperpure.com
 blinkit.com
-winecellar.zomato.com
 *.zdev.net
 *.zomans.com
 *.zomato.com
+winecellar.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

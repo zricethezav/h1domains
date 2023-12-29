@@ -5578,10 +5578,10 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
-recorded-future,id.recordedfuture.com,True
+recorded-future,www.recordedfuture.com,True
 recorded-future,tria.ge,True
+recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -10077,10 +10077,10 @@ zomato,api2.grofers.com,True
 zomato,api.grofers.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
-zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,winecellar.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
