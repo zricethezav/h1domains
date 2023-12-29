@@ -2686,8 +2686,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,api.tide.co,True
-tide,www.tide.co,True
 tide,web.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -10160,8 +10160,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,*.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
