@@ -200,8 +200,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -268,10 +268,10 @@ www.visa.co.ke
 www.visa.co.th
 www.visa.co.uk
 visa.co.za
-www.authorize.net
 www.visa.co.id
 www.cybersource.com
 www.visa.co.ve
+www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -3255,8 +3255,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

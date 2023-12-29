@@ -1558,8 +1558,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
@@ -1635,10 +1635,10 @@ visa,www.visa.co.ke,True
 visa,www.visa.co.th,True
 visa,www.visa.co.uk,True
 visa,visa.co.za,True
-visa,www.authorize.net,True
 visa,www.visa.co.id,True
 visa,www.cybersource.com,True
 visa,www.visa.co.ve,True
+visa,www.authorize.net,True
 visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
@@ -4638,8 +4638,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
+planetart,*.simplytoimpress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
@@ -10106,8 +10106,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True

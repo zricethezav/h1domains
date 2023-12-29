@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 17:10:56 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 18:11:04 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -206,8 +206,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -274,10 +274,10 @@ www.visa.co.ke
 www.visa.co.th
 www.visa.co.uk
 visa.co.za
-www.authorize.net
 www.visa.co.id
 www.cybersource.com
 www.visa.co.ve
+www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -3261,8 +3261,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
