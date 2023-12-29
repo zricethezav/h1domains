@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 08:09:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 09:10:23 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -724,7 +724,6 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.hotwirepartnercentral.com
 www.mrjet.se
 www.expediaagents.com
 www.expediapartnersolutions.com
@@ -732,6 +731,7 @@ www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.expediagroup.com
+www.hotwirepartnercentral.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -1424,8 +1424,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2086,10 +2086,10 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
