@@ -10,10 +10,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -139,8 +139,8 @@ navient_solutions,www.pampayments.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
-navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.pamcollectionsin.com,False
+navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.msbnexus.com,False
 navient_solutions,duncan.imageenforcement.com,False
 navient_solutions,myaccount.navirefi.com,False
@@ -3772,8 +3772,8 @@ poloniex,api.poloniex.com,True
 poloniex,m.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
-amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,a4k.amazon.com,True
+amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
 amazonvrp-devices,alexa.amazon.com,True
@@ -4893,8 +4893,8 @@ alohi,*.sign.plus,False
 alohi,*.sign.plus,False
 alohi,*.fax.plus,False
 alohi,www.alohi.com,False
-anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
+anywhererealestate,*.trgc.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False

@@ -9,10 +9,10 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -138,8 +138,8 @@ www.pampayments.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
-sandiego.dsmyportal.com
 www.pamcollectionsin.com
+sandiego.dsmyportal.com
 www.msbnexus.com
 duncan.imageenforcement.com
 myaccount.navirefi.com
@@ -3771,8 +3771,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-blueprints.amazon.com
 a4k.amazon.com
+blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 alexa.amazon.com
@@ -4892,8 +4892,8 @@ www.alohi.com
 *.sign.plus
 *.fax.plus
 www.alohi.com
-*.trgc.com
 *.cartus.com
+*.trgc.com
 *.leadrouter.com
 *.bhgre.*
 *.century21.*
