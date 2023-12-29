@@ -1072,8 +1072,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1157,8 +1157,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
+coinhako,www.coinhako.com,True
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -8810,7 +8810,6 @@ equifax,*equifax.com,False
 equifax,*equifax.sv,False
 equifax,*equifax.com.py,False
 equifax,*equifax.pt,False
-equifax,www.equifax.com,False
 equifax,*.mapcity.com,False
 equifax,chaodeudas.cl,False
 equifax,*.accountscore.com,False
@@ -8833,8 +8832,8 @@ equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,*.datacredito.com.do,False
+equifax,www.equifax.com,False
 equifax,*equifax.cl,False
-equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
 equifax,*.dicom.cl,False
@@ -8858,6 +8857,7 @@ equifax,*.acertandosuascontas.com.br,False
 equifax,*.healthefx.net,False
 equifax,*equifax.co.uk,False
 equifax,*.employersedge.com,False
+equifax,*.wageverify.com,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -10156,8 +10156,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

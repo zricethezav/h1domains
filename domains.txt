@@ -1071,8 +1071,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1156,8 +1156,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-www.coinhako.com
 help.coinhako.com
+www.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -8809,7 +8809,6 @@ app.command.cysiv.com
 *equifax.sv
 *equifax.com.py
 *equifax.pt
-www.equifax.com
 *.mapcity.com
 chaodeudas.cl
 *.accountscore.com
@@ -8832,8 +8831,8 @@ register.alertxpress.com
 JOBALINE.COM
 JOBALINECI.COM
 *.datacredito.com.do
+www.equifax.com
 *equifax.cl
-*equifax.hn
 *equifax.co.nz
 *equifax.es
 *.dicom.cl
@@ -8857,6 +8856,7 @@ ntcusa.com
 *.healthefx.net
 *equifax.co.uk
 *.employersedge.com
+*.wageverify.com
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10155,8 +10155,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
