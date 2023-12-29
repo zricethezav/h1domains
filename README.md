@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 22:10:33 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 23:08:36 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1991,10 +1991,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
 www.alibabagroup.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.Daraz.com
@@ -2731,10 +2731,10 @@ help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
 partner.steampowered.com
-partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
+partner.steamgames.com
 api.steampowered.com
 support.steampowered.com
 www.dota2.com

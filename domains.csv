@@ -7810,10 +7810,10 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.Daraz.com,True
@@ -9486,10 +9486,10 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,store.steampowered.com,True
 valve,partner.steampowered.com,True
-valve,partner.steamgames.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True
 valve,www.valvesoftware.com,True
+valve,partner.steamgames.com,True
 valve,api.steampowered.com,True
 valve,wiki.teamfortress.com,False
 valve,storefront.steampowered.com,False
