@@ -1760,7 +1760,6 @@ clarivate,cpamemostart.org.uk,False
 clarivate,cpamemotech.net,False
 clarivate,derwent.at,False
 clarivate,derwent.co.in,False
-clarivate,derwent.co.uk,False
 clarivate,derwent.de,False
 clarivate,derwent.fr,False
 clarivate,derwent-geneseq.com,False
@@ -1784,6 +1783,7 @@ clarivate,endnote.fi,False
 clarivate,endnote.in,False
 clarivate,endnote.jp,False
 clarivate,endnote.ru,False
+clarivate,endnote.tw,False
 clarivate,cpaglobal.ru,False
 clarivate,authorconnect-webofscience.com,False
 clarivate,authorconnectwebofscience.com,False
@@ -5482,13 +5482,13 @@ epicgames,*.rukkaz.com,True
 epicgames,*.audicagame.com,True
 epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
-epicgames,fortnite.com,True
 epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,*.popjam.com,True
 epicgames,capturingreality.com,True
 epicgames,*.mediatonic.co.uk,True
+epicgames,fortnite.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.hmxwebservices.com,True
@@ -9908,11 +9908,11 @@ starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
-starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com,True
+starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True

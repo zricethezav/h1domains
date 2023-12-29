@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 11:09:31 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 12:09:56 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1120,13 +1120,13 @@ api.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-fortnite.com
 fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
 capturingreality.com
 *.mediatonic.co.uk
+fortnite.com
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -3107,11 +3107,11 @@ www.starbucksreserve.com
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn

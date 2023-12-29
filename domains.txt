@@ -1759,7 +1759,6 @@ cpamemostart.org.uk
 cpamemotech.net
 derwent.at
 derwent.co.in
-derwent.co.uk
 derwent.de
 derwent.fr
 derwent-geneseq.com
@@ -1783,6 +1782,7 @@ endnote.fi
 endnote.in
 endnote.jp
 endnote.ru
+endnote.tw
 cpaglobal.ru
 authorconnect-webofscience.com
 authorconnectwebofscience.com
@@ -5481,13 +5481,13 @@ api.stage.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-fortnite.com
 fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
 capturingreality.com
 *.mediatonic.co.uk
+fortnite.com
 *.3lateral.com
 forum.sketchfab.com
 *.hmxwebservices.com
@@ -9907,11 +9907,11 @@ www.starbucksreserve.com
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
