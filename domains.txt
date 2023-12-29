@@ -67,9 +67,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1189,8 +1189,8 @@ shayakahve.com.tr
 *.aloyoga.com.kw
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
-card.starbucks.com.kz
 *.americaneagle.com.kw
+card.starbucks.com.kz
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -10596,8 +10596,8 @@ cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 *.base.org
-institutional.coinbase.com
 coinbase.com
+institutional.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
