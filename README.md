@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 12:09:56 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 13:09:31 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -343,8 +343,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -966,7 +966,6 @@ sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 www.etoro.com
-aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -974,6 +973,7 @@ tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
 etoropartners.com
+aggregator.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -3299,8 +3299,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app

@@ -139,8 +139,8 @@ navient_solutions,www.pampayments.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
-navient_solutions,www.pamcollectionsin.com,False
 navient_solutions,sandiego.dsmyportal.com,False
+navient_solutions,www.pamcollectionsin.com,False
 navient_solutions,www.msbnexus.com,False
 navient_solutions,duncan.imageenforcement.com,False
 navient_solutions,myaccount.navirefi.com,False
@@ -2637,8 +2637,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -4809,7 +4809,6 @@ etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,www.etoro.com,True
-etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
 etoro_bbp,kyc-src.etoro.com,True
@@ -4817,6 +4816,7 @@ etoro_bbp,tapi-demo.etoro.com,True
 etoro_bbp,uapi-front.etoro.com,True
 etoro_bbp,wallet.etoro.com,True
 etoro_bbp,etoropartners.com,True
+etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,billing.etoro.com,True
 etoro_bbp,push-hap.cloud.etoro.com,True
 etoro_bbp,push-n-hap.cloud.etoro.com,True
@@ -10146,8 +10146,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
