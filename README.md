@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 00:18:26 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 01:25:43 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 *.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -235,15 +235,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-www.mobile-phantom.com
-*.palm.tech
-www.tecno-mobile.com
-security.tecno.com
-*.palm.tech
-www.tecno-mobile.com
-www.boomplay.com
-security.tecno.com
-www.mobile-phantom.com
 www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
@@ -2008,10 +1999,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun-inc.com
 *.aliyun.com
-*.1688.com
 *.alimama.com
+*.1688.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2088,11 +2079,11 @@ sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
-reservations.all-inclusive.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
