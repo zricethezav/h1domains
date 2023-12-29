@@ -7,8 +7,8 @@ switch.vdp-egress.com
 www.egress.com
 mediacenter.23andme.com
 research.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 blog.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -2929,10 +2929,10 @@ profile-api.eu-east-1.indriverapp.com
 argocd.indrive.dev
 ci.indrive.dev
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
+watchdocs.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -4495,8 +4495,8 @@ banfieldexchange.com
 banfieldfoundation.org
 *.pedigree.com
 *.vcahospitals.com
-*.mms.com
 *.royalcanin.ca
+*.mms.com
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl
@@ -5741,7 +5741,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-map.deere.com
 us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
@@ -5782,6 +5781,7 @@ parts.deere.africa
 marksman.surepointag.com
 johndeereinnovation.com
 parts.waratah.com
+rewards.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -9511,8 +9511,8 @@ developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
 *.mona.co
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
