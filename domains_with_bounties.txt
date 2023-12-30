@@ -1211,8 +1211,8 @@ www.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 admin-catalog-bsp.data.gov
-*.search.gov
 www.usa.gov
+*.search.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov

@@ -5596,8 +5596,8 @@ gsa_bbp,www.data.gov,True
 gsa_bbp,ssh.fr.cloud.gov,True
 gsa_bbp,*.code.gov,True
 gsa_bbp,admin-catalog-bsp.data.gov,True
-gsa_bbp,*.search.gov,True
 gsa_bbp,www.usa.gov,True
+gsa_bbp,*.search.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,login.fr.cloud.gov,True
 gsa_bbp,catalog.data.gov,True
