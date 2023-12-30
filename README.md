@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 20:10:24 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 21:08:54 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2077,8 +2077,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
@@ -2571,9 +2571,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-*.paypalcorp.com
 loanbuilder.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2688,7 +2688,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3344,8 +3344,8 @@ www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -3633,8 +3633,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

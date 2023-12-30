@@ -7966,8 +7966,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
@@ -8830,8 +8830,8 @@ equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,*.datacredito.com.do,False
-equifax,www.equifax.com,False
 equifax,*equifax.co.in,False
+equifax,www.equifax.com,False
 equifax,*.bvsnet.com.br,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.nz,False
@@ -9319,9 +9319,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.braintreegateway.com,True
-paypal,*.paypalcorp.com,True
 paypal,loanbuilder.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9442,7 +9442,7 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10191,8 +10191,8 @@ snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -10609,8 +10609,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
