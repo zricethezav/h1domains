@@ -1356,8 +1356,8 @@ api.reddit.com
 app.spiketrap.io
 gql.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com

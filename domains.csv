@@ -6453,8 +6453,8 @@ reddit,api.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
-reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,old.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
