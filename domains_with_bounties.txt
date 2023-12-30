@@ -80,8 +80,8 @@ paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3593,9 +3593,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
