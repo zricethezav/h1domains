@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3313,8 +3313,8 @@ superbet,*.luckydays.ca,True
 moonpay,*.moonpaycloud.com,True
 moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
-moonpay,*.hypermint.com,True
 moonpay,hypermint.com,True
+moonpay,*.hypermint.com,True
 moonpay,*.moonpaycloud.com,True
 moonpay,*.hypermint.com,True
 moonpay,*.moonpay.com,True
@@ -10576,8 +10576,8 @@ irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
-coinbase,*.coinbase.com,True
 coinbase,pro.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
