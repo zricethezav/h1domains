@@ -1177,7 +1177,6 @@ dev.alshaya.com
 devimages.alshaya.com
 suppliertraining.alshaya.com
 sa.hm.com
-kw.boots.com
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
@@ -1191,6 +1190,7 @@ bathandbodyworks.ro
 *.americaneagle.com.kw
 card.starbucks.com.kz
 shayakahve.com.tr
+kw.boots.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -8999,8 +8999,8 @@ www.bookingholdings.com
 *.cryptography.io
 *.cryptography.io
 *.pyopenssl.org
-*.paribus.co
 *.theunioncard.com
+*.paribus.co
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk

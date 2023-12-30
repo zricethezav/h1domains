@@ -1178,7 +1178,6 @@ alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
-alshaya,kw.boots.com,False
 alshaya,bakimonarim.shaya.com.tr,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
@@ -1192,6 +1191,7 @@ alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
 alshaya,shayakahve.com.tr,False
+alshaya,kw.boots.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -9000,8 +9000,8 @@ pyca,*.pyopenssl.org,False
 pyca,*.cryptography.io,False
 pyca,*.cryptography.io,False
 pyca,*.pyopenssl.org,False
-capital-one,*.paribus.co,False
 capital-one,*.theunioncard.com,False
+capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
