@@ -4895,9 +4895,9 @@ www.alohi.com
 *.cartus.com
 *.trgc.com
 *.leadrouter.com
-*.bhgre.*
 *.century21.*
 *.era.com
+*.bhgre.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -7293,11 +7293,11 @@ tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
