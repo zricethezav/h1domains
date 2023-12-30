@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 21:08:54 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 22:08:45 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -799,8 +799,8 @@ askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-platform.teleport.sh
 *.goteleport.com
+platform.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1999,10 +1999,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3179,16 +3179,16 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3392,8 +3392,8 @@ ispdesign.ui.com
 ca.store.ui.com
 community.ui.com
 careers.ui.com
-rma.ui.com
 account.ui.com
+rma.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
@@ -3432,10 +3432,10 @@ next.airbnb.com
 *.withairbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.muscache.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
