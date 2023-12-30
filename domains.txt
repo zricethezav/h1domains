@@ -3250,10 +3250,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-*.8x8.vc
 *.jitsi.net
 sso.8x8.com
 connect.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com

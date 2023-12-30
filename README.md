@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 11:10:20 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 12:10:06 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -625,10 +625,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.8x8.vc
 *.jitsi.net
 sso.8x8.com
 connect.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com

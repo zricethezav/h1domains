@@ -3251,10 +3251,10 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
