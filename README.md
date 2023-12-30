@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 17:09:46 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 18:09:41 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -3606,9 +3606,9 @@ international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

@@ -3600,9 +3600,9 @@ international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
