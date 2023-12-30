@@ -1438,9 +1438,9 @@ wp-qa.chime.com
 *.1debit.com
 *.chmfin.com
 wp-dev2.chime.com
-*.chimebank.com
 app.chime.com
 wp-dev5.chime.com
+*.chimebank.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3141,8 +3141,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 talk.brave.com
-search.brave.com
 brave.com
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
