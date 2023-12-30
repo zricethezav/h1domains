@@ -6643,7 +6643,6 @@ vehiclestdb.fas.gsa.gov
 reportsportal.fas.gsa.gov
 vehicledispatch.fas.gsa.gov
 cars.fas.gsa.gov
-cfo.gov
 challenge.gov
 consumeraction.gov
 fedrooms.gov
@@ -6666,6 +6665,7 @@ federalist-docs.18f.gov
 debits.fas.gsa.gov
 charlie.sam.gov
 travel.reporting.gov
+ftp.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -10105,8 +10105,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

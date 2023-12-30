@@ -6644,7 +6644,6 @@ gsa_vdp,vehiclestdb.fas.gsa.gov,False
 gsa_vdp,reportsportal.fas.gsa.gov,False
 gsa_vdp,vehicledispatch.fas.gsa.gov,False
 gsa_vdp,cars.fas.gsa.gov,False
-gsa_vdp,cfo.gov,False
 gsa_vdp,challenge.gov,False
 gsa_vdp,consumeraction.gov,False
 gsa_vdp,fedrooms.gov,False
@@ -6667,6 +6666,7 @@ gsa_vdp,federalist-docs.18f.gov,False
 gsa_vdp,debits.fas.gsa.gov,False
 gsa_vdp,charlie.sam.gov,False
 gsa_vdp,travel.reporting.gov,False
+gsa_vdp,ftp.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -10106,8 +10106,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,app.deriv.com,True
 deriv,oauth.deriv.com,True
+deriv,app.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
