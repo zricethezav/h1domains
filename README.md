@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 00:19:38 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 01:30:45 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -39,8 +39,8 @@ api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
