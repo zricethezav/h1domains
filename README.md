@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 16:09:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 17:09:46 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1384,8 +1384,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2688,7 +2688,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

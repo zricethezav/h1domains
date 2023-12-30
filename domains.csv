@@ -6475,8 +6475,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -9442,7 +9442,7 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
