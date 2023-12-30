@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 14:09:31 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 15:08:40 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2179,9 +2179,9 @@ hub.vroid.com
 vroid.com
 novel.pixiv.net
 www.pixiv.net
-accounts.pixiv.net
 booth.pm
 *.fanbox.cc
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net

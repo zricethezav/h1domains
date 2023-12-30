@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
-egress-vdp,reader.vdp-egress.com,False
 egress-vdp,www.egress.com,False
+egress-vdp,reader.vdp-egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
@@ -8703,9 +8703,9 @@ pixiv,hub.vroid.com,True
 pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
-pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,*.fanbox.cc,True
+pixiv,accounts.pixiv.net,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,sketch.pixiv.net,True

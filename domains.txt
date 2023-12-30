@@ -1,7 +1,7 @@
 https://passport.eufy.com/?app=eufy-us
 switch.vdp-egress.com
-reader.vdp-egress.com
 www.egress.com
+reader.vdp-egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
@@ -8702,9 +8702,9 @@ hub.vroid.com
 vroid.com
 novel.pixiv.net
 www.pixiv.net
-accounts.pixiv.net
 booth.pm
 *.fanbox.cc
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
