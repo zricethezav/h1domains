@@ -1,7 +1,7 @@
 https://passport.eufy.com/?app=eufy-us
 switch.vdp-egress.com
-www.egress.com
 reader.vdp-egress.com
+www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
@@ -10154,9 +10154,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
