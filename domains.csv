@@ -8,12 +8,12 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1189,9 +1189,9 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
-alshaya,shayakahve.com.tr,False
 alshaya,kw.boots.com,False
 alshaya,*.westelm.com.kw,False
+alshaya,shayakahve.com.tr,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -10645,8 +10645,8 @@ security,ctf.hacker101.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
-security,www.hackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
