@@ -1169,7 +1169,6 @@ alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
-alshaya,*.westelm.com.kw,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
 alshaya,*.debenhams.sa,False
@@ -1192,6 +1191,7 @@ alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
 alshaya,shayakahve.com.tr,False
 alshaya,kw.boots.com,False
+alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1602,11 +1602,11 @@ visa,www.visa.com.lc,True
 visa,www.visa.com.ph,True
 visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
-visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.tw,True
 visa,www.visa.co.jp,True
 visa,visa.com.ua,True
 visa,www.practicalmoneyskills.com,True
+visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.mx,True
 visa,www.visa.com.cy,True
 visa,www.visa.com.ge,True
@@ -10575,9 +10575,9 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
-coinbase,*.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
@@ -10632,8 +10632,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10645,8 +10645,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
