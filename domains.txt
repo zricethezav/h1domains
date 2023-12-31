@@ -3808,7 +3808,6 @@ shard.wwwfeo.fossil.com.edgekey.net
 *.dieseltimeframes.co.uk
 *.dieseltimeframes.de
 *.dieseltimeframes.kr
-*.fossi.com
 *.fossil.cl
 *.fossil.com.hk
 *.fossil.com.lk
@@ -3852,6 +3851,7 @@ shard.wwwfeo.fossil.com.edgekey.net
 *.skagen.co.uk
 *.skagen.co.za
 *.skagen.es
+*.skagen.gr
 *.cdgfossil.com
 *.linkplatforms.com
 *.cdgcitizen.com
@@ -6192,8 +6192,8 @@ www.urbanclap.com
 *sgveconnect.org
 *huntingtonhospital.com
 *huntingtonhospital.net
-*hhphysicians.org
 *csmc.edu
+*hhphysicians.org
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
 *www.cshs.org

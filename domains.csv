@@ -3809,7 +3809,6 @@ fossil,*.abacuswatches.com,False
 fossil,*.dieseltimeframes.co.uk,False
 fossil,*.dieseltimeframes.de,False
 fossil,*.dieseltimeframes.kr,False
-fossil,*.fossi.com,False
 fossil,*.fossil.cl,False
 fossil,*.fossil.com.hk,False
 fossil,*.fossil.com.lk,False
@@ -3853,6 +3852,7 @@ fossil,*.skagen-designs.de,False
 fossil,*.skagen.co.uk,False
 fossil,*.skagen.co.za,False
 fossil,*.skagen.es,False
+fossil,*.skagen.gr,False
 fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
@@ -6193,8 +6193,8 @@ cedars-sinai,*Huntingtonrx.net,False
 cedars-sinai,*sgveconnect.org,False
 cedars-sinai,*huntingtonhospital.com,False
 cedars-sinai,*huntingtonhospital.net,False
-cedars-sinai,*hhphysicians.org,False
 cedars-sinai,*csmc.edu,False
+cedars-sinai,*hhphysicians.org,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
 cedars-sinai,*www.cshs.org,False
