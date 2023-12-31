@@ -4736,8 +4736,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.swoodoo.com,True
-kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
+kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -4768,8 +4768,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5486,9 +5486,9 @@ epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,*.popjam.com,True
-epicgames,capturingreality.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,fortnite.com,True
+epicgames,capturingreality.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.hmxwebservices.com,True
@@ -10184,7 +10184,6 @@ snapchat,login.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
-snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,www.bitmoji.com,True
@@ -10193,10 +10192,11 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,map.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,web.snapchat.com,True
 snapchat,spectacles.com,True
+snapchat,web.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
