@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 04:10:38 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 05:08:36 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1634,9 +1634,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3515,8 +3515,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

@@ -7295,9 +7295,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -10485,8 +10485,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
