@@ -62,8 +62,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3593,9 +3593,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-pro.coinbase.com
 *.coinbase.com
 prime.coinbase.com
+pro.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
