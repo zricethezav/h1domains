@@ -7465,8 +7465,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
-www.watsons.co.id
 www.marionnaud.fr
+www.watsons.co.id
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -10245,8 +10245,8 @@ careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 help.ui.com
-account.ui.com
 rma.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
