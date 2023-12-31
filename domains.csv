@@ -10575,9 +10575,9 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
-coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,prime.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True

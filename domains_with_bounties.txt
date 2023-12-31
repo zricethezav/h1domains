@@ -3593,9 +3593,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
