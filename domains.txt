@@ -3272,7 +3272,7 @@ user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
 pay.8x8.com
-*.8x8cloud.net
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -3309,8 +3309,8 @@ admin.8x8.com
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
-*.moonpaycloud.com
 moonpay.com
+*.moonpaycloud.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -6321,8 +6321,8 @@ downloads.zebra.com
 supportcommunity.zebra.com
 *.profitect.com
 *.zebrasports.com
-cmm01.sl.zebra.com
 reflexisinc.com/
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -8187,10 +8187,10 @@ kubernetes-csi.github.io
 get8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
-*.8x8cloud.net
 admin.8x8.com
 *.8x8.com
 connect.8x8.com
+*.8x8cloud.net
 *.thinkingphones.net
 sms.8x8.com
 *.8x8staging.com
@@ -10574,12 +10574,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
+*.coinbase.com
 prime.coinbase.com
 pro.coinbase.com
-*.coinbase.com
 international.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 coinbase.com

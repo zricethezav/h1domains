@@ -3273,7 +3273,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.wavecell.com,True
 8x8-bounty,pay.8x8.com,True
-8x8-bounty,*.8x8cloud.net,True
+8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -3310,8 +3310,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
 superbet,*.luckydays.ca,True
-moonpay,*.moonpaycloud.com,True
 moonpay,moonpay.com,True
+moonpay,*.moonpaycloud.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -6322,8 +6322,8 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -8188,10 +8188,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,*.8x8cloud.net,False
 8x8,admin.8x8.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,*.8x8cloud.net,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
 8x8,*.8x8staging.com,False
@@ -10575,12 +10575,12 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
+coinbase,*.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
-coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,coinbase.com,True

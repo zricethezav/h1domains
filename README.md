@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 15:10:09 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 16:09:39 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -647,7 +647,7 @@ user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
 pay.8x8.com
-*.8x8cloud.net
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -684,8 +684,8 @@ admin.8x8.com
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
-*.moonpaycloud.com
 moonpay.com
+*.moonpaycloud.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -3599,12 +3599,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
+*.coinbase.com
 prime.coinbase.com
 pro.coinbase.com
-*.coinbase.com
 international.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 coinbase.com
