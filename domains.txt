@@ -11,8 +11,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -7320,13 +7320,13 @@ www.pangleglobal.com
 buy.logitech.com
 outage.logitech.com
 www.logitechstore.com.br
-alert.logitech.com
 *.crossclip.com
 *.logi.com
 www.logitechg.com
 www.logitech.com.cn
 *.logitech.com
 *.myharmony.com
+alert.logitech.com
 *.streamlabscharity.com
 logilife.logitech.com
 *.uesmartradio.com
@@ -8978,8 +8978,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
