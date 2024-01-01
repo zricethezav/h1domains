@@ -4472,8 +4472,8 @@ banfield.us
 *.royalcanin.pt
 *.banfield.com
 *.individualis.com
-*.miroyalcanin.com.ar
 *.royalcanin.nl
+*.miroyalcanin.com.ar
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -7295,9 +7295,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com

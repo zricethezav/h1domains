@@ -4473,8 +4473,8 @@ mars,*.mivetshop.com.ar,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
 mars,*.individualis.com,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.nl,False
+mars,*.miroyalcanin.com.ar,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -7296,9 +7296,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
