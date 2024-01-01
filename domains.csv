@@ -4736,8 +4736,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.swoodoo.com,True
-kayak,www.kayak.com,True
 kayak,www.cheapflights.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -10631,9 +10631,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
