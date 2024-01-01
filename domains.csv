@@ -1188,10 +1188,10 @@ alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
-alshaya,card.starbucks.com.kz,False
 alshaya,kw.boots.com,False
 alshaya,*.westelm.com.kw,False
 alshaya,shayakahve.com.tr,False
+alshaya,card.starbucks.com.kz,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1524,8 +1524,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -7812,8 +7812,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.Daraz.com,True
@@ -10583,8 +10583,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,*.base.org,True
 coinbase,coinbase.com,True
+coinbase,*.base.org,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
@@ -10650,9 +10650,9 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

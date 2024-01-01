@@ -1187,10 +1187,10 @@ bathandbodyworks.ro
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
-card.starbucks.com.kz
 kw.boots.com
 *.westelm.com.kw
 shayakahve.com.tr
+card.starbucks.com.kz
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1523,8 +1523,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -7811,8 +7811,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.Daraz.com
@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -10649,9 +10649,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
