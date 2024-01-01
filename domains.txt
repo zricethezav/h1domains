@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3020,10 +3020,10 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb-drives.com
-*.abb
 *.busch-jaeger.nl
 *.ability.abb
 *.motors.abb.com
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -10888,8 +10888,8 @@ cms-backend.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
 *.jimdo.systems
-dash.e.jimdo.com
 *.jimdosite.com
+dash.e.jimdo.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com

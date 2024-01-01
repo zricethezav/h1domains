@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3021,10 +3021,10 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
-abb,*.abb,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
 abb,*.motors.abb.com,False
+abb,*.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -10889,8 +10889,8 @@ jimdo,cms-backend.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
-jimdo,dash.e.jimdo.com,False
 jimdo,*.jimdosite.com,False
+jimdo,dash.e.jimdo.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
