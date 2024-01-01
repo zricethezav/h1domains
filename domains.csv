@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
-egress-vdp,reader.vdp-egress.com,False
 egress-vdp,www.egress.com,False
+egress-vdp,reader.vdp-egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2825,8 +2825,8 @@ floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
 hilton,*.hiltonhotels.jp,True
-hilton,hiltonhotels.jp,True
 hilton,*.hiltonbusinessonline.com,True
+hilton,hiltonhotels.jp,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
@@ -4733,8 +4733,8 @@ ro,http://ro.co/spermkit,False
 kayak,www.mundi.com.br,True
 kayak,www.momondo.com,True
 kayak,www.hotelscombined.com,True
-kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
+kayak,business.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
@@ -5578,8 +5578,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,geminiadvisory.io,True
 recorded-future,tria.ge,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
@@ -10155,9 +10155,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

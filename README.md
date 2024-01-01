@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  1 15:08:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  1 16:08:47 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -471,8 +471,8 @@ api-eu.floqast.app
 api-eu.floqast.app
 *.hilton.io
 *.hiltonhotels.jp
-hiltonhotels.jp
 *.hiltonbusinessonline.com
+hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
@@ -912,8 +912,8 @@ business.linkedin.com
 www.mundi.com.br
 www.momondo.com
 www.hotelscombined.com
-business.kayak.com
 www.checkfelix.com
+business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
@@ -1199,8 +1199,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-geminiadvisory.io
 www.recordedfuture.com
+geminiadvisory.io
 tria.ge
 id.recordedfuture.com
 www.recordedfuture.com
@@ -3308,9 +3308,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
