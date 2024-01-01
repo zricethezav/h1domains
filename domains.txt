@@ -8822,7 +8822,6 @@ efficienthire.info
 ehxhr.com
 *.boavistascpc.com.br
 *.certificadoboavista.com.br
-*.konduto.com
 *.redeverdeamarela.com.br
 *.efficientforms.com
 register.alertxpress.com
@@ -8832,6 +8831,7 @@ JOBALINECI.COM
 *equifax.co.in
 www.equifax.com
 *.bvsnet.com.br
+*.konduto.com
 *equifax.cl
 *equifax.co.nz
 *equifax.es
@@ -10650,8 +10650,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
-errors.hackerone.net
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com

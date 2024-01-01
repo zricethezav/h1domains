@@ -8823,7 +8823,6 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,*.boavistascpc.com.br,False
 equifax,*.certificadoboavista.com.br,False
-equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*.efficientforms.com,False
 equifax,register.alertxpress.com,False
@@ -8833,6 +8832,7 @@ equifax,*.datacredito.com.do,False
 equifax,*equifax.co.in,False
 equifax,www.equifax.com,False
 equifax,*.bvsnet.com.br,False
+equifax,*.konduto.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
@@ -10651,8 +10651,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,errors.hackerone.net,True
 security,app.pullrequest.com,True
+security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
