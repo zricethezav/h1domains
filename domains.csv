@@ -4462,7 +4462,6 @@ mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
 mars,*.twix.com,False
 mars,*.myroyalcanin.ro,False
-mars,*.royalcanin.nl,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
@@ -4475,6 +4474,7 @@ mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
 mars,*.individualis.com,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.royalcanin.nl,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -10583,8 +10583,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,*.base.org,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True

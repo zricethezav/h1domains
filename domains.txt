@@ -4461,7 +4461,6 @@ fossil.fnfsale.in
 *.southnassau.org
 *.twix.com
 *.myroyalcanin.ro
-*.royalcanin.nl
 *.shoproyalcanin.com
 *.vetschoice.co.za
 *.eukanubasportingdog.com
@@ -4474,6 +4473,7 @@ banfield.us
 *.banfield.com
 *.individualis.com
 *.miroyalcanin.com.ar
+*.royalcanin.nl
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
