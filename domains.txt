@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -10885,11 +10885,11 @@ api.remitano.com
 socket.remitano.com
 help.jimdo.com
 cms-backend.jimdosite.com
-*.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
 *.jimdo.systems
 dash.e.jimdo.com
+*.jimdosite.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com
