@@ -29,10 +29,10 @@ egress-vdp,www.egress.com,False
 mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
-mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
@@ -3540,11 +3540,11 @@ zerobounce,zerobounce.in,True
 zerobounce,api.zerobounce.in,True
 zerobounce,zerobounce.net,True
 teleport,*.gravitational.com,True
-teleport,*.teleport.dev,True
 teleport,*.gravitational.co,True
 teleport,cloud.gravitational.io,True
 teleport,*.teleportinfra.sh,True
 teleport,askpam.ai,True
+teleport,*.teleport.dev,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
@@ -7854,8 +7854,8 @@ magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
-magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
+magic-bbp,x2.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
@@ -10583,8 +10583,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,*.base.org,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
