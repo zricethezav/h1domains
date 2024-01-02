@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 07:10:52 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 08:11:05 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -67,9 +67,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2688,7 +2688,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3234,8 +3234,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
-*.zomato.com
 winecellar.zomato.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3656,8 +3656,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3674,9 +3674,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
