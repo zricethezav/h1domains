@@ -108,12 +108,12 @@ bookingcom,accommodations.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,*.rentalcars.com,True
-bookingcom,taxi.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,paymentcomponent.booking.com,True
+bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,secure.booking.com,True
@@ -3425,8 +3425,8 @@ us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 one_zero_vdp,*.onezerobank.com,False
 one_zero_vdp,*.onezerobank.com,False
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
+yuga_labs,*.yuga.com,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.10ktf.com,True
 yuga_labs,*.cryptopunks.app,True
@@ -6523,8 +6523,8 @@ reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,ads-api.reddit.com,True
-reddit,*.reddit.com,True
 reddit,www.spiketrap.io,True
+reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True

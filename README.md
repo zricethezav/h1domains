@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 21:09:51 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 22:09:23 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -107,12 +107,12 @@ accommodations.booking.com
 phone-validation.taxi.booking.com
 taxis.booking.com
 *.rentalcars.com
-taxi.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 paymentcomponent.booking.com
+taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
@@ -757,8 +757,8 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
@@ -1428,8 +1428,8 @@ new.reddit.com
 s.reddit.com
 gateway.reddit.com
 ads-api.reddit.com
-*.reddit.com
 www.spiketrap.io
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
