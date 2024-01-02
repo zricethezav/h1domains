@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1072,8 +1072,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -7625,10 +7625,10 @@ playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
-playstation,store.playstation.com,True
 playstation,*.api.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
 playstation,*.playstation.net,True
