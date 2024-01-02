@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 14:11:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 15:11:18 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
+www.hostinger.com
 www.hosting24.com
 *.000webhost.com
-www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -115,9 +115,9 @@ widget.rentalcars.com
 paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -525,8 +525,8 @@ api-eu.floqast.app
 api-eu.floqast.app
 *.hilton.io
 *.hiltonhotels.jp
-hiltonhotels.jp
 *.hiltonbusinessonline.com
+hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
@@ -3315,8 +3315,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3395,9 +3395,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
@@ -3436,10 +3436,10 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
-business.snapchat.com
-map.snapchat.com
 playcanvas.com
 app.snapchat.com
+map.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
