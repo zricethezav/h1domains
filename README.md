@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 19:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 20:11:37 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
-cpanel.hosting24.com
 www.niagahoster.co.id
+cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1427,9 +1427,9 @@ new.reddit.com
 *.redditinc.com
 s.reddit.com
 gateway.reddit.com
-www.spiketrap.io
 ads-api.reddit.com
 *.reddit.com
+www.spiketrap.io
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -2686,7 +2686,6 @@ api-staging.airtable.com
 *.staging.airtable.com
 staging.airtable.com
 api-staging.airtable.com
-https://staging.airtable.com/admin
 shop.shipt.com
 staging-api.shipt.com
 admin.shipt.com
@@ -3436,10 +3435,10 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 map.snapchat.com
 business.snapchat.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3727,8 +3726,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

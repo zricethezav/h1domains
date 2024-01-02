@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
-hostinger,cpanel.hosting24.com,True
 hostinger,www.niagahoster.co.id,True
+hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -1230,7 +1230,6 @@ alshaya,kw.shopjustice.me,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
 alshaya,*.debenhams.sa,False
-alshaya,*.bathandbodyworks.com.kw,False
 alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
@@ -1250,6 +1249,7 @@ alshaya,shayakahve.com.tr,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.westelm.com.kw,False
 alshaya,kw.boots.com,False
+alshaya,*.bathandbodyworks.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -4529,10 +4529,10 @@ mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
 mars,*.mivetshop.com.ar,False
 mars,*.royalcanin.pt,False
-mars,*.banfield.com,False
 mars,*.individualis.com,False
 mars,*.royalcanin.nl,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.banfield.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -6522,9 +6522,9 @@ reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,www.spiketrap.io,True
 reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,www.spiketrap.io,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -9442,7 +9442,6 @@ airtable,*.staging-airtableblocks.com,True
 airtable,*.staging.airtable.com,True
 airtable,staging.airtable.com,True
 airtable,api-staging.airtable.com,True
-airtable,https://staging.airtable.com/admin,True
 shipt,shop.shipt.com,True
 shipt,staging-api.shipt.com,True
 shipt,admin.shipt.com,True
@@ -10287,10 +10286,10 @@ snapchat,store.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10707,8 +10706,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
