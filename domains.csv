@@ -1588,8 +1588,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,False
-tecno,www.tecno-mobile.com,False
 tecno,*.palm.tech,False
+tecno,www.tecno-mobile.com,False
 tecno,security.tecno.com,False
 tecno,*.palm.tech,False
 tecno,www.tecno-mobile.com,False
@@ -3023,8 +3023,8 @@ abb,*.abb.in,False
 abb,*.abb-drives.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
-abb,*.motors.abb.com,False
 abb,*.abb,False
+abb,*.motors.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -9298,8 +9298,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
 paypal,*.braintreepayments.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True

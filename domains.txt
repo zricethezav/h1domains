@@ -1587,8 +1587,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -3022,8 +3022,8 @@ abb.com.br
 *.abb-drives.com
 *.busch-jaeger.nl
 *.ability.abb
-*.motors.abb.com
 *.abb
+*.motors.abb.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -9297,8 +9297,8 @@ swiftfinancial.com
 *.paylution.com
 py.pl
 *.braintreepayments.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
