@@ -96,11 +96,11 @@ bookingcom,kyc-onboarding.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
-bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,supply-xml.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3597,12 +3597,12 @@ zerobounce,api.zerobounce.in,True
 zerobounce,zerobounce.in,True
 zerobounce,api.zerobounce.in,True
 zerobounce,zerobounce.net,True
-teleport,*.gravitational.com,True
 teleport,*.gravitational.co,True
 teleport,cloud.gravitational.io,True
 teleport,*.teleportinfra.sh,True
 teleport,askpam.ai,True
 teleport,*.teleport.dev,True
+teleport,*.gravitational.com,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
@@ -9777,8 +9777,8 @@ grab,*.grabtaxi.com,True
 grab,grab.careers,True
 grab,wiki.grab.com,True
 grab,gifts.grab.com,True
-grab,*.grab-sure.com,True
 grab,*.grabpay.com,True
+grab,*.grab-sure.com,True
 grab,xtramile.grabpay.com,True
 grab,*.grab.co,True
 grab,manage.grab.co,True
@@ -10288,9 +10288,9 @@ snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,app.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
