@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 17:13:30 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 18:13:13 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
 cpanel.hosting24.com
 www.niagahoster.co.id
 payments.hosting24.com
-hpanel.hosting24.com
-www.hostinger.com
 www.hosting24.com
 *.000webhost.com
+hpanel.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -40,9 +40,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
 blog.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -853,8 +853,8 @@ askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-platform.teleport.sh
 *.goteleport.com
+platform.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -2737,12 +2737,12 @@ goldmansachsindices.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
 api.foliofn.com
-*.advisorsolutions.gs.com
 marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
