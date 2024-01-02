@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 00:20:33 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 01:32:47 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1634,9 +1634,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2387,8 +2387,8 @@ vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.globalhotelchoices.com
 www.cheapcaribbean.com
-login.www.vaxvacationaccess.com
 res.funjet.com
+login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 upsell.hyatt.com
@@ -3187,8 +3187,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com

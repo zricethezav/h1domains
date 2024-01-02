@@ -7296,9 +7296,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9133,8 +9133,8 @@ hyatt,vacations.hotelcasavelas.com,True
 hyatt,vacations.travelimpressions.com,True
 hyatt,www.globalhotelchoices.com,True
 hyatt,www.cheapcaribbean.com,True
-hyatt,login.www.vaxvacationaccess.com,True
 hyatt,res.funjet.com,True
+hyatt,login.www.vaxvacationaccess.com,True
 hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,upsell.hyatt.com,True
@@ -10032,8 +10032,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
