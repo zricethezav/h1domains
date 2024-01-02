@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 09:11:42 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 10:11:29 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1362,8 +1362,8 @@ api.reddit.com
 app.spiketrap.io
 gql.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2688,7 +2688,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2758,9 +2758,9 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-js.crypto.com
 app.mona.co
 pay.crypto.com
+js.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3701,30 +3701,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
-*.gocardless.io
-*.gocardless-banking.io
-connect-sandbox.gocardless.com
-*.gocardless-lab.io
-api-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-*.gocardless-cicd.io
-*.gocardless-staging.io
-manage-sandbox.gocardless.com
-www.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-*.gocardless-cicd.io
-*.gocardless-staging.io
-*.gocardless-lab.io
-manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-api-sandbox.gocardless.com
-connect-sandbox.gocardless.com
-www.gocardless.com
-oauth-sandbox.gocardless.com
-xero-sandbox.gocardless.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
