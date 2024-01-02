@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 20:11:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 21:09:51 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -991,8 +991,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -3314,8 +3314,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3395,8 +3395,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
@@ -3762,8 +3762,8 @@ ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com

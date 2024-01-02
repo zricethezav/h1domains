@@ -4826,8 +4826,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -10163,8 +10163,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,app.deriv.com,True
 deriv,oauth.deriv.com,True
+deriv,app.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
@@ -10246,8 +10246,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
@@ -10742,8 +10742,8 @@ security,ctf.hacker101.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
