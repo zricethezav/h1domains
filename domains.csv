@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1188,10 +1188,10 @@ alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
-alshaya,kw.boots.com,False
 alshaya,shayakahve.com.tr,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.westelm.com.kw,False
+alshaya,kw.boots.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2988,7 +2988,6 @@ miro,http://miro.com/app,True
 miro,miro.com,True
 miro,api.miro.com,True
 miro,http://miro.com/blog,True
-abb,*.cylon.com,False
 abb,*.busch-jaeger.*,False
 abb,*.ru.abb.com,False
 abb,*.abb.ch,False
@@ -2999,6 +2998,7 @@ abb,*.abb.se,False
 abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
 abb,*.it.abb.com,False
+abb,*.cylon.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -9100,8 +9100,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.lincoln.com,False
 ford,*.ford.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -10651,8 +10651,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
-security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
+security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

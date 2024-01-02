@@ -10,9 +10,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
-you.23andme.com
 blog.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1187,10 +1187,10 @@ bathandbodyworks.ro
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
-kw.boots.com
 shayakahve.com.tr
 card.starbucks.com.kz
 *.westelm.com.kw
+kw.boots.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2987,7 +2987,6 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-*.cylon.com
 *.busch-jaeger.*
 *.ru.abb.com
 *.abb.ch
@@ -2998,6 +2997,7 @@ http://miro.com/blog
 *.br-automation.com
 *.abb.com.cn
 *.it.abb.com
+*.cylon.com
 *.busch-jaeger.nu
 *.xc.abb.com
 *.evcharging.abb.com
@@ -9099,8 +9099,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -10650,8 +10650,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
