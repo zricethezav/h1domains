@@ -1447,9 +1447,9 @@ subicenerzone.com
 aboitizpower.ph
 mactanenerzone.com
 snap-res.com
+*.hedcor.com
 visayanelectric.com.ph
 visayanelectric.ph
-*.hedcor.com
 *.aboitizpower.com
 *.snaboitiz.com
 *.enerzone.com.ph
@@ -2996,8 +2996,8 @@ http://miro.com/blog
 *.abb.fr
 *.abb.se
 *.br-automation.com
-*.it.abb.com
 *.abb.com.cn
+*.it.abb.com
 *.busch-jaeger.nu
 *.xc.abb.com
 *.evcharging.abb.com
