@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 16:10:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 17:13:30 UTC 2024)
 ```
-cpanel.hosting24.com
-www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
+cpanel.hosting24.com
+www.niagahoster.co.id
 payments.hosting24.com
 hpanel.hosting24.com
 www.hostinger.com
-*.000webhost.com
 www.hosting24.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1421,10 +1421,10 @@ ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
-*.redditinc.com
 sh.reddit.com
 *.snooguts.net
 new.reddit.com
+*.redditinc.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -2135,9 +2135,9 @@ mgs.marriott.com
 www.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
-activities.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -3402,9 +3402,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
