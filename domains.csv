@@ -6,14 +6,14 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hostinger.com,True
-hostinger,www.hosting24.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hosting24.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
-hostinger,backend.zyro.com,True
 hostinger,www.zyro.com,True
+hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -10530,8 +10530,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
-vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
+vimeo,*.magisto.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
