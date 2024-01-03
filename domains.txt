@@ -2767,10 +2767,10 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
-hg.mozilla.org
 addons.allizom.org
 aus5.mozilla.org
 contile.services.mozilla.com
+hg.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -2793,10 +2793,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-hg.mozilla.org
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -3068,8 +3068,8 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
-*.abb.com
 *.baldor.com
+*.abb.com
 *.fi.abb.com
 *.motors.abb.com.cn
 *.pdc.abb.com
@@ -10599,8 +10599,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com

@@ -2768,10 +2768,10 @@ mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
-mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
+mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
@@ -2794,10 +2794,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -3069,8 +3069,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.pl.abb.com,False
-abb,*.abb.com,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.pdc.abb.com,False
@@ -10600,8 +10600,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
