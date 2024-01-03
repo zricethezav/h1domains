@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -116,9 +116,9 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3139,10 +3139,10 @@ abb,*.abb.se,False
 abb,*.abb.net,False
 abb,abb.com.br,False
 malwarebytes,*.mb-cosmos.com,True
-malwarebytes,*.mwbsys.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
+malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -3470,8 +3470,8 @@ expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.wotif.com,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -7706,8 +7706,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -7895,8 +7895,8 @@ alibaba,*.aliexpress.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10305,8 +10305,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10649,9 +10649,9 @@ automattic,intensedebate.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
-automattic,mailpoet.com,True
 automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True

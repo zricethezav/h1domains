@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 11:12:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 12:10:41 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -115,9 +115,9 @@ paymentcomponent.booking.com
 taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
-account.booking.com
 cars.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -621,10 +621,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 *.mb-cosmos.com
-*.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -802,8 +802,8 @@ www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
 www.expediapartnercentral.com
-www.hotwire.com
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1904,8 +1904,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2055,8 +2055,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3437,8 +3437,8 @@ snappublisher.snapchat.com
 map.snapchat.com
 business.snapchat.com
 playcanvas.com
-app.snapchat.com
 www.bitmoji.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3652,9 +3652,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-mailpoet.com
 www.tumblr.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
