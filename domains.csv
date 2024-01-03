@@ -41,9 +41,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3321,10 +3321,10 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
-8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
+8x8-bounty,*.8x8staging.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,user-profile.8x8.com,True
@@ -3628,8 +3628,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.davosalestax.com,False
 avalara,*.track1099.com,False
-avalara,*.avalara.net,False
 avalara,*.ttrus.com,False
+avalara,*.avalara.net,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -8262,11 +8262,11 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8cloud.net,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
-8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,cloud8.8x8.com,False
 8x8,*.fuze.com,False
+8x8,*.8x8staging.com,False
 8x8,*.8x8pilot.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False

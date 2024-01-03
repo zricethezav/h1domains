@@ -40,9 +40,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3320,10 +3320,10 @@ platform.8x8pilot.com
 *.8x8.id
 cloud8.8x8.com
 *.chalet.8x8.com
-*.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
+*.8x8staging.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -3627,8 +3627,8 @@ www.divvyhomes.com
 *.avalara.io
 *.davosalestax.com
 *.track1099.com
-*.avalara.net
 *.ttrus.com
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -8261,11 +8261,11 @@ connect.8x8.com
 *.8x8cloud.net
 *.thinkingphones.net
 sms.8x8.com
-*.8x8staging.com
 user-profile.8x8.com
 supersite.8x8.com
 cloud8.8x8.com
 *.fuze.com
+*.8x8staging.com
 *.8x8pilot.com
 *.8x8.uk
 *.adgjmp.net
