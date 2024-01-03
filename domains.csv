@@ -116,9 +116,9 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -7368,8 +7368,8 @@ tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9549,9 +9549,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.folioinvesting.com,True
 goldmansachs,*.claritymoney.com,False
 valve,playartifact.com,True
-valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,store.steampowered.com,True
+valve,help.steampowered.com,True
 valve,partner.steampowered.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True

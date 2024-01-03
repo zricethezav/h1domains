@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 00:20:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 01:33:54 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -115,9 +115,9 @@ paymentcomponent.booking.com
 taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 account.booking.com
 cars.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1692,8 +1692,8 @@ business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2780,9 +2780,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-help.steampowered.com
 developer.valvesoftware.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 www.teamfortress.com
 www.counter-strike.net
