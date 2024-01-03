@@ -2802,8 +2802,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -3079,9 +3079,9 @@ abb.com.br
 *.abb.in
 *.abb-drives.com
 *.busch-jaeger.nl
-*.motors.abb.com
 *.abb
 *.ability.abb
+*.motors.abb.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -5183,7 +5183,6 @@ brumikobjevitel.cz
 cadburyfavourites.co.nz
 cadburygiftsdirect.co.uk
 cadburyworld.co.uk
-caramilk.ca
 clorets.jp
 createatreat.com
 ct-hopp.interlogservices.com
@@ -5384,6 +5383,14 @@ nabiscoholiday.com
 posters.cadbury.com.au
 sourpatchkids.gg
 snackfest.ro
+sayitwithasongmilka.com
+savouronsensemblelareussite.ca
+tavla.marabou.se
+tavlamedtuc.se
+tasteglorytogether.ca
+tnccletspicnic.com.au
+https://brand-sa.shortlyst.com/cadburydairymilk/1801
+oreo.com.au
 https://milka.ru
 https://alpengold.me
 https://oreo.ru
@@ -5464,8 +5471,8 @@ teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
 contact.krisp.ai
-krisp.ai
 whatsnew.krisp.ai
+krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -6527,8 +6534,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-new.reddit.com
 *.redditinc.com
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 ads-api.reddit.com

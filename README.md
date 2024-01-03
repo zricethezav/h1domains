@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 08:12:02 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 09:11:10 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -500,8 +500,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1423,8 +1423,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-new.reddit.com
 *.redditinc.com
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 ads-api.reddit.com

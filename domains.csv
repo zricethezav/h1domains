@@ -2803,8 +2803,8 @@ mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
-mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
+mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3080,9 +3080,9 @@ abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
 abb,*.busch-jaeger.nl,False
-abb,*.motors.abb.com,False
 abb,*.abb,False
 abb,*.ability.abb,False
+abb,*.motors.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -5184,7 +5184,6 @@ mondelez,brumikobjevitel.cz,False
 mondelez,cadburyfavourites.co.nz,False
 mondelez,cadburygiftsdirect.co.uk,False
 mondelez,cadburyworld.co.uk,False
-mondelez,caramilk.ca,False
 mondelez,clorets.jp,False
 mondelez,createatreat.com,False
 mondelez,ct-hopp.interlogservices.com,False
@@ -5385,6 +5384,14 @@ mondelez,nabiscoholiday.com,False
 mondelez,posters.cadbury.com.au,False
 mondelez,sourpatchkids.gg,False
 mondelez,snackfest.ro,False
+mondelez,sayitwithasongmilka.com,False
+mondelez,savouronsensemblelareussite.ca,False
+mondelez,tavla.marabou.se,False
+mondelez,tavlamedtuc.se,False
+mondelez,tasteglorytogether.ca,False
+mondelez,tnccletspicnic.com.au,False
+mondelez,https://brand-sa.shortlyst.com/cadburydairymilk/1801,False
+mondelez,oreo.com.au,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
 mondelez,https://oreo.ru,False
@@ -5465,8 +5472,8 @@ krisp,teams.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,download.krisp.ai,True
 krisp,contact.krisp.ai,False
-krisp,krisp.ai,True
 krisp,whatsnew.krisp.ai,False
+krisp,krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -6528,8 +6535,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
-reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
+reddit,new.reddit.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,ads-api.reddit.com,True
