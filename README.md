@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 16:12:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 17:11:51 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -43,8 +43,8 @@ you.23andme.com
 blog.23andme.com
 auth.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1785,6 +1785,7 @@ api.watsons.com.hk
 api.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
+www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2049,8 +2050,8 @@ https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibaba.com
 *.alibabacloud.com
-*.aliexpress.ru
 *.alibaba-inc.com
+*.aliexpress.ru
 *.aliexpress.com
 *.alimama.com
 *.1688.com

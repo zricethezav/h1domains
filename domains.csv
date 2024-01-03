@@ -44,8 +44,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -3674,8 +3674,8 @@ resmed,produktion.api.praxispad.de/,False
 resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
-resmed,shop.resmed.com,False
 resmed,patient.propellerhealth.biz,False
+resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
@@ -7553,6 +7553,7 @@ watson_group,api.watsons.com.hk,True
 watson_group,api.iciparisxl.lu,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
+watson_group,www.marionnaud.sk,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -7891,8 +7892,8 @@ alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
+alibaba,*.aliexpress.ru,True
 alibaba,*.aliexpress.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
