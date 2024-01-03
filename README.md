@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 14:11:29 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 15:13:33 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -156,8 +156,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -318,10 +318,10 @@ www.visa.com.sg
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
-www.cardinalcommerce.com
 www.visa.co.il
 aw.visa.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -1370,10 +1370,10 @@ www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
 *.eops.nl
-*.swiftype.com
 *.elasticnet.co
 cloud.elastic.co
 *.elstc.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -3608,8 +3608,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3749,8 +3749,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
