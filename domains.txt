@@ -3,10 +3,10 @@ hpanel.hostinger.com
 cpanel.hosting24.com
 www.niagahoster.co.id
 payments.hosting24.com
-www.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
 *.booking.com
-booking.com
 supply-xml.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3079,9 +3079,9 @@ abb.com.br
 *.abb.in
 *.abb-drives.com
 *.busch-jaeger.nl
-*.ability.abb
 *.motors.abb.com
 *.abb
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -10956,9 +10956,9 @@ help.jimdo.com
 cms-backend.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
-*.jimdo.systems
 *.jimdosite.com
 dash.e.jimdo.com
+*.jimdo.systems
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com

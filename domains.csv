@@ -4,10 +4,10 @@ hostinger,hpanel.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
-hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,www.hosting24.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -99,8 +99,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
-bookingcom,booking.com,True
 bookingcom,supply-xml.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3080,9 +3080,9 @@ abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
 abb,*.busch-jaeger.nl,False
-abb,*.ability.abb,False
 abb,*.motors.abb.com,False
 abb,*.abb,False
+abb,*.ability.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -10957,9 +10957,9 @@ jimdo,help.jimdo.com,False
 jimdo,cms-backend.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
-jimdo,*.jimdo.systems,False
 jimdo,*.jimdosite.com,False
 jimdo,dash.e.jimdo.com,False
+jimdo,*.jimdo.systems,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
