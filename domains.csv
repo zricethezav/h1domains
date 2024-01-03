@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 hostinger,payments.hostinger.com,True
-hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
+hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -3048,7 +3048,6 @@ miro,api.miro.com,True
 miro,http://miro.com/blog,True
 abb,*.busch-jaeger.*,False
 abb,*.ru.abb.com,False
-abb,*.abb.ch,False
 abb,*.abb.cn,False
 abb,*.abb.co.in,False
 abb,*.abb.fr,False
@@ -3057,6 +3056,7 @@ abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
 abb,*.it.abb.com,False
 abb,*.cylon.com,False
+abb,*.abb.ch,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -9073,8 +9073,8 @@ capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
