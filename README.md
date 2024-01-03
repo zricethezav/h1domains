@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 17:11:51 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 18:12:09 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1942,8 +1942,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -3018,9 +3018,9 @@ hotornot.com
 m.badoo.com
 meu1.badoo.com
 ccardsus1.badoo.com
-chatdate.app
 us1.badoo.com
 zodia.studio
+chatdate.app
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
@@ -3437,9 +3437,9 @@ my.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
