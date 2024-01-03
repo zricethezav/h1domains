@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 19:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 20:11:02 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -156,14 +156,10 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
-app.frontapp.com
-help.front.com
-api2.frontapp.com
-*.front.com
 app.frontapp.com
 api2.frontapp.com
-http://help.front.com
+app.frontapp.com
+api2.frontapp.com
 *.booztlet.com
 *.boozt.com
 *.boozt.com
@@ -1544,8 +1540,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-hackers_chosendomain.larksuite.com
 internal-api-drive-stream.larksuite.com
+hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -2602,11 +2598,11 @@ matomo.cloud
 https://github.com/matomo-org/docker
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 py.pl
 *.braintreepayments.com
 *.xoom.com
 *.braintree-api.com
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
