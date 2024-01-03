@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 05:10:25 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 06:10:38 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -97,9 +97,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 supply-xml.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2625,9 +2625,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.paypalcorp.com
 paypalobjects.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3432,13 +3432,13 @@ store.playcanvas.com
 playcanv.as
 rt.playcanvas.com
 store.snapchat.com
-www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
 business.snapchat.com
 playcanvas.com
 app.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3527,8 +3527,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
