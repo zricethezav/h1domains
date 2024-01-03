@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -117,8 +117,8 @@ bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -2825,6 +2825,7 @@ shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,*.sf-cdn.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
@@ -2840,6 +2841,7 @@ shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,*.sf-cdn.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,prestigeportraits.com,False
@@ -3467,11 +3469,11 @@ expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.ebookers.fi,True
-expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotwire.com,True
+expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -7400,9 +7402,9 @@ logitech,*.crossclip.com,False
 logitech,*.logi.com,False
 logitech,www.logitechg.com,True
 logitech,www.logitech.com.cn,True
-logitech,*.logitech.com,False
 logitech,*.myharmony.com,False
 logitech,alert.logitech.com,False
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
@@ -9837,8 +9839,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,www.bumble.com,True
 bumble,badoo.com,True
+bumble,www.bumble.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -9985,8 +9987,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
+starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True
@@ -10106,8 +10108,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10305,8 +10307,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
+snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10519,8 +10521,8 @@ airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,www.airbnb.com,True
 airbnb,api.airbnb.com,True
+airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
