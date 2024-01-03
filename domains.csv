@@ -70,8 +70,8 @@ mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1424,8 +1424,8 @@ abn_amro_vdp,*.abnamro.be,False
 abn_amro_vdp,*.abnamrolease.com,False
 abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.new10.com,False
-fertitta_entertainment,dungeonofdoomkemah.com,False
 fertitta_entertainment,thepostoak.com,False
+fertitta_entertainment,dungeonofdoomkemah.com,False
 fertitta_entertainment,r-u-i.com,False
 fertitta_entertainment,wildwoodcasino.net,False
 fertitta_entertainment,sanluisresort.com,False
@@ -5728,8 +5728,8 @@ gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
-gsa_bbp,inventory.data.gov,True
 gsa_bbp,*.login.gov,True
+gsa_bbp,inventory.data.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
@@ -5890,8 +5890,8 @@ john-deere,ims.tcms.tal.deere.com,False
 john-deere,parts.deere.africa,False
 john-deere,marksman.surepointag.com,False
 john-deere,johndeereinnovation.com,False
-john-deere,parts.waratah.com,False
 john-deere,rewards.deere.com,False
+john-deere,contest.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6430,9 +6430,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zams.zebra.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7213,8 +7213,8 @@ bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
-lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
+lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
@@ -9550,8 +9550,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10783,8 +10783,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
