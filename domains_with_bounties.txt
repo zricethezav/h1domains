@@ -33,10 +33,10 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-api.23andme.com
 you.23andme.com
 blog.23andme.com
 auth.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3641,9 +3641,9 @@ simperium.com
 simplenote.com
 gravatar.com
 assets.tumblr.com
-api.tumblr.com
 intensedebate.com
 wordpress.com
+api.tumblr.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com

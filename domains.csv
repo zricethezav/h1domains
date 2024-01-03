@@ -40,10 +40,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4667,8 +4667,8 @@ trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
-tokenweb3,token.com,False
 tokenweb3,*.tokensvc.com,False
+tokenweb3,token.com,False
 tokenweb3,blog.token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
@@ -10644,9 +10644,9 @@ automattic,simperium.com,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,assets.tumblr.com,True
-automattic,api.tumblr.com,True
 automattic,intensedebate.com,True
 automattic,wordpress.com,True
+automattic,api.tumblr.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 12:10:41 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 13:12:08 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -39,10 +39,10 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-api.23andme.com
 you.23andme.com
 blog.23andme.com
 auth.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3647,9 +3647,9 @@ simperium.com
 simplenote.com
 gravatar.com
 assets.tumblr.com
-api.tumblr.com
 intensedebate.com
 wordpress.com
+api.tumblr.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
