@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 hostinger,payments.hostinger.com,True
+hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
-hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,*.000webhost.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -44,8 +44,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -3069,8 +3069,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.pl.abb.com,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.pdc.abb.com,False
@@ -10758,8 +10758,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

@@ -1,12 +1,12 @@
 payments.hostinger.com
+www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hosting24.com
-www.niagahoster.co.id
 payments.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -43,8 +43,8 @@ api.23andme.com
 you.23andme.com
 blog.23andme.com
 auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -3068,8 +3068,8 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
-*.baldor.com
 *.abb.com
+*.baldor.com
 *.fi.abb.com
 *.motors.abb.com.cn
 *.pdc.abb.com
@@ -10757,8 +10757,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
