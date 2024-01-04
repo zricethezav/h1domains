@@ -4,10 +4,10 @@ hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
-hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,www.hosting24.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -42,8 +42,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -6438,10 +6438,10 @@ zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
 zebra_vdp,domore.zebra.com,False
 zebra_vdp,mwwprod.zebra.engineering,False
-zebra_vdp,*.zebramwe.com,False
 zebra_vdp,fs.viq.zebra.com,False
 zebra_vdp,zsbportal.zebra.com,False
 zebra_vdp,*.antuit.ai,False
+zebra_vdp,*.zebramwe.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
@@ -9430,8 +9430,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,*.braintreegateway.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10781,8 +10781,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
