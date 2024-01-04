@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 06:11:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 07:09:49 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -11,8 +11,8 @@ payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1248,9 +1248,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 tria.ge
 id.recordedfuture.com
 www.recordedfuture.com
@@ -2623,8 +2623,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
-*.paypalcorp.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2735,10 +2735,10 @@ research.gs.com
 api.foliofn.com
 marquee.gs.com
 *.gsam.com
-*.folioinstitutional.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3311,8 +3311,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

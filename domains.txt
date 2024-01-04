@@ -5,8 +5,8 @@ payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -5685,9 +5685,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 tria.ge
 id.recordedfuture.com
 www.recordedfuture.com
@@ -6429,9 +6429,9 @@ downloads.zebra.com
 supportcommunity.zebra.com
 *.zebrasports.com
 reflexisinc.com/
-*.profitect.com
 *.zams.zebra.com
 cmm01.sl.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9429,8 +9429,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
-*.paypalcorp.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -9547,10 +9547,10 @@ research.gs.com
 api.foliofn.com
 marquee.gs.com
 *.gsam.com
-*.folioinstitutional.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10214,8 +10214,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

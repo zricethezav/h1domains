@@ -6,8 +6,8 @@ hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,*.000webhost.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -5686,9 +5686,9 @@ recorded-future,therecord.media,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
+recorded-future,securitytrails.com,True
 recorded-future,tria.ge,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
@@ -6430,9 +6430,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9430,8 +9430,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,*.braintreegateway.com,True
-paypal,*.paypalcorp.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9548,10 +9548,10 @@ goldmansachs,research.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10215,8 +10215,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
