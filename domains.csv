@@ -5,8 +5,8 @@ hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
@@ -2888,8 +2888,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,mail1.wspsecure.co.uk,False
@@ -9538,11 +9538,11 @@ goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10015,8 +10015,8 @@ starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
-starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
+starbucks,www.starbucks.co.kr,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
@@ -10625,8 +10625,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10770,8 +10770,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
+security,api.hackerone.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True

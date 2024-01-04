@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 13:12:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 14:11:39 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -10,8 +10,8 @@ payments.hostinger.com
 hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 *.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
@@ -2734,11 +2734,11 @@ goldmansachsindices.com
 research.gs.com
 api.foliofn.com
 marquee.gs.com
-*.gsam.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3164,8 +3164,8 @@ www.starbucks.com.sg
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
-www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3604,8 +3604,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3744,8 +3744,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com

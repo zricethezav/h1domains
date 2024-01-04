@@ -4,8 +4,8 @@ payments.hostinger.com
 hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 *.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
@@ -2887,8 +2887,8 @@ wgwebservices.snapfish.com
 https://www.cvs.com/photo/
 www.six-group.com
 www.six-group.com
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 mail1.wspsecure.co.uk
@@ -9537,11 +9537,11 @@ goldmansachsindices.com
 research.gs.com
 api.foliofn.com
 marquee.gs.com
-*.gsam.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10014,8 +10014,8 @@ www.starbucks.com.sg
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
-www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -10624,8 +10624,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10769,8 +10769,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
