@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 19:11:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 20:11:14 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -116,8 +116,8 @@ taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2737,8 +2737,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3162,10 +3162,10 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
-www.starbucks.co.jp
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.kr
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
