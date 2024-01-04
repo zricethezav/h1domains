@@ -6,8 +6,8 @@ hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -40,10 +40,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,you.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7941,8 +7941,8 @@ bmwgroup,www.mini.de,True
 bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
-bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,configure.mini.de,True
+bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,www.mini.de,True
 bmwgroup,www.bmw-motorrad.de,True
@@ -8083,9 +8083,9 @@ marriott,marriottfranchisetransactions.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
-marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
+marriott,hotel-deals.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -9541,8 +9541,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10296,8 +10296,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
