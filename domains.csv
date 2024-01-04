@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-hostinger,payments.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
+hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -1243,9 +1243,9 @@ alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,shayakahve.com.tr,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.westelm.com.kw,False
 alshaya,kw.boots.com,False
 alshaya,*.bathandbodyworks.com.kw,False
+alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1570,8 +1570,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-aven_response,my.aven.com,False
 aven_response,*.aven.com,False
+aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
 aven_response,aven.com,False
 aven_response,*.aven.com,False
@@ -1604,8 +1604,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,testapi.redoxengine.com,True
-redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
+redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -7399,8 +7399,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,live-backstage.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -9115,8 +9115,8 @@ capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -10780,9 +10780,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
