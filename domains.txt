@@ -3792,8 +3792,8 @@ app.citushealth.ca
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-metrics.deribit.com
 tools.deribit.com
+metrics.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -4975,8 +4975,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -10140,8 +10140,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
