@@ -2856,8 +2856,8 @@ shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,blog.spoonflower.com,False
-shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
+shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -4892,8 +4892,8 @@ securityscorecard,*.securityscorecard.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
-gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
+gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
@@ -7732,8 +7732,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9420,9 +9420,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,*.braintreegateway.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
+paypal,paypalobjects.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10539,8 +10539,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
