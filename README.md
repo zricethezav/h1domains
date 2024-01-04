@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 12:11:59 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 13:12:08 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -95,11 +95,11 @@ kyc-onboarding.booking.com
 careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 admin.booking.com
 supply-xml.booking.com
 booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2622,8 +2622,8 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 *.braintreegateway.com
 www.paypal-*.com
 *.xoom.com

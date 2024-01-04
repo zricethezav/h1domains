@@ -30,8 +30,8 @@ www.niagahoster.co.id
 partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 switch.vdp-egress.com
-www.egress.com
 reader.vdp-egress.com
+www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
@@ -95,11 +95,11 @@ kyc-onboarding.booking.com
 careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 admin.booking.com
 supply-xml.booking.com
 booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -9419,8 +9419,8 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 *.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
