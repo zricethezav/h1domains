@@ -1672,8 +1672,8 @@ visa,www.visa.com.kh,True
 visa,visa.co.ni,True
 visa,www.visa.co.il,True
 visa,aw.visa.com,True
-visa,usa.visa.com,True
 visa,www.cardinalcommerce.com,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.ke,True
@@ -2836,8 +2836,8 @@ shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,snapfish.fr,False
 shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,*.photoccino.com,False
-shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,photo.walgreens.com,False
+shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
@@ -4892,8 +4892,8 @@ securityscorecard,*.securityscorecard.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
-gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
+gymshark,*.gymshark.com,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
@@ -7204,8 +7204,8 @@ bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
-lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
+lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
@@ -7549,8 +7549,8 @@ acronis,account.acronis.com,True
 affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
 affirm,helpcenter.affirm.com,True
-affirm,hackerone.affirm-odin.com,True
 affirm,helpcenter.affirm.ca,True
+affirm,hackerone.affirm-odin.com,True
 affirm,hackerone.affirm-odin.com,True
 affirm,helpcenter.affirm.ca,True
 affirm,helpcenter.affirm.com,True
@@ -8804,9 +8804,9 @@ pixiv,hub.vroid.com,True
 pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
-pixiv,booth.pm,True
 pixiv,*.fanbox.cc,True
 pixiv,accounts.pixiv.net,True
+pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,sketch.pixiv.net,True
