@@ -1,7 +1,7 @@
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
@@ -2617,8 +2617,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2721,8 +2721,8 @@ apigw.foliofn.com
 goldmansachsindices.com
 *.finlife.com
 *.nextcapital.com
-*.vennhypotheken.nl
 *.goldmansachs.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2731,8 +2731,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
+*.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2983,8 +2983,8 @@ api.grabpay.com
 *.grab.com
 gamma.grab.co
 jira.grab.com
-*.myteksi.net
 kartaview.org
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3476,8 +3476,8 @@ ispdesign.ui.com
 ca.store.ui.com
 community.ui.com
 careers.ui.com
-rma.ui.com
 account.ui.com
+rma.ui.com
 fw-update.ubnt.com
 *.ubnt.com
 *.ui.com
