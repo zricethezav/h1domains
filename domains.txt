@@ -5,8 +5,8 @@ payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -2855,8 +2855,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
@@ -3392,8 +3392,8 @@ admin.8x8.com
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -4989,8 +4989,8 @@ www.alohi.com
 *.trgc.com
 *.leadrouter.com
 *.century21.*
-*.era.com
 *.bhgre.*
+*.era.com
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
