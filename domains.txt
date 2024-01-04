@@ -1,12 +1,12 @@
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
 www.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -41,8 +41,8 @@ education.23andme.com
 store.23andme.com
 you.23andme.com
 blog.23andme.com
-api.23andme.com
 auth.23andme.com
+api.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -3732,12 +3732,12 @@ propellerhealth.com
 resmed.lat
 resmed.vn
 resmed.pt
-onlinestore.resmedchina.cn
 sigmacare.com
 soneto.net
 careanyware.com
 app.citushealth.ca
 resmed.com
+brightree.net/
 resmed.com
 resupply.resmed.com
 myair.resmed.com
@@ -7740,8 +7740,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 ca.account.sony.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -9429,8 +9429,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -10397,7 +10397,6 @@ help.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
@@ -10999,8 +10998,8 @@ cms-backend.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
 *.jimdosite.com
-dash.e.jimdo.com
 *.jimdo.systems
+dash.e.jimdo.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com
