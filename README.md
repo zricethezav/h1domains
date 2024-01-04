@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 00:21:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 01:33:24 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -3160,8 +3160,8 @@ card.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
@@ -3482,8 +3482,8 @@ ispdesign.ui.com
 ca.store.ui.com
 community.ui.com
 careers.ui.com
-account.ui.com
 rma.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com

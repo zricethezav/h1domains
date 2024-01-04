@@ -10019,8 +10019,8 @@ card.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
@@ -10394,8 +10394,8 @@ careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 help.ui.com
-account.ui.com
 rma.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
