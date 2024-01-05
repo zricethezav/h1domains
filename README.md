@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 19:11:25 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 20:11:11 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -110,9 +110,9 @@ taxis.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
-widget.rentalcars.com
 paymentcomponent.booking.com
 taxi.booking.com
+widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
@@ -559,8 +559,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 argocd.indrive.dev
-ci.indrive.dev
 *.indriver.com
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech

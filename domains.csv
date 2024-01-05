@@ -111,9 +111,9 @@ bookingcom,*.rentalcars.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,autocomplete.booking.com,True
-bookingcom,widget.rentalcars.com,True
 bookingcom,paymentcomponent.booking.com,True
 bookingcom,taxi.booking.com,True
+bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
@@ -3010,8 +3010,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,argocd.indrive.dev,True
-indrive,ci.indrive.dev,True
 indrive,*.indriver.com,True
+indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True

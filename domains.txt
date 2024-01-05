@@ -110,9 +110,9 @@ taxis.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
-widget.rentalcars.com
 paymentcomponent.booking.com
 taxi.booking.com
+widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
@@ -3009,8 +3009,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 argocd.indrive.dev
-ci.indrive.dev
 *.indriver.com
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
