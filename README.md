@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 15:10:39 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 16:12:43 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
 payments.hosting24.com
-hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+hpanel.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -35,14 +35,14 @@ payments.hosting24.com
 www.niagahoster.co.id
 partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1678,8 +1678,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
@@ -2126,10 +2126,10 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-sso.marriott.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
+sso.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2837,8 +2837,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3399,8 +3399,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
