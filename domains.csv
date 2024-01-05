@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 hostinger,cpanel.hosting24.com,True
-hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
+hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -4566,8 +4566,8 @@ mars,*.mivetshop.com.ar,False
 mars,*.royalcanin.pt,False
 mars,*.individualis.com,False
 mars,*.miroyalcanin.com.ar,False
-mars,*.banfield.com,False
 mars,*.royalcanin.nl,False
+mars,*.banfield.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -4601,8 +4601,8 @@ mars,*.rcpracownik.pl,False
 mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
-mars,*.bluepearlvet.com,False
 mars,*.plataformaurinary.com,False
+mars,*.royalcanin.it,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -7566,8 +7566,8 @@ watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
-watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.ro,True
+watson_group,www.watsons.co.id,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -9863,8 +9863,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,badoo.com,True
 bumble,www.bumble.com,True
+bumble,badoo.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -10625,8 +10625,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
