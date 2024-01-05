@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 00:20:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 01:34:02 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2737,8 +2737,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3432,9 +3432,9 @@ store.snapchat.com
 my.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
-business.snapchat.com
 app.snapchat.com
 www.bitmoji.com
+business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net

@@ -4986,8 +4986,8 @@ alohi,*.sign.plus,False
 alohi,*.sign.plus,False
 alohi,*.fax.plus,False
 alohi,www.alohi.com,False
-anywhererealestate,*.cartus.com,False
 anywhererealestate,*.trgc.com,False
+anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
@@ -9541,8 +9541,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10132,8 +10132,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10329,9 +10329,9 @@ snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
+snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
