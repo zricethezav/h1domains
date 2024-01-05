@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 18:11:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 19:11:25 UTC 2024)
 ```
 cpanel.hosting24.com
-hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
+hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -115,9 +115,9 @@ paymentcomponent.booking.com
 taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1896,9 +1896,9 @@ social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
 *.playstation.net
@@ -2012,8 +2012,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2128,8 +2128,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2623,8 +2623,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3744,8 +3744,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -3763,9 +3763,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
