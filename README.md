@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 13:11:02 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 14:11:38 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
@@ -10,15 +10,15 @@ payments.hostinger.com
 www.niagahoster.co.id
 payments.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 *.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -780,8 +780,8 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
 www.abritel.fr
-www.expediagroup.com
 www.hotwirepartnercentral.com
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -792,8 +792,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.carrentals.com
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.expediapartnercentral.com
@@ -1410,10 +1410,10 @@ www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
-gql.reddit.com
 *.redditmedia.com
 old.reddit.com
 ads.reddit.com
+gql.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2051,9 +2051,9 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
-*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
