@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 04:10:55 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 05:10:28 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2048,12 +2048,12 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
-*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2420,11 +2420,11 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.vacations.buschgardens.com
-res.universalorlandovacations.com
 book.beachbound.com
 vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
 www.wynnvacations.com
+res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3744,9 +3744,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3762,10 +3762,10 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
