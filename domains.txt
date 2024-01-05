@@ -4,9 +4,9 @@ payments.hostinger.com
 www.niagahoster.co.id
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -35,8 +35,8 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
@@ -1223,7 +1223,6 @@ opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
 *.thebodyshop.com.kw
-*.muji.qa
 *.debenhams.sa
 dev.alshaya.com
 devimages.alshaya.com
@@ -1245,6 +1244,7 @@ card.starbucks.com.kz
 kw.boots.com
 *.bathandbodyworks.com.kw
 *.westelm.com.kw
+*.muji.qa
 boysweb.shaya.com.tr
 kw.cosstores.com
 sa.cosstores.com
@@ -7912,8 +7912,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -8955,9 +8955,9 @@ ntcusa.com
 *.datacredito3.com
 *.acertandosuascontas.com.br
 *.healthefx.net
-*equifax.co.uk
 *.employersedge.com
 *.wageverify.com
+*.mercury.com.au
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -9645,8 +9645,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10294,9 +10294,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10569,9 +10569,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 vhx.tv
-api.vhx.tv
 *.magisto.com
 *.livestream.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -10624,8 +10624,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com

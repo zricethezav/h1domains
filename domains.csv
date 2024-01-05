@@ -5,9 +5,9 @@ hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -36,8 +36,8 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1224,7 +1224,6 @@ alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
 alshaya,*.thebodyshop.com.kw,False
-alshaya,*.muji.qa,False
 alshaya,*.debenhams.sa,False
 alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
@@ -1246,6 +1245,7 @@ alshaya,card.starbucks.com.kz,False
 alshaya,kw.boots.com,False
 alshaya,*.bathandbodyworks.com.kw,False
 alshaya,*.westelm.com.kw,False
+alshaya,*.muji.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
@@ -7913,8 +7913,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
@@ -8956,9 +8956,9 @@ equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*.acertandosuascontas.com.br,False
 equifax,*.healthefx.net,False
-equifax,*equifax.co.uk,False
 equifax,*.employersedge.com,False
 equifax,*.wageverify.com,False
+equifax,*.mercury.com.au,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -9646,8 +9646,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,one.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10295,9 +10295,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10570,9 +10570,9 @@ vimeo,donations.livestream.com,True
 vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,vhx.tv,True
-vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
+vimeo,api.vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
@@ -10625,8 +10625,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
