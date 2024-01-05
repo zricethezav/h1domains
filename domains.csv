@@ -5,9 +5,9 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,www.hosting24.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,www.hosting24.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -5762,8 +5762,8 @@ ibb,rubygems.org,True
 ibb,rubygems.org,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,staking-uat.codefi.network,True
-consensys,activate.codefi.network,True
 consensys,consensys.net,True
+consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -11182,10 +11182,10 @@ kartpay,*.kartpay.com,False
 midpoint_h1c,https://github.com/evolveum/midpoint,True
 filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,accounts.magento.cloud,True
 magento,repo.magento.com,True
 magento,magentocommerce.com,True
 magento,account.magento.com,True
+magento,accounts.magento.cloud,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,magento.com,True
