@@ -41,9 +41,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7779,8 +7779,8 @@ polygon-technology,portal.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.mi.com,True
 xiaomi,*.miwifi.com,True
+xiaomi,*.mi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -8069,11 +8069,11 @@ marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
@@ -9702,8 +9702,8 @@ plaid,api.blockscore.com,True
 plaid,production.plaid.com,True
 plaid,plaid.com,True
 plaid,secure.quovo.com,True
-plaid,cdn.plaid.com,True
 plaid,manage.blockscore.com,True
+plaid,cdn.plaid.com,True
 plaid,production.plaid.com,True
 plaid,dashboard.plaid.com,True
 plaid,cdn.plaid.com,True
@@ -10295,9 +10295,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

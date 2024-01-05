@@ -34,9 +34,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
-auth.23andme.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1932,8 +1932,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2124,11 +2124,11 @@ sso.marriott.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
-jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -2887,8 +2887,8 @@ api.blockscore.com
 production.plaid.com
 plaid.com
 secure.quovo.com
-cdn.plaid.com
 manage.blockscore.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3392,9 +3392,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
