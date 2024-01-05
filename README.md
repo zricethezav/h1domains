@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 08:10:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 09:09:06 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1540,8 +1540,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-hackers_chosendomain.larksuite.com
 internal-api-drive-stream.larksuite.com
+hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -1763,7 +1763,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.iciparisxl.lu
-www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1773,6 +1772,7 @@ www20.watsons.co.th
 www.watsons.com.tr
 www.marionnaud.fr
 www.watsons.co.id
+www.marionnaud.ro
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com

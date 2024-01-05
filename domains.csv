@@ -7204,8 +7204,8 @@ bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
-lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
+lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
@@ -7558,7 +7558,6 @@ affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
 watson_group,app.marionnaud.hu,True
 watson_group,www.iciparisxl.lu,True
-watson_group,www.marionnaud.ro,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
@@ -7568,6 +7567,7 @@ watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.co.id,True
+watson_group,www.marionnaud.ro,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -10132,8 +10132,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
