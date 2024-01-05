@@ -1757,8 +1757,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -10539,8 +10539,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True

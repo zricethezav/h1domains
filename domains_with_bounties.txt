@@ -3517,8 +3517,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

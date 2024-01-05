@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 02:20:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 03:09:04 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -3523,8 +3523,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

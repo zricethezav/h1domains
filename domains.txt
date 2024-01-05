@@ -1756,8 +1756,8 @@ www.practicalmoneyskills.org
 *.bharatbenz.com
 *.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -10538,8 +10538,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
