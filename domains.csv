@@ -10013,10 +10013,10 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.com,True
-starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
+starbucks,www.starbucks.co.kr,True
 starbucks,www.starbucks.ca,True
 starbucks,openapi.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
@@ -10206,8 +10206,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True

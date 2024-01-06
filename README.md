@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 22:10:29 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 23:09:25 UTC 2024)
 ```
 payments.hostinger.com
 www.niagahoster.co.id
@@ -3162,10 +3162,10 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -3311,8 +3311,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
