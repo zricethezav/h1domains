@@ -2855,8 +2855,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
@@ -2955,12 +2955,12 @@ aso.apnic.net
 *.apnic.foundation
 *.apnic.net
 *.apidt.org
-stats.labs.apnic.net
 nori.apnic.net
 rsync.apnic.net
 registry-testbed.apnic.net
 rpki.apnic.net
 orbit.apnic.net
+stats.labs.apnic.net
 submission.apnic.net
 ftp.apnic.net
 *.apnic.net
@@ -10385,8 +10385,8 @@ careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 help.ui.com
-account.ui.com
 rma.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com

@@ -2856,8 +2856,8 @@ shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,blog.spoonflower.com,False
-shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.spoonflower.com,False
+shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -2956,12 +2956,12 @@ apnic,aso.apnic.net,False
 apnic,*.apnic.foundation,False
 apnic,*.apnic.net,False
 apnic,*.apidt.org,False
-apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
 apnic,registry-testbed.apnic.net,False
 apnic,rpki.apnic.net,False
 apnic,orbit.apnic.net,False
+apnic,stats.labs.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,ftp.apnic.net,False
 apnic,*.apnic.net,False
@@ -10386,8 +10386,8 @@ ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 ui,help.ui.com,False
-ui,account.ui.com,True
 ui,rma.ui.com,True
+ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True
