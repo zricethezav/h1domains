@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 03:10:44 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 04:09:25 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -393,8 +393,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1408,12 +1408,12 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-api.reddit.com
 app.spiketrap.io
 *.redditmedia.com
 old.reddit.com
 ads.reddit.com
 gql.reddit.com
+api.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2049,11 +2049,11 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
-*.1688.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
