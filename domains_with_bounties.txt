@@ -1245,8 +1245,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-tria.ge
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -3393,8 +3393,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

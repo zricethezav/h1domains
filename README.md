@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 11:09:34 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 12:11:45 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -1251,8 +1251,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-tria.ge
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -3399,8 +3399,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
