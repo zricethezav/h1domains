@@ -10178,8 +10178,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
