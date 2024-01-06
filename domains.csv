@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
+hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -4692,8 +4692,8 @@ trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
-tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
+tokenweb3,*.tokensvc.com,False
 tokenweb3,blog.token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
