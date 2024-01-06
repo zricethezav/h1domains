@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 00:22:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 01:33:49 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -2780,11 +2780,11 @@ playartifact.com
 developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
-partner.steampowered.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
 partner.steamgames.com
+partner.steampowered.com
 api.steampowered.com
 support.steampowered.com
 www.dota2.com

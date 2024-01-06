@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -9585,11 +9585,11 @@ valve,playartifact.com,True
 valve,developer.valvesoftware.com,True
 valve,store.steampowered.com,True
 valve,help.steampowered.com,True
-valve,partner.steampowered.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True
 valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
+valve,partner.steampowered.com,True
 valve,api.steampowered.com,True
 valve,wiki.teamfortress.com,False
 valve,storefront.steampowered.com,False
