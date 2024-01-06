@@ -5019,8 +5019,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -7209,8 +7209,8 @@ lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
-lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,open.larksuite.com,True
+lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,app.larksuite.com,True
@@ -10178,9 +10178,9 @@ zomato,api.grofers.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
-zomato,*.zomans.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
