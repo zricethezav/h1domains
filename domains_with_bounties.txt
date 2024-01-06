@@ -836,10 +836,10 @@ api.zerobounce.in
 zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
-*.teleportinfra.sh
 askpam.ai
 *.teleport.dev
 *.gravitational.com
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -2617,8 +2617,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3479,6 +3479,7 @@ careers.ui.com
 account.ui.com
 rma.ui.com
 fw-update.ubnt.com
+uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com

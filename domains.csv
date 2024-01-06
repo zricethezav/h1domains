@@ -3624,10 +3624,10 @@ zerobounce,api.zerobounce.in,True
 zerobounce,zerobounce.net,True
 teleport,*.gravitational.co,True
 teleport,cloud.gravitational.io,True
-teleport,*.teleportinfra.sh,True
 teleport,askpam.ai,True
 teleport,*.teleport.dev,True
 teleport,*.gravitational.com,True
+teleport,*.teleportinfra.sh,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
@@ -9421,8 +9421,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,*.paypalcorp.com,True
-paypal,paypalobjects.com,True
 paypal,*.braintreegateway.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10389,6 +10389,7 @@ ui,help.ui.com,False
 ui,account.ui.com,True
 ui,rma.ui.com,True
 ui,fw-update.ubnt.com,True
+ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
