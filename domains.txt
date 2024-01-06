@@ -10333,9 +10333,9 @@ www.bitmoji.com
 business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
-*.sc-corp.net
 spectacles.com
 web.snapchat.com
+*.sc-corp.net
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com

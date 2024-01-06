@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 02:18:27 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 03:10:44 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -3437,9 +3437,9 @@ www.bitmoji.com
 business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
-*.sc-corp.net
 spectacles.com
 web.snapchat.com
+*.sc-corp.net
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
