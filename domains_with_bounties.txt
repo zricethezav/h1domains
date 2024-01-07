@@ -3687,8 +3687,8 @@ prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
 international.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 coinbase.com

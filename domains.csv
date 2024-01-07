@@ -10711,8 +10711,8 @@ coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,coinbase.com,True
