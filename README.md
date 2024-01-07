@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 07:09:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 08:10:52 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
