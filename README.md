@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 08:10:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 09:08:47 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -1893,8 +1893,8 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 social.playstation.com
-transact.playstation.com
 api.direct.playstation.com
+transact.playstation.com
 *.api.playstation.com
 direct.playstation.com
 store.playstation.com
@@ -2052,8 +2052,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliyun.com
-*.1688.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2144,9 +2144,9 @@ www.ritzcarlton.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
-marrtool.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com

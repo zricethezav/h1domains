@@ -7716,8 +7716,8 @@ wellsfargo,*.wystar.com,False
 wellsfargo,*.advisor-connection.com,False
 playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
-playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
+playstation,transact.playstation.com,True
 playstation,*.api.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
@@ -7913,8 +7913,8 @@ alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8075,9 +8075,9 @@ marriott,www.ritzcarlton.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
-marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
+marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True

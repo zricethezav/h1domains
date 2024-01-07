@@ -7715,8 +7715,8 @@ mackeeper.com
 *.advisor-connection.com
 wallets.api.playstation.com
 social.playstation.com
-transact.playstation.com
 api.direct.playstation.com
+transact.playstation.com
 *.api.playstation.com
 direct.playstation.com
 store.playstation.com
@@ -7912,8 +7912,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliyun.com
-*.1688.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8074,9 +8074,9 @@ www.ritzcarlton.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
-marrtool.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
