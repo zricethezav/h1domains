@@ -3231,8 +3231,8 @@ education.github.com
 *.github.net
 gist.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3599,8 +3599,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
