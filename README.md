@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 02:22:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 03:10:36 UTC 2024)
 ```
 payments.hostinger.com
 www.niagahoster.co.id
@@ -525,8 +525,8 @@ api-eu.floqast.app
 hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr

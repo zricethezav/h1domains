@@ -2912,8 +2912,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
-hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
+hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
 hilton,hilton.com.tr,True
@@ -9106,8 +9106,8 @@ capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
