@@ -1189,8 +1189,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -8073,11 +8073,11 @@ marriott,all-inclusive.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,*uat.marriott.com,True
-marriott,passwordchallenge.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
+marriott,passwordchallenge.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 16:10:41 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 17:09:50 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -217,8 +217,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2142,11 +2142,11 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
 *uat.marriott.com
-passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
