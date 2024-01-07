@@ -11,8 +11,8 @@ cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-www.zyro.com
 backend.zyro.com
+www.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
