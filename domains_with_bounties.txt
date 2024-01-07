@@ -2038,8 +2038,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -2121,9 +2121,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 sso.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com

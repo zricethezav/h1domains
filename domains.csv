@@ -7913,8 +7913,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
@@ -8066,9 +8066,9 @@ kindred_group,maria.casino,True
 kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
