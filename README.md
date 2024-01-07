@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 05:09:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 06:10:44 UTC 2024)
 ```
-payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hosting24.com
+payments.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -1685,8 +1685,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2621,10 +2621,10 @@ api.swiftfinancial.com
 api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-loanbuilder.com
 *.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
+loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3745,9 +3745,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
