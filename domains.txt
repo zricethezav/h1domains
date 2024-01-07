@@ -43,8 +43,8 @@ blog.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1403,8 +1403,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.tikkie.me
 *.abnamro.nl
+*.tikkie.me
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -1442,8 +1442,8 @@ aqbeerfest.com
 chefsdinners.com
 lilliesasiancuisine.com
 muer.com
-shoppostoak.com
 aqwine.com
+shoppostoak.com
 aqbeerfest.com
 aqwine.com
 boardwalkfantasea.com
@@ -8800,8 +8800,8 @@ accounts.pixiv.net
 booth.pm
 comic.pixiv.net
 sensei.pixiv.net
-sketch.pixiv.net
 dic.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net

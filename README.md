@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 20:09:44 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 21:10:18 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -43,8 +43,8 @@ blog.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -2235,8 +2235,8 @@ accounts.pixiv.net
 booth.pm
 comic.pixiv.net
 sensei.pixiv.net
-sketch.pixiv.net
 dic.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net

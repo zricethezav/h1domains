@@ -37,8 +37,8 @@ blog.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -2229,8 +2229,8 @@ accounts.pixiv.net
 booth.pm
 comic.pixiv.net
 sensei.pixiv.net
-sketch.pixiv.net
 dic.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
