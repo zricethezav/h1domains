@@ -2921,8 +2921,8 @@ falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.com
 verkkopalvelu.tapiola.fi
-yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 tunnistus.lahitapiola.fi

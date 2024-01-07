@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 13:10:09 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 14:09:01 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -2927,8 +2927,8 @@ falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.com
 verkkopalvelu.tapiola.fi
-yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 tunnistus.lahitapiola.fi

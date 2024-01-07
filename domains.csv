@@ -3651,10 +3651,10 @@ avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
-avalara,*.davosalestax.com,False
 avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.avalara.net,False
+avalara,*.davosalestax.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -9740,8 +9740,8 @@ ed,securitytxt.org,False
 ed,edoverflow.com,False
 ed,bugbountyguide.com,False
 localtapiola,verkkopalvelu.tapiola.fi,True
-localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
+localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,tunnistus.lahitapiola.fi,True

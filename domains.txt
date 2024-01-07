@@ -3650,10 +3650,10 @@ www.divvyhomes.com
 *.crowdreason.com
 *.impendulo.com
 *.avalara.io
-*.davosalestax.com
 *.track1099.com
 *.ttrus.com
 *.avalara.net
+*.davosalestax.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -9739,8 +9739,8 @@ securitytxt.org
 edoverflow.com
 bugbountyguide.com
 verkkopalvelu.tapiola.fi
-yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 tunnistus.lahitapiola.fi
