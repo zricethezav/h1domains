@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 11:08:42 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 12:11:32 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -410,8 +410,8 @@ m.krisha.kz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
-m.kolesa.kz
 app.krisha.kz
+m.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 kolesa.kz
