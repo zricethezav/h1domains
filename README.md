@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 21:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 22:08:39 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -2139,8 +2139,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
@@ -3758,9 +3758,9 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com

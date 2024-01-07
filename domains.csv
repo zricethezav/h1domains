@@ -8070,8 +8070,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
-marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,www.ritzcarlton.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
@@ -10776,9 +10776,9 @@ security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
