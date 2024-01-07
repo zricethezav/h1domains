@@ -446,9 +446,9 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
@@ -515,8 +515,8 @@ api-eu.floqast.app
 api-eu.floqast.app
 *.hilton.io
 *.hiltonhotels.jp
-*.hiltonbusinessonline.com
 hiltonhotels.jp
+*.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
@@ -2038,8 +2038,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com

@@ -2774,9 +2774,9 @@ oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
-mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
+mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
@@ -2908,8 +2908,8 @@ floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
 hilton,*.hiltonhotels.jp,True
-hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
+hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
@@ -7905,8 +7905,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True

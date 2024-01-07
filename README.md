@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 09:08:47 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 10:09:59 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -452,9 +452,9 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
@@ -521,8 +521,8 @@ api-eu.floqast.app
 api-eu.floqast.app
 *.hilton.io
 *.hiltonhotels.jp
-*.hiltonbusinessonline.com
 hiltonhotels.jp
+*.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
@@ -2044,8 +2044,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
