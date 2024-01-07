@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
-hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
+hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -70,8 +70,8 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -117,8 +117,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1551,8 +1551,8 @@ nba-vdp,cdn.nba.com,False
 nba-vdp,content-api-prod.nba.com,False
 nba-vdp,identity.nba.com,False
 nba-vdp,teamportal.nba.com,False
-nba-vdp,gleague.nba.com,False
 nba-vdp,2kleague.nba.com,False
+nba-vdp,gleague.nba.com,False
 nba-vdp,core-api.nba.com,False
 nba-vdp,wnba.com,False
 nba-vdp,nba.com,False
@@ -7905,8 +7905,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
