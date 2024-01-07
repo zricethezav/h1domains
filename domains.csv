@@ -42,8 +42,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1239,13 +1239,13 @@ alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
-alshaya,shayakahve.com.tr,False
 alshaya,card.starbucks.com.kz,False
 alshaya,kw.boots.com,False
 alshaya,*.bathandbodyworks.com.kw,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.muji.qa,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,shayakahve.com.tr,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
@@ -8059,8 +8059,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -8069,9 +8069,9 @@ marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
@@ -10603,8 +10603,8 @@ greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,interseller.io,True
-greenhouse,app.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
+greenhouse,app.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
