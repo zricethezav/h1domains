@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 10:17:01 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 11:11:27 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -10,9 +10,9 @@ payments.hostinger.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hostinger.com
 www.hosting24.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1251,8 +1251,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1727,6 +1727,10 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
+platform.enjin.io
+nft.io
+nft.io
+platform.enjin.io
 api.figma.com
 www.figma.com
 www.figma.com
@@ -2052,8 +2056,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2145,8 +2149,8 @@ all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2777,9 +2781,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
+developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
@@ -3599,8 +3603,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
