@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 23:08:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 00:22:44 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -644,9 +644,9 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 cfapi.voikukka.fi
 extranet.s-pankki.fi
-www.s-pankki.fi
 tunnistus.s-ryhma.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -1014,8 +1014,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -2050,10 +2050,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.aliyun.com
 *.aliexpress.com
 *.1688.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
