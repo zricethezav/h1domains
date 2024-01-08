@@ -2,23 +2,23 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 11:11:27 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 12:13:45 UTC 2024)
 ```
 www.niagahoster.co.id
-cpanel.hosting24.com
 payments.hostinger.com
+cpanel.hosting24.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -2016,8 +2016,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2056,8 +2056,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2143,8 +2143,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
@@ -3436,8 +3436,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
@@ -3695,8 +3695,8 @@ cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

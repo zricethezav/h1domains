@@ -1,19 +1,19 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
-hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
+hostinger,cpanel.hosting24.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
-hostinger,backend.zyro.com,True
 hostinger,www.zyro.com,True
+hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -199,7 +199,6 @@ frontegg,api.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
 cbre,*.cbreclarion.com,False
-cbre,*.cbreresidential.es,False
 cbre,*.cbrichardellis.com,False
 cbre,*.famecoretail.com,False
 cbre,*.floridavaluation.com,False
@@ -217,7 +216,6 @@ cbre,www.us.sequentra.net,False
 cbre,mail.cbreresidencial.es,False
 cbre,lan-54-232.usequities.com,False
 cbre,lan-54-233.usequities.com,False
-cbre,lan-54-238.usequities.com,False
 cbre,cloud.sequentra.net,False
 cbre,pop.92mountainview.com,False
 cbre,smtp.92mountainview.com,False
@@ -244,6 +242,8 @@ cbre,smtp.fmpilot2.net,False
 cbre,gameflex.gallileo-frankfurt.com,False
 cbre,getsimnum.gallileo-frankfurt.com,False
 cbre,beachside.cbresi.com.au,False
+cbre,www.cbresi.com,False
+cbre,fs.ucr.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -5062,7 +5062,6 @@ costco,*.costcobusinessdelivery.com,False
 costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
-mondelez,mondelezinternational.com,False
 mondelez,oplatky-kolonada.cz,False
 mondelez,oreoitalia.it,False
 mondelez,philadelphia.com.mx,False
@@ -5110,6 +5109,7 @@ mondelez,milka.cz,False
 mondelez,cadburyworld.co.uk,False
 mondelez,secretsanta.cadbury.co.uk,False
 mondelez,www.clifbar.be,False
+mondelez,mueller.milka.de,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -7881,8 +7881,8 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
-amazonvrp,api.amazon.com,True
 amazonvrp,music.amazon.com,True
+amazonvrp,api.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -7921,8 +7921,8 @@ alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8078,8 +8078,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
-marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,www.ritzcarlton.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
@@ -10329,8 +10329,8 @@ snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
@@ -10717,8 +10717,8 @@ coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,*.base.org,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
