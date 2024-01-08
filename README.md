@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 09:11:05 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 10:17:01 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1412,8 +1412,8 @@ app.spiketrap.io
 *.redditmedia.com
 ads.reddit.com
 gql.reddit.com
-api.reddit.com
 old.reddit.com
+api.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2044,8 +2044,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -2334,8 +2334,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com

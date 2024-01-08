@@ -117,8 +117,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3271,7 +3271,6 @@ stanford-university,stanfordyou.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,accounts.stanford.edu,False
 stanford-university,bi.stanford.edu,False
-stanford-university,ecm.stanford.edu,False
 stanford-university,fasa.stanford.edu,False
 stanford-university,login.stanford.edu,False
 stanford-university,spdb.stanford.edu,False
@@ -3279,6 +3278,7 @@ stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,ecm.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -4591,7 +4591,6 @@ mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.ca,False
-mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
@@ -4603,6 +4602,7 @@ mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
 mars,*.plataformaurinary.com,False
 mars,*.royalcanin.it,False
+mars,*.marschocolate.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -6545,8 +6545,8 @@ reddit,app.spiketrap.io,True
 reddit,*.redditmedia.com,True
 reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
-reddit,api.reddit.com,True
 reddit,old.reddit.com,True
+reddit,api.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7905,8 +7905,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
@@ -9072,8 +9072,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
