@@ -40,9 +40,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1611,8 +1611,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -3276,8 +3276,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 ecm.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -3333,10 +3333,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+sso.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -4571,6 +4571,7 @@ banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.nl
 *.banfield.com
+practice.securevetsource.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4594,6 +4595,7 @@ banfieldfoundation.org
 *.vcahospitals.com
 *.mms.com
 *.royalcanin.ca
+spsah2.securevetsource.com
 *.royal-canin.com
 *.bibliotecarc.cl
 *.coroapremiada.com.br
@@ -4603,9 +4605,6 @@ banfieldfoundation.org
 *.royalcanin.sk
 *.tradetermsrc.com
 *.wikichien.fr
-*.plataformaurinary.com
-*.royalcanin.it
-*.marschocolate.com
 *.mars.com
 *.marschocolate.com
 *.mms.com
@@ -4671,6 +4670,9 @@ banfieldexchange.com
 banfieldfoundation.org
 marsbettertogetherfund.org
 banfield.us
+practice.securevetsource.com
+spsah2.securevetsource.com
+https://portal.securevetsource.com/petowner.html
 *.flexport.com
 *.transmissionapp.com
 *.flexport.com
@@ -4874,8 +4876,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -4895,8 +4897,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -5876,8 +5878,8 @@ ims.tcms.tal.deere.com
 parts.deere.africa
 marksman.surepointag.com
 johndeereinnovation.com
-rewards.deere.com
 contest.deere.com
+deere.africa
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7385,8 +7387,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -7395,8 +7397,8 @@ business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7984,8 +7986,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 api.digitalocean.com
-*.digitalocean.com
 api.cloudways.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -8117,8 +8119,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8311,11 +8313,11 @@ platform.8x8.com
 pay.8x8.com
 *.8x8.id
 *.chalet.8x8.com
-sso.8x8.com
 *.jitsi.org
 www.8x8.com
 *.8x8pilot.com
 *.jitsi.net
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -9083,8 +9085,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9544,8 +9546,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10392,7 +10394,6 @@ help.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
@@ -10541,9 +10542,9 @@ next.airbnb.com
 *.withairbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
-www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 assets.airbnb.com
 open.airbnb.com
@@ -10674,8 +10675,8 @@ simplenote.com
 gravatar.com
 assets.tumblr.com
 intensedebate.com
-wordpress.com
 api.tumblr.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
@@ -10722,8 +10723,8 @@ prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
 international.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -10793,9 +10794,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -11023,10 +11024,10 @@ jimdo.design
 cms.jimdo.com
 ns11.jimdo.com
 *.jimdofree.com
-account.e.jimdo.com
 *.jimdo-platform.net
 www.jimdo.com
 logo.e.jimdo.com
+account.e.jimdo.com
 subscriptions.jimdosite.com
 storage.jimdosite.com
 websitegenerator.jimdosite.com
