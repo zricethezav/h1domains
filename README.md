@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 12:13:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 13:12:58 UTC 2024)
 ```
 www.niagahoster.co.id
-payments.hostinger.com
 cpanel.hosting24.com
+payments.hostinger.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
@@ -17,8 +17,8 @@ cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-www.zyro.com
 backend.zyro.com
+www.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -727,9 +727,13 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
+*.superbet.rs
 *.superbet.ro
+*.superbet.rs
+*.superbet.com
 *.magicjackpot.ro
 *.spinaway.com
 *.luckydays.com
@@ -2149,8 +2153,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-marrtool.com
 passwordchallenge.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com

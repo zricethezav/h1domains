@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
-hostinger,payments.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
+hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
@@ -12,8 +12,8 @@ hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
-hostinger,www.zyro.com,True
 hostinger,backend.zyro.com,True
+hostinger,www.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -3078,10 +3078,10 @@ abb,*.abb.co.in,False
 abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.br-automation.com,False
-abb,*.abb.com.cn,False
 abb,*.it.abb.com,False
 abb,*.cylon.com,False
 abb,*.abb.ch,False
+abb,*.abb.com.cn,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -3386,9 +3386,13 @@ kkr_vdp,ksam.com,False
 superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
+superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.rs,True
+superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
@@ -7418,8 +7422,8 @@ logitech,*.logi.com,False
 logitech,www.logitech.com.cn,True
 logitech,*.myharmony.com,False
 logitech,alert.logitech.com,False
-logitech,*.logitech.com,False
 logitech,www.logitechg.com,True
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
@@ -8084,8 +8088,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,marrtool.com,True
 marriott,passwordchallenge.marriott.com,True
+marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
