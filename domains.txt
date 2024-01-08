@@ -1,7 +1,7 @@
 cpanel.hosting24.com
-payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -39,10 +39,10 @@ research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
 api.23andme.com
+blog.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -3333,10 +3333,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
 *.jitsi.net
+connect.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -7766,9 +7766,9 @@ portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 mapper.polygon.technology
-wallet.polygon.technology
 burn.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -8296,9 +8296,9 @@ get8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
 admin.8x8.com
-connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
+connect.8x8.com
 *.thinkingphones.net
 sms.8x8.com
 user-profile.8x8.com

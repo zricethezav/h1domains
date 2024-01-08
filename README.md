@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 22:10:15 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 23:09:09 UTC 2024)
 ```
 cpanel.hosting24.com
-payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -39,10 +39,10 @@ research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
 api.23andme.com
+blog.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -675,10 +675,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
 *.jitsi.net
+connect.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -1927,9 +1927,9 @@ portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 mapper.polygon.technology
-wallet.polygon.technology
 burn.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
