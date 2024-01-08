@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 14:13:19 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 15:12:08 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 *.000webhost.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1085,8 +1085,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1692,8 +1692,8 @@ business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2052,15 +2052,15 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.1688.com
 *.taobao.com
 *.alibaba.com
@@ -2153,8 +2153,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3613,8 +3613,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3754,8 +3754,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

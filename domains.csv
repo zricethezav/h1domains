@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,*.000webhost.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -4963,8 +4963,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,*.instacart.tools,True
-instacart,www.instacart.com,True
 instacart,api.instacart.com,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -7396,8 +7396,8 @@ tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7917,15 +7917,15 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -8088,8 +8088,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
+marriott,passwordchallenge.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -10630,8 +10630,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10776,8 +10776,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
