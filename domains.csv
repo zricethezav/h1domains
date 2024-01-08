@@ -5,9 +5,9 @@ hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hosting24.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -38,12 +38,12 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -117,8 +117,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3277,8 +3277,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,ecm.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,ecm.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -4561,7 +4561,6 @@ mars,*.twix.com,False
 mars,*.myroyalcanin.ro,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
-mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
@@ -4573,6 +4572,7 @@ mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.nl,False
 mars,*.banfield.com,False
 mars,practice.securevetsource.com,False
+mars,*.eukanubasportingdog.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -8084,8 +8084,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
@@ -10075,8 +10075,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -10395,6 +10395,7 @@ ui,help.ui.com,False
 ui,rma.ui.com,True
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
+ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
@@ -10680,9 +10681,9 @@ automattic,api.tumblr.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
-automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,mailpoet.com,True
+automattic,www.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
@@ -10728,8 +10729,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,*.base.org,True
 coinbase,coinbase.com,True
+coinbase,*.base.org,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
