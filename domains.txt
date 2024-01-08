@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -7387,9 +7387,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
