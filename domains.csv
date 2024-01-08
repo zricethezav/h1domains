@@ -7389,8 +7389,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7912,9 +7912,9 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10782,9 +10782,9 @@ security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

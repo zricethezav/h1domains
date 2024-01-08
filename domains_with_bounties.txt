@@ -1679,8 +1679,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2045,9 +2045,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun-inc.com
 *.aliexpress.com
-*.1688.com
 *.Daraz.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3758,9 +3758,9 @@ hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
