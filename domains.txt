@@ -1,6 +1,6 @@
-www.niagahoster.co.id
 cpanel.hosting24.com
 payments.hostinger.com
+www.niagahoster.co.id
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1753,8 +1753,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -3335,8 +3335,8 @@ ksam.com
 work.8x8.com
 connect.8x8.com
 *.8x8.vc
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -4570,8 +4570,8 @@ banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.nl
 *.banfield.com
-practice.securevetsource.com
 *.eukanubasportingdog.com
+practice.securevetsource.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4876,8 +4876,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -6117,6 +6117,7 @@ ims.tcms.tal.deere.com
 advance.deere.com
 devl-app.nprd-exco.deere.com
 jduetc.deere.com
+jdfy-cert.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -6428,8 +6429,8 @@ domore.zebra.com
 mwwprod.zebra.engineering
 fs.viq.zebra.com
 zsbportal.zebra.com
-*.antuit.ai
 *.zebramwe.com
+*.antuit.ai
 global.zebra.com
 hcm.zebra.com
 dcs-polarion.zebra.com
@@ -7393,9 +7394,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -8077,8 +8078,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -8316,8 +8317,8 @@ pay.8x8.com
 *.jitsi.org
 www.8x8.com
 *.8x8pilot.com
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -10137,8 +10138,8 @@ education.github.com
 *.github.net
 gist.github.com
 *.githubusercontent.com
-npmjs.org
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -10291,17 +10292,17 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10394,7 +10395,6 @@ help.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
@@ -10631,8 +10631,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
