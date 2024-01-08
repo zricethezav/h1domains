@@ -44,8 +44,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -117,8 +117,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3165,8 +3165,8 @@ abb,*.abb.net,False
 abb,abb.com.br,False
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
-malwarebytes,my.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
+malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
@@ -3494,9 +3494,9 @@ expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
-expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.stayz.com.au,True
+expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -5011,8 +5011,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -7389,8 +7389,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8106,8 +8106,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8924,8 +8924,8 @@ equifax,*.datacredito.com.do,False
 equifax,*equifax.co.in,False
 equifax,www.equifax.com,False
 equifax,*.bvsnet.com.br,False
-equifax,*.konduto.com,False
 equifax,*.efficientforms.com,False
+equifax,*.konduto.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
@@ -10183,12 +10183,6 @@ zomato,winecellar.zomato.com,True
 zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
-algolia,*.algolianet.com,True
-algolia,*.algolia.net,True
-algolia,www.algolia.com,True
-algolia,*.algolia.net,True
-algolia,*.algolianet.com,True
-algolia,www.algolia.com,True
 deriv,cashier.deriv.com,True
 deriv,derivws.com,True
 deriv,api.deriv.com,True
@@ -11466,6 +11460,12 @@ kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,api.kiwi.ki,True
 kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,portal.kiwi.ki,True
+algolia,*.algolianet.com,True
+algolia,*.algolia.net,True
+algolia,www.algolia.com,True
+algolia,*.algolia.net,True
+algolia,*.algolianet.com,True
+algolia,www.algolia.com,True
 codeigniter,www.codeigniter.com,False
 codeigniter,www.codeigniter.com,False
 ok,ok.ru,False

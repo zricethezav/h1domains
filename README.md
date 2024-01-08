@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 08:12:55 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 09:11:05 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -43,8 +43,8 @@ blog.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -618,8 +618,8 @@ api.miro.com
 http://miro.com/blog
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
@@ -797,9 +797,9 @@ www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.expediapartnercentral.com
-www.wotif.com
 www.hotwire.com
 www.stayz.com.au
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1095,8 +1095,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1685,8 +1685,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2175,8 +2175,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3296,12 +3296,6 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.algolianet.com
-*.algolia.net
-www.algolia.com
-*.algolia.net
-*.algolianet.com
-www.algolia.com
 cashier.deriv.com
 derivws.com
 api.deriv.com
@@ -4158,6 +4152,12 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+*.algolianet.com
+*.algolia.net
+www.algolia.com
+*.algolia.net
+*.algolianet.com
+www.algolia.com
 provider.enter.health
 api.enter.health
 login.enter.health
