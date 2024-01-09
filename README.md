@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 09:08:28 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 10:13:10 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -40,8 +40,8 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 auth.23andme.com
-api.23andme.com
 blog.23andme.com
+api.23andme.com
 you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -564,8 +564,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -677,8 +677,8 @@ jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -724,13 +724,17 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
-*.superbet.ro
+*.magicjackpot.ro
 *.superbet.com
+*.superbet.ro
+*.napoleondice.be
+*.napoleongames.be
 *.luckydays.ca
+*.napoleoncasino.be
 *.spinaway.com
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -738,6 +742,10 @@ admin.8x8.com
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
 *.moonpaycloud.com
 moonpay.com
 *.moonpay.com
@@ -1731,12 +1739,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
-nft.io
-nft.io
-platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2052,16 +2056,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2151,10 +2155,10 @@ www.ritzcarlton.com
 all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
-homes-and-villas.marriott.com
 hotel-deals.marriott.com
 marrtool.com
 passwordchallenge.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2183,8 +2187,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3704,8 +3708,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3925,6 +3929,10 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
+platform.enjin.io
+nft.io
+nft.io
+platform.enjin.io
 www.aiven.io
 help.aiven.io
 api.aiven.io
