@@ -51,11 +51,11 @@ switch.vdp-egress.com
 www.egress.com
 research.23andme.com
 mediacenter.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -129,9 +129,9 @@ taxi.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1261,7 +1261,6 @@ shayakahve.com.tr
 *.muji.qa
 boysweb.shaya.com.tr
 kw.cosstores.com
-sa.cosstores.com
 *.starbucks.com.kz
 *.aloyoga.com.qa
 *.americaneagle.com.eg
@@ -1278,6 +1277,7 @@ sa.cosstores.com
 *.carrier.alshaya.com
 customercare.alshaya.com
 kuwait.kidzania.com
+*.debenhams.com.kw
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -3754,7 +3754,7 @@ soneto.net
 careanyware.com
 app.citushealth.ca
 resmed.com
-brightree.net/
+onlinestore.resmedchina.cn
 resmed.com
 resupply.resmed.com
 myair.resmed.com
@@ -4616,8 +4616,8 @@ banfieldfoundation.org
 *.vcahospitals.com
 *.mms.com
 *.royalcanin.ca
-*.royalcanin.fr
 spsah2.securevetsource.com
+*.royalcanin.fr
 *.royal-canin.com
 *.bibliotecarc.cl
 *.coroapremiada.com.br
@@ -6438,11 +6438,11 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 downloads.zebra.com
 supportcommunity.zebra.com
-*.zebrasports.com
 cmm01.sl.zebra.com
-reflexisinc.com/
 *.zams.zebra.com
 *.profitect.com
+*.zebrasports.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10314,9 +10314,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

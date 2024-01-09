@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 17:15:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 18:12:03 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -43,11 +43,11 @@ partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -121,9 +121,9 @@ taxi.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3416,9 +3416,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

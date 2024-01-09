@@ -52,11 +52,11 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -130,9 +130,9 @@ bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1262,7 +1262,6 @@ alshaya,*.starbuckscardtr.com,False
 alshaya,*.muji.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.cosstores.com,False
-alshaya,sa.cosstores.com,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.com.qa,False
 alshaya,*.americaneagle.com.eg,False
@@ -1279,6 +1278,7 @@ alshaya,*.bathandbodyworks.jo,False
 alshaya,*.carrier.alshaya.com,False
 alshaya,customercare.alshaya.com,False
 alshaya,kuwait.kidzania.com,False
+alshaya,*.debenhams.com.kw,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -3755,7 +3755,7 @@ resmed,soneto.net,False
 resmed,careanyware.com,False
 resmed,app.citushealth.ca,False
 resmed,resmed.com,False
-resmed,brightree.net/,False
+resmed,onlinestore.resmedchina.cn,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -4617,8 +4617,8 @@ mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.ca,False
-mars,*.royalcanin.fr,False
 mars,spsah2.securevetsource.com,False
+mars,*.royalcanin.fr,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
@@ -6439,11 +6439,11 @@ zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,*.zebrasports.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -10315,9 +10315,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
