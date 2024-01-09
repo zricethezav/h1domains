@@ -1577,8 +1577,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -1747,8 +1747,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *.setra.de
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -2844,11 +2844,11 @@ www.borrowlenses.com
 *.sf-cdn.com
 shutterfly.com
 jcpportraits.com
-snapfish.com
 admin.spoonflower.com
 wgwebservices.snapfish.com
 *.sbs.shutterfly.com
 *.snapfish.com
+snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -3545,9 +3545,9 @@ www.flights.com
 *.hoteis.com
 *.ean.com
 *.lastminute.co.nz
-*.wotif.com
 *.vrbo.com
 *.expedia.com
+*.wotif.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -7403,8 +7403,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -9526,8 +9526,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.unitedcp.com
 *.ayco.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -9547,8 +9547,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10631,8 +10631,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com

@@ -1578,8 +1578,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -1748,8 +1748,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -2845,11 +2845,11 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,*.sf-cdn.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -3546,9 +3546,9 @@ expediagroup,*.egadvertising.com,False
 expediagroup,*.hoteis.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
-expediagroup,*.wotif.com,False
 expediagroup,*.vrbo.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.wotif.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -7404,8 +7404,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9527,8 +9527,8 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.foliofn.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -9548,8 +9548,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gsam.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10632,8 +10632,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
