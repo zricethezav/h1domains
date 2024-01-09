@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 01:33:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 02:20:55 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2141,8 +2141,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -3380,8 +3380,8 @@ www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
-api.getbase.com
 zopim.com
+api.getbase.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com

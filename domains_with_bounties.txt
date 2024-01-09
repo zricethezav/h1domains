@@ -2135,8 +2135,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -3374,8 +3374,8 @@ www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
-api.getbase.com
 zopim.com
+api.getbase.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
