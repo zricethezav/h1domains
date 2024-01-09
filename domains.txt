@@ -3276,8 +3276,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 ecm.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -3720,10 +3720,10 @@ resmed.com.br
 resmed.sg
 resmed.ch
 resmed.la
-airview.resmed.eu
 mealtracker.com
 onlinestore.resmed.com
 propellerhealth.com
+airview.resmed.eu
 resmed.lat
 resmed.vn
 resmed.pt
@@ -4587,7 +4587,6 @@ banfieldexchange.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
-*.royalcanin.fr
 *.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
@@ -4596,6 +4595,7 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.ca
 spsah2.securevetsource.com
+*.royalcanin.fr
 *.royal-canin.com
 *.bibliotecarc.cl
 *.coroapremiada.com.br
@@ -8072,8 +8072,8 @@ maria.casino
 www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
-sso.marriott.com
 mgs.marriott.com
+sso.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com

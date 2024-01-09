@@ -3277,8 +3277,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,ecm.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -3721,10 +3721,10 @@ resmed,resmed.com.br,False
 resmed,resmed.sg,False
 resmed,resmed.ch,False
 resmed,resmed.la,False
-resmed,airview.resmed.eu,False
 resmed,mealtracker.com,False
 resmed,onlinestore.resmed.com,False
 resmed,propellerhealth.com,False
+resmed,airview.resmed.eu,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
@@ -4588,7 +4588,6 @@ mars,*.royalcanin.pl,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
-mars,*.royalcanin.fr,False
 mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
@@ -4597,6 +4596,7 @@ mars,*.vcahospitals.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.ca,False
 mars,spsah2.securevetsource.com,False
+mars,*.royalcanin.fr,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
@@ -8073,8 +8073,8 @@ kindred_group,maria.casino,True
 kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,sso.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
