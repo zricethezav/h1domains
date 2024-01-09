@@ -55,8 +55,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -113,8 +113,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3707,7 +3707,6 @@ intuit_rdp,*.mint.com,False
 intuit_rdp,*.quickbooks.com,False
 intuit_rdp,*.mailchimp.com,False
 resmed,resupply.resmed.com,False
-resmed,account.resmed.com,False
 resmed,resmed.co.uk,False
 resmed,resmed.com.au,False
 resmed,resmed.co.id,False
@@ -3725,6 +3724,7 @@ resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
 resmed,patient.propellerhealth.biz,False
 resmed,shop.resmed.com,False
+resmed,account.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
@@ -5699,8 +5699,8 @@ recorded-future,hatching.io,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
 recorded-future,securitytrails.com,True
-recorded-future,tria.ge,True
 recorded-future,id.recordedfuture.com,True
+recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True

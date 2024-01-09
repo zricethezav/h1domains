@@ -54,8 +54,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -112,8 +112,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3706,7 +3706,6 @@ www.divvyhomes.com
 *.quickbooks.com
 *.mailchimp.com
 resupply.resmed.com
-account.resmed.com
 resmed.co.uk
 resmed.com.au
 resmed.co.id
@@ -3724,6 +3723,7 @@ app.medifox-therapie.de/
 app.citushealth.com/
 patient.propellerhealth.biz
 shop.resmed.com
+account.resmed.com
 resmed.co.in
 resmed.es
 www.citushealth.com
@@ -5698,8 +5698,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-tria.ge
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
