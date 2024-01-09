@@ -55,8 +55,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -4617,8 +4617,8 @@ mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.ca,False
-mars,spsah2.securevetsource.com,False
 mars,*.royalcanin.fr,False
+mars,spsah2.securevetsource.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
@@ -10559,8 +10559,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -10734,9 +10734,9 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
-coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,prime.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
@@ -10791,8 +10791,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
