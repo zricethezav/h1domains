@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 22:08:03 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 23:10:22 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -17,14 +17,14 @@ hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hostinger.com
-*.000webhost.com
 www.hosting24.com
+*.000webhost.com
 cpanel.hostinger.com
-logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -46,8 +46,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -104,8 +104,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -166,8 +166,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -732,10 +732,10 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -1032,8 +1032,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -1661,9 +1661,9 @@ api.sharefile.eu
 sf-rp.sharefile.com
 us.cloud.com
 (yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1703,8 +1703,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2756,7 +2756,7 @@ marquee.gs.com
 *.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
-*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3407,8 +3407,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3541,8 +3541,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3710,8 +3710,8 @@ pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
 international.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -3776,8 +3776,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
