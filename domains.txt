@@ -4594,8 +4594,8 @@ banfieldfoundation.org
 *.vcahospitals.com
 *.mms.com
 *.royalcanin.ca
-spsah2.securevetsource.com
 *.royalcanin.fr
+spsah2.securevetsource.com
 *.royal-canin.com
 *.bibliotecarc.cl
 *.coroapremiada.com.br
