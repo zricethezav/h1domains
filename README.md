@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 02:22:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 03:10:58 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -46,8 +46,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -570,8 +570,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -3336,9 +3336,9 @@ smarttrader.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-*.deriv.cloud
 app.deriv.com
 oauth.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

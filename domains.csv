@@ -63,8 +63,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
@@ -2858,8 +2858,8 @@ shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,snapfish.fr,False
 shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,*.photoccino.com,False
-shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,*.lifetouch.com,False
+shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
@@ -3037,8 +3037,8 @@ indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
@@ -10241,9 +10241,9 @@ deriv,smarttrader.deriv.com,True
 deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
-deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
 deriv,oauth.deriv.com,True
+deriv,*.deriv.cloud,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
