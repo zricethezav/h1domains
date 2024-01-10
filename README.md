@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 01:34:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 02:22:10 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -2151,8 +2151,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -2199,6 +2199,14 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
+app.localizestaging.com
+localizestaging.com
+cdn.localizestaging.com
+api.localizestaging.com
+localizestaging.com
+api.localizestaging.com
+app.localizestaging.com
+cdn.localizestaging.com
 kubernetes.io
 kubernetes-csi.github.io
 k8s.io
@@ -3704,18 +3712,18 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-custody.coinbase.com
 *.cbhq.net
 pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
-international.coinbase.com
+custody.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
+international.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3951,14 +3959,6 @@ aivencloud.com
 help.aiven.io
 ota.helium.com
 ota.helium.com
-app.localizestaging.com
-localizestaging.com
-cdn.localizestaging.com
-api.localizestaging.com
-localizestaging.com
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
