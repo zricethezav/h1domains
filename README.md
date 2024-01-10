@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 14:11:26 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 15:12:15 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -24,19 +24,19 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-www.zyro.com
 logo.zyro.com
+www.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -58,9 +58,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 auth.23andme.com
 you.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -116,8 +116,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1572,8 +1572,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
+internal-api-drive-stream.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -2043,9 +2043,9 @@ track.amazon.com
 chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
-apay-us.amazon.com
 music.amazon.com
 api.amazon.com
+apay-us.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2170,9 +2170,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 marrtool.com
@@ -2207,8 +2207,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2393,8 +2393,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2465,6 +2465,8 @@ vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
 www.wynnvacations.com
 res.universalorlandovacations.com
+www.hyattinclusivecollection.com
+booking.applevacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2494,10 +2496,8 @@ sso.oft.hyatt.com
 vacations.velasvallarta.com
 vacations.united.com
 book.extraholidaysvacations.com
+res.hyattinclusivecollection.com
 soaext.oft.hyatt.com
-vacations.vallarta.grandvelas.com
-book.cheapcaribbean.com
-holidays-fj.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2579,6 +2579,9 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
+res.hyattinclusivecollection.com
+www.hyattinclusivecollection.com
+booking.applevacations.com
 *.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
@@ -3198,11 +3201,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucks.de
-app.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3440,8 +3443,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
