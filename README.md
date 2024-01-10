@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 18:11:12 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 19:11:29 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -35,8 +35,8 @@ cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1442,10 +1442,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
 api.reddit.com
 gql.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2846,9 +2846,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
 *.mona.co
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -3443,8 +3443,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

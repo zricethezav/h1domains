@@ -11,9 +11,9 @@ dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
-oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
+oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth.co.uk,False
 oaknorth_bank,*.oaknorth.co.uk,False
 oaknorth_bank,*.oaknorth-it.com,False
@@ -25,8 +25,8 @@ dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
-wellhive,analytics.wellhive.com,False
 wellhive,login.wellhive.com,False
+wellhive,analytics.wellhive.com,False
 wellhive,app.wellhive.com,False
 wellhive,wellhivecorporate.okta.com,False
 wellhive,wellhivecorporate.okta.com,False
@@ -46,8 +46,8 @@ hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
 hostinger,backend.zyro.com,True
-hostinger,logo.zyro.com,True
 hostinger,www.zyro.com,True
+hostinger,logo.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -3128,8 +3128,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.baldor.com,False
-abb,*.abb.com,False
 abb,*.pl.abb.com,False
+abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.pdc.abb.com,False
@@ -3472,8 +3472,8 @@ us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -6593,10 +6593,10 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 reddit,app.spiketrap.io,True
 reddit,*.redditmedia.com,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
 reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -9665,9 +9665,9 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
 crypto,*.mona.co,True
+crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
@@ -10350,8 +10350,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
