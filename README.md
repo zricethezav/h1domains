@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 21:14:35 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 22:11:07 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,13 +24,13 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1436,8 +1436,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -2165,8 +2165,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -2868,21 +2868,21 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-*.eu.newrelic.com
 insights.eu.newrelic.com
 docs.newrelic.com
+*.eu.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 developer.newrelic.com
 rpm.newrelic.com
-*.nr-data.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.newrelic.com
+*.nr-data.net
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3204,8 +3204,8 @@ www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3443,8 +3443,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3688,8 +3688,8 @@ gravatar.com
 simplenote.com
 assets.tumblr.com
 api.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 *.tumblr.com
