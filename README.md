@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 23:10:22 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 00:22:52 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -16,9 +16,9 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hostinger.com
 www.hosting24.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -262,8 +262,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -1512,9 +1512,9 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-*.chimebank.com
 app.chime.com
 *.1debit.com
+*.chimebank.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com

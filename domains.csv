@@ -27,9 +27,9 @@ hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -1634,8 +1634,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
@@ -6689,9 +6689,9 @@ chime,*.chime.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
 chime,wp-dev5.chime.com,True
-chime,*.chimebank.com,True
 chime,app.chime.com,True
 chime,*.1debit.com,True
+chime,*.chimebank.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
