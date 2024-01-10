@@ -133,8 +133,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1284,7 +1284,6 @@ alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.cosstores.com,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.com.qa,False
-alshaya,*.americaneagle.com.eg,False
 alshaya,*.americaneagle.com.sa,False
 alshaya,*.thebodyshop.pl,False
 alshaya,*.starbucks.com.tr,False
@@ -1299,6 +1298,7 @@ alshaya,*.carrier.alshaya.com,False
 alshaya,customercare.alshaya.com,False
 alshaya,kuwait.kidzania.com,False
 alshaya,*.debenhams.com.kw,False
+alshaya,*.victoriassecret.pl,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -2843,10 +2843,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -5059,8 +5059,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -5914,7 +5914,6 @@ john-deere,mail.kreiselelectric.com,False
 john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
-john-deere,ghost.harvestprofit.com,False
 john-deere,stellarsupport.deere.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
@@ -5924,6 +5923,7 @@ john-deere,marksman.surepointag.com,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,deere.africa,False
+john-deere,core.surepointag.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -9183,8 +9183,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,app.smartsheet.com,True
 smartsheet,admin.smartsheet.com,True
+smartsheet,app.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9573,8 +9573,8 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.gsselect.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10340,8 +10340,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
@@ -10349,9 +10349,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10476,9 +10476,9 @@ adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
-adobe,app.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.adobe.com,False
+adobe,app.frame.io,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10679,8 +10679,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

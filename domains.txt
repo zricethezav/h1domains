@@ -132,8 +132,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1283,7 +1283,6 @@ boysweb.shaya.com.tr
 kw.cosstores.com
 *.starbucks.com.kz
 *.aloyoga.com.qa
-*.americaneagle.com.eg
 *.americaneagle.com.sa
 *.thebodyshop.pl
 *.starbucks.com.tr
@@ -1298,6 +1297,7 @@ kw.cosstores.com
 customercare.alshaya.com
 kuwait.kidzania.com
 *.debenhams.com.kw
+*.victoriassecret.pl
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -2842,10 +2842,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-support.mozilla.org
 relay.firefox.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -5058,8 +5058,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -5913,7 +5913,6 @@ mail.kreiselelectric.com
 filebox-dev.kreiselelectric.com
 video.kreiselelectric.com
 vpn.kreiselelectric.com
-ghost.harvestprofit.com
 stellarsupport.deere.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 citratest.deere.com
@@ -5923,6 +5922,7 @@ marksman.surepointag.com
 johndeereinnovation.com
 contest.deere.com
 deere.africa
+core.surepointag.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -9182,8 +9182,8 @@ www.bookingholdings.com
 *.capitaloneshopping.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -9572,8 +9572,8 @@ apigw.foliofn.com
 *.unitedcp.com
 *.foliofn.com
 *.goldman.com
-*.ayco.com
 *.gsselect.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -10339,8 +10339,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 *.shopifycloud.com
 shop.app
@@ -10348,9 +10348,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10475,9 +10475,9 @@ repo.magento.com
 magento.com
 exchange.adobe.com
 auth.services.adobe.com
-app.frame.io
 *.adobeaemcloud.com
 *.adobe.com
+app.frame.io
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10678,8 +10678,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
