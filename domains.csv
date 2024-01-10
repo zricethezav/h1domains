@@ -63,8 +63,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
@@ -7418,8 +7418,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
+tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -9647,9 +9647,9 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,*.mona.co,True
 crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
+crypto,*.mona.co,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
@@ -10753,9 +10753,9 @@ coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,custody.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,international.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
