@@ -133,8 +133,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1788,8 +1788,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -3293,8 +3293,8 @@ stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,who.stanford.edu,False
 stanford-university,accessories.stanford.edu,False
-stanford-university,*.sahr.stanford.edu,False
 stanford-university,stanfordwho.stanford.edu,False
+stanford-university,*.sahr.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
@@ -3420,9 +3420,9 @@ kkr_vdp,ksam.com,False
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
-superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.napoleongames.be,True
 superbet,*.luckydays.ca,True
 superbet,*.napoleoncasino.be,True
 superbet,*.spinaway.com,True
@@ -3541,8 +3541,8 @@ expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.hotwire.com,True
-expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.wotif.com,True
+expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -5059,8 +5059,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -5803,6 +5803,7 @@ consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,staking-uat.codefi.network,True
 consensys,consensys.net,True
 consensys,activate.codefi.network,True
+consensys,app.infura.io,True
 consensys,staking.codefi.network,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -5813,6 +5814,7 @@ consensys,canary.activate.codefi.network,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
 consensys,http://portfolio.metamask.io,True
+consensys,app.infura.io,True
 consensys,https://metamask-sdk-socket.metafi.codefi.network/,True
 consensys,staking-uat.codefi.network,True
 consensys,consensys.net,True
@@ -8124,8 +8126,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,marrtool.com,True
 marriott,passwordchallenge.marriott.com,True
-marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
+marriott,homes-and-villas.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -9181,8 +9183,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9446,9 +9448,9 @@ paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,py.pl,True
 paypal,*.braintreepayments.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
 paypal,*.paylution.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -9591,6 +9593,7 @@ goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10172,8 +10175,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10334,8 +10337,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopifycloud.com,True
@@ -10673,8 +10676,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10819,8 +10822,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10835,11 +10838,11 @@ security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
+security,hackerone.live,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
