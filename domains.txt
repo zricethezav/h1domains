@@ -4624,8 +4624,8 @@ banfieldexchange.com
 *.orbitgum.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
-*.royalcanin.com
 *.banfieldassets.com
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -9182,8 +9182,8 @@ www.bookingholdings.com
 *.capitaloneshopping.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -10177,8 +10177,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
