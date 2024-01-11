@@ -110,8 +110,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -701,8 +701,8 @@ platform.8x8pilot.com
 cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
-*.packet8.net
 *.8x8staging.com
+*.packet8.net
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -1995,8 +1995,8 @@ portal.polygon.technology
 *.skybet.co.uk
 *.ppbdev.com
 *.sbgservices.com
-*.skybetservices.com
 *.betfair.se
+*.skybetservices.com
 *.sbgtest.net
 *.betfair.ro
 *.betfair.com
@@ -2074,8 +2074,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -3473,10 +3473,10 @@ store.snapchat.com
 my.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
-app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

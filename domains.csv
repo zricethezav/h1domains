@@ -133,8 +133,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3382,8 +3382,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
-8x8-bounty,*.packet8.net,True
 8x8-bounty,*.8x8staging.com,True
+8x8-bounty,*.packet8.net,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,user-profile.8x8.com,True
@@ -7846,8 +7846,8 @@ flutteruki,*.skybet.net,True
 flutteruki,*.skybet.co.uk,True
 flutteruki,*.ppbdev.com,True
 flutteruki,*.sbgservices.com,True
-flutteruki,*.skybetservices.com,True
 flutteruki,*.betfair.se,True
+flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgtest.net,True
 flutteruki,*.betfair.ro,True
 flutteruki,*.betfair.com,True
@@ -7953,8 +7953,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
@@ -8369,8 +8369,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
-8x8,*.packet8.net,False
 8x8,*.wavecell.com,False
+8x8,*.packet8.net,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -10380,10 +10380,10 @@ snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
