@@ -94,8 +94,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadolivre.com.br
-www.mercadolibre.com.uy
 www.mercadolibre.com.mx
+www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
