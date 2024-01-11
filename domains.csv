@@ -5051,8 +5051,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -8067,9 +8067,9 @@ picsart,console.picsart.io,False
 kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
-kindred_group,*.kolikkopelit.com,True
 kindred_group,*.bingo.com,True
 kindred_group,*.unibet.fr,True
+kindred_group,*.kolikkopelit.com,True
 kindred_group,maria.casino,True
 kindred_group,*.kindredext.net,True
 kindred_group,*.unibet.com,True
@@ -10809,9 +10809,9 @@ security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
