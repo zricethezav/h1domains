@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 12:12:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 13:13:00 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -473,10 +473,10 @@ firefox-ci-tc.services.mozilla.com
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 addons.allizom.org
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com

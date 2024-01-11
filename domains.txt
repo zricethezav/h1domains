@@ -2810,10 +2810,10 @@ firefox-ci-tc.services.mozilla.com
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 addons.allizom.org
@@ -3148,8 +3148,8 @@ abb.com.br
 *.abb.ca
 *.abb.net
 *.abb.pl
-*.busch-jaeger.de
 *.ch.abb.com
+*.busch-jaeger.de
 *.abb.com
 *.abb
 *.tnb.com
@@ -5058,8 +5058,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -6462,9 +6462,9 @@ downloads.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
 *.zams.zebra.com
-*.profitect.com
 *.zebrasports.com
 reflexisinc.com/
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com

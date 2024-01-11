@@ -2811,10 +2811,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
-mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
+mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
@@ -3149,8 +3149,8 @@ abb,*.abb.de,False
 abb,*.abb.ca,False
 abb,*.abb.net,False
 abb,*.abb.pl,False
-abb,*.busch-jaeger.de,False
 abb,*.ch.abb.com,False
+abb,*.busch-jaeger.de,False
 abb,*.abb.com,False
 abb,*.abb,False
 abb,*.tnb.com,False
@@ -5059,8 +5059,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -6463,9 +6463,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
