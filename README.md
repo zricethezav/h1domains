@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 13:13:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 14:12:36 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -178,8 +178,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -541,10 +541,10 @@ api-eu.floqast.app
 *.hiltonhotels.jp
 hiltonhotels.jp
 *.hiltonbusinessonline.com
-hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
+hilton.io
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
@@ -1806,9 +1806,9 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
-www.marionnaud.fr
 www.marionnaud.ro
 www.watsons.co.id
+www.marionnaud.fr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -3445,9 +3445,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3470,10 +3470,10 @@ accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
-login.playcanvas.com
 code.playcanvas.com
 store.playcanvas.com
 playcanv.as
+login.playcanvas.com
 rt.playcanvas.com
 store.snapchat.com
 my.snapchat.com
@@ -3633,8 +3633,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3747,9 +3747,9 @@ spaces.pm
 api.slack.com
 slackb.com
 slackatwork.com
-slack-redir.net
 *.quip.com
 app.slack.com
+slack-redir.net
 edgeapi.slack.com
 slack.com
 slack-imgs.com

@@ -1132,8 +1132,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2944,10 +2944,10 @@ hilton,*.hilton.io,True
 hilton,*.hiltonhotels.jp,True
 hilton,hiltonhotels.jp,True
 hilton,*.hiltonbusinessonline.com,True
-hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
+hilton,hilton.io,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
 hilton,hilton.com.tr,True
@@ -4932,8 +4932,8 @@ securityscorecard,*.securityscorecard.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
-gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
+gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
@@ -7615,9 +7615,9 @@ watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.com.tr,True
-watson_group,www.marionnaud.fr,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
+watson_group,www.marionnaud.fr,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -10346,9 +10346,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10371,10 +10371,10 @@ snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
-snapchat,login.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
+snapchat,login.playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
@@ -10658,8 +10658,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10777,9 +10777,9 @@ slack,spaces.pm,True
 slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
-slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
+slack,slack-redir.net,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True
