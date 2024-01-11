@@ -20,11 +20,11 @@ www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
 cpanel.hosting24.com
-hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+hpanel.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
