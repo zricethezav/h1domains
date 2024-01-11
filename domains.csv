@@ -39,9 +39,9 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -5059,8 +5059,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True

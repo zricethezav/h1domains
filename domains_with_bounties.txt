@@ -22,9 +22,9 @@ hpanel.hostinger.com
 payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-*.000webhost.com
 www.hostinger.com
 www.hosting24.com
+*.000webhost.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -1119,8 +1119,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
