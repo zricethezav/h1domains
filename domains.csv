@@ -2844,9 +2844,9 @@ mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -7437,9 +7437,9 @@ tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -10337,8 +10337,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
@@ -10781,8 +10781,8 @@ slack,*.quip.com,True
 slack,app.slack.com,True
 slack,slack-redir.net,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -11031,8 +11031,8 @@ jimdo,cms-backend.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdosite.com,False
-jimdo,*.jimdo.systems,False
 jimdo,dash.e.jimdo.com,False
+jimdo,*.jimdo.systems,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
