@@ -76,8 +76,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1621,8 +1621,8 @@ shi_vdp,renewalreminder.shi.com,False
 shi_vdp,api.shi.com,False
 shi_vdp,apiconsole.shi.com,False
 shi_vdp,assetinsights.shi.com,False
-shi_vdp,accounts.shi.com,False
 shi_vdp,servicepro.shi.com,False
+shi_vdp,accounts.shi.com,False
 shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,accounts.shi.com,False
@@ -9448,10 +9448,10 @@ matomo,https://github.com/matomo-org/docker,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
 paypal,*.braintree-api.com,True
 paypal,*.paylution.com,True
 paypal,*.xoom.com,True
+paypal,*.braintreepayments.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
