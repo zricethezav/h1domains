@@ -26,8 +26,8 @@ app.wellhive.com
 login.wellhive.com
 www.niagahoster.co.id
 payments.hostinger.com
-hpanel.hostinger.com
 cpanel.hosting24.com
+hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 *.000webhost.com
@@ -6471,9 +6471,9 @@ dcs-polarion.zebra.com
 artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
-*.cto-si.zebra.com
 www.matrox.com
 test-marketing-api.zebra.com
+stage-www.zebra.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -8097,8 +8097,8 @@ www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -8359,8 +8359,8 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
-*.wavecell.com
 *.packet8.net
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8968,10 +8968,10 @@ JOBALINE.COM
 JOBALINECI.COM
 *.datacredito.com.do
 www.equifax.com
-*.bvsnet.com.br
 *.efficientforms.com
 *.konduto.com
 *equifax.co.in
+*.bvsnet.com.br
 *equifax.cl
 *equifax.co.nz
 *equifax.es
@@ -9144,8 +9144,8 @@ www.bookingholdings.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
