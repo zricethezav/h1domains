@@ -1119,8 +1119,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -2776,7 +2776,6 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
