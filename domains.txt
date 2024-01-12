@@ -1236,8 +1236,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-www.coinhako.com
 help.coinhako.com
+www.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -5050,8 +5050,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -6452,10 +6452,10 @@ zsbsupport.zebra.com
 downloads.zebra.com
 supportcommunity.zebra.com
 *.zams.zebra.com
-*.zebrasports.com
 reflexisinc.com/
 *.profitect.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6651,8 +6651,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -8976,7 +8976,6 @@ www.equifax.com
 *equifax.co.nz
 *equifax.es
 *.dicom.cl
-*.i2verify.com
 *.accountscore.co.uk
 *.healthefxforms.us
 mail.ext-equifax.cl
@@ -8997,6 +8996,7 @@ ntcusa.com
 *.employersedge.com
 *.wageverify.com
 *.mercury.com.au
+*equifax.hn
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10338,9 +10338,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10796,8 +10796,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
