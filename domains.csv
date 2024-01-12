@@ -5879,7 +5879,6 @@ john-deere,us-central-1.r4.abc.expertconnect.support,False
 john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
-john-deere,connections.deere.com,False
 john-deere,machinereports.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,powerplan.deere.com,False
@@ -5916,6 +5915,7 @@ john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,deere.africa,False
 john-deere,core.surepointag.com,False
+john-deere,notifications.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -7550,8 +7550,8 @@ figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
 cs_money,support.cs.money,True
-cs_money,cs.money,True
 cs_money,3d.cs.money,True
+cs_money,cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -9816,9 +9816,9 @@ localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,*.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -10821,8 +10821,8 @@ security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
-security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True

@@ -5878,7 +5878,6 @@ us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
-connections.deere.com
 machinereports.deere.com
 registration.deere.com
 powerplan.deere.com
@@ -5915,6 +5914,7 @@ johndeereinnovation.com
 contest.deere.com
 deere.africa
 core.surepointag.com
+notifications.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7549,8 +7549,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -9815,9 +9815,9 @@ privatetarget-1-www.zigzag
 *.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -10820,8 +10820,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
