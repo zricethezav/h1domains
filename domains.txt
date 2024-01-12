@@ -67,8 +67,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -5050,8 +5050,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -7907,8 +7907,8 @@ www.poddercentral.com
 www.omnipod.com
 www.insulet.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 apay-us.amazon.com
@@ -10582,8 +10582,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -10842,8 +10842,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
 *.oaknorth-prod.com
-*.oaknorth-it.com
 *.oaknorth.com
+*.oaknorth-it.com
 *.oaknorth-it.com
 *.oaknorth-prod.com
 *.oaknorth.com
