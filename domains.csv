@@ -10738,10 +10738,10 @@ irccloud,irccloud.com,True
 irccloud,irc.irccloud.com,True
 irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
-coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,custody.coinbase.com,True
+coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
