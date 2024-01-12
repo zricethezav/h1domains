@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 09:11:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 10:11:29 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 www.niagahoster.co.id
 cpanel.hosting24.com
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -1466,8 +1466,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2164,8 +2164,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -3448,8 +3448,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

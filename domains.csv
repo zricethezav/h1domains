@@ -27,8 +27,8 @@ wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hosting24.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -6455,8 +6455,8 @@ zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6608,8 +6608,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -8098,8 +8098,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -10340,8 +10340,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
