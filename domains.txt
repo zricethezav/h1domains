@@ -10842,8 +10842,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
 *.oaknorth-prod.com
-*.oaknorth.com
 *.oaknorth-it.com
+*.oaknorth.com
 *.oaknorth-it.com
 *.oaknorth-prod.com
 *.oaknorth.com

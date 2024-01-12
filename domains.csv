@@ -10843,8 +10843,8 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,*.vpn.hackerone.net,True
 oaknorth_bank,*.oaknorth-prod.com,False
-oaknorth_bank,*.oaknorth.com,False
 oaknorth_bank,*.oaknorth-it.com,False
+oaknorth_bank,*.oaknorth.com,False
 oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
