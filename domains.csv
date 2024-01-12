@@ -4760,9 +4760,9 @@ fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
-planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
+planetart,ai.planetart.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
@@ -5617,9 +5617,9 @@ epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,*.popjam.com,True
-epicgames,*.mediatonic.co.uk,True
 epicgames,fortnite.com,True
 epicgames,capturingreality.com,True
+epicgames,*.mediatonic.co.uk,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.hmxwebservices.com,True
@@ -6456,8 +6456,8 @@ zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -8029,8 +8029,8 @@ digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
 digitalocean,hacktoberfest.com,False
-digitalocean,www.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
+digitalocean,www.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8340,9 +8340,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
-8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,*.8x8cloud.net,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -10593,9 +10593,9 @@ airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True

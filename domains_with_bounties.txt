@@ -1196,9 +1196,9 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
-*.mediatonic.co.uk
 fortnite.com
 capturingreality.com
+*.mediatonic.co.uk
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -3561,9 +3561,9 @@ next.airbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
 *.muscache.com
-*.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
