@@ -93,8 +93,8 @@ mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -9572,9 +9572,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10752,8 +10752,8 @@ irccloud,blog.irccloud.com,True
 coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,custody.coinbase.com,True
-coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
+coinbase,*.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
