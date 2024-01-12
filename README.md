@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 17:10:04 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 18:12:18 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 www.niagahoster.co.id
 cpanel.hosting24.com
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -123,8 +123,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-taxis.booking.com
 *.rentalcars.com
+taxis.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
@@ -878,7 +878,6 @@ askpam.ai
 *.teleportinfra.sh
 teleport.sh
 *.gravitational.io
-h1-your-domain.teleport.sh
 platform.teleport.sh
 *.goteleport.com
 *.goteleport.com
@@ -888,7 +887,6 @@ platform.teleport.sh
 *.gravitational.co
 *.gravitational.io
 teleport.sh
-h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
 askpam.ai
@@ -1717,8 +1715,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1802,13 +1800,13 @@ www.iciparisxl.lu
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
 www.marionnaud.ro
 www.watsons.co.id
 www.marionnaud.fr
+www.watsons.com.ph
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2164,15 +2162,14 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
-giftcards.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
@@ -2206,7 +2203,6 @@ www.ritzcarlton.com/
 *uat.marriott.com
 hotel-deals.marriott.com
 http://www.shopmarriott.com
-giftcards.marriott.com
 www.goodrx.com
 www.goodrx.com
 *.rbx.com
@@ -3332,9 +3328,9 @@ api.grofers.com
 *.hyperpure.com
 blinkit.com
 *.zdev.net
-*.zomans.com
 *.zomato.com
 winecellar.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3448,8 +3444,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3635,8 +3631,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3776,8 +3772,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3795,8 +3791,8 @@ b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 hackerone.live
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
