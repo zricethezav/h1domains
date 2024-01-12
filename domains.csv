@@ -32,8 +32,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -3194,8 +3194,8 @@ malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,my.malwarebytes.com,True
-malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
+malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,oneview.malwarebytes.com,True
@@ -6667,9 +6667,9 @@ ohiosecretaryofstate,*.boe.ohio.gov,False
 ohiosecretaryofstate,*.militaryvotes.ohio.gov,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
-ohiosecretaryofstate,*.ohiosos.gov,False
 ohiosecretaryofstate,*.safeathomeohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
+ohiosecretaryofstate,*.ohiosos.gov,False
 ohiosecretaryofstate,*.ohiobusinesscentral.gov,False
 ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.boe.ohio.gov,False
@@ -7429,9 +7429,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10137,8 +10137,8 @@ nextcloud,static.apps.nextcloud.com,False
 nextcloud,logs.nextcloud.com,False
 nextcloud,stats.nextcloud.com,False
 nextcloud,help.nextcloud.com,False
-nextcloud,portal.nextcloud.com,False
 nextcloud,apps.nextcloud.com,False
+nextcloud,portal.nextcloud.com,False
 nextcloud,knowledge.nextcloud.com,False
 nextcloud,updates.nextcloud.com,False
 nextcloud,support.nextcloud.com,False
