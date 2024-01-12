@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -26,9 +26,9 @@ wellhive,analytics.wellhive.com,False
 wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
-hostinger,payments.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -5051,8 +5051,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -10582,9 +10582,9 @@ airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -10741,8 +10741,8 @@ irccloud,blog.irccloud.com,True
 coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,custody.coinbase.com,True
-coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
+coinbase,*.cbhq.net,True
 coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
@@ -10796,9 +10796,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
