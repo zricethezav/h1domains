@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 12:12:19 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 13:13:26 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -116,8 +116,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2169,8 +2169,8 @@ mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -2824,9 +2824,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-store.steampowered.com
 developer.valvesoftware.com
 help.steampowered.com
+store.steampowered.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
@@ -3447,9 +3447,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

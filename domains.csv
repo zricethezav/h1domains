@@ -125,8 +125,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -8113,8 +8113,8 @@ marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
@@ -9634,9 +9634,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.folioinvesting.com,True
 goldmansachs,*.claritymoney.com,False
 valve,playartifact.com,True
-valve,store.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,help.steampowered.com,True
+valve,store.steampowered.com,True
 valve,www.teamfortress.com,True
 valve,www.counter-strike.net,True
 valve,www.valvesoftware.com,True
@@ -10349,9 +10349,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
