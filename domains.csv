@@ -3192,8 +3192,8 @@ abb,abb.com.br,False
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
+malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -3362,8 +3362,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -8103,8 +8103,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
@@ -10741,8 +10741,8 @@ irccloud,blog.irccloud.com,True
 coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,custody.coinbase.com,True
-coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
+coinbase,*.cbhq.net,True
 coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
@@ -10815,9 +10815,9 @@ security,hackerone-ext-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
-security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
+security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
