@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 00:21:56 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 01:33:04 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -27,10 +27,10 @@ cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
 payments.hosting24.com
-hpanel.hosting24.com
 *.000webhost.com
 www.hostinger.com
 www.hosting24.com
+hpanel.hosting24.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -2177,9 +2177,9 @@ marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
-hotel-deals.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3746,8 +3746,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 *.quip.com
-app.slack.com
 slack-redir.net
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

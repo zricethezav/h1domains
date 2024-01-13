@@ -30,10 +30,10 @@ hostinger,cpanel.hosting24.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
-hostinger,hpanel.hosting24.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,www.hosting24.com,True
+hostinger,hpanel.hosting24.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -8125,9 +8125,9 @@ marriott,giftcards.marriott.com,False
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
-marriott,hotel-deals.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,marrtool.com,True
+marriott,hotel-deals.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -10782,8 +10782,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,*.quip.com,True
-slack,app.slack.com,True
 slack,slack-redir.net,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
