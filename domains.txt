@@ -10178,8 +10178,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -10477,8 +10477,8 @@ magento.com
 exchange.adobe.com
 auth.services.adobe.com
 *.adobeaemcloud.com
-*.adobe.com
 app.frame.io
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com

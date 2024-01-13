@@ -10179,8 +10179,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10478,8 +10478,8 @@ adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobeaemcloud.com,False
-adobe,*.adobe.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
