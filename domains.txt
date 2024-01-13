@@ -5050,8 +5050,8 @@ new.myzap.com
 new.myzap.com
 demo.cloud.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 docs.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -11040,8 +11040,8 @@ cms-backend.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
 *.jimdosite.com
-dash.e.jimdo.com
 *.jimdo.systems
+dash.e.jimdo.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com
