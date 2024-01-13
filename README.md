@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 17:09:49 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 18:11:02 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -582,8 +582,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 wga.volans.tech
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
@@ -1986,12 +1986,12 @@ portal.polygon.technology
 *.operationstechnology.io
 *.securityservices.io
 *.skybettest.net
-*.sportinglife.com
 *.skybingo.com
 *.skyvegas.com
 *.betfair.it
 *.skybet.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgorigin.com
@@ -2167,8 +2167,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
