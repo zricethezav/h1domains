@@ -5060,9 +5060,9 @@ databricks,marketplace.databricks.com,True
 databricks,community.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,advocates.databricks.com,True
-databricks,help.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,partners.databricks.com,True
+databricks,help.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -8114,8 +8114,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -10807,9 +10807,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

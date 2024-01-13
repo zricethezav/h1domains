@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 06:10:49 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 07:10:39 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1131,9 +1131,9 @@ marketplace.databricks.com
 community.databricks.com
 labs.databricks.com
 advocates.databricks.com
-help.databricks.com
 customer-academy.databricks.com
 partners.databricks.com
+help.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2167,8 +2167,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
@@ -3771,9 +3771,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
