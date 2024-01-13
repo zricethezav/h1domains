@@ -142,8 +142,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -10825,9 +10825,9 @@ hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
