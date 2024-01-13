@@ -32,8 +32,8 @@ hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -1493,13 +1493,13 @@ fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,tilmanfertitta.com,False
 fertitta_entertainment,fertittaentertainmentinc.com,False
 aboitizpower_corporation,1882energyventures.net,False
-aboitizpower_corporation,aboitizenergysolutions.com,False
 aboitizpower_corporation,aboitizpowercorporation.ph,False
 aboitizpower_corporation,bettersolutions.com.ph,False
 aboitizpower_corporation,cleanergy.ph,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,*.enerzone.com.ph,False
 aboitizpower_corporation,aesi.com.ph,False
+aboitizpower_corporation,aboitizenergysolutions.com,False
 aboitizpower_corporation,*.oilbu.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
@@ -3026,8 +3026,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -6599,8 +6599,8 @@ reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -7238,8 +7238,8 @@ bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
-lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
+lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
@@ -10233,9 +10233,9 @@ zomato,api.grofers.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -10350,9 +10350,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10662,8 +10662,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
