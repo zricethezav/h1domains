@@ -24,10 +24,10 @@ wellhivecorporate.okta.com
 analytics.wellhive.com
 app.wellhive.com
 login.wellhive.com
-cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
+cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
