@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -8853,9 +8853,9 @@ hub.vroid.com
 vroid.com
 novel.pixiv.net
 www.pixiv.net
-accounts.pixiv.net
 booth.pm
 *.fanbox.cc
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
@@ -10710,9 +10710,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-*.tumblr.com
 mailpoet.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com

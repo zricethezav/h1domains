@@ -4618,8 +4618,8 @@ mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.co.uk,False
+mars,*.royalcanin.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -8854,9 +8854,9 @@ pixiv,hub.vroid.com,True
 pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
-pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,*.fanbox.cc,True
+pixiv,accounts.pixiv.net,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,dic.pixiv.net,True
@@ -10711,9 +10711,9 @@ automattic,intensedebate.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
-automattic,*.tumblr.com,True
 automattic,mailpoet.com,True
 automattic,www.tumblr.com,True
+automattic,*.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
