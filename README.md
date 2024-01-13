@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 08:10:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 09:10:38 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -27,16 +27,16 @@ hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
 payments.hosting24.com
-*.000webhost.com
 www.hosting24.com
 hpanel.hosting24.com
+*.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-www.zyro.com
 logo.zyro.com
+www.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -59,8 +59,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -133,8 +133,8 @@ taxi.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 cars.booking.com
 *.booking.com
 *.rentalcars.com
