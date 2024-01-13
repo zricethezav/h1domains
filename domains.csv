@@ -1783,8 +1783,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
+daimler_truck,*fleetboard.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -8114,8 +8114,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -10351,8 +10351,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10785,8 +10785,8 @@ slack,*.quip.com,True
 slack,slack-redir.net,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
