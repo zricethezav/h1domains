@@ -3488,8 +3488,8 @@ share.doppler.com
 *.onezerobank.com
 *.onezerobank.com
 *.mdvmm.xyz
-*.otherside.xyz
 *.yuga.com
+*.otherside.xyz
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
