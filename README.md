@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 16:09:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 17:09:49 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -582,8 +582,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 wga.volans.tech
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech

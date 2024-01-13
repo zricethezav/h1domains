@@ -576,8 +576,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 wga.volans.tech
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
