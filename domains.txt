@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
