@@ -125,8 +125,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -4618,8 +4618,8 @@ mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.co.uk,False
+mars,*.royalcanin.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -7424,8 +7424,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -8114,8 +8114,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True

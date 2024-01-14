@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 12:11:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 13:10:44 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -116,8 +116,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1708,8 +1708,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -2167,8 +2167,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
