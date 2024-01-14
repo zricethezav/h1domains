@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 07:09:00 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 08:10:44 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2086,8 +2086,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

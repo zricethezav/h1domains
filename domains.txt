@@ -7962,8 +7962,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
