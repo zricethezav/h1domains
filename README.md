@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 20:08:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 21:09:06 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -61,8 +61,8 @@ api.23andme.com
 auth.23andme.com
 you.23andme.com
 blog.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -2084,10 +2084,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2778,10 +2778,10 @@ research.gs.com
 api.foliofn.com
 marquee.gs.com
 *.gs.de
-*.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

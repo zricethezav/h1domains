@@ -69,8 +69,8 @@ api.23andme.com
 auth.23andme.com
 you.23andme.com
 blog.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -3284,9 +3284,9 @@ cardinalprintcenter.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
-accessories.stanford.edu
 stanfordwho.stanford.edu
 *.sahr.stanford.edu
+accessories.stanford.edu
 secureportal.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -7960,10 +7960,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9591,10 +9591,10 @@ research.gs.com
 api.foliofn.com
 marquee.gs.com
 *.gs.de
-*.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

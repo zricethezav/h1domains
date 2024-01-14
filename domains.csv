@@ -70,8 +70,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -3285,9 +3285,9 @@ stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,who.stanford.edu,False
-stanford-university,accessories.stanford.edu,False
 stanford-university,stanfordwho.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
+stanford-university,accessories.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
@@ -4618,8 +4618,8 @@ mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.co.uk,False
+mars,*.royalcanin.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -7961,10 +7961,10 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9592,10 +9592,10 @@ goldmansachs,research.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True

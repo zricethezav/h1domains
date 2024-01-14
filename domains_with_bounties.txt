@@ -55,8 +55,8 @@ api.23andme.com
 auth.23andme.com
 you.23andme.com
 blog.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -2078,10 +2078,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2772,10 +2772,10 @@ research.gs.com
 api.foliofn.com
 marquee.gs.com
 *.gs.de
-*.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
