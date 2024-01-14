@@ -6609,8 +6609,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7429,10 +7429,10 @@ tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7954,9 +7954,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
@@ -10810,8 +10810,8 @@ yahoo,yimg.com,True
 security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
-security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
+security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
@@ -10820,9 +10820,9 @@ security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,ctf.hacker101.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
