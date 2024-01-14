@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 17:08:49 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 18:09:39 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1449,8 +1449,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-*.redditinc.com
 new.reddit.com
+*.redditinc.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -2041,9 +2041,9 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-track.amazon.com
 affiliate-program.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 apay-us.amazon.com
@@ -2654,8 +2654,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools

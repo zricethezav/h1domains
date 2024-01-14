@@ -6594,8 +6594,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
-reddit,*.redditinc.com,True
 reddit,new.reddit.com,True
+reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7918,9 +7918,9 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
-amazonvrp,track.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
+amazonvrp,track.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,music.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -9462,8 +9462,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
