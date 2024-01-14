@@ -142,8 +142,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1264,13 +1264,13 @@ bathandbodyworks.ro
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
-card.starbucks.com.kz
 kw.boots.com
 *.bathandbodyworks.com.kw
 *.westelm.com.kw
 shayakahve.com.tr
 *.starbuckscardtr.com
 *.muji.qa
+card.starbucks.com.kz
 boysweb.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.com.qa
@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.co.uk
 *.royalcanin.com
+*.royalcanin.co.uk
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -4911,8 +4911,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -7962,8 +7962,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9594,7 +9594,7 @@ marquee.gs.com
 *.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
-*.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
