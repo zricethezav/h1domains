@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 21:09:06 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 22:23:34 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -55,8 +55,8 @@ partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 auth.23andme.com
 you.23andme.com
@@ -235,8 +235,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1525,8 +1525,8 @@ wp-qa.chime.com
 wp-dev2.chime.com
 wp-dev5.chime.com
 app.chime.com
-*.1debit.com
 *.chimebank.com
+*.1debit.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3631,8 +3631,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
