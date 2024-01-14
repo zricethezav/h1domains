@@ -3132,8 +3132,8 @@ abb.com.br
 *.busch-jaeger.nl
 *.motors.abb.com
 *.ability.abb
-*.abb
 *.abb-drives.com
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -3495,9 +3495,9 @@ share.doppler.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
-dookeydash.com
 hv-mtl.com
 *.wenewmoments.com
+dookeydash.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
