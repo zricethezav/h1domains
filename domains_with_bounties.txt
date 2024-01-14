@@ -110,8 +110,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -127,9 +127,9 @@ taxi.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1498,8 +1498,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
