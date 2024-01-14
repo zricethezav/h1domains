@@ -2868,8 +2868,8 @@ shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
-shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,*.sf-cdn.com,False
+shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,admin.spoonflower.com,False
@@ -4618,8 +4618,8 @@ mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.com,False
+mars,*.royalcanin.co.uk,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -7434,8 +7434,8 @@ tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
