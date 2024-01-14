@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 18:09:39 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 19:10:07 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -115,9 +115,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
-flights.booking.com
 booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -334,8 +334,8 @@ www.visa.com.kh
 visa.co.ni
 www.visa.co.il
 aw.visa.com
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -2118,8 +2118,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 careers.fortmatic.com
 x2.fortmatic.com
 api.fortmatic.com

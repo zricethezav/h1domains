@@ -124,9 +124,9 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1698,8 +1698,8 @@ visa,www.visa.com.kh,True
 visa,visa.co.ni,True
 visa,www.visa.co.il,True
 visa,aw.visa.com,True
-visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.ke,True
@@ -7995,8 +7995,8 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
-magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
+magic-bbp,auth.magic.link,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True

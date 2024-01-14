@@ -109,9 +109,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
-flights.booking.com
 booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -328,8 +328,8 @@ www.visa.com.kh
 visa.co.ni
 www.visa.co.il
 aw.visa.com
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -2112,8 +2112,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 careers.fortmatic.com
 x2.fortmatic.com
 api.fortmatic.com
