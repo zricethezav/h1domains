@@ -21,10 +21,10 @@ payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hosting24.com
 payments.hosting24.com
-www.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -3765,9 +3765,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

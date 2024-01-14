@@ -30,10 +30,10 @@ hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
-hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,www.hosting24.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -4618,8 +4618,8 @@ mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.co.uk,False
+mars,*.royalcanin.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -10807,9 +10807,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
