@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 06:09:50 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 07:09:00 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -3205,8 +3205,8 @@ www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3787,12 +3787,12 @@ hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
-b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

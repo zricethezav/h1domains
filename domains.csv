@@ -10066,8 +10066,8 @@ starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,app.starbucks.com,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -10823,12 +10823,12 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
