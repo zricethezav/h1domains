@@ -118,9 +118,9 @@ temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,chat.booking.com,True
 bookingcom,indicative-pricing.taxi.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,kyc-onboarding.booking.com,True
+bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
@@ -3195,8 +3195,8 @@ malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,my.malwarebytes.com,True
-malwarebytes,*.threatdown.com,True
 malwarebytes,*.mbamupdates.com,True
+malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,oneview.malwarebytes.com,True
@@ -4618,8 +4618,8 @@ mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.com,False
+mars,*.royalcanin.co.uk,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False

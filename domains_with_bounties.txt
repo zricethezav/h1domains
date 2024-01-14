@@ -103,9 +103,9 @@ www.temu.com
 www.temu.com
 chat.booking.com
 indicative-pricing.taxi.booking.com
-careers.booking.com
 experiences.booking.com
 kyc-onboarding.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
@@ -633,8 +633,8 @@ http://miro.com/blog
 cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
-*.threatdown.com
 *.mbamupdates.com
+*.threatdown.com
 *.mwb-threatintel.com
 oneview.malwarebytes.com
 *.malwarebytes.com
