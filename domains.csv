@@ -6641,8 +6641,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,platform.remix.com,True
 ridewithvia,remix.com,True
+ridewithvia,platform.remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
@@ -9462,8 +9462,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -10134,12 +10134,12 @@ harvest,getharvest.com,True
 nextcloud,usercontent.apps.nextcloud.com,False
 nextcloud,projects.nextcloud.com,False
 nextcloud,lookup.nextcloud.com,False
-nextcloud,static.apps.nextcloud.com,False
 nextcloud,logs.nextcloud.com,False
 nextcloud,stats.nextcloud.com,False
 nextcloud,help.nextcloud.com,False
 nextcloud,apps.nextcloud.com,False
 nextcloud,portal.nextcloud.com,False
+nextcloud,static.apps.nextcloud.com,False
 nextcloud,knowledge.nextcloud.com,False
 nextcloud,updates.nextcloud.com,False
 nextcloud,support.nextcloud.com,False

@@ -6640,8 +6640,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-platform.remix.com
 remix.com
+platform.remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -9461,8 +9461,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -10133,12 +10133,12 @@ getharvest.com
 usercontent.apps.nextcloud.com
 projects.nextcloud.com
 lookup.nextcloud.com
-static.apps.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
 help.nextcloud.com
 apps.nextcloud.com
 portal.nextcloud.com
+static.apps.nextcloud.com
 knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com

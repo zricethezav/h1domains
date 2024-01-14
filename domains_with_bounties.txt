@@ -1490,8 +1490,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-platform.remix.com
 remix.com
+platform.remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -2648,8 +2648,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
