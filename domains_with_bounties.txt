@@ -3778,9 +3778,9 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
+www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
