@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.co.uk
 *.royalcanin.com
+*.royalcanin.co.uk
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -6640,8 +6640,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-remix.com
 platform.remix.com
+remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -7430,8 +7430,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
