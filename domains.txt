@@ -3460,8 +3460,8 @@ share.doppler.com
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
 *.USMISSION.GOV
-*.AMERICA.GOV
 *.OSAC.GOV
+*.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
 *.USEMBASSY.GOV
@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -9816,8 +9816,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -10385,8 +10385,8 @@ snappublisher.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
