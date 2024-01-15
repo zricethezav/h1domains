@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 23:10:40 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 15 00:21:34 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -178,8 +178,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -343,9 +343,9 @@ www.visa.co.th
 www.visa.co.uk
 visa.co.za
 www.visa.co.id
-www.cybersource.com
 www.visa.co.ve
 www.authorize.net
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -3772,8 +3772,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
