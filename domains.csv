@@ -6476,6 +6476,7 @@ zebra_vdp,wfc.zebra.com,False
 zebra_vdp,www.matrox.com,False
 zebra_vdp,test-marketing-api.zebra.com,False
 zebra_vdp,stage-www.zebra.com,False
+zebra_vdp,connect.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False

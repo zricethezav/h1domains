@@ -6475,6 +6475,7 @@ wfc.zebra.com
 www.matrox.com
 test-marketing-api.zebra.com
 stage-www.zebra.com
+connect.zebra.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
