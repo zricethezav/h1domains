@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 15 17:10:26 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 15 18:13:07 UTC 2024)
 ```
 www.fireblocks.com
 sandbox.fireblocks.io
@@ -242,8 +242,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -521,8 +521,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -812,10 +812,10 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
+www.expediaagents.com
 www.hotwirepartnercentral.com
 www.mrjet.se
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -827,15 +827,15 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.expedia.com
-www.travelocity.ca
 www.carrentals.com
+www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expediapartnercentral.com
-www.hotwire.com
-www.ebookers.fi
-www.wotif.com
 www.expediacruises.com
+www.ebookers.fi
+www.hotwire.com
+www.wotif.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1115,9 +1115,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+*.instacart.tools
 api.instacart.com
 www.instacart.com
-*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1210,11 +1210,11 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1332,6 +1332,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1428,9 +1429,9 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1449,10 +1450,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1529,9 +1530,9 @@ www.chime.com
 wp-dev1.chime.com
 wp-dev3.chime.com
 wp-integ.chime.com
-*.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chmfin.com
@@ -1682,11 +1683,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
+(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2099,8 +2100,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2182,11 +2183,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2313,9 +2314,9 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
-datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2475,15 +2476,14 @@ book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
-vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-ebsext.oft.hyatt.com
+vacations.us.palladiumhotelgroup.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-login.www.vaxvacationaccess.com
+ebsext.oft.hyatt.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2495,6 +2495,7 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2654,10 +2655,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2674,12 +2675,12 @@ my.loanbuilder.com
 pigeon.swiftfinancial.com
 *.braintreegateway.com
 paypalobjects.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
@@ -2765,11 +2766,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2789,8 +2790,8 @@ goldmansachsindices.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
 research.gs.com
+marquee.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2990,9 +2991,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
-tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
+tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3080,8 +3081,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3397,11 +3398,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
-doorstromen.mijnkombijdepolitie.nl
+devmaximum.com
 qatest.nl
 rudderplatform.com
+doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3489,9 +3490,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
@@ -3613,9 +3614,9 @@ api.vimeo.com
 donations.livestream.com
 vimeo.magisto.com
 vhx.tv
-api.vhx.tv
 *.magisto.com
 *.livestream.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 *.vhx.tv
@@ -3805,11 +3806,11 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
