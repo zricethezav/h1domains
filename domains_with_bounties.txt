@@ -3712,9 +3712,9 @@ prime.coinbase.com
 custody.coinbase.com
 *.cbhq.net
 *.coinbase.com
-cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org

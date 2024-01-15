@@ -10755,9 +10755,9 @@ coinbase,prime.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
