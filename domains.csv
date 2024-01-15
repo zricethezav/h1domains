@@ -10138,9 +10138,9 @@ nextcloud,lookup.nextcloud.com,False
 nextcloud,logs.nextcloud.com,False
 nextcloud,stats.nextcloud.com,False
 nextcloud,help.nextcloud.com,False
-nextcloud,apps.nextcloud.com,False
 nextcloud,portal.nextcloud.com,False
 nextcloud,static.apps.nextcloud.com,False
+nextcloud,apps.nextcloud.com,False
 nextcloud,knowledge.nextcloud.com,False
 nextcloud,updates.nextcloud.com,False
 nextcloud,support.nextcloud.com,False
