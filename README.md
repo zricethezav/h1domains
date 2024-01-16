@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 16 01:35:59 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 16 02:22:21 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -240,8 +240,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -474,14 +474,14 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
 hg.mozilla.org
@@ -519,8 +519,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -697,8 +697,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -708,8 +708,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1332,6 +1332,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1449,10 +1450,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 *.redditinc.com
@@ -1465,8 +1466,8 @@ new.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1682,11 +1683,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
-(yoursubdomain).ap.iws.cloud.com
-(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1811,8 +1812,6 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1820,6 +1819,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2099,8 +2100,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2182,11 +2183,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2406,8 +2407,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2765,11 +2766,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2789,8 +2790,8 @@ goldmansachsindices.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3138,6 +3139,7 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
+doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3146,7 +3148,6 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3294,8 +3295,8 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 npmjs.org
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3681,10 +3682,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
