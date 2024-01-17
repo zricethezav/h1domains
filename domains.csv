@@ -1219,8 +1219,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -1252,7 +1252,6 @@ leather_wallet,www.leather.io,True
 alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
-alshaya,kw.boots.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.shopjustice.me,False
 alshaya,card.starbucks.com.kz,False
@@ -1276,6 +1275,7 @@ alshaya,bakimonarim.shaya.com.tr,False
 alshaya,bathandbodyworks.ro,False
 alshaya,shayakahve.com.tr,False
 alshaya,bathandbodyworks.ro/,False
+alshaya,kw.boots.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -1529,12 +1529,12 @@ aboitizpower_corporation,cleanergy.com.ph,False
 aboitizpower_corporation,limaenerzone.com,False
 aboitizpower_corporation,prismenergy.com.ph,False
 aboitizpower_corporation,subicenerzone.com,False
+aboitizpower_corporation,*.hedcor.com,False
 aboitizpower_corporation,aboitizpower.ph,False
 aboitizpower_corporation,mactanenerzone.com,False
 aboitizpower_corporation,snap-res.com,False
 aboitizpower_corporation,visayanelectric.com.ph,False
 aboitizpower_corporation,visayanelectric.ph,False
-aboitizpower_corporation,*.hedcor.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -2799,9 +2799,9 @@ mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
-mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
@@ -2840,8 +2840,8 @@ mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
-mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
+mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3620,8 +3620,8 @@ expediagroup,*.expediaagents.com,False
 expediagroup,china.airasiago.com,False
 expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
-magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
+magic-eden,eng.magiceden.io,False
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -3761,7 +3761,7 @@ resmed,onlinestore.resmedchina.cn,False
 resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
-resmed,brightree.net/,False
+resmed,app.citushealth.ca,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -3931,12 +3931,9 @@ alsco,royal.checksw.com,True
 fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,*.misfit.com,False
 fossil,*.watchstation.com,False
+fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,*.fossil.com.hk,False
-fossil,*.zodiacbrand.com,False
-fossil,fgemp.fnfsale.in,False
-fossil,fossil.fnfsale.in,False
 fossil,*.abacuswatches.com,False
 fossil,*.cmdportfolio.com,False
 fossil,*.dieseltimeframes.co.uk,False
@@ -3978,6 +3975,9 @@ fossil,*.michele.asia,False
 fossil,*.michele.eu,False
 fossil,*.michele.mobi,False
 fossil,*.michelewatch.de,False
+fossil,*.modernwatchco.com,False
+fossil,*.mwmichele.com,False
+fossil,*.relicbrand.net,False
 fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
@@ -4592,12 +4592,12 @@ mars,*.myroyalcanin.gr,False
 mars,*.myroyalcanin.ro,False
 mars,*.royalcanin.be,False
 mars,*.royalcanin.nl,False
-mars,*.eukanubasportingdog.com,False
-mars,*.royalcaninfoodfinder.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.mivetshop.com.ar,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
+mars,*.eukanubasportingdog.com,False
+mars,*.royalcaninfoodfinder.com,False
 mars,banfield.us,False
 mars,*.royalcanin.pt,False
 mars,practice.securevetsource.com,False
@@ -4629,11 +4629,11 @@ mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bluepearlvet.com,False
+mars,*.bibliotecarc.cl,False
+mars,*.coroapremiada.com.br,False
+mars,*.royalcaninrewards.co.za,False
 mars,*.royalcanin.edu.pl,False
 mars,*.rcpracownik.pl,False
-mars,*.royalcanin.it,False
-mars,*.royalcanin.sk,False
-mars,*.tradetermsrc.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -5145,7 +5145,6 @@ mondelez,secretsanta.cadbury.co.uk,False
 mondelez,vyhrajschuti.cz,False
 mondelez,weihnachten.milka.de,False
 mondelez,cadburygift.com,False
-mondelez,epack.mondelezinternational.com,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -6224,8 +6223,8 @@ usps,internationalclaims.usps.com,False
 usps,ncoa.usps.gov,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
-usps,store.usps.com,False
 usps,moversguide.usps.com,False
+usps,store.usps.com,False
 usps,reg.usps.com,False
 usps,pi.usps.com,False
 usps,www.usps.com,False
@@ -6570,10 +6569,10 @@ drugs_com,www.medicine.com,False
 drugs_com,www.question.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
+reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
 reddit,api.reddit.com,True
 reddit,ads.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,meta-api.reddit.com,True
@@ -7301,8 +7300,8 @@ exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,api.yoti.com,True
 yoti,www.yotisign.com,True
+yoti,api.yoti.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
@@ -7373,11 +7372,11 @@ citrix,launch.cloud.com,True
 citrix,sf-rp.sharefile.com,True
 citrix,api.sharefile.eu,True
 citrix,api.adm.cloud.com,True
-citrix,(yoursubdomain).us.iws.cloud.com,True
-citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,us.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
+citrix,(yoursubdomain).ap.iws.cloud.com,True
+citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7439,6 +7438,7 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,fp-sg.tiktokv.com,True
+logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,*.ultimateearsuniversity.com,False
 logitech,*.lukwerks.com,False
@@ -7447,7 +7447,6 @@ logitech,outage.logitech.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,alert.logitech.com,False
-logitech,*.myharmony.com,False
 logitech,*.logi.com,False
 logitech,*.crossclip.com,False
 logitech,*.logitech.com,False
@@ -7983,8 +7982,8 @@ bmwgroup,configure.bmw.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 magic-bbp,api.magic.link,True
-magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
+magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
@@ -8066,8 +8065,8 @@ picsart,stage.optifyr.com,False
 picsart,optifyr.com,False
 picsart,upload.picsart.com,False
 picsart,console.picsart.io,False
-kindred_group,unibet.me,True
 kindred_group,relaxcdn.unibet.com,False
+kindred_group,unibet.me,True
 kindred_group,*.highrolling.nu,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.bingo.com,True
@@ -8076,10 +8075,10 @@ kindred_group,maria.casino,True
 kindred_group,*.unibet.com,True
 kindred_group,*.mariacasino.com,True
 kindred_group,*.kindredext.net,True
-kindred_group,*.vladcazino.ro,True
 kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,*.vladcazino.ro,True
 kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
@@ -8107,11 +8106,11 @@ marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,all-inclusive.marriott.com,True
+marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,www.ritzcarlton.com,True
-marriott,all-inclusive.marriott.com,True
-marriott,cpp.marriott.com,True
 marriott,giftcards.marriott.com,False
 marriott,homes-and-villas.marriott.com,True
 marriott,marrtool.com,True
@@ -8169,10 +8168,10 @@ investnext,mg3.investnext.com,False
 investnext,app.investnext.com,False
 investnext,altogroup.investnextdemo.co,False
 investnext,app.investnextdemo.co,False
-nutanix,bootcamp.nutanix.com,False
-nutanix,gp.nutanix.com,False
 nutanix,iot.nutanix.com,False
 nutanix,testdrive.nutanix.com,False
+nutanix,bootcamp.nutanix.com,False
+nutanix,gp.nutanix.com,False
 nutanix,support.nutanix.com,False
 nutanix,ticket.nutanix.com,False
 nutanix,nutanix.com,False
@@ -8879,9 +8878,9 @@ forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
-forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
+forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
@@ -9145,12 +9144,12 @@ pyca,*.pyopenssl.org,False
 pyca,*.cryptography.io,False
 pyca,*.cryptography.io,False
 pyca,*.pyopenssl.org,False
-capital-one,*.theunioncard.com,False
 capital-one,*.paribus.co,False
+capital-one,*.theunioncard.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.capitalone360.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.bluetarp.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
@@ -9177,8 +9176,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,app.smartsheet.com,True
 smartsheet,admin.smartsheet.com,True
+smartsheet,app.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9267,10 +9266,9 @@ hyatt,res.vacations.buschgardens.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
-hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
 hyatt,confluence.hyattdev.com,True
-hyatt,login.www.vaxvacationaccess.com,True
+hyatt,ebsext.oft.hyatt.com,True
 hyatt,holidays-au.fijiairways.com,True
 hyatt,holidays-sg.fijiairways.com,True
 hyatt,vacations.hotelcasavelas.com,True
@@ -9282,6 +9280,7 @@ hyatt,holidays-nz.fijiairways.com,True
 hyatt,res.en.travelbrandsagent.com,True
 hyatt,res.funjet.com,True
 hyatt,res.secretsresorts.com,True
+hyatt,login.www.vaxvacationaccess.com,True
 hyatt,world.hyatt.com,True
 hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
@@ -9500,8 +9499,8 @@ paypal,swiftcapital.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
-chaturbate,*.highwebmedia.com,True
 chaturbate,secure.chaturbate.com,True
+chaturbate,*.highwebmedia.com,True
 chaturbate,m.chaturbate.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.mmcdn.com,True
@@ -9680,8 +9679,8 @@ crypto,https://crypto.com/defi/,True
 crypto,https://crypto.com/nft,True
 crypto,tax.crypto.com,True
 crypto,https://crypto.com/price,True
-newrelic,docs.newrelic.com,True
 newrelic,insights.eu.newrelic.com,True
+newrelic,docs.newrelic.com,True
 newrelic,*.eu.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,rpm.newrelic.com,True
@@ -9690,8 +9689,8 @@ newrelic,developer.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
+newrelic,insights.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
@@ -9970,6 +9969,7 @@ wordpress,api.wordpress.org,True
 wordpress,irclogs.wordpress.org,True
 wordpress,*.wordpress.net,True
 wordpress,gutenberg.run,True
+wordpress,doaction.org,True
 wordpress,codex.wordpress.org,True
 wordpress,codex.bbpress.org,True
 wordpress,codex.buddypress.org,True
@@ -9978,7 +9978,6 @@ wordpress,*.trac.wordpress.org,True
 wordpress, *.svn.wordpress.org,True
 wordpress, *.git.wordpress.org,True
 wordpress, github.com/WordPress,True
-wordpress,doaction.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True
@@ -10035,8 +10034,8 @@ lyst,mobileapi.lystit.com,True
 formassembly,formassembly.com,False
 formassembly,www.formassembly.com,False
 formassembly,app.formassembly.com,False
-formassembly,typeahead.formassembly.com,False
 formassembly,appsecfa.tfaforms.net,False
+formassembly,typeahead.formassembly.com,False
 formassembly,appsecfa.tfaforms.net,False
 formassembly,app.formassembly.com,False
 formassembly,formassembly.com,False
@@ -10180,8 +10179,8 @@ github,*.githubapp.com,True
 github,gist.github.com,True
 github,*.github.net,True
 github,education.github.com,True
-github,*.githubusercontent.com,True
 github,npmjs.org,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -10699,10 +10698,10 @@ cloudflare,*.cloudflarepartners.com,False
 automattic,*.srvcs.tumblr.com,True
 automattic,akismet.com,True
 automattic,embed.tumblr.com,True
+automattic,happy.tools,True
 automattic,simplenote.com,True
 automattic,simperium.com,True
 automattic,my.pressable.com,True
-automattic,happy.tools,True
 automattic,gravatar.com,True
 automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
@@ -11265,8 +11264,8 @@ jamieweb,jamiewebgbelqfno.onion,False
 jamieweb,nyc01.jamieweb.net,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False
-jamieweb,jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion,False
 jamieweb,www.jamieweb.net,False
+jamieweb,jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion,False
 jamieweb,jamieweb.net,False
 jamieweb,ldn01.jamieweb.net,False
 jamieweb,www.jamieweb.net,False
