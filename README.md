@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 17 16:14:26 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 17 17:12:14 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -469,9 +469,9 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
@@ -510,8 +510,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -686,8 +686,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -697,8 +697,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1034,11 +1034,11 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
+delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1321,6 +1321,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1671,11 +1672,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
+(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2119,8 +2120,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2143,10 +2144,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
+*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2397,8 +2398,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2471,10 +2472,9 @@ res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 vacations.us.palladiumhotelgroup.com
-ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-login.www.vaxvacationaccess.com
+ebsext.oft.hyatt.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2486,6 +2486,7 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2871,8 +2872,8 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 rpm.newrelic.com
@@ -2881,8 +2882,8 @@ developer.newrelic.com
 learn.newrelic.com
 *.newrelic.com
 infrastructure.newrelic.com
-*.blog.newrelic.com
 insights.newrelic.com
+*.blog.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -3278,8 +3279,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3448,8 +3449,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
