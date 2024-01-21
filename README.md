@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 21 21:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 21 22:08:52 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -423,8 +423,8 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.kolesa.kz
 api.krisha.kz
+api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1321,7 +1321,6 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
-idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1418,9 +1417,9 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1439,9 +1438,9 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
@@ -1601,8 +1600,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1672,11 +1671,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
+(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1935,8 +1934,8 @@ api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
 store.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 ca.account.sony.com
@@ -2174,8 +2173,8 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -2305,8 +2304,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2472,9 +2471,10 @@ res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 vacations.us.palladiumhotelgroup.com
+ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-ebsext.oft.hyatt.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2486,7 +2486,6 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
-login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2645,10 +2644,10 @@ matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 *.xoom.com
 paypal.me
@@ -2665,12 +2664,12 @@ my.loanbuilder.com
 pigeon.swiftfinancial.com
 *.braintree.tools
 paypalobjects.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.paypal-*.com
@@ -2757,10 +2756,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2982,9 +2981,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3285,8 +3284,8 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-npmjs.org
 *.githubusercontent.com
+npmjs.org
 education.github.com
 github.com
 github.com
@@ -3389,11 +3388,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
-doorstromen.mijnkombijdepolitie.nl
+devmaximum.com
 qatest.nl
 rudderplatform.com
+doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3687,10 +3686,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -4077,8 +4076,8 @@ logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
-federalist-docs.18f.gov
-dashboard.fr.cloud.gov
+www.fedramp.gov
+www.usa.gov
 *.login.gov
 *.code.gov
 *.search.gov
