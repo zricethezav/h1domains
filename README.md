@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 22 10:11:34 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 22 11:12:02 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -469,9 +469,9 @@ crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 hg.mozilla.org
@@ -1417,9 +1417,9 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
+api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1600,8 +1600,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1718,9 +1718,9 @@ business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2049,9 +2049,9 @@ chat.amazon.com
 affiliate-program.amazon.com
 track.amazon.com
 manufacturing.amazon.com
-api.amazon.com
 apay-us.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2166,15 +2166,15 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -2211,8 +2211,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2304,8 +2304,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2638,10 +2638,10 @@ matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 *.xoom.com
 paypal.me
@@ -2658,12 +2658,12 @@ my.loanbuilder.com
 pigeon.swiftfinancial.com
 *.braintree.tools
 paypalobjects.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.paypal-*.com
@@ -2874,8 +2874,8 @@ infrastructure.eu.newrelic.com
 developer.newrelic.com
 learn.newrelic.com
 infrastructure.newrelic.com
-insights.newrelic.com
 *.blog.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -2976,9 +2976,9 @@ ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3125,7 +3125,6 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
-doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3134,6 +3133,7 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3177,8 +3177,8 @@ your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
-*.lystit.com
 *.lyst.co
+*.lystit.com
 *.lyst.com
 mobileapi.lystit.com
 cdna.lystit.com
@@ -3270,10 +3270,6 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-moneybird.com
-moneybirdstorage.com
-moneybird.com
-moneybirdstorage.com
 npmjs.com
 api.github.com
 classroom.github.com
@@ -3384,11 +3380,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
-doorstromen.mijnkombijdepolitie.nl
+devmaximum.com
 qatest.nl
 rudderplatform.com
+doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3434,8 +3430,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 *.shopifycloud.com
 shop.app
@@ -4072,8 +4068,8 @@ logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
-www.fedramp.gov
-www.usa.gov
+federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -4188,6 +4184,10 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
+moneybird.com
+moneybirdstorage.com
+moneybird.com
+moneybirdstorage.com
 api.kiwi.ki
 portal.kiwi.ki
 mobile.kiwi.ki
