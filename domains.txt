@@ -2806,9 +2806,9 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
 addons.allizom.org
-lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
+lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -2971,12 +2971,12 @@ api.paystack.co
 dashboard.paystack.com
 standard.paystack.co
 * IPv6 addresses
-*.isif.asia
 *.seedalliance.net
 * IPv4 addresses
 aso.apnic.net
 *.apnic.foundation
 *.apnic.net
+*.isif.asia
 *.apidt.org
 orbit.apnic.net
 stats.labs.apnic.net
@@ -3491,8 +3491,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -4592,8 +4592,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-token.com
 *.tokensvc.com
+token.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -5002,6 +5002,7 @@ winter.lu.be
 favourites.milka.de
 futisviikonloppu.marabou.fi
 giveasmile.belvitasnacks.com
+nabiscoseasonofgiving.com
 weihnachten.milka.de
 cadburygift.com
 epack.mondelezinternational.com
@@ -5011,7 +5012,6 @@ fodboldrejse.marabou.dk
 marabouchokladhus.se
 oreo.kz
 secretsanta.cadbury.co.uk
-vyhrajschuti.cz
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -5380,8 +5380,8 @@ energyright.efficientchoice.com
 analytics.krisp.ai
 help.krisp.ai
 jobs.krisp.ai
-resources.krisp.ai
 help-jp.krisp.ai
+resources.krisp.ai
 url5145.krisp.ai
 account.krisp.ai
 upld.krisp.ai
@@ -5573,13 +5573,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -5587,12 +5587,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -5676,8 +5676,8 @@ www.lacework.com
 *.proctor.io
 getproctorio.com
 proctorio.com
-cdn.proctorio.com
 *.proctorcollect.com
+cdn.proctorio.com
 *.proctordata.com
 *.proctorauth.com
 *.proctor.io
@@ -5738,6 +5738,9 @@ notifications.deere.com
 registration.deere.com
 rewards.deere.com
 contest.deere.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 crm.surefireag.com
 support.surefireag.com
 toolbox.surefireag.com
@@ -5758,11 +5761,8 @@ sip.surepointelectronics.com
 testvpn.dev.bearflagrobotics.com
 vpn.prod.bearflagrobotics.com
 sa-admin.smartapply.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
-powerplan.deere.com
 ghost.harvestprofit.com
+powerplan.deere.com
 filebox-dev.kreiselelectric.com
 ke-uc-expe.kreiselelectric.com
 mail.kreiselelectric.com
@@ -6090,8 +6090,8 @@ internationalclaims.usps.com
 ncoa.usps.gov
 iv.usps.com
 id.usps.com
-moversguide.usps.com
 store.usps.com
+moversguide.usps.com
 pi.usps.com
 reg.usps.com
 www.liteblue.usps.gov
@@ -6326,8 +6326,8 @@ test-marketing-api.zebra.com
 artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
+*.cto-si.zebra.com
 dcs-polarion.zebra.com
-www.matrox.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7279,8 +7279,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7770,8 +7770,8 @@ www.insulet.com
 affiliate-program.amazon.com
 track.amazon.com
 address-photos.amazon.com
-cscentral.amazon.com
 av-na.amazon.com
+cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
@@ -8008,8 +8008,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -9173,7 +9173,6 @@ www.opn.ooo
 *.omnicraftautoparts.com
 mobileapp.hyatt.com
 public.hyatt.com
-res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -9184,6 +9183,7 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -9206,14 +9206,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 www.hyatt.com
@@ -9419,8 +9419,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-secure.chaturbate.com
 *.highwebmedia.com
+secure.chaturbate.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -9548,8 +9548,8 @@ api.foliofn.com
 *.folioinvesting.com
 *.claritymoney.com
 developer.valvesoftware.com
-help.steampowered.com
 playartifact.com
+help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -9972,10 +9972,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
-cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
@@ -10278,8 +10278,8 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
+create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
@@ -10291,8 +10291,8 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 store.snapchat.com
+my.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
@@ -10389,7 +10389,6 @@ community.adobe.com
 app.frame.io
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
-*.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
 *.tubemogul.com
@@ -10399,6 +10398,7 @@ create.adobe.com
 creativecloud.adobe.com
 documentcloud.adobe.com
 status.adobe.com
+*.tt.omtrdc.net
 *.proofhq.com
 magentolive.com
 applications.frame.io
@@ -10832,6 +10832,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -10840,7 +10841,6 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
-usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
@@ -11256,6 +11256,7 @@ teamhelp.upserve.com
 *.vanillacommunity.com
 infogram.com
 infogram.com
+*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -11266,7 +11267,6 @@ vote.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -11274,12 +11274,12 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
 18f.gsa.gov
-ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
