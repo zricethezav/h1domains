@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 17:13:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 18:12:04 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -42,8 +42,8 @@ app.dynamic.xyz
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -476,9 +476,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -786,8 +786,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
-*.wenewmoments.com
 hv-mtl.com
+*.wenewmoments.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1716,9 +1716,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1817,7 +1817,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-api.watsons.com.tw
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2376,8 +2376,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2446,8 +2446,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
+reservations.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
@@ -2525,6 +2525,7 @@ www.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -2535,7 +2536,6 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -2558,14 +2558,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 www.hyatt.com
@@ -2769,8 +2769,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-*.highwebmedia.com
 secure.chaturbate.com
+*.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2825,8 +2825,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.gs-mosaic.gs.com
 *.ayco.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2834,8 +2834,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
 goldmansachsindices.com
+*.global-liquidity.gs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2844,10 +2844,10 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2938,25 +2938,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-insights.newrelic.com
 infrastructure.newrelic.com
+insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3080,8 +3080,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3518,12 +3518,12 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-ads.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -3859,9 +3859,9 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
@@ -3931,7 +3931,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3940,6 +3939,7 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
+usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
