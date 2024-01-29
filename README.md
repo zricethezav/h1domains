@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 15:10:42 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 16:14:49 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -476,9 +476,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -745,8 +745,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1290,13 +1290,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1304,12 +1304,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1453,8 +1453,8 @@ meta-api.reddit.com
 sh.reddit.com
 *.redditinc.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2046,8 +2046,8 @@ super6.skysports.com
 itv7.itv.com
 track.amazon.com
 address-photos.amazon.com
-cscentral.amazon.com
 av-na.amazon.com
+cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
@@ -2219,8 +2219,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2237,19 +2237,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
+gatewaydsaptst2.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-marriottfranchisetransactions.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+marriottfranchisetransactions.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2376,8 +2376,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2449,8 +2449,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 priceline.com
 secure.rezserver.com
 api.rezserver.com
@@ -2713,10 +2713,10 @@ https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
 *.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
+*.braintree-api.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3080,8 +3080,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3092,8 +3092,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 wiki.grab.com
 gifts.grab.com
 *.grab-sure.com
@@ -3269,10 +3269,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
+cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
@@ -3469,8 +3469,8 @@ werkenbijdnb.nl
 nossl.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -3496,8 +3496,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3863,9 +3863,9 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
@@ -3931,7 +3931,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3940,6 +3939,7 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
+usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
@@ -4104,7 +4104,6 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
-*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4114,6 +4113,7 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
+*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4121,11 +4121,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
