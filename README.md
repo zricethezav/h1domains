@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 22:10:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 23:11:51 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -217,8 +217,8 @@ www.compass.com
 pentesting2.gethypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
-hypr74352.gethypr.com
 hypr37448.gethypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -492,9 +492,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
-lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
+lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -754,15 +754,15 @@ admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
 *.napoleondice.be
-*.superbet.com
 *.napoleongames.be
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1468,8 +1468,8 @@ meta-api.reddit.com
 sh.reddit.com
 *.redditinc.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1832,7 +1832,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2391,8 +2391,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2461,8 +2461,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
+reservations.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
@@ -2953,25 +2953,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-infrastructure.newrelic.com
 insights.newrelic.com
+infrastructure.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
-synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3095,8 +3095,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3284,17 +3284,17 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
-cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3533,8 +3533,8 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
+create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
@@ -3547,8 +3547,8 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 store.snapchat.com
+my.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
@@ -3810,15 +3810,15 @@ blog.irccloud.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-*.cbhq.net
 *.coinbase.com
+*.cbhq.net
 api.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
 api.custody.coinbase.com
 *.base.org
-coinbase.com
 institutional.coinbase.com
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
