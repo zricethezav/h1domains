@@ -64,8 +64,8 @@ hostinger,logo.zyro.com,True
 hostinger,www.niagahoster.co.id,True
 eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
-egress-vdp,reader.vdp-egress.com,False
 egress-vdp,www.egress.com,False
+egress-vdp,reader.vdp-egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
@@ -1785,8 +1785,8 @@ daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
-daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2807,9 +2807,9 @@ mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
-mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
+mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
@@ -2875,8 +2875,8 @@ shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
-shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
+shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -3406,9 +3406,9 @@ kkr_vdp,ksam.com,False
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
-superbet,*.superbet.com,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -3492,8 +3492,8 @@ yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.yugalabs.io,True
 yuga_labs,*.boredapeyachtclub.com,True
 yuga_labs,dookeydash.com,True
-yuga_labs,hv-mtl.com,True
 yuga_labs,*.wenewmoments.com,True
+yuga_labs,hv-mtl.com,True
 yuga_labs,*.boredapeyachtclub.com,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.yugalabs.io,True
@@ -3905,8 +3905,8 @@ amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
-amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
+amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,skills-store.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
@@ -5677,8 +5677,8 @@ nominet,*.nic.uk,False
 proctorio,*.proctor.io,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
-proctorio,cdn.proctorio.com,False
 proctorio,*.proctorcollect.com,False
+proctorio,cdn.proctorio.com,False
 proctorio,*.proctordata.com,False
 proctorio,*.proctorauth.com,False
 proctorio,*.proctor.io,False
@@ -5739,9 +5739,6 @@ john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
 john-deere,contest.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,crm.surefireag.com,False
 john-deere,support.surefireag.com,False
 john-deere,toolbox.surefireag.com,False
@@ -5762,8 +5759,11 @@ john-deere,sip.surepointelectronics.com,False
 john-deere,testvpn.dev.bearflagrobotics.com,False
 john-deere,vpn.prod.bearflagrobotics.com,False
 john-deere,sa-admin.smartapply.com,False
-john-deere,ghost.harvestprofit.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,powerplan.deere.com,False
+john-deere,ghost.harvestprofit.com,False
 john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,ke-uc-expe.kreiselelectric.com,False
 john-deere,mail.kreiselelectric.com,False
@@ -6091,8 +6091,8 @@ usps,internationalclaims.usps.com,False
 usps,ncoa.usps.gov,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
-usps,store.usps.com,False
 usps,moversguide.usps.com,False
+usps,store.usps.com,False
 usps,pi.usps.com,False
 usps,reg.usps.com,False
 usps,www.liteblue.usps.gov,False
@@ -6201,8 +6201,8 @@ cedars-sinai,*Huntingtonhealthnetwork.com,False
 cedars-sinai,*Huntingtonhealthnetwork.net,False
 cedars-sinai,*huntingtonhospital.org,False
 cedars-sinai,*appofchoice.huntingtonhospital.com/,False
-cedars-sinai,*sourcedrive.org,False
 cedars-sinai,*app.sourcedrive.org,False
+cedars-sinai,*sourcedrive.org,False
 cedars-sinai,*Huntingtonhealtheconnect.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
 cedars-sinai,*sgveconnect.com,False
@@ -6327,8 +6327,8 @@ zebra_vdp,test-marketing-api.zebra.com,False
 zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,zsl.zebra.com,False
 zebra_vdp,wfc.zebra.com,False
+zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
-zebra_vdp,www.matrox.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7470,7 +7470,7 @@ watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
 watson_group,www.pns.hk,True
-watson_group,api.watsons.com.tw,True
+watson_group,app.watsons.com.tr,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -7691,8 +7691,8 @@ flutteruki,*.msgsvc.io,True
 flutteruki,*.operationstechnology.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
-flutteruki,*.betfair.com,True
 flutteruki,*.sportinglife.com,True
+flutteruki,*.betfair.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7771,7 +7771,6 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,track.amazon.com,True
 amazonvrp,address-photos.amazon.com,True
 amazonvrp,cscentral.amazon.com,True
@@ -7786,6 +7785,7 @@ amazonvrp,dna.amazon.com,True
 amazonvrp,advertising.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,relay.amazon.com,True
+amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -8269,8 +8269,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
-8x8,sms.8x8.com,False
 8x8,cloud8.8x8.com,False
+8x8,sms.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
@@ -8704,8 +8704,8 @@ pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line-apps.com,True
 line,*.line.me,True
+line,*.line-apps.com,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
@@ -8809,8 +8809,8 @@ forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
-forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
+forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
@@ -9179,7 +9179,6 @@ ford,*.motorcraft.com,False
 ford,*.omnicraftautoparts.com,False
 hyatt,mobileapp.hyatt.com,True
 hyatt,public.hyatt.com,True
-hyatt,res.vacations.buschgardens.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
 hyatt,res.universalorlandovacations.com,True
@@ -9190,6 +9189,7 @@ hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,www.wynnvacations.com,True
+hyatt,res.vacations.buschgardens.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -9212,14 +9212,14 @@ hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
-hyatt,holidays-hk.fijiairways.com,True
-hyatt,vacations.velasvallarta.com,True
-hyatt,www.blueskytours.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,res.vacations.seaworld.com,True
 hyatt,www.beachbound.com,True
 hyatt,shop.wyndhamvacationownership.trisept.travel,True
 hyatt,vacations.united.com,True
+hyatt,holidays-hk.fijiairways.com,True
+hyatt,vacations.velasvallarta.com,True
+hyatt,www.blueskytours.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,res.skyteam.com,True
 hyatt,www.hyatt.com,True
@@ -9368,10 +9368,10 @@ matomo,matomo.cloud,True
 matomo,https://github.com/matomo-org/docker,True
 paypal,*.xoom.com,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
-paypal,*.braintree-api.com,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
+paypal,*.braintreepayments.com,True
+paypal,*.braintree-api.com,True
 paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
@@ -9425,8 +9425,8 @@ paypal,swiftcapital.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
-chaturbate,*.highwebmedia.com,True
 chaturbate,secure.chaturbate.com,True
+chaturbate,*.highwebmedia.com,True
 chaturbate,m.chaturbate.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.mmcdn.com,True
@@ -9762,8 +9762,8 @@ semrush,*.semrush.net,True
 semrush,*.prowly.com,False
 semrush,*.seoquake.com,True
 semrush,workflows.semrush.com,False
-semrush,*.sellzone.com,True
 semrush,*.scatec.io,True
+semrush,*.sellzone.com,True
 semrush,investors.semrush.com,False
 semrush,*.semrush.com,True
 semrush,*.myinsights.io,True
@@ -9791,8 +9791,8 @@ bitwarden,identity.bitwarden.com,False
 bitwarden,vault.bitwarden.com,False
 bitwarden,help.bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
-grab,*.grabtaxi.com,True
 grab,grab.careers,True
+grab,*.grabtaxi.com,True
 grab,wiki.grab.com,True
 grab,gifts.grab.com,True
 grab,*.grabpay.com,True
@@ -10838,6 +10838,7 @@ hack-us-h1c,dlielc.edu,True
 hack-us-h1c,dodea.edu,True
 hack-us-h1c,usuhs.edu,True
 hack-us-h1c,westpoint.edu,True
+hack-us-h1c,usna.edu,True
 hack-us-h1c,adlnet.gov,True
 hack-us-h1c,aftac.gov,True
 hack-us-h1c,dc3on.gov,True
@@ -10846,7 +10847,6 @@ hack-us-h1c,jccs.gov,True
 hack-us-h1c,mypay.gov,True
 hack-us-h1c,nrojr.gov,True
 hack-us-h1c,usafa.edu,True
-hack-us-h1c,usna.edu,True
 hack-us-h1c,ctoc.gov,True
 hack-us-h1c,iad.gov,True
 hack-us-h1c,nationalresourcedirectory.gov,True
