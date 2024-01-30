@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -2877,9 +2877,9 @@ mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
@@ -5748,8 +5748,8 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -7313,8 +7313,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9627,8 +9627,8 @@ crypto,auth.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True
 crypto,*.crypto.com,True
-crypto,merchant.crypto.com,True
 crypto,tax.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,js.crypto.com,True
 crypto,app.mona.co,True
@@ -9970,11 +9970,11 @@ wordpress, github.com/WordPress,True
 rockstargames,rockstarnorth.com,True
 rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True

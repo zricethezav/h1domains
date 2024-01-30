@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 17:12:55 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 18:13:30 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -520,9 +520,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -1416,8 +1416,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1724,8 +1724,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2936,8 +2936,8 @@ auth.crypto.com
 *.mona.co
 www.crypto.com
 *.crypto.com
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -3247,11 +3247,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
