@@ -4510,7 +4510,6 @@ practice.securevetsource.com
 *.twix.com
 *.royalcanin.nl
 *.orbitgum.com
-*.royalcanin.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4521,6 +4520,7 @@ practice.securevetsource.com
 *.banfieldassets.com
 banfieldexchange.com
 *.extragum.com
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com

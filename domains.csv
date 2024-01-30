@@ -4511,7 +4511,6 @@ mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
 mars,*.orbitgum.com,False
-mars,*.royalcanin.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -4522,6 +4521,7 @@ mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
+mars,*.royalcanin.com,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
