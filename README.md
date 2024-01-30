@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 08:11:05 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 09:09:36 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -25,8 +25,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -201,8 +201,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -492,9 +492,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -1732,8 +1732,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1832,7 +1832,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-api.watsons.com.tw
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2728,11 +2728,11 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
+*.braintreepayments.com
 *.braintree-api.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2741,12 +2741,11 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-*.braintreegateway.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
@@ -2754,6 +2753,7 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 paypalobjects.com
+*.braintreegateway.com
 *.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
@@ -2907,8 +2907,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-playartifact.com
 help.steampowered.com
+playartifact.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3534,8 +3534,8 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
+create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
@@ -3548,8 +3548,8 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 store.snapchat.com
+my.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
@@ -3811,8 +3811,8 @@ blog.irccloud.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-*.coinbase.com
 *.cbhq.net
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
@@ -3947,7 +3947,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3956,6 +3955,7 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
+usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
