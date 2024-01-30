@@ -1,7 +1,7 @@
 www.hangar51.com
-*.iairgroup.com
 *.iaggbs.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -110,8 +110,8 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3399,8 +3399,8 @@ ksam.com
 *.jitsi.net
 work.8x8.com
 *.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -6046,6 +6046,7 @@ advance.deere.com
 devl-app.nprd-exco.deere.com
 jduetc.deere.com
 jdfy-cert.deere.com
+app.expertconnect.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -6168,10 +6169,10 @@ www-1008.aig.com
 www.travelguard.com
 *.aig.com
 www.aig.com.br
-*.aig.co.jp
 www.vfisu.com
 www.vfisal.com
 www.iafcf.org
+*.aig.co.jp
 www.corebridgefinancial.com
 services.aig.co.il
 *.aig.com
@@ -8119,8 +8120,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
