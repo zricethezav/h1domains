@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 19:10:29 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 20:10:25 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -485,8 +485,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -520,9 +520,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 hg.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -751,8 +751,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.ro
@@ -2361,8 +2361,8 @@ vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-booth.pm
 accounts.pixiv.net
+booth.pm
 comic.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
@@ -3519,8 +3519,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3817,9 +3817,9 @@ api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
