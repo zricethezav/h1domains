@@ -116,8 +116,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2912,10 +2912,10 @@ www.borrowlenses.com
 jcpportraits.com
 wgwebservices.snapfish.com
 *.sbs.shutterfly.com
-*.snapfish.com
 snapfish.com
 admin.spoonflower.com
 shutterfly.com
+*.snapfish.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -9091,10 +9091,10 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
 priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -10720,8 +10720,8 @@ prime.coinbase.com
 *.cbhq.net
 *.coinbase.com
 api.coinbase.com
-cloud.coinbase.com
 international.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 *.base.org
 institutional.coinbase.com
