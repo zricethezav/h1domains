@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 09:11:01 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 10:11:42 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -63,8 +63,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -485,8 +485,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -2300,8 +2300,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2574,7 +2574,6 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
@@ -2584,6 +2583,7 @@ vacations.velasvallarta.com
 www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
+book.extraholidaysvacations.com
 www.hyatt.com
 hyatt.com
 www.hyatt.com

@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -92,8 +92,8 @@ hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
-hostinger,backend.zyro.com,True
 hostinger,www.zyro.com,True
+hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -2842,8 +2842,8 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
-mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
@@ -7986,10 +7986,10 @@ digitalocean,developers.cloudways.com,False
 digitalocean,unified.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.cloudways.com,False
-digitalocean,*.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
+digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -8121,8 +8121,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9253,7 +9253,6 @@ hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
 hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
-hyatt,book.extraholidaysvacations.com,True
 hyatt,res.vacations.seaworld.com,True
 hyatt,www.beachbound.com,True
 hyatt,shop.wyndhamvacationownership.trisept.travel,True
@@ -9263,6 +9262,7 @@ hyatt,vacations.velasvallarta.com,True
 hyatt,www.blueskytours.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,res.skyteam.com,True
+hyatt,book.extraholidaysvacations.com,True
 hyatt,www.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
