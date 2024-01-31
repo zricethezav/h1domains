@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 06:11:41 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 07:11:25 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -761,8 +761,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1326,7 +1326,6 @@ federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
 dashboard.fr.cloud.gov
@@ -1335,6 +1334,7 @@ labs.data.gov
 inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
+*.login.gov
 ci.fr.cloud.gov
 idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
@@ -1732,8 +1732,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2466,8 +2466,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.priceline.com
-priceline.com
 www.bookingholdings.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -3879,15 +3879,15 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
-ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-errors.hackerone.net
 hackerone.live
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
