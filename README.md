@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 14:11:45 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 15:11:57 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -645,11 +645,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 oneview.malwarebytes.com
@@ -927,8 +927,8 @@ blueprints.amazon.com
 a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-alexa.amazon.com
 read.amazon.com
+alexa.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1732,8 +1732,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2066,7 +2066,6 @@ cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
-paragon-na.amazon.com
 merch.amazon.com
 chat.amazon.com
 dna.amazon.com
@@ -2074,6 +2073,7 @@ advertising.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
+paragon-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -3367,8 +3367,8 @@ gist.github.com
 *.github.net
 education.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3519,8 +3519,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

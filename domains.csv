@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -1822,8 +1822,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -3148,9 +3148,9 @@ abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
-abb,*.gb.abb.com,False
 abb,*.evcharging.abb.com,False
 abb,*.tnb.com,False
+abb,*.gb.abb.com,False
 abb,*.abb.com.tr,False
 abb,abb.com.br,False
 abb,*.busch-jaeger.at,False
@@ -3227,11 +3227,11 @@ abb,*.abb.pl,False
 abb,*.abb.se,False
 abb,*.abb.net,False
 abb,abb.com.br,False
-malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
+malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -3947,8 +3947,8 @@ amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
-amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
+amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,skills-store.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
@@ -7319,8 +7319,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7814,7 +7814,6 @@ amazonvrp,cscentral.amazon.com,True
 amazonvrp,dcape-na.amazon.com,True
 amazonvrp,mag-na.amazon.com,True
 amazonvrp,kca.amazon.com,True
-amazonvrp,paragon-na.amazon.com,True
 amazonvrp,merch.amazon.com,True
 amazonvrp,chat.amazon.com,True
 amazonvrp,dna.amazon.com,True
@@ -7822,6 +7821,7 @@ amazonvrp,advertising.amazon.com,True
 amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
+amazonvrp,paragon-na.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -10141,8 +10141,8 @@ github,gist.github.com,True
 github,*.github.net,True
 github,education.github.com,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,npmjs.org,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10295,8 +10295,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
