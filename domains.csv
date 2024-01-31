@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iairgroup.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -85,8 +85,8 @@ wellhive,analytics.wellhive.com,False
 wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,payments.hostinger.com,True
-hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
+hostinger,www.niagahoster.co.id,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -1691,9 +1691,9 @@ redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
-redox_bbp,evening-earth.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
+redox_bbp,evening-earth.gamma.redoxstage.com,True
 redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
@@ -1726,6 +1726,7 @@ visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
+visa,sandbox.secure.checkout.visa.com,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -1764,7 +1765,6 @@ visa,ht.visa.com,True
 visa,www.visa.com.br,True
 visa,www.visa.com.az,True
 visa,www.visa.com.kz,True
-visa,www.visa.com.lk,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -1820,6 +1820,7 @@ visa,www.tink.com,True
 visa,www.practicalmoneyskills.com,True
 visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
+visa,sandbox.secure.checkout.visa.com,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
@@ -3018,8 +3019,8 @@ apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.apnic.foundation,False
-apnic,*.apnic.net,False
 apnic,*.isif.asia,False
+apnic,*.apnic.net,False
 apnic,*.apidt.org,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
@@ -3158,8 +3159,8 @@ abb,*.in.abb.com,False
 abb,*.pl.abb.com,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
@@ -4519,9 +4520,9 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
-mars,*.royalcanin.pl,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
+mars,*.royalcanin.pl,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -8741,8 +8742,8 @@ pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line.me,True
 line,*.line-apps.com,True
+line,*.line.me,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
@@ -9090,9 +9091,9 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -9902,8 +9903,8 @@ spotify,assets.spotify.com,True
 spotify,api.sonantic.io,True
 spotify,app.sonantic.io,True
 spotify,backstage.io,True
-spotify,api.spotify.com,True
 spotify,label-studio-public.sonantic.io,True
+spotify,api.spotify.com,True
 spotify,assets.spotify.com,True
 spotify,api.spotify.com,True
 spotify,api.sonantic.io,True
@@ -10328,10 +10329,10 @@ snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,map.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
