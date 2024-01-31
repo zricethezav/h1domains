@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3411,8 +3411,8 @@ cloud8.8x8.com
 *.8x8.id
 platform.8x8.com
 *.packet8.net
-voapi.8x8.com
 *.8x8staging.com
+voapi.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -3667,8 +3667,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -4828,8 +4828,8 @@ api.smtp2go.com
 *.securityscorecard.io
 *.securityscorecard.io
 *.securityscorecard.com
-*.gymshark.com
 *.gymshark.io
+*.gymshark.com
 *.gymshark.com
 *.gymshark.io
 push-d-hap.cloud.etoro.com
