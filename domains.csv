@@ -1741,13 +1741,13 @@ visa,www.visa.co.ao,True
 visa,www.visa.co.in,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
-visa,aw.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
 visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,aw.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -3158,8 +3158,8 @@ abb,*.in.abb.com,False
 abb,*.pl.abb.com,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.baldor.com,False
 abb,*.abb.com,False
+abb,*.baldor.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
@@ -4519,9 +4519,9 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.pl,False
 mars,*.extragum.com,False
+mars,*.royalcanin.com,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -5077,7 +5077,6 @@ mondelez,fr.cocoalife.org,False
 mondelez,pt.cocoalife.org,False
 mondelez,fcmilka.de,False
 mondelez,cadbury.ie,False
-mondelez,womensfootball.cadbury.ie,False
 mondelez,milka.bg,False
 mondelez,potursinejnostta.milka.bg,False
 mondelez,milka.ru,False
@@ -5181,7 +5180,6 @@ mondelez,marabou.fi,False
 mondelez,marabougram.se,False
 mondelez,mavieencouleurs.fr,False
 mondelez,mdlzcollaboration.com,False
-mondelez,mdlzmysales.com,False
 mondelez,mezclaydisfruta.com.ar,False
 mondelez,mibodegamondelez.pe,False
 mondelez,milka.cl,False
@@ -7930,8 +7928,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -11016,12 +11014,12 @@ remitano,www.remitano.com,True
 remitano,api.remitano.com,True
 remitano,socket.remitano.com,True
 jimdo,help.jimdo.com,False
-jimdo,dash.e.jimdo.com,False
 jimdo,cms-backend.jimdosite.com,False
 jimdo,*.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
+jimdo,dash.e.jimdo.com,False
 jimdo,cms.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
