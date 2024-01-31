@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -174,8 +174,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1678,8 +1678,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -1727,6 +1727,7 @@ visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
 visa,sandbox.secure.checkout.visa.com,True
+visa,www.visainfinite.ca,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -1763,8 +1764,6 @@ visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
-visa,www.visa.com.az,True
-visa,www.visa.com.kz,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -1821,6 +1820,9 @@ visa,www.practicalmoneyskills.com,True
 visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 visa,sandbox.secure.checkout.visa.com,True
+visa,www.visainfinite.ca,True
+visa,http://myvisainfinite.com/suntrust/en_us/home.html,True
+visa,http://www.myvisacardportal.com/welcome/enbd/product/#,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
@@ -4904,9 +4906,9 @@ etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
-instacart,api.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,www.instacart.com,True
+instacart,api.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -5746,8 +5748,8 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -7927,9 +7929,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9092,8 +9094,8 @@ priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
-priceline,priceline.com,True
 priceline,www.priceline.com,True
+priceline,priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -11442,12 +11444,6 @@ alvosec,dns.alvosec.com,True
 alvosec,cloud.alvosec.com,True
 alvosec,mail.alvosec.com,True
 alvosec,proton-api.alvosec.com,True
-robinhood,*.robinhood.com,True
-robinhood,*.robinhood.net,True
-robinhood,*.rhinternal.net,True
-robinhood,*.robinhood.com,True
-robinhood,*.robinhood.net,True
-robinhood,*.rhinternal.net,True
 legalrobot,www.legalrobot-test.com,True
 legalrobot,app.legalrobot.com,True
 legalrobot,www.legalrobot.com,True

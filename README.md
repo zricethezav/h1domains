@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 19:09:30 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 20:11:37 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -289,8 +289,8 @@ api.wisdomtreeprimeapp.com
 testapi.redoxengine.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 clientcert.gamma.redoxstage.com
+www.redoxengine.com
 blob.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -338,6 +338,7 @@ www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -374,8 +375,6 @@ bd.visa.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
-www.visa.com.az
-www.visa.com.kz
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -432,6 +431,9 @@ www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
+http://myvisainfinite.com/suntrust/en_us/home.html
+http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -1122,9 +1124,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-api.instacart.com
 *.instacart.tools
 www.instacart.com
+api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1417,8 +1419,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elstc.co
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2179,9 +2181,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2467,8 +2469,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-priceline.com
 www.priceline.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -4251,12 +4253,6 @@ dns.alvosec.com
 cloud.alvosec.com
 mail.alvosec.com
 proton-api.alvosec.com
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
 www.legalrobot-test.com
 app.legalrobot.com
 www.legalrobot.com
