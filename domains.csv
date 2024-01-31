@@ -46,8 +46,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.pornbox.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornbox.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -2923,8 +2923,8 @@ shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,blog.spoonflower.com,False
-shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.spoonflower.com,False
+shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -7322,8 +7322,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10786,10 +10786,10 @@ security,*.vpn.hackerone.net,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
