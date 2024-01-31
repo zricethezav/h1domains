@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
+dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -87,8 +87,8 @@ wellhive,login.wellhive.com,False
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
@@ -3081,11 +3081,11 @@ indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
 indrive,*.indriverapp.com,True
-indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,volans.tech,True
 indrive,wga.volans.tech,True
 indrive,injob.indriver.com,True
+indrive,super-services.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -4522,7 +4522,6 @@ mars,banfieldexchange.com,False
 mars,*.royalcanin.pl,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
-mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -4534,6 +4533,7 @@ mars,*.royalcanin.ca,False
 mars,banfieldfoundation.org,False
 mars,*.vcahospitals.com,False
 mars,spsah2.securevetsource.com,False
+mars,*.mms.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -6229,9 +6229,9 @@ cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*Huntingtonhealth.net,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
-cedars-sinai,*hhcareers.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
+cedars-sinai,*hhcareers.com,False
 cedars-sinai,*www.marinahospital.com,False
 cedars-sinai,*Hhec.org,False
 cedars-sinai,*Hmtest.org,False
