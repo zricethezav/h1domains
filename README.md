@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 16:11:40 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 17:11:34 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1450,8 +1450,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
@@ -1520,8 +1520,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2967,8 +2967,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com

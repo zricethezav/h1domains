@@ -4531,8 +4531,8 @@ banfieldexchange.com
 *.royalcanin.ca
 banfieldfoundation.org
 *.vcahospitals.com
-spsah2.securevetsource.com
 *.mms.com
+spsah2.securevetsource.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -6203,8 +6203,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *mycslink.org
@@ -6534,8 +6534,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -8309,8 +8309,8 @@ connect.8x8.com
 sms.8x8.com
 cloud8.8x8.com
 supersite.8x8.com
-*.8x8staging.com
 user-profile.8x8.com
+*.8x8staging.com
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
@@ -9654,8 +9654,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10417,10 +10417,10 @@ stream.frame.io
 firefly.adobe.com
 *.adobeaemcloud.com
 community.adobe.com
-app.frame.io
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
 accounts.frame.io
+app.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com

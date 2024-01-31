@@ -4532,8 +4532,8 @@ mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,banfieldfoundation.org,False
 mars,*.vcahospitals.com,False
-mars,spsah2.securevetsource.com,False
 mars,*.mms.com,False
+mars,spsah2.securevetsource.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -6204,8 +6204,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*mycslink.org,False
@@ -6535,8 +6535,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -8310,8 +8310,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sms.8x8.com,False
 8x8,cloud8.8x8.com,False
 8x8,supersite.8x8.com,False
-8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
+8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
@@ -9655,8 +9655,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.nr-ops.net,True
-newrelic,*.nr-data.net,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-data.net,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10418,10 +10418,10 @@ adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
-adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
+adobe,app.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
