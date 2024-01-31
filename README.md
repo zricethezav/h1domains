@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 20:11:37 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 21:11:41 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -100,9 +100,9 @@ www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
-www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadolibre.com.uy
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -300,11 +300,11 @@ webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
 docs.redoxengine.com
-explore.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
+explore.redoxengine.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -2364,8 +2364,8 @@ vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 booth.pm
+accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
@@ -2862,7 +2862,6 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-*.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2872,6 +2871,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3250,11 +3250,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
+lifeinvader.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com

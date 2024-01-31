@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -135,9 +135,9 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.uy,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -174,8 +174,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1689,11 +1689,11 @@ redox_bbp,webhooks.gamma.redoxstage.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
-redox_bbp,explore.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
 redox_bbp,evening-earth.gamma.redoxstage.com,True
+redox_bbp,explore.redoxengine.com,True
 redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
@@ -8816,8 +8816,8 @@ pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,*.fanbox.cc,True
-pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
+pixiv,accounts.pixiv.net,True
 pixiv,comic.pixiv.net,True
 pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
@@ -9545,7 +9545,6 @@ goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.nextcapital.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,marquee.gs.com,True
@@ -9555,6 +9554,7 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -9970,11 +9970,11 @@ wordpress, github.com/WordPress,True
 rockstargames,rockstarnorth.com,True
 rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
-rockstargames,lifeinvader.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,lifeinvader.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
