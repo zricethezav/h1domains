@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 00:21:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 01:31:07 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -3250,8 +3250,8 @@ circolocorecords.com/
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3534,12 +3534,12 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
 ads.snapchat.com
+create.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com

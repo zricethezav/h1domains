@@ -1822,8 +1822,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -9974,8 +9974,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10314,12 +10314,12 @@ shopify,admin.shopify.com,True
 shopify,linkpop.com,True
 shopify,shopifyinbox.com,True
 snapchat,story.snapchat.com,True
-snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,create.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
