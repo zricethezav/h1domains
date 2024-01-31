@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1822,8 +1822,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -4642,8 +4642,8 @@ tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
 tokenweb3,blog.token.com,False
 windstream,we.windstream.com,False
-windstream,*broadviewnet.com,False
 windstream,paetec.net,False
+windstream,*broadviewnet.com,False
 windstream,*.windstreamsmallbusiness.com,False
 windstream,www.windstream.com,False
 windstream,*.windstreamsmallbusiness.com,False
@@ -7322,8 +7322,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9095,8 +9095,8 @@ priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
-priceline,www.bookingholdings.com,True
 priceline,priceline.com,True
+priceline,www.bookingholdings.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -9434,8 +9434,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,paypalobjects.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9630,9 +9630,9 @@ crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
+crypto,app.mona.co,True
 crypto,pay.crypto.com,True
 crypto,js.crypto.com,True
-crypto,app.mona.co,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True

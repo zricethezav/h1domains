@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -116,8 +116,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1821,8 +1821,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *.setra.de
 *omniplus.com
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -4641,8 +4641,8 @@ blog.token.com
 token.com
 blog.token.com
 we.windstream.com
-*broadviewnet.com
 paetec.net
+*broadviewnet.com
 *.windstreamsmallbusiness.com
 www.windstream.com
 *.windstreamsmallbusiness.com
@@ -7321,8 +7321,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -9094,8 +9094,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.priceline.com
-www.bookingholdings.com
 priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -9433,8 +9433,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -9629,9 +9629,9 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
+app.mona.co
 pay.crypto.com
 js.crypto.com
-app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
