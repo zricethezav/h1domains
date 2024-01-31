@@ -195,8 +195,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3323,10 +3323,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
 basicattentiontoken.org
 search.brave.com
 talk.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
