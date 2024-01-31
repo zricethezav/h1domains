@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3158,8 +3158,8 @@ abb,*.in.abb.com,False
 abb,*.pl.abb.com,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.abb.com,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
@@ -5133,7 +5133,6 @@ mondelez,philadelphiaprofessional.co.uk,False
 mondelez,sottilette.it,False
 mondelez,sigamoscompartiendo.suchard.es,False
 mondelez,suchard.es,False
-mondelez,toblerone.co.uk,False
 mondelez,xn--90aiakgkqi1l.xn--p1ai,False
 mondelez,anevetessport.hu,False
 mondelez,barniadventures.com,False
@@ -7320,8 +7319,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8389,7 +8388,6 @@ palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,www.bplans.com,False
-mtn_group,mtn.sd,False
 mtn_group,mtnselfcare.co.zm,False
 mtn_group,wc.mtn.com,False
 mtn_group,mtnrewards.com,False

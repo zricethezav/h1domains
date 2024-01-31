@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -1171,8 +1171,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3157,8 +3157,8 @@ abb.com.br
 *.pl.abb.com
 *.cms.abb
 *.abb.at
-*.abb.com
 *.baldor.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.cn.abb.com
@@ -5132,7 +5132,6 @@ philadelphiaprofessional.co.uk
 sottilette.it
 sigamoscompartiendo.suchard.es
 suchard.es
-toblerone.co.uk
 xn--90aiakgkqi1l.xn--p1ai
 anevetessport.hu
 barniadventures.com
@@ -7319,8 +7318,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8388,7 +8387,6 @@ app.liveplan.com
 www.paloalto.com
 www.liveplan.com
 www.bplans.com
-mtn.sd
 mtnselfcare.co.zm
 wc.mtn.com
 mtnrewards.com
