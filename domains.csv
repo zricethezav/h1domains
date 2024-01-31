@@ -4505,11 +4505,11 @@ mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,banfield.us,False
-mars,*.royalcanin.pt,False
 mars,practice.securevetsource.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -7322,8 +7322,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10218,9 +10218,9 @@ deriv,smarttrader.deriv.com,True
 deriv,*.derivws.com,True
 deriv,secure-dfadmin.deriv.com,True
 deriv,*.deriv.com,True
-deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,*.deriv.cloud,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
@@ -10721,9 +10721,9 @@ coinbase,custody.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,coinbase.com,True
