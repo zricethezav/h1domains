@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 17:09:50 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 18:12:58 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -82,8 +82,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -480,8 +480,8 @@ api.tideplatform.in
 api.tideplatform.in
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -877,11 +877,11 @@ zerobounce.in
 api.zerobounce.in
 zerobounce.net
 *.gravitational.com
-*.teleport.dev
 *.gravitational.co
 cloud.gravitational.io
 askpam.ai
 *.teleportinfra.sh
+*.teleport.dev
 teleport.sh
 *.gravitational.io
 platform.teleport.sh
@@ -1465,8 +1465,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1725,9 +1725,9 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2256,8 +2256,8 @@ mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
@@ -2665,8 +2665,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3292,8 +3292,8 @@ www.starbucks.com.sg
 www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
-www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -3481,8 +3481,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
@@ -3763,10 +3763,10 @@ api.tumblr.com
 intensedebate.com
 wordpress.com
 safe.tumblr.com
-www.tumblr.com
 t.umblr.com
 mailpoet.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3812,8 +3812,8 @@ cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3861,8 +3861,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
