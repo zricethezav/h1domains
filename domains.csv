@@ -3152,8 +3152,8 @@ abb,*.abb.com.cn,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
-abb,*.tnb.com,False
 abb,*.gb.abb.com,False
+abb,*.tnb.com,False
 abb,*.abb.com.tr,False
 abb,abb.com.br,False
 abb,*.busch-jaeger.at,False
@@ -3163,7 +3163,6 @@ abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.baldor.com,False
 abb,*.abb.com,False
-abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
@@ -3175,6 +3174,7 @@ abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
 abb,*.ability.abb,False
+abb,*.busch-jaeger.nl,False
 abb,*.busch-jaeger.de,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
@@ -3452,8 +3452,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -3892,11 +3892,11 @@ monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
 monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
-allegion,www.fireglass.com,False
 allegion,www.interflex.de,False
 allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
 allegion,www.gainsboroughhardware.com.au,False
+allegion,www.fireglass.com,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -10317,8 +10317,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,create.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10627,8 +10627,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
@@ -10776,8 +10776,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
