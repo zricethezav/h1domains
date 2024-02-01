@@ -6468,11 +6468,11 @@ https://connect.lumiradx.com/factory
 www.lumiradx.com
 investors.lumiradx.com
 old.reddit.com
-api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 ads.reddit.com
+api.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com

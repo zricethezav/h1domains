@@ -6469,11 +6469,11 @@ lumiradx,https://connect.lumiradx.com/factory,False
 lumiradx,www.lumiradx.com,False
 lumiradx,investors.lumiradx.com,False
 reddit,old.reddit.com,True
-reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,ads.reddit.com,True
+reddit,api.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
