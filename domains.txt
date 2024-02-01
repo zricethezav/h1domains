@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -9090,11 +9090,11 @@ chain.link
 *.smartcontract.com
 chain.link
 reservations.rezserver.com
-admin.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 priceline.com
 www.priceline.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -10773,8 +10773,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
