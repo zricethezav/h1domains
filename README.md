@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 06:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 07:10:22 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -2010,8 +2010,8 @@ portal.polygon.technology
 *.operationstechnology.io
 *.securityservices.io
 *.skybettest.net
-*.sportinglife.com
 *.betfair.com
+*.sportinglife.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -3729,8 +3729,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
