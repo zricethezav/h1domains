@@ -3153,8 +3153,8 @@ abb,*.in.abb.com,False
 abb,*.pl.abb.com,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.abb.com,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
@@ -4927,10 +4927,10 @@ anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
-anywhererealestate,*.realogy.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.mycbdesk.com,False
+anywhererealestate,*.realogy.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -7987,8 +7987,8 @@ digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
 digitalocean,hackathon-tracker.digitalocean.com,False
-digitalocean,platform.cloudways.com,False
 digitalocean,www.digitalocean.com,False
+digitalocean,platform.cloudways.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False

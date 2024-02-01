@@ -3152,8 +3152,8 @@ abb.com.br
 *.pl.abb.com
 *.cms.abb
 *.abb.at
-*.abb.com
 *.baldor.com
+*.abb.com
 *.fi.abb.com
 *.cn.abb.com
 *.de.abb.com
@@ -4926,10 +4926,10 @@ www.alohi.com
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
-*.realogy.*
-*.mycbdesk.com
 *.cbcworldwide.*
 *.coldwellbanker.*
+*.mycbdesk.com
+*.realogy.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -7986,8 +7986,8 @@ www.cloudways.com
 do.co
 hacktoberfest.com
 hackathon-tracker.digitalocean.com
-platform.cloudways.com
 www.digitalocean.com
+platform.cloudways.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
