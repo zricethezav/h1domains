@@ -2789,8 +2789,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -7833,6 +7833,7 @@ amazonvrp,read.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,aax-us-iad.amazon.com,True
 amazonvrp,completion.amazon.com,True
+amazonvrp,dolphin.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -7922,8 +7923,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9869,7 +9870,6 @@ bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
-bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,www.bumble.com,True
 bumble,badoo.com,True
@@ -9891,7 +9891,6 @@ bumble,translate.badoo.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
 bumble,chatdate.app,True
-bumble,heyfiesta.com,True
 bumble,zodia.studio,True
 spotify,assets.spotify.com,True
 spotify,api.sonantic.io,True

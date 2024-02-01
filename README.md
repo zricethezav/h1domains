@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 14:10:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 15:13:12 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -437,8 +437,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2085,6 +2085,7 @@ read.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
+dolphin.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2174,8 +2175,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3149,7 +3150,6 @@ zodia.studio
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
-heyfiesta.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
@@ -3171,7 +3171,6 @@ translate.badoo.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
-heyfiesta.com
 zodia.studio
 assets.spotify.com
 api.sonantic.io
