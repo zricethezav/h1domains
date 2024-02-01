@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,www.hangar51.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -119,8 +119,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -8803,9 +8803,9 @@ coda_bbp,https://coda.io/signup/email,True
 coda_bbp,codahosted.io,True
 coda_bbp,codacontent.io,True
 pixiv,hub.vroid.com,True
-pixiv,payment.pixiv.net,True
 pixiv,neoket.net,True
 pixiv,vroid.com,True
+pixiv,payment.pixiv.net,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,*.fanbox.cc,True
@@ -10323,8 +10323,8 @@ snapchat,rt.playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
+snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -10764,8 +10764,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
