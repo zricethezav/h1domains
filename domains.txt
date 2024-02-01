@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -45,8 +45,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -1171,8 +1171,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3172,8 +3172,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.ability.abb
 *.busch-jaeger.nl
+*.ability.abb
 *.busch-jaeger.de
 *.cirrus.abb.com
 *.stratus.abb.com
@@ -7929,8 +7929,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8072,9 +8072,9 @@ maria.casino
 www.32red.com
 relaxcdn.unibet.com
 sso.marriott.com
-mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -10783,11 +10783,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
 ctf.hacker101.com
 hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
