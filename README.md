@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 12:14:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 13:11:40 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -201,8 +201,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3881,8 +3881,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
