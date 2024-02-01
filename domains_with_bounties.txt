@@ -131,10 +131,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-flights.booking.com
 admin.booking.com
 *.booking.com
 booking.com
+flights.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com

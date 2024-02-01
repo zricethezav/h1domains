@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,*.iairgroup.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -172,10 +172,10 @@ bookingcom,chat.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -8320,8 +8320,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,platform.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,sso.8x8.com,False
-8x8,www.fuzemeeting.com,False
 8x8,*.8x8.id,False
+8x8,www.fuzemeeting.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False

@@ -1,7 +1,7 @@
 *.iairgroup.com
-*.iagcargo.com
 www.hangar51.com
 *.iaggbs.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -171,10 +171,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-flights.booking.com
 admin.booking.com
 *.booking.com
 booking.com
+flights.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -8319,8 +8319,8 @@ work.8x8.com
 platform.8x8.com
 pay.8x8.com
 sso.8x8.com
-www.fuzemeeting.com
 *.8x8.id
+www.fuzemeeting.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
