@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 00:22:29 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 01:34:14 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -201,8 +201,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -437,8 +437,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -601,8 +601,8 @@ debug.clairvoyance.indrive.tech
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
-injob.indriver.com
 super-services.indriverapp.com
+injob.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -2274,8 +2274,8 @@ homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
-hotel-deals.marriott.com
 *uat.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
