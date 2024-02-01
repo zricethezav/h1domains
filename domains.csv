@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
