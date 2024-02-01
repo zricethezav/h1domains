@@ -3160,8 +3160,8 @@ abb.com.br
 *.pl.abb.com
 *.cms.abb
 *.abb.at
-*.abb.com
 *.baldor.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.cn.abb.com
@@ -10792,8 +10792,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
 errors.hackerone.net
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
