@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 02:15:59 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 03:10:28 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -536,7 +536,6 @@ support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-www.six-group.com
 www.six-group.com
 *.eu.floqast.app
 *.floqast.app
@@ -1128,20 +1127,6 @@ api.instacart.com
 www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-academy.databricks.com
-demo.cloud.databricks.com
-docs.databricks.com
-accounts.cloud.databricks.com
-databricks.com
-kb.databricks.com
-support.databricks.com
-community.databricks.com
-labs.databricks.com
-marketplace.databricks.com
-help.databricks.com
-partners.databricks.com
-advocates.databricks.com
-customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1515,6 +1500,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
+*.scopely.com
+*.withbuddies.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
