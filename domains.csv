@@ -1481,8 +1481,8 @@ abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*abnamroprivatebanking.be,False
 abn_amro_vdp,*.tikkie.me,False
 abn_amro_vdp,*.abnamrolease.com,False
-abn_amro_vdp,*neuflizeobc.fr,False
 abn_amro_vdp,*.abnamro.org,False
+abn_amro_vdp,*neuflizeobc.fr,False
 abn_amro_vdp,*.abnamro.be,False
 abn_amro_vdp,*.new10.com,False
 abn_amro_vdp,*.abnamro.com,False
@@ -3663,8 +3663,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -4928,9 +4928,9 @@ anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.cbcworldwide.*,False
-anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
+anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -7812,11 +7812,11 @@ amazonvrp,kca.amazon.com,True
 amazonvrp,merch.amazon.com,True
 amazonvrp,chat.amazon.com,True
 amazonvrp,dna.amazon.com,True
-amazonvrp,advertising.amazon.com,True
 amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
+amazonvrp,advertising.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -10767,9 +10767,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

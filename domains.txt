@@ -1480,8 +1480,8 @@ http://vdp.kahootz.com
 *abnamroprivatebanking.be
 *.tikkie.me
 *.abnamrolease.com
-*neuflizeobc.fr
 *.abnamro.org
+*neuflizeobc.fr
 *.abnamro.be
 *.new10.com
 *.abnamro.com
@@ -3662,8 +3662,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -4927,9 +4927,9 @@ www.alohi.com
 *.nrtllc.*
 *.sothebysrealty.*
 *.cbcworldwide.*
-*.coldwellbanker.*
 *.mycbdesk.com
 *.realogy.*
+*.coldwellbanker.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -7811,11 +7811,11 @@ kca.amazon.com
 merch.amazon.com
 chat.amazon.com
 dna.amazon.com
-advertising.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 paragon-na.amazon.com
+advertising.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -10766,9 +10766,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
