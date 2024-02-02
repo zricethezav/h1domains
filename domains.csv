@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -119,8 +119,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -168,8 +168,8 @@ temu,www.temu.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,indicative-pricing.taxi.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,chat.booking.com,True
+bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
@@ -6346,11 +6346,11 @@ zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
 zebra_vdp,domore.zebra.com,False
-zebra_vdp,zsbportal.zebra.com,False
 zebra_vdp,mwwprod.zebra.engineering,False
 zebra_vdp,fs.viq.zebra.com,False
 zebra_vdp,*.antuit.ai,False
 zebra_vdp,*.zebramwe.com,False
+zebra_vdp,zsbportal.zebra.com,False
 zebra_vdp,connect.zebra.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
@@ -7814,9 +7814,9 @@ amazonvrp,dna.amazon.com,True
 amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
-amazonvrp,paragon-na.amazon.com,True
 amazonvrp,advertising.amazon.com,True
 amazonvrp,av-na.amazon.com,True
+amazonvrp,paragon-na.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -10311,8 +10311,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
