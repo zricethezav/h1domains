@@ -4647,11 +4647,6 @@ windstream,https://www.windstream.com/gokinetic,False
 windstream,we.windstream.com,False
 windstream,www.windstream.com,False
 windstream,paetec.net,False
-fidelity,*.fidelity.com,False
-fidelity,*.advisorchannel.com,False
-fidelity,*.mystreetscape.com,False
-fidelity,*.streetscape.com,False
-fidelity,*.wealthscape.com,False
 fidelity,*.streetscape.com,False
 fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
@@ -6530,9 +6525,6 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.scopely.com,True
-scopely,*.withbuddies.com,True
-scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True

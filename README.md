@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 01:31:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 02:15:59 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1515,9 +1515,6 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.com
-*.withbuddies.com
-*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com

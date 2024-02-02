@@ -4646,11 +4646,6 @@ https://www.windstream.com/gokinetic
 we.windstream.com
 www.windstream.com
 paetec.net
-*.fidelity.com
-*.advisorchannel.com
-*.mystreetscape.com
-*.streetscape.com
-*.wealthscape.com
 *.streetscape.com
 *.advisorchannel.com
 *.mystreetscape.com
@@ -6529,9 +6524,6 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
-*.withbuddies.com
-*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
