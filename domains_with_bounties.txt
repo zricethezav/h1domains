@@ -858,8 +858,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1526,12 +1526,12 @@ wp-integ.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
 *.chime.com
-*.1debit.com
 *.chimebank.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
 app.chime.com
+*.1debit.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -2955,8 +2955,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -3529,9 +3529,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
-accounts.snapchat.com
 create.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
