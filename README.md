@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 19:10:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 20:10:13 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -138,9 +138,9 @@ chat.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
-flights.booking.com
 admin.booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -703,7 +703,6 @@ work.8x8.com
 *.8x8.vc
 sso.8x8.com
 connect.8x8.com
-*.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -711,6 +710,7 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 *.8x8.id
 cloud8.8x8.com
+*.jit.si
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -1675,9 +1675,9 @@ eu.cloud.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 secure.sharefile.eu
-adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+adm.cloud.com
 launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
@@ -2749,8 +2749,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

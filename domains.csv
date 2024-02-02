@@ -173,9 +173,9 @@ bookingcom,chat.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3397,7 +3397,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
-8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -3405,6 +3404,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.8x8.id,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,*.8x8staging.com,True
@@ -7261,9 +7261,9 @@ citrix,eu.cloud.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,secure.sharefile.eu,True
-citrix,adm.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
+citrix,adm.cloud.com,True
 citrix,launch.cloud.com,True
 citrix,sf-rp.sharefile.com,True
 citrix,api.sharefile.eu,True
@@ -8327,10 +8327,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.mycontactual.com,False
 8x8,*.ucverse.com,False
 8x8,*.packet8.net,False
-8x8,*.jit.si,False
 8x8,*.8x8e2e.com,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.wavecell.com,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -9425,8 +9425,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,paypalobjects.com,True
-paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10415,10 +10415,10 @@ adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
