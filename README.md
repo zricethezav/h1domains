@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 05:09:31 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 06:09:56 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -58,8 +58,8 @@ app.dynamic.xyz
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -1117,8 +1117,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1443,7 +1443,6 @@ app.taxjar.com
 *.reckoproduction.com
 *.reckostaging.com
 *.link.co
-hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
 www.urbanclap.com
 www.urbancompany.com
@@ -2462,8 +2461,8 @@ reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.priceline.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com

@@ -86,8 +86,8 @@ login.wellhive.com
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -1553,8 +1553,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.visayanelectric.com
-*.aboitizpower.com
 aboitizpower.info
+*.aboitizpower.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -4898,8 +4898,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -6146,7 +6146,6 @@ https://about.usps.com/what/government-services/election-mail/
 www.usps.com
 http://special.usps.com/testkits
 www.liteblue.usps.gov
-hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
 www.glatfelters.com
 www-264.aig.com
@@ -9085,8 +9084,8 @@ reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.priceline.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
