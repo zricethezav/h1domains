@@ -3443,8 +3443,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -5766,7 +5766,6 @@ shop.deere.com
 stellarsupport.deere.com
 machinereports.deere.com
 registration.deere.com
-rewards.deere.com
 contest.deere.com
 us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
@@ -5799,6 +5798,7 @@ vpn.kreiselelectric.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 citratest.deere.com
 ims.tcms.tal.deere.com
+marksman.surepointag.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7431,6 +7431,10 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+wiki.cs.money
+support.cs.money
+3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -9080,9 +9084,9 @@ chain.link
 reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-www.priceline.com
 admin.rezserver.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -9408,8 +9412,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com

@@ -3444,8 +3444,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -5767,7 +5767,6 @@ john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
 john-deere,machinereports.deere.com,False
 john-deere,registration.deere.com,False
-john-deere,rewards.deere.com,False
 john-deere,contest.deere.com,False
 john-deere,us-central-1.r4.abc.expertconnect.support,False
 john-deere,us-central-1.r4.xyz.expertconnect.support,False
@@ -5800,6 +5799,7 @@ john-deere,vpn.kreiselelectric.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
+john-deere,marksman.surepointag.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -7432,6 +7432,10 @@ figma,api.figma.com,True
 figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
+cs_money,wiki.cs.money,True
+cs_money,support.cs.money,True
+cs_money,3d.cs.money,True
+cs_money,cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -9081,9 +9085,9 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,admin.rezserver.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -9409,8 +9413,8 @@ paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True

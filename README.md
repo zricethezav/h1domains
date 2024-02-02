@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 04:10:14 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 05:09:31 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -750,8 +750,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -1778,6 +1778,10 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+wiki.cs.money
+support.cs.money
+3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2457,9 +2461,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-www.priceline.com
 admin.rezserver.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -2733,8 +2737,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
