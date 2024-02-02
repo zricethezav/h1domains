@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 14:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 15:12:12 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -337,8 +337,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -709,8 +709,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -1390,8 +1390,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1779,9 +1779,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-support.cs.money
 3d.cs.money
 cs.money
+support.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2167,8 +2167,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -2462,8 +2462,8 @@ reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 admin.rezserver.com
-www.priceline.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -3517,8 +3517,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

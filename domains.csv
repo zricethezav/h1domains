@@ -1726,8 +1726,8 @@ visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
-visa,www.visainfinite.ca,True
 visa,sandbox.secure.checkout.visa.com,True
+visa,www.visainfinite.ca,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -3403,8 +3403,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8.id,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,*.8x8staging.com,True
@@ -4503,8 +4503,8 @@ mars,practice.securevetsource.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
-mars,*.royalcanin.pt,False
 mars,*.myroyalcanin.gr,False
+mars,*.royalcanin.pt,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -5719,8 +5719,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
+xvideos,www.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -7433,9 +7433,9 @@ figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
-cs_money,support.cs.money,True
 cs_money,3d.cs.money,True
 cs_money,cs.money,True
+cs_money,support.cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -7915,8 +7915,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -8304,10 +8304,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
-8x8,cloud8.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,*.8x8staging.com,False
+8x8,cloud8.8x8.com,False
 8x8,www.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
@@ -9086,8 +9086,8 @@ priceline,reservations.rezserver.com,True
 priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -9992,8 +9992,8 @@ lyst,mobileapi.lystit.com,True
 formassembly,formassembly.com,False
 formassembly,www.formassembly.com,False
 formassembly,app.formassembly.com,False
-formassembly,appsecfa.tfaforms.net,False
 formassembly,typeahead.formassembly.com,False
+formassembly,appsecfa.tfaforms.net,False
 formassembly,appsecfa.tfaforms.net,False
 formassembly,app.formassembly.com,False
 formassembly,formassembly.com,False
@@ -10292,8 +10292,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -11088,8 +11088,6 @@ ozon,www.ozon.ru,False
 ozon,www.ozon.ru,False
 ozon,id.ozon.ru,False
 ozon,job.ozon.ru,False
-uphabit,api.uphabit.com,False
-uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
 nuri,www.bitwala.com,False

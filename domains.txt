@@ -1725,8 +1725,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -3402,8 +3402,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -4502,8 +4502,8 @@ practice.securevetsource.com
 *.miroyalcanin.com.ar
 *.twix.com
 *.royalcanin.nl
-*.royalcanin.pt
 *.myroyalcanin.gr
+*.royalcanin.pt
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -5718,8 +5718,8 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -7432,9 +7432,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-support.cs.money
 3d.cs.money
 cs.money
+support.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -7914,8 +7914,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -8303,10 +8303,10 @@ connect.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
-cloud8.8x8.com
 supersite.8x8.com
 user-profile.8x8.com
 *.8x8staging.com
+cloud8.8x8.com
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
@@ -9085,8 +9085,8 @@ reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 admin.rezserver.com
-www.priceline.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -9991,8 +9991,8 @@ mobileapi.lystit.com
 formassembly.com
 www.formassembly.com
 app.formassembly.com
-appsecfa.tfaforms.net
 typeahead.formassembly.com
+appsecfa.tfaforms.net
 appsecfa.tfaforms.net
 app.formassembly.com
 formassembly.com
@@ -10291,8 +10291,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -11087,8 +11087,6 @@ www.ozon.ru
 www.ozon.ru
 id.ozon.ru
 job.ozon.ru
-api.uphabit.com
-web.uphabit.com
 api.uphabit.com
 web.uphabit.com
 www.bitwala.com
