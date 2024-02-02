@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3440,8 +3440,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,admin.8x8.com,True
-superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
+superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
@@ -6147,6 +6147,7 @@ usps,https://about.usps.com/what/government-services/election-mail/,False
 usps,www.usps.com,False
 usps,http://special.usps.com/testkits,False
 usps,www.liteblue.usps.gov,False
+homebargains,hackerone-m1rtuq8orz.hbstaging.website,True
 homebargains,hackerone-m1rtuq8orz.hbstaging.website,True
 aig,www.glatfelters.com,False
 aig,www-264.aig.com,False
@@ -9338,8 +9339,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarly.com,True
 grammarly,*.grammarlyaws.com,True
+grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -10763,8 +10764,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
