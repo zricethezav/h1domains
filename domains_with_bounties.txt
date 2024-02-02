@@ -133,8 +133,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -744,8 +744,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl

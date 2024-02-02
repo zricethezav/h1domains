@@ -174,8 +174,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3444,8 +3444,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -4509,7 +4509,6 @@ mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
-mars,*.royalcanin.co.uk,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
@@ -4517,6 +4516,7 @@ mars,banfieldexchange.com,False
 mars,*.royalcanin.com,False
 mars,*.royalcanin.pl,False
 mars,*.extragum.com,False
+mars,*.royalcanin.co.uk,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
