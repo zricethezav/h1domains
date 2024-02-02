@@ -168,8 +168,8 @@ temu,www.temu.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,indicative-pricing.taxi.booking.com,True
-bookingcom,chat.booking.com,True
 bookingcom,careers.booking.com,True
+bookingcom,chat.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
@@ -3299,8 +3299,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -3663,8 +3663,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
+magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -5002,7 +5002,6 @@ costco,*.costcobusinessdelivery.com,False
 costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
-mondelez,mondelezinternational.com,False
 mondelez,mmmax.milka.de,False
 mondelez,milka.bg,False
 mondelez,potursinejnostta.milka.bg,False
@@ -5050,6 +5049,7 @@ mondelez,oreo.kz,False
 mondelez,secretsanta.cadbury.co.uk,False
 mondelez,vyhrajschuti.cz,False
 mondelez,nabiscoseasonofgiving.com,False
+mondelez,nabiscoholiday.com,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -9085,9 +9085,9 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,priceline.com,True
 priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -9648,8 +9648,8 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
+newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
 newrelic,support.newrelic.com,True
@@ -9658,8 +9658,8 @@ newrelic,alerts.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,discuss.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
-newrelic,synthetics.newrelic.com,True
 newrelic,login.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True

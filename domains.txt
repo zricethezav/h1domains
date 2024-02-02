@@ -167,8 +167,8 @@ www.temu.com
 kyc-onboarding.booking.com
 experiences.booking.com
 indicative-pricing.taxi.booking.com
-chat.booking.com
 careers.booking.com
+chat.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
@@ -3298,8 +3298,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3662,8 +3662,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -5001,7 +5001,6 @@ api.redislabs.com
 *.costcobusinesscentre.ca
 *.costcotravel.com
 *.costcotravel.ca
-mondelezinternational.com
 mmmax.milka.de
 milka.bg
 potursinejnostta.milka.bg
@@ -5049,6 +5048,7 @@ oreo.kz
 secretsanta.cadbury.co.uk
 vyhrajschuti.cz
 nabiscoseasonofgiving.com
+nabiscoholiday.com
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -9084,9 +9084,9 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.priceline.com
 www.getaroom.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -9647,8 +9647,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -9657,8 +9657,8 @@ alerts.newrelic.com
 synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 login.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com

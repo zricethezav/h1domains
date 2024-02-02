@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 16:11:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 17:13:06 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -133,8 +133,8 @@ www.temu.com
 kyc-onboarding.booking.com
 experiences.booking.com
 indicative-pricing.taxi.booking.com
-chat.booking.com
 careers.booking.com
+chat.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
@@ -687,8 +687,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2461,9 +2461,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.priceline.com
 www.getaroom.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -2971,8 +2971,8 @@ alerts.newrelic.com
 synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 login.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
