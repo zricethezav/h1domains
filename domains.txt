@@ -179,9 +179,9 @@ metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
 distribution-xml.booking.com
-accommodations.booking.com
 portal.taxi.booking.com
 *.rentalcars.com
+accommodations.booking.com
 taxi.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
@@ -3662,8 +3662,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -3721,10 +3721,10 @@ www.divvyhomes.com
 *.crowdreason.com
 *.avalara.net
 *.track1099.com
-*.davosalestax.com
 *.impendulo.com
 *.ttrus.com
 *.avalara.io
+*.davosalestax.com
 *.3ce.com
 *.inposia.com
 *.avalara.com
@@ -6475,8 +6475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -7803,7 +7803,6 @@ www.omnipod.com
 www.insulet.com
 track.amazon.com
 address-photos.amazon.com
-av-na.amazon.com
 cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
@@ -7816,6 +7815,7 @@ affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 paragon-na.amazon.com
 advertising.amazon.com
+av-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -7977,11 +7977,11 @@ www.myndr.nl
 developers.cloudways.com
 unified.cloudways.com
 cloud.digitalocean.com
-169.254.169.254
 marketplace.digitalocean.com
 api.digitalocean.com
 api.cloudways.com
 *.digitalocean.com
+169.254.169.254
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -10767,8 +10767,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 18:12:19 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 19:10:27 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -145,9 +145,9 @@ metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
 distribution-xml.booking.com
-accommodations.booking.com
 portal.taxi.booking.com
 *.rentalcars.com
+accommodations.booking.com
 taxi.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1465,8 +1465,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2056,7 +2056,6 @@ super6.skysports.com
 itv7.itv.com
 track.amazon.com
 address-photos.amazon.com
-av-na.amazon.com
 cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
@@ -2069,6 +2068,7 @@ affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 paragon-na.amazon.com
 advertising.amazon.com
+av-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -3865,8 +3865,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
