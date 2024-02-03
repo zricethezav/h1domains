@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 16:10:16 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 17:09:43 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -333,12 +333,12 @@ www.visa.com.lc
 www.visa.com.ph
 visa.com.ua
 www.visa.co.jp
-www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
+www.yellowpepper.com
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -585,11 +585,11 @@ profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 argocd.indrive.dev
 ci.indrive.dev
-watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
@@ -750,8 +750,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
