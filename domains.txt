@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iagcargo.com
-*.iaggbs.com
 *.iairgroup.com
+*.iaggbs.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -1326,7 +1326,6 @@ sa.cosstores.com
 *.starbucks.com.kz
 *.aloyoga.ae
 *.aloyoga.com.qa
-*.victoriassecret.pl
 *.victoriassecret.ae
 *.thebodyshop.pl
 *.thebodyshop.com.tr
@@ -1338,6 +1337,7 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.sa
 *.mothercare.com.kw
+*.footlocker.com.bh
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -4660,8 +4660,8 @@ www.personalcreations.com
 ai.planetart.com
 www.mycustomcase.com
 *.simplytoimpress.com
-*.mycustomcase.com
 www.photoaffections.com
+*.mycustomcase.com
 www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
@@ -7814,8 +7814,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-av-na.amazon.com
 paragon-na.amazon.com
+av-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -7922,8 +7922,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10310,8 +10310,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com

@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -1327,7 +1327,6 @@ alshaya,sa.cosstores.com,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
 alshaya,*.aloyoga.com.qa,False
-alshaya,*.victoriassecret.pl,False
 alshaya,*.victoriassecret.ae,False
 alshaya,*.thebodyshop.pl,False
 alshaya,*.thebodyshop.com.tr,False
@@ -1339,6 +1338,7 @@ alshaya,*.potterybarnkids.ae,False
 alshaya,*.potterybarn.ae,False
 alshaya,*.mothercare.com.sa,False
 alshaya,*.mothercare.com.kw,False
+alshaya,*.footlocker.com.bh,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -4661,8 +4661,8 @@ planetart,www.personalcreations.com,False
 planetart,ai.planetart.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
-planetart,*.mycustomcase.com,False
 planetart,www.photoaffections.com,False
+planetart,*.mycustomcase.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
@@ -7815,8 +7815,8 @@ amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,advertising.amazon.com,True
-amazonvrp,av-na.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
+amazonvrp,av-na.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -7923,8 +7923,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10311,8 +10311,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
