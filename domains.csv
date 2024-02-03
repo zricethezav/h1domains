@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -3528,9 +3528,9 @@ yuga_labs,*.10ktf.com,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.yugalabs.io,True
 yuga_labs,*.boredapeyachtclub.com,True
-yuga_labs,dookeydash.com,True
 yuga_labs,*.wenewmoments.com,True
 yuga_labs,hv-mtl.com,True
+yuga_labs,dookeydash.com,True
 yuga_labs,*.boredapeyachtclub.com,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.yugalabs.io,True
@@ -3855,8 +3855,8 @@ resmed,app.citushealth.ca,False
 deribit,pb.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
-deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
+deribit,tools.deribit.com,True
 deribit,*.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
@@ -4672,8 +4672,8 @@ planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
-planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6334,7 +6334,6 @@ zebra_vdp,blogs.zebra.com,False
 zebra_vdp,brand.zebra.com,False
 zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
@@ -6342,6 +6341,7 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7311,11 +7311,11 @@ tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
-tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10130,8 +10130,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True

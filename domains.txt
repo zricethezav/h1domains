@@ -1,7 +1,7 @@
 www.hangar51.com
-*.iairgroup.com
 *.iaggbs.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -3527,9 +3527,9 @@ share.doppler.com
 *.cryptopunks.app
 *.yugalabs.io
 *.boredapeyachtclub.com
-dookeydash.com
 *.wenewmoments.com
 hv-mtl.com
+dookeydash.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -3854,8 +3854,8 @@ app.citushealth.ca
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-tools.deribit.com
 metrics.deribit.com
+tools.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -4671,8 +4671,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
-*.canvasworld.com
 *.cafepress.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6333,7 +6333,6 @@ blogs.zebra.com
 brand.zebra.com
 creative.zebra.com
 greece.zebra.com
-supportcommunity.zebra.com
 zsbsupport.zebra.com
 *.zams-eu.zebra.com
 *.zebrasports.com
@@ -6341,6 +6340,7 @@ zsbsupport.zebra.com
 reflexisinc.com/
 *.profitect.com
 cmm01.sl.zebra.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7310,11 +7310,11 @@ tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -10129,8 +10129,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
