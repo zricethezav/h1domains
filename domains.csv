@@ -3392,11 +3392,11 @@ kkr_vdp,advisortimetracker.kkr.com,False
 kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -7314,8 +7314,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7652,9 +7652,9 @@ playstation,wallets.api.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True
@@ -7815,8 +7815,8 @@ amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,advertising.amazon.com,True
-amazonvrp,paragon-na.amazon.com,True
 amazonvrp,av-na.amazon.com,True
+amazonvrp,paragon-na.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -8311,7 +8311,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,www.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
-8x8,*.jitsi.net,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
 8x8,8x8.force.com,False
@@ -8322,6 +8321,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,*.8x8.id,False
 8x8,www.fuzemeeting.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10311,8 +10311,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True

@@ -3391,11 +3391,11 @@ advisortimetracker.kkr.com
 kkrpec.com
 kinfra.com
 ksam.com
-*.jitsi.net
 work.8x8.com
 *.8x8.vc
 sso.8x8.com
 connect.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -7313,8 +7313,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7651,9 +7651,9 @@ wallets.api.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -7814,8 +7814,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-paragon-na.amazon.com
 av-na.amazon.com
+paragon-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -8310,7 +8310,6 @@ cloud8.8x8.com
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
-*.jitsi.net
 *.8x8.uk
 *.adgjmp.net
 8x8.force.com
@@ -8321,6 +8320,7 @@ pay.8x8.com
 sso.8x8.com
 *.8x8.id
 www.fuzemeeting.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -10310,8 +10310,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
