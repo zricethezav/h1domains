@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -3663,8 +3663,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -6239,12 +6239,12 @@ cedars-sinai,*Huntingtonhealtheconnect.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
 cedars-sinai,*sgveconnect.com,False
 cedars-sinai,*apps.huntingtonhospital.com/,False
-cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*cedars-sinai.edu,False
 cedars-sinai,*Hmhdr.net,False
 cedars-sinai,*Hmhdr.org,False
 cedars-sinai,*Huntingtonhealthnetwork.org,False
 cedars-sinai,*legacy.huntingtonhospital.org,False
+cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*www.cshs.org,False
 cedars-sinai,*csmc.edu,False
@@ -7815,8 +7815,8 @@ amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,advertising.amazon.com,True
-amazonvrp,av-na.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
+amazonvrp,av-na.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -8072,8 +8072,8 @@ marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
@@ -9648,8 +9648,8 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.nr-data.net,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
 newrelic,support.newrelic.com,True
@@ -10311,8 +10311,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10768,8 +10768,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
