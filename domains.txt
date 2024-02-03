@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 admin.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -4669,9 +4669,9 @@ www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
 www.gifts.com
-*.canvasworld.com
 *.iseeme.com
 *.personalcreations.com
+*.canvasworld.com
 *.cafepress.com
 *.cafepress.com
 *.canvasworld.com
@@ -9201,8 +9201,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
