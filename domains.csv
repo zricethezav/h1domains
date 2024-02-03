@@ -172,10 +172,10 @@ bookingcom,chat.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3395,8 +3395,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -8067,8 +8067,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -9085,9 +9085,9 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
@@ -9870,8 +9870,8 @@ bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,www.bumble.com,True
 bumble,badoo.com,True
+bumble,www.bumble.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -10185,8 +10185,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

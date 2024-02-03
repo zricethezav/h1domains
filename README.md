@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 09:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 10:08:57 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -137,10 +137,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-booking.com
 admin.booking.com
 flights.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -701,8 +701,8 @@ jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2251,8 +2251,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2461,9 +2461,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.priceline.com
 www.getaroom.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -3151,8 +3151,8 @@ eu1.badoo.com
 bma.badoo.com
 badoocdn.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3412,8 +3412,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
