@@ -4926,10 +4926,10 @@ www.alohi.com
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
-*.cbcworldwide.*
 *.mycbdesk.com
 *.realogy.*
 *.coldwellbanker.*
+*.cbcworldwide.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
