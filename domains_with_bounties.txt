@@ -104,8 +104,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br

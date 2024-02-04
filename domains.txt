@@ -1,5 +1,5 @@
-www.hangar51.com
 *.iaggbs.com
+www.hangar51.com
 *.iairgroup.com
 *.iagcargo.com
 www.avios.com
@@ -144,8 +144,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-iseeme.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com

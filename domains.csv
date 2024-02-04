@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
@@ -145,8 +145,8 @@ mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -4664,8 +4664,8 @@ planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
-planetart,iseeme.com,False
 planetart,www.cafepress.com,False
+planetart,iseeme.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
