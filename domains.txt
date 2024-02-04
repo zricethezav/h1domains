@@ -171,10 +171,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-admin.booking.com
 flights.booking.com
 booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -4512,10 +4512,10 @@ practice.securevetsource.com
 *.royalcanin-vouchers.com
 *.banfieldassets.com
 banfieldexchange.com
-*.royalcanin.com
 *.royalcanin.pl
 *.extragum.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-iseeme.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -7685,8 +7685,8 @@ staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
+faucet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology

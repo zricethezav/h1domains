@@ -131,10 +131,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-admin.booking.com
 flights.booking.com
 booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1960,8 +1960,8 @@ staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
+faucet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology

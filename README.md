@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 23:08:57 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 00:21:15 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -137,10 +137,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-admin.booking.com
 flights.booking.com
 booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1966,8 +1966,8 @@ staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
+faucet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
