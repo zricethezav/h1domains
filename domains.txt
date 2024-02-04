@@ -143,8 +143,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -1314,8 +1314,8 @@ bathandbodyworks.ro/
 bathandbodyworks.ro
 *.americaneagle.com.kw
 *.footlocker.com.eg
-*.starbuckscardtr.com
 kw.boots.com
+*.starbuckscardtr.com
 sa.hm.com
 *.aloyoga.com.kw
 *.westelm.com.kw
@@ -3166,7 +3166,6 @@ abb.com.br
 *.abb
 *.busch-jaeger.nl
 *.ability.abb
-*.busch-jaeger.de
 *.cirrus.abb.com
 *.stratus.abb.com
 *.motion.abb.com
@@ -3175,6 +3174,7 @@ abb.com.br
 *.abb.pl
 *.abb.net
 *.ch.abb.com
+*.busch-jaeger.de
 *.abb.com
 *.abb
 *.tnb.com
@@ -6475,8 +6475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -7208,9 +7208,9 @@ code.yoti.com
 www.yotisign.com
 frankd.yoti.com
 app.netlify.com
-api.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
+api.netlify.com
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
@@ -7808,7 +7808,6 @@ dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
 merch.amazon.com
-chat.amazon.com
 dna.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
@@ -7816,6 +7815,7 @@ imdbtv-backend-na.amazon.com
 advertising.amazon.com
 paragon-na.amazon.com
 av-na.amazon.com
+chat.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -10289,10 +10289,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -144,8 +144,8 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -1315,8 +1315,8 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.footlocker.com.eg,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,sa.hm.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.westelm.com.kw,False
@@ -3167,7 +3167,6 @@ abb,*.abb.in,False
 abb,*.abb,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
-abb,*.busch-jaeger.de,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.motion.abb.com,False
@@ -3176,6 +3175,7 @@ abb,*.abb.ca,False
 abb,*.abb.pl,False
 abb,*.abb.net,False
 abb,*.ch.abb.com,False
+abb,*.busch-jaeger.de,False
 abb,*.abb.com,False
 abb,*.abb,False
 abb,*.tnb.com,False
@@ -6476,8 +6476,8 @@ reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
@@ -7209,9 +7209,9 @@ yoti,code.yoti.com,True
 yoti,www.yotisign.com,True
 yoti,frankd.yoti.com,True
 netlify,app.netlify.com,True
-netlify,api.netlify.com,True
 netlify,internal.netlify.com,True
 netlify,netlify-rum.netlify.app,True
+netlify,api.netlify.com,True
 netlify,*.services.netlify.com,True
 netlify,netlify-cdp-loader.netlify.app,True
 netlify,supportal.netlify.app,True
@@ -7809,7 +7809,6 @@ amazonvrp,dcape-na.amazon.com,True
 amazonvrp,mag-na.amazon.com,True
 amazonvrp,kca.amazon.com,True
 amazonvrp,merch.amazon.com,True
-amazonvrp,chat.amazon.com,True
 amazonvrp,dna.amazon.com,True
 amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
@@ -7817,6 +7816,7 @@ amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,advertising.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
 amazonvrp,av-na.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -10290,10 +10290,10 @@ shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

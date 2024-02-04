@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 20:10:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 21:10:14 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -109,8 +109,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -1465,8 +1465,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1624,9 +1624,9 @@ code.yoti.com
 www.yotisign.com
 frankd.yoti.com
 app.netlify.com
-api.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
+api.netlify.com
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
@@ -2061,7 +2061,6 @@ dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
 merch.amazon.com
-chat.amazon.com
 dna.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
@@ -2069,6 +2068,7 @@ imdbtv-backend-na.amazon.com
 advertising.amazon.com
 paragon-na.amazon.com
 av-na.amazon.com
+chat.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -3515,10 +3515,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
