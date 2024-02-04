@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -4514,9 +4514,9 @@ mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
 mars,*.royalcanin.pl,False
-mars,*.extragum.com,False
 mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.com,False
+mars,*.extragum.com,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -4664,8 +4664,8 @@ planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
-planetart,www.cafepress.com,False
 planetart,iseeme.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
@@ -7317,8 +7317,8 @@ tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True

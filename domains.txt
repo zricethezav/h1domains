@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -4513,9 +4513,9 @@ practice.securevetsource.com
 *.banfieldassets.com
 banfieldexchange.com
 *.royalcanin.pl
-*.extragum.com
 *.royalcanin.co.uk
 *.royalcanin.com
+*.extragum.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-www.cafepress.com
 iseeme.com
+www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -7316,8 +7316,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
