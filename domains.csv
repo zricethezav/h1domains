@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -46,8 +46,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.pornbox.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornbox.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -192,8 +192,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3497,8 +3497,8 @@ us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.FSGB.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
