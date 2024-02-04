@@ -3662,8 +3662,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-www.cafepress.com
 iseeme.com
+www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com

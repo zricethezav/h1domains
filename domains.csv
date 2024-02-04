@@ -3663,8 +3663,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
+magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -4664,8 +4664,8 @@ planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
-planetart,www.cafepress.com,False
 planetart,iseeme.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
