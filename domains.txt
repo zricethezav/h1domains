@@ -45,8 +45,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3273,8 +3273,8 @@ api.svb.com
 https://openbanking.svb.com/open-banking/v3.1/
 developer.svb.com
 www.cipherbio.com
-online.s-pankki.fi
 api.sokos.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 cfapi.voikukka.fi
@@ -3298,8 +3298,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4488,7 +4488,6 @@ fossil.fnfsale.in
 *.mountsinaidoctors.org
 *.snch.org
 *.southnassau.org
-*.banfield.com
 *.individualis.com
 *.myroyalcanin.ro
 *.royalcanin.be
@@ -4504,6 +4503,7 @@ practice.securevetsource.com
 *.royalcanin.nl
 *.royalcanin.pt
 *.myroyalcanin.gr
+*.banfield.com
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-iseeme.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -7316,8 +7316,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
