@@ -145,8 +145,8 @@ mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.br,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.mx,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1314,12 +1314,12 @@ alshaya,bathandbodyworks.ro/,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
-alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.westelm.com.kw,False
+alshaya,*.footlocker.com.eg,False
+alshaya,*.aloyoga.com.kw,False
 alshaya,kw.boots.com,False
 alshaya,sa.hm.com,False
-alshaya,*.aloyoga.com.kw,False
-alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -3157,7 +3157,6 @@ abb,*.baldor.com,False
 abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
-abb,*.de.abb.com,False
 abb,*.abb-drives.com,False
 abb,*.pdc.abb.com,False
 abb,*.motors.abb.com,False
@@ -3167,6 +3166,7 @@ abb,*.abb.in,False
 abb,*.abb,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
+abb,*.de.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.motion.abb.com,False
@@ -3403,8 +3403,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,*.8x8.id,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.jit.si,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,*.8x8staging.com,True
@@ -6460,8 +6460,8 @@ lumiradx,https://av.lumiradx.com/era/webconsole/,False
 lumiradx,https://connect.lumiradx.com/factory,False
 lumiradx,www.lumiradx.com,False
 lumiradx,investors.lumiradx.com,False
-drugs_com,www.drugs.com,False
 drugs_com,blog.drugs.com,False
+drugs_com,www.drugs.com,False
 drugs_com,www.medicine.com,False
 drugs_com,www.question.com,False
 drugs_com,newsletters.drugs.com,False
@@ -7927,8 +7927,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -8318,8 +8318,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,supersite.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,*.8x8staging.com,False
-8x8,cloud8.8x8.com,False
 8x8,*.thinkingphones.net,False
+8x8,cloud8.8x8.com,False
 8x8,www.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
@@ -10303,8 +10303,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10322,9 +10322,9 @@ snapchat,story.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True

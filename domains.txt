@@ -144,8 +144,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadopago.com.mx
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1313,12 +1313,12 @@ bathandbodyworks.ro/
 *.americaneagle.com.bh
 bathandbodyworks.ro
 *.americaneagle.com.kw
-*.footlocker.com.eg
 *.starbuckscardtr.com
+*.westelm.com.kw
+*.footlocker.com.eg
+*.aloyoga.com.kw
 kw.boots.com
 sa.hm.com
-*.aloyoga.com.kw
-*.westelm.com.kw
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -3156,7 +3156,6 @@ abb.com.br
 *.abb.com
 *.fi.abb.com
 *.cn.abb.com
-*.de.abb.com
 *.abb-drives.com
 *.pdc.abb.com
 *.motors.abb.com
@@ -3166,6 +3165,7 @@ abb.com.br
 *.abb
 *.busch-jaeger.nl
 *.ability.abb
+*.de.abb.com
 *.cirrus.abb.com
 *.stratus.abb.com
 *.motion.abb.com
@@ -3402,8 +3402,8 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
 *.8x8.id
-cloud8.8x8.com
 *.jit.si
+cloud8.8x8.com
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -6459,8 +6459,8 @@ https://av.lumiradx.com/era/webconsole/
 https://connect.lumiradx.com/factory
 www.lumiradx.com
 investors.lumiradx.com
-www.drugs.com
 blog.drugs.com
+www.drugs.com
 www.medicine.com
 www.question.com
 newsletters.drugs.com
@@ -7926,8 +7926,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -8317,8 +8317,8 @@ sms.8x8.com
 supersite.8x8.com
 user-profile.8x8.com
 *.8x8staging.com
-cloud8.8x8.com
 *.thinkingphones.net
+cloud8.8x8.com
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
@@ -10302,8 +10302,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10321,9 +10321,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
