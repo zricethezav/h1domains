@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2851,8 +2851,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
-mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -6336,12 +6336,12 @@ zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
-zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7329,8 +7329,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9536,8 +9536,8 @@ goldmansachs,*.ayco.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
@@ -9882,8 +9882,8 @@ bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,badoo.com,True
 bumble,www.bumble.com,True
+bumble,badoo.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -10179,8 +10179,8 @@ gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,*.gitlab.org,True
 gitlab,gitlab.com,True
+gitlab,*.gitlab.org,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10754,8 +10754,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
