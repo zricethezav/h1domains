@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 20:12:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 21:11:06 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -345,10 +345,10 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
-www.practicalmoneyskills.com
 sandbox.secure.checkout.visa.com
-www.visainfinite.ca
 www.yellowpepper.com
+www.visainfinite.ca
+www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
