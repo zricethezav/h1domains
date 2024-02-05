@@ -173,9 +173,9 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3074,8 +3074,8 @@ indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,volans.tech,True
 indrive,wga.volans.tech,True
@@ -4758,8 +4758,8 @@ ro,http://ro.co/spermkit,False
 kayak,www.mundi.com.br,True
 kayak,www.momondo.com,True
 kayak,www.hotelscombined.com,True
-kayak,www.checkfelix.com,True
 kayak,business.kayak.com,True
+kayak,www.checkfelix.com,True
 kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
@@ -4851,10 +4851,10 @@ etoro_bbp,kyc.etoro.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,partners.etoro.com,True
-etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
+etoro_bbp,candle.etoro.com,True
 etoro_bbp,billing-pci.etoro.com,True
 etoro_bbp,candle-src.etoro.com,True
 etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
