@@ -174,8 +174,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1315,8 +1315,8 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.footlocker.com.eg,False
-alshaya,kw.boots.com,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,kw.boots.com,False
 alshaya,sa.hm.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.westelm.com.kw,False
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
+reddit,*.snooguts.net,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -6496,10 +6496,10 @@ reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -9536,8 +9536,8 @@ goldmansachs,*.ayco.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.unitedcp.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.unitedcp.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
@@ -10303,8 +10303,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
