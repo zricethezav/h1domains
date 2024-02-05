@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 11:10:49 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 12:11:46 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -110,8 +110,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadopago.com.mx
 api.mercadolibre.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -2727,8 +2727,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3394,8 +3394,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com

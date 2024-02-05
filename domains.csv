@@ -145,8 +145,8 @@ mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.br,True
-mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -174,8 +174,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1338,7 +1338,7 @@ alshaya,*.potterybarnkids.ae,False
 alshaya,*.potterybarn.ae,False
 alshaya,*.mothercare.com.sa,False
 alshaya,*.mothercare.com.kw,False
-alshaya,*.footlocker.com.bh,False
+alshaya,*.footlocker.ae,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -3165,8 +3165,8 @@ abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
 abb,*.busch-jaeger.nl,False
-abb,*.ability.abb,False
 abb,*.de.abb.com,False
+abb,*.ability.abb,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.motion.abb.com,False
@@ -9415,8 +9415,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
-paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10179,8 +10179,8 @@ gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.org,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
