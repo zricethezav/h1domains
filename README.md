@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 22:09:53 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 23:10:02 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 auth.23andme.com
+blog.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -346,8 +346,8 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
-www.yellowpepper.com
 www.visainfinite.ca
+www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
@@ -961,8 +961,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1127,8 +1127,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1475,8 +1475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1735,13 +1735,13 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2475,8 +2475,8 @@ www.getaroom.com
 priceline.com
 www.priceline.com
 api.rezserver.com
-flyiin.com
 secure.rezserver.com
+flyiin.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -3367,8 +3367,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3526,9 +3526,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3892,10 +3892,10 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone.live
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
