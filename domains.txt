@@ -83,9 +83,9 @@ wellhivecorporate.okta.com
 analytics.wellhive.com
 app.wellhive.com
 login.wellhive.com
-payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
+payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1314,8 +1314,8 @@ bathandbodyworks.ro/
 bathandbodyworks.ro
 *.americaneagle.com.kw
 *.footlocker.com.eg
-*.starbuckscardtr.com
 kw.boots.com
+*.starbuckscardtr.com
 sa.hm.com
 *.aloyoga.com.kw
 *.westelm.com.kw
@@ -4660,8 +4660,8 @@ www.personalcreations.com
 ai.planetart.com
 www.mycustomcase.com
 *.simplytoimpress.com
-www.photoaffections.com
 *.mycustomcase.com
+www.photoaffections.com
 iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
@@ -7328,8 +7328,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7934,8 +7934,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10302,9 +10302,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
