@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 05:09:56 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 06:11:37 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -922,8 +922,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1730,8 +1730,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3394,8 +3394,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3516,8 +3516,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
