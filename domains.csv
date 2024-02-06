@@ -34,9 +34,9 @@ tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -166,8 +166,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
+mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
@@ -1720,8 +1720,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -4482,8 +4482,8 @@ mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.vcahospitals.com,False
-mars,*.mms.com,False
 mars,*.royalcanin.ca,False
+mars,*.mms.com,False
 mars,spsah2.securevetsource.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
@@ -9364,8 +9364,8 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
@@ -10252,9 +10252,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10378,8 +10378,8 @@ adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,app.frame.io,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10633,8 +10633,8 @@ automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,mailpoet.com,True
-automattic,*.tumblr.com,True
 automattic,www.tumblr.com,True
+automattic,*.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True

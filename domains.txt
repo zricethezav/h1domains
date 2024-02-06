@@ -33,9 +33,9 @@ www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
 *.iaggbs.com
-www.hangar51.com
 *.iagcargo.com
 *.iairgroup.com
+www.hangar51.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -165,8 +165,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -1719,8 +1719,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
-testapp.redoxengine.com
 eets.gamma.redoxstage.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -4481,8 +4481,8 @@ banfieldexchange.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
 *.vcahospitals.com
-*.mms.com
 *.royalcanin.ca
+*.mms.com
 spsah2.securevetsource.com
 *.marschocolate.com
 *.dovechocolate.com
@@ -9363,8 +9363,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10251,9 +10251,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10377,8 +10377,8 @@ community.adobe.com
 accounts.frame.io
 *.adobe.com
 auth.services.adobe.com
-nicetryapril.na1.echosignsandbox.com
 app.frame.io
+nicetryapril.na1.echosignsandbox.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -10632,8 +10632,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-*.tumblr.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
