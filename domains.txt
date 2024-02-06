@@ -98,8 +98,8 @@ login.wellhive.com
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -3451,8 +3451,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.com
@@ -7373,12 +7373,12 @@ www.logitechstore.com.br
 *.myharmony.com
 *.logitech.com
 circle.logi.com
-www.ultimateears.com
 logilife.logitech.com
 *.uesmartradio.com
 jira.logitech.com
 *.streamlabscharity.com
 logitechgchallenge.com
+www.ultimateears.com
 sync.logitech.com
 *.melonapp.com
 *.lucra.live
@@ -10230,8 +10230,8 @@ smarttrader.deriv.com
 secure-dfadmin.deriv.com
 *.deriv.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -10328,9 +10328,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
