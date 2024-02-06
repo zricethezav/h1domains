@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 02:15:47 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 03:10:15 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
+auth.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -601,10 +601,10 @@ debug.clairvoyance.indrive.tech
 watchdocs.indriverapp.com
 *.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-volans.tech
 wga.volans.tech
 super-services.indriverapp.com
 injob.indriver.com
+volans.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2971,10 +2971,10 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com

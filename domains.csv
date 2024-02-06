@@ -127,8 +127,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -3089,10 +3089,10 @@ indrive,debug.clairvoyance.indrive.tech,True
 indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
-indrive,volans.tech,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
 indrive,injob.indriver.com,True
+indrive,volans.tech,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -6353,8 +6353,8 @@ zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
@@ -7344,8 +7344,8 @@ tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9671,10 +9671,10 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
