@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 23:10:02 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 00:20:05 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
+auth.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -106,13 +106,13 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadolibre.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -369,8 +369,8 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 www.cardinalcommerce.com
-usa.visa.com
 aw.visa.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -826,8 +826,8 @@ www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
 www.expediaagents.com
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.ebookers.com
 www.flights.com
 www.vrbo.com
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3254,8 +3254,8 @@ circolocorecords.com/
 support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
-lifeinvader.com
 socialclub.rockstargames.com
+lifeinvader.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
