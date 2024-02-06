@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 16:13:14 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 17:14:49 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
 rfc.tari.com
-www.tarilabs.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -111,8 +111,8 @@ www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -148,9 +148,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -710,9 +710,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
-sso.8x8.com
 *.jitsi.net
 connect.8x8.com
+sso.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1472,11 +1472,11 @@ meta-api.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2075,10 +2075,10 @@ dna.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
-advertising.amazon.com
 paragon-na.amazon.com
 av-na.amazon.com
 chat.amazon.com
+advertising.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2089,9 +2089,9 @@ mas-sdk.amazon.com
 pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 dv-manifest-service-na-prod.amazon.com
-na.account.amazon.com
 updates.amazon.com
 read.amazon.com
+na.account.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
@@ -2177,8 +2177,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -3366,8 +3366,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3524,9 +3524,9 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3560,9 +3560,9 @@ rt.playcanvas.com
 map.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3873,9 +3873,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
