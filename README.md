@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 18:12:58 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 19:11:07 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1620,8 +1620,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1728,8 +1728,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -3644,8 +3644,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
@@ -3733,8 +3733,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

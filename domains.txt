@@ -32,12 +32,12 @@ textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
-*.iagcargo.com
 www.hangar51.com
 *.iaggbs.com
 *.iairgroup.com
-www.avios.com
+*.iagcargo.com
 www.iairgroup.com
+www.avios.com
 www.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -7165,8 +7165,8 @@ notification.billing.appservices.mendix.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -7275,8 +7275,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -10490,8 +10490,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
@@ -10583,8 +10583,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai
