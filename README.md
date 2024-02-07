@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 10:11:16 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 11:10:55 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2262,8 +2262,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
@@ -3546,8 +3546,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
