@@ -1786,7 +1786,6 @@ visa,aw.visa.com,True
 visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
-visa,www.visa.co.id,True
 visa,www.visa.co.th,True
 visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
@@ -1794,6 +1793,7 @@ visa,visa.co.za,True
 visa,www.cybersource.com,True
 visa,www.authorize.net,True
 visa,www.visa.co.ke,True
+visa,www.visa.co.id,True
 visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
@@ -3658,8 +3658,8 @@ teleport,*.teleport.dev,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,False
-teleport,platform.teleport.sh,True
 teleport,*.goteleport.com,True
+teleport,platform.teleport.sh,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -4620,8 +4620,8 @@ planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
-planetart,www.cafepress.com,False
 planetart,iseeme.com,False
+planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
@@ -4854,9 +4854,9 @@ etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
-instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
 instacart,www.instacart.com,True
+instacart,*.instacart.tools,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -5364,6 +5364,8 @@ tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,tvawcma.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
+tennessee-valley-authority,http://tva.dynamics365portals.us,False
+tennessee-valley-authority,http://tvasd.dynamics365portals.us,False
 krisp,analytics.krisp.ai,True
 krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
@@ -10247,8 +10249,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,*.shopifycloud.com,True
 shopify,shop.app,True
+shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10273,8 +10275,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10583,8 +10585,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
@@ -10730,8 +10732,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
