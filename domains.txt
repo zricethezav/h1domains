@@ -1685,8 +1685,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -1864,8 +1864,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -8162,8 +8162,8 @@ zurich.topcoder.com
 challenges.topcoder.com
 vanilla.topcoder-dev.com
 www.topcoder.com
-tco18.topcoder.com
 accounts-auth0.topcoder.com
+tco18.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
@@ -10742,14 +10742,14 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
-hackerone.live
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 errors.hackerone.net
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
