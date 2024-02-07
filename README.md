@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 11:10:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 12:11:55 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -92,8 +92,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 auth.23andme.com
-blog.23andme.com
 you.23andme.com
+blog.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1475,8 +1475,8 @@ sh.reddit.com
 s.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
-gateway.reddit.com
 *.reddit.com
+gateway.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1484,9 +1484,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3875,8 +3875,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
