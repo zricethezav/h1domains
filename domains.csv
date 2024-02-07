@@ -3092,8 +3092,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -4616,9 +4616,9 @@ fidelity,*.fidelity.com,False
 planetart,ai.planetart.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.personalcreations.com,False
-planetart,*.mycustomcase.com,False
 planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
+planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
@@ -10567,10 +10567,10 @@ informatica,*.informaticacloud.com,False
 greenhouse,onboarding.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
-greenhouse,app.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,interseller.io,True
 greenhouse,boards.greenhouse.io,True
+greenhouse,app.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
