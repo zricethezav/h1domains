@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 02:15:06 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 03:11:31 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -111,8 +111,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -1544,10 +1544,10 @@ wp-qa.chime.com
 *.chime.com
 *.chimebank.com
 *.chmfin.com
-wp-dev2.chime.com
 wp-dev5.chime.com
 app.chime.com
 *.1debit.com
+wp-dev2.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
