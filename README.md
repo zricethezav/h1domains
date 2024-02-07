@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 23:11:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 00:19:29 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
-rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
+rfc.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -111,8 +111,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -3078,9 +3078,9 @@ api.lahitapiola.fi
 privatetarget-1-www.zigzag
 www.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
