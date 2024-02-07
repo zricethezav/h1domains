@@ -165,9 +165,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
-mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
@@ -1582,7 +1582,6 @@ aboitizpower_corporation,aesi.com.ph,False
 aboitizpower_corporation,bettersolutions.com.ph,False
 aboitizpower_corporation,cleanergy.ph,False
 aboitizpower_corporation,veco.com.ph,False
-aboitizpower_corporation,*.oilbu.com,False
 aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
@@ -1590,6 +1589,7 @@ aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.davaolight.com,False
+aboitizpower_corporation,*.oilbu.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
@@ -3164,8 +3164,8 @@ miro,http://miro.com/app,True
 miro,miro.com,True
 miro,api.miro.com,True
 miro,http://miro.com/blog,True
-abb,*.abb.com.cn,False
 abb,*.cylon.com,False
+abb,*.abb.com.cn,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
 abb,*.baldor.com,False
@@ -7471,6 +7471,7 @@ watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
 watson_group,www.pns.hk,True
 watson_group,app.watsons.com.tr,True
+watson_group,api.watsons.com.tw,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -9048,8 +9049,8 @@ priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10729,8 +10730,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

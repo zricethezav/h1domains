@@ -164,9 +164,9 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -1581,7 +1581,6 @@ aesi.com.ph
 bettersolutions.com.ph
 cleanergy.ph
 veco.com.ph
-*.oilbu.com
 adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
@@ -1589,6 +1588,7 @@ snaboitizpower.com
 aboitizpower.info
 *.aboitizpower.com
 *.davaolight.com
+*.oilbu.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -3163,8 +3163,8 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-*.abb.com.cn
 *.cylon.com
+*.abb.com.cn
 *.tnb.com
 *.abb.com.tr
 *.baldor.com
@@ -7470,6 +7470,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
 app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -9047,8 +9048,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 priceline.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10728,8 +10729,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
