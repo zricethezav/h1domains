@@ -179,8 +179,8 @@ mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -4878,8 +4878,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
@@ -6298,8 +6298,8 @@ zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6452,12 +6452,12 @@ reddit,*.redditblog.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
-reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,mod.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7674,9 +7674,9 @@ polygon-technology,faucet.polygon.technology,True
 polygon-technology,portal.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
-xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
+xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -7952,8 +7952,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -9049,9 +9049,9 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,www.getaroom.com,True
-priceline,priceline.com,True
 priceline,www.priceline.com,True
+priceline,priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10731,8 +10731,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

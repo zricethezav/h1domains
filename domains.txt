@@ -178,8 +178,8 @@ api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -4877,8 +4877,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.century21.*
 *.era.com
+*.century21.*
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
@@ -6297,8 +6297,8 @@ cmm01.sl.zebra.com
 *.zebrasports.com
 supportcommunity.zebra.com
 *.zams.zebra.com
-*.profitect.com
 reflexisinc.com/
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6451,12 +6451,12 @@ gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
-mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7673,9 +7673,9 @@ faucet.polygon.technology
 portal.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.xiaomiyoupin.com
 *.miwifi.com
 *.mi.com
+*.xiaomiyoupin.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -7951,8 +7951,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-api.digitalocean.com
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -9048,9 +9048,9 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
-priceline.com
 www.priceline.com
+priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10730,8 +10730,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

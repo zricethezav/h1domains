@@ -114,8 +114,8 @@ api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1474,12 +1474,12 @@ gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
-mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1987,9 +1987,9 @@ faucet.polygon.technology
 portal.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.xiaomiyoupin.com
 *.miwifi.com
 *.mi.com
+*.xiaomiyoupin.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2465,9 +2465,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
-priceline.com
 www.priceline.com
+priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3868,8 +3868,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
