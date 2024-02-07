@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 16:19:01 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 17:12:59 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -91,9 +91,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
 blog.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1225,7 +1225,6 @@ fortnite.com
 *.easy.ac
 *.psyonix.com
 *.3lateral.com
-*.dropmix.com
 *.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg
@@ -1485,8 +1484,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1740,8 +1739,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,10 +2183,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3734,8 +3733,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3849,8 +3848,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

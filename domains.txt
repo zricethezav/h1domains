@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 *.iagcargo.com
 www.hangar51.com
-*.iairgroup.com
 *.iaggbs.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -149,9 +149,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
 blog.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2943,8 +2943,8 @@ wgwebservices.snapfish.com
 *.sbs.shutterfly.com
 snapfish.com
 admin.spoonflower.com
-shutterfly.com
 *.snapfish.com
+shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -5473,7 +5473,6 @@ fortnite.com
 *.psyonix.com
 *.3lateral.com
 forum.sketchfab.com
-*.dropmix.com
 *.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg
@@ -6456,8 +6455,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7287,8 +7286,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7892,10 +7891,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10584,8 +10583,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 xadsacademy.com
 grok.x.ai
@@ -10705,8 +10704,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
