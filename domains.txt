@@ -7,8 +7,8 @@ your-domain.snapshotreport.biz
 your-domain.pdqs.mobi
 task-manager.biz
 *.vendasta.com
-*.apigateway.co
 your-domain.smblogin.com
+*.apigateway.co
 *.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -164,9 +164,9 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadopago.com.uy
+www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -3441,7 +3441,6 @@ share.doppler.com
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
 *.FAN.GOV
-*.AMERICA.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV
@@ -3450,6 +3449,7 @@ share.doppler.com
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
 *.USMISSION.GOV
+*.AMERICA.GOV
 *.PEPFAR.GOV
 *.USEMBASSY.GOV
 *.FSGB.GOV
@@ -3820,8 +3820,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 anfcorp.com
-hollisterco.com
 corporate.abercrombie.com
+hollisterco.com
 abercrombie.com
 abercrombie.com
 hollisterco.com
@@ -3893,8 +3893,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-a4k.amazon.com
 blueprints.amazon.com
+a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 alexa.amazon.com
@@ -4456,10 +4456,10 @@ practice.securevetsource.com
 *.miroyalcanin.com.ar
 *.twix.com
 *.royalcanin.nl
-*.myroyalcanin.gr
 *.royalcanin.be
 *.royalcanin.pt
 *.banfield.com
+*.myroyalcanin.gr
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -6156,8 +6156,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *mycslink.org
@@ -7951,8 +7951,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -10273,8 +10273,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -10494,9 +10494,9 @@ one.airbnb.com
 next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 api.airbnb.com
 assets.airbnb.com

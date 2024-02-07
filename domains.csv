@@ -8,8 +8,8 @@ vendasta,*.vendasta-internal.com,False
 vendasta,your-domain.pdqs.mobi,False
 vendasta,task-manager.biz,False
 vendasta,*.vendasta.com,False
-vendasta,*.apigateway.co,False
 vendasta,your-domain.smblogin.com,False
+vendasta,*.apigateway.co,False
 vendasta,*.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
@@ -165,9 +165,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
-mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.uy,True
+mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
@@ -3442,7 +3442,6 @@ us-department-of-state,*.IBWC.GOV,False
 us-department-of-state,*.SUPPORTFAN.GOV,False
 us-department-of-state,*.USDOSCLOUD.GOV,False
 us-department-of-state,*.FAN.GOV,False
-us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.OSAC.GOV,False
@@ -3451,6 +3450,7 @@ us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.USMISSION.GOV,False
+us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.FSGB.GOV,False
@@ -3821,8 +3821,8 @@ deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
 abercrombie_fitch,anfcorp.com,False
-abercrombie_fitch,hollisterco.com,False
 abercrombie_fitch,corporate.abercrombie.com,False
+abercrombie_fitch,hollisterco.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,hollisterco.com,False
@@ -3894,8 +3894,8 @@ poloniex,api.poloniex.com,True
 poloniex,m.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
-amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,blueprints.amazon.com,True
+amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
 amazonvrp-devices,alexa.amazon.com,True
@@ -4457,10 +4457,10 @@ mars,practice.securevetsource.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
-mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
+mars,*.myroyalcanin.gr,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -6157,8 +6157,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*mycslink.org,False
@@ -7952,8 +7952,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,169.254.169.254,False
-digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -10274,8 +10274,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10495,9 +10495,9 @@ airbnb,*.withairbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
