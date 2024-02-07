@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 09:11:35 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 10:11:16 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -766,8 +766,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -3875,8 +3875,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

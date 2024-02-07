@@ -207,8 +207,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3405,8 +3405,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -4619,11 +4619,11 @@ www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
 www.simplytoimpress.com
-www.cafepress.com
 iseeme.com
+www.cafepress.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
@@ -4877,8 +4877,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.century21.*
 *.era.com
+*.century21.*
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
@@ -8906,7 +8906,6 @@ JOBALINE.COM
 *equifax.hn
 *equifax.co.nz
 *equifax.es
-*equifax.co.uk
 *.dicom.cl
 *.i2verify.com
 *.accountscore.co.uk
@@ -8926,6 +8925,7 @@ efficientwotc.com
 ntcusa.com
 *.datacredito2.com
 *.datacredito3.com
+*.mercury.com.au
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10729,8 +10729,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3406,8 +3406,8 @@ superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
 superbet,*.spinaway.com,True
-superbet,*.superbet.rs,True
 superbet,*.napoleonsports.be,True
+superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -4620,11 +4620,11 @@ planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
-planetart,www.cafepress.com,False
 planetart,iseeme.com,False
+planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
@@ -4878,8 +4878,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
@@ -8907,7 +8907,6 @@ equifax,*equifax.ec,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
-equifax,*equifax.co.uk,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
 equifax,*.accountscore.co.uk,False
@@ -8927,6 +8926,7 @@ equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
+equifax,*.mercury.com.au,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -10730,8 +10730,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
