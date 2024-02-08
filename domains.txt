@@ -7285,10 +7285,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7955,8 +7955,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -9052,8 +9052,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
