@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 06:12:13 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 07:09:44 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -801,8 +801,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yuga.com
 *.otherside.xyz
-*.meebits.app
 *.10ktf.com
+*.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
 *.boredapeyachtclub.com
@@ -2471,8 +2471,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com

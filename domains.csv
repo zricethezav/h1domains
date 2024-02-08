@@ -3479,8 +3479,8 @@ one_zero_vdp,*.onezerobank.com,False
 yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
-yuga_labs,*.meebits.app,True
 yuga_labs,*.10ktf.com,True
+yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.yugalabs.io,True
 yuga_labs,*.boredapeyachtclub.com,True
@@ -4617,8 +4617,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
-planetart,*.mycustomcase.com,False
 planetart,www.photoaffections.com,False
+planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
@@ -9053,8 +9053,8 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,www.getaroom.com,True
 priceline,priceline.com,True
+priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True

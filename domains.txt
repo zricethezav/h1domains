@@ -3478,8 +3478,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yuga.com
 *.otherside.xyz
-*.meebits.app
 *.10ktf.com
+*.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
 *.boredapeyachtclub.com
@@ -4616,8 +4616,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.simplytoimpress.com
-*.mycustomcase.com
 www.photoaffections.com
+*.mycustomcase.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -9052,8 +9052,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com

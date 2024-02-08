@@ -795,8 +795,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yuga.com
 *.otherside.xyz
-*.meebits.app
 *.10ktf.com
+*.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
 *.boredapeyachtclub.com
@@ -2465,8 +2465,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
