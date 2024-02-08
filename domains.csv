@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -2823,8 +2823,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3522,8 +3522,8 @@ expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.expediacruises.com,True
-expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.stayz.com.au,True
+expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -5276,7 +5276,6 @@ mondelez,marabouchokladhus.se,False
 mondelez,milkamaxtrenutak.ba,False
 mondelez,milkamaxtrenutek.si,False
 mondelez,mmmax-tester.milka.de,False
-mondelez,mongouterprince.fr,False
 mondelez,oreo.kz,False
 mondelez,secretsanta.cadbury.co.uk,False
 mondelez,signwithfingers.cadbury.co.uk,False
@@ -7886,10 +7885,10 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
+alibaba,www.alibabagroup.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -8043,10 +8042,10 @@ marriott,gatewaydsaptst2.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -8723,6 +8722,7 @@ oasisprotocol,http://emerald.oasis.dev,True
 oasisprotocol,http://grpc.oasis.dev,True
 oasisprotocol,http://rosetta.oasis.dev/api/mainnet,True
 oasisprotocol,http://sapphire.oasis.io,True
+filezilla,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 gmelius,api.gmelius.com,False
 gmelius,gmelius.io,False
 gmelius,api.gmelius.com,False
@@ -10292,8 +10292,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -11095,7 +11095,6 @@ replyify,api.replyify.com,False
 replyify,replyify.com,False
 replyify,track.replyify.com,False
 replyify,blog.replyify.com,False
-filezilla,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 overloop,app.overloop.com,False
 overloop,app.overloop.com,False
 aodocs,https://ao-docs.appspot.com/api/explorer,False
