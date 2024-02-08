@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 08:11:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 09:11:25 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -347,8 +347,8 @@ www.fraedom.com
 www.practicalmoneyskills.org
 www.yellowpepper.com
 www.practicalmoneyskills.com
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -603,8 +603,8 @@ watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
-injob.indriver.com
 volans.tech
+injob.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -2471,8 +2471,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -3554,7 +3554,6 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
@@ -3563,6 +3562,7 @@ playcanvas.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3885,10 +3885,10 @@ a5s.hackerone-ext-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
