@@ -4615,9 +4615,9 @@ paetec.net
 ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
-www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
+www.photoaffections.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -9052,8 +9052,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
