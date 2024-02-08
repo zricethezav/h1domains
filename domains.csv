@@ -24,9 +24,9 @@ vendasta,task-manager.biz,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,explore.tari.com,True
 tari_labs,www.tari.com,True
-tari_labs,textexplore.tari.com,True
 tari_labs,www.tarilabs.com,True
 tari_labs,rfc.tari.com,True
+tari_labs,textexplore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -153,8 +153,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -7288,8 +7288,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7897,8 +7897,8 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -7956,8 +7956,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -8089,8 +8089,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
