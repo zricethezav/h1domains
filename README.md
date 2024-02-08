@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 09:11:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 10:12:01 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -838,8 +838,8 @@ www.lastminute.com.au
 www.travelocity.ca
 www.carrentals.com
 www.fewo-direkt.de
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -1381,22 +1381,20 @@ rubygems.org
 rubygems.org
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
-staking-uat.codefi.network
 consensys.net
 app.infura.io
-staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
+staking.consensys.io
 activate.codefi.network
-staking.codefi.network
 canary.activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 webhooks-api-experimental.codefi.network
 http://portfolio.metamask.io
 app.infura.io
 https://metamask-sdk-socket.metafi.codefi.network/
-staking-uat.codefi.network
+http://staking.consensys.io
 consensys.net
 bridge.codefi.network
 gold.xnxx.com
@@ -1733,10 +1731,10 @@ partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2471,8 +2469,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -2973,8 +2971,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3561,8 +3559,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-business.snapchat.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
