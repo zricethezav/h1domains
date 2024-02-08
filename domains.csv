@@ -1769,7 +1769,6 @@ visa,www.visa.com.ge,True
 visa,www.visa.com.hr,True
 visa,visa.com.jm,True
 visa,www.visa.com.ms,True
-visa,www.visa.com.my,True
 visa,www.visa.com.sg,True
 visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
@@ -1777,6 +1776,7 @@ visa,www.visa.co.in,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
 visa,bb.visa.com,True
+visa,www.visa.com.my,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -3092,8 +3092,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -7896,10 +7896,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10294,8 +10294,8 @@ snapchat,map.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -10495,8 +10495,8 @@ airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True
 airbnb,one.airbnb.com,True
-airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
+airbnb,next.airbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True

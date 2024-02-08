@@ -1768,7 +1768,6 @@ www.visa.com.ge
 www.visa.com.hr
 visa.com.jm
 www.visa.com.ms
-www.visa.com.my
 www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
@@ -1776,6 +1775,7 @@ www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
 bb.visa.com
+www.visa.com.my
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -3091,8 +3091,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -7895,10 +7895,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10293,8 +10293,8 @@ map.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -10494,8 +10494,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-next.airbnb.com
 *.withairbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
