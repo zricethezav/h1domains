@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 03:10:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 04:11:17 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -68,8 +68,8 @@ app.dynamic.xyz
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -1127,8 +1127,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1579,8 +1579,8 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -1736,8 +1736,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1952,8 +1952,8 @@ wallets.api.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 store.playstation.com
 my.playstation.com
 my.account.sony.com
@@ -2183,10 +2183,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
-*.aliexpress.com
+*.Daraz.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2471,8 +2471,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -3887,8 +3887,8 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
