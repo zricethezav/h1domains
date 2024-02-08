@@ -3554,8 +3554,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-my.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com

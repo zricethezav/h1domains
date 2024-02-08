@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
 *.iairgroup.com
-*.iagcargo.com
 *.iaggbs.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -10291,8 +10291,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-my.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
