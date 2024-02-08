@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 13:12:20 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 14:14:31 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -760,8 +760,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -2063,7 +2063,6 @@ portal.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-address-photos.amazon.com
 cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
@@ -2077,6 +2076,7 @@ paragon-na.amazon.com
 av-na.amazon.com
 chat.amazon.com
 advertising.amazon.com
+address-photos.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2182,8 +2182,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.1688.com
 *.Daraz.com
+*.1688.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -2470,8 +2470,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
