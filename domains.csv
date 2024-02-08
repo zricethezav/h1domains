@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1341,7 +1341,6 @@ alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
 alshaya,bakimonarim.shaya.com.tr,False
-alshaya,shayakahve.com.tr,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
@@ -1354,6 +1353,7 @@ alshaya,*.footlocker.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.americaneagle.com.kw,False
+alshaya,shayakahve.com.tr,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -3516,8 +3516,8 @@ expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
-expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.wotif.com,True
@@ -4627,8 +4627,8 @@ planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
-planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -5690,9 +5690,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -7886,17 +7886,17 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -9051,8 +9051,8 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,priceline.com,True
 priceline,www.getaroom.com,True
+priceline,priceline.com,True
 priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
