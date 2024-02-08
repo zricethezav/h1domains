@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 22:10:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 23:09:53 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -106,9 +106,9 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -3557,11 +3557,11 @@ store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 www.bitmoji.com
 app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3850,8 +3850,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

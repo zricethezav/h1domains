@@ -165,9 +165,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
-mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
+mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
@@ -4778,9 +4778,11 @@ circle,*.cybavo.com,False
 circle,*.circle.com,False
 circle,*.cybavo.com,False
 securityscorecard,*.securityscorecard.com,False
+securityscorecard,*.cvedetails.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
+securityscorecard,*.cvedetails.com,False
 gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.com,False
@@ -10290,11 +10292,11 @@ snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -10587,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
@@ -10711,8 +10713,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
