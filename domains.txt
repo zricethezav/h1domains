@@ -33,9 +33,9 @@ www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
+*.iagcargo.com
 *.iairgroup.com
 *.iaggbs.com
-*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -1919,6 +1919,7 @@ https://www.truist.com
 https://developer.truist.com/
 https://dias.oneview.truist.com/
 https://dias.bank.truist.com/
+https://deposits.digitalcommerce.truist.com/
 cpaglobal.ru
 compumark.blog
 compumark.cf
@@ -7282,9 +7283,9 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -9051,8 +9052,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-priceline.com
 www.priceline.com
+priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10248,9 +10249,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-linkpop.com
 *.shopifycloud.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -10291,8 +10292,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-business.snapchat.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -10585,8 +10586,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 xadsacademy.com
 grok.x.ai
@@ -10745,8 +10746,8 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
