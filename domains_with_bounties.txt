@@ -13,8 +13,8 @@ www.arkoselabs.com
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -2848,7 +2848,6 @@ apigw.foliofn.com
 *.unitedcp.com
 *.goldman.com
 *.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -2858,6 +2857,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 12:13:54 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 13:12:20 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -19,8 +19,8 @@ www.arkoselabs.com
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -2854,7 +2854,6 @@ apigw.foliofn.com
 *.unitedcp.com
 *.goldman.com
 *.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -2864,6 +2863,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com

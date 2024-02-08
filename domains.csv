@@ -64,8 +64,8 @@ arkose_labs,www.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
-arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
+arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
@@ -9493,7 +9493,6 @@ goldmansachs,*.foliofn.com,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.honestdollar.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.gspublishing.com,True
@@ -9503,6 +9502,7 @@ goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.nextcapital.com,True
+goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,marquee.gs.com,True
