@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 07:10:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 08:11:28 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
@@ -1823,10 +1823,10 @@ www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.marionnaud.fr
-www.watsons.com.tr
 www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -2173,18 +2173,18 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-*.alibaba.com
 *.tmall.com
 *.alibabacloud.com
+*.alibaba.com
 www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
