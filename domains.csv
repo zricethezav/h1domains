@@ -3842,10 +3842,10 @@ monarch_money,www.monarchmoney.com,False
 monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
 allegion,www.interflex.de,False
-allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
 allegion,www.gainsboroughhardware.com.au,False
 allegion,www.fireglass.com,False
+allegion,www.cisa.com,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -7279,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9360,7 +9360,6 @@ fanduel,us.tvg.com,True
 fanduel,www.4njbets.com,True
 fanduel,fanduel.design,True
 smule,*.smule.com,False
-smule,*.smule.com,False
 flickr,*.flickr.com,True
 flickr,*.flickr.com,True
 matomo,matomo.cloud,True
@@ -9371,8 +9370,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
