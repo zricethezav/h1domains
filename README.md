@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 10:11:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 11:10:38 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1381,7 +1381,6 @@ rubygems.org
 rubygems.org
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 app.infura.io
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1395,7 +1394,7 @@ http://portfolio.metamask.io
 app.infura.io
 https://metamask-sdk-socket.metafi.codefi.network/
 http://staking.consensys.io
-consensys.net
+https://consensys.io/
 bridge.codefi.network
 gold.xnxx.com
 www.xnxx.com
@@ -2088,8 +2087,8 @@ pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 dv-manifest-service-na-prod.amazon.com
 updates.amazon.com
-read.amazon.com
 na.account.amazon.com
+read.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
@@ -2173,10 +2172,10 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-*.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
 *.tmall.com
+*.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2971,9 +2970,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
-*.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
+*.nr-ops.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3518,8 +3517,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3850,8 +3849,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3873,8 +3872,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
