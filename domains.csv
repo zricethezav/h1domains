@@ -1288,8 +1288,8 @@ palta,https://simple-life-app.com/,True
 gocardless_bbp,connect-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
-gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,api-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
@@ -3401,8 +3401,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -7578,9 +7578,9 @@ clario,adblocking.clario.co,True
 clario,crm.clario.co,True
 clario,updatetracker.clario.co,True
 clario,api.account.clario.co,True
-clario,account.mackeeper.com,True
 clario,dcs.clario.co,True
 clario,webapi.clario.co,True
+clario,account.mackeeper.com,True
 clario,chat-crm.clario.co,True
 clario,inapp.clario.co,True
 clario,yapi.clario.co,True
@@ -9335,8 +9335,8 @@ fanduel,*racing.fanduel.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
+fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9371,8 +9371,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -9381,8 +9381,8 @@ paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
@@ -10128,10 +10128,10 @@ mapbox,https://docs.mapbox.com/api/,True
 mapbox,api.mapbox.com,True
 gitlab,registry.gitlab.com,True
 gitlab,*.gitlab.net,True
-gitlab,customers.gitlab.com,True
 gitlab,*.gitlap.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
+gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
 gitlab,*.gitlab.org,True
@@ -10258,8 +10258,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10735,8 +10735,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
