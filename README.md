@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 19:11:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 20:11:22 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2181,9 +2181,9 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.aliyun-inc.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3248,11 +3248,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-support.rockstargames.com
 store.rockstargames.com
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3514,18 +3514,6 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
-your-store.myshopify.com
-*.shopifycloud.com
-linkpop.com
-shop.app
-*.shopifykloud.com
-shopifyinbox.com
-partners.shopify.com
-shopify.plus
-*.shopify.com
-accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
