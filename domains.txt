@@ -79,8 +79,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -1348,11 +1348,11 @@ kw.boots.com
 *.aloyoga.com.kw
 sa.hm.com
 *.starbuckscardtr.com
-*.footlocker.com.eg
 *.victoriassecret.com.qa
 *.americaneagle.com.bh
 *.americaneagle.com.kw
 shayakahve.com.tr
+*.footlocker.com.eg
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -9054,8 +9054,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-priceline.com
 www.priceline.com
+priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10382,10 +10382,10 @@ firefly.adobe.com
 *.adobeaemcloud.com
 community.adobe.com
 accounts.frame.io
-*.adobe.com
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
 app.frame.io
+*.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -10588,8 +10588,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai
