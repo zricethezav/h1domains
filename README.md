@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 03:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 04:09:44 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2471,8 +2471,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 priceline.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2674,8 +2674,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2972,8 +2972,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3850,8 +3850,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

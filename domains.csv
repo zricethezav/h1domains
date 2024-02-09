@@ -4626,11 +4626,11 @@ planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -9055,8 +9055,8 @@ priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9308,8 +9308,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -9619,8 +9619,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
-newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,one.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10713,8 +10713,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
