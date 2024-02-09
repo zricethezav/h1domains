@@ -6310,8 +6310,8 @@ domore.zebra.com
 mwwprod.zebra.engineering
 fs.viq.zebra.com
 *.antuit.ai
-*.zebramwe.com
 zsbportal.zebra.com
+*.zebramwe.com
 connect.zebra.com
 global.zebra.com
 hcm.zebra.com
@@ -10588,8 +10588,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai

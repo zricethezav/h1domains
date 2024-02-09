@@ -6311,8 +6311,8 @@ zebra_vdp,domore.zebra.com,False
 zebra_vdp,mwwprod.zebra.engineering,False
 zebra_vdp,fs.viq.zebra.com,False
 zebra_vdp,*.antuit.ai,False
-zebra_vdp,*.zebramwe.com,False
 zebra_vdp,zsbportal.zebra.com,False
+zebra_vdp,*.zebramwe.com,False
 zebra_vdp,connect.zebra.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
