@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 20:11:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 21:13:01 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -3330,12 +3330,6 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-basicattentiontoken.org
-search.brave.com
-talk.brave.com
-brave.com
-creators.basicattentiontoken.org
-account.brave.com
 brave.com
 basicattentiontoken.org
 creators.basicattentiontoken.org
@@ -3514,6 +3508,18 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
+arrive-server.shopifycloud.com
+your-store.myshopify.com
+*.shopifycloud.com
+linkpop.com
+shop.app
+*.shopifykloud.com
+shopifyinbox.com
+partners.shopify.com
+shopify.plus
+*.shopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
