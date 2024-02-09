@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 08:11:28 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 09:11:19 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -836,10 +836,10 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
-www.carrentals.com
 www.fewo-direkt.de
 www.expedia.com
 www.bookabach.co.nz
+www.carrentals.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -2173,10 +2173,10 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-*.tmall.com
 *.alibabacloud.com
 *.alibaba.com
 www.alibabagroup.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

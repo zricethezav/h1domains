@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3515,10 +3515,10 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.travelocity.ca,True
-expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
+expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.wotif.com,True
@@ -7888,10 +7888,10 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
