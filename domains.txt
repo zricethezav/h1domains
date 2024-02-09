@@ -1860,8 +1860,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.mercedes-benz-trucks.com
 *omniplus.com
 *exceleratorparts.com
-*.daimlertruck.com
 *detroitconnect.com
+*.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
 *.freightliner.com
@@ -9618,8 +9618,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10735,8 +10735,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
