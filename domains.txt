@@ -3550,11 +3550,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.fewo-direkt.de
 *.stayz.com.au
 *.hotwirepartnercentral.com
 *.expediapartnersolutions.com
 *.expediaagents.com
+*.fewo-direkt.de
 *.orbitz.com
 *.wotif.com
 *.cruiseshipcenters.com
@@ -7279,8 +7279,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9054,8 +9054,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 priceline.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10588,8 +10588,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 xadsacademy.com
 grok.x.ai
@@ -10735,8 +10735,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

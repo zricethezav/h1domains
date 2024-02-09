@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 05:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 06:09:50 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1726,8 +1726,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2471,8 +2471,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 priceline.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3873,8 +3873,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

@@ -3551,11 +3551,11 @@ expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
-expediagroup,*.fewo-direkt.de,False
 expediagroup,*.stayz.com.au,False
 expediagroup,*.hotwirepartnercentral.com,False
 expediagroup,*.expediapartnersolutions.com,False
 expediagroup,*.expediaagents.com,False
+expediagroup,*.fewo-direkt.de,False
 expediagroup,*.orbitz.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.cruiseshipcenters.com,False
@@ -7280,8 +7280,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9055,8 +9055,8 @@ priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
@@ -10736,8 +10736,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
