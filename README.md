@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 21:13:01 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 22:12:05 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -14,14 +14,6 @@ rfc.tari.com
 textexplore.tari.com
 www.tari.com
 www.tarilabs.com
-www.arkoselabs.com
-demo.arkoselabs.com
-customer-sessions.arkoselabs.com
-verify.arkoselabs.com
-iframe.arkoselabs.com
-client-api.arkoselabs.com
-cdn.arkoselabs.com
-portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -1060,8 +1052,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1776,8 +1768,6 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
-nft.io
 nft.io
 platform.enjin.io
 www.figma.com
@@ -2735,8 +2725,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2870,9 +2860,9 @@ research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3330,6 +3320,12 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
+basicattentiontoken.org
+search.brave.com
+talk.brave.com
+brave.com
+creators.basicattentiontoken.org
+account.brave.com
 brave.com
 basicattentiontoken.org
 creators.basicattentiontoken.org
