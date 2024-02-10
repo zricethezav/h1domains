@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 17:10:17 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 18:10:02 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1733,8 +1733,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
