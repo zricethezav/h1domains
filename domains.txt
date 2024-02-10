@@ -225,8 +225,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3399,9 +3399,9 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.napoleondice.be
-*.napoleongames.be
 *.superbet.com
 *.superbet.ro
+*.napoleongames.be
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -6159,8 +6159,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *mycslink.org
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -10712,8 +10712,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

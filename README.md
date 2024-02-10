@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 21:08:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 22:09:39 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -167,8 +167,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -759,9 +759,9 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.napoleondice.be
-*.napoleongames.be
 *.superbet.com
 *.superbet.ro
+*.napoleongames.be
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -1451,8 +1451,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
@@ -3850,8 +3850,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
