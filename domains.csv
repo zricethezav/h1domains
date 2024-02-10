@@ -24,9 +24,9 @@ vendasta,task-manager.biz,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,explore.tari.com,True
 tari_labs,www.tari.com,True
-tari_labs,www.tarilabs.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
+tari_labs,www.tarilabs.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -2944,9 +2944,9 @@ shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,snapfish.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -3109,8 +3109,8 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
@@ -5335,13 +5335,13 @@ jetblue,azrest.jetblue.com,False
 jetblue,magnolia.jetblue.com,False
 jetblue,experience.jetblue.com,False
 tennessee-valley-authority,*.tva.com,False
-tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,tvastem.com,False
 tennessee-valley-authority,tvarenewables.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
+tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.mytva.com,False
@@ -6436,9 +6436,9 @@ drugs_com,www.question.com,False
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,api.reddit.com,True
 reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,api.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -6458,9 +6458,9 @@ reddit,redditforbusiness.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7326,7 +7326,6 @@ logitech,jira.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,logitechgchallenge.com,False
 logitech,www.ultimateears.com,True
-logitech,sync.logitech.com,True
 logitech,*.melonapp.com,False
 logitech,*.lucra.live,False
 logitech,id.logi.com,True
@@ -7334,6 +7333,7 @@ logitech,*.logitechmusic.com,False
 logitech,external.logitech.com,False
 logitech,feedback.logitech.com,False
 logitech,www.logitechclub.com,False
+logitech,sync.logitech.com,True
 logitech,partner.logitech.com,False
 logitech,maintenance.logitech.com,False
 logitech,*vc.logitech.com,True
@@ -7808,6 +7808,7 @@ amazonvrp,manufacturing.amazon.com,True
 amazonvrp,aax-us-iad.amazon.com,True
 amazonvrp,completion.amazon.com,True
 amazonvrp,dolphin.amazon.com,True
+amazonvrp,ftvmps-na.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -9052,10 +9053,10 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
 priceline,priceline.com,True
 priceline,www.priceline.com,True
+priceline,admin.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10259,8 +10260,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10588,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True

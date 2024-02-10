@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 08:09:29 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 09:09:59 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
-www.tarilabs.com
 rfc.tari.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
@@ -1458,9 +1458,9 @@ www.urbanclap.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-api.reddit.com
 old.reddit.com
 ads.reddit.com
+api.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1480,9 +1480,9 @@ redditforbusiness.com
 matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1757,8 +1757,8 @@ www.logitechg.com
 www.logitech.com.cn
 circle.logi.com
 www.ultimateears.com
-sync.logitech.com
 id.logi.com
+sync.logitech.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2093,6 +2093,7 @@ manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
 dolphin.amazon.com
+ftvmps-na.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2468,10 +2469,10 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.getaroom.com
 priceline.com
 www.priceline.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3524,8 +3525,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3731,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
