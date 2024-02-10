@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 23:11:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 00:21:20 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -362,8 +362,8 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-bb.visa.com
 www.visa.com.my
+bb.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -3419,8 +3419,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3516,9 +3516,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com

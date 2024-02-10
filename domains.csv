@@ -1775,8 +1775,8 @@ visa,www.visa.co.ao,True
 visa,www.visa.co.in,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
-visa,bb.visa.com,True
 visa,www.visa.com.my,True
+visa,bb.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -7279,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -10152,8 +10152,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -10251,9 +10251,9 @@ udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,*.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
+shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
