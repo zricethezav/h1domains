@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 02:13:54 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 03:11:37 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1295,9 +1295,9 @@ app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
 hatching.io
-geminiadvisory.io
 securitytrails.com
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1459,8 +1459,8 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 api.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2173,9 +2173,9 @@ read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
-*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
