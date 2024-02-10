@@ -121,8 +121,8 @@ wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
@@ -6437,8 +6437,8 @@ reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,api.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -6459,8 +6459,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7279,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
