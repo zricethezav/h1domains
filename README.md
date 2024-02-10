@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 13:09:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 14:10:52 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -167,8 +167,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

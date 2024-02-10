@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -226,8 +226,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -5334,13 +5334,13 @@ jetblue,help.jetblue.com,False
 jetblue,azrest.jetblue.com,False
 jetblue,magnolia.jetblue.com,False
 jetblue,experience.jetblue.com,False
-tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvastem.com,False
 tennessee-valley-authority,tvarenewables.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
+tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10385,8 +10385,8 @@ adobe,accounts.frame.io,False
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
-adobe,magento.com,True
 adobe,app.frame.io,False
+adobe,magento.com,True
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False

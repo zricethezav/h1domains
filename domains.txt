@@ -207,8 +207,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -225,8 +225,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -5333,13 +5333,13 @@ help.jetblue.com
 azrest.jetblue.com
 magnolia.jetblue.com
 experience.jetblue.com
-*.tva.com
 tvastem.com
 tvarenewables.com
 *.tva-energyright.com
 *.tvaenergyrightsolutions.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
+*.tva.com
 tvars.com
 *.tva.gov
 tvawcm.com
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-supportcommunity.zebra.com
 *.zebrasports.com
+supportcommunity.zebra.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -9371,8 +9371,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10384,8 +10384,8 @@ accounts.frame.io
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
-magento.com
 app.frame.io
+magento.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
