@@ -226,8 +226,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3109,8 +3109,8 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
@@ -3293,8 +3293,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,login.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,login.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -4791,8 +4791,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
-etoro_bbp,www.etoro.com,True
 etoro_bbp,delta.app,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -6300,9 +6300,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6459,8 +6459,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7278,8 +7278,8 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
@@ -7287,8 +7287,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
