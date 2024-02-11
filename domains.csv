@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -207,8 +207,8 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
@@ -226,8 +226,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1297,8 +1297,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
-gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -3401,8 +3401,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
 superbet,*.superbet.com,True
-superbet,*.superbet.ro,True
 superbet,*.napoleongames.be,True
+superbet,*.superbet.ro,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -4624,8 +4624,8 @@ planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10295,8 +10295,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True

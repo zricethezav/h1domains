@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
 *.iaggbs.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -206,8 +206,8 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 *.booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -225,8 +225,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1296,8 +1296,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3400,8 +3400,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.superbet.com
-*.superbet.ro
 *.napoleongames.be
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -4623,8 +4623,8 @@ www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.personalcreations.com
 *.canvasworld.com
 www.gifts.com
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -9371,8 +9371,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10294,8 +10294,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -10588,8 +10588,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai

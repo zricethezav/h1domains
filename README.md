@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 08:10:55 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 09:08:51 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -148,8 +148,8 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 *.booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -167,8 +167,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -268,8 +268,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -760,8 +760,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.superbet.com
-*.superbet.ro
 *.napoleongames.be
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
