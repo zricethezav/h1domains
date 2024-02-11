@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -61,9 +61,9 @@ international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
 arkose_labs,demo.arkoselabs.com,True
 arkose_labs,www.arkoselabs.com,True
-arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
+arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
@@ -151,8 +151,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3109,13 +3109,13 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
-indrive,super-services.indriverapp.com,True
 indrive,volans.tech,True
 indrive,injob.indriver.com,True
+indrive,super-services.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -10253,8 +10253,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
