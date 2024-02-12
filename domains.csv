@@ -166,8 +166,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadolibre.com.pe,True
-mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.uy,True
+mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
@@ -1781,9 +1781,9 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
+visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
 visa,aw.visa.com,True
-visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.th,True
@@ -7288,8 +7288,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7891,8 +7891,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
@@ -9373,8 +9373,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10254,8 +10254,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10296,8 +10296,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10575,9 +10575,9 @@ greenhouse,onboarding.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
-greenhouse,interseller.io,True
 greenhouse,boards.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
+greenhouse,interseller.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,app.greenhouse.io,True
@@ -10749,9 +10749,9 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
+security,www.hackerone.com,True
 security,ctf.hacker101.com,True
 security,reviewer.pullrequest.com,True
-security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
