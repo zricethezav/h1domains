@@ -8,8 +8,8 @@ rfc.tari.com
 textexplore.tari.com
 www.tari.com
 www.tarilabs.com
-demo.arkoselabs.com
 www.arkoselabs.com
+demo.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -111,8 +111,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -691,8 +691,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 21:11:38 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 22:10:58 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -14,8 +14,8 @@ rfc.tari.com
 textexplore.tari.com
 www.tari.com
 www.tarilabs.com
-demo.arkoselabs.com
 www.arkoselabs.com
+demo.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -117,8 +117,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -697,8 +697,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3738,8 +3738,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
