@@ -206,8 +206,8 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -2941,11 +2941,11 @@ snapfish.de
 www.borrowlenses.com
 jcpportraits.com
 wgwebservices.snapfish.com
-*.sbs.shutterfly.com
 snapfish.com
 shutterfly.com
 *.snapfish.com
 admin.spoonflower.com
+*.sbs.shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -9372,8 +9372,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10257,8 +10257,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -10753,8 +10753,8 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
