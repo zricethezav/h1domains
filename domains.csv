@@ -121,13 +121,13 @@ wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,www.zyro.com,True
-hostinger,backend.zyro.com,True
 hostinger,logo.zyro.com,True
+hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -151,8 +151,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -6460,8 +6460,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -9373,8 +9373,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10260,9 +10260,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10783,8 +10783,8 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,*.vpn.hackerone.net,True
 oaknorth_bank,*.oaknorth-prod.com,False
-oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth.com,False
+oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
