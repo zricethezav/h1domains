@@ -126,8 +126,8 @@ hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,www.zyro.com,True
-hostinger,backend.zyro.com,True
 hostinger,logo.zyro.com,True
+hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -166,8 +166,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadolibre.com.pe,True
-mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.uy,True
+mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
@@ -1760,8 +1760,8 @@ visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.co.jp,True
 visa,www.visa.com.tw,True
-visa,www.visainfinite.ca,True
 visa,sandbox.secure.checkout.visa.com,True
+visa,www.visainfinite.ca,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -4629,8 +4629,8 @@ planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
-planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7899,8 +7899,8 @@ alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliyun-inc.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8173,7 +8173,6 @@ topcoder,accounts-auth0.topcoder.com,False
 topcoder,tco18.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
-topcoder,community-app.topcoder.com,False
 topcoder,dna.topcoder.com,False
 topcoder,innovation.topcoder.com,False
 topcoder,ios.topcoder.com,False
@@ -8188,6 +8187,7 @@ topcoder,webhooks.topcoder.com,False
 topcoder,wordpress.topcoder.com,False
 topcoder,app.topcoder.com,False
 topcoder,success.topcoder.com,False
+topcoder,community-app.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
@@ -9619,9 +9619,9 @@ newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-data.net,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10300,8 +10300,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10644,9 +10644,9 @@ automattic,intensedebate.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
-automattic,mailpoet.com,True
 automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
@@ -10758,10 +10758,10 @@ security,www.hackerone.com,True
 security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
-security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
+security,errors.hackerone.net,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

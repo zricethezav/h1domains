@@ -125,8 +125,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-backend.zyro.com
 logo.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -165,8 +165,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -1759,8 +1759,8 @@ www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -4628,8 +4628,8 @@ www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
 *.cafepress.com
-www.gifts.com
 *.personalcreations.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7898,8 +7898,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliyun-inc.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8172,7 +8172,6 @@ accounts-auth0.topcoder.com
 tco18.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
-community-app.topcoder.com
 dna.topcoder.com
 innovation.topcoder.com
 ios.topcoder.com
@@ -8187,6 +8186,7 @@ webhooks.topcoder.com
 wordpress.topcoder.com
 app.topcoder.com
 success.topcoder.com
+community-app.topcoder.com
 api.topcoder.com
 arena.topcoder.com
 bugzilla.topcoder.com
@@ -9618,9 +9618,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10299,8 +10299,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -10643,9 +10643,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-mailpoet.com
 www.tumblr.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -10757,10 +10757,10 @@ www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
