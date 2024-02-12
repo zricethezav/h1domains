@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 22:10:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 23:09:18 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -359,11 +359,11 @@ www.visa.com.ms
 www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
-www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -447,8 +447,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1035,8 +1035,8 @@ ws.sorare.com
 *.sheingsp.com
 exnessaffiliates.com
 my.exness.com
-exness.com
 pay.ibex.exchange
+exness.com
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
@@ -1665,12 +1665,12 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-www.cloud.com
 accounts.cloud.com
 *.browser.cloud.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
+www.cloud.com
 onboarding.cloud.com
 sf-rp-us.sharefile.com
 eu.cloud.com
@@ -3042,9 +3042,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
-www.crowdstrike.com
 *.securecircle.com
 *.humio.com
+www.crowdstrike.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -3379,8 +3379,8 @@ gist.github.com
 *.github.net
 education.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3657,11 +3657,11 @@ next.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 assets.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
