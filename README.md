@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 02:14:51 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 03:09:17 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3822,10 +3822,10 @@ pro.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
-api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
 coinbase.com
+api.custody.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
