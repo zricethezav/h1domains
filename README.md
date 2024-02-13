@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 21:10:20 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 22:11:48 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -339,7 +339,6 @@ help.redoxengine.com
 www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
-www.visa.com.ph
 visa.com.ua
 www.fraedom.com
 www.practicalmoneyskills.org
@@ -349,6 +348,7 @@ sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 www.yellowpepper.com
 www.practicalmoneyskills.com
+www.visa.com.ph
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -3672,8 +3672,8 @@ www.hoteltonight.com
 open.airbnb.com
 callbacks.airbnb.com
 assets.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com

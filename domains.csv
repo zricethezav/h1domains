@@ -1754,7 +1754,6 @@ redox_bbp,help.redoxengine.com,True
 visa,www.visa.com.cn,True
 visa,www.visa.com.hk,True
 visa,www.visa.com.lc,True
-visa,www.visa.com.ph,True
 visa,visa.com.ua,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
@@ -1764,6 +1763,7 @@ visa,sandbox.secure.checkout.visa.com,True
 visa,www.visainfinite.ca,True
 visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
+visa,www.visa.com.ph,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -3111,8 +3111,8 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
@@ -4616,9 +4616,9 @@ fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
-planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
+planetart,ai.planetart.com,False
 planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
@@ -8746,8 +8746,8 @@ nordsecurity,app.nordpass.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,app.nordpass.com,True
-pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
+pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 line,*.line.me,True
@@ -10551,8 +10551,8 @@ airbnb,*.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
 airbnb,assets.airbnb.com,True
-airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True

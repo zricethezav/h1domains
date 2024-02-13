@@ -1753,7 +1753,6 @@ help.redoxengine.com
 www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
-www.visa.com.ph
 visa.com.ua
 www.fraedom.com
 www.practicalmoneyskills.org
@@ -1763,6 +1762,7 @@ sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 www.yellowpepper.com
 www.practicalmoneyskills.com
+www.visa.com.ph
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -3110,8 +3110,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -4615,9 +4615,9 @@ paetec.net
 *.mystreetscape.com
 *.wealthscape.com
 *.fidelity.com
-ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
+ai.planetart.com
 www.photoaffections.com
 *.mycustomcase.com
 *.simplytoimpress.com
@@ -8745,8 +8745,8 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.pubg.com
 *.pubgesports.com
+*.pubg.com
 *.pubg.com
 *.pubgesports.com
 *.line.me
@@ -10550,8 +10550,8 @@ www.hoteltonight.com
 open.airbnb.com
 callbacks.airbnb.com
 assets.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
