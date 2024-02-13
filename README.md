@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 07:11:03 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 08:12:22 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -374,13 +374,13 @@ aw.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
-www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.cybersource.com
 www.authorize.net
 www.visa.co.ke
 www.visa.co.id
+www.visa.co.uk
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -723,8 +723,8 @@ user-profile-staging.8x8.com
 cloud8.8x8.com
 platform.8x8.com
 *.8x8staging.com
-voapi.8x8.com
 *.packet8.net
+voapi.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -759,9 +759,9 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.napoleondice.be
-*.superbet.com
 *.napoleongames.be
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -4068,8 +4068,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
 repo.magento.com
-accounts.magento.cloud
 account.magento.com
+accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 marketplace.magento.com

@@ -36,8 +36,8 @@ tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.aerlingus.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -1695,8 +1695,8 @@ servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
-shi_vdp,renewalreminder.shi.com,False
 shi_vdp,api.shi.com,False
+shi_vdp,renewalreminder.shi.com,False
 shi_vdp,apiconsole.shi.com,False
 shi_vdp,assetinsights.shi.com,False
 shi_vdp,servicepro.shi.com,False
@@ -1791,13 +1791,13 @@ visa,aw.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.th,True
-visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,visa.co.za,True
 visa,www.cybersource.com,True
 visa,www.authorize.net,True
 visa,www.visa.co.ke,True
 visa,www.visa.co.id,True
+visa,www.visa.co.uk,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -2937,8 +2937,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,staging.spoonflower.com,False
-shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,*.lifetouch.com,False
+shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,snapfish.de,False
@@ -2957,8 +2957,8 @@ shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,blog.spoonflower.com,False
-shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.spoonflower.com,False
+shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -3368,8 +3368,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
-8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
+8x8-bounty,voapi.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
@@ -3404,9 +3404,9 @@ kkr_vdp,ksam.com,False
 superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
-superbet,*.superbet.com,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -5342,9 +5342,9 @@ tennessee-valley-authority,tvarenewables.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
-tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,tvars.com,False
+tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.mytva.com,False
@@ -9385,8 +9385,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -11151,8 +11151,8 @@ filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,T
 magento,magentolive.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True
-magento,accounts.magento.cloud,True
 magento,account.magento.com,True
+magento,accounts.magento.cloud,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,marketplace.magento.com,True
