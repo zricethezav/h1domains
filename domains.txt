@@ -211,8 +211,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1777,9 +1777,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -3185,8 +3185,8 @@ abb.com.br
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -4462,9 +4462,9 @@ practice.securevetsource.com
 *.twix.com
 *.royalcanin.be
 *.royalcanin.pt
-*.banfield.com
 *.myroyalcanin.gr
 *.royalcanin.nl
+*.banfield.com
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -4631,9 +4631,9 @@ www.canvasworld.com
 *.gifts.com
 *.canvasworld.com
 *.personalcreations.com
-www.gifts.com
 *.cafepress.com
 *.iseeme.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -9899,6 +9899,8 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
+hosted.weblate.org
+hosted.weblate.org
 planet.wordpress.org
 *.wordpress.org
 *.buddypress.org
@@ -10399,10 +10401,10 @@ firefly.adobe.com
 community.adobe.com
 auth.services.adobe.com
 app.frame.io
-nicetryapril.na1.echosignsandbox.com
 accounts.frame.io
 magento.com
 *.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -11397,8 +11399,6 @@ delight.im
 www.delight.im
 parrotlinux.org
 parrotlinux.org
-hosted.weblate.org
-hosted.weblate.org
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 08:12:22 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 09:11:27 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -653,8 +653,8 @@ http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 oneview.malwarebytes.com

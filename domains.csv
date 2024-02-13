@@ -212,8 +212,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1778,9 +1778,9 @@ visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
-visa,www.visa.co.in,True
 visa,bb.visa.com,True
 visa,www.visa.com.my,True
+visa,www.visa.co.in,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -3186,8 +3186,8 @@ abb,abb.com.br,False
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
-malwarebytes,my.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
+malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -4463,9 +4463,9 @@ mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.be,False
 mars,*.royalcanin.pt,False
-mars,*.banfield.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.nl,False
+mars,*.banfield.com,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -4632,9 +4632,9 @@ planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -9900,6 +9900,8 @@ dashlane,console.dashlane.com,True
 dashlane,app.dashlane.com,True
 dashlane,logs.dashlane.com,True
 dashlane,api.dashlane.com,True
+weblate,hosted.weblate.org,False
+weblate,hosted.weblate.org,False
 wordpress,planet.wordpress.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
@@ -10400,10 +10402,10 @@ adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -11398,8 +11400,6 @@ delight_im,delight.im,False
 delight_im,www.delight.im,False
 parrot_sec,parrotlinux.org,False
 parrot_sec,parrotlinux.org,False
-weblate,hosted.weblate.org,False
-weblate,hosted.weblate.org,False
 alvosec,www.alvosec.com,True
 alvosec,dns.alvosec.com,True
 alvosec,cloud.alvosec.com,True
