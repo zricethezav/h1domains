@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 04:09:47 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 05:10:51 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
+www.visa.co.in
 bb.visa.com
 www.visa.com.my
-www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -2759,9 +2759,9 @@ api.loanbuilder.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

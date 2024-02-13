@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.aerlingus.com,False
@@ -1778,9 +1778,9 @@ visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
+visa,www.visa.co.in,True
 visa,bb.visa.com,True
 visa,www.visa.com.my,True
-visa,www.visa.co.in,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -9406,9 +9406,9 @@ paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
 paypal,paypalobjects.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True

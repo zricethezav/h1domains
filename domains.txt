@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
 *.iaggbs.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 *.aerlingus.com
 www.avios.com
 www.aerlingus.com
@@ -1777,9 +1777,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
+www.visa.co.in
 bb.visa.com
 www.visa.com.my
-www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -9405,9 +9405,9 @@ api.loanbuilder.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
