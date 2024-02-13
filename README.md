@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 01:31:27 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 02:15:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
+www.visa.co.in
 bb.visa.com
 www.visa.com.my
-www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
