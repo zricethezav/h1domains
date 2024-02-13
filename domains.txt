@@ -32,7 +32,6 @@ textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
-www.hangar51.com
 *.iaggbs.com
 *.iagcargo.com
 *.iairgroup.com
@@ -46,7 +45,6 @@ www.avios.com
 www.iairgroup.com
 www.iaggbs.com
 *.iagcargo.com
-www.hangar51.com
 https://www.shopping.ba.com
 https://exchange.shopping.ba.com/
 https://pgt.shopping.ba.com/
@@ -124,8 +122,8 @@ login.wellhive.com
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
@@ -178,9 +176,9 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -229,8 +227,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2947,9 +2945,9 @@ jcpportraits.com
 wgwebservices.snapfish.com
 snapfish.com
 admin.spoonflower.com
-shutterfly.com
 *.snapfish.com
 *.sbs.shutterfly.com
+shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -3404,8 +3402,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -3847,8 +3845,8 @@ www.monarchmoney.com
 www.interflex.de
 www.yonomi.com
 www.gainsboroughhardware.com.au
-www.fireglass.com
 www.cisa.com
+www.fireglass.com
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -4629,11 +4627,11 @@ www.cafepress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
-*.canvasworld.com
 *.personalcreations.com
 *.cafepress.com
 *.iseeme.com
 www.gifts.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6447,8 +6445,8 @@ gql.reddit.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-*.redditmedia.com
 ads.reddit.com
+*.redditmedia.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -9384,8 +9382,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10731,8 +10729,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
