@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 19:09:28 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 20:11:34 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -343,12 +343,12 @@ www.visa.com.ph
 visa.com.ua
 www.fraedom.com
 www.practicalmoneyskills.org
-www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
+www.yellowpepper.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -490,8 +490,8 @@ api.tideplatform.in
 api.tideplatform.in
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -1726,9 +1726,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
