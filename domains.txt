@@ -65,8 +65,8 @@ www.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
 customer-sessions.arkoselabs.com
-client-api.arkoselabs.com
 cdn.arkoselabs.com
+client-api.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -150,8 +150,8 @@ mediacenter.23andme.com
 research.23andme.com
 store.23andme.com
 education.23andme.com
-blog.23andme.com
 api.23andme.com
+blog.23andme.com
 you.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
@@ -3046,11 +3046,11 @@ dashboard.paystack.com
 standard.paystack.co
 * IPv6 addresses
 *.seedalliance.net
-* IPv4 addresses
 aso.apnic.net
 *.isif.asia
 *.apnic.foundation
 *.apnic.net
+* IPv4 addresses
 *.apidt.org
 orbit.apnic.net
 stats.labs.apnic.net
@@ -3398,8 +3398,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.com
@@ -5717,13 +5717,10 @@ stage-vhb.agrisync.com
 vnd.agrisync.com
 johndeereinnovation.com
 johndeeretours.deere.com
-shop.deere.com
 stellarsupport.deere.com
 machinereports.deere.com
 registration.deere.com
 contest.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 crm.surefireag.com
 support.surefireag.com
 toolbox.surefireag.com
@@ -5754,6 +5751,8 @@ work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 citratest.deere.com
 ims.tcms.tal.deere.com
 marksman.surepointag.com
+jdfy-cert.deere.com
+map.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -6468,8 +6467,8 @@ gql.reddit.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -7204,14 +7203,16 @@ api.yoti.com
 www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
+hub.yoti.com
 code.yoti.com
-frankd.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 www.yotisign.com
-frankd.yoti.com
+hub.yoti.com
+identity.yoti.com
 app.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
@@ -7309,17 +7310,17 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
+partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
-*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7988,9 +7989,9 @@ unified.cloudways.com
 cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
-api.digitalocean.com
 169.254.169.254
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -10422,10 +10423,10 @@ firefly.adobe.com
 community.adobe.com
 auth.services.adobe.com
 app.frame.io
-accounts.frame.io
 magento.com
 *.adobe.com
 nicetryapril.na1.echosignsandbox.com
+accounts.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com

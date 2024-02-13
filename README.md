@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 17:12:12 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 18:11:57 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -19,8 +19,8 @@ www.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
 customer-sessions.arkoselabs.com
-client-api.arkoselabs.com
 cdn.arkoselabs.com
+client-api.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 store.23andme.com
 education.23andme.com
-blog.23andme.com
 api.23andme.com
+blog.23andme.com
 you.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
@@ -756,8 +756,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.com
@@ -1459,8 +1459,8 @@ gql.reddit.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1621,14 +1621,16 @@ api.yoti.com
 www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
+hub.yoti.com
 code.yoti.com
-frankd.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 www.yotisign.com
-frankd.yoti.com
+hub.yoti.com
+identity.yoti.com
 app.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
@@ -1724,17 +1726,17 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
+partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
-*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com

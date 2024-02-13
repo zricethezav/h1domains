@@ -66,8 +66,8 @@ arkose_labs,www.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
-arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
+arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
@@ -151,8 +151,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -3047,11 +3047,11 @@ paystack-vdp,dashboard.paystack.com,False
 paystack-vdp,standard.paystack.co,False
 apnic,* IPv6 addresses,False
 apnic,*.seedalliance.net,False
-apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
 apnic,*.apnic.net,False
+apnic,* IPv4 addresses,False
 apnic,*.apidt.org,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
@@ -3399,8 +3399,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,admin.8x8.com,True
-superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
+superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.com,True
@@ -5718,13 +5718,10 @@ john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
 john-deere,johndeereinnovation.com,False
 john-deere,johndeeretours.deere.com,False
-john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
 john-deere,machinereports.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,contest.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,crm.surefireag.com,False
 john-deere,support.surefireag.com,False
 john-deere,toolbox.surefireag.com,False
@@ -5755,6 +5752,8 @@ john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
 john-deere,marksman.surepointag.com,False
+john-deere,jdfy-cert.deere.com,False
+john-deere,map.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6469,8 +6468,8 @@ reddit,gql.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
 reddit,api.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,*.redditmedia.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7205,14 +7204,16 @@ yoti,api.yoti.com,True
 yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
+yoti,hub.yoti.com,True
 yoti,code.yoti.com,True
-yoti,frankd.yoti.com,True
+yoti,identity.yoti.com,True
 yoti,core.yoti.com,True
 yoti,api.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
 yoti,www.yotisign.com,True
-yoti,frankd.yoti.com,True
+yoti,hub.yoti.com,True
+yoti,identity.yoti.com,True
 netlify,app.netlify.com,True
 netlify,internal.netlify.com,True
 netlify,netlify-rum.netlify.app,True
@@ -7310,17 +7311,17 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7989,9 +7990,9 @@ digitalocean,unified.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
-digitalocean,api.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -10423,10 +10424,10 @@ adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
-adobe,accounts.frame.io,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,accounts.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
