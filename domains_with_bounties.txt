@@ -518,10 +518,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-relay.firefox.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 www.mozilla.org
 monitor.firefox.com
@@ -1683,10 +1683,10 @@ sf-rp.sharefile.com
 api.adm.cloud.com
 api.sharefile.eu
 us.cloud.com
-*.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com

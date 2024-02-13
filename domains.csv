@@ -2908,10 +2908,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
@@ -7251,10 +7251,10 @@ citrix,sf-rp.sharefile.com,True
 citrix,api.adm.cloud.com,True
 citrix,api.sharefile.eu,True
 citrix,us.cloud.com,True
-citrix,*.citrixworkspacesapi.net,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,citrix.cloud.com,True
+citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
