@@ -81,8 +81,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -1585,12 +1585,12 @@ cleanergy.ph
 veco.com.ph
 adventenergy.com.ph
 retailelectricity.com.ph
-snaboitizpower.com
 *.visayanelectric.com
 aboitizpower.info
 *.davaolight.com
 *.oilbu.com
 *.aboitizpower.com
+snaboitizpower.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -2934,8 +2934,8 @@ snapfish.ie
 snapfish.it
 *.photoccino.com
 staging.spoonflower.com
-*.lifetouch.com
 photo.walgreens.com
+*.lifetouch.com
 lifetouch.com
 prestigeportraits.com
 snapfish.de
@@ -4628,10 +4628,10 @@ www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.personalcreations.com
-*.cafepress.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com

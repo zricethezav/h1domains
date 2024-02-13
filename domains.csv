@@ -82,8 +82,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -1586,12 +1586,12 @@ aboitizpower_corporation,cleanergy.ph,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
-aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,*.oilbu.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
+aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
@@ -2935,8 +2935,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,staging.spoonflower.com,False
-shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,photo.walgreens.com,False
+shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,snapfish.de,False
@@ -4629,10 +4629,10 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.personalcreations.com,False
-planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
