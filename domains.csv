@@ -36,8 +36,8 @@ tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.aerlingus.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -179,9 +179,9 @@ mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,api.mercadopago.com,True
-mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.ar,True
+mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -212,8 +212,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1778,9 +1778,9 @@ visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
-visa,www.visa.co.in,True
 visa,bb.visa.com,True
 visa,www.visa.com.my,True
+visa,www.visa.co.in,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -5343,8 +5343,8 @@ tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
 tennessee-valley-authority,*.tva.com,False
-tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
+tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.mytva.com,False
@@ -6209,12 +6209,12 @@ cedars-sinai,*Huntingtonhealtheconnect.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
 cedars-sinai,*sgveconnect.com,False
 cedars-sinai,*apps.huntingtonhospital.com/,False
-cedars-sinai,*cedars-sinai.edu,False
 cedars-sinai,*Hmhdr.net,False
 cedars-sinai,*Hmhdr.org,False
 cedars-sinai,*Huntingtonhealthnetwork.org,False
 cedars-sinai,*legacy.huntingtonhospital.org,False
 cedars-sinai,*cedars-sinai.org,False
+cedars-sinai,*cedars-sinai.edu,False
 cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*www.cshs.org,False
 cedars-sinai,*csmc.edu,False
@@ -9385,8 +9385,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10402,8 +10402,8 @@ adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
-adobe,*.adobe.com,False
 adobe,magento.com,True
+adobe,*.adobe.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False

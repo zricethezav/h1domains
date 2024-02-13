@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 05:10:51 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 06:11:10 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -116,9 +116,9 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

@@ -35,8 +35,8 @@ tlu.tarilabs.com
 www.hangar51.com
 *.iaggbs.com
 *.iagcargo.com
-*.iairgroup.com
 *.aerlingus.com
+*.iairgroup.com
 www.avios.com
 www.aerlingus.com
 www.iairgroup.com
@@ -178,9 +178,9 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -211,8 +211,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1777,9 +1777,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -5342,8 +5342,8 @@ tvarenewables.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
 *.tva.com
-tvars.com
 *.tva-energyright.com
+tvars.com
 *.tva.gov
 tvawcm.com
 *.mytva.com
@@ -6208,12 +6208,12 @@ www.urbanclap.com
 *SANGABRIELVALLEYHEALTHECONNECT.COM
 *sgveconnect.com
 *apps.huntingtonhospital.com/
-*cedars-sinai.edu
 *Hmhdr.net
 *Hmhdr.org
 *Huntingtonhealthnetwork.org
 *legacy.huntingtonhospital.org
 *cedars-sinai.org
+*cedars-sinai.edu
 *cedars-sinai.org
 *www.cshs.org
 *csmc.edu
@@ -9384,8 +9384,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10401,8 +10401,8 @@ auth.services.adobe.com
 app.frame.io
 nicetryapril.na1.echosignsandbox.com
 accounts.frame.io
-*.adobe.com
 magento.com
+*.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
