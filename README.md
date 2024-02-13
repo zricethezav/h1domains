@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 20:11:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 21:10:20 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -117,8 +117,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -343,12 +343,12 @@ www.visa.com.ph
 visa.com.ua
 www.fraedom.com
 www.practicalmoneyskills.org
-www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 www.yellowpepper.com
+www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -2273,8 +2273,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com

@@ -177,8 +177,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -1757,12 +1757,12 @@ www.visa.com.ph
 visa.com.ua
 www.fraedom.com
 www.practicalmoneyskills.org
-www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 www.yellowpepper.com
+www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -4619,8 +4619,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.simplytoimpress.com
 *.mycustomcase.com
+*.simplytoimpress.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -4630,8 +4630,8 @@ www.canvasworld.com
 *.iseeme.com
 *.canvasworld.com
 *.personalcreations.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -8086,8 +8086,8 @@ www.32red.com
 relaxcdn.unibet.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
@@ -9118,8 +9118,8 @@ www.bookingholdings.com
 *.theunioncard.com
 *.bluetarp.com
 *.capitalone360.com
-*.capitaloneshopping.com
 *.capitalone.co.uk
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitalone.ca
 *.capitalonebank.com

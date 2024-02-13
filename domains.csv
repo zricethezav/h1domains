@@ -178,8 +178,8 @@ mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1758,12 +1758,12 @@ visa,www.visa.com.ph,True
 visa,visa.com.ua,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
-visa,www.practicalmoneyskills.com,True
 visa,www.visa.co.jp,True
 visa,www.visa.com.tw,True
 visa,sandbox.secure.checkout.visa.com,True
 visa,www.visainfinite.ca,True
 visa,www.yellowpepper.com,True
+visa,www.practicalmoneyskills.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -4620,8 +4620,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
+planetart,*.simplytoimpress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
@@ -4631,8 +4631,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8087,8 +8087,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
@@ -9119,8 +9119,8 @@ capital-one,*.paribus.co,False
 capital-one,*.theunioncard.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone360.com,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
