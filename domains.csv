@@ -24,9 +24,9 @@ vendasta,task-manager.biz,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,explore.tari.com,True
 tari_labs,www.tari.com,True
-tari_labs,textexplore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,textexplore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -1778,9 +1778,9 @@ visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
+visa,www.visa.co.in,True
 visa,bb.visa.com,True
 visa,www.visa.com.my,True
-visa,www.visa.co.in,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -7969,8 +7969,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,api.digitalocean.com,False
-digitalocean,*.digitalocean.com,False
 digitalocean,169.254.169.254,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False

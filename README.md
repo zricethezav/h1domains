@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 06:11:10 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 07:11:03 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
-textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
+www.visa.co.in
 bb.visa.com
 www.visa.com.my
-www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
