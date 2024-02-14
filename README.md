@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 15:13:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 16:15:39 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
+www.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -114,7 +114,6 @@ api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -122,6 +121,7 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -164,10 +164,10 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.booking.com
 account.booking.com
 booking.com
 secure.booking.com
+*.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -562,10 +562,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hilton.io
-*.hilton.com.tr
 hilton.com
 *.hiltonhotels.jp
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -763,11 +763,11 @@ admin.8x8.com
 *.napoleonsports.be
 *.luckydays.com
 *.superbet.rs
-*.napoleongames.be
 *.superbet.com
 *.superbet.pl
 *.magicjackpot.ro
 *.superbet.ro
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -803,12 +803,12 @@ share.doppler.com
 *.wenewmoments.com
 hv-mtl.com
 *.10ktf.com
-*.yuga.com
 dookeydash.com
 *.boredapeyachtclub.com
 *.meebits.app
 *.otherside.xyz
 *.cryptopunks.app
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -986,9 +986,9 @@ api.recarga.com
 checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
-x.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1792,8 +1792,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -1952,9 +1952,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.playstation.net
 my.account.sony.com
 *.sonyentertainmentnetwork.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2191,7 +2191,6 @@ amazonpayinsurance.in
 *.aliexpress.com
 *.tmall.com
 www.alibabagroup.com
-*.alibaba-inc.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
@@ -2199,6 +2198,7 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
 *.taobao.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2500,10 +2500,10 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 help.smartsheet.com
 admin.smartsheet.com
 developers.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2987,7 +2987,7 @@ synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
-one.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3536,8 +3536,8 @@ accounts.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
-your-store.myshopify.com
 partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3696,6 +3696,7 @@ applause1.magisto.com
 donations.livestream.com
 vhx.tv
 api.vhx.tv
+*.magisto.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3744,8 +3745,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3897,8 +3898,8 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-cover-photos.hackerone-user-content.com
 www.hackerone.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
