@@ -153,8 +153,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -181,8 +181,8 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -228,8 +228,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1760,10 +1760,10 @@ visa,www.practicalmoneyskills.org,True
 visa,www.visa.co.jp,True
 visa,www.visa.com.tw,True
 visa,sandbox.secure.checkout.visa.com,True
-visa,www.visainfinite.ca,True
 visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.com.ph,True
+visa,www.visainfinite.ca,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -2834,9 +2834,9 @@ freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.myfreshworks.com,True
 kolesagroup,api.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
@@ -5752,8 +5752,8 @@ john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,ims.tcms.tal.deere.com,False
 john-deere,marksman.surepointag.com,False
 john-deere,jdfy-cert.deere.com,False
-john-deere,map.deere.com,False
 john-deere,rewards.deere.com,False
+john-deere,fc-devl-casemanagement-financeconnect.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6326,12 +6326,12 @@ zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
-zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7312,8 +7312,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -10272,8 +10272,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,apps.zendesk.com,True
 zendesk,www.zendesk.com,True
+zendesk,apps.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,zopim.com,True
@@ -10727,8 +10727,8 @@ coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,api.custody.coinbase.com,True
