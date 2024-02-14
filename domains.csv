@@ -4917,8 +4917,8 @@ databricks,community.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,marketplace.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,support.databricks.com,True
+databricks,databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -9409,9 +9409,9 @@ paypal,*.paypalcorp.com,True
 paypal,*.venmo.com,True
 paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
-paypal,*.paypal.com,True
 paypal,paypalobjects.com,True
 paypal,*.braintreegateway.com,True
+paypal,*.paypal.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
