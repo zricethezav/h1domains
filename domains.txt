@@ -6,9 +6,9 @@ your-domain.pdqs.mobi
 task-manager.biz
 your-domain.snapshotreport.biz
 your-domain.smblogin.com
-*.vendasta.com
 *.apigateway.co
 *.yesware.com
+*.vendasta.com
 *.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -37,8 +37,8 @@ www.iaggbs.com
 *.iaggbs.com
 *.iagcargo.com
 *.iairgroup.com
-*.aerlingus.com
 www.aerlingus.com
+www.iairgroup.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -3446,9 +3446,9 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.FSGB.GOV
 *.USMISSION.GOV
-*.AMERICA.GOV
 *.FAN.GOV
 *.STATE.GOV
+*.AMERICA.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
 *.FAN.GOV
@@ -9818,10 +9818,10 @@ gifts.grab.com
 *.grabtaxi.com
 *.myteksi.net
 grab.careers
-*.grab.com
 kartaview.org
 *.taralite.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10243,7 +10243,6 @@ devmaximum.com
 www.coursera.org
 www.coursera.org
 developer.zendesk.com
-zopim.com
 smooch.io
 api.smooch.io
 app.futuresimple.com
@@ -10251,6 +10250,7 @@ www.zendesk.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
+zopim.com
 h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
@@ -10318,11 +10318,11 @@ my.snapchat.com
 forum.playcanvas.com
 spectacles.com
 playcanvas.com
-web.snapchat.com
 app.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net

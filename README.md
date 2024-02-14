@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 01:32:31 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 02:15:33 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -3134,10 +3134,10 @@ gifts.grab.com
 *.grabtaxi.com
 *.myteksi.net
 grab.careers
-*.grab.com
 kartaview.org
 *.taralite.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3502,7 +3502,6 @@ werkenbijdnb.nl
 nossl.nl
 devmaximum.com
 developer.zendesk.com
-zopim.com
 smooch.io
 api.smooch.io
 app.futuresimple.com
@@ -3510,6 +3509,7 @@ www.zendesk.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
+zopim.com
 h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
@@ -3577,11 +3577,11 @@ my.snapchat.com
 forum.playcanvas.com
 spectacles.com
 playcanvas.com
-web.snapchat.com
 app.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
