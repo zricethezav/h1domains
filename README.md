@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 05:10:26 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 06:11:44 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -909,9 +909,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-*.deribit.com
 test.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -3273,9 +3273,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
 your-assigned-subdomain.files.com
+app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3891,7 +3891,6 @@ reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone-ext-content.com
-www.hackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone.live
@@ -3902,6 +3901,7 @@ api.hackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
