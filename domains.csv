@@ -8,8 +8,8 @@ vendasta,task-manager.biz,False
 vendasta,your-domain.snapshotreport.biz,False
 vendasta,your-domain.smblogin.com,False
 vendasta,*.apigateway.co,False
-vendasta,*.yesware.com,False
 vendasta,*.vendasta.com,False
+vendasta,*.yesware.com,False
 vendasta,*.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
@@ -35,10 +35,10 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iaggbs.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.iairgroup.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -221,13 +221,13 @@ bookingcom,accommodations.booking.com,True
 bookingcom,chat.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,widget.rentalcars.com,True
-bookingcom,*.rentalcars.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,*.rentalcars.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1749,7 +1749,6 @@ visa,www.visa.com.kz,True
 visa,www.visa.com.lk,True
 visa,www.visa.com.ng,True
 visa,www.visa.com.tr,True
-visa,visa.co.cr,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -1785,11 +1784,12 @@ visa,www.visa.co.id,True
 visa,www.visa.co.uk,True
 visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
-visa,aw.visa.com,True
 visa,bd.visa.com,True
 visa,www.tink.com,True
 visa,www.visa.co.jp,True
 visa,www.visa.com.tw,True
+visa,sandbox.secure.checkout.visa.com,True
+visa,www.yellowpepper.com,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -2907,8 +2907,8 @@ mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,monitor.firefox.com,True
+mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3003,8 +3003,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
 hilton,hilton.com,True
-hilton,*.hilton.com,True
 hilton,*.hiltonhotels.jp,True
+hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
@@ -3092,7 +3092,6 @@ indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
-indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
 indrive,external.indrive.dev,True
 indrive,aws.indrive.tech,True
@@ -3107,6 +3106,7 @@ indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,super-services.indriverapp.com,True
+indrive,auth2.indrive.tech,True
 indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
@@ -3572,9 +3572,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -3637,8 +3637,8 @@ varonis,blog.varonis.ru,False
 varonis,blog.varonis.es,False
 varonis,varonis.net,False
 zerobounce,api.zerobounce.in,True
-zerobounce,zerobounce.net,True
 zerobounce,zerobounce.in,True
+zerobounce,zerobounce.net,True
 zerobounce,zerobounce.in,True
 zerobounce,api.zerobounce.in,True
 zerobounce,zerobounce.net,True
@@ -3851,7 +3851,6 @@ allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
 allegion,brio.com.au,False
-allegion,*.allegionengage.com,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,www.interflex.de,False
 allegion,www.yonomi.com,False
@@ -4887,9 +4886,9 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.corcoran.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.anywhere.re,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -7440,9 +7439,9 @@ acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
 acronis,account.acronis.com,True
+acronis,beta-cloud.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.acronis.work,True
-acronis,beta-cloud.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.5nine.com,True
@@ -7914,9 +7913,9 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.taobao.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
@@ -9579,8 +9578,8 @@ valve,playartifact.com,True
 valve,api.steampowered.com,True
 valve,www.valvesoftware.com,True
 valve,www.teamfortress.com,True
-valve,steamcommunity.com,True
 valve,store.steampowered.com,True
+valve,steamcommunity.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True

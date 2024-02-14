@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 07:12:13 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 08:12:00 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -162,13 +162,13 @@ accommodations.booking.com
 chat.booking.com
 cars.booking.com
 widget.rentalcars.com
-*.rentalcars.com
 secure.booking.com
 account.booking.com
 careers.booking.com
 admin.booking.com
 booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -344,7 +344,6 @@ www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
 www.visa.com.tr
-visa.co.cr
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -380,11 +379,12 @@ www.visa.co.id
 www.visa.co.uk
 www.cardinalcommerce.com
 usa.visa.com
-aw.visa.com
 bd.visa.com
 www.tink.com
 www.visa.co.jp
 www.visa.com.tw
+sandbox.secure.checkout.visa.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
-relay.firefox.com
 monitor.firefox.com
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -564,8 +564,8 @@ hiltonhotels.jp
 *.hilton.io
 *.hilton.com.tr
 hilton.com
-*.hilton.com
 *.hiltonhotels.jp
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -589,7 +589,6 @@ messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 wga.volans.tech
-auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 external.indrive.dev
 aws.indrive.tech
@@ -604,6 +603,7 @@ watchdocs.indriverapp.com
 *.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
+auth2.indrive.tech
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -881,8 +881,8 @@ magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
 api.zerobounce.in
-zerobounce.net
 zerobounce.in
+zerobounce.net
 zerobounce.in
 api.zerobounce.in
 zerobounce.net
@@ -1800,9 +1800,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
+beta-cloud.acronis.com
 *.acronis.com
 *.acronis.work
-beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2196,9 +2196,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliyun.com
 *.Daraz.com
-*.taobao.com
 *.alibabacloud.com
 *.alibaba.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2929,8 +2929,8 @@ playartifact.com
 api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-steamcommunity.com
 store.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
