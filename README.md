@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 06:11:44 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 07:12:13 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -762,12 +762,12 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.pl
 *.superbet.rs
 *.magicjackpot.ro
 *.napoleongames.be
 *.superbet.com
 *.superbet.ro
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -2317,8 +2317,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3136,8 +3136,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3857,8 +3857,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3900,8 +3900,8 @@ b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

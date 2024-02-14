@@ -1603,8 +1603,8 @@ aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,*.oilbu.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,snaboitizpower.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -3023,9 +3023,9 @@ paystack-vdp,legacy.paystack.co,False
 paystack-vdp,checkout.paystack.com,False
 paystack-vdp,standard.paystack.co,False
 paystack-vdp,dashboard.paystack.com,False
-paystack-vdp,api.paystack.co,False
 paystack-vdp,nigerialogos.com,False
 paystack-vdp,*.paystack.com,False
+paystack-vdp,api.paystack.co,False
 paystack-vdp,*.paystack.com,False
 paystack-vdp,*.paystackintegrations.com,False
 paystack-vdp,nigerialogos.com,False
@@ -3395,12 +3395,12 @@ superbet,*.napoleondice.be,True
 superbet,*.luckydays.ca,True
 superbet,*.napoleonsports.be,True
 superbet,*.luckydays.com,True
-superbet,*.superbet.pl,True
 superbet,*.superbet.rs,True
 superbet,*.magicjackpot.ro,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.pl,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -8105,8 +8105,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.ra.roblox.com,True
 roblox,*.guilded.gg,True
-roblox,*.roblox.com,True
 roblox,*.rbx.com,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9820,8 +9820,8 @@ grab,*.myteksi.net,True
 grab,grab.careers,True
 grab,kartaview.org,True
 grab,*.taralite.com,True
-grab,*.grab.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10737,8 +10737,8 @@ slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
-slack,api.slack.com,True
 slack,app.slack.com,True
+slack,api.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
@@ -10780,8 +10780,8 @@ security,b5s.hackerone-ext-content.com,True
 security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,hackerone.com,True
 security,www.hackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
