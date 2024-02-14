@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 08:12:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 09:11:08 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -30,14 +30,14 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.pornbox.com
 www.ddfcontent.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -783,8 +783,8 @@ admin.8x8.com
 moonpay.com
 *.moonpaycloud.com
 hypermint.com
-*.hypermint.com
 *.moonpay.com
+*.hypermint.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1028,8 +1028,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1729,14 +1729,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
+*.tiktokv.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1800,9 +1800,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-beta-cloud.acronis.com
 *.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1953,8 +1953,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 *.sonyentertainmentnetwork.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
