@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 16:15:39 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 17:13:34 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
-www.tari.com
 www.tarilabs.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -86,16 +86,16 @@ editor.zyro.com
 logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-store.23andme.com
 education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
 medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -312,10 +312,10 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 testapp.redoxengine.com
-dashboard.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -463,11 +463,11 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
-id.kolesa.kz
-m.avtoelon.uz
 krisha.kz
 kolesa.kz
+id.kolesa.kz
 avtoelon.uz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -556,15 +556,15 @@ api-eu.floqast.app
 api-eu.floqast.app
 hilton.io
 hilton.com.tr
-hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
-*.hilton.io
 hilton.com
 *.hiltonhotels.jp
 *.hilton.com
+hiltonbusinessonline.com
+*.hilton.io
 *.hilton.com.tr
 *.hilton.com
 *.hilton.io
@@ -699,8 +699,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,8 +1792,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -1952,8 +1952,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2556,7 +2556,6 @@ offsite.omise.co
 www.omise.co
 www.opn.ooo
 world.hyatt.com
-assets.hyatt.com
 newsroom.images.hyatt.com
 soaext.oft.hyatt.com
 roominglist.hyatt.com
@@ -2601,6 +2600,7 @@ vacations.us.palladiumhotelgroup.com
 book.cheapcaribbean.com
 holidays-fj.fijiairways.com
 res.treasureisland.globalbookingsolutions.com
+res.vacations.sesameplace.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2926,11 +2926,11 @@ www.dota2.com
 support.steampowered.com
 help.steampowered.com
 playartifact.com
-api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
 steamcommunity.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3536,8 +3536,8 @@ accounts.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
-partners.shopify.com
 your-store.myshopify.com
+partners.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3745,8 +3745,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3832,8 +3832,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-pro.coinbase.com
 cloud.coinbase.com
+pro.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
