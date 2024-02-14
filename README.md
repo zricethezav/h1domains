@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 17:13:34 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 18:12:57 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
-www.tarilabs.com
 explore.tari.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 www.arkoselabs.com
 customer-sessions.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -35,9 +35,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -90,12 +90,12 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
-you.23andme.com
 medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
 store.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -113,7 +113,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
-www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -122,6 +121,7 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -463,11 +463,11 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
+id.kolesa.kz
+m.avtoelon.uz
 krisha.kz
 kolesa.kz
-id.kolesa.kz
 avtoelon.uz
-m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -563,9 +563,9 @@ hiltonhotels.jp
 hilton.com
 *.hiltonhotels.jp
 *.hilton.com
-hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
+hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -600,11 +600,11 @@ volans.tech
 injob.indriver.com
 cargo.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 auth2.indrive.tech
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1411,11 +1411,11 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 www.elastic.co
-*.found.io
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
 *.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,17 +1792,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1952,8 +1952,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2317,8 +2317,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2713,8 +2713,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3384,8 +3384,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3538,6 +3538,8 @@ admin.shopify.com
 shop.app
 your-store.myshopify.com
 partners.shopify.com
+*.shopifycs.com
+*.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3832,8 +3834,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3857,9 +3859,9 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack-imgs.com
-slack.com
 api.slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3898,8 +3900,8 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
