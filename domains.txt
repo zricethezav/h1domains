@@ -22,10 +22,10 @@ your-domain.snapshotreport.biz
 task-manager.biz
 tlu.tarilabs.com
 www.tari.com
-explore.tari.com
 textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -38,6 +38,7 @@ www.iaggbs.com
 www.aerlingus.com
 www.iairgroup.com
 *.iaggbs.com
+*.iagcargo.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -80,8 +81,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -2876,9 +2877,9 @@ contile.services.mozilla.com
 bugzilla.mozilla.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-hg.mozilla.org
 firefox.settings.services.mozilla.com
 accounts.firefox.com
+hg.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -2905,9 +2906,9 @@ developer.mozilla.org
 support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-hg.mozilla.org
 monitor.firefox.com
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -6456,7 +6457,6 @@ oauth.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
-redditforbusiness.com
 accounts.reddit.com
 www.reddit.com
 old.reddit.com
@@ -6464,6 +6464,7 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
+redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7438,9 +7439,9 @@ www.rebelliondefense.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -7974,10 +7975,10 @@ platform.cloudways.com
 unified.cloudways.com
 www.cloudways.com
 www.digitalocean.com
-169.254.169.254
 *.digitalocean.com
 api.digitalocean.com
 cloud.digitalocean.com
+169.254.169.254
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -8397,7 +8398,6 @@ mtnsecure.com
 mtn.mobi
 mtnuktopup.com
 mtnfinancialservices.com
-mtnzakhele.tel
 mtnholdings.com
 mtnbusiness.tel
 mtnanytimetopup.com
@@ -8408,6 +8408,7 @@ mtnpaid.com
 mtnmusiconline.com
 mtnbusiness.mobi
 mtnfreepromo.com
+mtntelecom.com
 mtn.com
 mtn.com.af
 mtn.bj
@@ -9818,8 +9819,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10423,6 +10424,7 @@ status.adobe.com
 *.adobeconnect.com
 adobeid.services.adobe.com
 behance.net
+creative.adobe.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
