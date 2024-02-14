@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 09:11:08 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 10:12:17 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -120,8 +120,8 @@ www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -162,13 +162,13 @@ accommodations.booking.com
 chat.booking.com
 cars.booking.com
 widget.rentalcars.com
-secure.booking.com
-account.booking.com
 careers.booking.com
 admin.booking.com
 booking.com
 *.booking.com
 *.rentalcars.com
+secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -446,9 +446,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1028,8 +1028,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1538,10 +1538,10 @@ wp-qa.chime.com
 wp-ci.chime.com
 wp-dev5.chime.com
 app.chime.com
-*.chime.com
 www.chime.com
 *.1debit.com
 wp-dev2.chime.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1690,8 +1690,8 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-*.citrixworkspacesapi.net
 www.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1800,9 +1800,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1953,8 +1953,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 *.sonyentertainmentnetwork.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com

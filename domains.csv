@@ -39,6 +39,7 @@ international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -81,8 +82,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.ddfcontent.com,True
-pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
 pornbox,www.ddfcontent.com,True
@@ -179,8 +180,8 @@ mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -221,13 +222,13 @@ bookingcom,accommodations.booking.com,True
 bookingcom,chat.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,widget.rentalcars.com,True
-bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -2815,9 +2816,9 @@ clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3049,8 +3050,8 @@ apnic,ftp.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
-apnic,*.apnic.net,False
 apnic,* IPv4 addresses,False
+apnic,*.apnic.net,False
 apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
 apnic,*.isif.asia,False
@@ -3805,8 +3806,8 @@ deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
 deribit,test.deribit.com,True
-deribit,insights.deribit.com,True
 deribit,*.deribit.com,True
+deribit,insights.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
@@ -4743,8 +4744,8 @@ sorare,sorare.com,True
 sorare,api.sorare.com,True
 sorare,ws.sorare.com,True
 shein,*.sheingsp.com,True
-shein,*.romwe.com,True
 shein,*.shein.com,True
+shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
@@ -6549,10 +6550,10 @@ chime,wp-qa.chime.com,True
 chime,wp-ci.chime.com,True
 chime,wp-dev5.chime.com,True
 chime,app.chime.com,True
-chime,*.chime.com,True
 chime,www.chime.com,True
 chime,*.1debit.com,True
 chime,wp-dev2.chime.com,True
+chime,*.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
 chime,*.chimecard.com,True
@@ -7172,8 +7173,8 @@ yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
 yoti,api.yoti.com,True
 yoti,identity.yoti.com,True
-yoti,hub.yoti.com,True
 yoti,www.yotisign.com,True
+yoti,hub.yoti.com,True
 yoti,core.yoti.com,True
 yoti,api.yoti.com,True
 yoti,ccloud.yoti.com,True
@@ -7244,8 +7245,8 @@ citrix,api.sharefile.eu,True
 citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).sharefile.com,True
 citrix,api.sharefile.com,True
-citrix,*.citrixworkspacesapi.net,True
 citrix,www.cloud.com,True
+citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7439,9 +7440,9 @@ acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
 acronis,account.acronis.com,True
-acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,beta-cloud.acronis.com,True
+acronis,*.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.5nine.com,True
@@ -7632,8 +7633,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9775,10 +9776,10 @@ semrush,*.scatec.io,True
 semrush,workflows.semrush.com,False
 semrush,*.sellzone.com,True
 semrush,investors.semrush.com,False
-semrush,*.prowly.com,False
 semrush,*.myinsights.io,True
 semrush,*.semrush.net,True
 semrush,*.semrush.com,True
+semrush,*.prowly.com,False
 semrush,*.semrush.com,True
 semrush,*.semrush.net,True
 semrush,*.seoquake.com,True
