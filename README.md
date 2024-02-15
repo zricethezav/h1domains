@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 23:11:02 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 00:20:22 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -465,9 +465,9 @@ app.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
 avtoelon.uz
+krisha.kz
 api.krisha.kz
 id.kolesa.kz
-krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -603,8 +603,8 @@ watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1801,8 +1801,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1817,7 +1817,6 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.superdrug.com
-www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
@@ -2768,8 +2767,8 @@ decision.swiftfinancial.com
 *.paylution.com
 paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2949,9 +2948,9 @@ app.mona.co
 pay.crypto.com
 js.crypto.com
 merchant.crypto.com
-*.crypto.com
 tax.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3135,8 +3134,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3532,9 +3531,9 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3746,8 +3745,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3883,27 +3882,27 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 hackerone.live
-errors.hackerone.net
 app.pullrequest.com
-api.hackerone.com
-cover-photos.hackerone-user-content.com
 www.hackerone.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+ctf.hacker101.com
 hackerone-user-content.com
+api.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
