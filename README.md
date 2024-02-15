@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 09:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 10:11:00 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 textexplore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -113,7 +113,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
-www.mercadolibre.com.co
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.cl
@@ -121,6 +120,7 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -203,8 +203,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -463,11 +463,11 @@ api.avtoelon.uz
 app.kolesa.kz
 m.avtoelon.uz
 avtoelon.uz
-api.krisha.kz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
 kolesa.kz
+api.krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -562,10 +562,10 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
+hiltonbusinessonline.com
+*.hilton.io
 *.hilton.com
 *.hilton.com.tr
-*.hilton.io
-hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -764,10 +764,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1657,9 +1657,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-launchpad.37signals.com
 3.basecamp.com
 *.hey.com
+launchpad.37signals.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2766,8 +2766,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2820,8 +2820,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
-api-staging.airtable.com
 staging.airtable.com
+api-staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3529,13 +3529,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 *.shopifycloud.com
-your-store.myshopify.com
 shop.app
 partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
+*.shopifycs.com
 admin.shopify.com
 accounts.shopify.com
-*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3810,8 +3810,8 @@ irc.irccloud.com
 team-irc.irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
-*.irccloud.com
 www.irccloud.com
+*.irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
 www.irccloud.com
