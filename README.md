@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 17:13:37 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 18:13:34 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -18,8 +18,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
+customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
@@ -91,8 +91,8 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 blog.23andme.com
+store.23andme.com
 auth.23andme.com
 medical.23andme.com
 you.23andme.com
@@ -113,7 +113,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
-www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
@@ -122,6 +121,7 @@ www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.co
 www.mercadopago.com.ar
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -164,10 +164,10 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-booking.com
-account.booking.com
 *.rentalcars.com
+booking.com
 *.booking.com
+account.booking.com
 secure.booking.com
 *.booking.com
 *.rentalcars.com
@@ -247,11 +247,11 @@ https://test.nicex.com
 https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
-prismalabsteam.com
-appapi.neuralprisma.com
+lensa-ai.com
 neuralprisma.com
 prisma-ai.com
-lensa-ai.com
+prismalabsteam.com
+appapi.neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -447,8 +447,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -562,8 +562,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1028,8 +1028,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1477,8 +1477,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -3530,11 +3530,11 @@ shopify.plus
 shop.app
 *.shopifycs.com
 accounts.shopify.com
-partners.shopify.com
-admin.shopify.com
 linkpop.com
 *.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
