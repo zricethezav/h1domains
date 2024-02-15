@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 21:13:26 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 22:10:50 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -18,10 +18,10 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-www.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 blog.23andme.com
-auth.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -106,7 +106,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.uy
 api.mercadopago.com
@@ -117,6 +116,7 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.ar
+www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.booking.com
 *.rentalcars.com
 secure.booking.com
-*.booking.com
-booking.com
 account.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -561,8 +561,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1277,8 +1277,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1447,8 +1447,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1518,8 +1518,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -3269,8 +3269,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-your-assigned-subdomain.files.com
 app.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3525,15 +3525,15 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycs.com
-linkpop.com
+your-store.myshopify.com
 partners.shopify.com
+linkpop.com
+accounts.shopify.com
+*.shopifycloud.com
 *.shopify.com
 admin.shopify.com
 shop.app
-accounts.shopify.com
-*.shopifycloud.com
 *.shopifykloud.com
-your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3887,19 +3887,19 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
+api.hackerone.com
+ctf.hacker101.com
+hackerone.com
 hackerone-ext-content.com
 app.pullrequest.com
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
