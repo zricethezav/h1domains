@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 12:11:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 13:10:19 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -109,7 +109,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
-www.mercadolibre.com.pe
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
@@ -122,6 +121,7 @@ www.mercadolivre.com.br
 www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
+www.mercadolibre.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1150,8 +1150,8 @@ labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
-databricks.com
 advocates.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1432,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 *.stripe.com
-api.stripe.com
 app.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1517,9 +1517,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.io
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1730,12 +1730,12 @@ creatormarketplace.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
+tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2316,8 +2316,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2764,9 +2764,9 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
+paypal.me
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2923,10 +2923,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3052,8 +3052,8 @@ hybrid-analysis.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
-*.humio.com
 falcon-sandbox.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3532,9 +3532,9 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+*.shopifycs.com
 partners.shopify.com
 admin.shopify.com
-*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
