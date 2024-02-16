@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 02:15:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 03:11:24 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
 www.tari.com
-textexplore.tari.com
 www.tarilabs.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -18,8 +18,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
+cdn.arkoselabs.com
 www.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -115,12 +115,12 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
+www.mercadolibre.com.ar
 www.mercadolibre.com.co
-www.mercadolibre.com.mx
 www.mercadopago.com.ar
+www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -167,8 +167,8 @@ admin.booking.com
 *.rentalcars.com
 secure.booking.com
 booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -459,14 +459,14 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
+m.krisha.kz
+kolesa.kz
 m.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
 api.krisha.kz
-m.krisha.kz
-kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -560,11 +560,11 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hiltonbusinessonline.com
-*.hilton.io
-*.hilton.com.tr
-hilton.com
 *.hilton.com
+hiltonbusinessonline.com
+*.hilton.com.tr
+*.hilton.io
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -763,10 +763,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1027,8 +1027,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1446,8 +1446,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1475,8 +1475,8 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-www.reddit.com
 redditforbusiness.com
+www.reddit.com
 app.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
@@ -1517,8 +1517,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1617,8 +1617,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1686,9 +1686,9 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-(youriwssubdomain).cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
 www.cloud.com
 citrix.cloud.com
 www.cloud.com
@@ -1733,8 +1733,8 @@ tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-partner.tiktokshop.com
 www.pangleglobal.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1943,15 +1943,15 @@ mackeeper.com
 social.playstation.com
 wallets.api.playstation.com
 transact.playstation.com
-*.api.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.playstation.net
 *.sonyentertainmentnetwork.com
 my.account.sony.com
-*.playstation.net
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2192,10 +2192,10 @@ www.alibabagroup.com
 *.aliyun.com
 *.Daraz.com
 *.alibabacloud.com
-*.alibaba.com
-*.alibaba-inc.com
 *.1688.com
 *.taobao.com
+*.alibaba.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2482,7 +2482,7 @@ secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
 priceline.com
-flyiin.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2681,8 +2681,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2762,9 +2762,9 @@ decision.swiftfinancial.com
 *.paylution.com
 paypalobjects.com
 *.braintreegateway.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
-*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3130,8 +3130,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3257,8 +3257,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3308,8 +3308,8 @@ www.starbucks.com.cn
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com
 openapi.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3523,15 +3523,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-partners.shopify.com
+*.shopifycs.com
 linkpop.com
-accounts.shopify.com
-*.shopifycloud.com
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
+accounts.shopify.com
+*.shopifycloud.com
 *.shopifykloud.com
-*.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3740,8 +3740,8 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.twitter.com
 *.vine.co
@@ -3852,10 +3852,10 @@ slackatwork.com
 slack-redir.net
 www.quip.com
 slack-imgs.com
-api.slack.com
+slack.com
 *.quip.com
 app.slack.com
-slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3896,9 +3896,9 @@ a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone.com
-www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
