@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 21:11:59 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 22:11:04 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -108,11 +108,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
-you.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
+you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -130,16 +130,16 @@ www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
-www.mercadolibre.com.mx
+www.mercadolibre.com.pe
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadopago.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
-www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -221,8 +221,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -399,9 +399,9 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.yellowpepper.com
+www.cybersource.com
+www.visainfinite.ca
 aw.visa.com
-visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -581,8 +581,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -693,13 +693,13 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
-www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.s-kaupat.fi
 www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1104,11 +1104,11 @@ push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
-bullsheet.me
 candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1449,9 +1449,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1705,10 +1705,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1744,14 +1744,14 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
+shop.tiktok.com
 *.tiktokv.com
 tiktok.com
-shop.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
@@ -2333,9 +2333,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
+*.roblox.com
 *.rbx.com
 *.guilded.gg
-*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-priceline.com
+reservations.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3070,8 +3070,8 @@ hybrid-analysis.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
-*.humio.com
 falcon-sandbox.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
