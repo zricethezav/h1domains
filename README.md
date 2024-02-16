@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 08:12:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 09:10:15 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -106,7 +106,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.com.pe
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
@@ -122,6 +121,7 @@ www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
+www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -446,8 +446,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -697,8 +697,8 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1726,15 +1726,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2736,7 +2736,6 @@ fanduel.design
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypal.me
 py.pl
 *.paydiant.com
 *.braintree.tools
@@ -2760,11 +2759,12 @@ decision.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paylution.com
-paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
+paypal.me
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2921,10 +2921,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3378,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3526,12 +3526,12 @@ shopify.plus
 *.shopifycs.com
 linkpop.com
 *.shopify.com
-admin.shopify.com
 shop.app
 accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+admin.shopify.com
 partners.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3897,9 +3897,9 @@ hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 app.pullrequest.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
