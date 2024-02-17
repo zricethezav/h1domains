@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 23:10:26 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 00:21:37 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-backend.zyro.com
 www.hostinger.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -129,12 +129,12 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
-www.mercadolibre.com.mx
+www.mercadolibre.com.pe
 www.mercadolibre.com.co
 www.mercadopago.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
-www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.cl
@@ -398,9 +398,9 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.yellowpepper.com
+www.cybersource.com
+www.visainfinite.ca
 aw.visa.com
-visa.co.cr
 www.visa.co.in
 aw.visa.com
 bb.visa.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -480,10 +480,10 @@ avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
-m.krisha.kz
 kolesa.kz
 krisha.kz
 m.avtoelon.uz
+m.krisha.kz
 m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1162,14 +1162,14 @@ demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
 partners.databricks.com
-customer-academy.databricks.com
 community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1443,15 +1443,15 @@ www.elastic.co
 cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
-api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
-*.stripe.com
 app.taxjar.com
+*.stripe.com
+api.stripe.com
+api.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2334,8 +2334,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2355,9 +2355,9 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-astra.datastax.com
 www.datastax.com
 docs.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2399,8 +2399,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-accounts.pixiv.net
 www.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-reservations.rezserver.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
+*.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3539,16 +3539,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-*.shopify.com
-accounts.shopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
 *.shopifykloud.com
 admin.shopify.com
-*.shopifycs.com
 partners.shopify.com
+*.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
+*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3672,8 +3672,8 @@ www.hoteltonight.com
 next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
