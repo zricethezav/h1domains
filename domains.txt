@@ -5,8 +5,8 @@ worldcoin.org
 getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -53,8 +53,8 @@ tlu.tarilabs.com
 www.iairgroup.com
 www.aerlingus.com
 www.iaggbs.com
-*.iagcargo.com
 www.avios.com
+*.iagcargo.com
 *.iairgroup.com
 www.aerlingus.com
 www.avios.com
@@ -1543,7 +1543,6 @@ http://vdp.kahootz.com
 *.new10.com
 wildwoodcasino.net
 aqbeerfest.com
-boardwalkfantasea.com
 brennersfest.com
 kemahbeerfest.com
 pleasurepier.com
@@ -1560,8 +1559,9 @@ thepostoak.com
 galvestonholidayinn.com
 r-u-i.com
 sanluisresort.com
-dungeonofdoomkemah.com
 shoppostoak.com
+dungeonofdoomkemah.com
+boardwalkfantasea.com
 aqbeerfest.com
 aqwine.com
 boardwalkfantasea.com
@@ -1873,8 +1873,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.mitsubishi-fuso.com
 *exceleratorparts.com
 *fleetboard.com
-*.mercedes-benz-trucks.com
 *.bharatbenz.com
+*.mercedes-benz-trucks.com
 *fleetboard.de
 *.daimlertruck.com
 *.freightliner.com
@@ -4753,8 +4753,8 @@ app.s02.callsign.com
 b2b.s02.callsign.com
 southfields-v2.s02.t00-csglobal.a2develop.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -6921,10 +6921,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -6970,9 +6970,9 @@ partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 shop.tiktok.com
+*.tiktok.com
 www.pangleglobal.com
 tiktok.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7313,9 +7313,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -8048,9 +8048,9 @@ www.fuzemeeting.com
 www.8x8.com
 get8x8.com
 app.liveplan.com
+www.paloalto.com
 www.liveplan.com
 www.bplans.com
-www.paloalto.com
 app.liveplan.com
 www.paloalto.com
 www.liveplan.com
@@ -8863,8 +8863,8 @@ www.opn.ooo
 *.motorcraft.com
 *.omnicraftautoparts.com
 *.quicklane.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -9315,8 +9315,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
+login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -10497,9 +10497,9 @@ hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
 hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
