@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 04:08:55 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 05:10:06 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.dev
 *.worldcoin-distributors.com
 getworldcoin.com
+*.worldcoin.dev
 *.consumer.worldcoin.org
-*.worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -90,9 +90,9 @@ www.zyro.com
 logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
-*.000webhost.com
-www.hostinger.com
 backend.zyro.com
+www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -395,13 +395,13 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.yellowpepper.com
-aw.visa.com
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+aw.visa.com
+www.tink.com
 visa.com.au
 www.cardinalcommerce.com
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-identity.yoti.com
 hub.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1703,10 +1703,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1745,15 +1745,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktok.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2501,8 +2501,9 @@ secure.rezserver.com
 www.getaroom.com
 reservations.rezserver.com
 press.priceline.com
-admin.rezserver.com
+www.bookingholdings.com
 priceline.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2779,9 +2780,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3000,8 +3001,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
+login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
