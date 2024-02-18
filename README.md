@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 14:10:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 15:11:07 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -129,15 +129,15 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
+www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -395,9 +395,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 avtoelon.uz
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1493,8 +1493,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1808,8 +1808,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2999,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3405,8 +3405,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
