@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 06:10:40 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 07:09:50 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
-worldcoin.org
 *.worldcoin.dev
 *.worldcoin-distributors.com
 getworldcoin.com
 *.consumer.worldcoin.org
 bioid-management.app
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -395,9 +395,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.tink.com
 www.cybersource.com
 www.visainfinite.ca
-www.tink.com
 visa.com.au
 www.cardinalcommerce.com
 visa.co.cr
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1494,8 +1494,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-identity.yoti.com
 hub.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1703,10 +1703,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2583,7 +2583,6 @@ meetings.hyatt.com
 plannerrequest.hyatt.com
 scapegoat.hyatt.com
 confluence.hyattdev.com
-www.hyattconnect.com
 jira.hyattdev.com
 vacations.vallarta.grandvelas.com
 holidays-us.fijiairways.com
@@ -2616,6 +2615,7 @@ holidays-fj.fijiairways.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.sesameplace.com
 www.triseptsolutions.com
+blueskytours.globalbookingsolutions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3547,9 +3547,9 @@ linkpop.com
 accounts.shopify.com
 your-store.myshopify.com
 *.shopify.com
-shop.app
 admin.shopify.com
 partners.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3674,8 +3674,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3903,14 +3903,14 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 www.hackerone.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
