@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 00:20:40 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 01:30:55 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -89,10 +89,10 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 backend.zyro.com
-*.000webhost.com
 cpanel.hostinger.com
 www.zyro.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -127,7 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.uy
 www.mercadopago.com.br
 www.mercadolibre.com.mx
@@ -140,6 +139,7 @@ www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -394,14 +394,14 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
 cw.visa.com
-bb.visa.com
+www.visa.co.in
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1039,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-live-backstage.tiktok.com
 business.tiktok.com
+live-backstage.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
