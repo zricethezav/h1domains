@@ -24,9 +24,9 @@ your-domain.socialsmbs.com
 customervoice.biz
 your-domain.snapshotreport.biz
 *.vendasta-internal.com
-*.apigateway.co
 *.yesware.com
 partners.vendasta.com
+*.apigateway.co
 *.apigateway.co
 *.vendasta-internal.com
 *.yesware.com
@@ -122,8 +122,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -189,15 +189,15 @@ www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
-www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
 api.mercadolibre.com
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.br
+www.mercadopago.cl
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1241,8 +1241,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -1334,7 +1334,6 @@ api.facemojikeyboard.com
 api.facemojikeyboard.com
 www.leather.io
 www.leather.io
-sbuxopsassist.shaya.com.tr
 ae.boots.com
 ae.hm.com
 qa.hm.com
@@ -1384,6 +1383,7 @@ ae.shopjustice.me
 *.supplier.alshaya.com
 gtmsservice.alshaya.com
 jenkins.alshaya.com
+kuwait.kidzania.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -1877,9 +1877,9 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.bharatbenz.com
 *fleetboard.com
 *.mercedes-benz-trucks.com
+*.freightliner.com
 *exceleratorparts.com
 *fleetboard.de
-*.freightliner.com
 *.daimlertruck.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
@@ -2896,9 +2896,9 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-accounts.firefox.com
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -3698,8 +3698,8 @@ www.divvyhomes.com
 *.avalara.io
 *.inposia.com
 *.davosalestax.com
-*.crowdreason.com
 *.avalara.com
+*.crowdreason.com
 *.avalara.com
 *.avalara.net
 *.avalara.io
@@ -4840,8 +4840,8 @@ candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -6898,8 +6898,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -8908,7 +8908,6 @@ res.vacations.seaworld.com
 www.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
 reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
@@ -8921,6 +8920,7 @@ res.treasureisland.globalbookingsolutions.com
 res.vacations.sesameplace.com
 www.triseptsolutions.com
 blueskytours.globalbookingsolutions.com
+booking.cheapcaribbean.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -9540,8 +9540,8 @@ kartaview.org
 jira.grab.com
 *.ovo.id
 *.grabpay.com
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10459,8 +10459,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 app.slack.com
-api.slack.com
 slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -10497,12 +10497,12 @@ hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
-app.pullrequest.com
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com

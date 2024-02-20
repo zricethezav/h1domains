@@ -25,9 +25,9 @@ vendasta,your-domain.socialsmbs.com,False
 vendasta,customervoice.biz,False
 vendasta,your-domain.snapshotreport.biz,False
 vendasta,*.vendasta-internal.com,False
-vendasta,*.apigateway.co,False
 vendasta,*.yesware.com,False
 vendasta,partners.vendasta.com,False
+vendasta,*.apigateway.co,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -123,8 +123,8 @@ dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynamic_labs,demo.dynamic.xyz,True
-dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,app.dynamic.xyz,True
+dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
@@ -190,15 +190,15 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadolibre.com.ar,True
-mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1242,8 +1242,8 @@ hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True
-modern_treasury,cdn.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
+modern_treasury,cdn.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
 nicehash,test.nicehash.com,True
@@ -1335,7 +1335,6 @@ baidu,api.facemojikeyboard.com,True
 baidu,api.facemojikeyboard.com,True
 leather_wallet,www.leather.io,True
 leather_wallet,www.leather.io,True
-alshaya,sbuxopsassist.shaya.com.tr,False
 alshaya,ae.boots.com,False
 alshaya,ae.hm.com,False
 alshaya,qa.hm.com,False
@@ -1385,6 +1384,7 @@ alshaya,*.bathandbodyworks.com.eg,False
 alshaya,*.supplier.alshaya.com,False
 alshaya,gtmsservice.alshaya.com,False
 alshaya,jenkins.alshaya.com,False
+alshaya,kuwait.kidzania.com,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -1878,9 +1878,9 @@ daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
@@ -2897,9 +2897,9 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,accounts.firefox.com,True
-mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
+mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -3699,8 +3699,8 @@ avalara,*.ttrus.com,False
 avalara,*.avalara.io,False
 avalara,*.inposia.com,False
 avalara,*.davosalestax.com,False
-avalara,*.crowdreason.com,False
 avalara,*.avalara.com,False
+avalara,*.crowdreason.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
@@ -4841,8 +4841,8 @@ etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,www.etoro.com,True
-etoro_bbp,etoropartners.com,True
 etoro_bbp,bullsheet.me,True
+etoro_bbp,etoropartners.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -6899,8 +6899,8 @@ netlify,internal-docs.netlify.com,True
 netlify,supportal.netlify.app,True
 basecamp,world.hey.com,True
 basecamp,launchpad.37signals.com,True
-basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
+basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
 basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
@@ -8909,7 +8909,6 @@ hyatt,res.vacations.seaworld.com,True
 hyatt,www.beachbound.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
-hyatt,res.universalorlandovacations.com,True
 hyatt,reservations.wynnvacations.com,True
 hyatt,book.beachbound.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
@@ -8922,6 +8921,7 @@ hyatt,res.treasureisland.globalbookingsolutions.com,True
 hyatt,res.vacations.sesameplace.com,True
 hyatt,www.triseptsolutions.com,True
 hyatt,blueskytours.globalbookingsolutions.com,True
+hyatt,booking.cheapcaribbean.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9541,8 +9541,8 @@ grab,kartaview.org,True
 grab,jira.grab.com,True
 grab,*.ovo.id,True
 grab,*.grabpay.com,True
-grab,*.taralite.com,True
 grab,*.grab.com,True
+grab,*.taralite.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10460,8 +10460,8 @@ slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack-imgs.com,True
 slack,app.slack.com,True
-slack,api.slack.com,True
 slack,slack.com,True
+slack,api.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
@@ -10498,12 +10498,12 @@ security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone-user-content.com,True
-security,app.pullrequest.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,ctf.hacker101.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
