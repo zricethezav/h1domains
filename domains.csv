@@ -1,12 +1,12 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
-toolsforhumanity,getworldcoin.com,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
+toolsforhumanity,getworldcoin.com,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
@@ -1808,6 +1808,7 @@ visa,www.yellowpepper.com,True
 visa,visa.com.au,True
 visa,www.visa.com.br,True
 visa,aw.visa.com,True
+visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
 visa,bm.visa.com,True
@@ -3005,8 +3006,8 @@ prolinx-vdp,mail1.wspsecure.co.uk,False
 prolinx-vdp,skanska-secure-partner.co.uk,False
 prolinx-vdp,www.prolinx.co.uk,False
 floqast,*.eu.floqast.app,True
-floqast,api-eu.floqast.app,True
 floqast,*.floqast.app,True
+floqast,api-eu.floqast.app,True
 floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
@@ -3168,8 +3169,8 @@ skinport,skinport.com,True
 skinport,app.skinport.com,True
 skinport,api.skinport.com,True
 skinport,http://skinport.com/blog/,True
-miro,api.miro.com,True
 miro,miro.com,True
+miro,api.miro.com,True
 miro,http://miro.com/app,True
 miro,miro.com,True
 miro,api.miro.com,True
@@ -3530,10 +3531,10 @@ expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
-expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -6086,13 +6087,13 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.zebra.com/mobicontrol,False
 zebra_vdp,*.zebramwe.com,False
 zebra_vdp,*.zpc.zebra.com ,False
-lumiradx,www.lumiradx.com,False
 lumiradx,jama.lumiradx.com,False
 lumiradx,parcerias.lumiradx.com,False
 lumiradx,wiki-quantum.lumiradx.com,False
 lumiradx,collaborazioni.lumiradx.com,False
 lumiradx,investors.lumiradx.com,False
 lumiradx,jira-quantum.lumiradx.com,False
+lumiradx,www.lumiradx.com,False
 lumiradx,https://connect.lumiradx.com/api/uk/router/v8.1/,False
 lumiradx,https://connect.lumiradx.com/api/uk/reports/v8.1/,False
 lumiradx,https://connect.lumiradx.com/api/uk/quantumsync/v8.1/,False
