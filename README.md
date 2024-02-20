@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 18:13:36 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 19:13:24 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
-toolsforhumanity.com
 *.worldcoin.org
 bioid-management.app
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -134,12 +134,12 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -402,9 +402,9 @@ cw.visa.com
 bb.visa.com
 visa.com.au
 www.visa.com.br
-usa.visa.com
 www.fraedom.com
 visa.co.cr
+ht.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -523,8 +523,8 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -678,9 +678,9 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 www.malwarebytes.com
 *.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1010,8 +1010,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1060,8 +1060,8 @@ exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
 my.exness.com
-exness.com
 social-trading.exness.com
+exness.com
 pay.ibex.exchange
 my.exness.com
 pay.ibex.exchange
@@ -1111,8 +1111,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2213,13 +2213,13 @@ amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
 *.aliyun-inc.com
-*.aliyun.com
 *.alibabacloud.com
 *.alibaba-inc.com
 *.1688.com
 *.alibaba.com
 *.taobao.com
 *.Daraz.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2360,8 +2360,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-astra.datastax.com
 docs.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2503,9 +2503,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
-priceline.com
 admin.rezserver.com
-press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2776,7 +2775,6 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
@@ -2788,6 +2786,7 @@ paypal.me
 py.pl
 *.venmo.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3445,8 +3444,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3548,8 +3547,8 @@ linkpop.com
 shop.app
 accounts.shopify.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
+shopify.plus
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3848,8 +3847,8 @@ api.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-*.coinbase.com
 coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3874,8 +3873,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
