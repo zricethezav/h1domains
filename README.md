@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 19:13:24 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 20:13:11 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
-*.worldcoin.org
-bioid-management.app
+*.consumer.worldcoin.org
 toolsforhumanity.com
+bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,10 +52,10 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.analvids.com
 www.pornbox.com
 www.ddfcontent.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -185,8 +185,8 @@ admin.booking.com
 account.booking.com
 *.rentalcars.com
 booking.com
-distribution-xml.booking.com
 *.booking.com
+distribution-xml.booking.com
 spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -523,8 +523,8 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -620,11 +620,11 @@ volans.tech
 injob.indriver.com
 super-services.indriverapp.com
 auth2.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
 *.indriver.com
 cargo.indrive.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1051,8 +1051,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1755,10 +1755,10 @@ tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
+business.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2504,7 +2504,7 @@ www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-cruises.priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3395,8 +3395,8 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-api.github.com
 classroom.github.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3546,11 +3546,11 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
-partners.shopify.com
 *.shopify.com
-shopify.plus
 your-store.myshopify.com
+shopify.plus
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3565,7 +3565,6 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 www.bitstrips.com
-scan.snapchat.com
 geofilters.snapchat.com
 story.snapchat.com
 businesshelp.snapchat.com
@@ -3596,6 +3595,7 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3759,8 +3759,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3873,8 +3873,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
