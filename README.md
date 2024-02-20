@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 06:12:05 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 07:12:07 UTC 2024)
 ```
 *.worldcoin-distributors.com
 bioid-management.app
@@ -90,9 +90,9 @@ payments.hostinger.com
 cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
-www.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -253,8 +253,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -401,8 +401,8 @@ bb.visa.com
 www.yellowpepper.com
 visa.com.au
 www.visa.com.br
-aw.visa.com
 usa.visa.com
+www.fraedom.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -520,10 +520,10 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
-accounts.firefox.com
 phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -3146,11 +3146,11 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grabpay.com
 jira.grab.com
 *.ovo.id
 *.taralite.com
 *.grab.com
+*.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3441,8 +3441,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
