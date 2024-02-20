@@ -144,8 +144,8 @@ hostinger,cpanel.hostinger.com,True
 hostinger,www.zyro.com,True
 hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
-hostinger,www.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -197,8 +197,8 @@ mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadolibre.com.ar,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -2847,7 +2847,6 @@ kolesagroup,app.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,krisha.kz,True
 kolesagroup,api.kolesa.kz,True
@@ -2856,6 +2855,7 @@ kolesagroup,app.krisha.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
@@ -3198,14 +3198,14 @@ malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
-malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,*.threatdown.com,True
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.cyrus-security.com,True
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
+malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -3699,8 +3699,8 @@ avalara,*.ttrus.com,False
 avalara,*.avalara.io,False
 avalara,*.inposia.com,False
 avalara,*.davosalestax.com,False
-avalara,*.avalara.com,False
 avalara,*.crowdreason.com,False
+avalara,*.avalara.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
@@ -3716,8 +3716,8 @@ avalara,*.impendulo.com,False
 intuit_rdp,*.quickbooks.com,False
 intuit_rdp,*.mint.com,False
 intuit_rdp,*.turbotax.com,False
-intuit_rdp,*.mailchimp.com,False
 intuit_rdp,*.intuit.com,False
+intuit_rdp,*.mailchimp.com,False
 intuit_rdp,*.intuit.com,False
 intuit_rdp,*.turbotax.com,False
 intuit_rdp,*.mint.com,False
@@ -6195,9 +6195,9 @@ on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.scopely.io,True
 scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
@@ -7321,8 +7321,8 @@ playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -7793,8 +7793,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.ra.roblox.com,True
 roblox,*.rbx.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8482,7 +8482,6 @@ pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,hub.vroid.com,True
 pixiv,dic.pixiv.net,True
-pixiv,*.fanbox.cc,True
 pixiv,neoket.net,True
 pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
@@ -8490,6 +8489,7 @@ pixiv,booth.pm,True
 pixiv,payment.pixiv.net,True
 pixiv,accounts.pixiv.net,True
 pixiv,www.pixiv.net,True
+pixiv,*.fanbox.cc,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -9994,9 +9994,9 @@ shopify,shop.app,True
 shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
-shopify,*.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10502,9 +10502,9 @@ security,app.pullrequest.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
-security,hackerone.com,True
 security,errors.hackerone.net,True
 security,ctf.hacker101.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
