@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.worldcoin.org,True
-toolsforhumanity,*.worldcoin.dev,True
+toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -3630,8 +3630,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.dev,True
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,*.magiceden.io,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -7751,7 +7751,6 @@ marriott,www.ritzcarlton.com,True
 marriott,*uat.marriott.com,True
 marriott,giftcards.marriott.com,False
 marriott,activities.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,marrtool.com,True
 marriott,cpp.marriott.com,True
@@ -7760,6 +7759,7 @@ marriott,hotel-deals.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -9255,10 +9255,10 @@ valve,playartifact.com,True
 valve,www.valvesoftware.com,True
 valve,www.counter-strike.net,True
 valve,store.steampowered.com,True
-valve,www.teamfortress.com,True
 valve,www.dota2.com,True
 valve,steamcommunity.com,True
 valve,api.steampowered.com,True
+valve,www.teamfortress.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
