@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
-toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,getworldcoin.com,True
-toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,worldcoin.org,True
+toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -171,8 +171,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -1240,8 +1240,8 @@ hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True
-modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
+modern_treasury,app.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
 nicehash,test.nicehash.com,True
@@ -1898,8 +1898,8 @@ fifth_third_bank_vdp,onlinebanking.53.com,False
 fifth_third_bank_vdp,zta.nube.53.com,False
 fifth_third_bank_vdp,ztc.nube.53.com,False
 fifth_third_bank_vdp,locations.53.com,False
-fifth_third_bank_vdp,www.53.com,False
 fifth_third_bank_vdp,*53.com,False
+fifth_third_bank_vdp,www.53.com,False
 fifth_third_bank_vdp,*53.com,False
 fifth_third_bank_vdp,express.53.com,False
 fifth_third_bank_vdp,https://ablreporter.53.com/,False
@@ -3088,8 +3088,8 @@ apnic,* IPv6 addresses,False
 okx,*.okx.com,True
 okx,*.okx.com,True
 okx,https://www.okx.com/docs-v5/en/#market-maker-program,True
-city_of_los_angeles_vdp,*.lacity.gov,False
 city_of_los_angeles_vdp,*.lacity.org,False
+city_of_los_angeles_vdp,*.lacity.gov,False
 city_of_los_angeles_vdp,*.lacity.org,False
 city_of_los_angeles_vdp,*.lacity.gov,False
 fastly-vdp,docs.fastly.com,False

@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 03:11:10 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 04:10:19 UTC 2024)
 ```
 *.worldcoin-distributors.com
-toolsforhumanity.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
 *.worldcoin.dev
 getworldcoin.com
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -112,8 +112,8 @@ auth.23andme.com
 mediacenter.23andme.com
 blog.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -253,8 +253,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
