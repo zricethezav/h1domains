@@ -5,8 +5,8 @@ worldcoin.org
 *.consumer.worldcoin.org
 bioid-management.app
 getworldcoin.com
-*.worldcoin.dev
 *.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
