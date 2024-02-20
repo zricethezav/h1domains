@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 17:12:45 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 18:13:36 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -11,8 +11,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 toolsforhumanity.com
-bioid-management.app
 *.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -138,8 +138,8 @@ www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
 api.mercadolibre.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -676,12 +676,12 @@ oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 my.malwarebytes.com
-*.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.threatdown.com
 www.malwarebytes.com
+*.threatdown.com
 *.cloud.malwarebytes.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1111,8 +1111,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1755,10 +1755,10 @@ tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-*.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
-business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2503,9 +2503,9 @@ reservations.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
-press.priceline.com
 priceline.com
 admin.rezserver.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3396,8 +3396,8 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-classroom.github.com
 api.github.com
+classroom.github.com
 github.com
 github.com
 api.github.com
@@ -3547,11 +3547,11 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
-your-store.myshopify.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3846,10 +3846,10 @@ institutional.coinbase.com
 *.base.org
 api.coinbase.com
 api.custody.coinbase.com
-coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3874,8 +3874,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
