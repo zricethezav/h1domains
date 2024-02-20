@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 15:12:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 16:16:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -11,8 +11,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 toolsforhumanity.com
-bioid-management.app
 *.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 explore.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -90,9 +90,9 @@ payments.hostinger.com
 cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
-*.000webhost.com
 hpanel.hostinger.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -126,7 +126,6 @@ you.23andme.com
 research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
-www.mercadopago.com.mx
 www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadopago.com.co
@@ -140,6 +139,7 @@ www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -183,11 +183,11 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 account.booking.com
-*.booking.com
 *.rentalcars.com
 booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -523,8 +523,8 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -679,8 +679,8 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.malwarebytes.com
 *.cyrus-security.com
-www.malwarebytes.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1051,8 +1051,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1061,8 +1061,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
-social-trading.exness.com
 exness.com
+social-trading.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1111,9 +1111,9 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1173,8 +1173,8 @@ support.databricks.com
 docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
-databricks.com
 advocates.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1199,8 +1199,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1750,7 +1750,6 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 live-backstage.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 tiktok.com
 partner.tiktokshop.com
@@ -1758,6 +1757,7 @@ partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 shop.tiktok.com
+business.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -3153,8 +3153,8 @@ kartaview.org
 jira.grab.com
 *.ovo.id
 *.grabpay.com
-*.grab.com
 *.taralite.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3445,8 +3445,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com

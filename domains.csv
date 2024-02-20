@@ -6,8 +6,8 @@ toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -26,8 +26,8 @@ vendasta,customervoice.biz,False
 vendasta,your-domain.snapshotreport.biz,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
-vendasta,partners.vendasta.com,False
 vendasta,*.apigateway.co,False
+vendasta,partners.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -43,8 +43,8 @@ tari_labs,tlu.tarilabs.com,False
 tari_labs,rfc.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,textexplore.tari.com,True
-tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -143,9 +143,9 @@ hostinger,payments.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,www.zyro.com,True
 hostinger,backend.zyro.com,True
-hostinger,*.000webhost.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -185,7 +185,6 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,api.mercadopago.com,True
-mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.co,True
@@ -199,6 +198,7 @@ mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -242,11 +242,11 @@ bookingcom,careers.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
 bookingcom,distribution-xml.booking.com,True
 bookingcom,spark.fareharbor.com,True
+bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1623,8 +1623,8 @@ aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,snaboitizpower.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.oilbu.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -2897,8 +2897,8 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -3203,8 +3203,8 @@ malwarebytes,*.threatdown.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.cyrus-security.com,True
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
@@ -3572,7 +3572,6 @@ expediagroup,*.orbitz.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.cruiseshipcenters.com,False
 expediagroup,*.travelocity.com,False
-expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.abritel.fr,False
 expediagroup,*.expediagroup.com,False
 expediagroup,*.stayz.com.au,False
@@ -3598,6 +3597,7 @@ expediagroup,*.hotwire.com,False
 expediagroup,*.cheaptickets.com,False
 expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -4648,10 +4648,10 @@ planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,iseeme.com,False
 planetart,www.canvasworld.com,False
-planetart,*.personalcreations.com,False
 planetart,ai.planetart.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4766,8 +4766,8 @@ sorare,sorare.com,True
 sorare,api.sorare.com,True
 sorare,ws.sorare.com,True
 shein,*.sheingsp.com,True
-shein,*.romwe.com,True
 shein,*.shein.com,True
+shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
@@ -4776,8 +4776,8 @@ exness,pwapi.ex2b.com,True
 exness,api.excalls.mobi,True
 exness,pay.ibex.exchange,True
 exness,my.exness.com,True
-exness,social-trading.exness.com,True
 exness,exness.com,True
+exness,social-trading.exness.com,True
 exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,https://my.exness.com/webtrading/,True
@@ -4840,9 +4840,9 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,www.etoro.com,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etoropartners.com,True
+etoro_bbp,bullsheet.me,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -4938,8 +4938,8 @@ databricks,support.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,customer-academy.databricks.com,True
-databricks,databricks.com,True
 databricks,advocates.databricks.com,True
+databricks,databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -5067,8 +5067,8 @@ krisp,contact.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,krisp.ai,True
 krisp,help.krisp.ai,False
-krisp,*.krisp.ai,True
 krisp,api.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -6971,7 +6971,6 @@ tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
@@ -6979,6 +6978,7 @@ tiktok,*.tiktokv.com,True
 tiktok,ads.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,shop.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -9541,8 +9541,8 @@ grab,kartaview.org,True
 grab,jira.grab.com,True
 grab,*.ovo.id,True
 grab,*.grabpay.com,True
-grab,*.grab.com,True
 grab,*.taralite.com,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -9888,8 +9888,8 @@ zomato,api.grofers.com,True
 zomato,*.zomans.com,True
 zomato,*.hyperpure.com,True
 zomato,*.runnr.in,True
-zomato,*.zomato.com,True
 zomato,blinkit.com,True
+zomato,*.zomato.com,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
