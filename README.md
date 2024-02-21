@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 23:11:09 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 00:21:53 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -184,10 +184,10 @@ secure.booking.com
 admin.booking.com
 account.booking.com
 *.rentalcars.com
-booking.com
-*.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
+booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -623,8 +623,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 *.indriver.com
 cargo.indrive.com
-*.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,9 +1170,9 @@ accounts.cloud.databricks.com
 support.databricks.com
 docs.databricks.com
 labs.databricks.com
+databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1299,8 +1299,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1539,8 +1539,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1751,11 +1751,11 @@ live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-shop.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+shop.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2501,9 +2501,9 @@ reservations.rezserver.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-secure.rezserver.com
-cruises.priceline.com
 priceline.com
+www.priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3392,11 +3392,11 @@ gist.github.com
 education.github.com
 npmjs.com
 *.githubapp.com
-api.github.com
 npmjs.org
-classroom.github.com
 github.com
 *.githubusercontent.com
+classroom.github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3592,8 +3592,8 @@ www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 *.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
@@ -3758,8 +3758,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3871,9 +3871,9 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack-imgs.com
-slack.com
-api.slack.com
 app.slack.com
+api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3912,10 +3912,10 @@ cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
-app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
