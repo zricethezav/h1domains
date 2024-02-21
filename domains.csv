@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-interco_vdp,*.bancointer.com.br,False
 interco_vdp,*.inter.co,False
+interco_vdp,*.bancointer.com.br,False
 interco_vdp,*.inter.co,False
 interco_vdp,*.bancointer.com.br,False
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -10,8 +10,8 @@ toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,worldcoin.org,True
+toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -101,10 +101,10 @@ sheer_bbp,my.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
-pornbox,www.pornworld.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.analvids.com,True
+pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
 pornbox,www.ddfcontent.com,True
@@ -246,10 +246,10 @@ bookingcom,careers.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,booking.com,True
-bookingcom,spark.fareharbor.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,spark.fareharbor.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -1303,7 +1303,6 @@ gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
 gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,api-sandbox.gocardless.com,True
@@ -1311,6 +1310,7 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -1881,11 +1881,11 @@ daimler_truck,*omniplus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2855,8 +2855,8 @@ kolesagroup,krisha.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,avtoelon.uz,True
 kolesagroup,m.kolesa.kz,True
+kolesagroup,avtoelon.uz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
@@ -2901,8 +2901,8 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -3130,8 +3130,8 @@ indrive,auth2.indrive.tech,True
 indrive,watchdocs.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,cargo.indrive.com,True
-indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
+indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -3301,7 +3301,6 @@ stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,campusmap.stanford.edu,False
 stanford-university,authority.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
-stanford-university,regadmin.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
 stanford-university,ice.stanford.edu,False
@@ -3313,6 +3312,7 @@ stanford-university,*.sahr.stanford.edu,False
 stanford-university,login.stanford.edu,False
 stanford-university,accessories.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,regadmin.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -3720,8 +3720,8 @@ avalara,*.impendulo.com,False
 intuit_rdp,*.quickbooks.com,False
 intuit_rdp,*.mint.com,False
 intuit_rdp,*.turbotax.com,False
-intuit_rdp,*.intuit.com,False
 intuit_rdp,*.mailchimp.com,False
+intuit_rdp,*.intuit.com,False
 intuit_rdp,*.intuit.com,False
 intuit_rdp,*.turbotax.com,False
 intuit_rdp,*.mint.com,False
@@ -4842,8 +4842,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etoropartners.com,True
+etoro_bbp,bullsheet.me,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
@@ -4938,9 +4938,9 @@ databricks,marketplace.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
-databricks,databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,advocates.databricks.com,True
+databricks,databricks.com,True
 databricks,support.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
@@ -5069,8 +5069,8 @@ krisp,contact.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,krisp.ai,True
 krisp,help.krisp.ai,False
-krisp,api.krisp.ai,True
 krisp,*.krisp.ai,True
+krisp,api.krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -6976,7 +6976,6 @@ tiktok,effecthouse.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,business.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
@@ -6984,6 +6983,7 @@ tiktok,ads.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9545,8 +9545,8 @@ grab,kartaview.org,True
 grab,jira.grab.com,True
 grab,*.grabpay.com,True
 grab,*.taralite.com,True
-grab,*.grab.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -9842,10 +9842,10 @@ github,education.github.com,True
 github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
-github,github.com,True
 github,*.githubusercontent.com,True
-github,api.github.com,True
 github,classroom.github.com,True
+github,api.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -9994,9 +9994,9 @@ shopify,*.shopifykloud.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopifycloud.com,True
 shopify,accounts.shopify.com,True
-shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
+shopify,partners.shopify.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopify.com,True
@@ -10507,8 +10507,8 @@ security,hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,hackerone.com,True
 security,ctf.hacker101.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
