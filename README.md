@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 14:14:29 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 15:13:08 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.worldcoin.org
+worldcoin.org
 bioid-management.app
 *.consumer.worldcoin.org
-worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -182,12 +182,12 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-account.booking.com
 distribution-xml.booking.com
-*.booking.com
-spark.fareharbor.com
 *.rentalcars.com
 booking.com
+spark.fareharbor.com
+account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -623,8 +623,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
 *.indrive.com
-*.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -3380,10 +3380,10 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-github.com
 classroom.github.com
-api.github.com
+github.com
 *.githubapp.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3530,9 +3530,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
 linkpop.com
 shop.app
 *.shopify.com
@@ -3833,8 +3833,8 @@ api.custody.coinbase.com
 pro.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3859,8 +3859,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3896,11 +3896,11 @@ a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
-app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
+app.pullrequest.com
 ctf.hacker101.com
+cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
