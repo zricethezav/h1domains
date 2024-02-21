@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 21:11:58 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 22:11:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -183,10 +183,10 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
-*.booking.com
 spark.fareharbor.com
 booking.com
+*.booking.com
+*.rentalcars.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -524,8 +524,8 @@ phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-contile.services.mozilla.com
 addons.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
+*.indrive.com
 *.indriver.com
 *.indriverapp.com
-*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -675,13 +675,13 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1537,9 +1537,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.io
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -3538,9 +3538,9 @@ shopify.plus
 partners.shopify.com
 linkpop.com
 your-store.myshopify.com
-shop.app
 *.shopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3583,9 +3583,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3859,11 +3859,11 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-slack.com
 app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
