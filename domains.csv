@@ -1,14 +1,14 @@
 handle,domain,eligible_for_bounty
-interco_vdp,*.inter.co,False
 interco_vdp,*.bancointer.com.br,False
+interco_vdp,*.inter.co,False
 interco_vdp,*.inter.co,False
 interco_vdp,*.bancointer.com.br,False
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.dev,True
-toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
+toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
@@ -102,10 +102,10 @@ sheer_bbp,my.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
-pornbox,www.pornworld.com,True
-pornbox,www.analvids.com,True
-pornbox,www.pornbox.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornbox.com,True
+pornbox,www.analvids.com,True
+pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
 pornbox,www.ddfcontent.com,True
@@ -135,8 +135,8 @@ dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
 wellhive,analytics.wellhive.com,False
 wellhive,wellhivecorporate.okta.com,False
-wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
+wellhive,app.wellhive.com,False
 wellhive,wellhivecorporate.okta.com,False
 wellhive,analytics.wellhive.com,False
 wellhive,app.wellhive.com,False
@@ -148,9 +148,9 @@ hostinger,payments.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,www.zyro.com,True
 hostinger,backend.zyro.com,True
+hostinger,www.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,*.000webhost.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -247,9 +247,9 @@ bookingcom,careers.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,booking.com,True
 bookingcom,distribution-xml.booking.com,True
 bookingcom,spark.fareharbor.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,*.booking.com,True
@@ -1884,9 +1884,9 @@ daimler_truck,*.bharatbenz.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.de,False
+daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2956,7 +2956,6 @@ shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
-shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
 shutterfly_vdp,snapfish.com,False
@@ -2972,6 +2971,7 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -3131,8 +3131,8 @@ indrive,auth2.indrive.tech,True
 indrive,watchdocs.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,cargo.indrive.com,True
-indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
+indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -3721,8 +3721,8 @@ avalara,*.impendulo.com,False
 intuit_rdp,*.quickbooks.com,False
 intuit_rdp,*.mint.com,False
 intuit_rdp,*.turbotax.com,False
-intuit_rdp,*.mailchimp.com,False
 intuit_rdp,*.intuit.com,False
+intuit_rdp,*.mailchimp.com,False
 intuit_rdp,*.intuit.com,False
 intuit_rdp,*.turbotax.com,False
 intuit_rdp,*.mint.com,False
@@ -4769,8 +4769,8 @@ sorare,sorare.com,True
 sorare,api.sorare.com,True
 sorare,ws.sorare.com,True
 shein,*.sheingsp.com,True
-shein,*.shein.com,True
 shein,*.romwe.com,True
+shein,*.shein.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
@@ -4843,8 +4843,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etoropartners.com,True
+etoro_bbp,bullsheet.me,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
@@ -4940,9 +4940,9 @@ databricks,accounts.cloud.databricks.com,True
 databricks,support.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
+databricks,databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,advocates.databricks.com,True
-databricks,databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -8762,9 +8762,9 @@ priceline,reservations.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,flyiin.com,True
 priceline,admin.rezserver.com,True
-priceline,cruises.priceline.com,True
 priceline,secure.rezserver.com,True
-priceline,www.priceline.com,True
+priceline,cruises.priceline.com,True
+priceline,priceline.com,True
 priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,reservations.rezserver.com,True
@@ -8911,7 +8911,6 @@ hyatt,res.en.travelbrandsagent.com,True
 hyatt,res.funjet.com,True
 hyatt,res.secretsresorts.com,True
 hyatt,res.vacations.seaworld.com,True
-hyatt,www.beachbound.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
 hyatt,reservations.wynnvacations.com,True
@@ -8927,6 +8926,7 @@ hyatt,res.vacations.sesameplace.com,True
 hyatt,www.triseptsolutions.com,True
 hyatt,blueskytours.globalbookingsolutions.com,True
 hyatt,booking.cheapcaribbean.com,True
+hyatt,shop.wyndhamvacationownership.trisept.travel,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -10464,9 +10464,9 @@ slack,slack-redir.net,True
 slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,app.slack.com,True
 slack,api.slack.com,True
-slack,slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
@@ -10501,7 +10501,6 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,a5s.hackerone-ext-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -10510,6 +10509,7 @@ security,errors.hackerone.net,True
 security,ctf.hacker101.com,True
 security,app.pullrequest.com,True
 security,hackerone.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
