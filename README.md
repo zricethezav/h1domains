@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 16:14:10 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 17:13:47 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
-worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
+worldcoin.org
 *.consumer.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -181,13 +181,13 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 account.booking.com
-careers.booking.com
 cars.booking.com
 *.booking.com
 spark.fareharbor.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -467,8 +467,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -718,11 +718,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
-www.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
 *.skypicker.com
 auth.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -932,9 +932,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
+*.deribit.com
 insights.deribit.com
 test.deribit.com
-*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1059,8 +1059,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 pay.ibex.exchange
-exness.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1496,9 +1496,9 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 ads.reddit.com
-www.reddit.com
 oauth.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1753,9 +1753,9 @@ business.tiktok.com
 *.tiktokv.com
 tiktok.com
 partner.tiktokshop.com
+shop.tiktok.com
 *.tiktok.com
 ads.tiktok.com
-shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,20 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2213,9 +2218,9 @@ amazonpayinsurance.in
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.1688.com
-*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2501,7 +2506,7 @@ flyiin.com
 admin.rezserver.com
 cruises.priceline.com
 secure.rezserver.com
-www.getaroom.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2707,7 +2712,6 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 fanduel.design
-com.fanduel.android.live
 *racing.fanduel.com
 www.tvg.com
 4njbets.tvgnetwork.com
@@ -2728,6 +2732,7 @@ sportsbook.fanduel.com
 tvg.com
 *.fanduel.com
 us.tvg.com
+com.fanduel.android.live
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2775,7 +2780,6 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
-*.braintreegateway.com
 *.paypalcorp.com
 paypal.me
 py.pl
@@ -2784,6 +2788,7 @@ py.pl
 paypalobjects.com
 *.xoom.com
 *.paypal.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2830,8 +2835,8 @@ m.chaturbate.com
 blog.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-*.bitmex.com
 testnet.bitmex.com
+*.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3393,8 +3398,8 @@ npmjs.org
 classroom.github.com
 *.githubapp.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3539,8 +3544,8 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
@@ -3904,15 +3909,15 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
+app.pullrequest.com
 ctf.hacker101.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
