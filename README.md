@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 12:14:11 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 13:12:32 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
 getworldcoin.com
-*.toolsforhumanity.com
 worldcoin.org
+*.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -181,8 +181,8 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 account.booking.com
 careers.booking.com
 spark.fareharbor.com
@@ -231,8 +231,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -806,8 +806,8 @@ admin.8x8.com
 moonpay.com
 *.moonpaycloud.com
 hypermint.com
-*.moonpay.com
 *.hypermint.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -858,7 +858,6 @@ www.flights.com
 www.stayz.com.au
 www.travelocity.com
 www.carrentals.com
-www.expedia.com
 www.cheaptickets.com
 www.abritel.fr
 www.ebookers.com
@@ -869,6 +868,7 @@ www.expediacruises.com
 www.hotels.com
 www.vrbo.com
 www.expediagroup.com
+www.expedia.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1496,8 +1496,8 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1834,26 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2218,10 +2217,10 @@ amazonpayinsurance.in
 *.alibaba-inc.com
 *.alibaba.com
 *.Daraz.com
-*.1688.com
 www.alibabagroup.com
 *.aliexpress.com
 *.taobao.com
+*.1688.com
 *.aliyun.com
 *.alibaba.com
 *.aliexpress.com
@@ -2406,8 +2405,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-sketch.pixiv.net
 accounts.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2508,6 +2507,7 @@ flyiin.com
 admin.rezserver.com
 cruises.priceline.com
 secure.rezserver.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3545,8 +3545,8 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
 *.shopify.com
@@ -3871,11 +3871,11 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3914,8 +3914,8 @@ hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 ctf.hacker101.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
