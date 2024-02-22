@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 23:11:49 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 00:20:15 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -11,8 +11,8 @@ toolsforhumanity.com
 bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
-*.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
+www.ddfcontent.com
 www.pornworld.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -179,15 +179,15 @@ accommodations.booking.com
 chat.booking.com
 cars.booking.com
 widget.rentalcars.com
-careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-spark.fareharbor.com
-booking.com
 *.rentalcars.com
 *.booking.com
+spark.fareharbor.com
+booking.com
 account.booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -524,8 +524,8 @@ phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-addons.allizom.org
 contile.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1659,8 +1659,8 @@ netlify-rum.netlify.app
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
 api.netlify.com
-app.netlify.com
 internal.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1749,13 +1749,13 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2400,8 +2400,8 @@ novel.pixiv.net
 booth.pm
 payment.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 accounts.pixiv.net
+*.fanbox.cc
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3533,9 +3533,9 @@ partners.shopify.com
 shopify.plus
 linkpop.com
 your-store.myshopify.com
-shop.app
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3578,9 +3578,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3660,8 +3660,8 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3854,10 +3854,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
+app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
 slack.com
 api.slack.com
