@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 08:10:23 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 09:11:00 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -184,8 +184,8 @@ admin.booking.com
 distribution-xml.booking.com
 *.rentalcars.com
 booking.com
-account.booking.com
 careers.booking.com
+account.booking.com
 *.booking.com
 spark.fareharbor.com
 *.booking.com
@@ -484,10 +484,10 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
-krisha.kz
 api.avtoelon.uz
-kolesa.kz
+krisha.kz
 avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -623,8 +623,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1171,8 +1171,8 @@ labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1834,26 +1834,20 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1969,7 +1963,6 @@ mkapi.mackeeper.com
 mackeeper.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 direct.playstation.com
@@ -1979,6 +1972,7 @@ my.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
+transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2406,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 sketch.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2774,8 +2768,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 www.paypal-*.com
@@ -2934,10 +2928,10 @@ playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
 www.dota2.com
-store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3143,8 +3137,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3200,8 +3194,8 @@ chatdate.app
 zodia.studio
 backstage.io
 api.spotify.com
-everynoise.com
 assets.spotify.com
+everynoise.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3584,9 +3578,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3765,7 +3759,6 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3860,10 +3853,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3899,9 +3892,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
 api.hackerone.com
