@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 22:11:29 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 23:10:25 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-bioid-management.app
 getworldcoin.com
 worldcoin.org
-*.consumer.worldcoin.org
-*.worldcoin.org
 *.toolsforhumanity.com
+*.worldcoin.org
+*.consumer.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -486,8 +486,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
-kolesa.kz
 krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1751,8 +1751,8 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
 shop.tiktok.com
@@ -1834,20 +1834,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2778,12 +2784,12 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
-*.xoom.com
+*.hyperwallet.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3393,8 +3399,8 @@ npmjs.org
 classroom.github.com
 *.githubapp.com
 npmjs.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3672,8 +3678,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 www.hoteltonight.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3755,8 +3761,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3868,8 +3874,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3884,6 +3890,7 @@ www.quip.com
 *.quip.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -3903,9 +3910,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
