@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 05:11:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 06:12:19 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -182,10 +182,10 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
-*.booking.com
 spark.fareharbor.com
 booking.com
+*.booking.com
+*.rentalcars.com
 account.booking.com
 careers.booking.com
 *.booking.com
@@ -486,8 +486,8 @@ id.kolesa.kz
 api.kolesa.kz
 krisha.kz
 api.avtoelon.uz
-avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
-*.indrive.com
 *.indriver.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1171,8 +1171,8 @@ labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1537,9 +1537,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.io
 *.scopely.com
 *.withbuddies.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1834,25 +1834,24 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1975,9 +1974,9 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 my.account.sony.com
-*.playstation.net
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2405,8 +2404,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-sketch.pixiv.net
 accounts.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2770,12 +2769,12 @@ decision.swiftfinancial.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.xoom.com
 paypal.me
 py.pl
 *.venmo.com
 *.hyperwallet.com
 paypalobjects.com
+*.xoom.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3381,13 +3380,13 @@ moneybirdstorage.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.com
 npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
 api.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3537,9 +3536,9 @@ shopify.plus
 partners.shopify.com
 linkpop.com
 your-store.myshopify.com
+shop.app
 *.shopify.com
 admin.shopify.com
-shop.app
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
@@ -3859,10 +3858,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
+app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3902,10 +3901,10 @@ hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 ctf.hacker101.com
-www.hackerone.com
 api.hackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
