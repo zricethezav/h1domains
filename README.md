@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 21:11:28 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 22:11:29 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -333,9 +333,9 @@ launch.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 dashboard.gamma.redoxstage.com
-www.redoxengine.com
 app.gamma.redoxstage.com
 testapp.redoxengine.com
+www.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1751,11 +1751,11 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-tiktok.com
 partner.tiktokshop.com
-shop.tiktok.com
+tiktok.com
 ads.tiktok.com
 *.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1828,9 +1828,9 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
-helpcenter.affirm.ca
 helpcenter.affirm.com
 hackerone.affirm-odin.com
+helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -3320,11 +3320,11 @@ secureui.starbucks.com
 www.starbucks.com.br
 www.starbucks.com.sg
 www.starbucks.com.cn
-www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3538,15 +3538,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopify.com
 *.shopifycs.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3670,10 +3670,10 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 www.airbnb.com
-*.withairbnb.com
 www.hoteltonight.com
+*.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3884,7 +3884,6 @@ www.quip.com
 *.quip.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
-yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
