@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 21:12:39 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 22:11:36 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -185,8 +185,8 @@ cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-portal.taxi.booking.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -466,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.eu.floqast.app
 *.floqast.app
+*.eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -977,8 +977,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1149,9 +1149,9 @@ bullsheet.me
 admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
-www.instacart.com
 *.instacart.com
 *.instacart.tools
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1489,15 +1489,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-accounts.reddit.com
 *.reddit.com
-ads.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1744,7 +1744,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1754,6 +1753,7 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1833,24 +1833,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2503,7 +2498,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-admin.rezserver.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,9 +2696,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2725,10 +2720,10 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *racing.fanduel.com
+*.fanduel.com
 tvg.com
 *.fanduel.com
 *racing.fanduel.com
@@ -3441,10 +3436,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3454,9 +3449,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3538,18 +3533,18 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+shop.app
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
-shop.app
 *.shopifycloud.com
 admin.shopify.com
 *.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 partners.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3870,8 +3865,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3901,6 +3896,9 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3912,9 +3910,6 @@ app.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
 api.hackerone.com
-hackerone-user-content.com
-hackerone.live
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
