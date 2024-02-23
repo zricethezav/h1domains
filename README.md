@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 13:11:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 14:13:38 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
+*.toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,12 +284,12 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
 *.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -523,8 +523,8 @@ bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1751,8 +1751,8 @@ business.tiktok.com
 tiktok.com
 shop.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
@@ -2402,8 +2402,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2782,11 +2782,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.braintreegateway.com
-*.xoom.com
 *.paypalcorp.com
+*.xoom.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2945,9 +2945,9 @@ www.valvesoftware.com
 www.teamfortress.com
 www.dota2.com
 www.counter-strike.net
-api.steampowered.com
 steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3323,12 +3323,12 @@ www.starbucks.ca
 secureui.starbucks.com
 www.starbucks.com.br
 www.starbucks.com.sg
-www.starbucks.com.cn
 gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3676,8 +3676,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 www.hoteltonight.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3758,8 +3758,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3911,12 +3911,12 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-api.hackerone.com
 hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
-hackerone.com
+app.pullrequest.com
 ctf.hacker101.com
+hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
