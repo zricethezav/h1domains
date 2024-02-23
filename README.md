@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 09:12:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 10:11:56 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
+*.toolsforhumanity.com
 *.consumer.worldcoin.org
 getworldcoin.com
 bioid-management.app
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -133,13 +133,13 @@ www.mercadopago.com.pe
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -179,13 +179,13 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-spark.fareharbor.com
 *.booking.com
+spark.fareharbor.com
 account.booking.com
 portal.taxi.booking.com
 *.booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -719,8 +719,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -865,10 +865,10 @@ www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
 www.expediacruises.com
-www.hotels.com
-www.vrbo.com
 www.expedia.com
 www.expediagroup.com
+www.hotels.com
+www.vrbo.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1752,10 +1752,10 @@ business.tiktok.com
 tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-effecthouse.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 partner.tiktokshop.com
+effecthouse.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,19 +1834,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1968,9 +1975,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
-transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
+transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2499,7 +2506,7 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-www.getaroom.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2776,11 +2783,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.xoom.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3183,8 +3190,8 @@ bma.bumble.com
 corp.badoo.com
 hotornot.com
 zodia.studio
-www.bumble.com
 badoo.com
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3865,8 +3872,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3903,12 +3910,12 @@ hackerone.live
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
+ctf.hacker101.com
 hackerone.com
 hackerone.com
 api.hackerone.com
