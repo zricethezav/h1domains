@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 08:12:57 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 09:12:42 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
+*.toolsforhumanity.com
 worldcoin.org
 *.consumer.worldcoin.org
-*.toolsforhumanity.com
+getworldcoin.com
 bioid-management.app
 *.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -372,7 +372,6 @@ www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
-www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -405,6 +404,7 @@ visa.co.cr
 ht.visa.com
 www.visa.co.in
 www.authorize.net
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -482,12 +482,12 @@ api.krisha.kz
 app.krisha.kz
 m.krisha.kz
 m.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 krisha.kz
 kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -719,10 +719,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-*.kiwi.com
 *.skypicker.com
 auth.skypicker.com
 www.kiwi.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1752,10 +1752,10 @@ business.tiktok.com
 tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktok.com
-partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,26 +1834,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1887,7 +1880,6 @@ api.pns.hk
 www.pns.hk
 mapi.moneyback.com.hk
 www.moneyback.com.hk
-mapi-sim.fortress.com.hk
 www.fortress.com.hk
 www10.watsons.com.tw
 www.watsons.com.tw
@@ -2784,11 +2776,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.braintreegateway.com
-*.xoom.com
 *.paypalcorp.com
+*.xoom.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3677,8 +3669,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3915,8 +3907,8 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
