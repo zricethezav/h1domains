@@ -1,5 +1,7 @@
 import requests
+import re
 import json
+import itertools
 
 query_url = "https://hackerone.com/programs/search?query=type:hackerone&sort=published_at:descending&page={page}"
 
@@ -44,8 +46,11 @@ def hackerone_to_list():
     targets = {
         'domains': [],
         'with_bounty': [],
+        'source_code': [],
+        'source_code_with_bounty': []
     }
     csv = [['handle', 'domain', 'eligible_for_bounty']]
+    csv_source_code = [['handle', 'source_code', 'eligible_for_bounty']]
     page = 1
     with requests.Session() as session:
         while True:
@@ -63,7 +68,6 @@ def hackerone_to_list():
                     continue
 
                 resp = json.loads(r.text)
-                print('policy scope ', resp['handle'])
 
                 # new scope
                 query = json.dumps({'query': policy_scope_query,
@@ -78,13 +82,36 @@ def hackerone_to_list():
                     (e['eligible_for_submission'] and e['identifier'].startswith('*')):
                         identifier = e['identifier']
                         for i in identifier.split(','):
-                            targets['domains'].append(i)
+                          if i in targets['domains']:
+                            continue
+                          targets['domains'].append(i)
+                          bounty = e['eligible_for_bounty']
+                          if bounty is None:
+                              bounty = False
+                          if bounty is True:
+                              targets['with_bounty'].append(i)
+                          csv.append([resp['handle'], i, str(bounty)])
+                    if e['display_name'] == 'SourceCode' and e['eligible_for_submission']:
+                        identifier = e['identifier']
+                        for id in identifier.split(','):
+                          if (id.startswith('https://') 
+                              or id.startswith('http://') 
+                              or id.startswith('git')
+                              or id.startswith('www')
+                              or re.match(r'.*\/.*', id)):
+                            if id.startswith('git') or id.startswith('www'):
+                                id = "https://"+id
+                            if not id.startswith('http'):
+                                id = "https://github.com/"+id
+                            if id in id['source_code']:
+                                continue
+                            targets['source_code'].append(id)
                             bounty = e['eligible_for_bounty']
                             if bounty is None:
                                 bounty = False
                             if bounty is True:
-                                targets['with_bounty'].append(i)
-                            csv.append([resp['handle'], i, str(bounty)])
+                                targets['source_code_with_bounty'].append(id)
+                            csv_source_code.append([resp['handle'], id, str(bounty)])
 
                 # old scope
                 query = json.dumps({'query': scope_query,
@@ -106,14 +133,49 @@ def hackerone_to_list():
                             if bounty is True:
                                 targets['with_bounty'].append(i)
                             csv.append([resp['handle'], i, str(bounty)])
-    return targets, csv
+                    if node['asset_type'] == 'SOURCE_CODE':
+                        identifier = node['asset_identifier']
+                        for id in identifier.split(','):
+                          if (id.startswith('https://') 
+                              or id.startswith('http://') 
+                              or id.startswith('git')
+                              or id.startswith('www')
+                              or re.match(r'.*\/.*', id)):
+                            if id.startswith('git') or id.startswith('www'):
+                                id = "https://"+id
+                            if not id.startswith('http'):
+                                id = "https://github.com/"+id
+                            if id in targets['source_code']:
+                                continue
+                            targets['source_code'].append(id)
+                            bounty = node['eligible_for_bounty']
+                            if bounty is None:
+                                bounty = False
+                            if bounty is True:
+                                targets['source_code_with_bounty'].append(id)
+                            csv_source_code.append([resp['handle'], id, str(bounty)])
+
+    # dedupe
+    targets['domains'] = list(set(targets['domains']))
+    targets['with_bounty'] = list(set(targets['with_bounty']))
+    targets['source_code'] = list(set(targets['source_code']))
+    targets['source_code_with_bounty'] = list(set(targets['source_code_with_bounty']))
+
+    return targets, csv, csv_source_code
 
 
 if __name__ == "__main__":
-    targets, csv = hackerone_to_list()
+    targets, csv, csv_source_code = hackerone_to_list()
     with open('domains.txt', 'w') as f:
         f.write('\n'.join(targets['domains']))
     with open('domains_with_bounties.txt', 'w') as f:
         f.write('\n'.join(targets['with_bounty']))
     with open('domains.csv', 'w') as f:
         f.write('\n'.join([','.join(e) for e in csv]))
+    with open('source_code.csv', 'w') as f:
+        f.write('\n'.join([','.join(e) for e in csv_source_code]))
+    with open('source_code.txt', 'w') as f:
+        f.write('\n'.join(targets['source_code']))
+    with open('source_code_with_bounties.txt', 'w') as f:
+        f.write('\n'.join(targets['source_code_with_bounty']))
+
