@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 10:09:19 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 11:10:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -464,10 +464,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -485,8 +485,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -673,14 +673,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1743,7 +1743,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1754,6 +1753,7 @@ effecthouse.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1832,19 +1832,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2696,8 +2703,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2778,8 +2785,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.paypalcorp.com
-*.paypal.com
 *.hyperwallet.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3527,23 +3534,23 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopify.com
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopify.com
+*.shopifycs.com
 *.shopifycloud.com
 admin.shopify.com
-*.shopifycs.com
-shop.app
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 shopify.plus
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3664,10 +3671,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
