@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 02:13:33 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 03:09:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -86,13 +86,13 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 *.000webhost.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -127,7 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -138,6 +137,7 @@ www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
+api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.cl
 api.mercadopago.com
@@ -185,8 +185,8 @@ cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-account.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -464,9 +464,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -485,8 +485,8 @@ api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-kolesa.kz
 krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -895,8 +895,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1494,9 +1494,9 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
+ads.reddit.com
 accounts.reddit.com
 *.reddit.com
-ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1743,6 +1743,7 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1752,7 +1753,6 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1832,19 +1832,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2695,9 +2702,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2719,11 +2726,11 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*.fanduel.com
 *racing.fanduel.com
 tvg.com
 us.tvg.com
 com.fanduel.android.live
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2771,7 +2778,6 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
-*.paypalcorp.com
 paypal.me
 py.pl
 *.venmo.com
@@ -2780,6 +2786,7 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3527,8 +3534,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3587,8 +3594,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3902,8 +3909,8 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 ctf.hacker101.com
+app.pullrequest.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.live
