@@ -1,7 +1,3 @@
-https://docs.mapbox.com/android/
-https://github.com/owncloud/gallery
-https://github.com/nextcloud/circles
-https://github.com/smooch/smooch-android
 https://github.com/paragonie/constant_time_encoding
 https://github.com/moonpay
 https://github.com/johnbillion/query-monitor
