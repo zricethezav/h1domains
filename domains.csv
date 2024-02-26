@@ -29,9 +29,9 @@ vendasta,your-domain.socialsmbs.com,False
 vendasta,customervoice.biz,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
-vendasta,your-domain.snapshotreport.biz,False
 vendasta,partners.vendasta.com,False
 vendasta,*.yesware.com,False
+vendasta,your-domain.snapshotreport.biz,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -101,8 +101,8 @@ sheer_bbp,my.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
-pornbox,www.pornworld.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornworld.com,True
 pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.pornbox.com,True
@@ -200,9 +200,9 @@ mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.cl,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1674,12 +1674,12 @@ nba-vdp,cdn.nba.com,False
 nba-vdp,stats-trafficcop-prod.nba.com,False
 nba-vdp,core-api.nba.com,False
 nba-vdp,2kleague.nba.com,False
-nba-vdp,content-api-prod.nba.com,False
 nba-vdp,identity.nba.com,False
 nba-vdp,teamportal.nba.com,False
 nba-vdp,gleague.nba.com,False
 nba-vdp,nba.com,False
 nba-vdp,wnba.com,False
+nba-vdp,content-api-prod.nba.com,False
 nba-vdp,nba.com,False
 nba-vdp,wnba.com,False
 nba-vdp,2kleague.nba.com,False
@@ -1884,8 +1884,8 @@ daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3128,8 +3128,8 @@ indrive,watchdocs.indriverapp.com,True
 indrive,cargo.indrive.com,True
 indrive,*.indriver.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,argocd.indrive.dev,True
+indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
@@ -3422,9 +3422,9 @@ superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.pl,True
-superbet,*.superbet.ro,True
 superbet,*.magicjackpot.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -3674,9 +3674,9 @@ teleport,*.teleport.dev,True
 teleport,*.gravitational.io,True
 teleport,platform.teleport.sh,True
 teleport,h1-your-domain.teleport.sh,False
-teleport,teleport.sh,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.co,True
+teleport,teleport.sh,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -4639,6 +4639,8 @@ fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
 planetart,www.personalcreations.com,False
 planetart,*.gifts.com,False
+planetart,www.gifts.com,False
+planetart,*.iseeme.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.canvasworld.com,False
 planetart,iseeme.com,False
@@ -4647,8 +4649,6 @@ planetart,*.personalcreations.com,False
 planetart,*.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,*.iseeme.com,False
-planetart,www.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.mycustomcase.com,False
@@ -4840,8 +4840,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,etoropartners.com,True
 etoro_bbp,bullsheet.me,True
+etoro_bbp,etoropartners.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
@@ -5030,8 +5030,8 @@ tennessee-valley-authority,mytva.com,False
 tennessee-valley-authority,tvawcma.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tva.com,False
-tennessee-valley-authority,*.mytva.com,False
 tennessee-valley-authority,tvars.com,False
+tennessee-valley-authority,*.mytva.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,*.tva.com,False
@@ -7021,7 +7021,6 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,*.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7029,6 +7028,7 @@ tiktok,*.tiktokv.com,True
 tiktok,tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,www.pangleglobal.com,True
+tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7650,12 +7650,12 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.1688.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.taobao.com,True
 alibaba,*.aliyun.com,True
+alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
@@ -7716,9 +7716,9 @@ digitalocean,unified.cloudways.com,False
 digitalocean,www.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
-digitalocean,cloud.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,cloud.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8040,7 +8040,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.fuze.com,False
 8x8,*.adgjmp.net,False
 8x8,*.fuze.site,False
-8x8,*.thinkingphones.com,False
 8x8,express.8x8.com,False
 8x8,8x8.force.com,False
 8x8,supersite.8x8.com,False
@@ -8580,8 +8579,8 @@ pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,payment.pixiv.net,True
-pixiv,dic.pixiv.net,True
 pixiv,*.fanbox.cc,True
+pixiv,dic.pixiv.net,True
 pixiv,comic.pixiv.net,True
 pixiv,accounts.pixiv.net,True
 pixiv,www.pixiv.net,True
@@ -9106,8 +9105,8 @@ hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
 grammarly,grammarly.ai,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,*.grammarlyaws.com,True
@@ -10087,13 +10086,13 @@ shopify,shopify.plus,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
-shopify,*.shopifycs.com,True
 shopify,your-store.myshopify.com,True
 shopify,accounts.shopify.com,True
+shopify,linkpop.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
-shopify,linkpop.com,True
+shopify,*.shopifycs.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10137,8 +10136,8 @@ snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,ads.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -10224,7 +10223,6 @@ adobe,experience.adobe.com,False
 adobe,photoshop.com,False
 adobe,platform.adobe.com,False
 adobe,secure.echosign.com,False
-adobe,xd.adobe.com,False
 adobe,*.mixamo.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
@@ -10244,6 +10242,7 @@ adobe,behance.net,False
 adobe,creative.adobe.com,False
 adobe,experiencecloud.adobe.com,False
 adobe,fonts.adobe.com,False
+adobe,gps.echosign.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -10350,8 +10349,8 @@ airbnb,api.airbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.withairbnb.com,True
-airbnb,www.airbnb.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
