@@ -15,8 +15,8 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-teleport,https://github.com/gravitational/teleport-plugins,True
 teleport,https://github.com/gravitational/teleport,True
+teleport,https://github.com/gravitational/teleport-plugins,True
 cornershop,https://github.com/cornershop/*,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
@@ -200,8 +200,8 @@ cosmos,https://github.com/cosmos/ics23,True
 goldmansachs,https://github.com/finos/CatchIT,True
 valve,https://github.com/valvesoftware,False
 crypto,https://github.com/crypto-com/swap-contracts-periphery,True
-crypto,https://github.com/crypto-com/cro-staking,True
 crypto,https://github.com/crypto-com/swap-contracts-core,True
+crypto,https://github.com/crypto-com/cro-staking,True
 iovlabs,https://github.com/rsksmart/tokenbridge,True
 iovlabs,https://github.com/rsksmart/rif-wallet,True
 iovlabs,https://github.com/rsksmart/rif-wallet-libs,True
@@ -249,7 +249,6 @@ weblate,https://github.com/WeblateOrg/docker,False
 weblate,https://github.com/WeblateOrg/weblate,False
 weblate,https://github.com/WeblateOrg/website,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
-wordpress,https://github.com/*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress,True
 wordpress,https://github.com/ github.com/WordPress,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave/vault-updater,True
