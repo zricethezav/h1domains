@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 27 19:12:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 27 20:11:03 UTC 2024)
 ```
 www.mundi.com.br
 api.excalls.mobi
