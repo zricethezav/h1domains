@@ -50,9 +50,9 @@ ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/rack/rack,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/argoproj/argoproj,True
-ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/httpd,True
+ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/django,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
@@ -348,8 +348,8 @@ irccloud,https://github.com/irccloud/android,True
 concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
-aleo,https://github.com/AleoHQ/snarkOS/,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
+aleo,https://github.com/AleoHQ/snarkOS/,True
 raivo,https://github.com/raivo-otp/ios-application,False
 raivo,https://github.com/raivo-otp/issuer-icons,False
 raivo,https://github.com/raivo-otp/apns-server,False
