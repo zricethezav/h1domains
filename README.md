@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 14:13:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 15:09:51 UTC 2024)
 ```
 www.files.com
 marketplace.magento.com
