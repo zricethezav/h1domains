@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  3 06:10:33 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar  3 07:08:39 UTC 2024)
 ```
 bma.bumble.com
 com.fanduel.android.live
