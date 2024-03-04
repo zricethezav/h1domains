@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  4 08:26:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar  4 09:52:11 UTC 2024)
 ```
 horizonchaseturbo.com
 *.code.gov
