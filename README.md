@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  4 15:16:12 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar  4 16:14:24 UTC 2024)
 ```
 www.marktravel.com
 business.linkedin.com
