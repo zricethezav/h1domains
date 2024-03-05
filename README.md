@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 02:14:45 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 03:05:18 UTC 2024)
 ```
 http://rei.com/events
 api.fr.cloud.gov
