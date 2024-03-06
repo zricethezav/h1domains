@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 00:17:24 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 01:29:09 UTC 2024)
 ```
 http://rei.com/rei-garage
 shoppingcart.shipt.com
