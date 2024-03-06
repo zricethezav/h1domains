@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 09:12:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 10:05:20 UTC 2024)
 ```
 sensei.pixiv.net
 tswg.gov
