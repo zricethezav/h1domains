@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 22:09:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 23:08:12 UTC 2024)
 ```
 mas-sdk.amazon.com
 www.logitechg.com
