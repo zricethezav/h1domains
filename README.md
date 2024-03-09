@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 06:11:27 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 07:07:26 UTC 2024)
 ```
 https://judge.me/reviews
 datapod-2-druid-ingest.production.forescoutcloud.net
