@@ -315,9 +315,9 @@ truecaller_bbp,webdirectory-eu.truecaller.com,True
 truecaller_bbp,webonboarding-eu.truecaller.com,True
 remitly,cards.remitly.io,True
 remitly,rewire.com,True
-remitly,remitly.com,True
 remitly,app.rewire.to,True
 remitly,api.remitly.io,True
+remitly,remitly.com,True
 remitly,remitly.com,True
 remitly,api.remitly.io,True
 remitly,cards.remitly.io,True
@@ -469,11 +469,11 @@ hostinger,backend.zyro.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
 hostinger,cpanel.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -653,8 +653,8 @@ navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.navirefi.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
+frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
 cbre,*.cbre.*,False
@@ -2200,10 +2200,10 @@ daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*detroitconnect.com,False
+daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3500,10 +3500,10 @@ miro,http://miro.com/blog,True
 abb,abb.com.br,False
 abb,*.abb.com.tr,False
 abb,*.abb.com.cn,False
-abb,*.baldor.com,False
 abb,*.cylon.com,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
+abb,*.baldor.com,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
@@ -3734,7 +3734,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.superbet.rs,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
 superbet,*.luckydays.ca,True
@@ -3743,6 +3742,7 @@ superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.napoleonsports.be,True
 superbet,*.superbet.pl,True
+superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -3857,8 +3857,8 @@ expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.travelocity.ca,True
 expediagroup_bbp,www.expedia.com,True
-expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,*.expediapartnercentral.com,True
+expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,*.travelocity.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
@@ -3944,10 +3944,10 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,eng.magiceden.dev,False
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.workers.dev,True
+magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -4955,7 +4955,6 @@ planetart,www.gifts.com,False
 planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.mycustomcase.com,False
-planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
@@ -4966,6 +4965,7 @@ planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.personalcreations.com,False
 planetart,ai.planetart.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5429,11 +5429,11 @@ snowplow,docs.snowplow.io,False
 snowplow,snowplow.io,False
 snowplow,iglucentral.com,False
 snowplow,poplindata.com,False
-judgeme,judge.me,True
 judgeme,shop.judge.me,True
 judgeme,woocommerce-adapter.judge.me,True
 judgeme,bigcommerce-adapter.judge.me,True
 judgeme,cache.judge.me,True
+judgeme,judge.me,True
 judgeme,judge.me,True
 judgeme,https://judge.me/reviews,True
 judgeme,shop.judge.me,True
@@ -5700,7 +5700,6 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,www.elastic.co,True
 elastic,cloud.elastic.co,True
-john-deere,deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,myjohndeere.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -5734,7 +5733,6 @@ john-deere,hvc.bearflagrobotics.com,False
 john-deere,www.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
 john-deere,api.agrisync.com,False
-john-deere,app.agrisync.com,False
 john-deere,crm-connector.agrisync.com,False
 john-deere,cs-admin.agrisync.com,False
 john-deere,dc-service.agrisync.com,False
@@ -5745,6 +5743,8 @@ john-deere,dev-cs-admin.agrisync.com,False
 john-deere,dev-dc-service.agrisync.com,False
 john-deere,dev-diagnostics.agrisync.com,False
 john-deere,dev-ms-vendors1.agrisync.com,False
+john-deere,dev-ss-dashboard.agrisync.com,False
+john-deere,dev-vhb.agrisync.com,False
 john-deere,https://deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6483,11 +6483,11 @@ zebra_vdp,*.zebramwe.com,False
 zebra_vdp,*.zpc.zebra.com ,False
 lumiradx,www.lumiradx.com,False
 lumiradx,investors.lumiradx.com,False
-lumiradx,collaborazioni.lumiradx.com,False
 lumiradx,parcerias.lumiradx.com,False
 lumiradx,jira-quantum.lumiradx.com,False
 lumiradx,wiki-quantum.lumiradx.com,False
 lumiradx,jama.lumiradx.com,False
+lumiradx,collaborazioni.lumiradx.com,False
 lumiradx,https://connect.lumiradx.com/api/uk/router/v8.1/,False
 lumiradx,https://connect.lumiradx.com/api/uk/reports/v8.1/,False
 lumiradx,https://connect.lumiradx.com/api/uk/quantumsync/v8.1/,False
@@ -6519,7 +6519,6 @@ reddit,amp.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,ads-api.reddit.com,True
 reddit,www.reddit.com,True
-reddit,old.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.redditblog.com,True
@@ -6542,6 +6541,7 @@ reddit,matrix.redditspace.com,True
 reddit,redditforbusiness.com,True
 reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
+reddit,old.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7323,8 +7323,8 @@ citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,www.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,(yoursubdomain).sharefile.eu,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
@@ -7364,14 +7364,14 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,effecthouse.tiktok.com,True
+tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,ads.tiktok.com,True
+tiktok,www.pangleglobal.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8008,8 +8008,8 @@ alibaba,www.alibabagroup.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.tmall.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8469,9 +8469,7 @@ mtn_group,mtn.bj,False
 mtn_group,mtncameroon.net,False
 mtn_group,mtncongo.net,False
 mtn_group,mtn.ci,False
-mtn_group,mtn.com.gh,False
 mtn_group,lonestarcell.com,False
-mtn_group,mtnonline.com,False
 mtn_group,mtn.sd,False
 mtn_group,mtn.co.sz,False
 mtn_group,mtn.co.ug,False
@@ -8483,6 +8481,8 @@ mtn_group,mtnselfcare.co.zm,False
 mtn_group,mtnplay.co.zm,False
 mtn_group,www.mtn.zm,False
 mtn_group,mtngbissau.com,False
+mtn_group,ringtune.mtn.co.za,False
+mtn_group,dep.mtn.co.za,False
 mtn_group,mtn.com,False
 mtn_group,mtn.co.za,False
 mtn_group,mtn.com.af,False
@@ -9460,10 +9460,10 @@ fanduel,pabets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
 fanduel,www.4njbets.com,True
 fanduel,fdbox.net,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9696,8 +9696,8 @@ valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,playartifact.com,True
 valve,api.steampowered.com,True
-valve,www.teamfortress.com,True
 valve,help.steampowered.com,True
+valve,www.teamfortress.com,True
 valve,steamcommunity.com,True
 valve,store.steampowered.com,True
 valve,www.counter-strike.net,True
@@ -10117,8 +10117,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
-starbucks,www.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucksreserve.com,True
 starbucks,gift.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
@@ -10387,8 +10387,8 @@ shopify,arrive-server.shopifycloud.com,True
 shopify,*.shopifycs.com,True
 shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
-shopify,*.shopify.com,True
 shopify,partners.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.io,True
 shopify,*.shopifycs.com,True
@@ -10476,7 +10476,6 @@ ui,community.ui.com,True
 ui,ir.ui.com,False
 ui,help.ui.com,False
 ui,blog.ui.com,False
-ui,*.ui.com,True
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,rma.ui.com,True
@@ -10651,7 +10650,6 @@ airbnb,omgpro.airbnb.com,True
 airbnb,one.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.atairbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
@@ -10662,6 +10660,7 @@ airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
+airbnb,*.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10748,11 +10747,11 @@ x,*.vine.co,True
 x,*.twimg.com,True
 x,gnip.com,True
 x,t.co,False
-x,x.com,True
 x,xadsacademy.com,False
 x,api.x.ai,True
 x,grok.x.ai,True
 x,ide.x.ai,True
+x,x.com,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True
@@ -10834,11 +10833,11 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.custody.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
