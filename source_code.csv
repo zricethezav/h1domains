@@ -66,8 +66,8 @@ ibb,https://github.com/rack/rack,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
+skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 mainwp,https://github.com/mainwp/mainwp,True
