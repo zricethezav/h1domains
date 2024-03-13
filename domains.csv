@@ -572,10 +572,10 @@ bookingcom,www.fareharbor.com,True
 bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,careers.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -7369,11 +7369,11 @@ tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,ads.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8935,7 +8935,6 @@ coda_bbp,codahosted.io,True
 coda_bbp,codacontent.io,True
 pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
-pixiv,accounts.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -8947,6 +8946,7 @@ pixiv,payment.pixiv.net,True
 pixiv,neoket.net,True
 pixiv,novel.pixiv.net,True
 pixiv,coban.pixiv.net,True
+pixiv,accounts.pixiv.net,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -9076,7 +9076,6 @@ equifax,*.datacredito1.com,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*.equifax.cl,False
-equifax,*.equifax.com,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -9331,7 +9330,6 @@ hyatt,booking.beachbound.com,True
 hyatt,book.beachbound.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,holidays-nz.fijiairways.com,True
-hyatt,res.en.travelbrandsagent.com,True
 hyatt,res.funjet.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.secretsresorts.com,True
@@ -9356,6 +9354,7 @@ hyatt,res.fr.travelbrandsagent.com,True
 hyatt,res.southwestvacations.com,True
 hyatt,res.universalorlandovacations.com,True
 hyatt,res.vacations.united.com,True
+hyatt,res.vacations.universalstudioshollywood.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9526,8 +9525,8 @@ paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
-paypal,*.paypal.com,True
 paypal,www.loanbuilder.com,True
+paypal,*.paypal.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9857,7 +9856,6 @@ localtapiola,verkkopalvelu.tapiola.fi,True
 localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,secure.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
@@ -9869,6 +9867,7 @@ localtapiola,sijoitusvakuutus.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,*.beta.lahitapiola.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -10331,8 +10330,8 @@ radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
-radancy,devmaximum.com,True
 radancy,www.werkenbijbakertilly.nl,True
+radancy,devmaximum.com,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,no-reply.cloud,True
@@ -10395,8 +10394,8 @@ shopify,*.shopifycs.com,True
 shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopify.io,True
-shopify,*.shopify.com,True
 shopify,partners.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
