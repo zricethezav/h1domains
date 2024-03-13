@@ -370,9 +370,9 @@ vendasta,partners.vendasta.com,False
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
-tari_labs,www.tari.com,True
 tari_labs,tlu.tarilabs.com,False
 tari_labs,www.tarilabs.com,True
+tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -499,8 +499,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -1907,7 +1907,6 @@ fertitta_entertainment,thepostoakhotel.com,False
 fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,tilmanfertitta.com,False
 fertitta_entertainment,fertittaentertainmentinc.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
 aboitizpower_corporation,*.cotabatolight.com,False
@@ -1946,6 +1945,7 @@ aboitizpower_corporation,sustainablephilippines.com,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,visayanelectric.com.ph,False
 aboitizpower_corporation,visayanelectric.ph,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -3160,8 +3160,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -7171,7 +7171,6 @@ bitso,api.bitso.com,True
 bitso,http://bitso.com/alpha,True
 bitso,nvio.mx,True
 bitso,nvio.ar,True
-lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7182,8 +7181,9 @@ lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
-lark_technologies,app.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
+lark_technologies,app.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
@@ -7370,10 +7370,10 @@ tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,www.pangleglobal.com,True
+tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9623,7 +9623,6 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.com,True
 goldmansachs,*.honestdollar.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.ayco.com,True
@@ -9866,8 +9865,8 @@ localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,privatetarget-2-secure.zigzag,True
-localtapiola,*.beta.lahitapiola.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.beta.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -10123,8 +10122,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
-starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucks.com,True
+starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,gift.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
@@ -10330,8 +10329,8 @@ radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
-radancy,www.werkenbijbakertilly.nl,True
 radancy,devmaximum.com,True
+radancy,www.werkenbijbakertilly.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,no-reply.cloud,True
@@ -10394,9 +10393,9 @@ shopify,*.shopifycs.com,True
 shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopify.io,True
-shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
