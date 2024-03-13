@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -3250,8 +3250,8 @@ mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,support.mozilla.org,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.mozilla.org,True
+mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3836,7 +3836,6 @@ yuga_labs,*.wenewmoments.com,True
 yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
 expediagroup_bbp,www.hotels.com,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -3861,6 +3860,7 @@ expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.travelocity.ca,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
@@ -5193,10 +5193,10 @@ etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,*.instacart.com,True
+instacart,www.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -7181,8 +7181,8 @@ lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
-lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,app.larksuite.com,True
+lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
@@ -7262,7 +7262,6 @@ yoti,code.yoti.com,True
 yoti,www.yotisign.com,True
 yoti,hub.yoti.com,True
 yoti,identity.yoti.com,True
-netlify,api.netlify.com,True
 netlify,supportal.netlify.app,True
 netlify,netlify-cdp-loader.netlify.app,True
 netlify,screenshot-proxy.netlify.app,True
@@ -7276,6 +7275,7 @@ netlify,internal.netlify.com,True
 netlify,*.infra-prod.nsvcs.net,True
 netlify,*.ops.netlify.com,True
 netlify,app.netlify.com,True
+netlify,api.netlify.com,True
 netlify,*.services.netlify.com,True
 netlify,*.services-prod.nsvcs.net,True
 netlify,*.infra-prod.nsvcs.net,True
@@ -7299,7 +7299,6 @@ basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
 basecamp,world.hey.com,True
 citrix,citrix.cloud.com,True
-citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
 citrix,eu.cloud.com,True
 citrix,us.cloud.com,True
@@ -7327,6 +7326,7 @@ citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,(yoursubdomain).sharefile.com,True
+citrix,www.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7367,12 +7367,12 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,ads.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,*.tiktok.com,True
+tiktok,www.pangleglobal.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9699,8 +9699,8 @@ valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,playartifact.com,True
 valve,api.steampowered.com,True
-valve,www.teamfortress.com,True
 valve,help.steampowered.com,True
+valve,www.teamfortress.com,True
 valve,steamcommunity.com,True
 valve,store.steampowered.com,True
 valve,www.counter-strike.net,True
@@ -9863,8 +9863,8 @@ localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,privatetarget-2-secure.zigzag,True
-localtapiola,*.beta.lahitapiola.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.beta.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -10327,8 +10327,8 @@ radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
-radancy,www.werkenbijbakertilly.nl,True
 radancy,devmaximum.com,True
+radancy,www.werkenbijbakertilly.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,no-reply.cloud,True
@@ -10841,8 +10841,8 @@ coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,institutional.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
 coinbase,nft.coinbase.com,True
