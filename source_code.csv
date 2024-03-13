@@ -2,8 +2,8 @@ handle,source_code,eligible_for_bounty
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -67,8 +67,8 @@ fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
-skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/libBLS,True
+skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 mainwp,https://github.com/mainwp/mainwp,True
 mainwp,https://github.com/mainwp/mainwp-child,True
@@ -85,7 +85,6 @@ kubernetes,https://github.com/kubernetes-client,True
 kubernetes,https://github.com/kubernetes-incubator,False
 kubernetes,https://github.com/kubernetes-retired,False
 kubernetes,https://github.com/kubernetes/csi-api,True
-kubernetes,https://github.com/kubernetes/kubernetes,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
 kubernetes,https://github.com/kubernetes/kube-openapi,True
@@ -131,6 +130,7 @@ kubernetes,https://github.com/kubernetes/ingress-gce,False
 kubernetes,https://github.com/kubernetes/ingress-nginx,True
 kubernetes,https://github.com/kubernetes/kops,True
 kubernetes,https://github.com/kubernetes/minikube,True
+kubernetes,https://github.com/kubernetes/kubernetes,True
 kubernetes,https://github.com/kubernetes/kompose,True
 kubernetes,https://github.com/kubernetes/kube-state-metrics,True
 kubernetes,https://github.com/kubernetes/autoscaler,True
