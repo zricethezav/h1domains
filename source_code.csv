@@ -280,11 +280,11 @@ nextcloud,https://github.com/nextcloud/nextcloud_announcements,True
 nextcloud,https://github.com/nextcloud/logreader,True
 nextcloud,https://github.com/nextcloud/survey_client,True
 nextcloud,https://github.com/nextcloud/updater,True
+nextcloud,https://github.com/nextcloud/files_rightclick,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
-nextcloud,https://github.com/nextcloud/files_rightclick,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
