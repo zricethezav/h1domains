@@ -25,10 +25,10 @@ teleport,https://github.com/gravitational/teleport,True
 teleport,https://github.com/gravitational/teleport-plugins,True
 cornershop,https://github.com/cornershop/*,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/endojs,False
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 snowplow,https://github.com/snowplow/,False
 snowplow,https://github.com/snowplow-incubator,False
 snowplow,https://github.com/snowplow-devops,False
@@ -197,12 +197,12 @@ arkadiyt-projects,https://github.com/arkadiyt/ddexport,False
 arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 cosmos,https://github.com/cosmos/iavl,True
-cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/cosmos/ics23,True
+cosmos,https://github.com/cosmos/gaia,True
 goldmansachs,https://github.com/finos/CatchIT,True
 valve,https://github.com/valvesoftware,False
 crypto,https://github.com/crypto-com/chain-desktop-wallet,True
