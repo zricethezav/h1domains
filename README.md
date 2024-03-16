@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 13:10:54 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 14:08:36 UTC 2024)
 ```
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 *.vladcazino.ro
