@@ -236,9 +236,9 @@ hyperledger,https://github.com/hyperledger/fabric-protos,True
 plaid,https://github.com/plaid/plaid-link-ios,True
 plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/plaid-link-examples,True
-plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
 plaid,https://github.com/plaid/react-plaid-link,True
+plaid,https://github.com/plaid/plaid-ruby,True
 passhash,https://github.com/dhui/passhash,False
 johnblackbourn,https://github.com/johnbillion/user-switching,False
 johnblackbourn,https://github.com/johnbillion/query-monitor,False
