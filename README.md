@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 13:11:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 14:08:40 UTC 2024)
 ```
 https://github.com/rsksmart/rsk-powhsm/
 gutenberg.run
