@@ -66,8 +66,8 @@ ibb,https://github.com/apache/airflow,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
+skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/libBLS,True
 mainwp,https://github.com/mainwp/mainwp,True
@@ -248,6 +248,7 @@ ed,https://github.com/securitytxt/*,False
 aspen,https://github.com/AspenWeb,False
 bitwarden,https://github.com/passwordless,False
 bitwarden,https://github.com/bitwarden,False
+delight_im,https://github.com/delight-im,False
 weblate,https://github.com/WeblateOrg/weblate,False
 weblate,https://github.com/WeblateOrg/wlc,False
 weblate,https://github.com/WeblateOrg/docker,False
@@ -390,7 +391,6 @@ tts,https://github.com/18F/federalist,True
 tts,https://github.com/18F/federalist-builder,True
 tts,https://github.com/18F/docker-ruby-ubuntu,True
 tts,https://github.com/18F/federalist-docker-build,True
-delight_im,https://github.com/delight-im,False
 paragonie,https://github.com/paragonie/sodium_compat,True
 paragonie,https://github.com/paragonie/easydb,True
 paragonie,https://github.com/paragonie/halite,True
