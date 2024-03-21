@@ -71,8 +71,8 @@ skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/libBLS,True
-mainwp,https://github.com/mainwp/mainwp,True
 mainwp,https://github.com/mainwp/mainwp-child,True
+mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
