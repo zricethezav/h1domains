@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 02:17:46 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 03:07:32 UTC 2024)
 ```
 paynotifications.booking.com
 gaming.logicool.co.jp
