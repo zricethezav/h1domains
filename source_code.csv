@@ -281,9 +281,9 @@ nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/photos,True
+nextcloud,https://github.com/nextcloud/mail,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/user_saml,True
-nextcloud,https://github.com/nextcloud/mail,True
 nextcloud,https://github.com/nextcloud/circles,True
 nextcloud,https://github.com/nextcloud/data_request,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
