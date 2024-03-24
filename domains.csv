@@ -330,10 +330,10 @@ toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
-toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -410,8 +410,8 @@ arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
-arkose_labs,www.arkoselabs.com,True
 arkose_labs,demo.arkoselabs.com,True
+arkose_labs,www.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
@@ -2028,9 +2028,9 @@ shi_vdp,assetinsights.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
 shi_vdp,servicepro.shi.com,False
 shi_vdp,www.content.shi.com,False
-shi_vdp,www.shi.com,False
 shi_vdp,api.shi.com,False
 shi_vdp,durango.shi.com,False
+shi_vdp,www.shi.com,False
 shi_vdp,accounts.shi.com,False
 shi_vdp,accounts.shi.com,False
 shi_vdp,api.shi.com,False
@@ -2059,9 +2059,9 @@ redox_bbp,gamma.redoxstage.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
@@ -3246,8 +3246,8 @@ mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
+mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
@@ -3408,8 +3408,8 @@ apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
 okg,*.oklink.com,True
 okg,*.okg.com,True
-okg,*.okx.com,True
 okg,*.okcoin.com,True
+okg,*.okx.com,True
 okg,*.okx.com,True
 okg,*.okcoin.com,True
 okg,*.oklink.com,True
@@ -3446,8 +3446,8 @@ indrive,injob.indriver.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,auth.indrive.tech,True
-indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
+indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,ci.indrive.dev,True
 indrive,cargo.indrive.com,True
 indrive,*.indriverapp.com,True
@@ -3762,8 +3762,8 @@ superbet,*.napoleonsports.be,True
 superbet,*.superbet.pl,True
 moonpay,moonpay.com,True
 moonpay,hypermint.com,True
-moonpay,*.hypermint.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,*.hypermint.com,True
 moonpay,*.moonpay.com,True
 moonpay,*.moonpaycloud.com,True
 moonpay,*.hypermint.com,True
@@ -3860,10 +3860,10 @@ expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.wotif.com,True
 expediagroup_bbp,*.carrentals.com,True
-expediagroup_bbp,www.hotels.com,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,*.expediacruises.com,True
+expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,*.hotwire.com,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
@@ -4957,7 +4957,6 @@ planetart,www.mycustomcase.com,False
 planetart,*.photoaffections.com,False
 planetart,iseeme.com,False
 planetart,*.personalcreations.com,False
-planetart,*.cafepress.com,False
 planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.simplytoimpress.com,False
@@ -4967,6 +4966,7 @@ planetart,*.mycustomcase.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.simplytoimpress.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5001,8 +5001,8 @@ oanda,*.tmsbrokers.com,False
 razorpay,checkout.razorpay.com,True
 razorpay,payroll.razorpay.com,True
 razorpay,invoices.razorpay.com,True
-razorpay,x.razorpay.com,True
 razorpay,api.razorpay.com,True
+razorpay,x.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,api.razorpay.com,True
@@ -5095,8 +5095,8 @@ exness,pwapi.ex2b.com,True
 exness,api.excalls.mobi,True
 exness,social-trading.exness.com,True
 exness,my.exness.com,True
-exness,exnessaffiliates.com,True
 exness,exness.com,True
+exness,exnessaffiliates.com,True
 exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,https://my.exness.com/webtrading/,True
@@ -5200,9 +5200,9 @@ etoro_bbp,bullsheet.me,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,*.instacart.com,True
-instacart,api.instacart.com,True
 instacart,www.instacart.com,True
+instacart,api.instacart.com,True
+instacart,*.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -6202,10 +6202,10 @@ stripe,api.taxjar.com,True
 stripe,*.reckoproduction.com,True
 stripe,*.link.co,True
 stripe,*.reckostaging.com,True
+stripe,*.touchtechpayments.com,True
 stripe,www.stripe.partners,False
 stripe,*.recko.io,True
 stripe,js.stripe.com,True
-stripe,*.touchtechpayments.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,app.taxjar.com,True
@@ -9409,11 +9409,11 @@ fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,fanduel.design,True
 fanduel,ia.tvg.com,True
-fanduel,mobile-prod.tvg.com,True
-fanduel,login.tvg.com,True
-fanduel,*racing.fanduel.com,True
-fanduel,us.tvg.com,True
 fanduel,www.4njbets.com,True
+fanduel,us.tvg.com,True
+fanduel,login.tvg.com,True
+fanduel,mobile-prod.tvg.com,True
+fanduel,*racing.fanduel.com,True
 fanduel,tvg.com,True
 fanduel,sportsbook.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9744,8 +9744,8 @@ toyota,www.login.gac.toyota.com,False
 toyota,www.lexusfinancial.com,False
 toyota,www.toyotafinancial.com,False
 toyota,www.global.toyota,False
-toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.lexus.com,False
+toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.link.gac.toyota.com,False
 toyota,www.toyota.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
@@ -10392,9 +10392,9 @@ snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,web.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -10478,7 +10478,6 @@ adobe,captivateprime.adobe.com,False
 adobe,cbconnection.adobe.com,False
 adobe,cloud.acrobat.com,False
 adobe,coldfusion.adobe.com,False
-adobe,community.adobe.com,False
 adobe,create.adobe.com,False
 adobe,creative.adobe.com,False
 adobe,documentcloud.adobe.com,False
