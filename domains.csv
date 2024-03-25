@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 banco_bmg,*.bmgconsig.com.br,False
-banco_bmg,*.bancobmg.com.br,False
 banco_bmg,*.help.com.br,False
+banco_bmg,*.bancobmg.com.br,False
 banco_bmg,*.bancobmg.com.br,False
 banco_bmg,*.bmgconsig.com.br,False
 banco_bmg,*.help.com.br,False
@@ -441,8 +441,8 @@ dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
-dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
+dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
@@ -2193,8 +2193,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*omniplus.com,False
@@ -3206,19 +3206,19 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
-mozilla_critical_services,firefox.settings.services.mozilla.com,True
-mozilla_critical_services,push.services.mozilla.com,True
-mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,crash-stats.allizom.org,True
+mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,shavar.services.mozilla.com,True
-mozilla_critical_services,sync.services.mozilla.com,True
+mozilla_critical_services,firefox.settings.services.mozilla.com,True
+mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
+mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
-mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,crash-reports.allizom.org,True
+mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
@@ -3240,11 +3240,11 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,community-tc.services.mozilla.com,True
-mozilla_core_services,profiler.firefox.com,True
+mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
+mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
@@ -3316,8 +3316,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,www.prolinx.co.uk,False
@@ -3341,8 +3341,8 @@ hilton,*.hilton.com.tr,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,*.hilton.io,True
-hilton,hilton.io,True
 hilton,hilton.com,True
+hilton,hilton.io,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
@@ -3407,9 +3407,9 @@ apnic,submission.apnic.net,False
 apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
 okg,*.oklink.com,True
-okg,*.okg.com,True
-okg,*.okx.com,True
 okg,*.okcoin.com,True
+okg,*.okx.com,True
+okg,*.okg.com,True
 okg,*.okx.com,True
 okg,*.okcoin.com,True
 okg,*.oklink.com,True
@@ -3444,8 +3444,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,injob.indriver.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,auth.indrive.tech,True
-indrive,*.indriver.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
+indrive,*.indriver.com,True
 indrive,ci.indrive.dev,True
 indrive,cargo.indrive.com,True
 indrive,*.indriverapp.com,True
@@ -3576,8 +3576,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,digili.s-cloud.fi,True
-s-pankki,mobile.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,mobile.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -3761,8 +3761,8 @@ superbet,*.napoleonsports.be,True
 superbet,*.superbet.pl,True
 moonpay,moonpay.com,True
 moonpay,hypermint.com,True
-moonpay,*.hypermint.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,*.hypermint.com,True
 moonpay,*.moonpay.com,True
 moonpay,*.moonpaycloud.com,True
 moonpay,*.hypermint.com,True
@@ -3859,8 +3859,8 @@ expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.wotif.com,True
 expediagroup_bbp,*.carrentals.com,True
-expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,www.hotels.com,True
+expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,*.vrbo.com,True
@@ -4826,7 +4826,7 @@ mars,*.royalcanin.sk,False
 mars,*.banfield.com,False
 mars,*.royalcanin.es,False
 mars,practice.securevetsource.com,False
-mars,*.royalcanin.be,False
+mars,*.findroyalcanin.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -5093,8 +5093,8 @@ exness,pwapi.ex2b.com,True
 exness,api.excalls.mobi,True
 exness,social-trading.exness.com,True
 exness,my.exness.com,True
-exness,exnessaffiliates.com,True
 exness,exness.com,True
+exness,exnessaffiliates.com,True
 exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,https://my.exness.com/webtrading/,True
@@ -5198,9 +5198,9 @@ etoro_bbp,bullsheet.me,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,*.instacart.com,True
-instacart,api.instacart.com,True
 instacart,www.instacart.com,True
+instacart,api.instacart.com,True
+instacart,*.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -6548,8 +6548,8 @@ reddit,*.reddit.com,True
 reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,*.redditinc.com,True
 reddit,*.redditmedia.com,True
+reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6610,8 +6610,8 @@ ohiosecretaryofstate,*.safeathomeohio.gov,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
-ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.ohiosos.gov,False
+ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.boe.ohio.gov,False
 ohiosecretaryofstate,*.militaryvotes.ohio.gov,False
 ohiosecretaryofstate,*.ohiobusinesscentral.gov,False
@@ -7378,8 +7378,8 @@ tiktok,creatormarketplace.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,ads.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8007,9 +8007,9 @@ alibaba,*.aliyun.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.Daraz.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
@@ -8241,7 +8241,6 @@ nutanix,beam.nutanix.com,False
 nutanix,www.nutanix.dev,False
 nutanix,testdrive.nutanix.com,False
 topcoder,challenges.topcoder.com,False
-topcoder,www.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
@@ -8290,6 +8289,7 @@ topcoder,vpn.topcoder.com,False
 topcoder,webhooks.topcoder.com,False
 topcoder,wordpress.topcoder.com,False
 topcoder,wordpress-move.topcoder.com,False
+topcoder,x.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
@@ -9406,12 +9406,12 @@ fanduel,pabets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,fanduel.design,True
-fanduel,us.tvg.com,True
 fanduel,ia.tvg.com,True
-fanduel,www.4njbets.com,True
 fanduel,mobile-prod.tvg.com,True
 fanduel,login.tvg.com,True
 fanduel,*racing.fanduel.com,True
+fanduel,us.tvg.com,True
+fanduel,www.4njbets.com,True
 fanduel,tvg.com,True
 fanduel,sportsbook.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9672,8 +9672,8 @@ crypto,js.crypto.com,True
 crypto,app.mona.co,True
 crypto,pay.crypto.com,True
 crypto,www.crypto.com,True
-crypto,merchant.crypto.com,True
 crypto,*.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True
@@ -10256,8 +10256,8 @@ algolia,*.algolianet.com,True
 algolia,www.algolia.com,True
 deriv,cashier.deriv.com,True
 deriv,secure-dfadmin.deriv.com,True
-deriv,derivws.com,True
 deriv,*.derivws.com,True
+deriv,derivws.com,True
 deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
 deriv,oauth.deriv.com,True
@@ -10845,8 +10845,8 @@ security,hackerone-ext-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,www.wearehackerone.com,True
-security,hackathon-photos.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
+security,hackathon-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
 security,api.hackerone.com,True
