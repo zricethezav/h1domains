@@ -61,9 +61,9 @@ ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/django,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/libuv/libuv,True
-ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/tomcat,True
+ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
@@ -329,9 +329,9 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
