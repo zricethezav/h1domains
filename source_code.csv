@@ -3,8 +3,8 @@ chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 tari_labs,https://github.com/tari-project/,True
@@ -47,7 +47,6 @@ gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
 ibb,https://github.com/ruby,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/rubygems/rubygems,True
-ibb,https://github.com/Electron,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/apache/httpd,True
@@ -64,6 +63,7 @@ ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/curl/curl,True
+ibb,https://github.com/Electron,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
@@ -330,8 +330,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
-gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
