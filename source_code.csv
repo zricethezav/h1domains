@@ -1,10 +1,10 @@
 handle,source_code,eligible_for_bounty
 chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/clvm_rs,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 tari_labs,https://github.com/tari-project/,True
@@ -21,8 +21,8 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-teleport,https://github.com/gravitational/teleport,True
 teleport,https://github.com/gravitational/teleport-plugins,True
+teleport,https://github.com/gravitational/teleport,True
 cornershop,https://github.com/cornershop/*,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
@@ -52,8 +52,6 @@ ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/rack/rack,True
-ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/django,True
@@ -61,8 +59,10 @@ ibb,https://git.libssh.org/,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/curl/curl,True
+ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/Electron,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/ruby,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -415,8 +415,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/ocis,True
+owncloud,https://github.com/owncloud/user_ldap,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
