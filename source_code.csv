@@ -9,8 +9,8 @@ alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 tari_labs,https://github.com/tari-project/,True
 dynatrace,https://github.com/Dynatrace-oss-contrib,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 leather_wallet,https://github.com/leather-wallet/desktop,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
@@ -21,8 +21,8 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-teleport,https://github.com/gravitational/teleport-plugins,True
 teleport,https://github.com/gravitational/teleport,True
+teleport,https://github.com/gravitational/teleport-plugins,True
 cornershop,https://github.com/cornershop/*,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
@@ -61,8 +61,8 @@ ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/Electron,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/ruby,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -281,6 +281,7 @@ nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
+nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/spreed,True
@@ -305,7 +306,6 @@ nextcloud,https://github.com/nextcloud/calendar,True
 nextcloud,https://github.com/nextcloud/contacts,True
 nextcloud,https://github.com/nextcloud/richdocuments,True
 nextcloud,https://github.com/nextcloud/onlyoffice,True
-nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
 nextcloud,https://github.com/nextcloud/deck,True
 nextcloud,https://github.com/nextcloud/bruteforcesettings,True
 nextcloud,https://github.com/nextcloud/related_resources,True
