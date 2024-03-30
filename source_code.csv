@@ -9,8 +9,8 @@ alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 tari_labs,https://github.com/tari-project/,True
 dynatrace,https://github.com/Dynatrace-oss-contrib,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 leather_wallet,https://github.com/leather-wallet/desktop,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
@@ -56,14 +56,14 @@ ibb,https://github.com/openssl/openssl,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/Nginx,True
+ibb,https://github.com/libuv/libuv,True
+ibb,https://github.com/ruby,True
+ibb,https://github.com/django,True
+ibb,https://github.com/curl/curl,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/Electron,True
-ibb,https://github.com/curl/curl,True
-ibb,https://github.com/libuv/libuv,True
-ibb,https://github.com/ruby,True
-ibb,https://github.com/django,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
@@ -107,7 +107,6 @@ kubernetes,https://github.com/kubernetes/publishing-bot,True
 kubernetes,https://github.com/kubernetes/cloud-provider-gcp,False
 kubernetes,https://github.com/kubernetes/security,False
 kubernetes,https://github.com/kubernetes/cluster-registry,True
-kubernetes,https://github.com/kubernetes/k8s.io,True
 kubernetes,https://github.com/kubernetes/examples,False
 kubernetes,https://github.com/kubernetes/steering,False
 kubernetes,https://github.com/kubernetes/klog,True
@@ -126,8 +125,10 @@ kubernetes,https://github.com/kubernetes/kube-deploy,True
 kubernetes,https://github.com/kubernetes/release,True
 kubernetes,https://github.com/kubernetes/cloud-provider-openstack,False
 kubernetes,https://github.com/kubernetes/perf-tests,False
+kubernetes,https://github.com/kubernetes/cloud-provider-azure,False
 kubernetes,https://github.com/kubernetes/kubernetes,True
 kubernetes,https://github.com/kubernetes/apiserver,True
+kubernetes,https://github.com/kubernetes/k8s.io,True
 kubernetes,https://github.com/kubernetes/test-infra,True
 kubernetes,https://github.com/kubernetes/ingress-nginx,True
 kubernetes,https://github.com/kubernetes/autoscaler,True
@@ -145,7 +146,6 @@ kubernetes,https://github.com/kubernetes/cloud-provider,True
 kubernetes,https://github.com/kubernetes-security,True
 kubernetes,https://github.com/kubernetes-client,True
 kubernetes,https://github.com/kubernetes-csi,True
-kubernetes,https://github.com/kubernetes/cloud-provider-azure,False
 kubernetes,https://github.com/kubernetes/cloud-provider-vsphere,False
 kubernetes,https://github.com/kubernetes/legacy-cloud-providers,False
 kubernetes,https://github.com/kubernetes-incubator,False
@@ -415,8 +415,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/user_ldap,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
