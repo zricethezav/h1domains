@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 30 22:10:39 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 30 23:05:53 UTC 2024)
 ```
 lando.services.mozilla.com
 grafana.fr.cloud.gov
