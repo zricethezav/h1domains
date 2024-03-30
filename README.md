@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 30 06:10:42 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 30 07:07:32 UTC 2024)
 ```
 *.casinohuone.com
 k8s.io
