@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 31 02:13:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 31 03:07:41 UTC 2024)
 ```
 enterprise-auth-noneu.truecaller.com
 www.expediapartnersolutions.com
