@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  1 21:09:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  1 22:06:23 UTC 2024)
 ```
 mozilla-pontoon-staging.herokuapp.com
 chatdate.app
