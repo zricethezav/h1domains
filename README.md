@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 31 23:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  1 00:18:57 UTC 2024)
 ```
 search-warnings-asia-south1.truecaller.com
 *.sportinglife.com
