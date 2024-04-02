@@ -74,8 +74,8 @@ skale_network,https://github.com/skalenetwork/sgxwallet,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
+polygon-technology,https://github.com/maticnetwork/bor,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -256,9 +256,9 @@ brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -415,8 +415,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/ocis,True
+owncloud,https://github.com/owncloud/user_ldap,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
