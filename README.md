@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  4 15:11:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr  4 16:09:25 UTC 2024)
 ```
 admin.8x8.com
 prod-dp-discovery-us-east-1.amazon.com
