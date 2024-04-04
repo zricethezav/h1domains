@@ -2,8 +2,8 @@ handle,source_code,eligible_for_bounty
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -204,8 +204,8 @@ valve,https://github.com/valvesoftware,False
 crypto,https://github.com/crypto-com/chain-desktop-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
-rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
+rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 hyperledger,https://github.com/hyperledger/fabric,True
@@ -256,9 +256,9 @@ brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -415,8 +415,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/user_ldap,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
