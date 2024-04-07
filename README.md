@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 01:34:28 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 02:14:31 UTC 2024)
 ```
 http://vimeo.com/ondemand
 *.chalet.8x8.com
