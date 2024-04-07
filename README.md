@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 10:09:47 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 11:05:34 UTC 2024)
 ```
 *.folioidentity.com
 https://my.exness.com/pa/pim/manager
