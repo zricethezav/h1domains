@@ -256,9 +256,9 @@ brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
