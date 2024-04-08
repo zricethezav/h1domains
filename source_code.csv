@@ -204,8 +204,8 @@ valve,https://github.com/valvesoftware,False
 crypto,https://github.com/crypto-com/chain-desktop-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
-rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
+rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 hyperledger,https://github.com/hyperledger/fabric,True
@@ -256,9 +256,9 @@ brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
@@ -278,7 +278,6 @@ nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/viewer,True
-nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
 nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
@@ -287,13 +286,14 @@ nextcloud,https://github.com/nextcloud/fulltextsearch,True
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/flow_notifications,True
 nextcloud,https://github.com/nextcloud/fulltextsearch_elasticsearch,True
+nextcloud,https://github.com/nextcloud/files_fulltextsearch,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/spreed,True
+nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/data_request,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
-nextcloud,https://github.com/nextcloud/files_fulltextsearch,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
 nextcloud,https://github.com/nextcloud/guests,True
 nextcloud,https://github.com/nextcloud/sharepoint,True
