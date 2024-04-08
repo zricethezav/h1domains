@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 03:09:54 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 04:05:56 UTC 2024)
 ```
 eu.remix.com
 https://github.com/rsksmart/rsk-powhsm/
