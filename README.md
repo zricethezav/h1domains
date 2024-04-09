@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  9 21:10:53 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr  9 22:06:22 UTC 2024)
 ```
 paynotifications.booking.com
 http://www.amazon.com/cpe/yourpayments/wallet
