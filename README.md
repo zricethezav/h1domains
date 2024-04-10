@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 10:10:17 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 11:07:22 UTC 2024)
 ```
 *.avecspotify.com
 streaming.iris.acceptance.forescoutcloud.net
