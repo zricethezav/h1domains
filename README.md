@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 11 11:09:39 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 11 12:07:26 UTC 2024)
 ```
 https://coda.io/signup/email
 jira.hyattdev.com
