@@ -203,8 +203,8 @@ valve,https://github.com/valvesoftware,False
 crypto,https://github.com/crypto-com/chain-desktop-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
-rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
+rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 hyperledger,https://github.com/hyperledger/fabric,True
