@@ -47,13 +47,13 @@ gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://github.com/Nginx,True
 ibb,https://git.libssh.org/,True
+ibb,https://github.com/Nginx,True
 ibb,https://github.com/ruby,True
+ibb,https://github.com/django,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/Electron,True
-ibb,https://github.com/django,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/argoproj/argoproj,True
