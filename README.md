@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 01:31:43 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 02:11:56 UTC 2024)
 ```
 basicattentiontoken.org
 *.search.gov
