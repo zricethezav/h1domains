@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 05:06:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 06:06:36 UTC 2024)
 ```
 *.securityservices.io
 https://www.amazon.com/amazoncash
