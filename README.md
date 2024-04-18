@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 05:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 06:09:16 UTC 2024)
 ```
 idp.int.identitysandbox.gov
 auth.indrive.tech
