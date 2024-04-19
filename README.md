@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 04:10:55 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 05:08:28 UTC 2024)
 ```
 asiointi.lahitapiola.fi
 http://sb-console-api.fireblocks.io
