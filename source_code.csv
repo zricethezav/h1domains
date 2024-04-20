@@ -76,6 +76,10 @@ mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
+kubernetes,https://github.com/kubernetes-security,True
+kubernetes,https://github.com/kubernetes-client,True
+kubernetes,https://github.com/kubernetes-incubator,False
+kubernetes,https://github.com/kubernetes-retired,False
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -122,10 +126,6 @@ kubernetes,https://github.com/kubernetes/kompose,True
 kubernetes,https://github.com/kubernetes/kube-state-metrics,True
 kubernetes,https://github.com/kubernetes/kube-deploy,True
 kubernetes,https://github.com/kubernetes/release,True
-kubernetes,https://github.com/kubernetes/cloud-provider-openstack,False
-kubernetes,https://github.com/kubernetes/perf-tests,False
-kubernetes,https://github.com/kubernetes/cloud-provider-azure,False
-kubernetes,https://github.com/kubernetes/dashboard,True
 kubernetes,https://github.com/kubernetes/kubernetes,True
 kubernetes,https://github.com/kubernetes/apiserver,True
 kubernetes,https://github.com/kubernetes/k8s.io,True
@@ -133,6 +133,7 @@ kubernetes,https://github.com/kubernetes/website,True
 kubernetes,https://github.com/kubernetes/test-infra,True
 kubernetes,https://github.com/kubernetes/ingress-nginx,True
 kubernetes,https://github.com/kubernetes/autoscaler,True
+kubernetes,https://github.com/kubernetes/dashboard,True
 kubernetes,https://github.com/kubernetes/node-problem-detector,True
 kubernetes,https://github.com/kubernetes/repo-infra,True
 kubernetes,https://github.com/kubernetes/kubectl,True
@@ -143,13 +144,12 @@ kubernetes,https://github.com/kubernetes/cri-api,True
 kubernetes,https://github.com/kubernetes/node-api,True
 kubernetes,https://github.com/kubernetes/csi-translation-lib,True
 kubernetes,https://github.com/kubernetes/cloud-provider,True
-kubernetes,https://github.com/kubernetes-security,True
-kubernetes,https://github.com/kubernetes-client,True
 kubernetes,https://github.com/kubernetes-csi,True
+kubernetes,https://github.com/kubernetes/cloud-provider-openstack,False
+kubernetes,https://github.com/kubernetes/perf-tests,False
+kubernetes,https://github.com/kubernetes/cloud-provider-azure,False
 kubernetes,https://github.com/kubernetes/cloud-provider-vsphere,False
 kubernetes,https://github.com/kubernetes/legacy-cloud-providers,False
-kubernetes,https://github.com/kubernetes-incubator,False
-kubernetes,https://github.com/kubernetes-retired,False
 kubernetes,https://github.com/kubernetes-sigs,False
 8x8,https://github.com/8x8/8x8_messaging_java_client,False
 oasisprotocol,https://github.com/oasisprotocol/deoxysii,True
@@ -162,8 +162,8 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-core,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
+filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -326,15 +326,15 @@ nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/roundcube/roundcubemail,False
 mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://docs.mapbox.com/android/,True
-mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://github.com/mapbox,True
+mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
-gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
+gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
@@ -350,8 +350,8 @@ irccloud,https://github.com/irccloud/android,True
 concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
-aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
+aleo,https://github.com/AleoHQ/snarkVM/,True
 raivo,https://github.com/raivo-otp/ios-application,False
 raivo,https://github.com/raivo-otp/issuer-icons,False
 raivo,https://github.com/raivo-otp/apns-server,False
