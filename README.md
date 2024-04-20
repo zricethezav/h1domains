@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 20 00:18:29 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr 20 01:27:23 UTC 2024)
 ```
 citrix.cloud.com
 search-warnings-eu.truecaller.com
