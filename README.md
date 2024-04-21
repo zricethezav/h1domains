@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 21 07:10:09 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 21 08:06:18 UTC 2024)
 ```
 www.tvg.com
 *.chime.com
