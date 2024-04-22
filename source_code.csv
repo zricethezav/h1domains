@@ -1,8 +1,8 @@
 handle,source_code,eligible_for_bounty
 puter_h1b,https://github.com/HeyPuter/puter/,True
-chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
@@ -351,8 +351,8 @@ irccloud,https://github.com/irccloud/android,True
 concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
-aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
+aleo,https://github.com/AleoHQ/snarkVM/,True
 raivo,https://github.com/raivo-otp/ios-application,False
 raivo,https://github.com/raivo-otp/issuer-icons,False
 raivo,https://github.com/raivo-otp/apns-server,False
