@@ -44,14 +44,14 @@ gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://github.com/Nginx,True
 ibb,https://git.libssh.org/,True
+ibb,https://github.com/Nginx,True
 ibb,https://github.com/ruby,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/django,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/rubygems/rubygems,True
-ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/libuv/libuv,True
+ibb,https://github.com/openssl/openssl,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/rust-lang/rust,True
@@ -324,8 +324,8 @@ nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/roundcube/roundcubemail,False
 mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://github.com/mapbox,True
-mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://docs.mapbox.com/android/,True
+mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
@@ -348,8 +348,8 @@ irccloud,https://github.com/irccloud/android,True
 concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
-aleo,https://github.com/AleoHQ/snarkOS/,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
+aleo,https://github.com/AleoHQ/snarkOS/,True
 teleport,https://github.com/gravitational/teleport-plugins,True
 teleport,https://github.com/gravitational/teleport,True
 raivo,https://github.com/raivo-otp/ios-application,False
