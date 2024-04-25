@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 25 01:53:13 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 25 02:13:57 UTC 2024)
 ```
 *.alimama.com
 *.skybetservices.com
