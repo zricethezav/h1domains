@@ -55,11 +55,11 @@ ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/openssl/openssl,True
-ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/rack/rack,True
+ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -411,8 +411,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/user_ldap,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
