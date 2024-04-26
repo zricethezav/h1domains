@@ -329,9 +329,9 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
-gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/gitaly,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
@@ -411,8 +411,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/ocis,True
+owncloud,https://github.com/owncloud/user_ldap,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
