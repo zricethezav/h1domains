@@ -43,11 +43,11 @@ gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://git.libssh.org/,True
 ibb,https://github.com/Nginx,True
+ibb,https://git.libssh.org/,True
 ibb,https://github.com/ruby,True
-ibb,https://github.com/django,True
 ibb,https://github.com/Electron,True
+ibb,https://github.com/django,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
@@ -159,8 +159,8 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-core,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -260,7 +260,6 @@ brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/activity,True
-nextcloud,https://github.com/nextcloud/3rdparty,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/files_texteditor,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
@@ -286,8 +285,10 @@ nextcloud,https://github.com/nextcloud/flow_notifications,True
 nextcloud,https://github.com/nextcloud/fulltextsearch_elasticsearch,True
 nextcloud,https://github.com/nextcloud/files_fulltextsearch,True
 nextcloud,https://github.com/nextcloud/guests,True
+nextcloud,https://github.com/nextcloud/sharepoint,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
+nextcloud,https://github.com/nextcloud/3rdparty,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/spreed,True
@@ -295,7 +296,6 @@ nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/data_request,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
-nextcloud,https://github.com/nextcloud/sharepoint,True
 nextcloud,https://github.com/nextcloud/socialsharing,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
 nextcloud,https://github.com/nextcloud/terms_of_service,True
@@ -329,9 +329,9 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
-gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
@@ -411,8 +411,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/user_ldap,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
