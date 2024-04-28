@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 28 05:09:49 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 28 06:05:59 UTC 2024)
 ```
 provider.enter.health
 imagine.magento.com
