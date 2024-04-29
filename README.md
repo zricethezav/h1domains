@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 29 05:10:30 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 29 06:09:18 UTC 2024)
 ```
 paypal.me
 *.vine.co
