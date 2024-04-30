@@ -3,8 +3,8 @@ chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiapos,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-oss-contrib,True
@@ -45,8 +45,8 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/Nginx,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/ruby,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/tomcat,True
@@ -411,8 +411,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/ocis,True
+owncloud,https://github.com/owncloud/user_ldap,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
