@@ -45,8 +45,8 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/Nginx,True
-ibb,https://github.com/ruby,True
 ibb,https://github.com/Electron,True
+ibb,https://github.com/ruby,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/tomcat,True
@@ -159,8 +159,8 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-core,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -411,8 +411,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/user_ldap,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
