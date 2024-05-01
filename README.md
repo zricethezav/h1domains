@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 04:10:30 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 05:08:35 UTC 2024)
 ```
 blueskytours.globalbookingsolutions.com
 *.mi.com
