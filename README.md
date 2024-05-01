@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 00:19:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 01:32:25 UTC 2024)
 ```
 lawmanager.marriott.com
 webhooks.gamma.redoxstage.com
