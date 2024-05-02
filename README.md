@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 01:33:06 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 02:14:15 UTC 2024)
 ```
 secure-dfadmin.deriv.com
 *.github.net
