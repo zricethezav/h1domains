@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 20:11:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 21:06:00 UTC 2024)
 ```
 pb.deribit.com
 video-callerid-eu.truecaller.com
