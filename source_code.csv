@@ -43,8 +43,8 @@ gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://github.com/Nginx,True
 ibb,https://git.libssh.org/,True
+ibb,https://github.com/Nginx,True
 ibb,https://github.com/ruby,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/rubygems/rubygems,True
@@ -59,8 +59,8 @@ ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
-ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/argoproj/argoproj,True
+ibb,https://github.com/rust-lang/rust,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
@@ -159,8 +159,8 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-core,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
+filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
