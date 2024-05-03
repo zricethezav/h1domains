@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 10:10:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 11:09:13 UTC 2024)
 ```
 callkit-asia-south1.truecaller.com
 hub.yoti.com
