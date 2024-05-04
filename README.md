@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 21:10:02 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 22:05:59 UTC 2024)
 ```
 https://www.*mongodb.com/*
 my.playstation.com
