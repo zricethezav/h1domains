@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 13:06:03 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 14:05:58 UTC 2024)
 ```
 netlify-cdp-loader.netlify.app
 *.sc-corp.net
