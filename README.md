@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 14:05:55 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 15:06:27 UTC 2024)
 ```
 hiltonhotels.jp
 codex.bbpress.org
