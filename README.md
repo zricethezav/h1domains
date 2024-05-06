@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 23:09:42 UTC 2024)
+## Domains with Bounties (Last Updated Mon May  6 00:17:53 UTC 2024)
 ```
 fdbox.net
 https://www.creditkarma.com/savings
