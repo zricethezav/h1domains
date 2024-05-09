@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  9 02:21:31 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  9 03:05:59 UTC 2024)
 ```
 www.watsons.com.tr
 http://member-qa.chime.com/enroll/#/account
