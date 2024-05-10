@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 10 04:10:36 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 10 05:07:24 UTC 2024)
 ```
 *.global-liquidity.gs.com
 www.lahitapiola.fi
