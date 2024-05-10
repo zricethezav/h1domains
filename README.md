@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 10 20:10:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 10 21:06:00 UTC 2024)
 ```
 search5.truecaller.com
 ballistic.com.br
