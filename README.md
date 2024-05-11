@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 11 18:10:04 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 11 19:05:18 UTC 2024)
 ```
 bridge-api.matic.network
 salesportal.hyatt.com
