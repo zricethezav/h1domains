@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 11 20:05:43 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 11 21:05:50 UTC 2024)
 ```
 unlist5-asia-south1.truecaller.com
 www.mercadolibre.com.ar
