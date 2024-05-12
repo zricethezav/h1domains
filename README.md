@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 12:10:55 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 12 13:06:31 UTC 2024)
 ```
 *.elasticnet.co
 api.linkedin.com
