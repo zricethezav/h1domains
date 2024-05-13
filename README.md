@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 20:11:08 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 21:05:49 UTC 2024)
 ```
 volans.tech
 *.chimecard.com
