@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 02:16:54 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 03:05:40 UTC 2024)
 ```
 https://luna.amazon.com/*
 *.quip.com
