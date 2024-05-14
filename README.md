@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 14 21:09:50 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 14 22:07:13 UTC 2024)
 ```
 contact-upload4.truecaller.com
 api.custody.coinbase.com
