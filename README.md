@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 14 00:21:33 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 14 01:30:05 UTC 2024)
 ```
 store.23andme.com
 messenger-web-relay-compat-eu.truecaller.com
