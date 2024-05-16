@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 16 12:11:38 UTC 2024)
+## Domains with Bounties (Last Updated Thu May 16 13:06:54 UTC 2024)
 ```
 www.fortress.com.hk
 api.grabpay.com
