@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 16 18:12:16 UTC 2024)
+## Domains with Bounties (Last Updated Thu May 16 19:05:56 UTC 2024)
 ```
 www.leather.io
 *.myteksi.com
