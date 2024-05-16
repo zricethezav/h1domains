@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 16 07:10:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu May 16 08:05:54 UTC 2024)
 ```
 dashboard.algolia.com
 *widget.trustpilot.com
