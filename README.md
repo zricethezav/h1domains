@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 17 10:10:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 17 11:05:40 UTC 2024)
 ```
 fhir.redoxengine.com
 www.kruidvat.nl
