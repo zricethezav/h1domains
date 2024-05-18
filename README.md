@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 18 10:06:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 18 11:06:26 UTC 2024)
 ```
 hackathon-photos-us-east-2.hackerone-user-content.com
 duo-eu.truecaller.com
