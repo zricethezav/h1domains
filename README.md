@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 18 02:15:40 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 18 03:06:01 UTC 2024)
 ```
 www.instacart.com
 https://caesarspalaceonline.com/ca/on/casino
