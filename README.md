@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 18 05:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 18 06:06:23 UTC 2024)
 ```
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.gamma.redoxstage.com
