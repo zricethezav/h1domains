@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 18 12:11:34 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 18 13:05:44 UTC 2024)
 ```
 enterprise-auth-eu.truecaller.com
 grafana.fr.cloud.gov
