@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 19 19:06:16 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 19 20:05:59 UTC 2024)
 ```
 www.pixiv.net
 therecord.media
