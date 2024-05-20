@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 11:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 12:08:56 UTC 2024)
 ```
 apigw.foliofn.com
 login.en.travelbrandsagent.com
