@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 07:10:13 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 08:06:54 UTC 2024)
 ```
 app.krisha.kz
 *.kes.kindredext.net
