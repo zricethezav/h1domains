@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 21 04:06:31 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 21 05:06:32 UTC 2024)
 ```
 *.hotwire.com
 *.instacart.com
