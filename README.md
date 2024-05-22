@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 22 16:06:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 22 17:08:15 UTC 2024)
 ```
 *.floqast.app
 h1-your-domain.teleport.sh
