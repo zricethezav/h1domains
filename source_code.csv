@@ -1,4 +1,5 @@
 handle,source_code,eligible_for_bounty
+nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
@@ -284,6 +285,7 @@ nextcloud,https://github.com/nextcloud/socialsharing,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
 nextcloud,https://github.com/nextcloud/terms_of_service,True
 nextcloud,https://github.com/nextcloud/workflow_script,True
+nextcloud,https://github.com/nextcloud/onlyoffice,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
@@ -301,7 +303,6 @@ nextcloud,https://github.com/nextcloud/user_oidc,True
 nextcloud,https://github.com/nextcloud/calendar,True
 nextcloud,https://github.com/nextcloud/contacts,True
 nextcloud,https://github.com/nextcloud/richdocuments,True
-nextcloud,https://github.com/nextcloud/onlyoffice,True
 nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
 nextcloud,https://github.com/nextcloud/deck,True
 nextcloud,https://github.com/nextcloud/bruteforcesettings,True
