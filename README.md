@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 23 20:10:34 UTC 2024)
+## Domains with Bounties (Last Updated Thu May 23 21:06:08 UTC 2024)
 ```
 duo-invite.truecaller.com
 https://caesarspalaceonline.com/us/pa/casino
