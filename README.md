@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 23 23:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 24 00:17:48 UTC 2024)
 ```
 zerobounce.net
 data.mail.yahoo.com
