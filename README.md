@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 24 05:10:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 24 06:06:50 UTC 2024)
 ```
 sdk-apps-noneu.truecaller.com
 *.hiltonhotels.jp
