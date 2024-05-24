@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 24 19:10:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 24 20:09:22 UTC 2024)
 ```
 *.taobao.com
 mta-sts.wearehackerone.com
