@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 25 08:10:06 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 25 09:05:43 UTC 2024)
 ```
 *.bonne-terre-data-layer.com
 *.chmfin.com
