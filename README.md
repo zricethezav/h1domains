@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 27 17:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 27 18:06:16 UTC 2024)
 ```
 gateway.reddit.com
 doppler.team
