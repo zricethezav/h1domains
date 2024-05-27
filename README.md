@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 27 22:10:05 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 27 23:05:45 UTC 2024)
 ```
 invoices.razorpay.com
 www.dyson.pl
