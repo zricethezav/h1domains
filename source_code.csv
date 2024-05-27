@@ -370,8 +370,8 @@ notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/results-whitelist,False
 jamieweb,https://gitlab.com/jamieweb/jamieweb,False
