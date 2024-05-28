@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 28 07:06:49 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 28 08:06:52 UTC 2024)
 ```
 webonboarding-noneu.truecaller.com
 www.amazon.com/photos/*
