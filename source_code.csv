@@ -177,8 +177,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
-matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
+matomo,https://github.com/matomo-org,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/ssrf_filter,False
@@ -413,8 +413,8 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/ocis,True
+owncloud,https://github.com/owncloud/user_ldap,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
