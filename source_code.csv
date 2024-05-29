@@ -3,8 +3,8 @@ nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -45,8 +45,8 @@ gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/Nginx,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/ruby,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/curl/curl,True
@@ -177,8 +177,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
-matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/matomo-org,True
+matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/ssrf_filter,False
