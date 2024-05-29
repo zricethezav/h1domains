@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 29 16:11:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 29 17:05:56 UTC 2024)
 ```
 slack-imgs.com
 web-consent-noneu.truecaller.com
