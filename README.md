@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 30 13:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Thu May 30 14:06:29 UTC 2024)
 ```
 grok.x.ai
 paybridge.booking.com
