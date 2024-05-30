@@ -356,9 +356,9 @@ raivo,https://github.com/raivo-otp/apns-server,False
 raivo,https://github.com/raivo-otp/macos-receiver,False
 raivo,https://github.com/raivo-otp/ios-application,False
 raivo,https://github.com/raivo-otp/issuer-icons,False
+nodejs-ecosystem,https://github.com/@firebase/util,False
 nodejs-ecosystem,https://git-dummy-commit,False
 nodejs-ecosystem,https://gitlabhook,False
-nodejs-ecosystem,https://github.com/@firebase/util,False
 upchieve,https://gitlab.com/upchieve/subway,False
 mcuboot,https://github.com/mcu-tools/mcuboot,False
 impresscms,https://github.com/impresscms/impresscms,False
