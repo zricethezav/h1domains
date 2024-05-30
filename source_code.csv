@@ -348,14 +348,14 @@ concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
 tari_labs,https://github.com/tari-project/,True
-aleo,https://github.com/AleoHQ/snarkOS/,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
+aleo,https://github.com/AleoHQ/snarkOS/,True
 teleport,https://github.com/gravitational/teleport,True
 teleport,https://github.com/gravitational/teleport-plugins,True
-raivo,https://github.com/raivo-otp/ios-application,False
-raivo,https://github.com/raivo-otp/issuer-icons,False
 raivo,https://github.com/raivo-otp/apns-server,False
 raivo,https://github.com/raivo-otp/macos-receiver,False
+raivo,https://github.com/raivo-otp/ios-application,False
+raivo,https://github.com/raivo-otp/issuer-icons,False
 nodejs-ecosystem,https://git-dummy-commit,False
 nodejs-ecosystem,https://gitlabhook,False
 nodejs-ecosystem,https://github.com/@firebase/util,False
