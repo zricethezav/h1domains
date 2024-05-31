@@ -257,13 +257,12 @@ brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
 ruby,https://github.com/ruby/ruby,True
+nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
-nextcloud,https://github.com/nextcloud/spreed,True
-nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
@@ -275,6 +274,7 @@ nextcloud,https://github.com/nextcloud/password_policy,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/files_automatedtagging,True
 nextcloud,https://github.com/nextcloud/files_retention,True
+nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/serverinfo,True
 nextcloud,https://github.com/nextcloud/nextcloud_announcements,True
 nextcloud,https://github.com/nextcloud/logreader,True
