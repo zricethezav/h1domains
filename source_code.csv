@@ -274,8 +274,8 @@ nextcloud,https://github.com/nextcloud/password_policy,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/files_automatedtagging,True
 nextcloud,https://github.com/nextcloud/files_retention,True
-nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/serverinfo,True
+nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/nextcloud_announcements,True
 nextcloud,https://github.com/nextcloud/logreader,True
 nextcloud,https://github.com/nextcloud/survey_client,True
