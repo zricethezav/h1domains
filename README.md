@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 07:10:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 08:06:50 UTC 2024)
 ```
 help.aiven.io
 vault.omise.co
