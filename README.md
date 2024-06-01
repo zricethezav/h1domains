@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  1 18:09:53 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun  1 19:08:22 UTC 2024)
 ```
 www.trekpleister.nl
 *.byairbnb.com
