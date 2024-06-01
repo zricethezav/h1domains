@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  1 21:05:47 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun  1 22:05:22 UTC 2024)
 ```
 webgateway.koho.ca
 marketing.fareharbor.com
