@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  2 12:06:50 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun  2 13:05:36 UTC 2024)
 ```
 dodea.edu
 securitytrails.com
