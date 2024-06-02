@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  2 02:23:22 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun  2 03:09:33 UTC 2024)
 ```
 linkpop.com
 us1.badoo.com
