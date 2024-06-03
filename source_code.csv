@@ -1,11 +1,11 @@
 handle,source_code,eligible_for_bounty
 nimiq,https://github.com/nimiq/core-rs-albatross,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -42,8 +42,6 @@ gsa_bbp,https://github.com/18f/identity-saml-rails,True
 gsa_bbp,https://github.com/gsa/datagov-deploy,True
 gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
-ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/nodejs/node,True
@@ -59,6 +57,8 @@ ibb,https://github.com/rust-lang/rust,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rack/rack,True
+ibb,https://github.com/apache/tomcat,True
+ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/Nginx,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/apache/airflow,True
@@ -238,8 +238,8 @@ johnblackbourn,https://github.com/johnbillion/wp-crontrol,False
 ed,https://github.com/EdOverflow/*,False
 ed,https://github.com/securitytxt/*,False
 aspen,https://github.com/AspenWeb,False
-bitwarden,https://github.com/passwordless,False
 bitwarden,https://github.com/bitwarden,False
+bitwarden,https://github.com/passwordless,False
 delight_im,https://github.com/delight-im,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
 weblate,https://github.com/WeblateOrg/weblate,False
@@ -401,6 +401,7 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
+owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -412,7 +413,6 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
