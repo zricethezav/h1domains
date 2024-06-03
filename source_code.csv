@@ -42,6 +42,8 @@ gsa_bbp,https://github.com/18f/identity-saml-rails,True
 gsa_bbp,https://github.com/gsa/datagov-deploy,True
 gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
+ibb,https://github.com/apache/tomcat,True
+ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/nodejs/node,True
@@ -57,8 +59,6 @@ ibb,https://github.com/rust-lang/rust,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rack/rack,True
-ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/Nginx,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/apache/airflow,True
@@ -156,8 +156,8 @@ oasisprotocol,https://github.com/oasisprotocol/deoxysii-rust,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-ext,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
-oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
+oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
@@ -323,12 +323,12 @@ mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://github.com/mapbox,True
-gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
+gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
