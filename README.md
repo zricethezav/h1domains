@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  3 18:13:49 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jun  3 19:06:27 UTC 2024)
 ```
 aftac.gov
 mypay.gov
