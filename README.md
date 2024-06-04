@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  3 23:09:55 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jun  4 00:17:48 UTC 2024)
 ```
 sandbox.secure.checkout.visa.com
 *.miwifi.com
