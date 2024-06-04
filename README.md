@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  4 21:09:56 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jun  4 22:07:18 UTC 2024)
 ```
 api-eu.floqast.app
 *.cloud.malwarebytes.com
