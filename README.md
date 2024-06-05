@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  5 17:11:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jun  5 18:08:30 UTC 2024)
 ```
 www.xvideos.com
 mus1.badoo.com
