@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  5 09:10:34 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jun  5 10:05:56 UTC 2024)
 ```
 accounts.pixiv.net
 grab.careers
