@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  5 04:11:13 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jun  5 05:05:42 UTC 2024)
 ```
 http://staking.consensys.io
 tvg.com
