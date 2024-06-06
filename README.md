@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  6 13:09:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jun  6 14:07:27 UTC 2024)
 ```
 *.skybet.co.uk
 apigw.foliofn.com
