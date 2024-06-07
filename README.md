@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  7 18:10:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jun  7 19:05:59 UTC 2024)
 ```
 novel.pixiv.net
 flyiin.com
