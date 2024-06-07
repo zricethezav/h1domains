@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  7 20:10:09 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jun  7 21:09:22 UTC 2024)
 ```
 vimeo.magisto.com
 tria.ge
