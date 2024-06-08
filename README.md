@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  8 20:09:37 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun  8 21:06:17 UTC 2024)
 ```
 scrutiny.swiftfinancial.com
 https://my.exness.com/pa/socialtrading
