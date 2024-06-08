@@ -42,6 +42,8 @@ gsa_bbp,https://github.com/18f/identity-saml-rails,True
 gsa_bbp,https://github.com/gsa/datagov-deploy,True
 gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
+ibb,https://github.com/apache/tomcat,True
+ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/nodejs/node,True
@@ -56,8 +58,6 @@ ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rack/rack,True
-ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/Nginx,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/apache/airflow,True
@@ -158,10 +158,10 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -278,13 +278,13 @@ nextcloud,https://github.com/nextcloud/survey_client,True
 nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/circles,True
 nextcloud,https://github.com/nextcloud/data_request,True
+nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
 nextcloud,https://github.com/nextcloud/privacy,True
-nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/fulltextsearch,True
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/flow_notifications,True
