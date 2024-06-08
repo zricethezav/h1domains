@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  8 16:09:42 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun  8 17:06:21 UTC 2024)
 ```
 admin.fr.cloud.gov
 *.superawesome.com
