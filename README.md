@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  9 20:09:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun  9 21:05:29 UTC 2024)
 ```
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 cashier-r.unikrn.com
