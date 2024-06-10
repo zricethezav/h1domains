@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 10 21:10:41 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jun 10 22:06:35 UTC 2024)
 ```
 codahosted.io
 www.visa.co.nz
