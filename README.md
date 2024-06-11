@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 11 04:06:09 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jun 11 05:09:15 UTC 2024)
 ```
 telecom-operator-data.truecaller.com
 kyc-src.etoro.com
