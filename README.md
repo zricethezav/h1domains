@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 11 07:09:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jun 11 08:07:36 UTC 2024)
 ```
 obs-sensors.iris.acceptance.forescoutcloud.net
 truehelper-noneu.truecaller.com
