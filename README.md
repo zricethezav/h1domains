@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 12 13:12:07 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jun 12 14:09:27 UTC 2024)
 ```
 www.trendyol-milla.com
 www.visa.co.ao
