@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 12 00:22:35 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jun 12 01:31:48 UTC 2024)
 ```
 sdk-otp-verification-noneu.truecaller.com
 *inf.fndlsb.net
