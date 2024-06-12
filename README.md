@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 12 21:10:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jun 12 22:05:52 UTC 2024)
 ```
 *.betfair.es
 www.triseptapi.com
