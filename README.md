@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 13 03:06:18 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jun 13 04:07:14 UTC 2024)
 ```
 *.goldman.com
 a5s.hackerone-ext-content.com
