@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 13 20:10:52 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jun 13 21:06:23 UTC 2024)
 ```
 account-noneu.truecaller.com
 you.23andme.com
