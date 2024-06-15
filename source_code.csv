@@ -259,8 +259,8 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave/brave-core,True
+brave,https://github.com/brave-intl/bat-balance,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/recommendations,True
@@ -334,8 +334,8 @@ gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
@@ -344,8 +344,8 @@ zendesk,https://github.com/smooch/smooch-ios,True
 zendesk,https://github.com/smooch/smooch-web,True
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,False
-adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/contentauth/c2pa-js,True
+adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/adobe/*,False
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
@@ -374,8 +374,8 @@ notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
