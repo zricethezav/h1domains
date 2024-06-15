@@ -4,8 +4,8 @@ chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -67,8 +67,8 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
-skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
+skale_network,https://github.com/skalenetwork/libBLS,True
 mainwp,https://github.com/mainwp/mainwp,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
@@ -158,10 +158,10 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -259,8 +259,8 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave-intl/bat-balance,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/recommendations,True
@@ -354,8 +354,8 @@ concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
 tari_labs,https://github.com/tari-project/,True
-aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
+aleo,https://github.com/AleoHQ/snarkVM/,True
 raivo,https://github.com/raivo-otp/apns-server,False
 raivo,https://github.com/raivo-otp/macos-receiver,False
 raivo,https://github.com/raivo-otp/ios-application,False
@@ -407,7 +407,6 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -419,6 +418,7 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
