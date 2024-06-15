@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 15 21:09:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun 15 22:06:35 UTC 2024)
 ```
 dashboard.fr.cloud.gov
 *.popjam.com
