@@ -4,8 +4,8 @@ chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -27,10 +27,10 @@ agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
-snowplow,https://github.com/snowplow-incubator,False
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
+snowplow,https://github.com/snowplow-incubator,False
 snowplow,https://github.com/snowplow/,False
 gsa_bbp,https://github.com/18f/federalist-proxy,True
 gsa_bbp,https://github.com/18f/federalist,True
@@ -67,8 +67,8 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
-skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/libBLS,True
+skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 mainwp,https://github.com/mainwp/mainwp,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
@@ -259,8 +259,8 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave/brave-core,True
+brave,https://github.com/brave-intl/bat-balance,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/recommendations,True
@@ -344,8 +344,8 @@ zendesk,https://github.com/smooch/smooch-ios,True
 zendesk,https://github.com/smooch/smooch-web,True
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,False
-adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
+adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/adobe/*,False
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
@@ -374,8 +374,8 @@ notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
@@ -407,6 +407,7 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
+owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -418,7 +419,6 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
