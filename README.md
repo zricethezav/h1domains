@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 16 09:07:30 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun 16 10:06:04 UTC 2024)
 ```
 slack-redir.net
 m.kolesa.kz
