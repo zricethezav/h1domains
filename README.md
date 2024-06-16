@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 16 22:05:55 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun 16 23:09:23 UTC 2024)
 ```
 device-safety-asia-south1.truecaller.com
 www.dyson.be
