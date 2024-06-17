@@ -67,8 +67,8 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
-skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/libBLS,True
+skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 mainwp,https://github.com/mainwp/mainwp,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
@@ -158,10 +158,10 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -323,6 +323,7 @@ nextcloud,https://github.com/nextcloud/globalsiteselector,True
 nextcloud,https://github.com/nextcloud/notes,True
 nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
+nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/roundcube/roundcubemail,False
 mapbox,https://www.mapbox.com/mapbox-gl-js/,True
@@ -344,8 +345,8 @@ zendesk,https://github.com/smooch/smooch-ios,True
 zendesk,https://github.com/smooch/smooch-web,True
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,False
-adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
+adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/adobe/*,False
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
@@ -374,8 +375,8 @@ notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
