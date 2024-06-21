@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 21 18:11:37 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jun 21 19:05:59 UTC 2024)
 ```
 api.magic.link
 jobs.marriott.com
