@@ -158,10 +158,10 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -287,6 +287,7 @@ nextcloud,https://github.com/nextcloud/flow_notifications,True
 nextcloud,https://github.com/nextcloud/fulltextsearch_elasticsearch,True
 nextcloud,https://github.com/nextcloud/files_fulltextsearch,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
+nextcloud,https://github.com/nextcloud/guests,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/updater,True
@@ -296,7 +297,6 @@ nextcloud,https://github.com/nextcloud/mail,True
 nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
-nextcloud,https://github.com/nextcloud/guests,True
 nextcloud,https://github.com/nextcloud/sharepoint,True
 nextcloud,https://github.com/nextcloud/socialsharing,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
@@ -375,8 +375,8 @@ notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
@@ -408,7 +408,6 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -420,6 +419,7 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
