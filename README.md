@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 21 05:10:36 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jun 21 06:06:55 UTC 2024)
 ```
 sijoitusvakuutus.lahitapiola.fi
 outline-noneu.truecaller.com
