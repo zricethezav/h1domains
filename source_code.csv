@@ -158,10 +158,10 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus,False
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -181,13 +181,13 @@ matomo,https://github.com/innocraft/,True
 matomo,https://github.com/matomo-org,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
+arkadiyt-projects,https://github.com/arkadiyt/ddexport,False
+arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
+arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
 arkadiyt-projects,https://github.com/arkadiyt/ssrf_filter,False
 arkadiyt-projects,https://github.com/arkadiyt/bounty-targets,False
 arkadiyt-projects,https://github.com/arkadiyt/aws_public_ips,False
-arkadiyt-projects,https://github.com/arkadiyt/ddexport,False
-arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
-arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
@@ -258,8 +258,8 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave/brave-core,True
+brave,https://github.com/brave-intl/bat-balance,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/viewer,True
