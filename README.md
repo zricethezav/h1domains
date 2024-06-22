@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 22 04:09:56 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun 22 05:06:04 UTC 2024)
 ```
 *.lastminute.co.nz
 caldav.larksuite.com
