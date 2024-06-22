@@ -374,8 +374,8 @@ notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
