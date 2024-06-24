@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 24 21:09:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jun 24 22:05:55 UTC 2024)
 ```
 cover-photos-us-east-2.hackerone-user-content.com
 *.jit.si
