@@ -343,8 +343,8 @@ zendesk,https://github.com/smooch/smooch-ios,True
 zendesk,https://github.com/smooch/smooch-web,True
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,False
-adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
+adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/adobe/*,False
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
@@ -406,7 +406,6 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -418,6 +417,7 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
