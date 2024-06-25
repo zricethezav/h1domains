@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 25 08:12:13 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jun 25 09:09:15 UTC 2024)
 ```
 test.nicehash.com
 beta-cloud.acronis.com
