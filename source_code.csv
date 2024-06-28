@@ -26,10 +26,10 @@ agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
+snowplow,https://github.com/snowplow-incubator,False
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
-snowplow,https://github.com/snowplow-incubator,False
 snowplow,https://github.com/snowplow/,False
 gsa_bbp,https://github.com/18f/federalist-proxy,True
 gsa_bbp,https://github.com/18f/federalist,True
@@ -41,6 +41,8 @@ gsa_bbp,https://github.com/18f/identity-saml-rails,True
 gsa_bbp,https://github.com/gsa/datagov-deploy,True
 gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
+ibb,https://github.com/apache/tomcat,True
+ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/ruby,True
@@ -50,17 +52,15 @@ ibb,https://github.com/Electron,True
 ibb,https://github.com/django,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/argoproj/argoproj,True
-ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/libuv/libuv,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/spiffe/spire,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/httpd,True
+ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/openssl/openssl,True
+ibb,https://github.com/Nginx,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/rack/rack,True
-ibb,https://github.com/Nginx,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
@@ -406,6 +406,7 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
+owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -417,7 +418,6 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
