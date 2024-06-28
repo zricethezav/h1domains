@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 28 19:10:09 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jun 28 20:05:49 UTC 2024)
 ```
 aus5.mozilla.org
 *.touchtechpayments.com
