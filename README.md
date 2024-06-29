@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 29 03:07:36 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun 29 04:06:49 UTC 2024)
 ```
 http://sb-console-api.fireblocks.io
 *.gocardless.io
