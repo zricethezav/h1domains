@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 29 07:10:14 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun 29 08:07:13 UTC 2024)
 ```
 *.unrealengine.com
 www.triseptapi.com
