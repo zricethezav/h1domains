@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 29 00:17:49 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jun 29 01:30:58 UTC 2024)
 ```
 www.creditkarma.ca
 app.infura.io
