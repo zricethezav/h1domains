@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 30 21:10:07 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun 30 22:05:38 UTC 2024)
 ```
 www.moneyback.com.hk
 hackers_chosendomain.larksuite.com
