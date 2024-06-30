@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 30 03:10:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jun 30 04:06:37 UTC 2024)
 ```
 bounty-node.rsk.co
 api.gamma.redoxstage.com
