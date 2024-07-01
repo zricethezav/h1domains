@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  1 20:10:30 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jul  1 21:06:12 UTC 2024)
 ```
 comic.pixiv.net
 map.snapchat.com
