@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  2 07:09:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul  2 08:06:58 UTC 2024)
 ```
 webhooks-api-experimental.codefi.network
 booking.cheapcaribbean.com
