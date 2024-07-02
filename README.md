@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  2 02:20:32 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul  2 03:07:22 UTC 2024)
 ```
 *.betfair.se
 http://myvisainfinite.com/suntrust/en_us/home.html
