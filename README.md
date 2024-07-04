@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  4 02:22:41 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul  4 03:07:44 UTC 2024)
 ```
 www.swoodoo.com
 portal.kiwi.ki
