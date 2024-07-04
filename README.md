@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  4 18:11:04 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul  4 19:05:36 UTC 2024)
 ```
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
 login.starbucks.co.jp
