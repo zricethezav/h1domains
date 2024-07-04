@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  4 06:11:37 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul  4 07:07:19 UTC 2024)
 ```
 *.prod.fdbox.net
 filter-store4.truecaller.com
