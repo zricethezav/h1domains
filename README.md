@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul  5 17:08:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jul  5 18:09:07 UTC 2024)
 ```
 usmcu.edu
 valid-names-noneu.truecaller.com
