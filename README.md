@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul  5 23:10:12 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jul  6 00:17:54 UTC 2024)
 ```
 *.shopify.io
 apple-subscription-monitor-eu.truecaller.com
