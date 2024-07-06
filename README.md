@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  6 09:09:46 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jul  6 10:05:55 UTC 2024)
 ```
 app.kruidvat.nl
 static-cdn.clario.co
