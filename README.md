@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  7 15:10:04 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul  7 16:07:32 UTC 2024)
 ```
 www.trekpleister.nl
 firefox-ci-tc.services.mozilla.com
