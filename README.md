@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  7 06:11:17 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul  7 07:06:59 UTC 2024)
 ```
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/overlappinggroups
 *.reckoproduction.com
