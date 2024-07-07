@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  6 23:05:36 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul  7 00:23:21 UTC 2024)
 ```
 pay.8x8.com
 crm.clario.co
