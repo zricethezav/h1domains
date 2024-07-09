@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  9 01:36:12 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul  9 02:18:55 UTC 2024)
 ```
 unwanted-communication-extension-noneu.truecaller.com
 app.dynamic-preprod.xyz
