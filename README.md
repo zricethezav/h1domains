@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  9 19:10:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul  9 20:06:13 UTC 2024)
 ```
 cover-photos-us-east-2.hackerone-user-content.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/deletestatus
