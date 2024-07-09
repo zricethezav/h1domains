@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  9 21:10:31 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul  9 22:07:42 UTC 2024)
 ```
 company-profile-asia-south1.truecaller.com
 api.krisha.kz
