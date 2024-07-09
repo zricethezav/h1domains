@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  9 14:10:53 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul  9 15:07:06 UTC 2024)
 ```
 *.api.cx.metamask.io
 nrd.gov
