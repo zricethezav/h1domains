@@ -271,7 +271,6 @@ nextcloud,https://github.com/nextcloud/files_texteditor,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
 nextcloud,https://github.com/nextcloud/notifications,True
 nextcloud,https://github.com/nextcloud/password_policy,True
-nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/files_automatedtagging,True
 nextcloud,https://github.com/nextcloud/files_retention,True
 nextcloud,https://github.com/nextcloud/serverinfo,True
@@ -287,8 +286,10 @@ nextcloud,https://github.com/nextcloud/files_fulltextsearch,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
 nextcloud,https://github.com/nextcloud/guests,True
 nextcloud,https://github.com/nextcloud/sharepoint,True
+nextcloud,https://github.com/nextcloud/socialsharing,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
+nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
@@ -297,7 +298,6 @@ nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
-nextcloud,https://github.com/nextcloud/socialsharing,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
 nextcloud,https://github.com/nextcloud/terms_of_service,True
 nextcloud,https://github.com/nextcloud/twofactor_totp,True
