@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  9 23:06:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jul 10 00:18:49 UTC 2024)
 ```
 comments-asia-south1.truecaller.com
 10x.redoxengine.com
