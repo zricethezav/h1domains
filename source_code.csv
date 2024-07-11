@@ -65,9 +65,9 @@ fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/sgxwallet,True
-skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/libBLS,True
+skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
@@ -373,8 +373,8 @@ putty_h1c,https://www.chiark.greenend.org.uk/~sgtatham/putty/,True
 notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
@@ -407,7 +407,6 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -419,6 +418,7 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
