@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 11 13:13:46 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul 11 14:06:57 UTC 2024)
 ```
 auth-adm.ukrn.io
 res.funjet.com
