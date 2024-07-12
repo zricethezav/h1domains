@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 12 19:09:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jul 12 20:07:03 UTC 2024)
 ```
 www.visa.com.ph
 wp-dev1.chime.com
