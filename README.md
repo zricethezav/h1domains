@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 12 15:12:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jul 12 16:09:21 UTC 2024)
 ```
 meetings.hyatt.com
 www.truecaller.com
