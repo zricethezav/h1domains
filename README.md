@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 13 07:10:12 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jul 13 08:05:53 UTC 2024)
 ```
 goldmansachsindices.com
 *.deliveroo.fr
