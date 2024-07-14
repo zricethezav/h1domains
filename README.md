@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 14 05:06:54 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul 14 06:07:40 UTC 2024)
 ```
 rockstarnorth.com
 tock.18f.gov
