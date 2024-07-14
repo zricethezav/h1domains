@@ -177,8 +177,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
-matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
+matomo,https://github.com/matomo-org,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -373,9 +373,9 @@ putty_h1c,https://www.chiark.greenend.org.uk/~sgtatham/putty/,True
 notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
@@ -407,6 +407,7 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
+owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -418,7 +419,6 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
-owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
