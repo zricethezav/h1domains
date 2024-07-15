@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 15 02:25:28 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jul 15 03:07:15 UTC 2024)
 ```
 http://vimeo.com/api
 api.theperfumeshop.com
