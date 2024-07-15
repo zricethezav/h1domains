@@ -41,12 +41,12 @@ gsa_bbp,https://github.com/18f/identity-saml-rails,True
 gsa_bbp,https://github.com/gsa/datagov-deploy,True
 gsa_bbp,https://github.com/gsa/data.gov,True
 gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
-ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/ruby,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/rust-lang/rust,True
+ibb,https://github.com/libuv/libuv,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/openssl/openssl,True
@@ -177,8 +177,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
-matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/matomo-org,True
+matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -203,16 +203,7 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
-hyperledger,https://github.com/hyperledger/fabric-ca,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
-hyperledger,https://github.com/hyperledger/fabric-samples,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-go,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-amcl,True
-hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/fabric-cli,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-go,True
 hyperledger,https://github.com/hyperledger/fabric-config,True
@@ -224,6 +215,15 @@ hyperledger,https://github.com/hyperledger/fabric-private-chaincode,True
 hyperledger,https://github.com/hyperledger/fabric-protos-go-apiv2,True
 hyperledger,https://github.com/hyperledger/fabric-protos-go,True
 hyperledger,https://github.com/hyperledger/fabric-protos,True
+hyperledger,https://github.com/hyperledger/fabric-ca,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
+hyperledger,https://github.com/hyperledger/fabric-samples,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-go,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
+hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/besu,True
 hyperledger,https://github.com/hyperledger/fabric-admin-sdk,True
 hyperledger,https://github.com/hyperledger/besu-errorprone-checks,True
@@ -373,9 +373,9 @@ putty_h1c,https://www.chiark.greenend.org.uk/~sgtatham/putty/,True
 notepad_h1c,https://github.com/notepad-plus-plus/notepad-plus-plus.git,True
 eslint,https://github.com/eslint/eslint-github-bot,False
 eslint,https://github.com/eslint/eslint,False
+rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.ReactNative,False
 rocket_chat,https://github.com/RocketChat/Rocket.Chat.Electron,False
-rocket_chat,https://github.com/RocketChat/Rocket.Chat,False
 liberapay,https://github.com/liberapay/liberapay.com,True
 jamieweb,https://gitlab.com/jamieweb/dl-integrity-verify,False
 jamieweb,https://gitlab.com/jamieweb/web-server-log-anonymizer-bloom-filter,False
@@ -407,7 +407,6 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -419,6 +418,7 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
