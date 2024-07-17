@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 17 03:10:19 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jul 17 04:07:36 UTC 2024)
 ```
 api.smtp2go.com
 dc3on.gov
