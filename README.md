@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 18 08:11:50 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul 18 09:05:56 UTC 2024)
 ```
 nro.gov
 decision.swiftfinancial.com
