@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 18 12:11:15 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul 18 13:08:06 UTC 2024)
 ```
 *.magicjackpot.ro
 www.32red.com
