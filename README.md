@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 20 02:17:45 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jul 20 03:05:48 UTC 2024)
 ```
 https://api-test.nicehash.com
 wp-qa.chime.com
