@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 19 23:09:55 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jul 20 00:18:27 UTC 2024)
 ```
 *.alibaba.com
 api-sandbox.gocardless.com
