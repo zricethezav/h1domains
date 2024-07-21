@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 21 08:10:25 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul 21 09:05:58 UTC 2024)
 ```
 cttso.gov
 cargo.indrive.com
