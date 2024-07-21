@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 21 11:09:41 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul 21 12:08:00 UTC 2024)
 ```
 arrive-server.shopifycloud.com
 *.amazon.cn
