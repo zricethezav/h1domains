@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 21 02:24:41 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jul 21 03:05:56 UTC 2024)
 ```
 metamask.io
 us1.badoo.com
