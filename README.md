@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 23 07:06:28 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul 23 08:07:43 UTC 2024)
 ```
 appapi.neuralprisma.com
 mus1.badoo.com
