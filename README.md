@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 23 04:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul 23 05:06:21 UTC 2024)
 ```
 https://coda.io/signup/email
 gitlab.com
