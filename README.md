@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 25 18:13:26 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul 25 19:08:49 UTC 2024)
 ```
 messenger-web-relay-compat-eu.truecaller.com
 www.expediagroup.com
