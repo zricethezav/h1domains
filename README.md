@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 25 14:11:44 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jul 25 15:06:02 UTC 2024)
 ```
 live-backstage.tiktok.com
 *.unibet.com
