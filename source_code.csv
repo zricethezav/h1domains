@@ -9,8 +9,8 @@ chia_network,https://github.com/Chia-Network/chia_rs,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-oss-contrib,True
-dynatrace,https://github.com/Dynatrace,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
+dynatrace,https://github.com/Dynatrace,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 zabbix,https://www.zabbix.com/download_sources,True
@@ -47,6 +47,7 @@ ibb,https://github.com/Electron,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://git.libssh.org/,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/django,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/spiffe/spire,True
@@ -58,7 +59,6 @@ ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/ruby,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/argoproj/argoproj,True
 fastify,https://github.com/fastify,False
@@ -181,8 +181,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
-matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/matomo-org,True
+matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -207,7 +207,16 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
+hyperledger,https://github.com/hyperledger/fabric-ca,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
+hyperledger,https://github.com/hyperledger/fabric-samples,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-go,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-amcl,True
+hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/fabric-cli,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-go,True
 hyperledger,https://github.com/hyperledger/fabric-config,True
@@ -219,15 +228,6 @@ hyperledger,https://github.com/hyperledger/fabric-private-chaincode,True
 hyperledger,https://github.com/hyperledger/fabric-protos-go-apiv2,True
 hyperledger,https://github.com/hyperledger/fabric-protos-go,True
 hyperledger,https://github.com/hyperledger/fabric-protos,True
-hyperledger,https://github.com/hyperledger/fabric-ca,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
-hyperledger,https://github.com/hyperledger/fabric-samples,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-go,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
-hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/besu,True
 hyperledger,https://github.com/hyperledger/fabric-admin-sdk,True
 hyperledger,https://github.com/hyperledger/besu-errorprone-checks,True
