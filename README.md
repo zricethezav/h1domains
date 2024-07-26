@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 26 05:06:34 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jul 26 06:10:34 UTC 2024)
 ```
 visa.com.ru
 *.cheaptickets.com
