@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 29 09:11:15 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jul 29 10:09:42 UTC 2024)
 ```
 manage.blockscore.com
 *.fetlife.com
