@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 30 17:11:43 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul 30 18:10:54 UTC 2024)
 ```
 passport.larksuite.com
 matrix.redditspace.com
