@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 30 12:12:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jul 30 13:10:07 UTC 2024)
 ```
 wp-dev1.chime.com
 www.ritzcarlton.com/
