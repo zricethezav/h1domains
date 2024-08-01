@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  1 07:11:07 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug  1 08:07:26 UTC 2024)
 ```
 leadgen-asia-south1.truecaller.com
 https://crypto.com/nft
