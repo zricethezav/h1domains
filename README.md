@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  1 19:10:47 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug  1 20:07:21 UTC 2024)
 ```
 datapod-2-query.acceptance.forescoutcloud.net
 *.spiketrap.io
