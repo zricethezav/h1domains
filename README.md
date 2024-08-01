@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  1 00:25:56 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug  1 01:32:53 UTC 2024)
 ```
 api.recordedfuture.com
 wiki.cs.money
