@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  2 11:10:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug  2 12:07:54 UTC 2024)
 ```
 us.forescout.cloud
 www.ultimateears.com
