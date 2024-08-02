@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  2 16:12:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug  2 17:06:26 UTC 2024)
 ```
 urbandictionary.github.io
 *.highwebmedia.com
