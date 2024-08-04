@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  4 20:06:49 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug  4 21:05:44 UTC 2024)
 ```
 duo-invite-eu.truecaller.com
 cards.remitly.io
