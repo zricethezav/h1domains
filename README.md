@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  4 14:09:53 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug  4 15:06:25 UTC 2024)
 ```
 api.loanbuilder.com
 *.hmxservices.com
