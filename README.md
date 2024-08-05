@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  5 18:12:52 UTC 2024)
+## Domains with Bounties (Last Updated Mon Aug  5 19:06:57 UTC 2024)
 ```
 careers.marriott.com
 *.mediatonic.co.uk
