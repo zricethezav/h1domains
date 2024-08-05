@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  5 02:20:34 UTC 2024)
+## Domains with Bounties (Last Updated Mon Aug  5 03:05:56 UTC 2024)
 ```
 auth.magic.link
 support.steampowered.com
