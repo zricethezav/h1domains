@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  6 16:12:26 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug  6 17:08:37 UTC 2024)
 ```
 ap-s.cloud.com
 *.crowdstrike.com
