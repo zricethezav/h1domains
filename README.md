@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  6 22:10:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug  6 23:07:16 UTC 2024)
 ```
 contact-upload4-asia-south1.truecaller.com
 support.rockstargames.com
