@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  7 19:09:45 UTC 2024)
+## Domains with Bounties (Last Updated Wed Aug  7 20:07:24 UTC 2024)
 ```
 uscga.edu
 sportsbook.fanduel.com
