@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  9 12:12:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug  9 13:08:06 UTC 2024)
 ```
 wp-qa.chime.com
 verovelvollisuustiedot.lahitapiola.fi
