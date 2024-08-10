@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 10 13:10:34 UTC 2024)
+## Domains with Bounties (Last Updated Sat Aug 10 14:05:57 UTC 2024)
 ```
 http://api.insightly.com/v3.1/
 https://www.kruidvat.nl/fotoservice
