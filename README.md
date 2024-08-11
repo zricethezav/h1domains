@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 11 00:25:08 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 11 01:33:12 UTC 2024)
 ```
 *.myteksi.net
 www.kruidvat.nl
