@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 11 18:11:53 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 11 19:07:24 UTC 2024)
 ```
 *.hypermint.com
 academy.databricks.com
