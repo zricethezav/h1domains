@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 11 14:09:59 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 11 15:06:08 UTC 2024)
 ```
 accounts.firefox.com
 https://user-storage.api.cx.metamask.io
