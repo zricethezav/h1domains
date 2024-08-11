@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 11 03:09:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 11 04:09:28 UTC 2024)
 ```
 www.logitech.com
 https://www.infura.io/faucet/linea
