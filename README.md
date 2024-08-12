@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 12 18:14:23 UTC 2024)
+## Domains with Bounties (Last Updated Mon Aug 12 19:07:23 UTC 2024)
 ```
 *.prd.fndlsb.net
 edgeapi.slack.com
