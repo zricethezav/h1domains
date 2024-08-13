@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 13 07:11:10 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 13 08:07:08 UTC 2024)
 ```
 dns.alvosec.com
 images-asia-south1.truecaller.com
