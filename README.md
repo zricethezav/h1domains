@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 12 23:10:55 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 13 00:19:51 UTC 2024)
 ```
 messenger-web-relay-eu.truecaller.com
 *.amazon.ae
