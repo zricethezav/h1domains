@@ -23,8 +23,8 @@ doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
 cornershop,https://github.com/cornershop/*,True
 agoric,https://github.com/endojs,False
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 snowplow,https://github.com/snowplow-incubator,False
@@ -182,8 +182,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org/matomo,True
-matomo,https://github.com/innocraft/,True
 matomo,https://github.com/matomo-org,True
+matomo,https://github.com/innocraft/,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -208,16 +208,7 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
-hyperledger,https://github.com/hyperledger/fabric-ca,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
-hyperledger,https://github.com/hyperledger/fabric-samples,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-go,True
-hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-amcl,True
-hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/fabric-cli,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-go,True
 hyperledger,https://github.com/hyperledger/fabric-config,True
@@ -229,6 +220,15 @@ hyperledger,https://github.com/hyperledger/fabric-private-chaincode,True
 hyperledger,https://github.com/hyperledger/fabric-protos-go-apiv2,True
 hyperledger,https://github.com/hyperledger/fabric-protos-go,True
 hyperledger,https://github.com/hyperledger/fabric-protos,True
+hyperledger,https://github.com/hyperledger/fabric-ca,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
+hyperledger,https://github.com/hyperledger/fabric-samples,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-go,True
+hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
+hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/besu,True
 hyperledger,https://github.com/hyperledger/fabric-admin-sdk,True
 hyperledger,https://github.com/hyperledger/besu-errorprone-checks,True
@@ -262,8 +262,8 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave-intl/bat-balance,True
+brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave-intl/bat-ledger,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
