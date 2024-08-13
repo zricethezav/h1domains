@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 13 20:10:24 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 13 21:05:53 UTC 2024)
 ```
 t.umblr.com
 assure-noneu.truecaller.com
