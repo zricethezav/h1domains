@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 14 02:24:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed Aug 14 03:06:56 UTC 2024)
 ```
  github.com/WordPress
 *.algolia.net
