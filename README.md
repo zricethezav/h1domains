@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 15 05:09:22 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug 15 06:07:43 UTC 2024)
 ```
 businesshelp.snapchat.com
 api2.grofers.com
