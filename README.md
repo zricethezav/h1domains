@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 15 08:11:28 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug 15 09:07:13 UTC 2024)
 ```
 beacon.netflix.com
 mobile.kiwi.ki
