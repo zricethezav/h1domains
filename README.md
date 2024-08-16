@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 16 22:09:58 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug 16 23:08:36 UTC 2024)
 ```
 *.tiktokv.com
 businessdefense.gov
