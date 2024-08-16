@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 16 20:07:28 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug 16 21:06:20 UTC 2024)
 ```
 https://my.exness.com/pa/socialtrading
 *.lyst.co
