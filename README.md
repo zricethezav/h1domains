@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 17 10:06:06 UTC 2024)
+## Domains with Bounties (Last Updated Sat Aug 17 11:07:25 UTC 2024)
 ```
 *.expediacruises.com
 app.moderntreasury.com
