@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 18 12:13:21 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 18 13:07:22 UTC 2024)
 ```
 community-tc.services.mozilla.com
 partner.swiftfinancial.com
