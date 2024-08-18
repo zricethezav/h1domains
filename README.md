@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 18 09:07:00 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 18 10:06:15 UTC 2024)
 ```
 reservations.all-inclusive.marriott.com
 www.coinspot.com.au
