@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 19 22:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Mon Aug 19 23:10:18 UTC 2024)
 ```
 *.highwebmedia.com
 http://api.insightly.com/v3.1/
