@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 20 10:06:16 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 20 11:06:24 UTC 2024)
 ```
 res.hyattinclusivecollection.com
 www.orbitz.com
