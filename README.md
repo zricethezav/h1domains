@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 20 01:35:32 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 20 02:20:21 UTC 2024)
 ```
 www.marionnaud.ro
 *.reckoproduction.com
