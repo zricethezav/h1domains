@@ -2,11 +2,11 @@ handle,source_code,eligible_for_bounty
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
 nimiq,https://github.com/nimiq/core-rs-albatross,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -47,19 +47,19 @@ ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://git.libssh.org/,True
+ibb,https://github.com/apache/airflow,True
+ibb,https://github.com/ruby,True
+ibb,https://github.com/django,True
+ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/rails,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
-ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/httpd,True
-ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/ruby,True
-ibb,https://github.com/django,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/Electron,True
 fastify,https://github.com/fastify,False
@@ -72,13 +72,13 @@ skale_network,https://github.com/skalenetwork/libBLS,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/bor,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -182,8 +182,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org/matomo,True
-matomo,https://github.com/matomo-org,True
 matomo,https://github.com/innocraft/,True
+matomo,https://github.com/matomo-org,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -261,8 +261,8 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave/brave-core,True
+brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-ledger,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/bruteforcesettings,True
@@ -401,7 +401,6 @@ paragonie,https://github.com/paragonie/chronicle,True
 paragonie,https://github.com/paragonie/sapient,True
 paragonie,https://github.com/paragonie/paseto,True
 codeigniter,https://github.com/bcit-ci/CodeIgniter,False
-owncloud,https://github.com/owncloud/ocis,True
 owncloud,https://github.com/owncloud/core,True
 owncloud,https://github.com/owncloud/user_ldap,True
 owncloud,https://github.com/owncloud/oauth2,True
@@ -413,6 +412,7 @@ owncloud,https://github.com/owncloud/files,True
 owncloud,https://github.com/owncloud/notifications,True
 owncloud,https://github.com/owncloud/gallery,True
 owncloud,https://github.com/owncloud/updater,True
+owncloud,https://github.com/owncloud/ocis,True
 wordpoints,https://github.com/WordPoints/wordpoints/,True
 wordpoints,https://github.com/WordPoints/,True
 urbandictionary,https://github.com/urbandictionary,True
