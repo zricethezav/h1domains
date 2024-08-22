@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 22 07:11:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug 22 08:07:07 UTC 2024)
 ```
 *.seoab.io
 app.smooch.io
