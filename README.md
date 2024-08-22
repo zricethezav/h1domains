@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 22 03:11:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug 22 04:06:41 UTC 2024)
 ```
 *.mmcdn.com
 *.8x8.id
