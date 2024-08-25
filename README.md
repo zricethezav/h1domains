@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 25 04:08:29 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 25 05:05:53 UTC 2024)
 ```
 api.theperfumeshop.com
 booking.cheapcaribbean.com
