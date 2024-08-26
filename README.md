@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 26 05:09:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon Aug 26 06:07:53 UTC 2024)
 ```
 mobileapp.hyatt.com
 *.cryptopunks.app
