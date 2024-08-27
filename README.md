@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 27 00:24:08 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 27 01:32:48 UTC 2024)
 ```
 accounts.pixiv.net
 oauth-portal-asia-south1.truecaller.com
