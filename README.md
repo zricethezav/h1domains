@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 27 10:11:32 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug 27 11:05:54 UTC 2024)
 ```
 oneview.malwarebytes.com
 talk.brave.com
