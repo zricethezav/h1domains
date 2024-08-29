@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 29 00:20:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Aug 29 01:33:26 UTC 2024)
 ```
 unlist5.truecaller.com
 hg.mozilla.org
