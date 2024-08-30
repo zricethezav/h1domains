@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 30 00:23:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug 30 01:33:20 UTC 2024)
 ```
 www.aiven.io
 gateway.reddit.com
