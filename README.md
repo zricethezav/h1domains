@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 30 03:10:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug 30 04:06:52 UTC 2024)
 ```
 *.kolikkopelit.com
 gifts.grab.com
