@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 30 20:11:52 UTC 2024)
+## Domains with Bounties (Last Updated Fri Aug 30 21:05:59 UTC 2024)
 ```
 list-v2--netlify-plugins.netlify.app
 lark-frontier.byteoversea.com
