@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 31 15:10:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Aug 31 16:07:18 UTC 2024)
 ```
 *.rocketleague.com
 hypermint.com
