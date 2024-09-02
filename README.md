@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  2 09:10:35 UTC 2024)
+## Domains with Bounties (Last Updated Mon Sep  2 10:06:39 UTC 2024)
 ```
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 www.sokos.fi
