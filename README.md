@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  3 20:11:20 UTC 2024)
+## Domains with Bounties (Last Updated Tue Sep  3 21:08:37 UTC 2024)
 ```
 cloud.elastic.co
 api.faraday.ai
