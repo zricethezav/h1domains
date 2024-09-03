@@ -24,8 +24,8 @@ doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
 cornershop,https://github.com/cornershop/*,True
 agoric,https://github.com/endojs,False
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 snowplow,https://github.com/snowplow-incubator,False
@@ -48,18 +48,18 @@ ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://git.libssh.org/,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/argoproj/argoproj,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/nodejs/node,True
-ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/ruby,True
+ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/Nginx,True
-ibb,https://github.com/rails,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
+ibb,https://github.com/rails,True
 ibb,https://github.com/django,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/curl/curl,True
@@ -68,8 +68,8 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/libBLS,True
-skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
+skale_network,https://github.com/skalenetwork/sgxwallet,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
@@ -182,8 +182,8 @@ pyca,https://github.com/pyca/infra,False
 omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
-matomo,https://github.com/matomo-org,True
 matomo,https://github.com/innocraft/,True
+matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
@@ -292,6 +292,7 @@ nextcloud,https://github.com/nextcloud/terms_of_service,True
 nextcloud,https://github.com/nextcloud/workflow_script,True
 nextcloud,https://github.com/nextcloud/bruteforcesettings,True
 nextcloud,https://github.com/nextcloud/related_resources,True
+nextcloud,https://github.com/nextcloud/approval,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
@@ -316,7 +317,6 @@ nextcloud,https://github.com/nextcloud/richdocuments,True
 nextcloud,https://github.com/nextcloud/onlyoffice,True
 nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
 nextcloud,https://github.com/nextcloud/deck,True
-nextcloud,https://github.com/nextcloud/approval,True
 nextcloud,https://github.com/nextcloud/files_lock,True
 nextcloud,https://github.com/nextcloud/user_migration,True
 nextcloud,https://github.com/nextcloud/twofactor_webauthn,True
