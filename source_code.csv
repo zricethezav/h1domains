@@ -72,11 +72,11 @@ skale_network,https://github.com/skalenetwork/skale-consensus,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
-polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/static,True
+polygon-technology,https://github.com/maticnetwork/matic-cli ,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
@@ -355,8 +355,8 @@ concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
 tari_labs,https://github.com/tari-project/,True
-aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
+aleo,https://github.com/AleoHQ/snarkVM/,True
 raivo,https://github.com/raivo-otp/apns-server,False
 raivo,https://github.com/raivo-otp/macos-receiver,False
 raivo,https://github.com/raivo-otp/ios-application,False
