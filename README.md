@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep  4 00:24:22 UTC 2024)
+## Domains with Bounties (Last Updated Wed Sep  4 01:33:32 UTC 2024)
 ```
 ws.sorare.com
 *.napoleonsports.be
