@@ -73,11 +73,11 @@ skale_network,https://github.com/skalenetwork/skale-consensus,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
-polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/static,True
+polygon-technology,https://github.com/maticnetwork/matic-cli ,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
@@ -162,8 +162,8 @@ oasisprotocol,https://github.com/oasisprotocol/deoxysii-rust,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-ext,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
-oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
+oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
