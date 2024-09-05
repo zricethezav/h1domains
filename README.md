@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep  4 23:05:52 UTC 2024)
+## Domains with Bounties (Last Updated Thu Sep  5 00:19:52 UTC 2024)
 ```
 teams.krisp.ai
 beta-cloud.acronis.com
