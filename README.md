@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  5 04:11:34 UTC 2024)
+## Domains with Bounties (Last Updated Thu Sep  5 05:05:56 UTC 2024)
 ```
 https://mywallet-management-west.wallet.cat.earlywarning.io/
 messenger-web-relay-noneu.truecaller.com
