@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  5 20:07:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Sep  5 21:06:32 UTC 2024)
 ```
 *.snooguts.net
 partner-webhook.remitly.io
