@@ -118,7 +118,6 @@ kubernetes,https://github.com/kubernetes/utils,True
 kubernetes,https://github.com/kubernetes/website,True
 kubernetes,https://github.com/kubernetes/community,False
 kubernetes,https://github.com/kubernetes/ingress-gce,False
-kubernetes,https://github.com/kubernetes/kops,True
 kubernetes,https://github.com/kubernetes/enhancements,False
 kubernetes,https://github.com/kubernetes/kompose,True
 kubernetes,https://github.com/kubernetes/kube-state-metrics,True
@@ -130,12 +129,14 @@ kubernetes,https://github.com/kubernetes/cloud-provider-azure,False
 kubernetes,https://github.com/kubernetes/dashboard,True
 kubernetes,https://github.com/kubernetes/node-problem-detector,True
 kubernetes,https://github.com/kubernetes/repo-infra,True
+kubernetes,https://github.com/kubernetes/cloud-provider-vsphere,False
 kubernetes,https://github.com/kubernetes/kubernetes,True
 kubernetes,https://github.com/kubernetes/kubelet,True
 kubernetes,https://github.com/kubernetes/apiserver,True
 kubernetes,https://github.com/kubernetes/api,True
 kubernetes,https://github.com/kubernetes/test-infra,True
 kubernetes,https://github.com/kubernetes/ingress-nginx,True
+kubernetes,https://github.com/kubernetes/kops,True
 kubernetes,https://github.com/kubernetes/minikube,True
 kubernetes,https://github.com/kubernetes/autoscaler,True
 kubernetes,https://github.com/kubernetes/kubectl,True
@@ -150,7 +151,6 @@ kubernetes,https://github.com/kubernetes-security,True
 kubernetes,https://github.com/kubernetes-client,True
 kubernetes,https://github.com/kubernetes-csi,True
 kubernetes,https://github.com/kubernetes/kubernetes-anywhere,False
-kubernetes,https://github.com/kubernetes/cloud-provider-vsphere,False
 kubernetes,https://github.com/kubernetes/legacy-cloud-providers,False
 kubernetes,https://github.com/kubernetes-incubator,False
 kubernetes,https://github.com/kubernetes-retired,False
