@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  5 09:10:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Sep  5 10:09:12 UTC 2024)
 ```
 tunnistus.lahitapiola.fi
 *.harmonixmusic.com
