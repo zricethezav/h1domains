@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep  6 00:22:25 UTC 2024)
+## Domains with Bounties (Last Updated Fri Sep  6 01:32:52 UTC 2024)
 ```
 www.alibabagroup.com
 push-callerid-eu.truecaller.com
