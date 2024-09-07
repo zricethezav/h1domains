@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep  7 21:10:46 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep  7 22:05:41 UTC 2024)
 ```
 (yoursubdomain).eu.iws.cloud.com
 *.preempt.com
