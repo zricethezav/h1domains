@@ -48,9 +48,9 @@ ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://git.libssh.org/,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/argoproj/argoproj,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/ruby,True
@@ -182,8 +182,8 @@ pyca,https://github.com/pyca/infra,False
 omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
-matomo,https://github.com/matomo-org,True
 matomo,https://github.com/innocraft/,True
+matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
@@ -339,8 +339,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
