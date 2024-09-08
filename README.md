@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep  8 04:08:25 UTC 2024)
+## Domains with Bounties (Last Updated Sun Sep  8 05:08:32 UTC 2024)
 ```
 messenger.eu-east-1.indriverapp.com
 10x.redoxengine.com
