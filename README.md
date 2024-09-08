@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep  8 09:10:03 UTC 2024)
+## Domains with Bounties (Last Updated Sun Sep  8 10:06:37 UTC 2024)
 ```
 uscga.edu
 flights.booking.com
