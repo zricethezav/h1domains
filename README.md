@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  9 02:26:57 UTC 2024)
+## Domains with Bounties (Last Updated Mon Sep  9 03:07:59 UTC 2024)
 ```
 tagging5-asia-south1.truecaller.com
 api.tideplatform.in
