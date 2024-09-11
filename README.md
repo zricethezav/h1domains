@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 10 23:10:52 UTC 2024)
+## Domains with Bounties (Last Updated Wed Sep 11 00:19:56 UTC 2024)
 ```
 *.storspiller.com
 cdna.lystit.com
