@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 14 05:10:43 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 14 06:07:15 UTC 2024)
 ```
 metrics.deribit.com
 api.marionnaud.fr
