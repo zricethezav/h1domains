@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 14 10:09:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 14 11:06:01 UTC 2024)
 ```
 *.chimecard.com
 cover-photos.hackerone-user-content.com
