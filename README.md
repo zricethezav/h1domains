@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 15 11:09:40 UTC 2024)
+## Domains with Bounties (Last Updated Sun Sep 15 12:08:05 UTC 2024)
 ```
 gravatar.com
 cover-photos.hackerone-user-content.com
