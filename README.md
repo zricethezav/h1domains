@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 16 08:12:36 UTC 2024)
+## Domains with Bounties (Last Updated Mon Sep 16 09:06:54 UTC 2024)
 ```
 backup.truecaller.com
 api.watsons.vn
