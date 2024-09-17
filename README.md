@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 17 21:10:18 UTC 2024)
+## Domains with Bounties (Last Updated Tue Sep 17 22:05:55 UTC 2024)
 ```
 https://www.kruidvat.nl/persoonlijk
 kyc-src.etoro.com
