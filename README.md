@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 19 13:13:58 UTC 2024)
+## Domains with Bounties (Last Updated Thu Sep 19 14:05:54 UTC 2024)
 ```
 oauth-portal-asia-south1.truecaller.com
 *.houseoffun.com
