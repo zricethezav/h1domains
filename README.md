@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 20 21:09:53 UTC 2024)
+## Domains with Bounties (Last Updated Fri Sep 20 22:10:15 UTC 2024)
 ```
 connect.8x8.com
 yrityspalvelu.tapiola.fi
