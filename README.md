@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 21 11:09:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 21 12:08:23 UTC 2024)
 ```
 www.livestream.com
 res.blueskytours.globalbookingsolutions.com
