@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 21 20:09:50 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 21 21:05:57 UTC 2024)
 ```
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 api.spotify.com
