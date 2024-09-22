@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 22 20:10:50 UTC 2024)
+## Domains with Bounties (Last Updated Sun Sep 22 21:09:15 UTC 2024)
 ```
 www.authorize.net
 wp-dev3.chime.com
