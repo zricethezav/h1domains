@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 24 00:21:15 UTC 2024)
+## Domains with Bounties (Last Updated Tue Sep 24 01:33:35 UTC 2024)
 ```
 placement-rules-noneu.truecaller.com
 stores-api-noneu.truecaller.com
