@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 25 07:06:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Sep 25 08:07:43 UTC 2024)
 ```
 metamask.io
 auth4-asia-south1.truecaller.com
