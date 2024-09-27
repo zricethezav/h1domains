@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 27 08:12:11 UTC 2024)
+## Domains with Bounties (Last Updated Fri Sep 27 09:06:36 UTC 2024)
 ```
 www.quip.com
 file-storage-front.eu-east-1.indriverapp.com
