@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 28 00:20:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 28 01:32:54 UTC 2024)
 ```
 research.23andme.com
 app.skinport.com
