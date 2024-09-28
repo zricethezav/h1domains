@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 28 08:11:07 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 28 09:06:35 UTC 2024)
 ```
 gitlab.com
 hackerone-ext-content.com
