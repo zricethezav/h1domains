@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 28 16:10:19 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep 28 17:05:42 UTC 2024)
 ```
 http://member-qa.chime.com/enroll/#/account
 meechum.netflix.com
