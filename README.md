@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 30 05:11:14 UTC 2024)
+## Domains with Bounties (Last Updated Mon Sep 30 06:08:34 UTC 2024)
 ```
 duo.truecaller.com
 secureui.starbucks.com
