@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  1 21:12:00 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct  1 22:05:56 UTC 2024)
 ```
 api.theperfumeshop.com
 enterprise-webhooks-noneu.truecaller.com
