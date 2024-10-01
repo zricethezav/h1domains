@@ -69,8 +69,8 @@ ibb,https://github.com/Nginx,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/openssl/openssl,True
-ibb,https://github.com/rails,True
 ibb,https://github.com/rack/rack,True
+ibb,https://github.com/rails,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/curl/curl,True
