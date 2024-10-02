@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct  2 05:10:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct  2 06:08:04 UTC 2024)
 ```
 backstage.io
 marketplace.fedramp.gov
