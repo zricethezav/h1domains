@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  3 01:33:48 UTC 2024)
+## Domains with Bounties (Last Updated Thu Oct  3 02:28:55 UTC 2024)
 ```
 api.avtoelon.uz
 yourdomain.freshchat.com
