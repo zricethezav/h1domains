@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  3 18:10:41 UTC 2024)
+## Domains with Bounties (Last Updated Thu Oct  3 19:05:59 UTC 2024)
 ```
 accommodations.booking.com
 external.indrive.dev
