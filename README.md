@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  5 07:09:16 UTC 2024)
+## Domains with Bounties (Last Updated Sat Oct  5 08:07:07 UTC 2024)
 ```
 fortmatic.com
 http://h1-your-domain.zendesk.com/sell
