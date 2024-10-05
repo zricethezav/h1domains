@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  5 11:08:46 UTC 2024)
+## Domains with Bounties (Last Updated Sat Oct  5 12:07:54 UTC 2024)
 ```
 wp-dev5.chime.com
 support.mozilla.org
