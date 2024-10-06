@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct  6 07:05:58 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct  6 08:06:49 UTC 2024)
 ```
 api.dyson.ie
 http://sb-mobile-api.fireblocks.io
