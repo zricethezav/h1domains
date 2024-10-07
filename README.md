@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  7 20:10:41 UTC 2024)
+## Domains with Bounties (Last Updated Mon Oct  7 21:06:59 UTC 2024)
 ```
 *.amazon.com.br
 stream.launchdarkly.com
