@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct  9 01:36:37 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct  9 02:28:42 UTC 2024)
 ```
 vacations.travelimpressions.com
 mobileapi.insightly.com
