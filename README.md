@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 11 22:09:02 UTC 2024)
+## Domains with Bounties (Last Updated Fri Oct 11 23:06:14 UTC 2024)
 ```
 partner-account-noneu.truecaller.com
 ebsext.oft.hyatt.com
