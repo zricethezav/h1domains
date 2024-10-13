@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 13 11:08:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct 13 12:08:39 UTC 2024)
 ```
 *.cornershopapp.com/*
 wordpressfoundation.org
