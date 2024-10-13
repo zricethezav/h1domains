@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 13 22:05:50 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct 13 23:06:48 UTC 2024)
 ```
 *.oncatapult.com
 www.tink.com
