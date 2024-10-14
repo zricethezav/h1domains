@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 14 10:10:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon Oct 14 11:08:25 UTC 2024)
 ```
 app.snapchat.com
 http://api.insightly.com/v3.1/
