@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 14 04:10:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Oct 14 05:07:35 UTC 2024)
 ```
 reservations.wynnvacations.com
 coinbase.com
