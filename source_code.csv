@@ -75,8 +75,8 @@ ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/spiffe/spiffe,True
-ibb,https://github.com/django,True
 ibb,https://github.com/apache/airflow,True
+ibb,https://github.com/django,True
 ibb,https://github.com/Electron,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
