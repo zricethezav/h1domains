@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 15 09:10:57 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 15 10:07:32 UTC 2024)
 ```
 hg.mozilla.org
 mobile.s-pankki.fi
