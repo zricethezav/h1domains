@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 15 00:21:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 15 01:34:04 UTC 2024)
 ```
 *.boredapeyachtclub.com
 medias.pns.hk
