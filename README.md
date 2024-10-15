@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 15 21:05:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 15 22:05:56 UTC 2024)
 ```
 *.fallguys.com
 www.kruidvat.nl
