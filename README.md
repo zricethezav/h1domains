@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 15 03:15:09 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 15 04:07:34 UTC 2024)
 ```
 https://gatewaydsaptst2.marriott.com/
 creatormarketplace.tiktok.com
