@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 16 21:09:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct 16 22:06:04 UTC 2024)
 ```
 https://mywallet-management-west.wallet.cat.earlywarning.io/
 api.instacart.com
