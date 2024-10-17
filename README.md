@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 17 03:14:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Oct 17 04:07:24 UTC 2024)
 ```
 company-profile-noneu.truecaller.com
 playartifact.com
