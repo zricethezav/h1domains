@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 18 04:07:50 UTC 2024)
+## Domains with Bounties (Last Updated Fri Oct 18 05:06:50 UTC 2024)
 ```
 https://test.nicex.com
 ads-config-engine-noneu.truecaller.com
