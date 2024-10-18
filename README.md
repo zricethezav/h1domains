@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 18 00:24:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri Oct 18 01:33:39 UTC 2024)
 ```
 *.ra.roblox.com
 slack-imgs.com
