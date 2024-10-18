@@ -19,9 +19,9 @@ pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
 nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
-chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
@@ -88,11 +88,11 @@ skale_network,https://github.com/skalenetwork/skale-consensus,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
+polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/static,True
-polygon-technology,https://github.com/maticnetwork/matic-cli ,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
@@ -196,8 +196,8 @@ pyca,https://github.com/pyca/infra,False
 omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
-matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org,True
+matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
@@ -311,6 +311,7 @@ nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
 nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
 nextcloud,https://github.com/nextcloud/privacy,True
+nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
@@ -339,7 +340,6 @@ nextcloud,https://github.com/nextcloud/bruteforcesettings,True
 nextcloud,https://github.com/nextcloud/files_lock,True
 nextcloud,https://github.com/nextcloud/globalsiteselector,True
 nextcloud,https://github.com/nextcloud/notes,True
-nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
