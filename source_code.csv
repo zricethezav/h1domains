@@ -196,8 +196,8 @@ pyca,https://github.com/pyca/infra,False
 omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
-matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org,True
+matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
