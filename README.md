@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 19 14:08:42 UTC 2024)
+## Domains with Bounties (Last Updated Sat Oct 19 15:05:50 UTC 2024)
 ```
 astra.datastax.com
 m.chaturbate.com
