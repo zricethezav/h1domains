@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 19 22:09:32 UTC 2024)
+## Domains with Bounties (Last Updated Sat Oct 19 23:05:46 UTC 2024)
 ```
 *.flowsecurity.app
 *.irccloud-cdn.com
