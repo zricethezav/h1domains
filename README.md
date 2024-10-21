@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 20 23:09:23 UTC 2024)
+## Domains with Bounties (Last Updated Mon Oct 21 00:22:36 UTC 2024)
 ```
 debug.clairvoyance.indrive.tech
 http://www.kiwi.com/stories
