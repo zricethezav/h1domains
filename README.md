@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 22 10:10:14 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 22 11:05:56 UTC 2024)
 ```
 *.wavecell.com
 *.unibet.fr
