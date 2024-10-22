@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 22 01:36:45 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 22 02:29:25 UTC 2024)
 ```
 api.fortress.com.hk
 ws1.dashlane.com
