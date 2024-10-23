@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 23 21:09:31 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct 23 22:05:50 UTC 2024)
 ```
 playartifact.com
 your-assigned-subdomain.files.com
