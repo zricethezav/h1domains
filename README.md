@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 23 03:13:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct 23 04:07:19 UTC 2024)
 ```
 https://www.kruidvat.nl/fotoservice
 www.files.com
