@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 23 15:11:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct 23 16:06:58 UTC 2024)
 ```
 *.luckydays.ca
 *.amazon.es
