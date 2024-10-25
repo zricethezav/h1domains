@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 24 23:09:29 UTC 2024)
+## Domains with Bounties (Last Updated Fri Oct 25 00:21:49 UTC 2024)
 ```
 vpn.mozilla.org
 *.exodus.io
