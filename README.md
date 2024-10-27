@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 27 09:09:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct 27 10:06:22 UTC 2024)
 ```
 callbacks.airbnb.com
 *.yuga.com
