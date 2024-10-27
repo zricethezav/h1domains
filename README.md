@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 27 11:09:13 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct 27 12:08:29 UTC 2024)
 ```
 site.rewire.com
 k8s.io
