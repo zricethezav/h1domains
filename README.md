@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 27 14:09:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct 27 15:05:59 UTC 2024)
 ```
 *.bingo.com
 www.lastminute.com.au
