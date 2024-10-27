@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 27 20:15:12 UTC 2024)
+## Domains with Bounties (Last Updated Sun Oct 27 21:05:50 UTC 2024)
 ```
 *.amazon.ae
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
