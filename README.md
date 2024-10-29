@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 29 01:36:52 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 29 02:29:49 UTC 2024)
 ```
 https://test.nicehash.com/shop/
 academy-outbound-ads.tiktok.com
