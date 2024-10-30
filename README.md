@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 30 00:25:11 UTC 2024)
+## Domains with Bounties (Last Updated Wed Oct 30 01:33:44 UTC 2024)
 ```
 res.secretsresorts.com
 tunnistus.lahitapiola.fi
