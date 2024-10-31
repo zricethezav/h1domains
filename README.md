@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 31 02:33:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Oct 31 03:12:50 UTC 2024)
 ```
 *.psyonix.com
 www.watsons.com.hk
