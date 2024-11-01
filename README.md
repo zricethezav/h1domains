@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov  1 09:10:21 UTC 2024)
+## Domains with Bounties (Last Updated Fri Nov  1 10:06:51 UTC 2024)
 ```
 knox.beta.blendlabs.com
 internal-docs.netlify.com
