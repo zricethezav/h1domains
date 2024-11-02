@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  2 21:05:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov  2 22:06:39 UTC 2024)
 ```
 applause1.magisto.com
 www.currencycloud.com
