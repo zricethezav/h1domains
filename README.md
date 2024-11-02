@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  2 10:09:08 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov  2 11:05:45 UTC 2024)
 ```
 yelptop100.com
 api.mapbox.com
