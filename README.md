@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  2 00:24:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov  2 01:33:18 UTC 2024)
 ```
 oauth-account-asia-south1.truecaller.com
 *.amazon.sg
