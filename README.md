@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  3 11:09:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov  3 12:08:34 UTC 2024)
 ```
 outline-noneu.truecaller.com
 *.runnr.in
