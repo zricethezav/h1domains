@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  4 17:23:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov  4 18:12:09 UTC 2024)
 ```
 tableau.fareharbor.engineering
 *.psyonix.com
