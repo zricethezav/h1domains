@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  6 19:10:27 UTC 2024)
+## Domains with Bounties (Last Updated Wed Nov  6 20:08:17 UTC 2024)
 ```
 api.recordedfuture.com
 webonboarding-eu.truecaller.com
