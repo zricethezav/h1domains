@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  7 17:10:30 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov  7 18:07:22 UTC 2024)
 ```
 www.watsons.com.ph
 user-archive-asia-south1.truecaller.com
