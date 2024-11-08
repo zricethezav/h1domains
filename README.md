@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov  8 06:11:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Nov  8 07:05:58 UTC 2024)
 ```
 nft.coinbase.com
 medias.pns.hk
