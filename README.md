@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  9 05:05:55 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov  9 06:08:24 UTC 2024)
 ```
 tria.ge
 www.hotwirepartnercentral.com
