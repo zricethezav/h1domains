@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 04:09:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 10 05:05:51 UTC 2024)
 ```
 account.adobe.com
 x2.fortmatic.com
