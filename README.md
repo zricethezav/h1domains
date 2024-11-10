@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 07:08:48 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 10 08:06:56 UTC 2024)
 ```
 rei.com
 www.visainfinite.ca
