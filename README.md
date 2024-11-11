@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 11 21:09:19 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov 11 22:05:50 UTC 2024)
 ```
 donations.livestream.com
 langflow.org
