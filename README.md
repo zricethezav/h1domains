@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 13 12:12:24 UTC 2024)
+## Domains with Bounties (Last Updated Wed Nov 13 13:10:22 UTC 2024)
 ```
 *.skybet.com
 fareharborsites.com
