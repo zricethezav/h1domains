@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 14 18:10:58 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 14 19:05:58 UTC 2024)
 ```
 ads-rules-noneu.truecaller.com
 *.grabpay.com
