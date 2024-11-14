@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 14 00:24:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 14 01:33:40 UTC 2024)
 ```
 id.nba.com
 app.starbucks.com
