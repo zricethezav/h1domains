@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 15 19:09:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Nov 15 20:06:54 UTC 2024)
 ```
 http://collaboration.rei.com
 eets-sftp-listener.gamma.redoxstage.com
