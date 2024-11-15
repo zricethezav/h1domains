@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 15 03:15:48 UTC 2024)
+## Domains with Bounties (Last Updated Fri Nov 15 04:07:23 UTC 2024)
 ```
 www.xvideos.red
 https://my.exness.com/pa/pim/manager
