@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 16 04:10:04 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 16 05:06:28 UTC 2024)
 ```
 batchlogging4.truecaller.com
 http://www.shopmarriott.com
