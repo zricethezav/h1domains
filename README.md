@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 17 04:06:55 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 17 05:06:22 UTC 2024)
 ```
 accounts.creditkarma.com
 holidays-au.fijiairways.com
