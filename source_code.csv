@@ -39,8 +39,8 @@ moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/endojs,False
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 snowplow,https://github.com/poplindata,False
@@ -268,8 +268,8 @@ brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-ledger,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/viewer,True
@@ -299,9 +299,9 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
