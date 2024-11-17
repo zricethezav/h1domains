@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 17 15:05:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 17 16:06:16 UTC 2024)
 ```
 web.koho.ca
 *.rockstargames.com
