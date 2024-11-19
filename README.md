@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 19 08:08:24 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 19 09:06:56 UTC 2024)
 ```
 *.blockchain.com
 media.marionnaud.fr
