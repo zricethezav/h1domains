@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 21 07:09:54 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 21 08:07:51 UTC 2024)
 ```
 eu.cloud.com
 *.betfair.se
