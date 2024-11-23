@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 23 00:24:26 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 23 01:35:22 UTC 2024)
 ```
 porshe-design.com
 netlify-cdp-loader.netlify.app
