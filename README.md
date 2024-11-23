@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 23 02:32:27 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 23 03:13:49 UTC 2024)
 ```
 www.xvideos.com
 payments.hostinger.com
