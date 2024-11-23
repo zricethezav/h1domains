@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 23 16:09:19 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 23 17:05:43 UTC 2024)
 ```
 www.hotwirepartnercentral.com
 gist.github.com
