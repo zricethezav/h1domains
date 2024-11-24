@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 24 05:09:18 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 24 06:07:49 UTC 2024)
 ```
 direct-demo.currencycloud.com
 blog.playcanvas.com
