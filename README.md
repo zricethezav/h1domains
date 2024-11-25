@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 25 19:05:57 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov 25 20:06:58 UTC 2024)
 ```
 community.forescout.com
 http://federatedid-na1.services.adobe.com
