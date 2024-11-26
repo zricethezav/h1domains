@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 26 08:11:33 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 26 09:06:58 UTC 2024)
 ```
 media.marionnaud.it
 checkout.razorpay.com
