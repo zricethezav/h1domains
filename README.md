@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 26 12:11:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 26 13:12:58 UTC 2024)
 ```
 university-staging.dynatracelabs.com
 astra.datastax.com
