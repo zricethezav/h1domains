@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 27 02:35:41 UTC 2024)
+## Domains with Bounties (Last Updated Wed Nov 27 03:19:15 UTC 2024)
 ```
 support.greenhouse.io
 amazonpayinsurance.in
