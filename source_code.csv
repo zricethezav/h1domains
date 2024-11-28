@@ -15,6 +15,7 @@ aws_vdp,https://github.com/aws/aws-cdk,False
 aws_vdp,https://github.com/aws/aws-cli,False
 aws_vdp,https://github.com/aws/aws-sdk,False
 supabase,https://github.com/supabase,False
+anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
@@ -67,9 +68,9 @@ ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/django,True
-ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/airflow,True
@@ -204,10 +205,10 @@ arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/ics23,True
-cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
+cosmos,https://github.com/cosmos/gaia,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
@@ -347,8 +348,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
