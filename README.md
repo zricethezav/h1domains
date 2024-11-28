@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 28 13:12:52 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 28 14:06:37 UTC 2024)
 ```
 enterprise-account-management-noneu.truecaller.com
 http://federatedid-na1.services.adobe.com
