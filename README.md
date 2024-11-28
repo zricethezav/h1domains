@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 28 05:07:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 28 06:08:29 UTC 2024)
 ```
 www.momondo.com
 registry.gitlab.com
