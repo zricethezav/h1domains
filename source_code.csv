@@ -67,8 +67,8 @@ ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/nodejs/node,True
-ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/django,True
+ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/airflow,True
@@ -204,9 +204,9 @@ cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
+cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/gaia,True
-cosmos,https://github.com/cosmos/ledger-cosmos,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
@@ -301,10 +301,11 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
+nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -320,7 +321,6 @@ nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/circles,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
-nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
 nextcloud,https://github.com/nextcloud/twofactor_totp,True
 nextcloud,https://github.com/nextcloud/user_oidc,True
