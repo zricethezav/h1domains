@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  1 16:09:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec  1 17:05:53 UTC 2024)
 ```
 www.visa.com.mx
 hiltonhotels.jp
