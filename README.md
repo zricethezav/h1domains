@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  1 10:09:13 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec  1 11:06:29 UTC 2024)
 ```
 admin.8x8.com
 https://vroid.com/studio
