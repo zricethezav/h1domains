@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  2 12:13:56 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  2 13:15:32 UTC 2024)
 ```
 pb.deribit.com
 mgmt-sensors.iris.acceptance.forescoutcloud.net
