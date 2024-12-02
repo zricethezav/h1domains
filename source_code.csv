@@ -25,8 +25,8 @@ chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -211,8 +211,8 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
-rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
+rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
 hyperledger,https://github.com/hyperledger/fabric-ca,True
