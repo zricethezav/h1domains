@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  2 04:07:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  2 05:07:26 UTC 2024)
 ```
 api.cloudflare.com
 *.skygamingcontent.com
