@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  3 04:10:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue Dec  3 05:06:57 UTC 2024)
 ```
 *.grabpay.com
 federalist-docs.18f.gov
