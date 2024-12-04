@@ -24,8 +24,8 @@ nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -210,8 +210,8 @@ valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
-rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
+rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
