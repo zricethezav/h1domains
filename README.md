@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  5 02:36:30 UTC 2024)
+## Domains with Bounties (Last Updated Thu Dec  5 03:20:45 UTC 2024)
 ```
 fareharborsites.com
 platformtest.cat.earlywarning.io
