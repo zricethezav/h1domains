@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  6 21:09:17 UTC 2024)
+## Domains with Bounties (Last Updated Fri Dec  6 22:06:17 UTC 2024)
 ```
 https://coda.io/signup/email
 verify.arkoselabs.com
