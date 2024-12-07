@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 14:06:27 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 15:05:44 UTC 2024)
 ```
 http://miro.com/app
 firefly.adobe.com
