@@ -170,10 +170,10 @@ kubernetes,https://github.com/kubernetes/kubernetes-anywhere,False
 kubernetes,https://github.com/kubernetes-incubator,False
 kubernetes,https://github.com/kubernetes-retired,False
 kubernetes,https://github.com/kubernetes-sigs,False
-filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
 filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
+filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
@@ -304,6 +304,7 @@ nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
+nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -319,7 +320,6 @@ nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/circles,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
-nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
 nextcloud,https://github.com/nextcloud/twofactor_totp,True
 nextcloud,https://github.com/nextcloud/user_oidc,True
