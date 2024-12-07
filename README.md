@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 02:35:17 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 03:19:15 UTC 2024)
 ```
 *.amazon.cn
 partner.steamgames.com
