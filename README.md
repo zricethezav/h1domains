@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 05:09:23 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 06:07:46 UTC 2024)
 ```
 *.gsselect.com
 www.cybersource.com
