@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 07:09:27 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 08:08:23 UTC 2024)
 ```
 getworldcoin.com
 https://gatewaydsapdev2.marriott.com/
