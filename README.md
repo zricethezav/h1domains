@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  8 02:34:54 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec  8 03:22:39 UTC 2024)
 ```
 www.visa.com.cy
 portfolio.metamask.io
