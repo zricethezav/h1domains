@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  9 07:10:27 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  9 08:08:53 UTC 2024)
 ```
 http://www.kiwi.com/stories
 simplenote.com
