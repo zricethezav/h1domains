@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  9 18:12:03 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  9 19:07:25 UTC 2024)
 ```
 www.currencycloud.com
 affiliate-id.tokopedia.com
