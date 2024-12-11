@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 11 17:10:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Dec 11 18:10:36 UTC 2024)
 ```
 m.chaturbate.com
 irclogs.wordpress.org
