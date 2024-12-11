@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 10 23:09:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed Dec 11 00:23:46 UTC 2024)
 ```
 https://my.exness.com/webtrading/
 marquee.gs.com
