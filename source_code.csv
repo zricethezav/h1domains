@@ -355,6 +355,5 @@ cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
 irccloud,https://github.com/irccloud/android,True
 concretecms,https://github.com/concrete5/concrete5,False
-concretecms,https://market.concretecms.com/,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
