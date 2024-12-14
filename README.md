@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 14 14:05:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 14 15:05:52 UTC 2024)
 ```
 http://www.myvisacardportal.com/welcome/enbd/product/#
 visa.co.cr
