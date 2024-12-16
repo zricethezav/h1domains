@@ -18,8 +18,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
-circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
+circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
@@ -65,11 +65,11 @@ ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/rust-lang/rust,True
-ibb,https://github.com/ruby,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/Nginx,True
+ibb,https://github.com/ruby,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/rails,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
@@ -196,12 +196,12 @@ arkadiyt-projects,https://github.com/arkadiyt/ddexport,False
 arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
 arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
-cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/cosmos/gaia,True
+cosmos,https://github.com/cosmos/iavl,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
@@ -296,11 +296,10 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/privacy,True
+nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
-nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -308,6 +307,7 @@ nextcloud,https://github.com/nextcloud/3rdparty,True
 nextcloud,https://github.com/nextcloud/password_policy,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/serverinfo,True
+nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
