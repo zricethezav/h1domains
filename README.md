@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 16 05:10:29 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec 16 06:08:49 UTC 2024)
 ```
 api.skinport.com
 *.bingoblitz.com
