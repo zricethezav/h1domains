@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 17 21:09:18 UTC 2024)
+## Domains with Bounties (Last Updated Tue Dec 17 22:07:17 UTC 2024)
 ```
 vote.nba.com
 www.pangleglobal.com
