@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 17 12:13:13 UTC 2024)
+## Domains with Bounties (Last Updated Tue Dec 17 13:14:30 UTC 2024)
 ```
 www.expediaagents.com
 app.marionnaud.ch
