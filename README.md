@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 18 03:18:16 UTC 2024)
+## Domains with Bounties (Last Updated Wed Dec 18 04:07:20 UTC 2024)
 ```
 confluence.hyattdev.com
 *.malwarebytes.com
