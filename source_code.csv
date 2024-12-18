@@ -64,11 +64,11 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/rust-lang/rust,True
-ibb,https://github.com/ruby,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/Nginx,True
+ibb,https://github.com/ruby,True
 ibb,https://github.com/rack/rack,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/airflow,True
@@ -347,7 +347,7 @@ deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
 shopify,https://github.com/Shopify/*,True
-snapchat,https://lensstudio.snapchat.com/api/,False
+snapchat,https://lensstudio.snapchat.com/api/,True
 adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/adobe/*,False
