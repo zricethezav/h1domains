@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 18 23:09:10 UTC 2024)
+## Domains with Bounties (Last Updated Thu Dec 19 00:23:29 UTC 2024)
 ```
 web3.moonpay.com
 app.nordpass.com
