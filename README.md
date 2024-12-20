@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 20 11:08:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Dec 20 12:08:53 UTC 2024)
 ```
 ads.tiktok.com
 www.dyson.pl
