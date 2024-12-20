@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 19 23:09:25 UTC 2024)
+## Domains with Bounties (Last Updated Fri Dec 20 00:22:24 UTC 2024)
 ```
 community.forescout.com
 winecellar.zomato.com
