@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 22 20:10:11 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 22 21:05:56 UTC 2024)
 ```
 kronor.io
 sell.moonpay.com
