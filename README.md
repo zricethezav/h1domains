@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 22 06:10:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 22 07:06:16 UTC 2024)
 ```
 account-sprint.dynatracelabs.com
 shavar.services.mozilla.com
