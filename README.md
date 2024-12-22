@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 22 18:10:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 22 19:05:44 UTC 2024)
 ```
 salesforce.khealth.com
 edgeapi.slack.com
