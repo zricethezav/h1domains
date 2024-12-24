@@ -267,7 +267,6 @@ brave,https://github.com/brave-intl/bat-go,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/viewer,True
-nextcloud,https://github.com/nextcloud/files_texteditor,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
 nextcloud,https://github.com/nextcloud/notifications,True
 nextcloud,https://github.com/nextcloud/files_automatedtagging,True
@@ -297,14 +296,15 @@ nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
+nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
 nextcloud,https://github.com/nextcloud/3rdparty,True
+nextcloud,https://github.com/nextcloud/files_texteditor,True
 nextcloud,https://github.com/nextcloud/password_policy,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/serverinfo,True
-nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
