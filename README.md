@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 24 21:09:06 UTC 2024)
+## Domains with Bounties (Last Updated Tue Dec 24 22:05:48 UTC 2024)
 ```
 api-sandbox.gocardless.com
 assets.airbnb.com
