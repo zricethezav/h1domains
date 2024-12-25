@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 25 00:24:41 UTC 2024)
+## Domains with Bounties (Last Updated Wed Dec 25 01:35:30 UTC 2024)
 ```
 ebsext.oft.hyatt.com
 api.swiftfinancial.com
