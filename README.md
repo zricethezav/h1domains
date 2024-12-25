@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 25 20:09:12 UTC 2024)
+## Domains with Bounties (Last Updated Wed Dec 25 21:05:46 UTC 2024)
 ```
 https://crypto.com/nft
 *.foliodigitalwealth.com
