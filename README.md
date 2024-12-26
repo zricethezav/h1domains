@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 26 17:08:56 UTC 2024)
+## Domains with Bounties (Last Updated Thu Dec 26 18:08:08 UTC 2024)
 ```
 geminiadvisory.io
 https://crypto.com/nft
