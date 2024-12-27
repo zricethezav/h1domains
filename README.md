@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 27 10:07:31 UTC 2024)
+## Domains with Bounties (Last Updated Fri Dec 27 11:06:32 UTC 2024)
 ```
 phabricator.allizom.org
 diagrams.fr.cloud.gov
