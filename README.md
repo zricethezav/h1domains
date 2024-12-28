@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 28 02:28:43 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 28 03:10:13 UTC 2024)
 ```
 slack-status.com
 https://dcfgatewaytst1.marriott.com/
