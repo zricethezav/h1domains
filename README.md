@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 28 13:11:20 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 28 14:06:02 UTC 2024)
 ```
 playcanv.as
 *.boredapeyachtclub.com
