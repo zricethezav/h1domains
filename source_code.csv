@@ -70,9 +70,9 @@ ibb,https://github.com/Nginx,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/apache/airflow,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/django,True
+ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/apache/httpd,True
