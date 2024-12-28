@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 28 04:10:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 28 05:05:48 UTC 2024)
 ```
 login-4njbets.us.betfair.com
 api.larksuite.com
