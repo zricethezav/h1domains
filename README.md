@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 29 16:09:04 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 29 17:06:12 UTC 2024)
 ```
 res.vacations.seaworld.com
 www.watsons.vn
