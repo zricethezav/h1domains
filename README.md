@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 30 10:09:18 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec 30 11:07:12 UTC 2024)
 ```
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 grammarly.ai
