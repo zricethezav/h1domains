@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 30 14:09:32 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec 30 15:06:15 UTC 2024)
 ```
 zellepay.force.com
 *.yuga.com
