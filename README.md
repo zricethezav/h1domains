@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 31 21:09:04 UTC 2024)
+## Domains with Bounties (Last Updated Tue Dec 31 22:07:20 UTC 2024)
 ```
 *.lastminute.co.nz
 anthem.khealth.com
