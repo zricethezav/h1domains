@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  1 12:12:04 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan  1 13:09:06 UTC 2025)
 ```
 alexaanswers.amazon.com
 www.kruidvat.nl
