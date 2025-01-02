@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  2 17:09:28 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jan  2 18:08:25 UTC 2025)
 ```
 www.figma.com
 gatewaydsapdev2.marriott.com
