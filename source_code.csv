@@ -80,8 +80,8 @@ fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/libBLS,True
-skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
+skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
@@ -199,9 +199,9 @@ arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
-cosmos,https://github.com/cosmos/gaia,True
-cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/cosmos/iavl,True
+cosmos,https://github.com/cosmos/ledger-cosmos,True
+cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
