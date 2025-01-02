@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  2 03:12:04 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jan  2 04:09:18 UTC 2025)
 ```
 http://h1-your-domain.zendesk.com/sell
 https://my.exness.com/pa/pim/manager
