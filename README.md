@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  3 04:10:27 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jan  3 05:06:38 UTC 2025)
 ```
 www.visa.com.ge
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
