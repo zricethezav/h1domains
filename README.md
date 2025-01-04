@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  3 23:09:33 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jan  4 00:21:28 UTC 2025)
 ```
 wordpress.com
 event.clario.co
