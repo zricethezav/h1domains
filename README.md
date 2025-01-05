@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  5 09:05:56 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jan  5 10:05:54 UTC 2025)
 ```
 cdn.plaid.com
 story.snapchat.com
