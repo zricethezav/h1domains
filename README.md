@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  5 04:06:50 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jan  5 05:06:29 UTC 2025)
 ```
 http://auth.khealth.com/khealth/sign-up
 cpanel.hostinger.com
