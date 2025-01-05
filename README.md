@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  4 23:09:12 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jan  5 00:23:54 UTC 2025)
 ```
 www.ritzcarlton.com/
 myaccount-hardening.dynatracelabs.com
