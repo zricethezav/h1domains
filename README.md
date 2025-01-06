@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  5 23:09:23 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jan  6 00:22:58 UTC 2025)
 ```
 *.amazon.com.br
 niantic.kidswebservices.com
