@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  7 12:13:16 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jan  7 13:11:27 UTC 2025)
 ```
 www.travelocity.ca
 www.nba.com
