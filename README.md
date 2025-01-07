@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  7 22:09:08 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jan  7 23:08:29 UTC 2025)
 ```
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 screenshot-proxy.netlify.app
