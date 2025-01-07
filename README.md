@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  7 05:09:35 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jan  7 06:09:20 UTC 2025)
 ```
 https://geocode-beta.bykea.net
 mapi.moneyback.com.hk
