@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  8 05:08:35 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan  8 06:07:57 UTC 2025)
 ```
 bookus.expediacruises.com
 api.khealth.io
