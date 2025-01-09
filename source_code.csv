@@ -211,8 +211,8 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
-rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
+rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 hyperledger,https://github.com/hyperledger/fabric-ca,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
@@ -249,7 +249,6 @@ plaid,https://github.com/plaid/plaid-link-examples,True
 passhash,https://github.com/dhui/passhash,False
 ed,https://github.com/EdOverflow/*,False
 ed,https://github.com/securitytxt/*,False
-aspen,https://github.com/AspenWeb,False
 bitwarden,https://github.com/passwordless,False
 bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
@@ -295,8 +294,8 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
