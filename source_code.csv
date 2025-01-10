@@ -294,8 +294,8 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
@@ -351,6 +351,8 @@ adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/adobe/*,False
 cloudflare,https://github.com/cloudflare/workerd,True
+irccloud,https://github.com/irccloud/ios,True
+irccloud,https://github.com/irccloud/android,True
 concretecms,https://github.com/concrete5/concrete5,False
 slack,https://github.com/slackhq/nebula,True
 rails,https://github.com/rails/rails,True
