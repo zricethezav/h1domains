@@ -65,10 +65,10 @@ ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/rust-lang/rust,True
-ibb,https://github.com/ruby,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/Nginx,True
+ibb,https://github.com/ruby,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
@@ -340,8 +340,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
