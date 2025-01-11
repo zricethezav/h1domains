@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 11 00:24:57 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jan 11 01:34:27 UTC 2025)
 ```
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 intensedebate.com
