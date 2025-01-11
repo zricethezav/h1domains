@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 11 02:27:47 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jan 11 03:10:17 UTC 2025)
 ```
 *-eu.truecaller.com
 api.dysoncanada.ca
