@@ -66,10 +66,10 @@ ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/rust-lang/rust,True
+ibb,https://github.com/ruby,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/Nginx,True
-ibb,https://github.com/ruby,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
