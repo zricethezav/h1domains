@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 14 01:35:24 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jan 14 02:24:32 UTC 2025)
 ```
 www.kruidvat.be
 ablink.info.remitly.com
