@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 14 05:08:24 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jan 14 06:07:44 UTC 2025)
 ```
 securitytrails.com
 teleport.fareharbor.engineering
