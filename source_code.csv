@@ -31,8 +31,8 @@ chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
@@ -73,12 +73,12 @@ ibb,https://github.com/Nginx,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/django,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/apache/httpd,True
+ibb,https://github.com/django,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
