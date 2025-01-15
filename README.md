@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 15 18:10:45 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan 15 19:06:00 UTC 2025)
 ```
 www10.watsons.com.ph
 vpn.mozilla.org
