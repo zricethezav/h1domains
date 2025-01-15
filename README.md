@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 15 12:09:31 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan 15 13:10:32 UTC 2025)
 ```
 avtoelon.uz
 priority.eu-east-1.indriverapp.com
