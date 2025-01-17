@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 17 14:10:28 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jan 17 15:06:38 UTC 2025)
 ```
 event.clario.co
 newsroom.images.hyatt.com
