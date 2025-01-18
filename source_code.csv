@@ -27,8 +27,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
-circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
+circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
@@ -83,10 +83,10 @@ ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rails,True
-ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/django,True
+ibb,https://github.com/curl/curl,True
+ibb,https://github.com/apache/airflow,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
