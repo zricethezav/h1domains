@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 19 23:09:13 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jan 20 00:22:20 UTC 2025)
 ```
 cashier.deriv.com
 homes-and-villas.marriott.com
