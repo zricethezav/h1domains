@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 22 11:09:24 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan 22 12:09:15 UTC 2025)
 ```
 res.vacations.sesameplace.com
 *.tinder.com
