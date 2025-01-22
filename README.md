@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 21 23:05:50 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan 22 00:21:47 UTC 2025)
 ```
 embed.tumblr.com
 artifactory.corp.mongodb.com/
