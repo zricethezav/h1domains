@@ -1,12 +1,12 @@
 handle,source_code,eligible_for_bounty
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,False
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -84,8 +84,8 @@ ibb,https://github.com/django,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/ruby,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -303,8 +303,8 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
