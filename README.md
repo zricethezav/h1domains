@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 23 15:10:50 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jan 23 16:08:41 UTC 2025)
 ```
 *.airbnb.com
 www.etoro.com
