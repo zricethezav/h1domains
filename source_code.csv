@@ -90,8 +90,8 @@ ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
+skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 mainwp,https://github.com/mainwp/mainwp-child,True
@@ -348,8 +348,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
