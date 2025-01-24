@@ -79,8 +79,8 @@ ibb,https://github.com/rack/rack,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rails,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/django,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/apache/tomcat,True
@@ -90,8 +90,8 @@ ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
+skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 mainwp,https://github.com/mainwp/mainwp-child,True
