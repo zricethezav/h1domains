@@ -25,8 +25,8 @@ aws_vdp,https://github.com/aws/aws-cli,False
 aws_vdp,https://github.com/aws/aws-sdk,False
 supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
-pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
+pagerduty,https://github.com/rundeck/rundeck-cli,False
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
@@ -92,8 +92,8 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
-skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
+skale_network,https://github.com/skalenetwork/skale-consensus,True
 mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
