@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 25 19:08:51 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jan 25 20:06:27 UTC 2025)
 ```
 https://judge.me/reviews
 onboarding.cloud.com
