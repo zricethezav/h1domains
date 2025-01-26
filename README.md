@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 26 09:09:02 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jan 26 10:05:59 UTC 2025)
 ```
 yourdomain.freshchat.com
 *.amazon.com.ng
