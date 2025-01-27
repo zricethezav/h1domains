@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 27 05:07:57 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jan 27 06:07:58 UTC 2025)
 ```
 twinmotion.unrealengine.com
 *.boredapeyachtclub.com
