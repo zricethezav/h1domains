@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 27 10:07:21 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jan 27 11:07:16 UTC 2025)
 ```
 lark-frontier.byteoversea.com
 ccloud.yoti.com
