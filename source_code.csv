@@ -309,7 +309,7 @@ nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/notes,True
-nextcloud,https://github.com/nextcloud/recommendations,True
+nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -321,9 +321,9 @@ nextcloud,https://github.com/nextcloud/serverinfo,True
 nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
+nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/circles,True
-nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
 nextcloud,https://github.com/nextcloud/twofactor_totp,True
 nextcloud,https://github.com/nextcloud/user_oidc,True
