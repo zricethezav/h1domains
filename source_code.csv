@@ -79,11 +79,11 @@ ibb,https://github.com/rack/rack,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rails,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/django,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/ruby,True
 ibb,https://github.com/Electron,True
+ibb,https://github.com/ruby,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/apache/airflow,True
@@ -277,7 +277,6 @@ brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
-nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
 nextcloud,https://github.com/nextcloud/notifications,True
 nextcloud,https://github.com/nextcloud/files_automatedtagging,True
@@ -310,6 +309,7 @@ nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/notes,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
+nextcloud,https://github.com/nextcloud/globalsiteselector,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -322,6 +322,7 @@ nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
 nextcloud,https://github.com/nextcloud/recommendations,True
+nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/circles,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
@@ -335,7 +336,6 @@ nextcloud,https://github.com/nextcloud/end_to_end_encryption,True
 nextcloud,https://github.com/nextcloud/deck,True
 nextcloud,https://github.com/nextcloud/bruteforcesettings,True
 nextcloud,https://github.com/nextcloud/files_lock,True
-nextcloud,https://github.com/nextcloud/globalsiteselector,True
 nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
