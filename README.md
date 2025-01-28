@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 28 00:25:29 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jan 28 01:34:14 UTC 2025)
 ```
 push-demo-lightstreamer.cloud.etoro.com
 *.goldmansachs.com
