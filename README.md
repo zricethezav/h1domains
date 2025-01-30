@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 30 07:09:26 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jan 30 08:07:54 UTC 2025)
 ```
 obs-sensors.iris.production.forescoutcloud.net
 dashboard.mergify.com
