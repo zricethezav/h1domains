@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 30 20:10:32 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jan 30 21:07:28 UTC 2025)
 ```
 www.kiwi.com
 *.sbgcdn.com
