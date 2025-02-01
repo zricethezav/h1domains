@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  1 07:08:56 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb  1 08:06:58 UTC 2025)
 ```
 design.ui.com
 store.rockstargames.com
