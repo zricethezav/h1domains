@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  2 09:09:00 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb  2 10:05:50 UTC 2025)
 ```
 *.grindr.mobi
 sportsbook.fanduel.com
