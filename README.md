@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  2 04:07:14 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb  2 05:05:49 UTC 2025)
 ```
 *.tktnew.com
 www.cheapflights.com
