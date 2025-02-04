@@ -99,8 +99,8 @@ skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contrac
 skale_network,https://github.com/skalenetwork/libBLS,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
-mainwp,https://github.com/mainwp/mainwp-child,True
 mainwp,https://github.com/mainwp/mainwp,True
+mainwp,https://github.com/mainwp/mainwp-child,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
