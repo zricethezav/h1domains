@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  4 03:11:03 UTC 2025)
+## Domains with Bounties (Last Updated Tue Feb  4 04:07:18 UTC 2025)
 ```
 work-staging.8x8.com
 www.abritel.fr
