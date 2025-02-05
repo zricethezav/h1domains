@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  5 05:07:22 UTC 2025)
+## Domains with Bounties (Last Updated Wed Feb  5 06:07:48 UTC 2025)
 ```
 apix.vodafone.om
 http://auth.khealth.com/mayo-la-crosse/sign-up
