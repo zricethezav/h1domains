@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  5 09:10:31 UTC 2025)
+## Domains with Bounties (Last Updated Wed Feb  5 10:06:51 UTC 2025)
 ```
 *.justplay.lol
 js.crypto.com
