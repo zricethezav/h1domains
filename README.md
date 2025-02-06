@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  6 22:09:39 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb  6 23:08:34 UTC 2025)
 ```
  github.com/WordPress
 auth.services.adobe.com
