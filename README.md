@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  7 18:11:17 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb  7 19:05:55 UTC 2025)
 ```
 *.folioinstitutional.com
 promos.tvg.com
