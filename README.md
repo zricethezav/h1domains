@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  7 22:09:20 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb  7 23:05:55 UTC 2025)
 ```
 *.harmonixmusic.com
 https://gatewaydsaptst2.marriott.com/
