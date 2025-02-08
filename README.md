@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  8 18:09:52 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb  8 19:05:58 UTC 2025)
 ```
 www.expediagroup.com
 payoneer.com.cn
