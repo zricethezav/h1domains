@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  9 05:05:41 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb  9 06:07:37 UTC 2025)
 ```
 www.starbucks.it/
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
