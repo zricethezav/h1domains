@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 10 02:31:10 UTC 2025)
+## Domains with Bounties (Last Updated Mon Feb 10 03:10:42 UTC 2025)
 ```
 moneybirdstorage.com
 forum.portswigger.net
