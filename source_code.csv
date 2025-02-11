@@ -45,10 +45,3 @@ leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
-zabbix,https://www.zabbix.com/download_sources,True
-tron_dao,https://github.com/tronprotocol/java-tron,True
-kiwicom,https://github.com/kiwicom/*,True
-8x8-bounty,https://github.com/jitsi,True
-moonpay,https://github.com/moonpay,True
-doppler,https://github.com/DopplerHQ/cli,True
-us-department-of-state,https://github.com/USStateDept,False
