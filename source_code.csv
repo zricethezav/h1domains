@@ -55,8 +55,8 @@ us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/endojs,False
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
@@ -80,13 +80,13 @@ ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/curl/curl,True
+ibb,https://github.com/Electron,True
+ibb,https://github.com/argoproj/argoproj,True
+ibb,https://github.com/rack/rack,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
-ibb,https://github.com/argoproj/argoproj,True
-ibb,https://github.com/rack/rack,True
 ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/django,True
