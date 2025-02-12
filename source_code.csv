@@ -79,12 +79,12 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/spiffe/spire,True
+ibb,https://github.com/Electron,True
+ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
-ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/apache/airflow,True
-ibb,https://github.com/Electron,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/django,True
@@ -303,8 +303,8 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_pdfviewer,True
+nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
