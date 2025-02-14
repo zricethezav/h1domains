@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 14 04:08:24 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb 14 05:06:39 UTC 2025)
 ```
 *.skypicker.com
 ablink.info.remitly.com
