@@ -357,8 +357,8 @@ revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,True
-adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
+adobe,https://github.com/contentauth/c2pa-js,True
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
 irccloud,https://github.com/irccloud/android,True
