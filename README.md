@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 14 12:12:19 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb 14 13:09:48 UTC 2025)
 ```
 *.paypal.com
 api.faraday.ai
