@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 15 19:08:55 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 15 20:05:48 UTC 2025)
 ```
 delta.app
 api.netlify.com
