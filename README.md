@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 15 10:09:07 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 15 11:06:09 UTC 2025)
 ```
 firefox.settings.services.mozilla.com
 help.redoxengine.com
