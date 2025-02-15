@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 15 16:06:30 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 15 17:05:48 UTC 2025)
 ```
 rise-api.stg.inspectorio.com
 festival.alternativa.film
