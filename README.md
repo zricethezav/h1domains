@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 15 07:08:54 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 15 08:06:54 UTC 2025)
 ```
 upld.krisp.ai
 *.grammarlyaws.com
