@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 16 19:09:51 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb 16 20:07:01 UTC 2025)
 ```
 *.1debit.com
 www.datastax.com
