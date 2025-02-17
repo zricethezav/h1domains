@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 17 05:07:00 UTC 2025)
+## Domains with Bounties (Last Updated Mon Feb 17 06:08:46 UTC 2025)
 ```
 gamma.redoxstage.com
 *.tide.co
