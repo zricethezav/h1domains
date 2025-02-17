@@ -34,13 +34,13 @@ nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chiapos,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 alchemyplatform,https://github.com/alchemyplatform/modular-account,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
@@ -79,8 +79,8 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/apache/httpd,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/rubygems/rubygems,True
@@ -365,8 +365,8 @@ revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,True
-adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/contentauth/c2pa-js,True
+adobe,https://github.com/contentauth/c2pa-rs,True
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
 irccloud,https://github.com/irccloud/android,True
