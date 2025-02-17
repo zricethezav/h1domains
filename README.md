@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 17 02:32:49 UTC 2025)
+## Domains with Bounties (Last Updated Mon Feb 17 03:11:51 UTC 2025)
 ```
 downloads.datastax.com
 *.mgmt.fndlsb.net
