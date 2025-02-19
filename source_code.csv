@@ -38,12 +38,12 @@ chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
-aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
+aleo,https://github.com/AleoHQ/snarkVM/,True
 zabbix,https://www.zabbix.com/download_sources,True
 tron_dao,https://github.com/tronprotocol/java-tron,True
 kiwicom,https://github.com/kiwicom/*,True
@@ -54,8 +54,8 @@ us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/endojs,False
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
@@ -356,9 +356,9 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
