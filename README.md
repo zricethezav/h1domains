@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 19 23:09:31 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb 20 00:22:34 UTC 2025)
 ```
 profile-photos.hackerone-user-content.com
 mapi.moneyback.com.hk
