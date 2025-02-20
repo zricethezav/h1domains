@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 20 04:09:32 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb 20 05:08:10 UTC 2025)
 ```
 platform.enjin.io
 secure.netflix.com
