@@ -32,14 +32,14 @@ circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
