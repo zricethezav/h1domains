@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 20 10:10:39 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb 20 11:07:18 UTC 2025)
 ```
 *.skypoker.com
 push-d-hap.cloud.etoro.com
