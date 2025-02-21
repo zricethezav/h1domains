@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 21 21:09:27 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb 21 22:06:17 UTC 2025)
 ```
 simperium.com
 zellepay.force.com
