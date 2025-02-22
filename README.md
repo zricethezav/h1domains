@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 22 04:06:47 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 22 05:05:53 UTC 2025)
 ```
 login.starbucks.co.jp
 cdn.arkoselabs.com
