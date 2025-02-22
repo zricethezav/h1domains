@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 22 13:08:23 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 22 14:05:59 UTC 2025)
 ```
 crash-reports.allizom.org
 *.paddypartners.com
