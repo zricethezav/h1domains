@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 22 07:06:27 UTC 2025)
+## Domains with Bounties (Last Updated Sat Feb 22 08:07:14 UTC 2025)
 ```
 federalist-docs.18f.gov
 www.starbucksreserve.com
