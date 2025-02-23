@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 23 10:09:12 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb 23 11:06:31 UTC 2025)
 ```
 *.acronis.work
 *.playstation.net
