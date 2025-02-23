@@ -32,9 +32,9 @@ circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -310,8 +310,8 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/privacy,True
+nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
