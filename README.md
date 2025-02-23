@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 23 12:11:35 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb 23 13:08:39 UTC 2025)
 ```
 updater.clario.co
 https://app.chime.com/
