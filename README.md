@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 24 18:12:41 UTC 2025)
+## Domains with Bounties (Last Updated Mon Feb 24 19:08:29 UTC 2025)
 ```
 app.moderntreasury.com
 www.visa.com.lk
