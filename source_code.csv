@@ -32,9 +32,9 @@ circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 nimiq,https://github.com/nimiq/core-rs-albatross,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
-chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -78,8 +78,8 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/apache/httpd,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/Nginx,True
