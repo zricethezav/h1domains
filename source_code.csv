@@ -78,8 +78,8 @@ ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/spiffe/spire,True
-ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/apache/httpd,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://github.com/Nginx,True
@@ -310,8 +310,8 @@ nextcloud,https://github.com/nextcloud/external,True
 nextcloud,https://github.com/nextcloud/notify_push,True
 nextcloud,https://github.com/nextcloud/calendar_resource_management,True
 nextcloud,https://github.com/nextcloud/suspicious_login,True
-nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/privacy,True
+nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
@@ -353,13 +353,13 @@ mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://github.com/mapbox,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
