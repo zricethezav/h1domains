@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 27 00:26:02 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb 27 01:33:58 UTC 2025)
 ```
 *.travelocity.ca
 developer.playcanvas.com
