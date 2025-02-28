@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 28 07:10:35 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb 28 08:08:12 UTC 2025)
 ```
 https://nativepay.keke.cn
 falcon-sandbox.com
