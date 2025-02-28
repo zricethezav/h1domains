@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 28 19:08:22 UTC 2025)
+## Domains with Bounties (Last Updated Fri Feb 28 20:06:59 UTC 2025)
 ```
 admin.fr.cloud.gov
 *.houseoffun.com
