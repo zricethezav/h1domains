@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  1 16:09:36 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar  1 17:05:53 UTC 2025)
 ```
 classroom.github.com
 http://member-qa.chime.com/enroll/#/account
