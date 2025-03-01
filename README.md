@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  1 10:06:35 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar  1 11:05:47 UTC 2025)
 ```
 www.triseptdemo.com
 secure-supply-xml.booking.com
