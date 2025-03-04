@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  4 17:13:38 UTC 2025)
+## Domains with Bounties (Last Updated Tue Mar  4 18:09:59 UTC 2025)
 ```
 mailpoet.com
 app.faraday.ai
