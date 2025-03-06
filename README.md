@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  6 03:17:26 UTC 2025)
+## Domains with Bounties (Last Updated Thu Mar  6 04:08:50 UTC 2025)
 ```
 staging-app.shipt.com
 auth.23andme.com
