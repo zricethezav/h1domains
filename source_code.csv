@@ -200,7 +200,6 @@ pyca,https://github.com/pyca/pynacl,False
 pyca,https://github.com/pyca/bcrypt,False
 pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
-omise,https://github.com,True
 matomo,https://github.com/innocraft/,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
