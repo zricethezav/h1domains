@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  9 09:05:52 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar  9 10:06:25 UTC 2025)
 ```
 *.napoleonsports.be
 api.blockchain.info
