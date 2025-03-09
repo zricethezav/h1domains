@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  9 05:06:06 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar  9 06:08:29 UTC 2025)
 ```
 rewire.com
 https://www.sdx.com/
