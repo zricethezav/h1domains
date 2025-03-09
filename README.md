@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  9 11:09:09 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar  9 12:07:39 UTC 2025)
 ```
 *.mercadolibre.cl
 hub.vroid.com
