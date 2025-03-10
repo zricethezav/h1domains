@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 10 06:11:09 UTC 2025)
+## Domains with Bounties (Last Updated Mon Mar 10 07:07:18 UTC 2025)
 ```
 cruises.priceline.com
 ir.bookingholdings.com
