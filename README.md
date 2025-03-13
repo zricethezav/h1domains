@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 13 09:10:37 UTC 2025)
+## Domains with Bounties (Last Updated Thu Mar 13 10:08:24 UTC 2025)
 ```
 3.basecamp.com
 *.enspotify.com
