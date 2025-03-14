@@ -277,13 +277,13 @@ weblate,https://github.com/WeblateOrg/website,False
 wordpress,https://github.com/ github.com/WordPress,True
 discourse,https://github.com/discourse/discourse,True
 brave,https://github.com/brave-intl/bat-publisher,True
-brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave/vault-updater,True
+brave,https://github.com/brave-intl/publishers,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
