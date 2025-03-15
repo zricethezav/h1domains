@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 15 06:10:54 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar 15 07:06:08 UTC 2025)
 ```
 astra.datastax.com
 *.shopify.io
