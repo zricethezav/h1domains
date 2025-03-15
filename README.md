@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 15 20:09:25 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar 15 21:05:53 UTC 2025)
 ```
 media.superdrug.com
 business.linkedin.com
