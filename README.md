@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 16 02:33:11 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar 16 03:18:01 UTC 2025)
 ```
 super-services.indriverapp.com
 cdn.moderntreasury.com
