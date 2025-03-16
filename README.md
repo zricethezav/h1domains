@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 16 12:08:42 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar 16 13:08:51 UTC 2025)
 ```
 account-sprint.dynatracelabs.com
 http://auth.khealth.com/cedars/sign-up
