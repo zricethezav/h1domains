@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 17 10:10:30 UTC 2025)
+## Domains with Bounties (Last Updated Mon Mar 17 11:07:23 UTC 2025)
 ```
 world.org
 accounts.logi.com
