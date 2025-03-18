@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 17 23:07:45 UTC 2025)
+## Domains with Bounties (Last Updated Tue Mar 18 00:23:06 UTC 2025)
 ```
 sportsbook.fanduel.com
 api.localizestaging.com
