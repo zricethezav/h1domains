@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 18 06:08:49 UTC 2025)
+## Domains with Bounties (Last Updated Tue Mar 18 07:07:23 UTC 2025)
 ```
 *.monopoly-poker.com
 www.lastminute.co.nz
