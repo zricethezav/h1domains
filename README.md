@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 20 22:06:21 UTC 2025)
+## Domains with Bounties (Last Updated Thu Mar 20 23:07:05 UTC 2025)
 ```
 beacon.netflix.com
 api.gamma.redoxstage.com
