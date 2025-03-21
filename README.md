@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 21 03:16:55 UTC 2025)
+## Domains with Bounties (Last Updated Fri Mar 21 04:07:40 UTC 2025)
 ```
 sync.logitech.com
 web3.moonpay.com
