@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 21 16:10:40 UTC 2025)
+## Domains with Bounties (Last Updated Fri Mar 21 17:06:34 UTC 2025)
 ```
 *.exodus.io
 my.malwarebytes.com
