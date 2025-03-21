@@ -3,10 +3,10 @@ lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,False
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -49,3 +49,5 @@ tron_dao,https://github.com/tronprotocol/java-tron,True
 kiwicom,https://github.com/kiwicom/*,True
 8x8-bounty,https://github.com/jitsi,True
 moonpay,https://github.com/moonpay,True
+doppler,https://github.com/DopplerHQ/cli,True
+us-department-of-state,https://github.com/USStateDept,False
