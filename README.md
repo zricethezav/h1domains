@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 22 07:06:17 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar 22 08:07:35 UTC 2025)
 ```
 direct-demo.currencycloud.com
 www.s-kaupat.fi
