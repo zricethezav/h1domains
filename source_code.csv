@@ -54,8 +54,8 @@ us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/endojs,False
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
@@ -226,10 +226,10 @@ cosmos,https://github.com/cosmos/iavl,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
-rootstocklabs,https://github.com/rsksmart/2wp-api,True
+rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
-rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
+rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 hyperledger,https://github.com/hyperledger/fabric-ca,True
