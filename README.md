@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 23 14:08:54 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar 23 15:05:57 UTC 2025)
 ```
 prd-ring-web-us.prd.rings.solutions
 education.23andme.com
