@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 23 09:09:16 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar 23 10:06:35 UTC 2025)
 ```
 http://portfolio.metamask.io
 gatewaydsaptst1.marriott.com
