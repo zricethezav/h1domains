@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 24 12:13:51 UTC 2025)
+## Domains with Bounties (Last Updated Mon Mar 24 13:12:48 UTC 2025)
 ```
 media.theperfumeshop.com
 paynotifications.booking.com
