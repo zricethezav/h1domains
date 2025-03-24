@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 24 03:23:31 UTC 2025)
+## Domains with Bounties (Last Updated Mon Mar 24 04:07:55 UTC 2025)
 ```
 *.taralite.com
 mobile.s-pankki.fi
