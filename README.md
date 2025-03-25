@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 25 10:10:25 UTC 2025)
+## Domains with Bounties (Last Updated Tue Mar 25 11:06:21 UTC 2025)
 ```
 rezagent.triseptsolutions.com
 *.xoom.com
