@@ -53,8 +53,8 @@ doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/endojs,False
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
@@ -213,8 +213,8 @@ cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
-cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/gaia,True
+cosmos,https://github.com/cosmos/iavl,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
