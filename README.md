@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 26 04:08:58 UTC 2025)
+## Domains with Bounties (Last Updated Wed Mar 26 05:06:58 UTC 2025)
 ```
 firefox.settings.services.mozilla.com
 web.truecaller.com
