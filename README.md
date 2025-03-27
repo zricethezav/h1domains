@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 27 08:11:29 UTC 2025)
+## Domains with Bounties (Last Updated Thu Mar 27 09:07:57 UTC 2025)
 ```
 platform.cat.earlywarning.io
 *.sbgtest.net
