@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 28 06:08:48 UTC 2025)
+## Domains with Bounties (Last Updated Fri Mar 28 07:07:36 UTC 2025)
 ```
 app.khealth.com
 http://auth.khealth.com/mayo-la-crosse/sign-up
