@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 28 18:11:14 UTC 2025)
+## Domains with Bounties (Last Updated Fri Mar 28 19:06:24 UTC 2025)
 ```
 www.mercadolibre.co.cr
 blueskytours.globalbookingsolutions.com
