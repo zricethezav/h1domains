@@ -9,10 +9,10 @@ lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,False
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
