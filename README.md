@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 29 00:26:07 UTC 2025)
+## Domains with Bounties (Last Updated Sat Mar 29 01:33:58 UTC 2025)
 ```
 https://we.toloka.ai/auth
 secure.plaid.com
