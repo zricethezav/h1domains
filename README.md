@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 30 01:37:24 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar 30 02:35:27 UTC 2025)
 ```
 docs.databricks.com
 account.adobe.com
