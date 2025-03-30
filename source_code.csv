@@ -1,10 +1,10 @@
 handle,source_code,eligible_for_bounty
-lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/lichess-org/lila-ws,False
 lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/Lichess4545,False
 lichess,https://github.com/lichess-org,False
+lichess,https://github.com/lichess-org/lila,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
@@ -218,8 +218,8 @@ cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
-cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/gaia,True
+cosmos,https://github.com/cosmos/iavl,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
