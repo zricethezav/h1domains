@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 31 08:08:52 UTC 2025)
+## Domains with Bounties (Last Updated Mon Mar 31 09:08:00 UTC 2025)
 ```
 *.sellzone.com
 cloud.malwarebytes.com
