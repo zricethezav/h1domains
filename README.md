@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  2 11:09:38 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr  2 12:09:58 UTC 2025)
 ```
 slack-imgs.com
 webapi.clario.co
