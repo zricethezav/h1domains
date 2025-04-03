@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  3 16:11:45 UTC 2025)
+## Domains with Bounties (Last Updated Thu Apr  3 17:07:40 UTC 2025)
 ```
 www.goodrx.com
 *.marcus.co.uk
