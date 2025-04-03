@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  3 09:07:37 UTC 2025)
+## Domains with Bounties (Last Updated Thu Apr  3 10:08:28 UTC 2025)
 ```
 event.clario.co
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/grouptogroup
