@@ -57,8 +57,8 @@ moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
-agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/endojs,False
+agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 snowplow,https://github.com/poplindata,False
@@ -106,8 +106,8 @@ polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
