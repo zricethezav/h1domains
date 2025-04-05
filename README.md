@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  5 03:16:59 UTC 2025)
+## Domains with Bounties (Last Updated Sat Apr  5 04:07:58 UTC 2025)
 ```
 kbill.mackeeper.com
 *.services-prod.nsvcs.net
