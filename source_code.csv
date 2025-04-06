@@ -39,12 +39,12 @@ circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
+dynatrace,https://github.com/Dynatrace,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
@@ -106,8 +106,8 @@ polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
