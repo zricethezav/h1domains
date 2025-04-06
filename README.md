@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  6 17:08:06 UTC 2025)
+## Domains with Bounties (Last Updated Sun Apr  6 18:07:46 UTC 2025)
 ```
 *.magicjackpot.ro
 nearme.com.cn
