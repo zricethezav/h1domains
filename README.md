@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  6 10:06:43 UTC 2025)
+## Domains with Bounties (Last Updated Sun Apr  6 11:06:12 UTC 2025)
 ```
 app.whoop.com
 https://cloud.heytap.com/
