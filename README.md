@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  8 00:26:30 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr  8 01:37:29 UTC 2025)
 ```
 mkapi.mackeeper.com
 assets.airbnb.com
