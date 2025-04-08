@@ -56,11 +56,11 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-agoric,https://github.com/endojs,False
-agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
+agoric,https://github.com/endojs,False
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
+agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
@@ -361,8 +361,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
-gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitaly,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
