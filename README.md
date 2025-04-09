@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  9 05:10:20 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr  9 06:10:11 UTC 2025)
 ```
 ps5.np.playstation.net
 *.tospotify.com
