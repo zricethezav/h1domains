@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  9 22:09:24 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr  9 23:06:49 UTC 2025)
 ```
 public.hyatt.com
 www.mundi.com.br
