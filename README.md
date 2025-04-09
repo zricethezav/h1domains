@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  9 20:10:22 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr  9 21:06:18 UTC 2025)
 ```
 *.cryptopunks.app
 prow.k8s.io
