@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 10 20:10:47 UTC 2025)
+## Domains with Bounties (Last Updated Thu Apr 10 21:06:39 UTC 2025)
 ```
 zopim.com
 *.flowsecurity.app
