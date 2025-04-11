@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 11 05:06:57 UTC 2025)
+## Domains with Bounties (Last Updated Fri Apr 11 06:09:00 UTC 2025)
 ```
 remitly.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
