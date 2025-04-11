@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 11 10:10:09 UTC 2025)
+## Domains with Bounties (Last Updated Fri Apr 11 11:07:26 UTC 2025)
 ```
 bigcommerce-adapter.judge.me
 www.vodafone.om
