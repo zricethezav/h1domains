@@ -36,12 +36,12 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
+chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -107,8 +107,8 @@ polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/bor,True
-polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
+polygon-technology,https://github.com/maticnetwork/heimdall,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
