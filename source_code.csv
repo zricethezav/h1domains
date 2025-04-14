@@ -3,8 +3,8 @@ lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila-ws,False
-lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/Lichess4545,False
+lichess,https://github.com/lichess-org/lila,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
@@ -43,8 +43,8 @@ chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
+dynatrace,https://github.com/Dynatrace,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
@@ -59,8 +59,8 @@ us-department-of-state,https://github.com/USStateDept,False
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/endojs,False
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
@@ -229,9 +229,9 @@ cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/gaia,True
 valve,https://github.com/valvesoftware,False
+rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
-rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
