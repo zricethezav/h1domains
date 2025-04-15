@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 15 10:10:33 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 15 11:07:22 UTC 2025)
 ```
 *.amazon.ae
 taxis.booking.com
