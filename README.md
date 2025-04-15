@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 15 19:09:26 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 15 20:06:59 UTC 2025)
 ```
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bysrc
 www.leather.io
