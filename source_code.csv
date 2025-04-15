@@ -3,8 +3,8 @@ lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila-ws,False
-lichess,https://github.com/Lichess4545,False
 lichess,https://github.com/lichess-org/lila,False
+lichess,https://github.com/Lichess4545,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
@@ -49,10 +49,3 @@ leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/AleoHQ/snarkVM/,True
 aleo,https://github.com/AleoHQ/snarkOS/,True
-zabbix,https://www.zabbix.com/download_sources,True
-tron_dao,https://github.com/tronprotocol/java-tron,True
-kiwicom,https://github.com/kiwicom/*,True
-8x8-bounty,https://github.com/jitsi,True
-moonpay,https://github.com/moonpay,True
-doppler,https://github.com/DopplerHQ/cli,True
-us-department-of-state,https://github.com/USStateDept,False
