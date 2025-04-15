@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 15 22:09:53 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 15 23:06:32 UTC 2025)
 ```
 www.valvesoftware.com
 logs.dashlane.com
