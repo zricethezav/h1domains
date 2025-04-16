@@ -3,8 +3,8 @@ lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila-ws,False
-lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/Lichess4545,False
+lichess,https://github.com/lichess-org/lila,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
@@ -56,11 +56,11 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
-agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 agoric,https://github.com/endojs/endo/tree/master/packages/ses,True
 agoric,https://github.com/endojs,False
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe,True
 agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol,True
+agoric,https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP,True
 snowplow,https://github.com/poplindata,False
 snowplow,https://github.com/snowplow-referer-parser,False
 snowplow,https://github.com/snowplow-devops,False
