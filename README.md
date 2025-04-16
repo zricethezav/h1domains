@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 16 21:09:45 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr 16 22:06:58 UTC 2025)
 ```
 www.loanbuilder.com
 one.dash.cloudflare.com
