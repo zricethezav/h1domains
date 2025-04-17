@@ -9,10 +9,10 @@ lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,False
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -38,10 +38,10 @@ circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
@@ -106,9 +106,9 @@ polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/heimdall,True
-polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
+polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/maticnetwork/heimdall,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
