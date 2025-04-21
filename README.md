@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 21 08:11:54 UTC 2025)
+## Domains with Bounties (Last Updated Mon Apr 21 09:07:38 UTC 2025)
 ```
 service.racing.fanduel.com
 sso.8x8.com
