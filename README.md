@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 21 19:09:20 UTC 2025)
+## Domains with Bounties (Last Updated Mon Apr 21 20:07:35 UTC 2025)
 ```
 www.watsons.vn
 www.mrjet.se
