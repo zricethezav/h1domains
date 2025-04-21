@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 21 01:38:15 UTC 2025)
+## Domains with Bounties (Last Updated Mon Apr 21 02:35:53 UTC 2025)
 ```
 *.nflxso.net
 https://mindrift.ai/
