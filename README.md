@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 21 16:10:49 UTC 2025)
+## Domains with Bounties (Last Updated Mon Apr 21 17:06:20 UTC 2025)
 ```
 steamcommunity.com
 www.visa.com.hk
