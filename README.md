@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 22 03:24:09 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 22 04:07:59 UTC 2025)
 ```
 fortnite.com
 api.rezserver.com
