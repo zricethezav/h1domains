@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 22 14:10:06 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 22 15:06:58 UTC 2025)
 ```
 *.api.playstation.com
 experts-portal.toloka.ai
