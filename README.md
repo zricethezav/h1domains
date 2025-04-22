@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 22 05:07:30 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 22 06:08:56 UTC 2025)
 ```
 hiltonlocalbiz.com
 *.trainpal.com
