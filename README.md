@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 23 14:06:51 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr 23 15:07:20 UTC 2025)
 ```
 auth.23andme.com
 media.remitly.io
