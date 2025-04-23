@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 23 00:24:19 UTC 2025)
+## Domains with Bounties (Last Updated Wed Apr 23 01:34:50 UTC 2025)
 ```
 hg.mozilla.org
 http://collaboration.rei.com
