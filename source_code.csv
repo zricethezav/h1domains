@@ -3,10 +3,10 @@ silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 silabs,https://github.com/renode/renode-infrastructure,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
-silabs,https://github.com/SiliconLabsSoftware/tflite-micro,True
-silabs,https://github.com/SiliconLabsSoftware/renode,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/renode,True
+silabs,https://github.com/SiliconLabsSoftware/tflite-micro,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila,False
@@ -241,9 +241,9 @@ rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
-rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
+rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 hyperledger,https://github.com/hyperledger/fabric-ca,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
@@ -325,7 +325,6 @@ nextcloud,https://github.com/nextcloud/preferred_providers,False
 nextcloud,https://github.com/daita/files_fulltextsearch_tesseract,True
 nextcloud,https://github.com/nextcloud/updater,True
 nextcloud,https://github.com/nextcloud/notes,True
-nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/globalsiteselector,True
 nextcloud,https://github.com/nextcloud/onlyoffice,True
 nextcloud,https://github.com/nextcloud/serverinfo,True
@@ -346,6 +345,7 @@ nextcloud,https://github.com/nextcloud/recommendations,True
 nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/circles,True
+nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/fulltextsearch,True
 nextcloud,https://github.com/nextcloud/groupfolders,True
 nextcloud,https://github.com/nextcloud/user_oidc,True
