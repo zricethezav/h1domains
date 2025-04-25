@@ -3,10 +3,10 @@ silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 silabs,https://github.com/renode/renode-infrastructure,True
 silabs,https://github.com/SiliconLabsSoftware/renode,True
 silabs,https://github.com/SiliconLabsSoftware/tflite-micro,True
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila,False
