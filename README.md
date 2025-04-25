@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 25 02:38:12 UTC 2025)
+## Domains with Bounties (Last Updated Fri Apr 25 03:22:00 UTC 2025)
 ```
 www.yotisign.com
 www.prisma.fi
