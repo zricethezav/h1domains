@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 26 02:33:12 UTC 2025)
+## Domains with Bounties (Last Updated Sat Apr 26 03:18:43 UTC 2025)
 ```
 app.circle.com
 www.visainfinite.ca
