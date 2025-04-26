@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 26 10:09:36 UTC 2025)
+## Domains with Bounties (Last Updated Sat Apr 26 11:05:56 UTC 2025)
 ```
 codahosted.io
 www.dolap.com
