@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 27 13:13:28 UTC 2025)
+## Domains with Bounties (Last Updated Sun Apr 27 14:06:12 UTC 2025)
 ```
 core.yoti.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
