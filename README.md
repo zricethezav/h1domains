@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 27 15:09:11 UTC 2025)
+## Domains with Bounties (Last Updated Sun Apr 27 16:06:49 UTC 2025)
 ```
 *.onegraph.com
 ecosystem-api.polygon.technology
