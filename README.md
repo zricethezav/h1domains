@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 29 22:07:01 UTC 2025)
+## Domains with Bounties (Last Updated Tue Apr 29 23:06:58 UTC 2025)
 ```
 www.teamfortress.com
 open.airbnb.com
