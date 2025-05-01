@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  1 04:10:45 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  1 05:07:55 UTC 2025)
 ```
 secure.booking.com
 *.napoleongames.be
