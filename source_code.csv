@@ -1,12 +1,12 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
-silabs,https://github.com/SiliconLabsSoftware/renode,True
-silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
-silabs,https://github.com/SiliconLabsSoftware/tflite-micro,True
 silabs,https://github.com/renode/renode-infrastructure,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/renode,True
+silabs,https://github.com/SiliconLabsSoftware/tflite-micro,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
@@ -43,9 +43,9 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
+circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
-circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
@@ -90,16 +90,16 @@ ibb,https://git.libssh.org/,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/spiffe/spiffe,True
 ibb,https://github.com/rust-lang/rust,True
-ibb,https://github.com/Nginx,True
-ibb,https://github.com/Electron,True
-ibb,https://github.com/curl/curl,True
-ibb,https://github.com/apache/httpd,True
-ibb,https://github.com/rack/rack,True
 ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/rubygems/rubygems,True
+ibb,https://github.com/curl/curl,True
+ibb,https://github.com/apache/httpd,True
+ibb,https://github.com/Electron,True
 ibb,https://github.com/django,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
+ibb,https://github.com/rack/rack,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/Nginx,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/apache/airflow,True
@@ -115,8 +115,8 @@ polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-genera
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
+polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 kubernetes,https://github.com/kubernetes/csi-api,True
@@ -245,11 +245,11 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
-rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
+rootstocklabs,https://github.com/rsksmart/tokenbridge,True
+rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
-rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
 hyperledger,https://github.com/hyperledger/fabric-ca,True
@@ -373,10 +373,10 @@ mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
