@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  4 05:10:06 UTC 2025)
+## Domains with Bounties (Last Updated Sun May  4 06:07:58 UTC 2025)
 ```
 grok.com
 *.muscache.com
