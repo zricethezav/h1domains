@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  4 00:30:20 UTC 2025)
+## Domains with Bounties (Last Updated Sun May  4 01:35:33 UTC 2025)
 ```
 https://www.opposhop.cn/m/
 fw-update.ubnt.com
