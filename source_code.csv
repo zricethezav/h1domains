@@ -9,19 +9,19 @@ silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/renode/renode-infrastructure,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
+lichess,https://lichess.org/source,False
 lichess,https://github.com/Lichess4545,False
 lichess,https://github.com/lichess-org/lila-ws,False
-lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lila,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,False
-lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,False
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,False
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,False
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,False
+lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
@@ -46,11 +46,11 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
@@ -115,8 +115,8 @@ polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-genera
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
