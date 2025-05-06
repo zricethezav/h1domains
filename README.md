@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  6 20:11:09 UTC 2025)
+## Domains with Bounties (Last Updated Tue May  6 21:06:41 UTC 2025)
 ```
 mgmtpod-1-dashboard.production.forescoutcloud.net
 https://portal.3cx.com
