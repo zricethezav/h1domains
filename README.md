@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 04:11:27 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 05:07:26 UTC 2025)
 ```
 *.mercadoshops.cl
 accounts.logi.com
