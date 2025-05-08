@@ -2,8 +2,8 @@ handle,source_code,eligible_for_bounty
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
-silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
+silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
