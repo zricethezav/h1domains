@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 19:10:22 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 20:07:50 UTC 2025)
 ```
 matomo.cloud
 app.launchdarkly.com
