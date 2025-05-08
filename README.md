@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 07:11:15 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 08:10:30 UTC 2025)
 ```
 secure.chaturbate.com
 *.ovo.id
