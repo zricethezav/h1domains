@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 10:10:22 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 11:06:23 UTC 2025)
 ```
 prometheus.fr.cloud.gov
 www-qa.wnba.com
