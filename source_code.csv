@@ -1,10 +1,10 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
@@ -114,8 +114,8 @@ polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
-polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
+polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
@@ -241,7 +241,6 @@ valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
-rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
@@ -250,6 +249,7 @@ rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
+rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
