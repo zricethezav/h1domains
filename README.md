@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 14:06:52 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 15:07:29 UTC 2025)
 ```
 www.swiftcapital.com
 www.ritzcarlton.com
