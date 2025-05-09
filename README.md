@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 02:36:00 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 03:24:07 UTC 2025)
 ```
 api.zmsp.earlywarning.com
 metrics.int.remitly.com
