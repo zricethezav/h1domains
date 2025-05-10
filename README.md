@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 18:07:50 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 19:05:55 UTC 2025)
 ```
 https://ifind.heytapmobi.com
 rei.com
