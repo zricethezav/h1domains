@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 19:06:30 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 20:07:45 UTC 2025)
 ```
 volans.tech
 *.slotomania.com
