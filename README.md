@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 06:12:57 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 07:07:45 UTC 2025)
 ```
 www.prisma.fi
 reservations.all-inclusive.marriott.com
