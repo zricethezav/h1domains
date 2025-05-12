@@ -1,9 +1,9 @@
 handle,source_code,eligible_for_bounty
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
-silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
@@ -201,8 +201,8 @@ pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
 defectdojo,https://github.com/DefectDojo/django-DefectDojo,False
-chainlink,https://github.com/smartcontractkit/chainlink,True
 chainlink,https://github.com/smartcontractkit/external-adapters-js/,True
+chainlink,https://github.com/smartcontractkit/chainlink,True
 phpbb,https://github.com/phpbb/phpbb,False
 pyca,https://github.com/pyca/pynacl,False
 pyca,https://github.com/pyca/bcrypt,False
@@ -237,7 +237,6 @@ rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
-rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
@@ -245,6 +244,7 @@ rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
+rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
