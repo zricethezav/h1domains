@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 00:25:30 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 01:34:52 UTC 2025)
 ```
 volans.tech
 phone-validation.taxi.booking.com
