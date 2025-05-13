@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 20:10:34 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 21:06:39 UTC 2025)
 ```
 www.visa.co.uk
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
