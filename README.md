@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 09:10:38 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 10:08:28 UTC 2025)
 ```
 *.myinsights.io
 one.dash.cloudflare.com
