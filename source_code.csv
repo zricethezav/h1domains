@@ -11,8 +11,8 @@ lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
-lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
+lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
