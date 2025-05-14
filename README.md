@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 20:10:14 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 21:07:21 UTC 2025)
 ```
 biolibre.ar
 *.fortnite.com
