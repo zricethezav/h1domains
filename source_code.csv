@@ -8,10 +8,10 @@ silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d041277
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
@@ -232,8 +232,8 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
-rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
+rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
@@ -266,11 +266,11 @@ hyperledger,https://github.com/hyperledger/besu-native,True
 hyperledger,https://github.com/hyperledger/besu-verkle-trie,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
 plaid,https://github.com/plaid/plaid-ruby,True
-plaid,https://github.com/plaid/plaid-link-ios,True
 plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
 plaid,https://github.com/plaid/plaid-link-examples,True
+plaid,https://github.com/plaid/plaid-link-ios,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/passwordless,False
 bitwarden,https://github.com/bitwarden,False
