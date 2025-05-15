@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 23:06:01 UTC 2025)
+## Domains with Bounties (Last Updated Thu May 15 00:23:58 UTC 2025)
 ```
 *.redecor.com
 https://api.bykea.net
