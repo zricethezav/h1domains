@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 15 14:10:27 UTC 2025)
+## Domains with Bounties (Last Updated Thu May 15 15:08:34 UTC 2025)
 ```
 https://link.uma.me
 bridekidnapping.alternativa.film
