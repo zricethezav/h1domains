@@ -8,11 +8,11 @@ silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
@@ -49,8 +49,8 @@ dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
 leather_wallet,https://github.com/leather-wallet/extension,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
-aleo,https://github.com/ProvableHQ/snarkOS,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
+aleo,https://github.com/ProvableHQ/snarkOS,True
 zabbix,https://www.zabbix.com/download_sources,True
 tron_dao,https://github.com/tronprotocol/java-tron,True
 kiwicom,https://github.com/kiwicom/*,True
@@ -189,8 +189,8 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
+filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
