@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 16 07:07:17 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 16 08:09:14 UTC 2025)
 ```
 www.visa.co.uk
 connect-sandbox.gocardless.com
