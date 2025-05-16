@@ -1,6 +1,6 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
+silabs,https://github.com/SiliconLabsSoftware/aiml-extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
@@ -12,8 +12,8 @@ lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
+lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
@@ -195,8 +195,8 @@ pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
 defectdojo,https://github.com/DefectDojo/django-DefectDojo,False
-chainlink,https://github.com/smartcontractkit/chainlink,True
 chainlink,https://github.com/smartcontractkit/external-adapters-js/,True
+chainlink,https://github.com/smartcontractkit/chainlink,True
 phpbb,https://github.com/phpbb/phpbb,False
 pyca,https://github.com/pyca/pynacl,False
 pyca,https://github.com/pyca/bcrypt,False
@@ -370,8 +370,8 @@ revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,True
-adobe,https://github.com/contentauth/c2pa-js,True
 adobe,https://github.com/contentauth/c2pa-rs,True
+adobe,https://github.com/contentauth/c2pa-js,True
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
 irccloud,https://github.com/irccloud/android,True
