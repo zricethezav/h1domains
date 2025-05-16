@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 16 10:10:30 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 16 11:06:44 UTC 2025)
 ```
 *.skybettingandgaming.com
 api.rezserver.com
