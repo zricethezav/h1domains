@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 16 19:09:25 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 16 20:07:16 UTC 2025)
 ```
 developer.playcanvas.com
 *.nflximg.net
