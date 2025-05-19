@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 19 12:10:47 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 19 13:16:11 UTC 2025)
 ```
 http://collaboration.rei.com
 api.smtp2go.com
