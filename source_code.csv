@@ -231,8 +231,8 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
-rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
+rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
@@ -359,10 +359,10 @@ mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
-gitlab,https://gitlab.com/gitlab-org/gitaly,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitaly,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
