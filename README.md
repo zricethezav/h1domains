@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 19 22:10:02 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 19 23:06:57 UTC 2025)
 ```
 *.caesarsgames.com
 hypermint.com
