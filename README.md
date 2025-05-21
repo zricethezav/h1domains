@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 21 17:06:37 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 21 18:08:48 UTC 2025)
 ```
 www.superdrug.com
 kolesa.kz
