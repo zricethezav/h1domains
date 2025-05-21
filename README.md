@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 21 07:10:19 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 21 08:08:59 UTC 2025)
 ```
 unifi.ui.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
