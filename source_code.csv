@@ -16,8 +16,8 @@ lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
@@ -96,8 +96,8 @@ ibb,https://github.com/curl/curl,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/django,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/airflow,True
+ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
@@ -194,8 +194,8 @@ oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk/,True
 filezilla,https://svn.filezilla-project.org/svn/libfilezilla/trunk,True
-filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 filezilla,https://filezilla-project.org/download.php?type=server&show_all=1,True
+filezilla,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
@@ -224,6 +224,13 @@ arkadiyt-projects,https://github.com/arkadiyt/ddexport,False
 arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
 arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
+cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
+cosmos,https://github.com/iqlusioninc/tmkms,True
+cosmos,https://github.com/cosmos/ics23,True
+cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
+cosmos,https://github.com/cosmos/ledger-cosmos,True
+cosmos,https://github.com/cosmos/gaia,True
+cosmos,https://github.com/cosmos/iavl,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
