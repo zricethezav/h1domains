@@ -1,8 +1,8 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
-silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
+silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 lichess,https://github.com/lichess-org/lichobile,False
@@ -45,10 +45,10 @@ circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
+chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
-chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -376,8 +376,8 @@ revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,True
-adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/contentauth/c2pa-js,True
+adobe,https://github.com/contentauth/c2pa-rs,True
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
 irccloud,https://github.com/irccloud/android,True
