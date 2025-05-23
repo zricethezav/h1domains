@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 23 18:08:08 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 23 19:06:10 UTC 2025)
 ```
 localizestaging.com
 www.expediagroup.com
