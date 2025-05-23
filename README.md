@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 22 23:09:39 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 23 00:26:48 UTC 2025)
 ```
 account.adobe.com
 https://link.uma.me
