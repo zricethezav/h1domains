@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 23 06:09:37 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 23 07:09:11 UTC 2025)
 ```
 api.wisdomtreeprimeapp.com
 krisha.kz
