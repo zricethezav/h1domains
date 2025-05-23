@@ -44,11 +44,11 @@ pagerduty,https://github.com/rundeck/rundeck-cli,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
+chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
-chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace-innovationlab,True
@@ -97,8 +97,8 @@ ibb,https://github.com/curl/curl,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/django,True
 ibb,https://github.com/apache/tomcat,True
-ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/apache/airflow,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
