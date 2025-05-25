@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 25 06:09:04 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 25 07:06:53 UTC 2025)
 ```
 tequila.kiwi.com
 www.stayz.com.au
