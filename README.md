@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 26 00:28:50 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 26 01:36:04 UTC 2025)
 ```
 shoppers.instacart.com
 catalog.data.gov
