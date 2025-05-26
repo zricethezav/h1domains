@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 26 16:07:30 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 26 17:06:33 UTC 2025)
 ```
 vacations.universalstudioshollywood.com
 irclogs.wordpress.org
