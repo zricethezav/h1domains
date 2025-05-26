@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 26 04:14:16 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 26 05:07:57 UTC 2025)
 ```
 *.sprint.dynatracelabs.com
 phabricator.allizom.org
