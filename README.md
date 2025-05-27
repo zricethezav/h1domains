@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 27 04:11:20 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 27 05:09:39 UTC 2025)
 ```
 http://recruit.linepluscorp.com
 gnip.com
