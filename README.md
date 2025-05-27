@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 26 23:09:35 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 27 00:24:41 UTC 2025)
 ```
 innersloth.kidswebservices.com
 fareharborsites.com
