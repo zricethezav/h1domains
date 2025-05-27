@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 27 18:08:25 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 27 19:07:57 UTC 2025)
 ```
 *.grindr.mobi
 *.caesarsgames.com
