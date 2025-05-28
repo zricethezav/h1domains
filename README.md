@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 28 14:09:03 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 28 15:06:51 UTC 2025)
 ```
 slackb.com
 one.airbnb.com
