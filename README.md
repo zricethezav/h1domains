@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 28 00:28:12 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 28 01:34:58 UTC 2025)
 ```
 *.buddypress.org
 media.marionnaud.it
