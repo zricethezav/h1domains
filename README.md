@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 29 12:10:33 UTC 2025)
+## Domains with Bounties (Last Updated Thu May 29 13:14:55 UTC 2025)
 ```
 aws.indrive.tech
 bq.visa.com
