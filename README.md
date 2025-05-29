@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 29 03:26:20 UTC 2025)
+## Domains with Bounties (Last Updated Thu May 29 04:10:01 UTC 2025)
 ```
 harmonixmusic.com
 https://secure-iphone-xml.booking.com/json/
