@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 29 20:07:59 UTC 2025)
+## Domains with Bounties (Last Updated Thu May 29 21:06:59 UTC 2025)
 ```
 healthaid.lemonaidhealth.com
 *.rentalcars.com
