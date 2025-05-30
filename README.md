@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 30 20:10:21 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 30 21:06:15 UTC 2025)
 ```
 *.goldmanpfm.com
 priceline.com
