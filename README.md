@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 29 23:09:42 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 30 00:27:23 UTC 2025)
 ```
 *.twitter.com
 *.nflximg.net
