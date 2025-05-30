@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 30 13:18:06 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 30 14:06:59 UTC 2025)
 ```
 api.mercadolibre.com
 https://dcfgatewaytst1.marriott.com/
