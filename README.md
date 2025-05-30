@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 30 22:09:40 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 30 23:07:00 UTC 2025)
 ```
 rezagent.triseptsolutions.com
 coinbase.com
