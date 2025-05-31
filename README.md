@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 31 13:11:58 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 31 14:06:27 UTC 2025)
 ```
 *.napoleongames.be
 careers.remitly.com
