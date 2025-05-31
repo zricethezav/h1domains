@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 31 09:06:39 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 31 10:06:32 UTC 2025)
 ```
 widget.rentalcars.com
 *-asia-south1.truecaller.com
