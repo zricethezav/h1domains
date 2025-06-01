@@ -3,8 +3,8 @@ silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
@@ -92,10 +92,10 @@ ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/ruby,True
 ibb,https://github.com/rack/rack,True
-ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/django,True
 ibb,https://github.com/Nginx,True
+ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/libuv/libuv,True
@@ -110,8 +110,8 @@ polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/dns,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -271,3 +271,12 @@ hyperledger,https://github.com/hyperledger/besu-errorprone-checks,True
 hyperledger,https://github.com/hyperledger/besu-native,True
 hyperledger,https://github.com/hyperledger/besu-verkle-trie,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
+plaid,https://github.com/plaid/plaid-ruby,True
+plaid,https://github.com/plaid/plaid-link-android,True
+plaid,https://github.com/plaid/react-plaid-link,True
+plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
+plaid,https://github.com/plaid/plaid-link-examples,True
+plaid,https://github.com/plaid/plaid-link-ios,True
+passhash,https://github.com/dhui/passhash,False
+bitwarden,https://github.com/passwordless,False
+bitwarden,https://github.com/bitwarden,False
