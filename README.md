@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  2 06:12:36 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun  2 07:07:54 UTC 2025)
 ```
 payments.geneva-staging.com
 api.steampowered.com
