@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  3 07:07:59 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jun  3 08:09:21 UTC 2025)
 ```
 https://we.toloka.ai/auth
 https://superbet.pl
