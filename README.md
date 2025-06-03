@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  3 20:10:26 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jun  3 21:06:51 UTC 2025)
 ```
 *.hmxwebservices.com
 aquiris.com.br
