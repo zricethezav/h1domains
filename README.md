@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  3 13:19:24 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jun  3 14:08:30 UTC 2025)
 ```
 public.hyatt.com
 *.services.netlify.com
