@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  4 13:16:48 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun  4 14:06:44 UTC 2025)
 ```
 nft.io
 buckingfuggy.com
