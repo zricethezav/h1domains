@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  4 15:21:50 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun  4 16:07:51 UTC 2025)
 ```
 www.stayz.com.au
 prequal.swiftfinancial.com
