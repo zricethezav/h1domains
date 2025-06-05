@@ -2,9 +2,9 @@ handle,source_code,eligible_for_bounty
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
-silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
+silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
@@ -39,8 +39,8 @@ aws_vdp,https://github.com/kubernetes-sigs/aws-iam-authenticator,False
 aws_vdp,https://github.com/kubernetes-sigs/cluster-api-provider-aws,False
 supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
-pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
+pagerduty,https://github.com/rundeck/rundeck-cli,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
@@ -235,16 +235,16 @@ cosmos,https://github.com/cosmos/gaia,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
+rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
+rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
-rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
-rootstocklabs,https://github.com/rsksmart/tokenbridge,True
-rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
+rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
