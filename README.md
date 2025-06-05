@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  5 10:10:20 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun  5 11:06:44 UTC 2025)
 ```
 developer.zendesk.com
 http://federatedid-na1.services.adobe.com
