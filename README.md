@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  5 12:10:57 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun  5 13:15:44 UTC 2025)
 ```
 www.mercadolibre.co.cr
 https://console.neon.tech/api/v2/
