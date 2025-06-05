@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  5 07:10:41 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun  5 08:09:11 UTC 2025)
 ```
 hotel-deals.marriott.com
 http://federatedid-na1.services.adobe.com
