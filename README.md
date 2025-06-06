@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  6 22:09:10 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jun  6 23:06:44 UTC 2025)
 ```
 www.bitmex.com
 *.semrush.com
