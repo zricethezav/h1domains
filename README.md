@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  8 11:05:51 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun  8 12:09:33 UTC 2025)
 ```
 crash-stats.allizom.org
 id.nba.com
