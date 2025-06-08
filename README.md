@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  8 18:09:03 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun  8 19:05:51 UTC 2025)
 ```
 https://nominatim.bykea.net
 clientcert.gamma.redoxstage.com
