@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  9 02:40:47 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun  9 03:31:56 UTC 2025)
 ```
 api.circle.com
 prd-ring-web-us.prd.rings.solutions
