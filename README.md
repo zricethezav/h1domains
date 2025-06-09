@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  9 15:08:00 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun  9 16:08:32 UTC 2025)
 ```
 *.uberinternal.com
 volans.tech
