@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 10 04:15:29 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jun 10 05:08:05 UTC 2025)
 ```
 pay.8x8.com
 http://heytap.com
