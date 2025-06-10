@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 10 07:07:33 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jun 10 08:09:18 UTC 2025)
 ```
 https://spgw-pay.finzfin.com
 www.mercadolibre.com.ni
