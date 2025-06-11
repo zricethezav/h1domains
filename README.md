@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 11 09:11:01 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 11 10:07:43 UTC 2025)
 ```
 www.etoro.com
 bioid-management.app
