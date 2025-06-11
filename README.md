@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 11 02:40:07 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 11 03:28:58 UTC 2025)
 ```
 forum.portswigger.net
 *.amazon.de
