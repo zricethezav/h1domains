@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 11 21:06:43 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 11 22:06:53 UTC 2025)
 ```
 therapeutics.23andme.com
 auth.privy.io
