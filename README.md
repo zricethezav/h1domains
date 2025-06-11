@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 11 07:10:16 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 11 08:08:54 UTC 2025)
 ```
 gatewaydsaptst1.marriott.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
