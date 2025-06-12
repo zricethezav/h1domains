@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 12 19:06:14 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 12 20:09:30 UTC 2025)
 ```
 customerevents.netflix.com
 www.mercadolibre.com.ec
