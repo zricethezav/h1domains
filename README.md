@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 12 16:07:49 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 12 17:06:54 UTC 2025)
 ```
 playcanv.as
  github.com/WordPress
