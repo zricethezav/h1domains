@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 13 02:38:48 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jun 13 03:28:45 UTC 2025)
 ```
 www.visa.com.my
 federalist-docs.18f.gov
