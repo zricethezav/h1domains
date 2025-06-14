@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 14 22:09:08 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 14 23:07:03 UTC 2025)
 ```
 *.napoleoncasino.be
 app.krisp.ai
