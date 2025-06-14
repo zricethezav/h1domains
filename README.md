@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 14 04:11:56 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 14 05:06:57 UTC 2025)
 ```
 push-dn-hap.cloud.etoro.com
 app.dynamic-preprod.xyz
