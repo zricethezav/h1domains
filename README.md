@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 14 19:08:56 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 14 20:07:26 UTC 2025)
 ```
 www.fitvermogen.nl
 app.moderntreasury.com
