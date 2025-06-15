@@ -1,15 +1,15 @@
 handle,source_code,eligible_for_bounty
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
+silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
-silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
-lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/lichess-org/lila-ws,False
+lichess,https://github.com/lichess-org/lila,False
 lichess,https://lichess.org/source,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
@@ -90,13 +90,13 @@ ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/ruby,True
 ibb,https://github.com/rack/rack,True
-ibb,https://github.com/Nginx,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/nodejs/node,True
+ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/django,True
 ibb,https://github.com/rails,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/tomcat,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -107,8 +107,8 @@ polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
 polygon-technology,https://github.com/maticnetwork/bor,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
 kubernetes,https://github.com/kubernetes/kube-openapi,True
@@ -221,9 +221,9 @@ arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/gaia,True
-cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
+cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/ics23,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
