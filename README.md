@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 15 06:11:40 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 15 07:06:58 UTC 2025)
 ```
 sso.oft.hyatt.com
 dashboard.mergify.com
