@@ -8,8 +8,8 @@ silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
-lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/lichess-org/lila-ws,False
+lichess,https://github.com/lichess-org/lila,False
 lichess,https://lichess.org/source,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
@@ -51,8 +51,8 @@ chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
-dynatrace,https://github.com/Dynatrace-innovationlab,True
 dynatrace,https://github.com/Dynatrace,True
+dynatrace,https://github.com/Dynatrace-innovationlab,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
@@ -95,8 +95,8 @@ ibb,https://github.com/Nginx,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/curl/curl,True
-ibb,https://github.com/rails,True
 ibb,https://github.com/django,True
+ibb,https://github.com/rails,True
 ibb,https://github.com/apache/tomcat,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -236,8 +236,8 @@ rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
-rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
+rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
