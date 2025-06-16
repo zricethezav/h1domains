@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 16 09:11:44 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun 16 10:09:10 UTC 2025)
 ```
 www.pixiv.net
 gateway.geneva-staging.com
