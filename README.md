@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 16 02:40:21 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun 16 03:31:54 UTC 2025)
 ```
 https://www.sdx.com/
 www.teamfortress.com
