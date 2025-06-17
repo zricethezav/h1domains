@@ -1,10 +1,10 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
-silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
+silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
-silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/z-wave-protocol-controller,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/Lichess4545,False
@@ -41,9 +41,9 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
-circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
+circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
@@ -53,8 +53,8 @@ chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
-aleo,https://github.com/ProvableHQ/snarkOS,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
+aleo,https://github.com/ProvableHQ/snarkOS,True
 zabbix,https://www.zabbix.com/download_sources,True
 tron_dao,https://github.com/tronprotocol/java-tron,True
 kiwicom,https://github.com/kiwicom/*,True
@@ -358,18 +358,18 @@ mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
-gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
 shopify,https://github.com/Shopify/*,True
 snapchat,https://lensstudio.snapchat.com/api/,True
-adobe,https://github.com/contentauth/c2pa-rs,True
 adobe,https://github.com/contentauth/c2pa-js,True
+adobe,https://github.com/contentauth/c2pa-rs,True
 cloudflare,https://github.com/cloudflare/workerd,True
 irccloud,https://github.com/irccloud/ios,True
 irccloud,https://github.com/irccloud/android,True
