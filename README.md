@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 18 05:10:42 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 18 06:09:39 UTC 2025)
 ```
 cloud.elastic.co
 *.skycasino.com
