@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 18 22:09:49 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 18 23:06:53 UTC 2025)
 ```
 admin.8x8.com
 www.fedramp.gov
