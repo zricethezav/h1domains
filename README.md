@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 19 19:09:16 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 19 20:07:43 UTC 2025)
 ```
 *.shein.com
 holidays-nz.fijiairways.com
