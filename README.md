@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 19 22:09:40 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 19 23:06:50 UTC 2025)
 ```
 id.kolesa.kz
 cloud.coinbase.com
