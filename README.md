@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 19 16:10:40 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 19 17:06:21 UTC 2025)
 ```
 gamenotes.nba.com
 gatewaydsapdev2.marriott.com
