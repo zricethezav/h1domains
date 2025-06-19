@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 19 13:18:31 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 19 14:06:59 UTC 2025)
 ```
 api.spotify.com
 www.visa.com.lk
