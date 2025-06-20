@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 20 12:13:52 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jun 20 13:16:30 UTC 2025)
 ```
 yourdomain.freshservice.com
 www.watsons.com.ph
