@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 20 18:10:39 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jun 20 19:05:59 UTC 2025)
 ```
 app.uma.money
 http://api.koho.ca/1.0
