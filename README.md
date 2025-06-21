@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 21 02:39:18 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 21 03:27:08 UTC 2025)
 ```
 hg.mozilla.org
 payments.geneva-staging.chat
