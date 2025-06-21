@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 20 23:10:13 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 21 00:26:44 UTC 2025)
 ```
 www.visa.com.tw
 *.mercadoshops.com.ar
