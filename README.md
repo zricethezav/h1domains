@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 21 13:15:30 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 21 14:05:59 UTC 2025)
 ```
 *.unrealtournament.com
 http://vimeo.com/api
