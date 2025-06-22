@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 22 13:12:04 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 22 14:07:21 UTC 2025)
 ```
 middle-force.khealth.io
 http://sb-mobile-api.fireblocks.io
