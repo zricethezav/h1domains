@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 22 01:36:22 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 22 02:43:57 UTC 2025)
 ```
 *.psynet.gg
 *.superbet.ro
