@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 23 08:10:00 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun 23 09:08:57 UTC 2025)
 ```
 manage-teams.nba.com
 www.s-kaupat.fi
