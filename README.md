@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 23 23:09:13 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jun 24 00:24:59 UTC 2025)
 ```
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 media.theperfumeshop.com
