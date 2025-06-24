@@ -53,3 +53,6 @@ chia_network,https://github.com/Chia-Network/chiavdf,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
+aleo,https://github.com/ProvableHQ/snarkOS,True
+aleo,https://github.com/ProvableHQ/snarkVM,True
+zabbix,https://www.zabbix.com/download_sources,True
