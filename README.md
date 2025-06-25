@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 25 15:10:38 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 25 16:08:13 UTC 2025)
 ```
 partners.databricks.com
 https://vault.chiatest.net/
