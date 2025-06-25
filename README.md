@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 25 19:07:32 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 25 20:07:30 UTC 2025)
 ```
 tequila.kiwi.com
 *.moonpay.com
