@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 25 07:10:57 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 25 08:11:40 UTC 2025)
 ```
 passport.larksuite.com
 https://api-test.nicehash.com
