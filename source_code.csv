@@ -12,11 +12,11 @@ lichess,https://github.com/lichess-org/lila,False
 lichess,https://lichess.org/source,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
@@ -40,8 +40,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
-circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
+circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
@@ -104,8 +104,8 @@ polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -220,8 +220,8 @@ cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/cosmos/ics23,True
-cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/iavl,True
+cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/gaia,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
