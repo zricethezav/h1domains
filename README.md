@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 25 19:11:39 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jun 25 20:13:59 UTC 2025)
 ```
 teamdirectory.nba.com
 media.remitly.io
