@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 26 05:07:59 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 26 06:10:17 UTC 2025)
 ```
 blog.remitly.com
 *.mercadoshops.com.mx
