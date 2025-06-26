@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 26 07:10:55 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 26 08:09:32 UTC 2025)
 ```
 cloudflareworkers.com
 developers.reddit.com
