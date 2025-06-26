@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 25 23:14:28 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 26 00:54:27 UTC 2025)
 ```
 kidswebservices.com
 relay.playcanvas.com
