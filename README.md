@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 26 10:07:55 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jun 26 11:07:46 UTC 2025)
 ```
 store.steampowered.com
 app.kruidvat.nl
