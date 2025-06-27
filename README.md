@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 27 22:12:09 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jun 27 23:11:48 UTC 2025)
 ```
 *.travix.io
 *.adminml.com
