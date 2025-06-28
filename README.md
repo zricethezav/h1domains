@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 28 22:07:09 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 28 23:06:57 UTC 2025)
 ```
 kyc-src.etoro.com
 m.krisha.kz
