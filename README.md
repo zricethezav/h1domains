@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 28 00:52:32 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 28 02:30:58 UTC 2025)
 ```
 cw.visa.com
 *.moonpay.com
