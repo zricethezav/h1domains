@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 28 12:19:31 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 28 13:21:56 UTC 2025)
 ```
 http://heytapmobi.com
 gnocchi-www.buffalo-ggn.net
