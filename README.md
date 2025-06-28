@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 28 06:08:52 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 28 07:06:55 UTC 2025)
 ```
 test.nicehash.com
 https://www.oppo.com/th/store
