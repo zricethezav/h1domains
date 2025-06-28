@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 28 10:11:54 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jun 28 11:10:05 UTC 2025)
 ```
 pd-api.polkadoc.com
 portal.taxi.booking.com
