@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 29 22:10:59 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 29 23:11:26 UTC 2025)
 ```
 *.coloros.com
 www.starbucks.com.cn/
