@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 29 06:15:46 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 29 07:10:47 UTC 2025)
 ```
 *.dev.remitly.com
 auth0.gocardless.com
