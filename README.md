@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 29 10:11:45 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 29 11:09:56 UTC 2025)
 ```
 www.compass.com
 mercadoplay.co
