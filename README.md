@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 29 04:17:35 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jun 29 05:09:30 UTC 2025)
 ```
 *.audible.(TLD)
 lando.services.mozilla.com
