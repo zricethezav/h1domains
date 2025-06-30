@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 30 06:21:07 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun 30 07:14:48 UTC 2025)
 ```
 *.nflxso.net
 blox.link
