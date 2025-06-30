@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 30 00:57:28 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jun 30 02:52:14 UTC 2025)
 ```
 http://engine.heytap.com
 *.mercadolibre.com.ar
