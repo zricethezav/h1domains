@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  1 20:16:23 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul  1 21:12:25 UTC 2025)
 ```
 www.visa.com.br
 developer.crypto.com
