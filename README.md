@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  1 02:48:03 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul  1 03:35:59 UTC 2025)
 ```
 delta.app
 superbet.bet.br
