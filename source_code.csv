@@ -12,9 +12,9 @@ lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lila,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
@@ -43,8 +43,8 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
@@ -61,3 +61,8 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
+snowplow,https://github.com/poplindata,False
+snowplow,https://github.com/snowplow-referer-parser,False
+snowplow,https://github.com/snowplow-devops,False
+snowplow,https://github.com/snowplow/,False
+snowplow,https://github.com/snowplow-incubator,False
