@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  1 08:09:57 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul  1 09:08:53 UTC 2025)
 ```
 *.bybit.com
 experts-portal.toloka.ai
