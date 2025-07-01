@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  1 17:12:35 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul  1 18:15:49 UTC 2025)
 ```
 mercadoplay.co
 global-api.citymapper.com
