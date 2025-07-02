@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  2 10:16:36 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jul  2 11:11:39 UTC 2025)
 ```
 internal-api-drive-stream.larksuite.com
 app.marionnaud.sk
