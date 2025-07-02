@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  2 20:12:55 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jul  2 21:12:04 UTC 2025)
 ```
 *.napoleoncasino.be
 *.gocardless.com
