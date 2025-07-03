@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  3 07:13:54 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jul  3 08:15:50 UTC 2025)
 ```
 cdn.moderntreasury.com
 https://leaflet-map.bykea.net
