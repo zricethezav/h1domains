@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul  4 22:10:09 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul  4 23:07:26 UTC 2025)
 ```
 wga.volans.tech
 aggregator.etoro.com
