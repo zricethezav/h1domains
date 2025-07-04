@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul  4 05:15:24 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul  4 06:17:37 UTC 2025)
 ```
 social.geneva-staging.com
 media.remitly.io
