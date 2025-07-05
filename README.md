@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  5 07:06:53 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul  5 08:08:26 UTC 2025)
 ```
 https://www.oppo.com/my/store
 cdn.nba.com
