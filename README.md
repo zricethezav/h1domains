@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  5 10:06:44 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul  5 11:05:51 UTC 2025)
 ```
 www.gr.dyson.com
 https://iphone-xml.booking.com/json/
