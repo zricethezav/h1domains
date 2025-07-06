@@ -43,9 +43,9 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
@@ -54,3 +54,4 @@ dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
+zabbix,https://www.zabbix.com/download_sources,True
