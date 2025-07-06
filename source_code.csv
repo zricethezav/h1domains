@@ -12,13 +12,13 @@ lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/Lichess4545,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
+lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
-lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
@@ -43,9 +43,9 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
@@ -55,3 +55,5 @@ fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
 zabbix,https://www.zabbix.com/download_sources,True
+tron_dao,https://github.com/tronprotocol/java-tron,True
+kiwicom,https://github.com/kiwicom/*,True
