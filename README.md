@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  7 20:07:47 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jul  7 21:06:56 UTC 2025)
 ```
 https://maps.bykea.net
 firefox-ci-tc.services.mozilla.com
