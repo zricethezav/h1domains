@@ -1,7 +1,7 @@
 handle,source_code,eligible_for_bounty
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 lichess,https://github.com/lichess-org/lichobile,False
@@ -38,8 +38,8 @@ aws_vdp,https://github.com/kubernetes-sigs/aws-iam-authenticator,False
 aws_vdp,https://github.com/kubernetes-sigs/cluster-api-provider-aws,False
 supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
-pagerduty,https://github.com/rundeck/rundeck,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
+pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
@@ -89,8 +89,8 @@ ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/curl/curl,True
-ibb,https://github.com/django,True
 ibb,https://github.com/rails,True
+ibb,https://github.com/django,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/Electron,True
@@ -196,8 +196,8 @@ pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
 defectdojo,https://github.com/DefectDojo/django-DefectDojo,False
-chainlink,https://github.com/smartcontractkit/chainlink,True
 chainlink,https://github.com/smartcontractkit/external-adapters-js/,True
+chainlink,https://github.com/smartcontractkit/chainlink,True
 phpbb,https://github.com/phpbb/phpbb,False
 pyca,https://github.com/pyca/pynacl,False
 pyca,https://github.com/pyca/bcrypt,False
@@ -363,8 +363,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
-gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
+gitlab,https://gitlab.com/gitlab-org/gitaly,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
