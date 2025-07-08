@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  8 03:46:57 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul  8 04:24:22 UTC 2025)
 ```
 www.visa.com.cy
 https://nativepay.keke.cn
