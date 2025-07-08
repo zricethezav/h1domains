@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  7 23:10:15 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul  8 00:27:06 UTC 2025)
 ```
 share.doppler.com
 test.payworks.io
