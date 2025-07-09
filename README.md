@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  9 12:14:22 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jul  9 13:17:18 UTC 2025)
 ```
 kronor.io
 hackers_chosendomain.larksuite.com
