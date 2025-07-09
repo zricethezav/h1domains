@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  9 15:12:51 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jul  9 16:12:23 UTC 2025)
 ```
 https://crosskey.io/stores/s-pankki/apis
 www.dyson.dk
