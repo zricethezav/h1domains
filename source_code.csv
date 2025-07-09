@@ -1,7 +1,7 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 lichess,https://github.com/lichess-org/lichobile,False
@@ -52,3 +52,12 @@ chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
+aleo,https://github.com/ProvableHQ/snarkOS,True
+aleo,https://github.com/ProvableHQ/snarkVM,True
+zabbix,https://www.zabbix.com/download_sources,True
+tron_dao,https://github.com/tronprotocol/java-tron,True
+kiwicom,https://github.com/kiwicom/*,True
+8x8-bounty,https://github.com/jitsi,True
+moonpay,https://github.com/moonpay,True
+doppler,https://github.com/DopplerHQ/cli,True
+us-department-of-state,https://github.com/USStateDept,False
