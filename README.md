@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 10 15:16:35 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jul 10 16:14:56 UTC 2025)
 ```
 us.forescout.cloud
 2kleague-qa.nba.com
