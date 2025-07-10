@@ -1,9 +1,9 @@
 handle,source_code,eligible_for_bounty
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila-ws,False
@@ -38,8 +38,8 @@ aws_vdp,https://github.com/kubernetes-sigs/aws-iam-authenticator,False
 aws_vdp,https://github.com/kubernetes-sigs/cluster-api-provider-aws,False
 supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
-pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
+pagerduty,https://github.com/rundeck/rundeck-cli,False
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
@@ -54,3 +54,10 @@ dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
+zabbix,https://www.zabbix.com/download_sources,True
+tron_dao,https://github.com/tronprotocol/java-tron,True
+kiwicom,https://github.com/kiwicom/*,True
+8x8-bounty,https://github.com/jitsi,True
+moonpay,https://github.com/moonpay,True
+doppler,https://github.com/DopplerHQ/cli,True
+us-department-of-state,https://github.com/USStateDept,False
