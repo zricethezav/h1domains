@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 10 04:24:57 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jul 10 05:16:41 UTC 2025)
 ```
 mindrift.toloka.ai
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
