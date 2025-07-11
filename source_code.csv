@@ -1,9 +1,9 @@
 handle,source_code,eligible_for_bounty
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila-ws,False
@@ -17,9 +17,9 @@ lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -40,8 +40,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
-circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
+circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
@@ -228,17 +228,17 @@ cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 valve,https://github.com/valvesoftware,False
-rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
-rootstocklabs,https://github.com/rsksmart/2wp-api,True
-rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
+rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
+rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
+rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
-rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
+rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-node,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-java,True
