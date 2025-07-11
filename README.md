@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 11 20:13:40 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul 11 21:12:00 UTC 2025)
 ```
 dic.pixiv.net
 https://open.oppomobile.com
