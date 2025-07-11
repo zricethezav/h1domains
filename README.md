@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 11 14:16:28 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul 11 15:12:44 UTC 2025)
 ```
 https://maps.bykea.net
 *.capitalone.com
