@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 11 14:11:07 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul 11 15:10:21 UTC 2025)
 ```
 remitly.com
 *.moonpaycloud.com
