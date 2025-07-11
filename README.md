@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 11 10:10:35 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul 11 11:06:42 UTC 2025)
 ```
 *.venmo.com
 logs-platform.fr.cloud.gov
