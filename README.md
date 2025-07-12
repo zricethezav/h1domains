@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 12 03:50:58 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 12 04:24:01 UTC 2025)
 ```
 test.nicehash.com
 *.mercadoshops.com.do
