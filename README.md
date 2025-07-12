@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 12 08:17:15 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 12 09:11:42 UTC 2025)
 ```
 api.dashlane.com
 holidays-hk.fijiairways.com
