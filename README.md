@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 12 17:06:13 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 12 18:08:37 UTC 2025)
 ```
 redditforbusiness.com
 *.superbet.rs
