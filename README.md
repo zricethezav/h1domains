@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 12 14:07:41 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 12 15:07:02 UTC 2025)
 ```
 *.vayama.com
 cargo.indrive.com
