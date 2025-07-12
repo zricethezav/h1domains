@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 12 10:09:50 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 12 11:06:30 UTC 2025)
 ```
 www.wynnvacations.com
 developer.playcanvas.com
