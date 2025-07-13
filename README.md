@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 13 05:11:55 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 13 06:08:56 UTC 2025)
 ```
 api-eu.floqast.app
 *.kruidvat.be
