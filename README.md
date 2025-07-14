@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 14 22:12:17 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jul 14 23:14:56 UTC 2025)
 ```
 *.vhx.tv
 http://www.kiwi.com/stories
