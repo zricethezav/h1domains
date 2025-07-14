@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 14 03:36:02 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jul 14 04:22:58 UTC 2025)
 ```
 https://portal.3cx.com
 *.travix.io
