@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 14 17:10:58 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jul 14 18:10:24 UTC 2025)
 ```
 upsell.hyatt.com
 x.com
