@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 15 11:11:46 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul 15 12:22:42 UTC 2025)
 ```
 chat.booking.com
 api.mergify.com
