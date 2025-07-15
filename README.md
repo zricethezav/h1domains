@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 15 13:21:41 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul 15 14:07:50 UTC 2025)
 ```
 vth.nba.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
