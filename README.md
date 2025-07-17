@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 17 06:10:10 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jul 17 07:10:18 UTC 2025)
 ```
 readonly.fareharbor.com
 http://sb-mobile-api.fireblocks.io
