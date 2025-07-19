@@ -96,6 +96,3 @@ ibb,https://github.com/apache/tomcat,True
 ibb,https://github.com/apache/httpd,True
 ibb,https://github.com/ruby,True
 ibb,https://github.com/nodejs/node,True
-fastify,https://github.com/fastify,False
-openmage,https://github.com/OpenMage/magento-lts,False
-who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
