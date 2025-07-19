@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 19 05:09:24 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 19 06:09:17 UTC 2025)
 ```
 cweb-ott.nba.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
