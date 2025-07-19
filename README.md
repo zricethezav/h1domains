@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 19 17:09:37 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 19 18:08:18 UTC 2025)
 ```
 *.fanbox.cc
 media.iciparisxl.be
