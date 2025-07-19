@@ -99,8 +99,8 @@ ibb,https://github.com/nodejs/node,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/libBLS,True
+skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
 skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
@@ -286,8 +286,8 @@ brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave-intl/bat-ledger,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
