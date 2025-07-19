@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 19 07:08:19 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 19 08:08:54 UTC 2025)
 ```
 developer.amazon.com/apps-and-games/*
 tunnistus.s-ryhma.fi
