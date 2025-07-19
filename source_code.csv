@@ -55,3 +55,14 @@ fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
 zabbix,https://www.zabbix.com/download_sources,True
+tron_dao,https://github.com/tronprotocol/java-tron,True
+kiwicom,https://github.com/kiwicom/*,True
+8x8-bounty,https://github.com/jitsi,True
+moonpay,https://github.com/moonpay,True
+doppler,https://github.com/DopplerHQ/cli,True
+us-department-of-state,https://github.com/USStateDept,False
+snowplow,https://github.com/poplindata,False
+snowplow,https://github.com/snowplow-referer-parser,False
+snowplow,https://github.com/snowplow-devops,False
+snowplow,https://github.com/snowplow/,False
+snowplow,https://github.com/snowplow-incubator,False
