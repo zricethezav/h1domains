@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 19 23:10:25 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 20 00:30:34 UTC 2025)
 ```
 stats.gleague.nba.com
 www.teamfortress.com
