@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 20 07:06:57 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 20 08:08:53 UTC 2025)
 ```
 *.reddithelp.com
 crash-reports.allizom.org
