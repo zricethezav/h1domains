@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 20 10:09:58 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 20 11:07:02 UTC 2025)
 ```
 file-storage-front.eu-east-1.indriverapp.com
 app.khealth.com
