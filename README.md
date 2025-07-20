@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 20 16:08:12 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 20 17:07:33 UTC 2025)
 ```
 m.kolesa.kz
 https://webrtc.8x8.com/
