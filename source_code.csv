@@ -1,7 +1,7 @@
 handle,source_code,eligible_for_bounty
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 lichess,https://github.com/lichess-org/lichobile,False
@@ -14,12 +14,12 @@ lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -82,11 +82,11 @@ ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rack/rack,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/libuv/libuv,True
-ibb,https://github.com/curl/curl,True
-ibb,https://github.com/rails,True
 ibb,https://github.com/django,True
+ibb,https://github.com/rails,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/Electron,True
@@ -220,12 +220,12 @@ arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
 arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
-cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
+cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
-cosmos,https://github.com/cosmos/ics23,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/cosmos/gaia,True
+cosmos,https://github.com/cosmos/ics23,True
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
@@ -360,10 +360,10 @@ mapbox,https://docs.mapbox.com/android/,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
-gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
