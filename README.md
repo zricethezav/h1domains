@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 21 04:36:46 UTC 2025)
+## Domains with Bounties (Last Updated Mon Jul 21 05:22:04 UTC 2025)
 ```
 www.practicalmoneyskills.org
 amazon.com/hz/mycd/*
