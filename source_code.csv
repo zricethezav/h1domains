@@ -1,7 +1,7 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa ,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 lichess,https://github.com/lichess-org/lichobile,False
@@ -16,10 +16,10 @@ lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
+lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
-lightspark_bbp,https://github.com/buildonspark/spark,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -84,9 +84,9 @@ ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/libuv/libuv,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/django,True
 ibb,https://github.com/rails,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://git.libssh.org/,True
 ibb,https://github.com/Electron,True
@@ -100,9 +100,9 @@ fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 skale_network,https://github.com/skalenetwork/libBLS,True
-skale_network,https://github.com/skalenetwork/skale-consensus,True
 skale_network,https://github.com/skalenetwork/sgxwallet,True
 skale_network,https://github.com/skalenetwork/skale-manager/tree/develop/contracts,True
+skale_network,https://github.com/skalenetwork/skale-consensus,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
