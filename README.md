@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 22 00:56:47 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul 22 02:53:56 UTC 2025)
 ```
 workspace.toloka.ai
 https://iphone-xml.booking.com/json/
