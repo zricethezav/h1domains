@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 22 09:13:38 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul 22 10:07:55 UTC 2025)
 ```
 *.moneyback.com.hk
 developer.mozilla.org
