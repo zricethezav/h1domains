@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 22 07:20:41 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul 22 08:17:53 UTC 2025)
 ```
 gaming.logicool.co.jp
 *.shopifycs.com
