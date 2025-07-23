@@ -6,9 +6,9 @@ silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
-lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lila-ws,False
 lichess,https://github.com/lichess-org/lila,False
+lichess,https://lichess.org/source,False
 lichess,https://github.com/Lichess4545,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
@@ -43,12 +43,12 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
@@ -190,8 +190,8 @@ oasisprotocol,https://github.com/oasisprotocol/deoxysii-rust,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-ext,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
-oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
+oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
@@ -206,9 +206,9 @@ pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
 matomo,https://github.com/innocraft/,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
-matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/matomo-org,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -269,8 +269,8 @@ plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
 plaid,https://github.com/plaid/plaid-link-ios,True
-plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-link-android,True
+plaid,https://github.com/plaid/plaid-link-examples,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
@@ -353,16 +353,16 @@ nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/roundcube/roundcubemail,False
-mapbox,https://docs.mapbox.com/ios/maps/overview/,True
-mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://github.com/mapbox,True
 mapbox,https://docs.mapbox.com/android/,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
+mapbox,https://docs.mapbox.com/ios/maps/overview/,True
+mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
