@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 23 12:22:46 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jul 23 13:33:40 UTC 2025)
 ```
 www.dashlane.com
 sftp.gamma.redoxstage.com
