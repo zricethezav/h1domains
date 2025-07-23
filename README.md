@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 23 01:39:17 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jul 23 02:45:43 UTC 2025)
 ```
 goldmansachsindices.com
 supply-xml.booking.com
