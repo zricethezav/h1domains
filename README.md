@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 24 05:11:36 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jul 24 06:09:47 UTC 2025)
 ```
 www.ebookers.fi
 api-eu.floqast.app
