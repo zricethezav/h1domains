@@ -6,7 +6,6 @@ silabs,https://github.com/SiliconLabsSoftware/aiml-extension,False
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
@@ -14,6 +13,7 @@ lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
+lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -37,12 +37,12 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
@@ -76,9 +76,9 @@ ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rack/rack,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/libuv/libuv,True
-ibb,https://github.com/curl/curl,True
 ibb,https://github.com/rails,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://git.libssh.org/,True
@@ -99,11 +99,11 @@ skale_network,https://github.com/skalenetwork/skale-consensus,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/heimdall,True
-polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/maticnetwork/matic-cli ,True
-polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
+polygon-technology,https://github.com/maticnetwork/bor,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
 kubernetes,https://github.com/kubernetes/kube-openapi,True
@@ -183,8 +183,8 @@ oasisprotocol,https://github.com/oasisprotocol/deoxysii-rust,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-ext,True
 oasisprotocol,https://github.com/oasisprotocol/curve25519-voi,True
 oasisprotocol,https://github.com/oasisprotocol/oasis-wallet-web,True
-oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 oasisprotocol,https://github.com/oasisprotocol/explorer,True
+oasisprotocol,https://github.com/oasisprotocol/oasis-sdk,True
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
@@ -199,9 +199,9 @@ pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
 matomo,https://github.com/innocraft/,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
+matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/matomo-org,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
-matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -225,8 +225,8 @@ rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
-rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
+rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
@@ -262,8 +262,8 @@ plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
 plaid,https://github.com/plaid/plaid-link-ios,True
-plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-link-android,True
+plaid,https://github.com/plaid/plaid-link-examples,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
@@ -277,9 +277,9 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/vault-updater,True
+brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
-brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
