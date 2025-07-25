@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 25 04:20:46 UTC 2025)
+## Domains with Bounties (Last Updated Fri Jul 25 05:12:59 UTC 2025)
 ```
 compass.fareharbor.com
 publicsafety.ring.com
