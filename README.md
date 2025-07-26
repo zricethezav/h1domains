@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 26 08:08:46 UTC 2025)
+## Domains with Bounties (Last Updated Sat Jul 26 09:06:52 UTC 2025)
 ```
 https://napoleoncasino.be/en-be/game/hogamba-crash?demo=false
 help.netflix.com
