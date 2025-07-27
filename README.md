@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 26 23:10:17 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 27 00:29:58 UTC 2025)
 ```
 app.taxjar.com
 aquiristech.com
