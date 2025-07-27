@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 27 15:06:50 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jul 27 16:07:59 UTC 2025)
 ```
 chatdate.app
 *.mercadopago.com.br
