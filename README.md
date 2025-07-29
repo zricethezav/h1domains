@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 29 14:09:51 UTC 2025)
+## Domains with Bounties (Last Updated Tue Jul 29 15:09:31 UTC 2025)
 ```
 *.tospotify.com
 www.forescout.com
