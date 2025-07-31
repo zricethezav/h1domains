@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 31 01:35:58 UTC 2025)
+## Domains with Bounties (Last Updated Thu Jul 31 02:47:52 UTC 2025)
 ```
 www10.fortress.com.hk
 blog.23andme.com
