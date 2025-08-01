@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  1 10:07:58 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug  1 11:07:25 UTC 2025)
 ```
 api.pns.hk
 sso-sprint.dynatracelabs.com
