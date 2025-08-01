@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  1 20:07:54 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug  1 21:06:57 UTC 2025)
 ```
 evening-earth.gamma.redoxstage.com
 community-tc.services.mozilla.com
