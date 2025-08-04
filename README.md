@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  4 03:45:48 UTC 2025)
+## Domains with Bounties (Last Updated Mon Aug  4 04:29:59 UTC 2025)
 ```
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/overlappinggroups
 https://www.oppo.com/my/store
