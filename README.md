@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  5 00:29:10 UTC 2025)
+## Domains with Bounties (Last Updated Tue Aug  5 01:36:44 UTC 2025)
 ```
 healthaid.lemonaidhealth.com
 bb.visa.com
