@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  5 11:11:18 UTC 2025)
+## Domains with Bounties (Last Updated Tue Aug  5 12:12:49 UTC 2025)
 ```
 api.mergify.com
 blog.creditkarma.com
