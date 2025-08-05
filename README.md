@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  5 04:28:21 UTC 2025)
+## Domains with Bounties (Last Updated Tue Aug  5 05:13:59 UTC 2025)
 ```
 secure.rezserver.com
 www.fortress.com.hk
