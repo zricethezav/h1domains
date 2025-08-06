@@ -4,7 +4,6 @@ silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
@@ -12,6 +11,7 @@ lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 aws_vdp,https://github.com/aws/amazon-vpc-cni-k8s,False
 aws_vdp,https://github.com/aws/s2n-tls,False
@@ -47,14 +47,3 @@ fireblocks_mpc,https://github.com/fireblocks/mpc-lib,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
 zabbix,https://www.zabbix.com/download_sources,True
-tron_dao,https://github.com/tronprotocol/java-tron,True
-kiwicom,https://github.com/kiwicom/*,True
-8x8-bounty,https://github.com/jitsi,True
-moonpay,https://github.com/moonpay,True
-doppler,https://github.com/DopplerHQ/cli,True
-us-department-of-state,https://github.com/USStateDept,False
-snowplow,https://github.com/poplindata,False
-snowplow,https://github.com/snowplow-referer-parser,False
-snowplow,https://github.com/snowplow-devops,False
-snowplow,https://github.com/snowplow/,False
-snowplow,https://github.com/snowplow-incubator,False
