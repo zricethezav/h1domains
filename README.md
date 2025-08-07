@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  7 18:12:52 UTC 2025)
+## Domains with Bounties (Last Updated Thu Aug  7 19:10:43 UTC 2025)
 ```
 www.bitstrips.com
 bioid-management.app
