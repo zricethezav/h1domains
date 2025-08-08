@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  8 08:12:46 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug  8 09:11:03 UTC 2025)
 ```
 *.vayama.com
 https://www.sdx.com/
