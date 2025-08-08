@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  8 04:26:31 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug  8 05:14:17 UTC 2025)
 ```
 *.sbgorigin.com
 book.beachbound.com
