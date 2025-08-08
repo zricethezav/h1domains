@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  8 20:10:56 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug  8 21:09:09 UTC 2025)
 ```
 *.watsons.com.hk
 http://h1-your-domain.zendesk.com/qa/
