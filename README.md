@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  8 23:10:28 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug  9 00:25:53 UTC 2025)
 ```
 api.magic.link
 cdn.moderntreasury.com
