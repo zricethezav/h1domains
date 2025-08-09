@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  9 05:10:45 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug  9 06:08:55 UTC 2025)
 ```
 analytics.krisp.ai
 priority.eu-east-1.indriverapp.com
