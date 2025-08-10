@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 10 20:07:33 UTC 2025)
+## Domains with Bounties (Last Updated Sun Aug 10 21:08:20 UTC 2025)
 ```
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 playcanv.as
