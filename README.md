@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 11 08:12:16 UTC 2025)
+## Domains with Bounties (Last Updated Mon Aug 11 09:10:59 UTC 2025)
 ```
 https://www.*mongodb.com/*
 press.priceline.com
