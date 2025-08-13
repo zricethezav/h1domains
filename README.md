@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 13 06:13:06 UTC 2025)
+## Domains with Bounties (Last Updated Wed Aug 13 07:08:37 UTC 2025)
 ```
 mobileapp.hyatt.com
 deeplinks.geneva-staging.chat
