@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 15 17:09:24 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug 15 18:09:29 UTC 2025)
 ```
 codex.buddypress.org
 http://api.koho.ca/partner
