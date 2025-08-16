@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 16 11:09:19 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug 16 12:09:51 UTC 2025)
 ```
 winecellar.zomato.com
 gatewaydsapdev2.marriott.com
