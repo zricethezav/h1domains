@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 16 21:08:23 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug 16 22:06:40 UTC 2025)
 ```
 www.watsons.vn
 langflow.datastax.com
