@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 17 00:31:33 UTC 2025)
+## Domains with Bounties (Last Updated Sun Aug 17 01:36:30 UTC 2025)
 ```
 *.gocardless-cicd.io
 traveler.marriott.com
