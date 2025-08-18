@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 18 08:13:00 UTC 2025)
+## Domains with Bounties (Last Updated Mon Aug 18 09:09:51 UTC 2025)
 ```
 horizonchaseturbo.com
 *.msgsvc.io
