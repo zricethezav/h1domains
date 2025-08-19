@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 19 00:29:01 UTC 2025)
+## Domains with Bounties (Last Updated Tue Aug 19 01:34:53 UTC 2025)
 ```
 mercadoplay.uy
 platform.8x8pilot.com
