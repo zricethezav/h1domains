@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 20 14:07:21 UTC 2025)
+## Domains with Bounties (Last Updated Wed Aug 20 15:09:42 UTC 2025)
 ```
 *.rentalcars.com
 *.flugladen.de
