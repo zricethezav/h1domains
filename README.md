@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 22 08:08:42 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug 22 09:07:15 UTC 2025)
 ```
 biolivre.com.br
 https://ebctest.cybersource.com/cds/
