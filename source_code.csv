@@ -32,8 +32,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
-circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
+circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiapos,True
@@ -43,6 +43,3 @@ chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
-aleo,https://github.com/ProvableHQ/snarkVM,True
-aleo,https://github.com/ProvableHQ/snarkOS,True
-zabbix,https://www.zabbix.com/download_sources,True
