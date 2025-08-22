@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 22 20:10:51 UTC 2025)
+## Domains with Bounties (Last Updated Fri Aug 22 21:06:39 UTC 2025)
 ```
 x.razorpay.com
 seller-id.tokopedia.com
