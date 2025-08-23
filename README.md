@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 23 22:09:12 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug 23 23:06:59 UTC 2025)
 ```
 api.loanbuilder.com
 mercury-dev.wnba.com
