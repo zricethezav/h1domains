@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 25 00:25:55 UTC 2025)
+## Domains with Bounties (Last Updated Mon Aug 25 01:35:59 UTC 2025)
 ```
 dealer.porsche.com
 bioid-management.app
