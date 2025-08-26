@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 26 05:10:28 UTC 2025)
+## Domains with Bounties (Last Updated Tue Aug 26 06:09:25 UTC 2025)
 ```
 www.stayz.com.au
 myaccount.payoneer.com
