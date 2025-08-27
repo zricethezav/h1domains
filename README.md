@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 26 23:09:23 UTC 2025)
+## Domains with Bounties (Last Updated Wed Aug 27 00:24:55 UTC 2025)
 ```
 porschezentrum-berlin.de
 www.visa.com.my
