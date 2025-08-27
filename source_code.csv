@@ -7,8 +7,8 @@ lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
@@ -53,13 +53,3 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-gsa_bbp,https://github.com/18f/federalist-proxy,True
-gsa_bbp,https://github.com/18f/federalist,True
-gsa_bbp,https://github.com/18f/federalist-builder,True
-gsa_bbp,https://github.com/18f/federalist-docker-build,True
-gsa_bbp,https://github.com/18f/identity-idp,True
-gsa_bbp,https://github.com/18f/identity-saml-sinatra,True
-gsa_bbp,https://github.com/18f/identity-saml-rails,True
-gsa_bbp,https://github.com/gsa/datagov-deploy,True
-gsa_bbp,https://github.com/gsa/data.gov,True
-gsa_bbp,https://github.com/18f/docker-ruby-ubuntu,True
