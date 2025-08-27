@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 27 01:35:10 UTC 2025)
+## Domains with Bounties (Last Updated Wed Aug 27 02:35:23 UTC 2025)
 ```
 *.malwarebytes.com
 www.ebookers.com
