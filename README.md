@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 28 01:36:40 UTC 2025)
+## Domains with Bounties (Last Updated Thu Aug 28 02:34:29 UTC 2025)
 ```
 porsche-villingen.de
 www.hyattinclusivecollection.com
