@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 28 08:11:56 UTC 2025)
+## Domains with Bounties (Last Updated Thu Aug 28 09:06:56 UTC 2025)
 ```
 porsche-solingen.de
 https://ebctest.cybersource.com/merchant-mgmt/
