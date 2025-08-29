@@ -1,6 +1,6 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
@@ -179,8 +179,8 @@ pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
 matomo,https://github.com/innocraft/,True
-matomo,https://github.com/matomo-org/matomo,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://github.com/matomo-org/matomo,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
