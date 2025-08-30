@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 30 13:12:55 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug 30 14:07:41 UTC 2025)
 ```
 teamportal.nba.com
 netlify-rum.netlify.app
