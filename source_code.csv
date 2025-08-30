@@ -1,6 +1,6 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
@@ -33,8 +33,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
-circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
+circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chiapos,True
@@ -44,5 +44,3 @@ chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
-aleo,https://github.com/ProvableHQ/snarkOS,True
-aleo,https://github.com/ProvableHQ/snarkVM,True
