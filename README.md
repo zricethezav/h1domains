@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 30 15:09:11 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug 30 16:07:06 UTC 2025)
 ```
 help.redoxengine.com
 webhooks.gamma.redoxstage.com
