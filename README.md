@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 30 06:07:59 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug 30 07:06:26 UTC 2025)
 ```
 www.carrentals.com
 buy.moonpay.com
