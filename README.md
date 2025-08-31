@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 31 06:10:42 UTC 2025)
+## Domains with Bounties (Last Updated Sun Aug 31 07:06:39 UTC 2025)
 ```
 bal-uat.nba.com
 coban.pixiv.net
