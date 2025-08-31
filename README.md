@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 31 18:08:53 UTC 2025)
+## Domains with Bounties (Last Updated Sun Aug 31 19:06:21 UTC 2025)
 ```
 https://user-storage.api.cx.metamask.io
 api.dyson.no
