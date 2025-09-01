@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  1 21:09:08 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep  1 22:07:19 UTC 2025)
 ```
 hg.mozilla.org
 federalist.18f.gov
