@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  2 20:10:29 UTC 2025)
+## Domains with Bounties (Last Updated Tue Sep  2 21:05:58 UTC 2025)
 ```
 porsche-zentrum-niederrhein.de
 *.api.cx.metamask.io
