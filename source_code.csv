@@ -1,7 +1,7 @@
 handle,source_code,eligible_for_bounty
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
-silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
+silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
 lichess,https://github.com/lichess-org/lila-ws,False
@@ -75,13 +75,13 @@ ibb,https://github.com/spiffe/spire,True
 ibb,https://github.com/rubygems/rubygems,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
 ibb,https://github.com/rack/rack,True
+ibb,https://github.com/ruby,True
+ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/curl/curl,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/argoproj/argoproj,True
-ibb,https://github.com/ruby,True
-ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/django,True
 ibb,https://github.com/rails,True
 ibb,https://git.libssh.org/,True
@@ -250,8 +250,8 @@ hyperledger,https://github.com/hyperledger/fabric-samples,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
 plaid,https://github.com/plaid/plaid-link-ios,True
-plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-link-android,True
+plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-ruby,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
@@ -335,8 +335,8 @@ nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/roundcube/roundcubemail,False
-mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://docs.mapbox.com/ios/maps/overview/,True
+mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://github.com/mapbox,True
 mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
