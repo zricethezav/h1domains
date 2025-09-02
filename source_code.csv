@@ -186,8 +186,8 @@ pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
 omise,https://github.com,True
 matomo,https://github.com/innocraft/,True
-matomo,https://github.com/matomo-org/matomo,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://github.com/matomo-org/matomo,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
@@ -249,10 +249,10 @@ hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
-plaid,https://github.com/plaid/plaid-link-ios,True
-plaid,https://github.com/plaid/plaid-link-android,True
-plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-ruby,True
+plaid,https://github.com/plaid/plaid-link-ios,True
+plaid,https://github.com/plaid/plaid-link-examples,True
+plaid,https://github.com/plaid/plaid-link-android,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
@@ -266,9 +266,9 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/vault-updater,True
-brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
