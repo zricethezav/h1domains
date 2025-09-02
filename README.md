@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  1 23:06:34 UTC 2025)
+## Domains with Bounties (Last Updated Tue Sep  2 00:24:47 UTC 2025)
 ```
 api.emea.gravity.porsche.com
 https://u.oppomobile.com/
