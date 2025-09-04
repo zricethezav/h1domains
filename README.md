@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep  3 23:07:38 UTC 2025)
+## Domains with Bounties (Last Updated Thu Sep  4 00:22:51 UTC 2025)
 ```
 labs.databricks.com
 *.expediapartnercentral.com
