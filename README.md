@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  4 10:10:45 UTC 2025)
+## Domains with Bounties (Last Updated Thu Sep  4 11:06:36 UTC 2025)
 ```
 hiltonlocalbiz.com
 chatdate.app
