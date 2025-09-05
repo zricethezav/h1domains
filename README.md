@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep  5 01:34:18 UTC 2025)
+## Domains with Bounties (Last Updated Fri Sep  5 02:32:33 UTC 2025)
 ```
 https://kyc.ripio.com/
 www.visa.fr
