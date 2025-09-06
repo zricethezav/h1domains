@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep  6 15:09:54 UTC 2025)
+## Domains with Bounties (Last Updated Sat Sep  6 16:06:53 UTC 2025)
 ```
 hybrid-analysis.com
 https://www.drogas.lv/blog/
