@@ -1,6 +1,6 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
@@ -42,9 +42,9 @@ pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
+chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiapos,True
@@ -53,3 +53,9 @@ dynatrace,https://github.com/Dynatrace,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
 zabbix,https://www.zabbix.com/download_sources,True
+tron_dao,https://github.com/tronprotocol/java-tron,True
+kiwicom,https://github.com/kiwicom/*,True
+8x8-bounty,https://github.com/jitsi,True
+moonpay,https://github.com/moonpay,True
+doppler,https://github.com/DopplerHQ/cli,True
+us-department-of-state,https://github.com/USStateDept,False
