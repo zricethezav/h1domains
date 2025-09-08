@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  8 00:28:15 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep  8 01:34:55 UTC 2025)
 ```
 amazonpayinsurance.in
 *.braintreegateway.com
