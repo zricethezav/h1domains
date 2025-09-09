@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  9 02:37:15 UTC 2025)
+## Domains with Bounties (Last Updated Tue Sep  9 03:19:53 UTC 2025)
 ```
 federalist.18f.gov
 core-api-uc.nba.com
