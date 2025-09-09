@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  9 12:14:01 UTC 2025)
+## Domains with Bounties (Last Updated Tue Sep  9 13:15:53 UTC 2025)
 ```
 mgmtpod-1.production.forescoutcloud.net
 vacations.us.palladiumhotelgroup.com
