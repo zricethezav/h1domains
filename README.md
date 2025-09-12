@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 12 17:10:02 UTC 2025)
+## Domains with Bounties (Last Updated Fri Sep 12 18:08:27 UTC 2025)
 ```
 *.audible.(TLD)
 https://my.exness.com/pa/socialtrading
