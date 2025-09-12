@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 12 22:06:27 UTC 2025)
+## Domains with Bounties (Last Updated Fri Sep 12 23:06:21 UTC 2025)
 ```
 https://ebctest.cybersource.com/merchant-mgmt/
 dashboard.mergify.com
