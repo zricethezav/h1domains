@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 13 17:05:50 UTC 2025)
+## Domains with Bounties (Last Updated Sat Sep 13 18:07:53 UTC 2025)
 ```
 *.justfall.lol
 www.cart.starbucks.co.jp/
