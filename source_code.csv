@@ -1,6 +1,6 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/simplicity-device-manager,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 lichess,https://github.com/lichess-org/lichobile,False
 lichess,https://github.com/lichess-org,False
@@ -44,8 +44,8 @@ circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
-chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -97,9 +97,9 @@ who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
+polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/maticnetwork/bor,True
-polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -202,12 +202,12 @@ arkadiyt-projects,https://github.com/arkadiyt/ddexport,False
 arkadiyt-projects,https://github.com/arkadiyt/free-ft,False
 arkadiyt-projects,https://github.com/arkadiyt/protodump,False
 arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
+cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/skip-mev/go-fast-contracts,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
-cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/ics23,True
 valve,https://github.com/valvesoftware,False
@@ -251,8 +251,8 @@ hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
 plaid,https://github.com/plaid/plaid-link-ios,True
-plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/plaid-link-examples,True
+plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/plaid-ruby,True
 passhash,https://github.com/dhui/passhash,False
@@ -268,9 +268,9 @@ brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/vault-updater,True
-brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
