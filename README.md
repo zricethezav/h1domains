@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 15 06:09:54 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep 15 07:07:53 UTC 2025)
 ```
 tucarro.com.co
 lynx-qa.wnba.com
