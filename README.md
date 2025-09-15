@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 15 01:34:57 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep 15 02:35:53 UTC 2025)
 ```
 mercadoplay.uy
 benefit.porsche-design.com
