@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 16 04:08:03 UTC 2025)
+## Domains with Bounties (Last Updated Tue Sep 16 05:07:58 UTC 2025)
 ```
 *.mytrainpal.com
 logistica.redelcom.cl
