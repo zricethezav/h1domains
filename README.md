@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 16 06:10:37 UTC 2025)
+## Domains with Bounties (Last Updated Tue Sep 16 07:07:56 UTC 2025)
 ```
 www.recordedfuture.com
 portland-dev.wnba.com
