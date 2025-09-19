@@ -10,8 +10,8 @@ lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
-lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/buildonspark/lrc20,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 tomtom,https://github.com/tomtom-international/*,False
 aws_vdp,https://github.com/kubernetes-sigs/aws-ebs-csi-driver,False
@@ -37,9 +37,9 @@ circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
@@ -48,3 +48,4 @@ leather_wallet,https://github.com/leather-wallet/extension,True
 leather_wallet,https://github.com/leather-wallet/desktop,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
+zabbix,https://www.zabbix.com/download_sources,True
