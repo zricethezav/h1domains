@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 19 12:14:16 UTC 2025)
+## Domains with Bounties (Last Updated Fri Sep 19 13:13:05 UTC 2025)
 ```
 www.bolsasymercados.es
 api.linkedin.com
