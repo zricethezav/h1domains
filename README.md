@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 19 23:09:26 UTC 2025)
+## Domains with Bounties (Last Updated Sat Sep 20 00:23:08 UTC 2025)
 ```
 internal-api-lark-api.larksuite.com
 my.visa.fr
