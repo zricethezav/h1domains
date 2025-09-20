@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 20 13:13:07 UTC 2025)
+## Domains with Bounties (Last Updated Sat Sep 20 14:05:57 UTC 2025)
 ```
 classroom.github.com
 https://coda.io/signup/email
