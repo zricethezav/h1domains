@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 20 22:09:16 UTC 2025)
+## Domains with Bounties (Last Updated Sat Sep 20 23:07:20 UTC 2025)
 ```
 wonderboxdev.com
 creators.basicattentiontoken.org
