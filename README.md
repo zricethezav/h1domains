@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 20 07:06:52 UTC 2025)
+## Domains with Bounties (Last Updated Sat Sep 20 08:07:57 UTC 2025)
 ```
 support-api.airbnb.com
 *-asia-south1.truecaller.com
