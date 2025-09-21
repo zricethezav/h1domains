@@ -52,8 +52,8 @@ toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 leather_wallet,https://github.com/leather-wallet/desktop,True
 leather_wallet,https://github.com/leather-wallet/extension,True
-aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
+aleo,https://github.com/ProvableHQ/snarkVM,True
 zabbix,https://www.zabbix.com/download_sources,True
 tron_dao,https://github.com/tronprotocol/java-tron,True
 kiwicom,https://github.com/kiwicom/*,True
@@ -96,9 +96,9 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
 kubernetes,https://github.com/kubernetes/csi-api,True
@@ -240,12 +240,12 @@ hyperledger,https://github.com/hyperledger/fabric-admin-sdk,True
 hyperledger,https://github.com/hyperledger/besu-native,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
-plaid,https://github.com/plaid/plaid-link-ios,True
 plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
+plaid,https://github.com/plaid/plaid-link-ios,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
@@ -328,8 +328,8 @@ nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/roundcube/roundcubemail,False
-mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://docs.mapbox.com/android/,True
+mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
