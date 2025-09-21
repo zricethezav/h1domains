@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 21 20:10:16 UTC 2025)
+## Domains with Bounties (Last Updated Sun Sep 21 21:07:28 UTC 2025)
 ```
 chat.booking.com
 https://web3.sdx.com
