@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 22 02:38:13 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep 22 03:24:31 UTC 2025)
 ```
 www.practicalmoneyskills.org
 api.mergify.com
