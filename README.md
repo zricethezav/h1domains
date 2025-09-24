@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 24 20:08:13 UTC 2025)
+## Domains with Bounties (Last Updated Wed Sep 24 21:06:57 UTC 2025)
 ```
 openapiportal.m-pesa.com
 porsche-paderborn.de
