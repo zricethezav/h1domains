@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 26 17:10:02 UTC 2025)
+## Domains with Bounties (Last Updated Fri Sep 26 18:08:09 UTC 2025)
 ```
 create.snapchat.com
 porschezentrum-berlin-sued.de
