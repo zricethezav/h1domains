@@ -211,12 +211,12 @@ cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/gaia,True
 valve,https://github.com/valvesoftware,False
-rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
+rootstocklabs,https://github.com/rsksmart/rif-wallet-libs,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet-services,True
 rootstocklabs,https://github.com/rsksmart/2wp-app,True
-rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
+rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/tokenbridge,True
 rootstocklabs,https://github.com/rsksmart/rif-wallet,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
@@ -337,8 +337,8 @@ nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/roundcube/roundcubemail,False
-mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://docs.mapbox.com/android/,True
+mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
