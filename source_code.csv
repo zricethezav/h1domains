@@ -96,11 +96,11 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
+polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
-polygon-technology,https://github.com/0xPolygon/static,True
-polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
+polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
 kubernetes,https://github.com/kubernetes/kube-openapi,True
