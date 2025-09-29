@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 29 20:11:29 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep 29 21:06:53 UTC 2025)
 ```
 www.trekpleister.nl
 api.kolesa.kz
