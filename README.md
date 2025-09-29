@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 29 09:08:30 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep 29 10:08:16 UTC 2025)
 ```
 www.fitvermogen.nl
 https://vault.chiatest.net/
