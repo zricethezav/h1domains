@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 29 18:14:33 UTC 2025)
+## Domains with Bounties (Last Updated Mon Sep 29 19:08:47 UTC 2025)
 ```
 *.scopely.io
 meetiobook.com
