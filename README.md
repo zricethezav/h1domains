@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  2 18:12:16 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct  2 19:06:45 UTC 2025)
 ```
 ecc.porsche.com
 www.trekpleister.nl
