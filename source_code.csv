@@ -288,7 +288,7 @@ nextcloud,https://github.com/nextcloud/notifications,True
 nextcloud,https://github.com/nextcloud/privacy,True
 nextcloud,https://github.com/nextcloud/files_antivirus,True
 nextcloud,https://github.com/nextcloud/bruteforcesettings,True
-nextcloud,https://github.com/nextcloud/viewer,True
+nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/server,True
 nextcloud,https://github.com/nextcloud/activity,True
 nextcloud,https://github.com/nextcloud/files_accesscontrol,True
@@ -297,9 +297,9 @@ nextcloud,https://github.com/nextcloud/files_pdfviewer,True
 nextcloud,https://github.com/nextcloud/user_saml,True
 nextcloud,https://github.com/nextcloud/nextcloud_announcements,True
 nextcloud,https://github.com/nextcloud/survey_client,True
-nextcloud,https://github.com/nextcloud/spreed,True
 nextcloud,https://github.com/nextcloud/photos,True
 nextcloud,https://github.com/nextcloud/mail,True
+nextcloud,https://github.com/nextcloud/viewer,True
 nextcloud,https://github.com/nextcloud/text,True
 nextcloud,https://github.com/nextcloud/circles,True
 nextcloud,https://github.com/nextcloud/fulltextsearch,True
@@ -326,8 +326,8 @@ nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/roundcube/roundcubemail,False
-mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://docs.mapbox.com/ios/maps/overview/,True
+mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
