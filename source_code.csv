@@ -11,10 +11,10 @@ lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
+lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
@@ -43,9 +43,9 @@ circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
@@ -179,8 +179,8 @@ omise,https://github.com,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org,True
 matomo,https://github.com/innocraft/,True
-matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org/matomo,True
+matomo,https://plugins.matomo.org/developer/innocraft,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
@@ -194,8 +194,8 @@ arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ics23,True
-cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/iqlusioninc/tmkms,True
+cosmos,https://github.com/cosmos/iavl,True
 cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/skip-mev/go-fast-contracts,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
