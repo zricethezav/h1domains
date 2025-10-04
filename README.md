@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  4 18:07:51 UTC 2025)
+## Domains with Bounties (Last Updated Sat Oct  4 19:05:57 UTC 2025)
 ```
 pd-api.polkadoc.com
 amazonpayinsurance.in
