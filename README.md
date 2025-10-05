@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct  5 03:22:03 UTC 2025)
+## Domains with Bounties (Last Updated Sun Oct  5 04:08:24 UTC 2025)
 ```
 mercadoplay.uy
 unifi.ui.com
