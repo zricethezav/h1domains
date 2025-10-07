@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  7 08:11:39 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct  7 09:07:54 UTC 2025)
 ```
 staking.consensys.io
 lando.services.mozilla.com
