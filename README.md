@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  7 04:10:56 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct  7 05:08:06 UTC 2025)
 ```
 pabets.tvg.com
 *.seoquake.com
