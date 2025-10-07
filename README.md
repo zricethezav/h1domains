@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  7 02:35:39 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct  7 03:17:32 UTC 2025)
 ```
 content-api-nextgen-uat.nba.com
 support.creditkarma.ca
