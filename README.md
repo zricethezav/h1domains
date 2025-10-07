@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  6 23:09:50 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct  7 00:23:56 UTC 2025)
 ```
 store.playstation.com
 *.mb-cosmos.com
