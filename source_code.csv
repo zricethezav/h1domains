@@ -194,8 +194,8 @@ arkadiyt-projects,https://github.com/arkadiyt/multiple-aws-sessions,False
 cosmos,https://github.com/iqlusioninc/yubihsm.rs,True
 cosmos,https://github.com/iqlusioninc/crates/tree/main/signatory,True
 cosmos,https://github.com/cosmos/ics23,True
-cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/iavl,True
+cosmos,https://github.com/iqlusioninc/tmkms,True
 cosmos,https://github.com/cosmos/gaia,True
 cosmos,https://github.com/cosmos/ledger-cosmos,True
 cosmos,https://github.com/skip-mev/go-fast-contracts,True
@@ -261,6 +261,8 @@ brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/brave-core,True
+brave,https://github.com/brave/*,True
+brave,https://github.com/ https://github.com/brave-intl/*,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
