@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  9 03:21:45 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct  9 04:07:59 UTC 2025)
 ```
 bma.badoo.com
 jira.hyattdev.com
