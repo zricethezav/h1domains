@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 10 18:11:25 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 10 19:07:36 UTC 2025)
 ```
 embed.vhx.tv
 https://metroconnect.app.ridewithvia.com
