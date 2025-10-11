@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 11 21:05:57 UTC 2025)
+## Domains with Bounties (Last Updated Sat Oct 11 22:06:17 UTC 2025)
 ```
 *.yelp.com
 wiki.grab.com
