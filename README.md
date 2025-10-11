@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 11 10:09:47 UTC 2025)
+## Domains with Bounties (Last Updated Sat Oct 11 11:05:56 UTC 2025)
 ```
 compare.porsche.com
 about.gitlab.com
