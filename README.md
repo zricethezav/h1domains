@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 14 06:14:31 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct 14 07:07:49 UTC 2025)
 ```
 https://console.neon.tech/api/v2/
 indicative-pricing.taxi.booking.com
