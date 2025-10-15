@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 15 21:09:47 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 15 22:06:33 UTC 2025)
 ```
 https://my.exness.com/webtrading/
 *.line.naver.jp
