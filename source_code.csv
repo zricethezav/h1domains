@@ -53,3 +53,8 @@ leather_wallet,https://github.com/leather-wallet/extension,True
 leather_wallet,https://github.com/leather-wallet/desktop,True
 aleo,https://github.com/ProvableHQ/snarkVM,True
 aleo,https://github.com/ProvableHQ/snarkOS,True
+zabbix,https://www.zabbix.com/download_sources,True
+tron_dao,https://github.com/tronprotocol/java-tron,True
+kiwicom,https://github.com/kiwicom/*,True
+8x8-bounty,https://github.com/jitsi,True
+moonpay,https://github.com/moonpay,True
