@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 20 13:18:32 UTC 2025)
+## Domains with Bounties (Last Updated Mon Oct 20 14:07:05 UTC 2025)
 ```
 https://ebctest.cybersource.com/ums
 *.mercadoshops.com.ar
