@@ -8,14 +8,14 @@ lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/lichess-org/lila-ws,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
+lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 tomtom,https://github.com/tomtom-international/*,False
@@ -229,10 +229,10 @@ hyperledger,https://github.com/hyperledger/fabric-admin-sdk,True
 hyperledger,https://github.com/hyperledger/besu-native,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
-plaid,https://github.com/plaid/plaid-link-ios,True
 plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
+plaid,https://github.com/plaid/plaid-link-ios,True
 plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/react-plaid-link,True
 passhash,https://github.com/dhui/passhash,False
@@ -249,10 +249,10 @@ brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
-brave,https://github.com/brave-intl/publishers,True
-brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/*,True
 brave,https://github.com/ https://github.com/brave-intl/*,True
+brave,https://github.com/brave-intl/publishers,True
+brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
