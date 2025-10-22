@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 22 04:09:30 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 22 05:08:25 UTC 2025)
 ```
 web.snapchat.com
 https://geocode-beta.bykea.net
