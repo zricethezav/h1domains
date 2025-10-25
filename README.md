@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 24 23:09:58 UTC 2025)
+## Domains with Bounties (Last Updated Sat Oct 25 00:24:51 UTC 2025)
 ```
 vimeo.magisto.com
 api.direct.playstation.com
