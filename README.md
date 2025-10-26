@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 26 17:09:54 UTC 2025)
+## Domains with Bounties (Last Updated Sun Oct 26 18:08:20 UTC 2025)
 ```
 codex.buddypress.org
 www.wynnvacations.com
