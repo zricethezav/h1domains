@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 26 13:12:04 UTC 2025)
+## Domains with Bounties (Last Updated Sun Oct 26 14:07:34 UTC 2025)
 ```
 porsche-zentrum-pforzheim.de
 help.redoxengine.com
