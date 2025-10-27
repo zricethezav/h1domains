@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 27 12:12:09 UTC 2025)
+## Domains with Bounties (Last Updated Mon Oct 27 13:16:36 UTC 2025)
 ```
 www.visa.co.nz
 cweb-ott-qa.nba.com
