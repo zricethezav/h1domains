@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 27 02:42:42 UTC 2025)
+## Domains with Bounties (Last Updated Mon Oct 27 03:32:14 UTC 2025)
 ```
 my.plaid.com
 www.expedia.com
