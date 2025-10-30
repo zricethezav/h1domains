@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 30 22:10:30 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 30 23:06:51 UTC 2025)
 ```
 hotornot.com
 *.ops.netlify.com
