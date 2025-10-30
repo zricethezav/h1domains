@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 30 14:15:08 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 30 15:08:10 UTC 2025)
 ```
 klarna.net
 liberty.wnba.com
