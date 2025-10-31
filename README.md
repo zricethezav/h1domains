@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 31 06:09:54 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 31 07:07:40 UTC 2025)
 ```
 chatdate.app
 testnet.bitmex.com
