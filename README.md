@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  1 07:09:44 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov  1 08:07:49 UTC 2025)
 ```
 stats-trafficcop-prod.nba.com
 *.moonpaycloud.com
