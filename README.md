@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  2 17:09:30 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov  2 18:07:57 UTC 2025)
 ```
 login-pabets.tvg.com
 api.krisp.ai
