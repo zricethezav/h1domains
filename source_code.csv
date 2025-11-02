@@ -169,8 +169,8 @@ pyca,https://github.com/pyca/bcrypt,False
 pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
-matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://plugins.matomo.org/developer/innocraft,True
+matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/innocraft/,True
 matomo,https://github.com/matomo-org,True
@@ -250,12 +250,12 @@ discourse,https://github.com/discourse/discourse,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave/vault-updater,True
-brave,https://github.com/brave-intl/bat-ledger,True
-brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/*,True
 brave,https://github.com/ https://github.com/brave-intl/*,True
+brave,https://github.com/brave-intl/bat-ledger,True
+brave,https://github.com/brave-intl/bat-client,True
 brave,https://github.com/brave-intl/publishers,True
-brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/brave-core,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
@@ -327,8 +327,8 @@ mapbox,https://www.mapbox.com/mapbox-gl-js/,True
 mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
-gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
+gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
