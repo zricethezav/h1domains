@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  3 04:13:48 UTC 2025)
+## Domains with Bounties (Last Updated Mon Nov  3 05:07:58 UTC 2025)
 ```
 *.superbet.ro
 webgateway.koho.ca
