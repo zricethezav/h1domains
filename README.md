@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov  4 17:10:46 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov  4 18:09:53 UTC 2025)
 ```
 https://8x8.vc/xmpp-websocket
 internal-api.larksuite.com
