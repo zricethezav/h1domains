@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov  4 06:13:18 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov  4 07:08:58 UTC 2025)
 ```
 larksuite.com
 *.iciparisxl.lu
