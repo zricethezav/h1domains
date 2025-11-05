@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  5 14:11:10 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov  5 15:08:28 UTC 2025)
 ```
 www.wotif.com
 https://judge.me/reviews
