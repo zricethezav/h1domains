@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  5 08:09:52 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov  5 09:08:15 UTC 2025)
 ```
 porsche-villingen.de
 secure-supply-xml.booking.com
