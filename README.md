@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  8 07:06:43 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov  8 08:07:56 UTC 2025)
 ```
 www.doordash.com
 api.tideplatform.in
