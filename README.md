@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  8 16:10:51 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov  8 17:06:26 UTC 2025)
 ```
 https://enterprise-demo.portswigger.net/
 *.gotinder.com
