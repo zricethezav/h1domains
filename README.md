@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  8 04:10:58 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov  8 05:09:25 UTC 2025)
 ```
 medias.watsons.com.sg
 netlify-rum.netlify.app
