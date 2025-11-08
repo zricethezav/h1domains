@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  8 10:09:48 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov  8 11:07:33 UTC 2025)
 ```
 fhdn.fareharbor.com
 api.vhx.tv
