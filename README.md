@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  9 18:12:24 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov  9 19:05:51 UTC 2025)
 ```
 cloud.malwarebytes.com
 https://ebctest.cybersource.com/riskui
