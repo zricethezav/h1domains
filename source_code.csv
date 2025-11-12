@@ -1,11 +1,11 @@
 handle,source_code,eligible_for_bounty
-silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
+silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
+lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
@@ -75,12 +75,12 @@ ibb,https://github.com/openssl/openssl,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
-polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
-polygon-technology,https://github.com/0xPolygon/lxly.js,True
+polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
+polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
+polygon-technology,https://github.com/0xPolygon/lxly.js,True
 polygon-technology,https://github.com/0xPolygon/static,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -159,8 +159,8 @@ pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
 solidus,https://github.com/solidusio/solidus,False
 defectdojo,https://github.com/DefectDojo/django-DefectDojo,False
-chainlink,https://github.com/smartcontractkit/external-adapters-js/,True
 chainlink,https://github.com/smartcontractkit/chainlink,True
+chainlink,https://github.com/smartcontractkit/external-adapters-js/,True
 phpbb,https://github.com/phpbb/phpbb,False
 pyca,https://github.com/pyca/pynacl,False
 pyca,https://github.com/pyca/bcrypt,False
@@ -230,10 +230,10 @@ hyperledger,https://github.com/hyperledger/fabric-admin-sdk,True
 hyperledger,https://github.com/hyperledger/besu-native,True
 hyperledger,https://github.com/hyperledger/fabric-sdk-py,True
 hyperledger,https://github.com/hyperledger/fabric-samples,True
-plaid,https://github.com/plaid/plaid-link-android,True
-plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
+plaid,https://github.com/plaid/plaid-ruby,True
+plaid,https://github.com/plaid/plaid-link-android,True
 plaid,https://github.com/plaid/react-plaid-link,True
 plaid,https://github.com/plaid/plaid-link-ios,True
 passhash,https://github.com/dhui/passhash,False
