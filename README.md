@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 13 14:11:07 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 13 15:08:59 UTC 2025)
 ```
 eligibility.khealth.com
 www.dyson.com.tr
