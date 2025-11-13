@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 13 01:38:55 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 13 02:38:27 UTC 2025)
 ```
 http://vimeo.com/api
 www.moneyback.com.hk
