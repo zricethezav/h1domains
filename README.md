@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 14 22:06:52 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 14 23:08:14 UTC 2025)
 ```
 *.betfair.it
 billing-pci.etoro.com
