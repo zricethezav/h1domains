@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 17 14:10:52 UTC 2025)
+## Domains with Bounties (Last Updated Mon Nov 17 15:09:54 UTC 2025)
 ```
 fetlife.com
 *.8x8.vc
