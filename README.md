@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 18 02:41:10 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov 18 03:26:51 UTC 2025)
 ```
 porsche-paderborn.de
 secureui.starbucks.com
