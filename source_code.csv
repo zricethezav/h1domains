@@ -4,16 +4,16 @@ northerntechhq,https://github.com/mendersoftware/mender,True
 northerntechhq,https://github.com/	 https://github.com/cfengine/core,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 tomtom,https://github.com/tomtom-international/*,False
 aws_vdp,https://github.com/kubernetes-sigs/aws-efs-csi-driver,False
@@ -40,10 +40,11 @@ circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
+chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
-chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
+leather_wallet,https://github.com/leather-wallet/extension,True
