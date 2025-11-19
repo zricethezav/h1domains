@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 19 01:39:08 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov 19 02:37:38 UTC 2025)
 ```
 assets.tumblr.com
 auth0.gocardless.com
