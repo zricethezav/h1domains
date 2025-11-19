@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 19 20:10:04 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov 19 21:06:52 UTC 2025)
 ```
 www.urbanclap.com
 seller-id.tokopedia.com
