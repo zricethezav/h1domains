@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 20 18:13:32 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 20 19:06:45 UTC 2025)
 ```
 furycloud.io
 *.mercadoshops.com.mx
