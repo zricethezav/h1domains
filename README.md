@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 20 15:07:55 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 20 16:10:29 UTC 2025)
 ```
 *.monopoly-poker.com
 core-api.nba.com
