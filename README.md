@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 21 15:11:43 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 21 16:08:59 UTC 2025)
 ```
 *.nflxso.net
 booking.com
