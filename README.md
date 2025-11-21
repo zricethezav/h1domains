@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 21 18:14:02 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 21 19:12:26 UTC 2025)
 ```
 pzsf.de
 doppler.team
