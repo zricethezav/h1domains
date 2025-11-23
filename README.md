@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 23 02:48:14 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 23 03:35:27 UTC 2025)
 ```
 superhuman.com
 *.sidefx.com
