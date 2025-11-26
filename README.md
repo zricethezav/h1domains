@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 25 23:10:37 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov 26 00:25:45 UTC 2025)
 ```
 *.playtika.com
 http://github.com/cloudflare
