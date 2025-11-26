@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 26 19:10:07 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov 26 20:08:07 UTC 2025)
 ```
 slack-redir.net
 https://ebctest.cybersource.com/casemanagement
