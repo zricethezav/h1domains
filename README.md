@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 27 21:06:47 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 27 22:06:54 UTC 2025)
 ```
 core-api-sandbox.nba.com
 http://myvisainfinite.com/suntrust/en_us/home.html
