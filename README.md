@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 27 07:11:28 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 27 08:09:44 UTC 2025)
 ```
 *.wavecell.com
 *.instacart.tools
