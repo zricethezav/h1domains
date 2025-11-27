@@ -4,15 +4,15 @@ northerntechhq,https://github.com/mendersoftware/mender-server,True
 northerntechhq,https://github.com/	 https://github.com/cfengine/core,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
-lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
+lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
-lightspark_bbp,https://github.com/buildonspark/spark,True
-lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
+lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 tomtom,https://github.com/tomtom-international/*,False
@@ -58,6 +58,7 @@ doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
 ibb,https://github.com/spiffe/spire,True
 ibb,https://wiki.xenproject.org/wiki/Xen_Project_Repositories,True
+ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/libuv/libuv,True
 ibb,https://github.com/nodejs/node,True
 ibb,https://github.com/rails,True
@@ -69,12 +70,11 @@ ibb,https://github.com/rust-lang/rust,True
 ibb,https://github.com/Nginx,True
 ibb,https://github.com/rack/rack,True
 ibb,https://github.com/ruby,True
+ibb,https://github.com/curl/curl,True
 ibb,https://github.com/Electron,True
 ibb,https://github.com/argoproj/argoproj,True
 ibb,https://github.com/apache/airflow,True
 ibb,https://github.com/django,True
-ibb,https://github.com/curl/curl,True
-ibb,https://github.com/openssl/openssl,True
 ibb,https://github.com/apache/tomcat,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
@@ -171,8 +171,8 @@ pyca,https://github.com/pyca/bcrypt,False
 pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
-matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
 matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
@@ -216,10 +216,10 @@ hyperledger,https://github.com/hyperledger/fabric-protos-go,True
 hyperledger,https://github.com/hyperledger/fabric-protos,True
 hyperledger,https://github.com/hyperledger/besu-verkle-trie,True
 hyperledger,https://github.com/hyperledger/besu-errorprone-checks,True
+hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
 hyperledger,https://github.com/hyperledger/fabric,True
 hyperledger,https://github.com/hyperledger/fabric-ca,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-java,True
-hyperledger,https://github.com/hyperledger/fabric-chaincode-node,True
 hyperledger,https://github.com/hyperledger/fabric-amcl,True
 hyperledger,https://github.com/hyperledger/fabric-cli,True
 hyperledger,https://github.com/hyperledger/fabric-chaincode-go,True
@@ -251,14 +251,14 @@ wordpress,https://github.com/ github.com/WordPress,True
 discourse,https://github.com/discourse/discourse,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
-brave,https://github.com/brave-intl/bat-ledger,True
-brave,https://github.com/brave-intl/bat-client,True
-brave,https://github.com/brave/*,True
-brave,https://github.com/ https://github.com/brave-intl/*,True
-brave,https://github.com/brave-intl/publishers,True
+brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave/brave-core,True
-brave,https://github.com/brave-intl/bat-go,True
+brave,https://github.com/brave/*,True
+brave,https://github.com/ https://github.com/brave-intl/*,True
+brave,https://github.com/brave-intl/bat-ledger,True
+brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave-intl/publishers,True
 ruby,https://github.com/ruby/ruby,True
 nextcloud,https://github.com/nextcloud/files_rightclick,True
 nextcloud,https://github.com/nextcloud/firstrunwizard,True
