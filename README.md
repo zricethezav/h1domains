@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 28 01:35:57 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 28 02:37:00 UTC 2025)
 ```
 app.grammarly.com
 https://ebctest.cybersource.com/tms
