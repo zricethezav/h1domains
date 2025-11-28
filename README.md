@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 28 22:07:17 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 28 23:07:38 UTC 2025)
 ```
 global-api.citymapper.com
 console.ort-one-pingone.com
