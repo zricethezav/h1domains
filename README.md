@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 29 11:09:38 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov 29 12:11:12 UTC 2025)
 ```
 ask.khealth.com
 ccardsus1.badoo.com
