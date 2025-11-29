@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 29 08:08:41 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov 29 09:06:57 UTC 2025)
 ```
 lrc20.lightspark.com
 cruises.booking.com
