@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  1 05:17:00 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec  1 06:11:02 UTC 2025)
 ```
 supportal.netlify.app
 api.robinhood.com
