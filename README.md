@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  1 20:07:52 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec  1 21:07:53 UTC 2025)
 ```
 http://www.byreal.io
 https://ebctest.cybersource.com/oms
