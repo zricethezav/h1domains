@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  2 16:08:52 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec  2 17:09:54 UTC 2025)
 ```
 www.stayz.com.au
 go.geneva-staging.com
