@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  2 03:31:51 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec  2 04:14:50 UTC 2025)
 ```
 www.dyson.co.kr
 auth0.gocardless.com
