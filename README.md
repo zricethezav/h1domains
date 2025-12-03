@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  3 07:12:22 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec  3 08:09:51 UTC 2025)
 ```
  *.git.wordpress.org
 book.beachbound.com
