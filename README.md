@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  2 23:10:41 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec  3 00:27:49 UTC 2025)
 ```
 10x.redoxengine.com
 *.sonyentertainmentnetwork.com
