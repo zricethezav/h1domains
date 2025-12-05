@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  4 23:10:40 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec  5 00:26:53 UTC 2025)
 ```
 international.coinbase.com
 www.cheapcaribbean.com
