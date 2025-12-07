@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  7 11:07:30 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec  7 12:10:31 UTC 2025)
 ```
 priority.eu-east-1.indriverapp.com
 pzsc.de
