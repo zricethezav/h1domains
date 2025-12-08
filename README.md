@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  8 16:12:38 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec  8 17:10:47 UTC 2025)
 ```
 www.travelocity.com
 https://ebctest.cybersource.com/boarding/v1/registrations
