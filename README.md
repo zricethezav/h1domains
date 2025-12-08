@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  8 00:30:33 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec  8 01:35:46 UTC 2025)
 ```
 codahosted.io
 www.mundi.com.br
