@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  9 04:16:07 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec  9 05:07:47 UTC 2025)
 ```
 niantic.kidswebservices.com
 profile-api.eu-east-1.indriverapp.com
