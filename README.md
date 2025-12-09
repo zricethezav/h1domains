@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  9 17:13:33 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec  9 18:08:52 UTC 2025)
 ```
 www.mundi.com.br
 *.sonyentertainmentnetwork.com
