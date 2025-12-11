@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 11 15:14:18 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 11 16:10:16 UTC 2025)
 ```
 https://ebctest.cybersource.com/processorconfigapi
 world.hyatt.com
