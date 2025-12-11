@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 11 17:15:07 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 11 18:14:36 UTC 2025)
 ```
 porsche-koeln.de
 www.kruidvat.nl
