@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 12 01:39:25 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec 12 02:40:59 UTC 2025)
 ```
 res.vacations.discoverycove.com
 lookatme.com.ph
