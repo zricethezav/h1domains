@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 11 23:11:05 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec 12 00:26:59 UTC 2025)
 ```
 *.mercadolibre.com.co
 www10.watsons.vn
