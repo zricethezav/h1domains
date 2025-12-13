@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 13 18:09:17 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 13 19:06:30 UTC 2025)
 ```
 studio-fa-porsche.com
 builder.hostinger.com
