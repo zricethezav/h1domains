@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 15 08:11:27 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec 15 09:12:18 UTC 2025)
 ```
 webhooks.booking.com
 www.cart.starbucks.co.jp/
