@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 15 17:10:55 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec 15 18:11:17 UTC 2025)
 ```
 www.bookabach.co.nz
 onboarding.greenhouse.io
