@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 15 23:11:16 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 16 00:27:53 UTC 2025)
 ```
 gateway.geneva-staging.chat
 marketing.fareharbor.com
