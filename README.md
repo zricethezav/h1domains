@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 16 06:14:24 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 16 07:09:49 UTC 2025)
 ```
 app.kruidvat.nl
 *.gocardless-cicd.io
