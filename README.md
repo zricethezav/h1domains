@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 16 21:11:30 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 16 22:07:50 UTC 2025)
 ```
 capitalmarketsday.porsche.com
 app.krisp.ai
