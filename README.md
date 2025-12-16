@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 16 17:13:57 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 16 18:10:49 UTC 2025)
 ```
 porsche-zentrum-essen.de
 *.moneyback.com.hk
