@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 17 15:12:22 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 17 16:10:58 UTC 2025)
 ```
 *.spotify.net
 http://bumba.global
