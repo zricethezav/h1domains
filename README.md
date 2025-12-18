@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 18 06:14:30 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 18 07:08:44 UTC 2025)
 ```
 safe.tumblr.com
 vacations.universalstudioshollywood.com
