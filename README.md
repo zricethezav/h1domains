@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 18 02:39:44 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 18 03:33:37 UTC 2025)
 ```
 xn--porsche-schwbisch-gmnd-c5b89c.de
 www.visa.com.ng
