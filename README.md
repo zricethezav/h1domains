@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 19 15:11:06 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec 19 16:09:29 UTC 2025)
 ```
 fever-dev.wnba.com
 *.hypermint.com
