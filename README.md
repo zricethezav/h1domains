@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 20 11:09:16 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 20 12:10:39 UTC 2025)
 ```
 *.luxuryretreats.com
 www.bookingholdings.com
