@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 20 07:07:41 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 20 08:08:25 UTC 2025)
 ```
 www.pornbox.com
 porsche.de
