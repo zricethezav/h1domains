@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 21 14:10:07 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 21 15:06:59 UTC 2025)
 ```
 woocommerce-adapter.judge.me
 www.six-group.com
