@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 22 20:11:25 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec 22 21:06:54 UTC 2025)
 ```
 auth.moonpay.com
 *.foliofirst.com
