@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 23 18:13:43 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 23 19:07:42 UTC 2025)
 ```
 www.trendyol-milla.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
