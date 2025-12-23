@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 23 03:38:17 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 23 04:19:50 UTC 2025)
 ```
 *.fortress.com.hk
 eidhelp.marriott.com
