@@ -1,11 +1,11 @@
 handle,source_code,eligible_for_bounty
-lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
+lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
@@ -36,10 +36,10 @@ circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
 circle-bbp,https://github.com/circlefin/aptos-cctp,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
+chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
@@ -165,11 +165,11 @@ pyca,https://github.com/pyca/bcrypt,False
 pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
-matomo,https://plugins.matomo.org/developer/innocraft,True
+matomo,https://github.com/innocraft/,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
-matomo,https://github.com/innocraft/,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
 arkadiyt-projects,https://github.com/arkadiyt/aws_public_ips,False
@@ -198,12 +198,12 @@ rootstocklabs,https://github.com/rsksmart/rskj,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
-plaid,https://github.com/plaid/react-plaid-link,True
-plaid,https://github.com/plaid/plaid-link-ios,True
-plaid,https://github.com/plaid/plaid-link-android,True
-plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
+plaid,https://github.com/plaid/plaid-link-android,True
+plaid,https://github.com/plaid/plaid-ruby,True
+plaid,https://github.com/plaid/plaid-link-ios,True
+plaid,https://github.com/plaid/react-plaid-link,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
