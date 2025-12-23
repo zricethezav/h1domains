@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 23 15:11:11 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 23 16:08:57 UTC 2025)
 ```
 https://metroconnect.app.ridewithvia.com
 www.pns.hk
