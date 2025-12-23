@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 23 07:12:46 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 23 08:10:01 UTC 2025)
 ```
 res.secretsresorts.com
 https://github.com/matomo-org/docker
