@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 24 07:12:42 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 24 08:09:58 UTC 2025)
 ```
 *-noneu.truecaller.com
 jobs.porsche-design.com
