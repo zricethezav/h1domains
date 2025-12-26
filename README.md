@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 26 04:19:42 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec 26 05:09:12 UTC 2025)
 ```
 cdna.lystit.com
 www.mrjet.se
