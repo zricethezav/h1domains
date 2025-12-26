@@ -35,12 +35,12 @@ circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/aptos-cctp,True
 circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
+chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
-chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 zabbix,https://www.zabbix.com/download_sources,True
@@ -75,11 +75,11 @@ openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
-polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/lxly.js,True
-polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
+polygon-technology,https://github.com/maticnetwork/bor,True
+polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
 kubernetes,https://github.com/kubernetes/kube-openapi,True
@@ -165,8 +165,8 @@ pyca,https://github.com/pyca/bcrypt,False
 pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
-matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 matomo,https://github.com/innocraft/,True
@@ -297,8 +297,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
 versioncake,https://github.com/bwillis/versioncake,False
