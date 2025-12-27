@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 27 04:17:54 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 27 05:08:51 UTC 2025)
 ```
 www-staging.porscheautoinsurance.com
 playwonderbox.com
