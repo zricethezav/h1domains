@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 28 16:11:15 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 28 17:07:23 UTC 2025)
 ```
 https://dcfgatewaytst1.marriott.com/
 www.doordash.com
