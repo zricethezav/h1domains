@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 28 03:40:42 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 28 04:24:41 UTC 2025)
 ```
 visa.com.ru
 www.watsons.co.id
