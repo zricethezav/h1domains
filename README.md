@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 30 12:11:46 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 30 13:18:48 UTC 2025)
 ```
 app.rewire.to
 porsche-koeln.de
