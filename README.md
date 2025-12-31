@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 31 06:11:12 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 31 07:09:58 UTC 2025)
 ```
 www.truecaller.com
 spark.fareharbor.com
