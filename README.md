@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 31 00:32:04 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 31 01:35:57 UTC 2025)
 ```
 porsche-giessen.de
 api.loanbuilder.com
