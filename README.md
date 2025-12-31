@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 31 10:10:38 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 31 11:07:14 UTC 2025)
 ```
 gifts.marriott.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
