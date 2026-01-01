@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  1 18:13:14 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan  1 19:07:32 UTC 2026)
 ```
 *.redditmedia.com
 ballistic.com
