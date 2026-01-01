@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  1 03:41:39 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan  1 04:25:52 UTC 2026)
 ```
 porsche-zentrum-olympiapark.de
 *.boozt.com
