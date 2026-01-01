@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  1 22:10:33 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan  1 23:07:44 UTC 2026)
 ```
 *.superbet.com
 www.dyson.ch
