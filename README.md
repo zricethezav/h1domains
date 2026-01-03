@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  3 02:42:45 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan  3 03:34:12 UTC 2026)
 ```
 api.grofers.com
 *.napoleonsports.be
