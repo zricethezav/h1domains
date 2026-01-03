@@ -7,8 +7,8 @@ lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
 tomtom,https://github.com/tomtom-international/*,False
 aws_vdp,https://github.com/kubernetes-sigs/aws-efs-csi-driver,False
@@ -38,8 +38,8 @@ circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chiapos,True
-chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
+chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
@@ -73,8 +73,8 @@ ibb,https://github.com/Electron,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
+polygon-technology,https://github.com/0xPolygon/static,True
 polygon-technology,https://github.com/0xPolygon/heimdall-v2,True
 polygon-technology,https://github.com/maticnetwork/bor,True
 polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
@@ -185,15 +185,15 @@ rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/liquidity-provider-server,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
-rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
+rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
+plaid,https://github.com/plaid/plaid-link-ios,True
+plaid,https://github.com/plaid/plaid-link-android,True
+plaid,https://github.com/plaid/plaid-ruby,True
 plaid,https://github.com/plaid/plaid-link-examples,True
 plaid,https://github.com/plaid/react-native-plaid-link-sdk,True
-plaid,https://github.com/plaid/plaid-ruby,True
-plaid,https://github.com/plaid/plaid-link-android,True
-plaid,https://github.com/plaid/plaid-link-ios,True
 plaid,https://github.com/plaid/react-plaid-link,True
 passhash,https://github.com/dhui/passhash,False
 bitwarden,https://github.com/bitwarden,False
