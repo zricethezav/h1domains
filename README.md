@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  5 03:40:56 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan  5 04:30:44 UTC 2026)
 ```
 xn--porsche-nrnberg-7vb.de
 datapod-1-ingest.production.forescoutcloud.net
