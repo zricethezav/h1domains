@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  6 04:24:50 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan  6 05:10:55 UTC 2026)
 ```
 porschetravels.com
 www.lastminute.co.nz
