@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  6 11:08:46 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan  6 12:12:15 UTC 2026)
 ```
 porsche-hamburgnordwest.de
 rei.com
