@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  6 18:11:54 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan  6 19:06:52 UTC 2026)
 ```
 biolibre.ar
 login.tvg.com
