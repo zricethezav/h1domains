@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  7 15:13:46 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan  7 16:10:54 UTC 2026)
 ```
 js.stripe.com
 meliplay.com.pe
