@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  9 20:12:18 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan  9 21:08:27 UTC 2026)
 ```
 https://launchdarkly.com/docs
 *.skypoker.com
