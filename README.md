@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  9 04:25:54 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan  9 05:10:56 UTC 2026)
 ```
 launchpad.37signals.com
 www.visa.co.uk
