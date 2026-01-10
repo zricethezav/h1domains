@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 10 08:12:11 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 10 09:07:41 UTC 2026)
 ```
 portal.polygon.technology
 www.mozilla.org
