@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 10 18:12:37 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 10 19:06:25 UTC 2026)
 ```
 book.applevacations.com
 https://ebctest.cybersource.com/merchantvelocity
