@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 10 23:10:23 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 00:33:19 UTC 2026)
 ```
 https://gcsm.oppoit.com/
 mobileapi.lystit.com
