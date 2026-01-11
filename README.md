@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 11 14:10:17 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 15:07:40 UTC 2026)
 ```
 https://leaflet-map.bykea.net
 *.highwebmedia.com
