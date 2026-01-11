@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 11 02:52:24 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 03:37:55 UTC 2026)
 ```
 https://www.priceline.com/pwd/v0/pcln-graphql/
 crash-stats.allizom.org
