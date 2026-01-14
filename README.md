@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 14 20:10:33 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 14 21:08:33 UTC 2026)
 ```
 www.practicalmoneyskills.com
 klarna.com
