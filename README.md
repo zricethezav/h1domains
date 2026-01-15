@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 15 13:29:37 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan 15 14:11:16 UTC 2026)
 ```
 meliplay.com.uy
 wallet.etoro.com
