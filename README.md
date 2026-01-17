@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 17 18:12:48 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 17 19:06:29 UTC 2026)
 ```
 *.prod.ftl.netflix.com
 stats.gleague.nba.com
