@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 18 19:09:14 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 18 20:08:26 UTC 2026)
 ```
 arrive-server.shopifycloud.com
 https://bugbounty-ctf.1password.com/
