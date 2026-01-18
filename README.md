@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 18 16:11:11 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 18 17:06:53 UTC 2026)
 ```
 content-api-sandbox.nba.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
