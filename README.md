@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 19 01:40:15 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 19 02:51:00 UTC 2026)
 ```
 sandbox.secure.checkout.visa.com
 *.api.cx.metamask.io
