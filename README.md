@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 20 05:17:20 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 20 06:12:35 UTC 2026)
 ```
 secure.newegg.ca
 www.xnxx.com
