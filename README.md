@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 20 00:30:49 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 20 01:36:52 UTC 2026)
 ```
 console.circle.com
 prod.ros.rockstargames.com
