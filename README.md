@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 21 02:49:33 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 21 03:37:14 UTC 2026)
 ```
 *.services.netlify.com
 mercury.wnba.com
