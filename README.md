@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 21 22:12:20 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 21 23:09:30 UTC 2026)
 ```
 contributor.stock.adobe.com
 *.tiktokcdn.com
