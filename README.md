@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 23 01:41:05 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 23 02:45:59 UTC 2026)
 ```
 www.pornbox.com
 *.amazon.eg
