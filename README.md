@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 24 05:12:08 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 24 06:09:55 UTC 2026)
 ```
 scan.snapchat.com
 https://www.visa.com.az/az_az/account/registration
