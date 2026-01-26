@@ -33,14 +33,14 @@ pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
-circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/aptos-cctp,True
+circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
-chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chiapos,True
+chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
@@ -120,6 +120,8 @@ kubernetes,https://github.com/kubernetes/kubernetes-anywhere,False
 kubernetes,https://github.com/kubernetes/dashboard,True
 kubernetes,https://github.com/kubernetes/org,True
 kubernetes,https://github.com/kubernetes/cli-runtime,True
+kubernetes,https://github.com/kubernetes-retired,False
+kubernetes,https://github.com/kubernetes/api,True
 kubernetes,https://github.com/kubernetes/autoscaler,True
 kubernetes,https://github.com/kubernetes/client-go,True
 kubernetes,https://github.com/kubernetes/dns,True
@@ -129,7 +131,6 @@ kubernetes,https://github.com/kubernetes/kube-controller-manager,True
 kubernetes,https://github.com/kubernetes/kubelet,True
 kubernetes,https://github.com/kubernetes/apiextensions-apiserver,True
 kubernetes,https://github.com/kubernetes/apiserver,True
-kubernetes,https://github.com/kubernetes/api,True
 kubernetes,https://github.com/kubernetes/apimachinery,True
 kubernetes,https://github.com/kubernetes/publishing-bot,True
 kubernetes,https://github.com/kubernetes/cluster-registry,True
@@ -150,7 +151,6 @@ kubernetes,https://github.com/kubernetes/kubeadm,True
 kubernetes,https://github.com/kubernetes/cloud-provider,True
 kubernetes,https://github.com/kubernetes-client,True
 kubernetes,https://github.com/kubernetes-csi,True
-kubernetes,https://github.com/kubernetes-retired,False
 kubernetes,https://github.com/kubernetes-sigs,False
 pixiv,https://github.com/pixiv/charcoal,True
 solidus,https://github.com/solidusio/solidus_auth_devise,False
@@ -191,8 +191,8 @@ bitwarden,https://github.com/bitwarden,False
 weblate,https://github.com/WeblateOrg/translation-finder,False
 weblate,https://github.com/WeblateOrg/docker,False
 weblate,https://github.com/WeblateOrg/website,False
-weblate,https://github.com/WeblateOrg/weblate,False
 weblate,https://github.com/WeblateOrg/wlc,False
+weblate,https://github.com/WeblateOrg/weblate,False
 wordpress,https://github.com/ github.com/WordPress,True
 discourse,https://github.com/discourse/discourse,True
 brave,https://github.com/brave-intl/bat-publisher,True
@@ -270,13 +270,13 @@ nextcloud,https://github.com/nextcloud/files_confidential,True
 nextcloud,https://github.com/nextcloud/tables,True
 nextcloud,https://github.com/nextcloud/collectives,True
 nextcloud,https://github.com/roundcube/roundcubemail,False
-mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://www.mapbox.com/mapbox-gl-js/,True
+mapbox,https://docs.mapbox.com/ios/maps/overview/,True
 mapbox,https://docs.mapbox.com/android/,True
 mapbox,https://github.com/mapbox,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
-gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitaly,True
+gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
