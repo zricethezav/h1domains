@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 26 12:17:04 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 26 13:24:12 UTC 2026)
 ```
 https://vroid.com/studio
 wings-dev.wnba.com
