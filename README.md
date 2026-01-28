@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 28 13:27:28 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 28 14:14:18 UTC 2026)
 ```
 api.larksuite.com
 *.scatec.io
