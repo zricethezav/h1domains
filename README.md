@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 28 05:16:17 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 28 06:12:00 UTC 2026)
 ```
 rewire.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
