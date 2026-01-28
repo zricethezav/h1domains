@@ -3,11 +3,11 @@ dailypay_vdp,https://github.com/dailypay/*,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/lightspark-crypto-uniffi,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
 privy-bbp,https://www.npmjs.com/package/@privy-io/react-auth,True
@@ -39,9 +39,9 @@ circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
-chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 chia_network,https://github.com/Chia-Network/chiapos,True
+chia_network,https://github.com/Chia-Network/chia_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 zabbix,https://www.zabbix.com/download_sources,True
@@ -74,10 +74,10 @@ ibb,https://github.com/apache/airflow,True
 fastify,https://github.com/fastify,False
 openmage,https://github.com/OpenMage/magento-lts,False
 who-covid-19-mobile-app,https://github.com/WorldHealthOrganization/app,False
-polygon-technology,https://github.com/0xPolygon/lxly.js,True
-polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/ https://github.com/0xPolygon/proof-generation-api,True
 polygon-technology,https://github.com/0xPolygon/static,True
+polygon-technology,https://github.com/0xPolygon/lxly.js,True
+polygon-technology,https://github.com/0xPolygon/auto-claim-service,True
 polygon-technology,https://github.com/0xPolygon/chain-indexer-framework ,True
 kubernetes,https://github.com/kubernetes/csi-api,True
 kubernetes,https://github.com/kubernetes/cloud-provider-alibaba-cloud,False
@@ -164,10 +164,10 @@ pyca,https://github.com/pyca/bcrypt,False
 pyca,https://github.com/pyca/pyopenssl,False
 pyca,https://github.com/pyca/infra,False
 pyca,https://github.com/pyca/cryptography,False
-matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/innocraft/,True
-matomo,https://plugins.matomo.org/developer/matomo-org,True
+matomo,https://plugins.matomo.org/developer/innocraft,True
 matomo,https://github.com/matomo-org,True
+matomo,https://plugins.matomo.org/developer/matomo-org,True
 matomo,https://github.com/matomo-org/matomo,True
 duckduckgo,https://github.com/duckduckgo/duckduckgo-privacy-extension,False
 airtable,https://github.com/airtable.js SDK (https://www.npmjs.com/package/airtable),True
@@ -198,9 +198,9 @@ discourse,https://github.com/discourse/discourse,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
 brave,https://github.com/brave-intl/bat-client,True
-brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave/vault-updater,True
+brave,https://github.com/brave/brave-core,True
 brave,https://github.com/brave/*,True
 brave,https://github.com/ https://github.com/brave-intl/*,True
 brave,https://github.com/brave-intl/bat-go,True
@@ -278,8 +278,8 @@ gitlab,https://gitlab.com/gitlab-org/gitlab-vscode-extension,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-pages,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-shell,True
 gitlab,https://gitlab.com/gitlab-org/opstrace/opstrace,True
-gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab-runner,True
+gitlab,https://gitlab.com/gitlab-org/gitaly,True
 gitlab,https://gitlab.com/gitlab-org/gitlab,True
 deriv,https://github.com/binary-com,True
 revive_adserver,https://github.com/revive-adserver/revive-adserver,False
