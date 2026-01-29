@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 29 03:53:44 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan 29 04:37:00 UTC 2026)
 ```
 https://napoleondice.be
 scrutiny.swiftfinancial.com
