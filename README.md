@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 30 13:31:14 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 30 14:17:01 UTC 2026)
 ```
 judge.me
 outlook.insightly.com
