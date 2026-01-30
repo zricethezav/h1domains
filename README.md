@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 30 16:21:59 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 30 17:16:53 UTC 2026)
 ```
 https://launchdarkly.com/docs
 ballistic.com
