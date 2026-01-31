@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 31 09:14:09 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 31 10:08:44 UTC 2026)
 ```
 *.sip.*.twilio.com
 em4296.team.bitstamp.net
