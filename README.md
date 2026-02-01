@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  1 12:16:30 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb  1 13:21:58 UTC 2026)
 ```
 sso.oft.hyatt.com
 metasearch-api.booking.com
