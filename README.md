@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  1 22:11:37 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb  1 23:09:35 UTC 2026)
 ```
 www.dyson.de
 contentportalauth.marriott.com
