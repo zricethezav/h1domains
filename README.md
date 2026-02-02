@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  2 11:23:04 UTC 2026)
+## Domains with Bounties (Last Updated Mon Feb  2 12:17:32 UTC 2026)
 ```
 new.www.vaxvacationaccess.com
 mcd-dev.nba.com
