@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  3 01:42:13 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb  3 03:05:02 UTC 2026)
 ```
 firefox.settings.services.mozilla.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bydst/details
