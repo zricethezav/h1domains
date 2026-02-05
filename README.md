@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  5 01:42:22 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb  5 03:05:11 UTC 2026)
 ```
 plannerrequest.hyatt.com
 http://ims-na1.adobelogin.com
