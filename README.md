@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  5 15:22:44 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb  5 16:21:59 UTC 2026)
 ```
 cruises.priceline.com
 api-eu.floqast.app
