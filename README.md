@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  8 14:15:20 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb  8 15:09:34 UTC 2026)
 ```
 invisionu.education
 res.funjet.com
