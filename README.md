@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  8 06:25:29 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb  8 07:19:45 UTC 2026)
 ```
 auroratechaward.com
 http://api.na1.insightly.com/v3.1/
