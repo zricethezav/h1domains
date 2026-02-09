@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  9 06:33:31 UTC 2026)
+## Domains with Bounties (Last Updated Mon Feb  9 07:29:49 UTC 2026)
 ```
 https://luna.amazon.com/*
 portalinmobiliario.com
