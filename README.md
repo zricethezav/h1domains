@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 10 10:27:09 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb 10 11:23:49 UTC 2026)
 ```
 staging.magisto.com
 www.ebookers.fi
