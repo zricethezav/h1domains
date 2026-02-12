@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 12 14:29:02 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 12 15:22:35 UTC 2026)
 ```
 *.paypalcorp.com
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
