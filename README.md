@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 12 23:12:10 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 13 00:37:00 UTC 2026)
 ```
 ai.portswigger.net
 www.kayak.com
