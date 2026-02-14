@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 14 15:12:20 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 14 16:11:23 UTC 2026)
 ```
 deeplinks.geneva-staging.chat
 *.spotify.net
