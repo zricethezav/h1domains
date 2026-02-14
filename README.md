@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 13 23:16:42 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 14 00:33:54 UTC 2026)
 ```
 admin.wickr.com
 payroll.razorpay.com
