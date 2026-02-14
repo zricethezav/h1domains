@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 14 17:10:45 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 14 18:11:25 UTC 2026)
 ```
 gift.starbucks.co.jp
 api.vault.chiatest.net
