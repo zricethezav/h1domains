@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 15 07:23:21 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 15 08:14:11 UTC 2026)
 ```
 *.easy.ac
 wechat.api.marriott.com
