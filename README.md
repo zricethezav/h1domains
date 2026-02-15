@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 15 11:12:00 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 15 12:14:44 UTC 2026)
 ```
 account.ui.com
 pastela.app
