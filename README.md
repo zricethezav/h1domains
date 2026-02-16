@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 16 04:46:58 UTC 2026)
+## Domains with Bounties (Last Updated Mon Feb 16 05:35:46 UTC 2026)
 ```
 decision.swiftfinancial.com
 www.mercadolivre.com
