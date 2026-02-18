@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 17 23:10:58 UTC 2026)
+## Domains with Bounties (Last Updated Wed Feb 18 00:37:04 UTC 2026)
 ```
 cargo.indrive.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
