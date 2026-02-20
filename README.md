@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 19 23:15:53 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 00:31:58 UTC 2026)
 ```
 *.sketchfab.com
 https://www.oppo.com/th
