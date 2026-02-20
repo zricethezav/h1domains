@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 20 09:21:51 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 10:16:52 UTC 2026)
 ```
 *.elastic.co
 portswigger.net
