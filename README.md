@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 21 13:24:19 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 21 14:10:15 UTC 2026)
 ```
 *.audible.(TLD)
 gateway.reddit.com
