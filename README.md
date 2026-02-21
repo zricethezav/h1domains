@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 21 09:14:15 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 21 10:08:45 UTC 2026)
 ```
 konghq.com
 ci-propertyconversionportal.marriott.com
