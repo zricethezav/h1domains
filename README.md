@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 22 21:12:00 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 22 22:09:38 UTC 2026)
 ```
 harmonixmusic.com
 ir.remitly.com
