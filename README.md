@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 23 05:38:17 UTC 2026)
+## Domains with Bounties (Last Updated Mon Feb 23 06:31:11 UTC 2026)
 ```
 portfolio.metamask.io
 *.semrush.net
