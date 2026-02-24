@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 23 23:20:34 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb 24 00:31:56 UTC 2026)
 ```
 *.coinbase.com
 cdn.plaid.com
