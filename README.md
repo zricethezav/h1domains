@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 25 04:41:50 UTC 2026)
+## Domains with Bounties (Last Updated Wed Feb 25 05:34:02 UTC 2026)
 ```
 www.mercadolibre.com.py
 https://sdk-h1.unico.io/createprocess
