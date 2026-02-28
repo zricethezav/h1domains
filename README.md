@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 28 15:07:57 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 28 16:11:11 UTC 2026)
 ```
 metamask.io
 *.paypalcorp.com
