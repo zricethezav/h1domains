@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 28 01:40:46 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 28 02:53:37 UTC 2026)
 ```
 download.krisp.ai
 https://console.neon.tech/api/v2/
