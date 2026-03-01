@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  1 03:11:49 UTC 2026)
+## Domains with Bounties (Last Updated Sun Mar  1 04:44:22 UTC 2026)
 ```
 store.steampowered.com
 app.geneva-staging.chat
