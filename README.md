@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  4 03:57:27 UTC 2026)
+## Domains with Bounties (Last Updated Wed Mar  4 04:37:07 UTC 2026)
 ```
 *.prod.cloud.netflix.com
 strapi.reddit.com
