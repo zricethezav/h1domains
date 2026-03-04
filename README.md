@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  4 06:22:22 UTC 2026)
+## Domains with Bounties (Last Updated Wed Mar  4 07:20:55 UTC 2026)
 ```
 *.hmxwebservices.com
 insight2.tradepmr.com
