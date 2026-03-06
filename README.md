@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  6 00:37:57 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar  6 01:41:16 UTC 2026)
 ```
 site.rewire.com
 distribution-xml.booking.com
