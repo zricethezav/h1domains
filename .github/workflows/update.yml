@@ -2,7 +2,7 @@ name: update
 on: 
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # run once an hour
+    - cron: "0 0 * * *" # once a day
 jobs:
   auto-update:
     runs-on: ubuntu-latest
