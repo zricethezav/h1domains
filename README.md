@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  6 00:43:05 UTC 2026)
+## Domains with Bounties (Last Updated Tue Apr  7 00:39:14 UTC 2026)
 ```
 *.dancecentral.com
 soaext.oft.hyatt.com
