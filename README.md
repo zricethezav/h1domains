@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 11 00:36:48 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 12 00:41:38 UTC 2026)
 ```
 app3.rewire.to
 https://leaflet-map.bykea.net
