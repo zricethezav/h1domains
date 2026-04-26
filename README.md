@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 25 00:44:24 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 26 00:45:04 UTC 2026)
 ```
 *.psynet.gg
 staging.magisto.com
