@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 29 01:01:01 UTC 2026)
+## Domains with Bounties (Last Updated Sat May 30 00:56:32 UTC 2026)
 ```
 remitly.co.uk
 gamma.grab.co
