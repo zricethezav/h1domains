@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  2 01:04:35 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jun  3 01:06:53 UTC 2026)
 ```
 hc2tooling.com
 www.cheapcaribbean.com
