@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  8 01:01:29 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jun  9 00:54:25 UTC 2026)
 ```
 hc2tooling.com
 www.amazon.com/photos/*
