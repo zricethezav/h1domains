@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 15 01:08:14 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jun 16 01:09:38 UTC 2026)
 ```
 mcdalerts-devint.nba.com
 https://www.oppo.com/my/store
