@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  2 00:59:10 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jul  3 03:19:23 UTC 2026)
 ```
 www.firefox.com
 stats-trafficcop-aws-prod.nba.com
