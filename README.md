@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 25 02:43:20 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jul 26 02:48:44 UTC 2026)
 ```
 *.staging.airtable.com
 meliplay.com.ar
