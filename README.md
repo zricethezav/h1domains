@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 15 01:17:08 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug 16 01:18:51 UTC 2026)
 ```
 cdn-qa.gleague.nba.com
 streaming.iris.production.forescoutcloud.net
