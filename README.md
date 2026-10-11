@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 10 04:41:14 UTC 2026)
+## Domains with Bounties (Last Updated Sun Oct 11 04:23:49 UTC 2026)
 ```
 api.pro.faraday.ai
 *.playstation.net
