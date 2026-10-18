@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 17 03:15:50 UTC 2026)
+## Domains with Bounties (Last Updated Sun Oct 18 03:20:30 UTC 2026)
 ```
 https://zhongbao-ear.heytap.com/
 www.dyson.co.jp
