@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 21 03:34:50 UTC 2026)
+## Domains with Bounties (Last Updated Thu Oct 22 03:35:06 UTC 2026)
 ```
 tomoe.bykea.net
 hollisterco.com
