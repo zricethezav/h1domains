@@ -1,0 +1,65 @@
+name: HackerOne Program Monitor
+
+on:
+  schedule:
+    # Runs every day at 10:00 UTC
+    - cron: '0 10 * * *'
+  workflow_dispatch: # allows manual run
+
+jobs:
+  check_h1:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+
+      - name: Build h1domains
+        run: |
+          go build -o h1domains main.go
+
+      - name: Fetch current programs
+        run: |
+          ./h1domains > current_programs.txt
+
+      - name: Compare with previous programs
+        id: compare
+        run: |
+          if [ ! -f old_programs.txt ]; then
+            cp current_programs.txt old_programs.txt
+            echo "first_run=true" >> $GITHUB_OUTPUT
+          else
+            comm -13 <(sort old_programs.txt) <(sort current_programs.txt) > new_programs.txt
+            echo "first_run=false" >> $GITHUB_OUTPUT
+            NEW_COUNT=$(wc -l < new_programs.txt)
+            echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send Discord notification if new programs
+        if: steps.compare.outputs.first_run == 'false' && steps.compare.outputs.new_count != '0'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          MESSAGE="🚨 New HackerOne Programs Detected:\n"
+          while read line; do
+            MESSAGE+="$line\n"
+          done < new_programs.txt
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\":\"$MESSAGE\"}" \
+               $DISCORD_WEBHOOK
+
+      - name: Update old programs
+        if: steps.compare.outputs.first_run == 'false'
+        run: |
+          cp current_programs.txt old_programs.txt
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add old_programs.txt
+          git commit -m "Update old_programs.txt"
+          git push
